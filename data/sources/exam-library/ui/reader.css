@@ -50,10 +50,14 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
 .exam-reader.reader-reflow>main h2{font-size:1.12em;line-height:1.6;margin:1.8em 0 .8em;color:#273e53}
 .exam-reader.reader-reflow>main h2:first-child{margin-top:.4em}
 .exam-reader.reader-reflow>main .paragraph{text-align:justify;text-align-last:left;overflow-wrap:break-word}
+.exam-reader.reader-reflow>main .reader-answer-sheet-note{display:block;margin:.1em 0 1.2em;text-align:left}
+.exam-reader.reader-reflow>main .reader-listening-question{display:grid;grid-template-columns:2.3em minmax(0,1fr);align-items:start;column-gap:.45em;margin:1.4em 0 .8em}
+.exam-reader.reader-reflow>main .reader-listening-question>.question{margin:0;line-height:1.9}
+.exam-reader.reader-reflow>main .reader-listening-question>.options{margin:0}
 .exam-reader.reader-reflow>main .options,.exam-reader.reader-reflow>main .options li,.exam-reader.reader-reflow>main .option-text,.exam-reader.reader-reflow>main .choice,.exam-reader.reader-reflow>main .choice-item,.exam-reader.reader-reflow>main .choices{text-align:left;text-align-last:left;word-spacing:normal}
 .exam-reader.reader-reflow>main .blank{text-align:center;text-align-last:center;word-spacing:normal;white-space:nowrap}
 .exam-reader.reader-reflow>main figcaption{text-align:center}
-.exam-reader.reader-reflow>main figure > img.reader-figure-image{display:block;max-width:min(100%,700px);max-height:560px;height:auto;object-fit:contain;margin-inline:auto}
+.exam-reader.reader-reflow>main figure > img.reader-figure-image{display:block;max-width:min(100%,600px);max-height:560px;height:auto;object-fit:contain;margin-inline:auto}
 .exam-reader.reader-reflow>main figure.reader-sized-figure > img.reader-figure-image{width:min(100%,var(--reader-figure-width))}
 .exam-reader.reader-reflow>main img.reader-redraw-image[hidden],.exam-reader.reader-reflow>main img[data-reader-redraw-applied="1"][hidden]{display:none!important}
 .exam-reader.reader-reflow>main .reader-redraw-control{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:4px;margin:8px auto 0;color:var(--ui-muted);font:12px/1.5 var(--ui-font);text-align:center}

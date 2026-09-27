@@ -4,7 +4,7 @@
   "private": true,
   "description": "Offline original and reflow exam readers",
   "scripts": {
-    "test": "node data/sources/exam-library/ui/test_catalog.cjs && node data/sources/exam-library/ui/reader.test.cjs && node data/sources/exam-library/ui/image-review.test.cjs"
+    "test": "node data/sources/exam-library/ui/test_catalog.cjs && node data/sources/exam-library/ui/reader.test.cjs && node data/sources/exam-library/ui/image-review.test.cjs && node data/sources/exam-library/ui/crop-review.test.cjs"
   },
   "devDependencies": {
     "jsdom": "29.1.1"

@@ -88,6 +88,48 @@ def restore_cet6_2014_12_03_page_one(blocks):
     writing['runs'][-1]['text']+=' 200 words.'
     figure['bbox']=[64,161,371,461]
 
+# Crops verified against the source PDFs. Keep these corrections in the
+# generator so a later rebuild does not recreate clipped artwork or text.
+FIGURE_CROP_REPAIRS = {
+    ('cet4', '2015-06-01', 1, 3): ([175.56, 130.08, 358.68, 256.08], [175.56, 130.08, 358.68, 251.9]),
+    ('cet4', '2015-06-03', 1, 3): ([219.54, 119.46, 385.38, 256.98], [219.54, 119.46, 385.38, 252.8]),
+    ('cet6', '2015-12-01', 1, 3): ([20.94, 114.245, 350.46, 247.02], [157.26, 129.7, 350.46, 247.02]),
+    ('cet6', '2015-12-02', 1, 3): ([23.22, 96.621, 346.26, 262.08], [163.14, 109.7, 346.26, 259.1]),
+    ('cet6', '2015-12-03', 1, 3): ([201.72, 109.5, 381, 244.62], [201.72, 112.5, 381, 244.0]),
+    ('cet6', '2021-06-01', 1, 3): ([141.909, 207.646, 488.429, 435.656], [141.909, 191.8, 488.429, 435.656]),
+    ('cet6', '2021-06-03', 1, 3): ([175.757, 207.181, 432.334, 352.087], [175.757, 207.181, 432.334, 350.9]),
+    ('kaoyan', '2022-02', 14, 6): ([147.1, 228.014, 395.4, 395.917], [147.1, 228.014, 451, 395.917]),
+    ('kaoyan', '2023-02', 14, 6): ([124.92, 198.417, 471.48, 373.354], [124.92, 198.417, 471.48, 386]),
+    ('kaoyan', '2024-01', 14, 13): ([91.92, 529.8, 283.32, 734.4], [91.92, 529.8, 472, 734.4]),
+}
+
+def repair_figure_crops(category, stem, page_number, blocks):
+    for (paper_category, paper_stem, pn, index), (old, new) in FIGURE_CROP_REPAIRS.items():
+        if (paper_category, paper_stem, pn) != (category, stem, page_number):
+            continue
+        figure = blocks[index]
+        assert figure['type'] == 'figure' and all(abs(a-b) < .15 for a, b in zip(figure['bbox'], old))
+        figure['bbox'] = new
+    if (category, stem, page_number) == ('cet6', '2015-12-01', 1):
+        assert ''.join(r['text'] for r in blocks[2]['runs']).endswith('at least 150')
+        blocks[2]['runs'][-1]['text'] += ' words but no more than 200 words.'
+    elif (category, stem, page_number) == ('cet6', '2015-12-02', 1):
+        assert ''.join(r['text'] for r in blocks[2]['runs']).endswith('at least')
+        blocks[2]['runs'][-1]['text'] += ' 150 words but no more than 200 words.'
+    elif (category, stem, page_number) == ('kaoyan', '2022-02', 14):
+        assert blocks[7]['type'] == 'paragraph' and plain_text(blocks[7]) == '总体农村'
+        blocks.pop(7)  # The legend is now inside the complete chart crop.
+    elif (category, stem, page_number) == ('kaoyan', '2023-02', 14):
+        assert blocks[7]['type'] == 'paragraph' and plain_text(blocks[7]).startswith('2012 2013 2014')
+        blocks.pop(7)  # The year labels are now inside the complete chart crop.
+    elif (category, stem, page_number) == ('kaoyan', '2024-01', 14):
+        assert [b['type'] for b in blocks[14:17]] == ['paragraph'] * 3
+        assert plain_text(blocks[14]).startswith('某市近三年公园数量')
+        del blocks[14:17]  # The second chart panel and its labels are now in the crop.
+
+def plain_text(block):
+    return ''.join(run['text'] for run in block.get('runs', []))
+
 def make_paper(entry):
     src=source_pdf(entry);assert sha(src)==entry['source_pdf_sha256']
     category=entry['category'];stem=Path(entry['file']).stem
@@ -106,6 +148,7 @@ def make_paper(entry):
             restore_cet6_2014_12_01_page_one(data['blocks'])
         if category=='cet6' and stem=='2014-12-03' and pn==1:
             restore_cet6_2014_12_03_page_one(data['blocks'])
+        repair_figure_crops(category, stem, pn, data['blocks'])
         rendered=[];textblocks=[];pageglyph=0
         note_pending=any(b['type']=='source_line' for b in data['blocks'])
         plain_text_end=''.join(r['text'] for r in pages[-1]['blocks'][-1].get('runs',[])).rstrip() if pages and pages[-1]['blocks'] else ''

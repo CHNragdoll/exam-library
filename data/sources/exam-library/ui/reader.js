@@ -40,6 +40,28 @@
     width: [760, 920, 1120].includes(Number(rawSettings?.width)) ? Number(rawSettings.width) : 920,
     svgZoom: ['fit', '100', '125', '150'].includes(rawSettings?.svgZoom) ? rawSettings.svgZoom : 'fit'
   };
+  const normalizeEnglishLayout = () => {
+    if (isSvg || !['cet4', 'cet6', 'tem4', 'tem8'].includes(config.category)) return;
+    for (const paragraph of main.querySelectorAll('p.paragraph')) {
+      const last = paragraph.lastChild;
+      if (!last || last.nodeType !== Node.TEXT_NODE) continue;
+      const match = last.textContent.match(/\s*注意[：:]\s*此部分试题请在答题卡\s*[12]\s*上作答。\s*$/);
+      if (!match || !paragraph.textContent.slice(0, -match[0].length).trim()) continue;
+      const noteText = last.splitText(match.index);
+      const note = document.createElement('p');
+      note.className = 'reader-answer-sheet-note';
+      note.append(noteText);
+      paragraph.after(note);
+    }
+    for (const number of main.querySelectorAll('p.question')) {
+      const options = number.nextElementSibling;
+      if (!/^\s*\d+[.．]\s*$/.test(number.textContent) || !options?.matches('ul.options')) continue;
+      const row = document.createElement('div');
+      row.className = 'reader-listening-question';
+      number.before(row);
+      row.append(number, options);
+    }
+  };
   const sizeFigures = () => {
     if (isSvg) return;
     for (const image of main.querySelectorAll('figure > img[src]')) {
@@ -50,9 +72,12 @@
       const setWidth = () => {
         const width = image.naturalWidth, height = image.naturalHeight;
         if (!width || !height) return;
-        // Use the original asset's proportions for both views. Short diagrams
-        // become readable, while wide or tall scans stay within the page.
-        const target = Math.round(Math.min(700, Math.max(240, width * 1.45), 560 * width / height));
+        // Normalize standalone diagrams by readable on-page size, not just
+        // their source pixel count. Tiny source figures can be vectors too.
+        // Keep the original and its redraw at the same width when toggled.
+        const isVector = /\.svg(?:[?#]|$)/i.test(image.src);
+        const readableFloor = isVector ? 280 : width * height >= 20000 ? 360 : 240;
+        const target = Math.round(Math.min(600, Math.max(readableFloor, width * 1.5), 560 * width / height));
         figure.style.setProperty('--reader-figure-width', `${target}px`);
         figure.classList.add('reader-sized-figure');
       };
@@ -133,6 +158,7 @@
       }
     }
   };
+  normalizeEnglishLayout();
   sizeFigures();
   applyImageRedraws();
   // Embedded readers contain exam material only: no nested toolbar, history writes,

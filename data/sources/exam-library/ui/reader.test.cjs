@@ -8,6 +8,7 @@ const script = fs.readFileSync(path.join(__dirname, 'reader.js'), 'utf8');
 const readerCss = fs.readFileSync(path.join(__dirname, 'reader.css'), 'utf8');
 const files = [
  ['english-exams-reflow-latex/kaoyan/papers/2014-01.htm','reflow'],
+ ['english-exams-reflow-latex/cet6/papers/2015-12-01.htm','reflow'],
  ['math3-latex-2009-2019/papers/2019-answers.htm','reflow'],
  ['politics-answers-latex-2009-2023/papers/2019-answers.htm','reflow'],
  ['cs408-original/papers/2023-questions.htm','svg']
@@ -25,11 +26,18 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  m.getBoundingClientRect=()=>({top:200-scroll,height:10000});
  d.querySelectorAll('#exam-reader-config').forEach(n=>n.remove());
  const c=d.createElement('script');c.id='exam-reader-config';c.type='application/json';
- c.textContent=JSON.stringify({title:'试卷测试',category:'kaoyan',categoryLabel:'考研英语',mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm'});
+ c.textContent=JSON.stringify({title:'试卷测试',category:relative.includes('/cet6/')?'cet6':'kaoyan',categoryLabel:'考研英语',mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm'});
  d.body.append(c);
  const textBefore=m.textContent, formula=d.querySelector('[data-toggle-source]'), svgCount=m.querySelectorAll('svg').length, imageCount=m.querySelectorAll('img').length;
  w.eval(script);w.dispatchEvent(new w.Event('load'));await wait(20);
  assert.equal(m.textContent,textBefore,'exam text unchanged');assert.equal(m.querySelectorAll('svg').length,svgCount,'formulas unchanged');assert.equal(m.querySelectorAll('img').length,imageCount,'figures unchanged');
+ if(relative.includes('cet6/papers/2015-12-01.htm')) {
+  const note=m.querySelector('.reader-answer-sheet-note');
+  assert(note && note.textContent.includes('答题卡1'),'answer-sheet note starts its own paragraph');
+  assert(!note.previousElementSibling.textContent.includes('注意：'),'note no longer trails directions');
+  const first=[...m.querySelectorAll('.reader-listening-question')].find(row=>row.querySelector('.question')?.textContent.trim()==='1.');
+  assert(first && first.querySelector('ul.options'),'bare listening number shares a row with A/B options');
+ }
  assert.equal(d.querySelector('[data-toggle-source]'),formula,'original formula control retained');
  if(embedded) {
   assert(d.body.classList.contains('reader-embed'));assert.equal(d.querySelectorAll('.reader-toolbar').length,0);assert.equal(d.querySelectorAll('iframe').length,0);
@@ -72,7 +80,7 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  if(!denied){const records=JSON.parse(map.get('exam-library:recent:v1'));assert.equal(records[0].url,url);assert(records[0].progress>=0&&records[0].progress<=1);assert.equal(records.filter(x=>x.url===url).length,1);assert.equal(typeof records[0].updatedAt,'number');}
  dom.window.close();return relative;
 }
-function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], expectedWidth='240px', delayedSize=false}={}) {
+function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], expectedWidth='280px', delayedSize=false}={}) {
  const file=path.join(base,files[0][0]);
  const url=new URL(`file://${file}`).href;
  const dom=new JSDOM(fs.readFileSync(file,'utf8'),{url:url+(embedded?'?exam-embed=1':''),runScripts:'outside-only',pretendToBeVisual:true});
@@ -116,7 +124,7 @@ function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], ex
   assert(image.parentElement.classList.contains('reader-sized-figure'));
   assert(image.classList.contains('reader-figure-image'));
   assert(redraw.classList.contains('reader-figure-image'),'redraw shares source sizing rule');
-  assert.equal(nearFigure.style.getPropertyValue('--reader-figure-width'),'435px','unmapped figure is normalized');
+  assert.equal(nearFigure.style.getPropertyValue('--reader-figure-width'),'450px','unmapped figure is normalized');
   assert(!glyph.classList.contains('reader-figure-image'),'fallback glyph stays untouched');
   assert(!glyphFigure.classList.contains('reader-sized-figure'));
   assert.equal(glyphFigure.querySelectorAll('.reader-redraw-control').length,0,'fallback glyph is never replaced');
@@ -161,13 +169,14 @@ function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], ex
  console.log('PASS no implicit resume',await fixture(files[0][0],'reflow',{previous:true}));
  console.log('PASS reject unsafe URL',await fixture(files[0][0],'reflow',{badUrl:true}));
  console.log('PASS compare from reflow',await fixture(files[0][0],'reflow',{compare:true}));
- console.log('PASS compare from SVG',await fixture(files[3][0],'svg',{compare:true}));
+ console.log('PASS compare from SVG',await fixture(files[4][0],'svg',{compare:true}));
  console.log('PASS compare without storage',await fixture(files[0][0],'reflow',{compare:true,denied:true}));
  console.log('PASS embedded reflow no recursion',await fixture(files[0][0],'reflow',{embedded:true}));
- console.log('PASS embedded SVG no recursion',await fixture(files[3][0],'svg',{embedded:true}));
+ console.log('PASS embedded SVG no recursion',await fixture(files[4][0],'svg',{embedded:true}));
  redrawFixture();console.log('PASS redraw switching and error fallback');
  redrawFixture({embedded:true});console.log('PASS embedded redraw');
  redrawFixture({mode:'svg'});console.log('PASS SVG original unaffected');
- redrawFixture({originalSize:[900,400],expectedWidth:'700px'});console.log('PASS wide figure cap');
+ redrawFixture({originalSize:[900,400],expectedWidth:'600px'});console.log('PASS wide figure cap');
+ redrawFixture({originalSize:[78,80],expectedWidth:'280px'});console.log('PASS small SVG diagram legibility');
  redrawFixture({originalSize:[90,400],expectedWidth:'126px',delayedSize:true});console.log('PASS tall figure cap and delayed source load');
 })().catch(error=>{console.error(error);process.exitCode=1});

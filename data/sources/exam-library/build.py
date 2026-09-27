@@ -65,7 +65,7 @@ def render(docs,all_docs,page,active='',mode=''):
     for code,label,*_ in CATEGORIES:
         nav+='<a class="subject-link" href="'+e(link(ROOT/code/'index.htm',page))+'"'+(' aria-current="page"' if active==code else '')+'><span>'+label+'</span><span>'+str(counts[code])+'</span></a>'
     header='<a class="skip-link" href="#catalog-main">跳到资料列表</a><header class="site-header"><a class="brand" href="'+e(link(ROOT/'index.htm',page))+'"><span class="brand-mark" aria-hidden="true">卷</span><span>考研真题大全<small>本地学习资料库</small></span></a><span class="offline-label"><span aria-hidden="true">●</span> 离线可读</span></header>'
-    aside='<aside class="sidebar"><p class="nav-label">资料分类</p><nav aria-label="资料分类">'+nav+'</nav><div class="sidebar-note"><strong>选择适合的阅读方式</strong><p>SVG 原版保留卷面排版。<br>LaTeX 重排随窗口宽度换行。</p><a href="'+e(link(ROOT/'image-review.htm',page))+'">插图重绘对照审计 →</a></div></aside>'
+    aside='<aside class="sidebar"><p class="nav-label">资料分类</p><nav aria-label="资料分类">'+nav+'</nav><div class="sidebar-note"><strong>选择适合的阅读方式</strong><p>SVG 原版保留卷面排版。<br>LaTeX 重排随窗口宽度换行。</p><a href="'+e(link(ROOT/'image-review.htm',page))+'">插图重绘对照审计 →</a><a href="'+e(link(ROOT/'crop-review.htm',page))+'">原图裁框位置审查 →</a></div></aside>'
     heading='<div class="page-heading"><div><p class="eyebrow">'+('按科目查阅' if active else '你的备考书架')+'</p><h1>'+e(title)+'</h1><p>'+str(len(docs))+' 份资料 · '+str(min(years))+'—'+str(max(years))+' 年 · 两种阅读版本</p></div></div>'
     recent='<section class="recent-panel" aria-labelledby="recent-title"><div class="section-line"><h2 id="recent-title">继续阅读</h2><button type="button" id="clear-recent" class="text-button" hidden>清除记录</button></div><p id="recent-empty" class="subtle">读过的试卷会显示在这里，方便接着读。</p><div id="recent-list" class="recent-list"></div></section>'
     subject='<label>科目<select id="filter-category" name="category"><option value="">全部科目</option>'+''.join('<option value="'+c+'">'+e(n)+'</option>' for c,n,*_ in CATEGORIES)+'</select></label>' if not active else ''
@@ -75,6 +75,8 @@ def render(docs,all_docs,page,active='',mode=''):
     body=header+'<div class="app-shell">'+aside+'<main id="catalog-main" data-active-category="'+e(active)+'">'+heading+recent+filters+'<div class="result-summary"><h2>资料列表</h2><p id="result-count" role="status" aria-live="polite">共 '+str(len(docs))+' 份资料</p></div><div id="paper-list">'+groups+'</div>'+empty+'<div class="load-more"><button type="button" id="load-more" hidden>显示更多</button></div><noscript><p class="notice">当前显示全部资料。启用 JavaScript 后可使用搜索、筛选和阅读记录。</p></noscript><footer>本地离线资料库 · 题卷与答案以所收录原稿为准。<a href="#catalog-main">回到顶部 ↑</a></footer></main></div>'
     page.parent.mkdir(exist_ok=True);page.write_text(document(title,body,page))
 def main():
+    from build_crop_review import build_crop_review
+    build_crop_review()
     docs=collect();(ROOT/'catalog.css').write_text('/* Shared catalog styles; edit ui/catalog.css. */\n@import url("ui/catalog.css");\n')
     (ROOT/'documents.json').write_text(json.dumps([{k:(link(v,ROOT/'index.htm') if isinstance(v,Path) else v) for k,v in d.items()} for d in docs],ensure_ascii=False,indent=2))
     render(docs,docs,ROOT/'index.htm')
