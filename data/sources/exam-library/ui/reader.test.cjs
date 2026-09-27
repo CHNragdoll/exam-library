@@ -43,7 +43,19 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
   const caption=m.querySelector('p.reader-cartoon-followup');
   assert(caption && caption.textContent.includes('We just don’t have much useful information.'),'cartoon reply is centered below figure');
   assert(!caption.textContent.includes('注意：'),'answer-sheet note stays separate from caption');
+  const readingNote=[...m.querySelectorAll('.reader-answer-sheet-note')]
+   .find(note=>note.textContent.includes('答题卡2'));
+  assert(readingNote && readingNote.previousElementSibling.textContent.trim().endsWith('can’t hurt.'),
+   'underlined answer-sheet note starts a new line after reading prose');
+  assert(readingNote.querySelector('u'),'original note emphasis is preserved');
   assert.match(readerCss,/p\.reader-cartoon-followup\{text-align:center;text-align-last:center\}/);
+  for (const number of ['6.', '8.', '16.']) {
+   const row=[...m.querySelectorAll('.reader-listening-question')]
+    .find(item=>item.querySelector('.question')?.textContent.trim()===number);
+   assert(row,`question ${number} is kept with its choices`);
+   assert.deepEqual([...row.querySelectorAll('.option-label')].map(label=>label.textContent.trim()),
+    ['A.','B.','C.','D.'],`question ${number} has A/B and C/D in order`);
+  }
  }
  assert.equal(d.querySelector('[data-toggle-source]'),formula,'original formula control retained');
  if(embedded) {

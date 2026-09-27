@@ -2082,28 +2082,14 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
-            {
-              "label": "A",
-              "runs": [
-                {
-                  "text": "Unified has made the rule about homework mainly because poor students ____",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
             },
             {
-              "label": "L",
-              "runs": []
+              "text": " Unified has made the rule about homework mainly because poor students ____",
+              "flags": [
+                false,
+                false,
+                false
+              ]
             }
           ]
         },

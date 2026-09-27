@@ -43,21 +43,63 @@
   const normalizeEnglishLayout = () => {
     if (isSvg || !['cet4', 'cet6', 'tem4', 'tem8'].includes(config.category)) return;
     for (const paragraph of main.querySelectorAll('p.paragraph')) {
-      const last = paragraph.lastChild;
-      if (!last || last.nodeType !== Node.TEXT_NODE) continue;
-      const match = last.textContent.match(/\s*注意[：:]\s*此部分试题请在答题卡\s*[12]\s*上作答。\s*$/);
-      if (!match || !paragraph.textContent.slice(0, -match[0].length).trim()) continue;
-      const noteText = last.splitText(match.index);
+      const notePattern = /\s*注意[：:]\s*此部分试题请在答题卡\s*[12]\s*上作答(?:[^。]*。)?/;
+      const match = paragraph.textContent.match(notePattern);
+      if (!match || !paragraph.textContent.slice(0, match.index).trim()) continue;
+      const textPoint = position => {
+        const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+        for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+          if (position <= node.textContent.length) return [node, position];
+          position -= node.textContent.length;
+        }
+        return null;
+      };
+      const remainder = document.createElement('p');
+      remainder.className = paragraph.className;
+      const end = textPoint(match.index + match[0].length);
+      if (!end) continue;
+      const trailing = document.createRange();
+      trailing.setStart(...end);
+      trailing.setEnd(paragraph, paragraph.childNodes.length);
+      remainder.append(trailing.extractContents());
+      const start = textPoint(match.index);
+      const range = document.createRange();
+      range.setStart(...start);
+      range.setEnd(paragraph, paragraph.childNodes.length);
       const note = document.createElement('p');
       note.className = 'reader-answer-sheet-note';
-      note.append(noteText);
+      note.append(range.extractContents());
       paragraph.after(note);
+      if (remainder.textContent.trim()) note.after(remainder);
     }
     if (config.documentId === 'cet6:2015-12-02') {
       const caption = main.querySelector('section[data-source-page="1"] > figure + p.paragraph');
       if (caption?.textContent.trim().startsWith('We just don’t have much useful information.')) {
         caption.classList.add('reader-cartoon-followup');
       }
+    }
+    // PDF extraction can split one four-choice question into separate lists,
+    // including at a source-page boundary. Keep the choices with their number.
+    const blocks = [...main.querySelectorAll('section[data-source-page]')]
+      .flatMap(section => [...section.children]);
+    for (let index = 0; index < blocks.length; index++) {
+      const number = blocks[index];
+      if (!number.matches('p.question') || !/^\s*\d+[.．]\s*$/.test(number.textContent)) continue;
+      const groups = [];
+      for (let next = index + 1; blocks[next]?.matches('ul.options'); next++) groups.push(blocks[next]);
+      if (!groups.length) continue;
+      if (groups.length > 1) {
+        const choices = groups.flatMap(group => [...group.children]);
+        const labels = choices.map(choice => choice.querySelector('.option-label')?.textContent.trim());
+        if (choices.length === 4 && new Set(labels).size === 4 &&
+            labels.every(label => /^[ABCD]\.$/.test(label))) {
+          choices.sort((a, b) => a.querySelector('.option-label').textContent.localeCompare(b.querySelector('.option-label').textContent));
+          groups[0].append(...choices);
+          groups[0].classList.toggle('single', groups.some(group => group.classList.contains('single')));
+          groups.slice(1).forEach(group => group.remove());
+        }
+      }
+      if (groups[0].parentElement !== number.parentElement) number.after(groups[0]);
     }
     for (const number of main.querySelectorAll('p.question')) {
       const options = number.nextElementSibling;
