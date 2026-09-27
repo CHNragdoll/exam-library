@@ -9,6 +9,13 @@ from scripts.build_structured_exams import display_block, options_from
 
 
 class MathOptionDisplayTests(unittest.TestCase):
+    def test_source_choice_order_is_available_before_default_order_normalization(self):
+        source = BeautifulSoup('''<div class="math-options">
+          <div class="math-option"><span class="math-option-label">(B)</span>second</div>
+          <div class="math-option"><span class="math-option-label">(A)</span>first</div>
+        </div>''', "html.parser").div
+        self.assertEqual([option["label"] for option in options_from(source)], ["B.", "A."])
+
     def render(self, markup: str, math_questions: bool = False):
         source = BeautifulSoup(markup, "html.parser").div
         original = str(source)

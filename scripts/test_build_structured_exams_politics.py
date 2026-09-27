@@ -12,6 +12,17 @@ from scripts import build_structured_exams as builder
 
 
 class PoliticsPresentationTests(unittest.TestCase):
+    def test_multiple_choice_answer_letters_are_not_truncated(self):
+        for source, expected in (
+            ("【答案】ABC", "ABC"),
+            ("【参考答案】BCD", "BCD"),
+            ("【答案】A、C、D", "ACD"),
+            ("【答案】B", "B"),
+        ):
+            match = builder.ANSWER_RE.search(source)
+            self.assertIsNotNone(match, source)
+            self.assertEqual(builder.normalize_choice_answer(match.group(1)), expected)
+
     @classmethod
     def setUpClass(cls):
         cls.doc = next(doc for doc in json.loads((builder.ROOT / "documents.json").read_text())

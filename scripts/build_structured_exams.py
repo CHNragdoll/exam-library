@@ -30,8 +30,10 @@ PROFILES = {
     "politics": ("考研政治", "politics", "考研政治试卷"),
 }
 QUESTION_RE = re.compile(r"^\s*(?:[（(]\s*(\d{1,3})\s*[）)]|(\d{1,3})\s*[.．、])")
+BARE_QUESTION_RE = re.compile(r"^\s*(\d{1,3})\s*[.．、]")
+NUMBERED_FIRST_OPTION_RE = re.compile(r"^\s*\d{1,3}\s*[.．、]\s*([A-D])\s*[)）.．、]\s*(.+)$")
 LABEL_RE = re.compile(r"[（(]?\s*([A-D])\s*[)）.．、]?")
-ANSWER_RE = re.compile(r"【(?:参考)?答案】\s*([A-D](?:\s*[,，、]\s*[A-D])*)")
+ANSWER_RE = re.compile(r"【(?:参考)?答案】\s*([A-D](?:\s*[,，、]\s*[A-D]){1,3}|[A-D]{1,4})")
 NUMBERED_LETTER_RE = re.compile(r"(?:[（(]\s*(\d{1,3})\s*[）)]|(\d{1,3})\s*[.．、])\s*([A-D])(?=[.。\s（(]|$)")
 NUMBERED_MATH_RE = re.compile(r"[（(]\s*(\d{1,3})\s*[）)]")
 MATH_TEX_RE = re.compile(r"\\\((?:.|\n)*?\\\)|\\\[(?:.|\n)*?\\\]")
@@ -76,6 +78,11 @@ def plain(element: Tag) -> str:
     for node in copy.select(".formula[data-tex]"):
         node.string = "\\(" + node.get("data-tex", "") + "\\)"
     return " ".join(copy.get_text(" ", strip=True).split())
+
+
+def normalize_choice_answer(value: str) -> str:
+    """Retain the printed choice letters, dropping only their separators."""
+    return re.sub(r"[\s,，、]", "", value)
 
 
 def section_level_for(value: str, category: str) -> int | None:
@@ -167,7 +174,9 @@ def options_from(element: Tag) -> list[dict]:
         value = deepcopy(item)
         value.select_one(marker).decompose()
         result.append({"label": letter + ".", "sourceLabel": source_label, "text": plain(value)})
-    return sorted(result, key=lambda item: "ABCD".index(item["label"][0]))
+    # Keep the source sequence until the question has recorded it. The
+    # normalized A-D display order is applied after merging choice blocks.
+    return result
 
 
 def rewrite_links(element: Tag, original: Path, target: Path) -> None:
@@ -532,6 +541,16 @@ def build_one(doc: dict) -> dict:
             if not text and not child.select_one("img, svg, table"):
                 # Invisible empty wrappers carry no readable source content.
                 continue
+            promoted_numbered_content = False
+            # Some PDF transcriptions put a whole numbered question in a
+            # plain paragraph. Recognize only the next bare question number;
+            # parenthesized (1)/(2) subparts must remain in the current stem.
+            bare_number = BARE_QUESTION_RE.match(text) if role == "content" else None
+            if (bare_number and current and current["recordType"] == "question"
+                    and current["number"].isdigit()
+                    and int(bare_number.group(1)) == int(current["number"]) + 1):
+                role = "question"
+                promoted_numbered_content = True
             email_mode = None
             if doc["category"] == "kaoyan" and doc["kind"] == "questions" and child.name == "p":
                 if "Read the following email" in text and "reply" in text:
@@ -599,6 +618,12 @@ def build_one(doc: dict) -> dict:
                                 if role == "choices" and doc["category"] == "kaoyan"
                                 and "Use of English" in section_title and section_context_blocks else None),
                 }
+                first_option = NUMBERED_FIRST_OPTION_RE.match(text) if promoted_numbered_content else None
+                if first_option:
+                    current["stem"] = text[:first_option.start(1)].strip()
+                    current["options"].append({"label": first_option.group(1) + ".",
+                                               "sourceLabel": text[first_option.start(1):first_option.start(2)].strip(),
+                                               "text": first_option.group(2).strip(), "sourceOrder": 1})
                 if doc["category"] == "politics" and doc["kind"] == "questions":
                     current["subquestions"] = []
                     current["continuations"] = []
@@ -655,6 +680,7 @@ def build_one(doc: dict) -> dict:
                         existing = {o["label"] for o in current["options"]}
                         for option in opts:
                             if option["label"] not in existing:
+                                option["sourceOrder"] = len(current["options"]) + 1
                                 current["options"].append(option)
                                 existing.add(option["label"])
                         current["options"].sort(key=lambda option: "ABCD".index(option["label"][0]))
@@ -663,7 +689,7 @@ def build_one(doc: dict) -> dict:
                 if doc["kind"] == "answers":
                     match = ANSWER_RE.search(text)
                     if match:
-                        current["answer"] = match.group(1).replace(" ", "")
+                        current["answer"] = normalize_choice_answer(match.group(1))
             else:
                 block["status"] = "source_only"
                 source_only += 1
@@ -754,7 +780,7 @@ def answer_fields(question: dict, blocks: dict[str, dict]) -> dict:
     head = question["stem"]
     match = ANSWER_RE.search(head)
     if match:
-        fields["value"] = match.group(1).replace(" ", "")
+        fields["value"] = normalize_choice_answer(match.group(1))
     part = "solution" if "答案要点" in head or "解答" in head else None
     collected = defaultdict(list)
     for bid in sources:

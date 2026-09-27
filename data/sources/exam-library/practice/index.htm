@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>刷题 · 真题库</title>
+  <link rel="stylesheet" href="../ui/tokens.css">
+  <link rel="stylesheet" href="../ui/code-highlight.css">
+  <link rel="stylesheet" href="practice.css">
+  <script>
+    window.MathJax = {
+      startup: {typeset: false},
+      tex: {
+        inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']],
+        packages: ['base', 'ams', 'newcommand', 'noundefined', 'boldsymbol']
+      },
+      options: {skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'mjx-container']}
+    };
+  </script>
+  <script defer src="../ui/vendor/mathjax-3.2.2-tex-svg-full.js"></script>
+  <script defer src="../ui/code-highlight.js"></script>
+  <script defer src="practice.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#question-card">跳转到题目</a>
+  <header class="site-header">
+    <a class="brand" href="../index.htm"><span class="brand-mark">题</span><span>真题库<small>本地刷题</small></span></a>
+    <a class="back-link" href="../index.htm">返回资料库</a>
+  </header>
+  <main class="practice-shell">
+    <div class="page-heading">
+      <div><p class="eyebrow">PRACTICE</p><h1>按原卷顺序，认真做每一道题</h1><p>选项默认保持原卷顺序。乱序仅改变展示顺序，答案始终对应原选项。</p></div>
+    </div>
+    <section class="controls" aria-label="选题设置">
+      <div class="paper-controls">
+        <label>科目<select id="category-select" aria-label="科目"><option value="">加载中…</option></select></label>
+        <label>试卷<select id="paper-select" aria-label="试卷"><option value="">加载中…</option></select></label>
+      </div>
+      <div class="order-controls">
+        <label>选项顺序<select id="order-select" aria-label="选项顺序"><option value="default">原卷顺序</option><option value="shuffle">乱序练习</option></select></label>
+        <label id="seed-wrap" hidden>乱序种子<input id="seed-input" type="text" maxlength="64" value="1" autocomplete="off" spellcheck="false" aria-label="乱序种子"></label>
+        <button id="reshuffle-button" type="button" hidden>换一组顺序</button>
+      </div>
+    </section>
+    <p id="page-status" class="page-status" role="status" aria-live="polite">正在加载试卷…</p>
+    <section id="practice-panel" class="practice-panel" hidden aria-label="逐题练习">
+      <div class="paper-heading"><div><p id="paper-category" class="eyebrow"></p><h2 id="paper-title"></h2></div><label>跳到题目<select id="question-jump" aria-label="跳到题目"></select></label></div>
+      <div class="progress-row"><span id="question-progress"></span><span id="order-note"></span></div>
+      <article id="question-card" class="question-card" tabindex="-1">
+        <div class="question-heading"><span id="question-number" class="question-number"></span><span id="question-kind" class="question-kind"></span></div>
+        <div id="question-context" class="question-context" hidden></div>
+        <div id="question-stem" class="question-stem"></div>
+        <div id="question-content" class="question-content" hidden></div>
+        <form id="answer-form">
+          <fieldset id="options-fieldset" class="options-fieldset"><legend class="sr-only">选择答案</legend><div id="options-list" class="options-list"></div></fieldset>
+          <label id="written-answer-wrap" class="written-answer" hidden>我的作答<textarea id="written-answer" rows="4" placeholder="在这里记录思路或答案"></textarea></label>
+        </form>
+        <div class="answer-actions"><button id="reveal-button" class="primary-button" type="button">查看答案</button><button id="redo-button" type="button" hidden>重做本题</button></div>
+        <section id="answer-panel" class="answer-panel" aria-label="参考答案" hidden></section>
+      </article>
+      <nav class="question-nav" aria-label="题目导航"><button id="previous-button" type="button">上一题</button><button id="next-button" type="button">下一题</button></nav>
+    </section>
+  </main>
+</body>
+</html>

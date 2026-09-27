@@ -14,6 +14,8 @@ python3 scripts/serve_exam_library.py
 
 然后打开 [http://localhost:8765/](http://localhost:8765/)；需要其他端口可加 `--port 8766`。服务仅监听本机 `127.0.0.1`，按 Ctrl+C 停止。SVG 原版、LaTeX 重排、结构化审阅页均由同一服务提供；HTML 页面刷新时不使用缓存。
 
+逐题刷题入口是 [http://localhost:8765/exam-library/practice/index.htm](http://localhost:8765/exam-library/practice/index.htm)。本地服务首次启动会从结构化试卷自动生成 SQLite 题库；选项默认保留原顺序，也可按种子乱序，答案展开后按固定选项 ID 标记正确项。数据结构、只读 API、重建及恢复方式见 [SQLite 题库说明](docs/QUESTION_DATABASE.md)。
+
 - 在总目录按科目、年份、题卷类型搜索筛选。
 - SVG 保持原卷版式，LaTeX 重排随窗口排版；阅读器支持目录、字号/宽度、缩放和专注阅读。
 - “并排对比”同时打开同一文档的两版，可分别滚动；窄屏上下排列。

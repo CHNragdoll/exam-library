@@ -11,12 +11,12 @@
     "politics": 36,
     "math3": 66
   },
-  "questionRecords": 12097,
+  "questionRecords": 12101,
   "bank": {
-    "questions": 10650,
-    "single_choice": 7741,
+    "questions": 10654,
+    "single_choice": 7745,
     "free_response": 2371,
-    "linkedAnswers": 1019,
+    "linkedAnswers": 1022,
     "multiple_choice": 334,
     "fill_blank": 204
   },
@@ -1644,7 +1644,7 @@
       "template": "politics",
       "json": "papers/politics/2019-questions.json",
       "reader": "papers/politics/2019-questions.htm",
-      "questions": 36,
+      "questions": 38,
       "partialQuestions": 1,
       "sourceBlocks": 104,
       "sourceOnlyBlocks": 7
@@ -2866,7 +2866,7 @@
       "template": "cs408",
       "json": "papers/cs408/2014-complete.json",
       "reader": "papers/cs408/2014-complete.htm",
-      "questions": 93,
+      "questions": 94,
       "partialQuestions": 40,
       "sourceBlocks": 250,
       "sourceOnlyBlocks": 8
@@ -2905,7 +2905,7 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-12-01.json",
       "reader": "papers/cet6/2014-12-01.htm",
-      "questions": 41,
+      "questions": 42,
       "partialQuestions": 9,
       "sourceBlocks": 153,
       "sourceOnlyBlocks": 76
