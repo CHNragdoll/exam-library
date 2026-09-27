@@ -1,0 +1,341 @@
+{
+  "mode": "built-in imagegen plus user-authorized precise SVG",
+  "user_review_pending": true,
+  "changes": [
+    {
+      "id": "cs408-2019-answers-p006-b005",
+      "document": "cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "original": "cs408-answers-latex-2016-2025/assets/figures/2019-answers-p006-b005.svg",
+      "previous": "exam-library/assets/redrawn/cs408-2019-answers-p006-b005.png",
+      "replacement": "exam-library/assets/redrawn/cs408-2019-answers-p006-b005-v2.png",
+      "prompts": [
+        "Use case: precise-object-edit, scientific educational diagram. Image 1 is EDIT TARGET (existing crisp redraw). Image 2 is authoritative original scanned chart; trace its geometry, including the odd 40–50 ms detail. Correct ONLY the 40–50 ms region of Image 1. In original Image 2, there is a COMPLETE THIN CLOSED RECTANGULAR OUTLINE whose left vertical edge stands immediately LEFT of the dotted 40-ms vertical guide, whose right vertical edge stands immediately RIGHT of the dotted 50-ms vertical guide, whose top horizontal edge is midway between P1 and P2 tracks, and whose bottom horizontal edge lies ON the time-axis baseline from 40 to 50. Draw all FOUR solid edges as a complete outline, preserving the original slight horizontal offsets relative to the dotted guides. The existing P2 dashed horizontal waiting line from 40 to 50 runs INSIDE this box across its middle and MUST stay visible and in front of the thin box sides where the lines cross. Keep the dotted 40 and 50 vertical guides visible INSIDE the solid rectangle edges. This is not merely a floating middle line: include both side edges and bottom edge. Preserve P1 top blue solid line, all run/wait track segments, all other dotted guides, times 10,20,30,40,50 and exact labels. White background, crisp high-resolution thin gray box outline. Do not add extra boxes or redesign chart."
+      ],
+      "checks": [
+        "原图40–50 ms是封闭矩形：左实线在40 ms虚线左侧、右实线在50 ms虚线右侧，顶边在P1/P2中间，底边与时间轴重合；v2四边俱全。",
+        "40、50 ms竖向虚线仍在矩形内；P2水平等待虚线横穿矩形中部且可见。",
+        "P1运行段0–10和30–50，P2运行段10–30；10、20、30、40、50刻度及进程、CPU时间/ms标签逐项保留。"
+      ],
+      "verified": true,
+      "note": "对照原扫描 PNG 与已核实的原 PDF；新文件不覆盖旧候选。",
+      "sha256": "63d66e2acb2ed34b898aebbe46585e9a047d5c2b394e651d8b81138561db982b",
+      "bytes": 1096389,
+      "generator": "built-in imagegen edit",
+      "original_checked": true,
+      "original_sha256": "b4ce4d0ddab59939568179cdbac1d5bf8cca0e522dcd8b1ce1f2162c2f1dc2be",
+      "replacement_sha256": "63d66e2acb2ed34b898aebbe46585e9a047d5c2b394e651d8b81138561db982b",
+      "reviewNote": "补齐40—50 ms处外框四边，保留框与虚线的相对位置。",
+      "round": 2
+    },
+    {
+      "id": "cs408-2020-answers-p007-b006",
+      "document": "cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "original": "cs408-answers-latex-2016-2025/assets/figures/2020-answers-p007-b006.svg",
+      "previous": "exam-library/assets/redrawn/cs408-2020-answers-p007-b006.png",
+      "replacement": "exam-library/assets/redrawn/cs408-2020-answers-p007-b006-v2.png",
+      "prompts": [
+        "Use case: precise-object-edit / scientific-educational. Image 1 is the existing clean colored REDRAW to EDIT. Image 2 is the AUTHORITATIVE ORIGINAL SCAN. Match Image 2 in layout, shapes, crossings and occlusion; no symmetry correction, no reflow or diagram redesign. Keep Image 1 sharp legible Chinese text and devices but MOVE/RESHAPE only the domain outlines and collision ovals to the original exact approximate coordinates relative to device centers. ORIGINAL left dashed broadcast-domain outline begins left of first desktop, crosses behind/through the LEFT switch at the top, covers left hub and first desktop/laptop, then its right border falls around the second hub and SECOND laptop, leaving the second desktop visibly BELOW its bottom edge and the second laptop mostly OUTSIDE to the right and below. ORIGINAL right dashed broadcast-domain outline begins around the first right hub, with the first right desktop visibly OUTSIDE to the left; its bottom edge crosses/stands above portions of the lower desktops, and its right edge is crossed by the far-right laptop. These overlaps are intentional; preserve them exactly instead of enclosing all devices. Both broadcast-domain dashed outlines MUST be one identical muted blue/gray color, and the dashed legend sample exactly the same color. Draw four collision-domain ovals in a single identical warm orange color, same as the solid legend sample. Match Image 2 asymmetric oval positions: each oval wraps one 100BaseT hub and its own desktop/laptop; oval arcs run BEHIND the opaque device boxes and are HIDDEN where devices overlap, never through letters; allow oval arcs to extend beyond dashed broadcast boundaries exactly as source. Preserve topology and all text: 2 switches, 4 hubs, 4 desktops, 4 laptops, 1 router, links and Chinese labels. Text 以太网交换机, 路由器, 100BaseT 集线器, 台式机, 笔记本, 广播域, 冲突域. White background; crisp but spatially faithful tracing of original.",
+        "Use case: precise-object-edit. Image 1 is edit target; Image 2 is authoritative source. Keep every device and link in Image 1 exactly in place. Make one targeted geometry correction only: the BOTTOM HORIZONTAL DASHED EDGE of the LEFT broadcast-domain outline is too high in Image 1. Move only this left-domain bottom edge downward to just BELOW the bottom tips of the FIRST desktop and FIRST laptop (leftmost pair), but ABOVE the bottom tip of the SECOND desktop; it should cross through the lower portion of the SECOND desktop and near the lower part of the far-left-side second laptop, like Image 2. Keep the left and right vertical dashed edges and top edge in same positions; extend vertical sides down to new bottom edge. Preserve the same muted blue-gray dash color on both domain outlines and legend, and orange solid ovals/legend. Do not change right broadcast domain, collision ovals, devices, topology, text, or left/right positions. The purpose is to reproduce the source asymmetric boundary occlusion, not to enclose all devices.",
+        "Use case: scientific-educational precise-object-edit. The attached image is the AUTHORITATIVE ORIGINAL and EDIT TARGET. Produce a clean, high-resolution COLORIZED TRACING of this exact diagram, not a redesign. Preserve every object at the same normalized XY coordinates and preserve every intentional overlap/occlusion. First priority: both Ethernet switch boxes STRADDLE and INTERRUPT the TOP dashed broadcast-domain boundary; their top edges sit ABOVE the dashed line, with dashed segments hidden behind opaque switch boxes. Do NOT lower switches or lift the dashed top boundaries to enclose switches. Preserve two ASYMMETRIC dashed broadcast-domain outlines at exact original coordinates. On the left, first desktop and laptop stay inside bottom edge, second desktop and second laptop cross/outside bottom/right edges; on the right, first desktop is mostly outside LEFT edge, other lower devices intersect bottom/right edges. Both dashed outlines must have exactly one same muted blue-gray color and dashed legend line the same color. Preserve four ASYMMETRIC solid collision-domain oval arcs at EXACT original locations; the second LEFT oval is visibly LOWER than first LEFT oval, not horizontally aligned; right ovals also retain source offsets. All four ovals one identical warm orange color, solid legend same orange. Oval strokes pass BEHIND device boxes and are hidden by boxes, never across text. Keep device layout, wire endpoints and typography locations of ORIGINAL exactly: two 以太网交换机, one 路由器, four 100BaseT 集线器, four 台式机, four 笔记本, legend 广播域 and 冲突域. Only sharpen edges/text, increase resolution and gently color the preexisting boundary/oval strokes. Do not move, recenter, mirror, symmetrize, simplify, invent, or omit any shape, link, arrow or label. Pure white background."
+      ],
+      "checks": [
+        "两个广播域虚线边界同色，图例虚线同色；四个冲突域椭圆同橙色，图例实线同橙色。",
+        "左广播域底边在第一组台式机和笔记本底部以下，却横穿第二组台式机、落在第二组笔记本底部以上；右边界穿过第二组笔记本。",
+        "右广播域左边界使右侧第一台台式机主要落在界外；右边界穿过最右笔记本，底边穿过下方设备区域。",
+        "椭圆圆边在设备外可见、进入设备框时被白色设备面遮住；不穿过设备文字。",
+        "设备为1路由器、2以太网交换机、4个100BaseT集线器、4台式机、4笔记本，连线端点和标签逐项可读。",
+        "两交换机方框均跨越广播域顶部虚线并遮住被压住的虚线段；原版 v2 的交换机框完全落于域内的问题已修正。",
+        "左侧第二冲突圆底部和顶部均低于第一冲突圆，保留原图错位。",
+        "按原图归一化位置复核：路由器、两交换机、四集线器与左右主机顺序及设备大小关系一致。"
+      ],
+      "verified": true,
+      "note": "直接以原扫描 PNG 为 imagegen edit target 的最终候选；复核设备和边界遮挡关系。生成图属于视觉追描，像素坐标不能声明与原扫描完全相同，供主代理复审。",
+      "sha256": "d2ddae35149cfc62156b1830d620c8ed4c340648da7e7ebe04f06876e22ea981",
+      "bytes": 1098583,
+      "generator": "built-in imagegen edit",
+      "original_checked": true,
+      "original_sha256": "16e190ab7e08f1cfb58a607a379b527774015eb4d24f7dff87e22068ba3e79ad",
+      "replacement_sha256": "d2ddae35149cfc62156b1830d620c8ed4c340648da7e7ebe04f06876e22ea981",
+      "reviewNote": "按原图重新描绘设备位置、域边界及遮挡；两广播域与图例使用相同蓝色虚线，冲突域与图例统一橙色实线。",
+      "round": 2
+    },
+    {
+      "id": "cs408-2016-questions-p005-b001",
+      "status": "accepted_candidate",
+      "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.svg",
+      "base": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001.png",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001-v2.png",
+      "prompt": "Edit the full colored diagram using the original Switch crop as authoritative shape reference; change only the four arrow glyphs on the purple Switch top. Two independent NW arrows at top and left, two independent SE arrows at right and bottom, each with one straight diagonal shaft and one solid black head. Clear lavender gap between all four. Preserve all other text, values, lines and layout.",
+      "invariants": [
+        "Switch top has exactly four independent solid black arrows, no touching, overlap, bends, shared shafts or double heads",
+        "top and left arrows point NW; right and bottom arrows point SE; all shafts parallel",
+        "Internet/Web服务器S 130.18.10.1; left 201.1.1.0/24; right 201.1.2.0/25 with no explicit R3-cloud line",
+        "R1-R2-R3 triangle; R1-R2 201.1.3.9; R2-R3 201.1.3.1; R2 NAT/L0/E0/L1/E1 192.168.3.254",
+        "DNS 201.1.1.1; Switch-H1 192.168.3.2, H2 192.168.3.3, Hub; Hub-H3 192.168.3.251, H4 192.168.3.252",
+        "top-right note preserves R1~R3, 100Base-T switch/hub, H1-H4 default DNS 201.1.1.1"
+      ],
+      "verification": {
+        "original_and_base_viewed": true,
+        "candidate_full_image_viewed": true,
+        "candidate_switch_crop_magnified": true,
+        "switch_arrows_separate": true,
+        "switch_arrow_directions": "2 NW + 2 SE",
+        "full_semantic_labels_and_connections_checked": true,
+        "png_decodes": true,
+        "pixels": [
+          1652,
+          952
+        ]
+      },
+      "caveat": "Imagegen regenerates minor raster pixels outside the Switch. Full-image semantic content was visually checked; pixel identity outside the edit is not claimed.",
+      "original_sha256": "b890e450e91da5cf2cad7ca33ee9323c9d7b65f3a6c2ae24a28023ceb77d1a39",
+      "replacement_sha256": "fb64382f7862499ae27d7d395ba8e849d25bfe5376790642ebeee6716d122f65",
+      "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
+      "reviewNote": "修正Switch顶面四支独立箭头，保持两支朝左上、两支朝右下，清除相连和不规则边缘。",
+      "round": 2
+    },
+    {
+      "id": "cet4:2015-06-03:figure-001-003",
+      "document": "english-exams-reflow-latex/cet4/papers/2015-06-03.htm",
+      "original": "english-exams-reflow-latex/cet4/papers/2015-06-03.assets/figure-001-003.svg",
+      "replacement": "exam-library/assets/redrawn/english-cet4-2015-06-03-figure-001-003-v4.png",
+      "alt": "站立女性手持纸张和倾斜信封，坐在扶手椅上的女性在阅读",
+      "prompt": "Localized edit to first colored cartoon, using second monochrome original for strict reference. Change ONLY the printed marks INSIDE the LOWER envelope held at waist by standing woman. Keep the envelope OUTER QUADRILATERAL, each of its four corners, angle, size, and finger overlap EXACTLY where they are in first image. DO NOT rotate the physical envelope. Current stamp is near upper-right corner; move it to lower-right corner inside that SAME unchanged quadrilateral. Current three address lines run slightly down-to-right; erase those and draw three short parallel lines running steeply up-to-right/down-to-left (NE–SW), parallel to the envelope's current RIGHT EDGE. Its right edge goes from upper-right around x=466 y=447 to bottom-right around x=411 y=548, slope descending toward LEFT. The address lines must have that same slope /, NOT backslash. Put stamp just inside bottom-right around x=402 y=521. These are approximate pixel coordinates for the supplied 1377x1142 image; keep all unchanged boundary positions. The original printed envelope face is rotated ninety degrees inside the held rectangle, with small postal marking lower-right, NOT a horizontal landscape-addressed letter. Do not change upper sheet, hand, clothing, people, objects, rest of image. This is a content-only print-orientation edit; not any physical object rotation.",
+      "verified": true,
+      "reviewNote": "按原图保留下方信封的倾斜外轮廓，邮票移至视觉右下，地址线改为右上至左下；上方纸张不变。",
+      "original_sha256": "953afa23edc33dbcb0fb09144a9ee1ecf5d4270fbeb42871330ba9bb9cbcc0fc",
+      "replacement_sha256": "a93bb57097c7ca21709bb42d45004f3ef354dcf7a581f52254851489a5af63fe",
+      "round": 2
+    },
+    {
+      "id": "english-kaoyan-2000-fishing",
+      "document": "english-exams-reflow-latex/kaoyan/papers/2000-01.htm",
+      "original": "english-exams-reflow-latex/kaoyan/papers/2000-01.assets/figure-013-006.svg",
+      "replacement": "exam-library/assets/redrawn/english-kaoyan-2000-fishing-v2.png",
+      "alt": "1900年鱼多船少、1995年船多且水下仅余一条完整小鱼的捕鱼图",
+      "prompt": "Edit the first supplied colored exam illustration ONLY locally: in the bottom 1995 underwater panel, replace the fish skeleton with ONE small complete living fish facing right. The second supplied monochrome original confirms that this is a complete fish with an outlined full body, tail at left, small fins, mouth and eye at right, and small dark markings/hatching inside its body, NOT a skeleton. Keep it at exactly the current small fish's position and approximately size (do not enlarge), as one lonely ordinary silver-grey fish in the large empty water. All other pixels, all boats, people, water, signs with 1900 and 1995, framing, top panel fish, colors and composition should remain unchanged. NO exposed spine, no ribs outside body, no bone symbol. This is a targeted fidelity correction, not a reinterpretation. Retain original full image dimensions and composition.",
+      "verified": true,
+      "reviewNote": "按人工意见将1995年水下鱼骨改回一条完整的鱼，保留位置、方向与其他画面。",
+      "verification": "View original and generated image: small intact right-facing fish, one fish in lower panel; 1900/1995 signs and other scene retained.",
+      "original_sha256": "8687968baeb0ef6359693400f8068e31ece666197c652a666b3d71972ac15cb3",
+      "replacement_sha256": "853de51d46c32ab3fb1773bbfe76e59d7d2981f5b16d3f615a22e500d9736189",
+      "round": 2
+    },
+    {
+      "id": "2019-questions-p004-b011",
+      "document": "cs408-latex-2009-2017/papers/2019-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2019-questions-p004-b011.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2019-questions-p004-b011.png",
+      "alt": "题38 TCP数据段和确认段时序图",
+      "prompt": "Edit the attached 2019 TCP sequence diagram into a crisp high-resolution portrait educational diagram. Preserve 客户 left, 服务器 right, two downward time axes, t₀–t₄ on the client axis, initial ack_seq=100 from server to client at t₀, a lost seq=100 from client ending midflight by 丢失, three seq=200/300/400 client-to-server arrows, and three ack_seq=100 server-to-client arrows arriving t₁/t₂/t₃ respectively. Preserve the exact crossing/order of the arrows and the t₄时刻seq=100段超时 bent leader note. Restrained color on device icons only; no added messages or changed text.",
+      "invariants": [
+        "客户 at left and 服务器 at right; both timelines end in downward arrows",
+        "Initial server→client ack_seq=100 reaches t₀",
+        "Client→server seq=100 stops midflight and is labelled 丢失",
+        "Exactly three later client→server seq=200, seq=300, seq=400 arrows reach server",
+        "Exactly three repeated server→client ack_seq=100 arrows reach t₁, t₂, t₃",
+        "Left-axis t₄ has bent leader to t₄时刻seq=100段超时, not a transmission arrow"
+      ],
+      "verified": true,
+      "reason": "原嵌入位图仅340×480像素，斜线与ack_seq小字锯齿；题文与原尺寸图确认所有消息、方向和时刻，新图逐项比对。",
+      "status": "accepted",
+      "sha256": "23693ae7e41df0a29010bd70d643b7c86930d6455418dbb8e989047f4fd2b105",
+      "straight_line_review": "在最终PNG原尺寸检查，普通时间轴与报文连接线为直线，无需再次imagegen修订。",
+      "original_sha256": "f52a169bfc967a0d17bd5389991e0b95be7c4c03fc5a85872ee179d6db3ca18c",
+      "replacement_sha256": "23693ae7e41df0a29010bd70d643b7c86930d6455418dbb8e989047f4fd2b105",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 2
+    },
+    {
+      "id": "2025-questions-p004-b006",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p004-b006.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p004-b006.png",
+      "alt": "题36图 DHCP服务器与主机H之间的DHCPOFFER、DHCPREQUEST报文交互",
+      "prompt": "Edit the attached 2025 DHCP diagram into a crisp high-resolution educational diagram. Preserve H/computer left, DHCP服务器 192.168.5.1/server right, two downward time axes and 时间 at lower left. Upper DHCPOFFER rectangular message box interrupts a server→H arrow; lower DHCPREQUEST rectangular message box interrupts an H→server arrow. Each box contains exactly …, yiaddr: 192.168.5.9, … on three rows. Keep both headings and both box outlines, original arrow endpoints and directions, exact original protocol field even in the request. Restrained icon color only; no added addresses, packets or arrows.",
+      "invariants": [
+        "H left; DHCP服务器 and 192.168.5.1 right",
+        "Both time axes terminate in downward arrows; 时间 at lower left",
+        "DHCPOFFER box contains … / yiaddr: 192.168.5.9 / …; server→H leftward arrow",
+        "DHCPREQUEST box contains … / yiaddr: 192.168.5.9 / …; H→server rightward arrow",
+        "Each message rectangle visually interrupts its horizontal transmission line; no third message"
+      ],
+      "verified": true,
+      "reason": "用户点名的报文图；原嵌入位图文字边缘偏软。新版在原尺寸对照中保留两只遮挡箭线的报文框、方向与原题yiaddr字段，OCR复核关键英数字。",
+      "status": "accepted",
+      "sha256": "75755539c54e1239f82baac93e735e612408964db45d94f73a3b7000a3a0ca5b",
+      "straight_line_review": "在最终PNG原尺寸检查，普通时间轴与报文连接线为直线，无需再次imagegen修订。",
+      "original_sha256": "e016f2d06d916beeb70dcd2a3acb43527f4e173c987be40bfe20b7c437bee8c1",
+      "replacement_sha256": "75755539c54e1239f82baac93e735e612408964db45d94f73a3b7000a3a0ca5b",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 2
+    },
+    {
+      "id": "cs408-2020-questions-p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2020-questions.htm",
+      "originalSVG": "cs408-latex-2009-2017/assets/figures/2020-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2020-questions-p005-b001.png",
+      "prompt": "以原题 2020 CSMA/CA 时序图为唯一内容来源，高分辨率彩色清晰化：左 H、右 AP 两条向下时间线；RTS H→AP、CTS AP→H、DATA H→AP、ACK AP→H 四个斜边报文带；IFS1/IFS3 在左，IFS2/IFS4 在右；保留原图曲括号、带与时间线的遮挡、文字和箭头，不按协议常识改题。",
+      "核对": {
+        "sourceViewed": true,
+        "replacementViewed": true,
+        "pngDecoded": true,
+        "exactText": [
+          "H",
+          "AP",
+          "IFS1",
+          "RTS",
+          "IFS2",
+          "CTS",
+          "IFS3",
+          "DATA",
+          "IFS4",
+          "ACK",
+          "时间"
+        ],
+        "arrowDirections": [
+          "RTS→",
+          "CTS←",
+          "DATA→",
+          "ACK←"
+        ],
+        "geometry": "四条斜边报文带顺序、宽度关系、两条向下时间线、IFS 曲括号左右位置和遮挡关系与原图一致",
+        "accepted": true
+      },
+      "original_sha256": "332d2f56077b047569ce4de43c56c9972f4fcf781339d3d4bd17f5c93917e3c2",
+      "replacement_sha256": "6bc9f24fcee1b01ba4fe14b6f93bc661fb7ddc9ce3469f7936e4c1b8fd4b6940",
+      "original": "cs408-latex-2009-2017/assets/figures/2020-questions-p005-b001.svg",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 2
+    },
+    {
+      "id": "cs408-2021-questions-p004-b013",
+      "document": "cs408-latex-2009-2017/papers/2021-questions.htm",
+      "originalSVG": "cs408-latex-2009-2017/assets/figures/2021-questions-p004-b013.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2021-questions-p004-b013.png",
+      "prompt": "以原题 2021 TCP 时序图为唯一内容来源，高分辨率轻着色清晰化：甲/乙及两条向下时间线、t0/t1 黑点和时间文字；上箭头从 t0 向右且中途结束，标 seq=501, 200 B数据；中箭头从乙向左到 t1，标 seq=601, ack_seq=501, rcvwnd=500 B；下方 t1 向右短箭头中途结束且无文字。保留所有原始端点和交叉，不补造收件或丢失说明。",
+      "核对": {
+        "sourceViewed": true,
+        "replacementViewed": true,
+        "pngDecoded": true,
+        "exactText": [
+          "甲",
+          "乙",
+          "t₀",
+          "t₁",
+          "时间",
+          "seq=501, 200 B数据",
+          "seq=601, ack_seq=501, rcvwnd=500 B"
+        ],
+        "arrowDirections": [
+          "上箭头从左向右且停在半途",
+          "中箭头从右向左到左侧 t₁",
+          "下箭头从左向右且很短"
+        ],
+        "geometry": "两条向下时间线、t0/t1 黑点、上箭头和下箭头中途结束、字段位于原来的两条长箭头上方，均与原图一致",
+        "accepted": true
+      },
+      "original_sha256": "36e0dfc1876b2cf096819df49f0318c815f303f3542ba2651febe430030a9e96",
+      "replacement_sha256": "6846e186711c84d5853452a97d97e2fb1d3c5e031104b8ca57c5c266098b1957",
+      "original": "cs408-latex-2009-2017/assets/figures/2021-questions-p004-b013.svg",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 2
+    },
+    {
+      "id": "cs408:2024-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2024-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2024-questions-p005-b001.svg",
+      "sourcePng": "cs408-latex-2009-2017/assets/figures/2024-questions-p005-b001.png",
+      "replacement": "exam-library/assets/redrawn/cs408-2024-questions-p005-b001.png",
+      "prompt": "Use case: scientific-educational. Asset type: clean high-resolution raster redraw of a Chinese computer-network exam timing diagram. Input image is the exact source/reference; preserve its content and geometry, never correct it from protocol knowledge. Render crisp black lines, arrows, Chinese/Latin text on pure white, with very light gray computer icons if needed. Keep a near-square canvas and two vertical timelines: 甲 and a computer at upper left, 乙 and a computer at upper right; each timeline ends in a downward time arrow. Carefully copy every sloping message arrow and its exact endpoint/direction: F0 from left near top to right; F1 from left to a mid-canvas right-facing arrow that stops early, then the label 丢失; F2 from left to right; F3 from left to right. ACK0 returns right-to-left, crossing F2/F3, and ends at the left timeline above t₁. At left t₁ dot, a separate short right/down arrow labeled ?; ACK2 returns right-to-left and ends at left just above t₂; ACK3 returns right-to-left but STOPS early near lower-middle, with 丢失 beside it. At left t₂ dot, one more short right/down arrow labeled ?. Preserve BOTH t₁ and t₂ dots and marks, and the printed left-side text F1超时 and bottom 时间. Labels exactly: 甲, 乙, F0, F1, F2, F3, ACK0, ACK2, ACK3, 丢失 (twice), F1超时, t₁, t₂, 时间, ? (twice). Preserve the original crossing pattern, staggered rows and relative coordinates of all arrows. Do not add sequence numbers, data, new arrows, dashed lines, legends or protocol interpretations. Sharpen only the scanned diagram.",
+      "verified": true,
+      "checks": [
+        "Left 甲 and right 乙 computer timelines retain downward time arrows.",
+        "F0, F1, F2 and F3 labels and left-to-right routes retain their original order; F1 stops mid-canvas at 丢失.",
+        "ACK0 and ACK2 return to the left timeline; ACK3 stops early at its original 丢失 position.",
+        "Both t₁/t₂ dots, two ? short arrows, F1超时 label, 时间 label and original line crossings are present.",
+        "No values, arrow directions, lost-message endpoints, dashed lines or message count were changed."
+      ],
+      "lineGeometryReview": "All message arrow shafts and both time axes were rechecked at original output resolution; they are already straight, so the 2024 PNG remains unchanged.",
+      "original_sha256": "f96fc3ec4bb224ccba2f446ca73d31fe7f820923e4dbeeb9042b08d913228a5a",
+      "replacement_sha256": "0bd4dcf9024f70811f64b373a72841d2d3e9e06d77747197c3facff0a134d7b8",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 2
+    },
+    {
+      "id": "2025-questions-p012-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.svg",
+      "original_pdf": "cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.pdf",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p012-b001-v4-color.png",
+      "alt": "2025年408第47题：工程部网络经天通一号卫星链路连接公司总部网络",
+      "prompt": "Edit the attached original 2025 exam figure into one crisp wide monochrome network diagram. Straighten only two outer rectangular network borders and ordinary direct connection lines; preserve three oval subnet boundaries and two kinked lightning-shaped satellite links. Left 工程部网络 box: 管理区子网 oval contains H 10.10.10.33/26 and S1, ending at R1; S1 short vertical stubs, H—S1—R1, R1 vertically to 作业区子网 and 生活区子网 ovals and horizontally to TR1. Satellite 天通一号 above gap, its two solar panels and separate lightning links to TR1 and TR2. Right 公司总部网络 box: TR2—R2, Internet cloud above R2, S2 below R2, S2—总部服务器. Preserve R2 three short unlabeled rightward stubs, all S1/S2/R1/R2 top-face directional arrow glyphs, all icon placements, overlay positions, exact labels and device count. Pure white background; no additions or inferred meaning.",
+      "invariants": [
+        "Two straight rectangular outer borders: 工程部网络 left; 公司总部网络 right",
+        "Three oval boundaries remain ovals: 管理区子网 around H/S1, 作业区子网 above R1, 生活区子网 below R1",
+        "H address 10.10.10.33/26; H—S1—R1—TR1 by straight ordinary links; S1 top and bottom short stubs",
+        "R1 top and bottom vertical links connect to 作业区子网 and 生活区子网; its top-face arrows retained",
+        "One 天通一号 satellite with exactly two kinked lightning links, TR1↝satellite↝TR2",
+        "TR2—R2, Internet vertically above R2, S2 vertically below R2, S2—总部服务器",
+        "No added devices, IPs, labels, subnet edges, or ordinary-link arrowheads",
+        "R1/R2 preserve two inward and two outward arrows and central overlapping strokes from the user-provided crop."
+      ],
+      "verified": true,
+      "reason": "使用用户提供的原路由器局部裁片校正R1/R2中央交叠、左上和右下向内、右上和左下向外；再作彩色化。非用户人工审计通过。",
+      "status": "candidate_for_user_review",
+      "candidate_replacements": [
+        "exam-library/assets/redrawn/cs408-2025-questions-p012-b001.png",
+        "exam-library/assets/redrawn/cs408-2025-questions-p012-b001-v2.png"
+      ],
+      "reviewNote": "R1/R2按用户原样局部图修正两进两出及中央交叠，再加淡色；外框和普通连线修直，卫星折线保留。",
+      "prompt_corrections": [
+        "Only replace R1/R2 top glyphs by faithfully tracing the user-provided original silhouette: upper-left southeast inward, upper-right northeast outward, lower-left southwest outward, lower-right northwest inward. Preserve central overlaps and all other content.",
+        "Color-only edit of corrected diagram: blue routers, violet switches, slate blue computers/server, blue/gold satellite, pale gray-blue dishes, pale cream/green/blue subnets, pale cyan Internet. Preserve all black arrow silhouettes, positions, text, borders, connections and lightning shapes."
+      ],
+      "original_sha256": "57305f52bb59704b8583e2c6032b2becda66f52a48dca6a9f22113abf0236b52",
+      "replacement_sha256": "679b61ac854ad4d08b1ac8010b832d55bf92ca6abad1a3dac566e1a71c0fb8d5",
+      "round": 2
+    },
+    {
+      "id": "cs408:2025-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-precise.svg",
+      "alt": "2025年408第38题TCP报文时序图：精确SVG直线及文字",
+      "verified": true,
+      "method": "User explicitly chose deterministic SVG. Six line elements, common right endpoint at (1270,620), native vector text; clipped device illustrations retained from generated artwork.",
+      "source_generator": "scripts/build_2025_tcp_svg.py",
+      "reviewNote": "改为精确SVG：时间轴和报文均由坐标直线绘制，两条长报文共用右侧交点。文字为矢量文字，设备外观保留。",
+      "verification": "SVG rendered with rsvg-convert and inspected; six native line coordinates and shared endpoint verified by generator. All seq, ack_seq and rcvwnd fields checked against source.",
+      "original_sha256": "4b6ab31ec4c0987cdf7f6bd00eda97a79d636cc44ed27c760cde98371dfb2693",
+      "replacement_sha256": "d7c51d189ca352b0ae1406d9d7d91bf9f739b2fd3e06a06800e3612d7e7d889d",
+      "round": 2
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "id": "cs408:2025-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
+      "sourcePng": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.png",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-v3.png",
+      "prompt": "Use case: precise-object-edit. Asset type: corrected CS408 2025 timing diagram PNG. Input Image 1 is the CURRENT high-resolution diagram and EDIT TARGET; Input Image 2 is the original low-resolution exam scan, a secondary reference for arrow endpoints and labels. Modify ONLY line geometry that ought to be straight. Redraw each message arrow shaft as ONE mathematically straight ruler-drawn segment from its existing start to its existing arrowhead, with no bow, kink, bend, or curve. In particular straighten BOTH outgoing 'seq = 2001, 1000 B数据' and 'seq = 3001, 1000 B数据' arrow shafts; the first still reaches the right-hand timeline, while the second still ends early in mid-canvas. The lower return arrow must remain one straight segment from right timeline to the left t₁ dot, pointing LEFT, with its same endpoint. Keep the short t₁ arrow one straight segment pointing lower-right. Make both vertical time axes perfectly straight vertical lines; keep the machine/server icons' rectangular edges straight. Keep all arrowhead positions, directions, time dots, crossing/occlusion and overall layout fixed. Preserve text verbatim, legible, and complete: 甲, 乙, t₀, t₁, 时间, 'seq = 2001, 1000 B数据', 'seq = 3001, 1000 B数据', 'seq = 4001, ack_seq = 3001, rcvwnd = 4000 B'. Lettering may be set straight along the now-straight segments, without changing words or numbers. No new or deleted messages, no protocol-based correction, no dashed lines, no additional annotations, pure white background, clean black line art.",
+      "verified": false,
+      "checks": [
+        "甲/乙 endpoints, two downward timelines, t₀/t₁ dots and 时间 label match the source.",
+        "First seq = 2001, 1000 B数据 arrow reaches the right timeline; second seq = 3001, 1000 B数据 arrow ends early mid-canvas.",
+        "Return arrow points right-to-left and reads seq = 4001, ack_seq = 3001, rcvwnd = 4000 B.",
+        "Short right/down arrow from t₁ remains separate; message order, visible occlusion and solid line style match the source.",
+        "No protocol correction, extra values, arrow or annotation was introduced.",
+        "V3 visual check: the upper seq=2001 arrowhead and lower seq=4001 return shaft touch the same point on the right time axis, with no visible vertical gap.",
+        "Straightness is not accepted: imagegen can leave slight curvature despite the prompt; do not integrate as an exact line diagram."
+      ],
+      "previousReplacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001.png",
+      "previousPrompt": "Use case: scientific-educational. Asset type: clean high-resolution raster redraw of a Chinese computer-network exam sequence diagram. Input image is the exact source/reference; do not change any number, direction, time ordering, endpoint, occlusion or line style even if protocol reasoning suggests a correction. White canvas, crisp black technical line art. Two vertical downward timelines: computer icon and 甲 at left, server icon and 乙 at right. Left timeline starts at black dot t₀; another black dot at t₁ near bottom; bottom label 时间. Exactly THREE long diagonal message arrows: upper arrow from left t₀ to right timeline, label along it \"seq = 2001, 1000 B数据\"; second arrow from slightly below t₀ on left to a right-pointing tip that STOPS in middle of canvas well before right timeline, label \"seq = 3001, 1000 B数据\"; third lower return arrow from right timeline to left t₁ dot, pointing LEFT, label exactly \"seq = 4001, ack_seq = 3001, rcvwnd = 4000 B\". From the t₁ dot a separate short diagonal arrow points right/down and ends early. Preserve the sequence and shape exactly. Characters and numerals must be legible: 甲, 乙, t₀, t₁, 时间; seq 2001, 3001, 4001; ack_seq 3001; rcvwnd 4000 B; both 1000 B数据 labels. No extra messages, no loss annotation, no dashed lines, no colorful arrows, no invented words.",
+      "previousV2Replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-v2.png",
+      "v3Prompt": "Use case: precise-object-edit. Asset type: final correction of a CS408 2025 sequence diagram. Image 1 is the v2 EDIT TARGET. Image 2 is the original exam scan used only to verify the intended shared right-side connection. Change only the right-hand junction on the 乙 vertical timeline: the arrowhead of the upper long 'seq = 2001, 1000 B数据' message and the starting point of the lower long 'seq = 4001, ack_seq = 3001, rcvwnd = 4000 B' return message MUST meet the timeline at exactly the SAME single point, with ZERO vertical gap. The current image has two separate contacts about 17 pixels apart; close that gap into one clear V-shaped junction at the right vertical axis. Keep the rightward upper arrowhead visible and keep the lower return arrow pointing LEFT at the t₁ dot. Each long shaft must remain one perfectly straight ruler-drawn line segment from its unchanged LEFT endpoint to that shared RIGHT point; do not make a curve or kink. Preserve all other endpoints, the mid-canvas stopping endpoint of the seq = 3001 arrow, the short arrow from t₁, both time dots, icons, vertical axes, canvas layout and all text exactly. Do not change any value or label: 甲, 乙, t₀, t₁, 时间, 'seq = 2001, 1000 B数据', 'seq = 3001, 1000 B数据', 'seq = 4001, ack_seq = 3001, rcvwnd = 4000 B'. Do not add, delete, split or merge messages. White background and crisp black diagram lines.",
+      "integrationSafe": false,
+      "status": "Candidate only; right-side junction meets visually, but generated shafts still need exact straight-line validation. Awaiting user's SVG choice."
+    }
+  ]
+}

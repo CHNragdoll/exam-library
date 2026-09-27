@@ -54,22 +54,25 @@
       "id": "cs408-2019-answers-p006-b005",
       "document": "cs408-answers-latex-2016-2025/papers/2019-answers.htm",
       "original": "cs408-answers-latex-2016-2025/assets/figures/2019-answers-p006-b005.svg",
-      "replacement": "exam-library/assets/redrawn/cs408-2019-answers-p006-b005.png",
-      "alt": "第 27 题进程 \\(P_1\\)、\\(P_2\\) 调度时间图"
+      "replacement": "exam-library/assets/redrawn/cs408-2019-answers-p006-b005-v2.png",
+      "alt": "第 27 题进程 \\(P_1\\)、\\(P_2\\) 调度时间图",
+      "reviewNote": "补齐40—50 ms处外框四边，保留框与虚线的相对位置。"
     },
     {
       "id": "cs408-2020-answers-p007-b006",
       "document": "cs408-answers-latex-2016-2025/papers/2020-answers.htm",
       "original": "cs408-answers-latex-2016-2025/assets/figures/2020-answers-p007-b006.svg",
-      "replacement": "exam-library/assets/redrawn/cs408-2020-answers-p007-b006.png",
-      "alt": "第 35 题网络拓扑及广播域、冲突域示意图"
+      "replacement": "exam-library/assets/redrawn/cs408-2020-answers-p007-b006-v2.png",
+      "alt": "第 35 题网络拓扑及广播域、冲突域示意图",
+      "reviewNote": "按原图重新描绘设备位置、域边界及遮挡；两广播域与图例使用相同蓝色虚线，冲突域与图例统一橙色实线。"
     },
     {
       "id": "cs408-2016-questions-p005-b001",
       "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
       "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.svg",
-      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001.png",
-      "alt": "题 33～41 图：路由器、交换机、集线器和主机网络拓扑"
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001-v2.png",
+      "alt": "题 33～41 图：路由器、交换机、集线器和主机网络拓扑",
+      "reviewNote": "修正Switch顶面四支独立箭头，保持两支朝左上、两支朝右下，清除相连和不规则边缘。"
     },
     {
       "id": "cs408-2023-questions-p004-b008",
@@ -124,8 +127,9 @@
       "id": "cet4:2015-06-03:figure-001-003",
       "document": "english-exams-reflow-latex/cet4/papers/2015-06-03.htm",
       "original": "english-exams-reflow-latex/cet4/papers/2015-06-03.assets/figure-001-003.svg",
-      "replacement": "exam-library/assets/redrawn/english-cet4-2015-06-03-figure-001-003.png",
-      "alt": "一名站立者与沙发上的人交谈，两人都拿着读物，旁边有壁画和台灯。"
+      "replacement": "exam-library/assets/redrawn/english-cet4-2015-06-03-figure-001-003-v4.png",
+      "alt": "站立女性手持纸张和倾斜信封，坐在扶手椅上的女性在阅读",
+      "reviewNote": "按原图保留下方信封的倾斜外轮廓，邮票移至视觉右下，地址线改为右上至左下；上方纸张不变。"
     },
     {
       "id": "politics:2010-questions-p001-b008",
@@ -138,8 +142,9 @@
       "id": "english-kaoyan-2000-fishing",
       "document": "english-exams-reflow-latex/kaoyan/papers/2000-01.htm",
       "original": "english-exams-reflow-latex/kaoyan/papers/2000-01.assets/figure-013-006.svg",
-      "replacement": "exam-library/assets/redrawn/english-kaoyan-2000-fishing.png",
-      "alt": "1900 与 1995 年商业捕鱼的对比（彩色重绘）"
+      "replacement": "exam-library/assets/redrawn/english-kaoyan-2000-fishing-v2.png",
+      "alt": "1900年鱼多船少、1995年船多且水下仅余一条完整小鱼的捕鱼图",
+      "reviewNote": "按人工意见将1995年水下鱼骨改回一条完整的鱼，保留位置、方向与其他画面。"
     },
     {
       "id": "english-kaoyan-2001-lamp",
@@ -147,6 +152,62 @@
       "original": "english-exams-reflow-latex/kaoyan/papers/2001-01.assets/figure-014-007.svg",
       "replacement": "exam-library/assets/redrawn/english-kaoyan-2001-lamp.png",
       "alt": "爱心是一盏灯，在越黑暗的地方越明亮（彩色重绘）"
+    },
+    {
+      "id": "2019-questions-p004-b011",
+      "document": "cs408-latex-2009-2017/papers/2019-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2019-questions-p004-b011.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2019-questions-p004-b011.png",
+      "alt": "题38 TCP数据段和确认段时序图",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "2025-questions-p004-b006",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p004-b006.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p004-b006.png",
+      "alt": "题36图 DHCP服务器与主机H之间的DHCPOFFER、DHCPREQUEST报文交互",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408-2020-questions-p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2020-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2020-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2020-questions-p005-b001.png",
+      "alt": "2020-questions-p005-b001 真题图清晰重绘",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408-2021-questions-p004-b013",
+      "document": "cs408-latex-2009-2017/papers/2021-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2021-questions-p004-b013.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2021-questions-p004-b013.png",
+      "alt": "2021-questions-p004-b013 真题图清晰重绘",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2024-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2024-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2024-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2024-questions-p005-b001.png",
+      "alt": "2024-questions-p005-b001 真题图清晰重绘",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2025-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-precise.svg",
+      "alt": "2025年408第38题TCP报文时序图：精确SVG直线及文字",
+      "reviewNote": "改为精确SVG：时间轴和报文均由坐标直线绘制，两条长报文共用右侧交点。文字为矢量文字，设备外观保留。"
+    },
+    {
+      "id": "2025-questions-p012-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p012-b001-v4-color.png",
+      "alt": "2025年408第47题：工程部网络经天通一号卫星链路连接公司总部网络",
+      "reviewNote": "R1/R2按用户原样局部图修正两进两出及中央交叠，再加淡色；外框和普通连线修直，卫星折线保留。"
     }
   ]
 }

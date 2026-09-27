@@ -9,7 +9,13 @@
   catch (_) { storageStatus.textContent = '浏览器未允许本地保存；本次仍可审计，请导出结果后再关闭页面。'; }
   const cards = Array.from(document.querySelectorAll('.review-item'));
   const category = document.getElementById('category'), state = document.getElementById('state'), search = document.getElementById('search');
-  const current = () => Object.fromEntries(cards.map(card => [card.dataset.id, {decision:card.querySelector('.decision').value, note:card.querySelector('.note').value}]));
+  const revisedOnly = document.getElementById('revised-only');
+  const current = () => Object.fromEntries(cards.map(card => [card.dataset.id, {
+    decision:card.querySelector('.decision').value,
+    note:card.querySelector('.note').value,
+    revision:card.dataset.revision,
+    ...(card.dataset.needsRecheck === 'true' ? {needsRecheck:true} : {})
+  }]));
   function filter() {
     let visible = 0, pass = 0, revise = 0;
     const query = search.value.trim().toLowerCase();
@@ -17,7 +23,12 @@
       const decision = card.querySelector('.decision').value;
       if (decision === 'pass') pass++; if (decision === 'revise') revise++;
       card.dataset.decision = decision;
-      card.hidden = (category.value !== 'all' && category.value !== card.dataset.category) || (state.value !== 'all' && state.value !== decision) || (query && !card.textContent.toLowerCase().includes(query));
+      const searchable = [card.querySelector('header').textContent, card.querySelector('.description').textContent,
+        card.querySelector('.review-note')?.textContent || '', card.querySelector('.note').value].join(' ').toLowerCase();
+      card.hidden = (category.value !== 'all' && category.value !== card.dataset.category) ||
+        (state.value !== 'all' && state.value !== decision) ||
+        (revisedOnly.getAttribute('aria-pressed') === 'true' && card.dataset.revised !== 'true') ||
+        (query && !searchable.includes(query));
       if (!card.hidden) visible++;
     }
     document.getElementById('summary').textContent = `显示 ${visible}/${cards.length} · 待检查 ${cards.length-pass-revise} · 通过 ${pass} · 需修改 ${revise}`;
@@ -29,12 +40,28 @@
   }
   for (const card of cards) {
     const decision = card.querySelector('.decision'), note = card.querySelector('.note'), value = saved[card.dataset.id];
-    if (value && allowed.has(value.decision)) decision.value = value.decision;
-    if (value && typeof value.note === 'string') note.value = value.note;
-    decision.addEventListener('change', () => { save(); filter(); });
-    note.addEventListener('input', save);
+    if (value && typeof value === 'object' && !Array.isArray(value)) {
+      if (typeof value.note === 'string') note.value = value.note;
+      if (typeof value.revision === 'string' && value.revision === card.dataset.revision && value.needsRecheck !== true) {
+        if (allowed.has(value.decision)) decision.value = value.decision;
+      } else {
+        card.dataset.needsRecheck = 'true';
+        card.querySelector('.revision-warning').hidden = false;
+      }
+    }
+    decision.addEventListener('change', () => {
+      delete card.dataset.needsRecheck;
+      card.querySelector('.revision-warning').hidden = true;
+      save(); filter();
+    });
+    note.addEventListener('input', () => { save(); filter(); });
   }
-  category.addEventListener('change', filter); state.addEventListener('change', filter); search.addEventListener('input', filter); filter();
+  category.addEventListener('change', filter); state.addEventListener('change', filter); search.addEventListener('input', filter);
+  revisedOnly.addEventListener('click', () => {
+    revisedOnly.setAttribute('aria-pressed', String(revisedOnly.getAttribute('aria-pressed') !== 'true'));
+    filter();
+  });
+  filter();
   document.getElementById('export').addEventListener('click', () => {
     const decisions = current();
     const payload = {version:1, pathBase:'data/sources/exam-library/', exportedAt:new Date().toISOString(), images:data.map(item => ({id:item.id,title:item.title,original:item.original,replacement:item.replacement,...decisions[item.id]}))};
