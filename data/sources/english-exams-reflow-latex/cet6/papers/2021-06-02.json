@@ -4295,7 +4295,7 @@
               "label": "J",
               "runs": [
                 {
-                  "text": "overhaul 0) ultimately",
+                  "text": "overhaul",
                   "flags": [
                     false,
                     false,
@@ -4308,7 +4308,7 @@
               "label": "K",
               "runs": [
                 {
-                  "text": "perm;mentlyK) permanently",
+                  "text": "permanently",
                   "flags": [
                     false,
                     false,
@@ -4348,6 +4348,19 @@
               "runs": [
                 {
                   "text": "shatter",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "O",
+              "runs": [
+                {
+                  "text": "ultimately",
                   "flags": [
                     false,
                     false,
@@ -17348,6 +17361,136 @@
           ]
         },
         {
+          "type": "question",
+          "runs": [
+            {
+              "text": "36. The total amount of damage to Notre Dame Cathedral can be assessed only when its structure is considered safe.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "37. Once again people began to argue whether Notre Dame Cathedral was going to collapse even without the fire.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "38. The Notre Dame Cathedral catastrophe was said to have helped unite the French nation.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "39. The roof of Notre Dame Cathedral was built with large numbers of densely laid-out wood beams.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "40. Renovation workers of Notre Dame Cathedral were questioned to find out the cause of the accident.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "41. Had the bell towers' wooden frames burned down, the heavy bells would have crashed down.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "42. The timely action of the firefighters prevented the fire from reaching the Cathedral's bell towers.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "43. Apart from the fire, the water used to extinguish it also caused a lot of damage to Notre Dame Cathedral.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "44. There has been argument over the years as to who should pay for the restoration of Notre Dame Cathedral.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "45. News of the Notre Dame Cathedral catastrophe instantly caught media attention throughout the world.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "runs": [
             {
@@ -25619,6 +25762,356 @@
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "51. What does the author say about car advertisements?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They portray drivers who enjoy speed on the road.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "They present a false picture of the autonomy cars provide.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "They pursue individuality and originality in design concept.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "They overestimate the potential market of autonomous cars.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "52. What does the author imply about the various gadgets on cars?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They can help to alleviate traffic jams.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Most of them are as effective as advertised.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Only some can be put to use under current traffic conditions.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "They are constantly upgraded to make driving easier and safer.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "53. What does the author say about the use of navigation apps?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is likely to create traffic jams in other places.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It helps a great deal in easing traffic congestion.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It sharply reduces the incidence of traffic accidents.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It benefits those who are learning to drive.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "54. What does the author say about technology?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Its consequences are usually difficult to assess.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It seldom delivers all the benefits as promised.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It depends on the required knowledge for application.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Its benefits are guaranteed by collective wisdom.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "55. What key message does the author try to convey in the passage?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The consequences of technological innovation need not be exaggerated.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "There is always a price to pay to develop technology for a better world.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Technological innovation should be properly regulated.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "The culture of Silicon Valley ought not to be emulated.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]

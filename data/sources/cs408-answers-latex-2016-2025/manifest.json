@@ -17,7 +17,7 @@
       "pages": 6,
       "htm": "papers/2024-answers.htm",
       "tex": "tex/2024-answers.tex",
-      "htm_sha256": "82c15f179cb5ea98f43cfbf127141a903759e12ced7f36779c058923d6745aa8",
+      "htm_sha256": "e4b912e9fa1a35ab7cd10c09053bbe1f10886a96bc8c89934c1ed4c17e55e50d",
       "tex_sha256": "6e87689d11b6e31f5b7c331719856977c14f7183af7709b9e6f94a9a52ef223b"
     },
     {
@@ -97,8 +97,8 @@
       "pages": 12,
       "htm": "papers/2016-answers.htm",
       "tex": "tex/2016-answers.tex",
-      "htm_sha256": "84f3a5bb6edac5f99f77d28024b484f6de8c8a1afa1784a54fce63a0fa0007b4",
-      "tex_sha256": "920765720b00e81d93a4e3a5468f4193ed45ea7423d326bc1b4fbd1e20ca5de7"
+      "htm_sha256": "bc8d46d40e3fc80c88156fcdd25bf8669ed669ea2c8e5d9de338eab6b922077c",
+      "tex_sha256": "17453ab14a46d054c0b11a3c73fabd3bb1759edf2c9b668fd8b0ca787f68dc7a"
     }
   ],
   "source_pages": 102,
@@ -112,11 +112,11 @@
     "2019": "39c60d800bf1834dbde31dd920433695a21a72ef443ff898cf176355e2bad4f3",
     "2018": "7e6ce28d3f957a9822c3a2db89054e4332ec3b8b59e337b3e558b6eaacf236b5",
     "2017": "507767514b477670ffb38ffb5d7eda4c96a85bf234913a0d00a60358cde2e52c",
-    "2016": "56d133af5784f506519a90dd37e91e39b4e9a08c86b2d8ba5afa67e848585cdc"
+    "2016": "590c1168b476f3d9aa97a963f11ca6423a46bb3d1805aa312064c0b88b24ce02"
   },
   "formulas": 614,
   "figures": 36,
-  "tex_compilation_verified": true,
+  "tex_compilation_verified": false,
   "browser_tested": false,
   "notes": {
     "2025": [],

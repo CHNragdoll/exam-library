@@ -6,7 +6,7 @@ import fitz
 SITE=re.compile(r'(?:https?://)?(?:zhenti\.)?burningvocabulary\.(?:cn|com)',re.I)
 OPTION=re.compile(r'(?<![A-Za-z])(?:\[([A-O])\]|([A-O])[.．)）])\s*')
 QUESTION=re.compile(r'^\s*(\d{1,3})\s*[.．)）]\s*')
-HEADING=re.compile(r'^(?:Section\s+[A-ZIVXⅠⅡⅢ]+|Part\s+[A-ZIVXⅠⅡⅢ]+|Text\s+\d+|Passage\s+(?:[A-Z\d]+|One|Two|Three)|TEST FOR|TIME LIMIT|Conversation\s+(?:One|Two)|Questions?\s+\d+)',re.I)
+HEADING=re.compile(r'^(?:Section\s+(?:[IVXⅠⅡⅢⅣⅤ]+|[A-Z])(?=\s|$|[:：])|Part\s+(?:[IVXⅠⅡⅢⅣⅤ]+|[A-Z])(?=\s|$|[:：])|Text\s+\d+|Passage\s+(?:[A-Z\d]+|One|Two|Three)|TEST FOR|TIME LIMIT|Conversation\s+(?:One|Two)|Questions?\s+\d+)',re.I)
 
 def plain(chars):return ''.join(c['c'] for c in chars)
 def normalize(chars):
@@ -273,7 +273,9 @@ def extract(page,font_maps=None,unknown_glyphs=None):
             flush();blocks.append({'type':'heading' if not text.lower().startswith('questions') else 'instruction','runs':runs(cs)});prev=None;continue
         if q:
             flush();blocks.append({'type':'question','runs':runs(cs)});prev=row;continue
-        new=prev is None or row['y']-prev['y']>base*2.25 or row['rect'].x0>margin+base*.9 and row['rect'].x0<margin+base*5
+        new=(prev is None or row['y']-prev['y']>base*2.25
+             or margin+base*.9<row['rect'].x0<margin+base*5
+             or prev is not None and base*.85<row['rect'].x0-prev['rect'].x0<base*5)
         if new:flush()
         if pending:
             before=plain(pending)[-1:];after=text[:1]

@@ -2720,13 +2720,18 @@
               ]
             },
             {
-              "text": "_. In honor of the poem 's publication on May 24，1830，here’s more about the ",
+              "text": "_. In honor of the poem 's publication on May 24，1830，here’s more about the",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "28",
               "flags": [
@@ -2881,13 +2886,18 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The true authorship of “Mary’s Little Lamb” is disputed.. According to New England Historical Society, Hale wrote only one part of the poem, but claimed authorship. Regardless of the author, it seems that the poem was ",
+              "text": "The true authorship of “Mary’s Little Lamb” is disputed.. According to New England Historical Society, Hale wrote only one part of the poem, but claimed authorship. Regardless of the author, it seems that the poem was",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "34",
               "flags": [
@@ -4012,7 +4022,46 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "machine would incorrectly view as separate people. \"Once we scale up, algorithms must be sensitive to tiny changes in identities and at the same time invariant to lighting, pose, age, \"Kemelmacher-Shlizerman said. The trouble is, for many of the researchers who'd like to design systems to address these challenges, massive datasets for experimentation just don't exist--at least, not in formats that are accessible to academic researchers.Training sets like the ones Google and Facebook have are private. There are no public databases that contain millions of faces. MegaFace's creators say it's the largest publicly available facial-recognition dataset out there. “An ultimate face recognition algorithm should perform with billions of people in a dataset, ”the researchers wrote.",
+              "text": "machine would incorrectly view as separate people.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "\"Once we scale up, algorithms must be sensitive to tiny changes in identities and at the same time invariant to lighting, pose, age, \"Kemelmacher-Shlizerman said.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The trouble is, for many of the researchers who'd like to design systems to address these challenges, massive datasets for experimentation just don't exist--at least, not in formats that are accessible to academic researchers.Training sets like the ones Google and Facebook have are private. There are no public databases that contain millions of faces. MegaFace's creators say it's the largest publicly available facial-recognition dataset out there.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“An ultimate face recognition algorithm should perform with billions of people in a dataset, ”the researchers wrote.",
               "flags": [
                 false,
                 false,
@@ -4409,7 +4458,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "There’re currently 21.5 million students in America, and many will be funding their college on borrowed money. Given that there's now over $1.3 trillion in student loans on the books, it's pretty clear that many students are far from sensible. The average student's debt upon graduation now approaches $40, 000, and as college becomes ever more expensive, calls to make it \"free\" are multiplying. Even Hillary Clinton says that when it comes to college, \"Costs won't be a barrier.\" But the only way college could be free is if the faculty and staff donated their time, the buildings required no maintenance, and campuses required no utilities. As long as it's impossible to produce something from nothing costs are absolutely a barrier.",
+              "text": "There’re currently 21.5 million students in America, and many will be funding their college on borrowed money. Given that there's now over $1.3 trillion in student loans on the books, it's pretty clear that many students are far from sensible. The average student's debt upon graduation now approaches $40, 000, and as college becomes ever more expensive, calls to make it \"free\" are multiplying. Even Hillary Clinton says that when it comes to college, \"Costs won't be a barrier.\"",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "But the only way college could be free is if the faculty and staff donated their time, the buildings required no maintenance, and campuses required no utilities. As long as it's impossible to produce something from nothing costs are absolutely a barrier.",
               "flags": [
                 false,
                 false,

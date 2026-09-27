@@ -4546,7 +4546,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "I’ve got a class assignment to make an oral report on an ancient Chinese scientist, but I’m not sure how to prepare for it. Can you give me some advice? Thank you for your help. Yours, Paul Write your answer in about 100 words on the ANSWER SHEET. ",
+              "text": "I’ve got a class assignment to make an oral report on an ancient Chinese scientist, but I’m not sure how to prepare for it. Can you give me some advice? Thank you for your help. Yours,",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Paul Write your answer in about 100 words on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,
@@ -4669,6 +4682,19 @@
             529.8,
             472,
             734.4
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2020年 2021年 2022年",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
           ]
         }
       ],

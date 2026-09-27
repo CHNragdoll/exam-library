@@ -1170,7 +1170,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "12. A )All of the acting nominees are white.",
+              "text": "12.",
               "flags": [
                 false,
                 false,
@@ -1182,6 +1182,19 @@
         {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "All of the acting nominees are white.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
@@ -4052,7 +4065,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "talking to each other. The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge. The biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities. The good news is that most of this technology is already invented. Let's face it, it wasn't too long ago that the idea of working from anywhere and at anytime was some form of a distant utopian(乌托邦式的) dream, and yet now we can perform almost any office-based task from any location in the world as long as we have access to the internet. It's time to wake up to the fact that making smart buildings, cities and homes will dramatically improve our quality of life in the years ahead.",
+              "text": "talking to each other. The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge.",
               "flags": [
                 false,
                 false,
@@ -4061,6 +4074,45 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The good news is that most of this technology is already invented. Let's face it, it wasn't too long ago that the idea of working from anywhere and at anytime was some form of a distant utopian(乌托邦式的) dream, and yet now we can perform almost any office-based task from any location in the world as long as we have access to the internet.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "It's time to wake up to the fact that making smart buildings, cities and homes will dramatically improve our quality of life in the years ahead.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",

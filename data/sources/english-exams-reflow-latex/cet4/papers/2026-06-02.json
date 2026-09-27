@@ -3298,7 +3298,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "P. “If you don’t want to have dementia when you’re 80, the time to start getting fit is now,” he said. “It may not necessarily give you a longer life, but there’s a compelling body of work that it will give you more good years.”",
+              "text": "P. “If you don’t want to have dementia when you’re 80, the time to start getting fit is now,” he said. “It may not",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "necessarily give you a longer life, but there’s a compelling body of work that it will give you more good years.”",
               "flags": [
                 false,
                 false,

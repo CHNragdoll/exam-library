@@ -2035,23 +2035,10 @@
           ]
         },
         {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "Part of this is because women take on more of the unpaid labor at home, which can eat into time available for",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "work and energy for career advancement. But it’s also because mothers are passed over for raises and promotion, and because time out of the workplace sets women back, even if that time is taken voluntarily, and supported by",
+              "text": "Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement. But it’s also because mothers are passed over for raises and promotion, and because time out of the workplace sets women back, even if that time is taken voluntarily, and supported by",
               "flags": [
                 false,
                 false,
@@ -2080,7 +2067,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "company or government policy. What would have happened if leave policies hadn’t been introduced? The study doesn’t go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now. It’s possible, however, that the journey towards wage parity would have stalled either way. If women’s gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women — who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.",
+              "text": "company or government policy.",
               "flags": [
                 false,
                 false,
@@ -2089,6 +2076,32 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "What would have happened if leave policies hadn’t been introduced? The study doesn’t go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "It’s possible, however, that the journey towards wage parity would have stalled either way. If women’s gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women — who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -2519,15 +2532,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "粵港澳大湾区 ",
               "flags": [

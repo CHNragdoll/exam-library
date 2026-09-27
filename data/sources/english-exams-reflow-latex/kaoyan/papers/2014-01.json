@@ -4346,7 +4346,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Write a letter of about 100 words to the president of your university, suggesting how to improve students’ physical condition. You should include the details you think necessary. You should write neatly on the ANSWER SHEET. ",
+              "text": "Write a letter of about 100 words to the president of your university, suggesting how to improve students’ physical condition.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should include the details you think necessary. You should write neatly on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

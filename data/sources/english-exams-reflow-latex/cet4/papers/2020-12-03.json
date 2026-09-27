@@ -16197,15 +16197,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "of ",
               "flags": [
@@ -35951,6 +35948,19 @@
               ],
               "glyph_font_size": 13.0,
               "glyph_origin_y": 114.802001953125
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "51. Why did politicians use the two terms \"global warming'' and \"climate change\"?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
             }
           ]
         },

@@ -1156,7 +1156,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "12. A )All services will be personalized.",
+              "text": "12.",
               "flags": [
                 false,
                 false,
@@ -1168,6 +1168,19 @@
         {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "All services will be personalized.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
@@ -3485,7 +3498,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "says Serrat. “The question is not if it will reach other rice-growing areas of Europe, but when.” Over the next year and a half investigators will test the various strains of saline-tolerant rice they’ve concocted. In 2018, farmers will plant the varieties with the most promise in the Ebro Delta and Europe’s other two main rice-growing regions—along the Po in Italy, and France’s Rhône. A season in the field will help determine which, if any, of the varieties are ready for commercialization. As an EU-funded effort, the search for salt-tolerant varieties of rice is taking place in all three countries. Each team is crossbreeding a local European short-grain rice with a long-grain Asian variety that carries the salt-resistant gene. The scientists are breeding successive generations to arrive at varieties that incorporate salt tolerance but retain about 97 percent of the European rice genome （基因组）.",
+              "text": "says Serrat. “The question is not if it will reach other rice-growing areas of Europe, but when.”",
               "flags": [
                 false,
                 false,
@@ -3494,6 +3507,32 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Over the next year and a half investigators will test the various strains of saline-tolerant rice they’ve concocted. In 2018, farmers will plant the varieties with the most promise in the Ebro Delta and Europe’s other two main rice-growing regions—along the Po in Italy, and France’s Rhône. A season in the field will help determine which, if any, of the varieties are ready for commercialization.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "As an EU-funded effort, the search for salt-tolerant varieties of rice is taking place in all three countries. Each team is crossbreeding a local European short-grain rice with a long-grain Asian variety that carries the salt-resistant gene. The scientists are breeding successive generations to arrive at varieties that incorporate salt tolerance but retain about 97 percent of the European rice genome （基因组）.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -3875,7 +3914,59 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Photography was once an expensive, laborious ordeal reserved for life’s greatest milestones. Now, the only apparent cost to taking infinite photos of something as common as a meal is the space on your hard drive and your dining companion’s patience. But is there another cost, a deeper cost, to documenting a life experience instead of simply enjoying it? “You hear that you shouldn’t take all these photos and interrupt the experience, and it’s bad for you, and we’re not living in the present moment,” says Kristin Diehl, associate professor of marketing at the University of Southern California Marshall School of Business. Diehl and her fellow researchers wanted to find out if that was true, so they embarked on a series of nine experiments in the lab and in the field testing people’s enjoyment in the presence or absence of a camera. The results, published in the Journal of Personality and Social Psychology, surprised them. Taking photos actually makes people enjoy what they’re doing more, not less. “What we find is you actually look at the world slightly differently, because you’re looking for things you want to capture, that you may want to hang onto,” Diehl explains. “That gets people more engaged in the experience, and they tend to enjoy it more.” Take sightseeing. In one experiment, nearly 200 participants boarded a double-decker bus for a tour of Philadelphia. Both bus tours forbade the use of cell phones but one tour provided digital cameras and encouraged people to take photos.",
+              "text": "Photography was once an expensive, laborious ordeal reserved for life’s greatest milestones. Now, the only apparent cost to taking infinite photos of something as common as a meal is the space on your hard drive and your dining companion’s patience.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "But is there another cost, a deeper cost, to documenting a life experience instead of simply enjoying it? “You hear that you shouldn’t take all these photos and interrupt the experience, and it’s bad for you, and we’re not living in the present moment,” says Kristin Diehl, associate professor of marketing at the University of Southern California Marshall School of Business.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Diehl and her fellow researchers wanted to find out if that was true, so they embarked on a series of nine experiments in the lab and in the field testing people’s enjoyment in the presence or absence of a camera. The results, published in the Journal of Personality and Social Psychology, surprised them. Taking photos actually makes people enjoy what they’re doing more, not less.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“What we find is you actually look at the world slightly differently, because you’re looking for things you want to capture, that you may want to hang onto,” Diehl explains. “That gets people more engaged in the experience, and they tend to enjoy it more.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Take sightseeing. In one experiment, nearly 200 participants boarded a double-decker bus for a tour of Philadelphia. Both bus tours forbade the use of cell phones but one tour provided digital cameras and encouraged people to take photos.",
               "flags": [
                 false,
                 false,
@@ -3901,7 +3992,46 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The people who took photos enjoyed the experience significantly more, and said they were more engaged, than those who didn’t. Snapping a photo directs attention, which heightens the pleasure you get from whatever you’re looking at, Diehl says. It works for things as boring as archaeological（考古的）museums, where people were given eye-tracking glasses and instructed either to take photos or not. “People look longer at things they want to photograph,” Diehl says. They report liking the exhibits more, too. To the relief of Instagrammers（Instagram 用户）everywhere, it can even make meals more enjoyable. When people were encouraged to take at least three photos while they ate lunch, they were more immersed in their meals than those who weren’t told to take photos. Was it the satisfying click of the camera? The physical act of the snap? No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. “If you want to take mental photos, that works the same way,” Diehl says. “Thinking about what you would want to photograph also gets you more engaged.”",
+              "text": "The people who took photos enjoyed the experience significantly more, and said they were more engaged, than those who didn’t.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Snapping a photo directs attention, which heightens the pleasure you get from whatever you’re looking at, Diehl says. It works for things as boring as archaeological（考古的）museums, where people were given eye-tracking glasses and instructed either to take photos or not. “People look longer at things they want to photograph,” Diehl says. They report liking the exhibits more, too.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "To the relief of Instagrammers（Instagram 用户）everywhere, it can even make meals more enjoyable. When people were encouraged to take at least three photos while they ate lunch, they were more immersed in their meals than those who weren’t told to take photos.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Was it the satisfying click of the camera? The physical act of the snap? No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. “If you want to take mental photos, that works the same way,” Diehl says. “Thinking about what you would want to photograph also gets you more engaged.”",
               "flags": [
                 false,
                 false,
@@ -4333,7 +4463,20 @@
               ]
             },
             {
-              "text": ". 过去，拥有一辆私家车对大部分中国人而言是件奢侈的事。如今，私家车在中国随处可见。汽车成了人们生活中不可或缺的一部分，他们不仅开车上下班，还经常驾车出游。有些城市的汽车增长速度过快，以至于交通拥堵和停车位不足的问题日益严峻，这些城市的市政府不得不出台新规，限制上路汽车的数量。由于空气污染日益严重， 现在越来越多的人选择购买新能源汽车，中国政府也采取了一些措施，支持新能源汽车的发展。",
+              "text": ".",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "过去，拥有一辆私家车对大部分中国人而言是件奢侈的事。如今，私家车在中国随处可见。汽车成了人们生活中不可或缺的一部分，他们不仅开车上下班，还经常驾车出游。有些城市的汽车增长速度过快，以至于交通拥堵和停车位不足的问题日益严峻，这些城市的市政府不得不出台新规，限制上路汽车的数量。由于空气污染日益严重， 现在越来越多的人选择购买新能源汽车，中国政府也采取了一些措施，支持新能源汽车的发展。",
               "flags": [
                 false,
                 false,

@@ -3232,7 +3232,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "46. The author felt as a boy that his life in a separated neighborhood was casual and cozy.",
@@ -3245,7 +3245,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "47. There is every sign of decline at the paper mill now.",
@@ -3258,7 +3258,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "48. One reason the author’s father could sit and eat at the drug store was that he didn’t look that dark.",
@@ -3271,7 +3271,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "49. Piedmont was a town of immigrants from different parts of the world.",
@@ -3284,7 +3284,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "50. In spite of the awful inconveniences caused by racial prejudice, the author’s family managed to live a life of dignity.",
@@ -3297,7 +3297,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "51. The author later realized he had caused great distress to his father by asking why he was wrongly addressed.",
@@ -3310,7 +3310,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "52. The author took pride in being from Piedmont because of its natural beauty.",
@@ -3323,7 +3323,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "53. Colored people called white people by the business they did.",
@@ -3336,7 +3336,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "54. Colored people who lived in Piedmont did heavy manual jobs at the paper mill.",
@@ -3349,7 +3349,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "55. The colored people felt uneasy at the presence of the whites in their neighborhoods.",
@@ -3471,7 +3471,59 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Children are a delight. They are our future. But sadly, hiring someone to take care of them while you go to work is getting more expensive by the year. Earlier this month，it was reported that the cost of enrolling an infant or small kid at a childcare center rose 3% in 2012, faster than the overall cost of living. There are now large strips of the country where daycare for an infant costs more than a tenth of the average married coupled income. This is not necessarily a new trend, but it is a somewhat puzzling one. The price of professional childcare has been rising since the 1980s. Yet during that time, pay for professional childcare workers has stood still. Actually caregivers make less today, in real terms, than they did in 1990. Considering that labor costs are responsible for up to 80% of a daycare centers expenses, one would expect flat wages to have meant flat prices. So who^ to blame for higher childcare costs? Childcare is a carefully regulated industry. States lay down rules about how many children each employee is allowed to watch over, the space care centers need per child, and other minute details. And the stricter the regulations, the higher the costs. If it has to hire a caregiver for every two children, it can^ really achieve any economies of scale on labor to save money when other expenses go up. In Massachusetts, where childcare centers must hire one teacher for every three infants, the price of care averaged more than $ 16,000 per year. In Mississippi, where centers must hire one teacher for every five infants, the price of care averaged less than $ 5,000. Unfortunately, I don^ have all the daycare-center regulations handy. But I wouldn’t be surprised if as the rules have become more elaborate, prices have risen. The",
+              "text": "Children are a delight. They are our future. But sadly, hiring someone to take care of them while you go to work is getting more expensive by the year.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Earlier this month，it was reported that the cost of enrolling an infant or small kid at a childcare center rose 3% in 2012, faster than the overall cost of living. There are now large strips of the country where daycare for an infant costs more than a tenth of the average married coupled income.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "This is not necessarily a new trend, but it is a somewhat puzzling one. The price of professional childcare has been rising since the 1980s. Yet during that time, pay for professional childcare workers has stood still. Actually caregivers make less today, in real terms, than they did in 1990. Considering that labor costs are responsible for up to 80% of a daycare centers expenses, one would expect flat wages to have meant flat prices.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "So who^ to blame for higher childcare costs? Childcare is a carefully regulated industry. States lay down rules about how many children each employee is allowed to watch over, the space care centers need per child, and other minute details. And the stricter the regulations, the higher the costs. If it has to hire a caregiver for every two children, it can^ really achieve any economies of scale on labor to save money when other expenses go up. In Massachusetts, where childcare centers must hire one teacher for every three infants, the price of care averaged more than $ 16,000 per year. In Mississippi, where centers must hire one teacher for every five infants, the price of care averaged less than $ 5,000.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Unfortunately, I don^ have all the daycare-center regulations handy. But I wouldn’t be surprised if as the rules have become more elaborate, prices have risen. The",
               "flags": [
                 false,
                 false,
@@ -4071,13 +4123,26 @@
               "label": "C",
               "runs": [
                 {
-                  "text": "are fearful about using the cellphone or computer AD) can hardly tear themselves away from the Internet",
+                  "text": "are fearful about using the cellphone or computer",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "AD) can hardly tear themselves away from the Internet",
+              "flags": [
+                false,
+                false,
+                false
               ]
             }
           ]

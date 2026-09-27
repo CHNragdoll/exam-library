@@ -59,15 +59,21 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
   const sourceParagraphs=[...m.querySelectorAll('section[data-source-page="7"] > p.paragraph')];
   for(const start of originalStarts)assert(sourceParagraphs.some(p=>p.textContent.trim().startsWith(start)),
    `source SVG paragraph starts at ${start}`);
-  assert.equal(sourceParagraphs.filter(p=>p.classList.contains('reader-source-paragraph')).length,5,
+  assert.equal(sourceParagraphs.filter(p=>originalStarts.some(start=>p.textContent.trim().startsWith(start))).length,5,
    'Passage One has exactly five source paragraphs before Passage Two starts');
+  assert(sourceParagraphs[5]?.textContent.trim().startsWith('Across the board'),
+   'Passage Two begins after the five source paragraphs');
   assert(!sourceParagraphs.some(p=>p.textContent.includes('A) In the long view')),
    'lettered matching-passage option stays outside the reading paragraphs');
-  const translation=[...m.querySelectorAll('.reader-translation-body')];
+  const translation=[...m.querySelectorAll('p.paragraph')].filter(p=>
+   /^(?:最近，中国政府|中国造产品)/.test(p.textContent.trim()));
   assert.equal(translation.length,2,'the two original translation paragraphs are separate');
   assert(translation[0].textContent.trim().startsWith('最近，中国政府'));
   assert(translation[1].textContent.trim().startsWith('中国造产品'));
-  assert(m.querySelector('.reader-translation-directions').textContent.trim().endsWith('Answer Sheet 2.'));
+  assert(translation[0].nextElementSibling===translation[1],
+   'translation paragraphs remain adjacent');
+  assert(translation[0].previousElementSibling?.textContent.trim().endsWith('Answer Sheet 2.'),
+   'translation directions precede the body');
   const lettered=[...m.querySelectorAll('.reader-lettered-paragraph')];
   assert(lettered.some(p=>p.querySelector('.reader-lettered-label')?.textContent==='J)'));
   assert(lettered.some(p=>p.querySelector('.reader-lettered-label')?.textContent==='K)'));

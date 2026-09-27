@@ -2259,14 +2259,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "23、A) It was named after its location.",
+              "text": "23.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It was named after its location.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2316,14 +2334,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "24、A) Animal painting was part of the spiritual life of the time.",
+              "text": "24.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Animal painting was part of the spiritual life of the time.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2373,14 +2409,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "25、A) They know little about why the paintings were created.",
+              "text": "25.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They know little about why the paintings were created.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -3064,7 +3118,20 @@
               ]
             },
             {
-              "text": " what they know. Thus once they enter school, children begin to define subjects and erect boundaries that needn’t otherwise exist. Dividing subjects into science, maths, English, etc. is something we do for ",
+              "text": " what they know. Thus once they enter school, children begin to define subjects and erect boundaries that needn’t otherwise exist.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dividing subjects into science, maths, English, etc. is something we do for ",
               "flags": [
                 false,
                 false,
@@ -3096,7 +3163,20 @@
               ]
             },
             {
-              "text": "themselves from a scientific education. They think science is for scientists, not for them. Of course we need to specialise ",
+              "text": "themselves from a scientific education. They think science is for scientists, not for them.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Of course we need to specialise ",
               "flags": [
                 false,
                 false,
@@ -3975,7 +4055,46 @@
               ]
             },
             {
-              "text": " has mapped the benefits of positive emotions in individuals. She has found that positive emotions broaden a person’s perspective and help protect people against adversity. So it was surprising to her that hedonic wellbeing, which is associated with positive emotions and pleasure, did so badly in this study compared with eudaimonic well-being. Q) “It’s not the amount of hedonic happiness that’s a problem.” Fredrickson tells me, “It’s that it’s not matched by eudaimonic well-being. It’s great when both are in step. But if you have more hedonic well-being than would be expected, that’s when this [gene] pattern that’s similar to adversity emerged. ” R) The terms hedonism and eudaimonism bring to mind the great philosophical debate, which has shaped Western civilization for over 2 000 years, about the nature of the good life. Does happiness lie in feeling good, as hedonists think, or in doing and being good, as Aristotle and his intellectual descendants, the",
+              "text": " has mapped the benefits of positive",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "emotions in individuals. She has found that positive emotions broaden a person’s perspective and help protect people against adversity. So it was surprising to her that hedonic wellbeing, which is associated with positive emotions and pleasure, did so badly in this study compared with eudaimonic well-being. Q) “It’s not the amount of hedonic happiness that’s a problem.” Fredrickson tells me, “It’s that it’s not matched by eudaimonic",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "well-being. It’s great when both are in step. But if you have more hedonic well-being than would be expected, that’s when this [gene] pattern that’s similar to adversity emerged. ” R) The terms hedonism and eudaimonism bring to mind the great philosophical debate, which has shaped Western civilization",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "for over 2 000 years, about the nature of the good life. Does happiness lie in feeling good, as hedonists think, or in doing and being good, as Aristotle and his intellectual descendants, the",
               "flags": [
                 false,
                 false,
@@ -5367,7 +5486,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -5408,9 +5527,14 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " Directions：",
+              "text": "Directions：",
               "flags": [
                 false,
                 false,
@@ -5464,9 +5588,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 反映在艺术和文学中的乡村生活理想是中国文明的重要特征。这在很大程度上归功于道家（Taoist) 对自然的情感。传统中国画有两个最受青睐的主题，一是家庭生活的各种幸福场景，画中往往有老人在饮茶下棋，男人在耕耘收割，妇女在织布缝衣，小孩在户外玩耍。另一个则是乡村生活的种种乐趣，画有渔夫在湖上打渔，农夫在山上欲柴采药，或是书生坐在松树下呤诗作画。这两个主题可以分别代表儒家(Confucian)和道家的生活理想。 注意：此部分试题请在答题卡2 上作答。",
+              "text": "反映在艺术和文学中的乡村生活理想是中国文明的重要特征。这在很大程度上归功于道家（Taoist) 对自然的情感。传统中国画有两个最受青睐的主题，一是家庭生活的各种幸福场景，画中往往有老人在饮茶下棋，男人在耕耘收割，妇女在织布缝衣，小孩在户外玩耍。另一个则是乡村生活的种种乐趣，画有渔夫在湖上打渔，农夫在山上欲柴采药，或是书生坐在松树下呤诗作画。这两个主题可以分别代表儒家(Confucian)和道家的生活理想。 注意：此部分试题请在答题卡2 上作答。",
               "flags": [
                 false,
                 false,

@@ -4651,7 +4651,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Write an e-mail of about 100 words to a foreign teacher in your college, inviting him/her to be a judge for the upcoming English speech contest. You should include the details you think necessary. You should write neatly on the ANSWER SHEET. ",
+              "text": "Write an e-mail of about 100 words to a foreign teacher in your college, inviting him/her to be a judge for the upcoming English speech contest.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should include the details you think necessary. You should write neatly on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

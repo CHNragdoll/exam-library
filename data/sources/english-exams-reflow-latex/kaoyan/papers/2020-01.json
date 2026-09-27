@@ -4503,7 +4503,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The student union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words. Write your answer on the ANSWER SHEET. ",
+              "text": "The student union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write your answer on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

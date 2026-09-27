@@ -2760,7 +2760,21 @@
               ]
             },
             {
-              "text": ". If either partner fairly consistently ",
+              "text": ".",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "If either partner fairly consistently ",
               "flags": [
                 false,
                 false,
@@ -2783,8 +2797,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -4221,7 +4234,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It’s not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal. Possible universal principles of beauty — such as proportion, fittingness, radiance, and others — are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal. This is why it’s important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions.",
+              "text": "Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It’s not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Possible universal principles of beauty — such as proportion, fittingness, radiance, and others — are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "This is why it’s important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions.",
               "flags": [
                 false,
                 false,
@@ -4659,9 +4698,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 洋山港 (Yangshan Port) 是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模最大的深水港之一。经过近20 年的发展，洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙，现场却见不到人工操作，而且能够24 小时不间断运作。洋山港将不断发展，为把上海建成一个全球航运中心做出更大贡献。",
+              "text": "洋山港 (Yangshan Port) 是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模最大的深水港之一。经过近20 年的发展，洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙，现场却见不到人工操作，而且能够24 小时不间断运作。洋山港将不断发展，为把上海建成一个全球航运中心做出更大贡献。",
               "flags": [
                 false,
                 false,

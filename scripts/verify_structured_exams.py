@@ -65,9 +65,16 @@ def main() -> None:
             assert set(question["sourceBlocks"]).issubset(block_set)
             assert question["questionType"] in {"single_choice", "multiple_choice", "fill_blank", "free_response", "answer"}
             labels = [option["label"] for option in question["options"]]
-            assert labels == sorted(set(labels), key=lambda label: "ABCD".index(label[0]))
-            assert all(label in {"A.", "B.", "C.", "D."} for label in labels)
-            assert all(re.search(r"[A-D]", option["sourceLabel"]) for option in question["options"])
+            matching_bank = (paper["category"] == "kaoyan" and
+                             (question.get("context") or {}).get("kind") in
+                             {"matching_table", "ordering_diagram"})
+            allowed_labels = "ABCDEFGH" if matching_bank else "ABCDE"
+            assert labels == sorted(labels, key=lambda label: allowed_labels.index(label[0]))
+            if len(labels) != len(set(labels)):
+                assert question["status"] == "partial"
+            assert all(label in {f"{letter}." for letter in allowed_labels} for label in labels)
+            assert all(re.search(rf"[{allowed_labels}]", option["sourceLabel"])
+                       for option in question["options"])
             answer = question["answer"]
             assert all(key in answer for key in ("value", "solution", "explanation", "commentary", "knowledge", "sourceDocumentId", "sourceQuestionIds", "sourceBlocks", "sourcePages", "status"))
             context = question["context"]
@@ -129,14 +136,14 @@ def main() -> None:
     preview = BeautifulSoup((OUT / "papers/kaoyan/2026-01.htm").read_text(encoding="utf-8"), "html.parser")
     assert preview.select_one(".choice-row.compact-choice-row")
     for year, modes, line_counts in (
-        (2024, ("start", "end"), (1, 3)),
-        (2025, ("start", "end"), (2, 2)),
+        (2024, ("start", "middle", "end"), (1, 2, 1)),
+        (2025, ("start", "end", "after"), (2, 2, 0)),
         (2026, ("single", "after"), (4, 0)),
     ):
         paper = papers[f"kaoyan:{year}-01"]
         preview = BeautifulSoup((OUT / f"papers/kaoyan/{year}-01.htm").read_text(encoding="utf-8"), "html.parser")
         block_data = {block["id"]: block for block in paper["blocks"]}
-        for index, mode, count in zip((5, 6), modes, line_counts):
+        for index, mode, count in zip(range(5, 5 + len(modes)), modes, line_counts):
             block_id = f"b-14-{index}"
             element = preview.find(id=block_id)
             assert element and f"email-{mode}" in element.get("class", []), (year, block_id)
@@ -156,15 +163,25 @@ def main() -> None:
             assert presentation["instructionsOutsideFrame"] == bool(presentation["instructions"])
             assert [p.get_text(" ", strip=True) for p in element.select(".email-instructions > p")] == [
                 item["text"] for item in presentation["instructions"]]
-        assert preview.select_one("#b-14-6 .email-instructions strong").get_text(" ", strip=True) == "Do not"
-        assert len(preview.select("#b-14-6 .email-instructions > p")) == 2
+        instruction_block = 7 if year in {2024, 2025} else 6
+        assert preview.select_one(f"#b-14-{instruction_block} .email-instructions strong").get_text(" ", strip=True) == "Do not"
+        assert len(preview.select(f"#b-14-{instruction_block} .email-instructions > p")) == 2
         assert [line.get_text(" ", strip=True) for line in preview.select(".email-card-part .email-line") if
                 "email-closing" in line.get("class", []) or "email-signature" in line.get("class", [])] == ["Yours,", "Paul"]
+        if year == 2024:
+            assert all(not block.get("presentation", {}).get("layoutKind") == "email"
+                       for block in paper["blocks"] if block["sourcePageIndex"] == 14 and block["sourceBlockIndex"] >= 8)
     math = papers["math3:1997-questions"]
     fill = next(question for question in math["questions"] if question["id"] == "q-1-1")
     choice = next(question for question in math["questions"] if question["id"] == "q-1-2")
     assert fill["questionType"] == "fill_blank" and choice["questionType"] == "single_choice"
-    assert fill["answer"]["status"] == choice["answer"]["status"] == "ambiguous"
+    assert fill["answer"]["status"] == choice["answer"]["status"] == "explicit"
+    assert "e^{f(x)}" in fill["answer"]["value"]
+    assert choice["answer"]["value"] == "B"
+    assert fill["answer"]["sourceDocumentId"] == choice["answer"]["sourceDocumentId"] == "math3:1997-answers"
+    assert fill["answer"]["sourceQuestionIds"] == ["q-1-1"]
+    assert choice["answer"]["sourceQuestionIds"] == ["q-1-2"]
+    assert fill["answer"]["sourcePages"] == choice["answer"]["sourcePages"] == ["119"]
     assert papers["cet6:2015-12-02"]["pages"] == 9
     politics = papers["politics:2023-questions"]
     assert (politics["audit"]["politicsContinuations"], politics["audit"]["politicsPageArtifacts"],
@@ -180,7 +197,13 @@ def main() -> None:
     assert politics_preview.find(id="b-4-1").has_attr("hidden")
     assert "-8 -" not in politics_preview.find(id="b-8-2").get_text()
     assert "二〇二〇年" in politics_preview.find(id="b-7-1").get_text()
-    assert len(politics_preview.find(id="b-10-1").select("br.politics-subquestion-break")) == 2
+    q37_parts = [node.get_text(" ", strip=True) for node in politics_preview.find(id="b-10-1").select("p")]
+    assert sum(part.startswith(("(1)", "（1）", "(2)", "（2）")) for part in q37_parts) == 2
+    q38_parts = [node.get_text(" ", strip=True) for node in politics_preview.find(id="b-11-1").select("p")]
+    material_start = q38_parts.index("材料2")
+    assert [part[:9] for part in q38_parts[material_start + 1:material_start + 5]] == [
+        "当前世界经济面临衰", "作为在全球范围内以", "中国提出的全球发展", "针对人类发展面临的",
+    ]
     bank = [json.loads(line) for line in (OUT / "question-bank.jsonl").read_text(encoding="utf-8").splitlines()]
     assert len(bank) == len(prompts) == audit["bank"]["questions"]
     assert len({item["id"] for item in bank}) == len(bank)

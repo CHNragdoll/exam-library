@@ -3251,7 +3251,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "P. “I do think there’s still some way to go...there’s still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that’s starting to change.” He said equal parental leave is an essential component to creating gender equality in the workplace. “The old standard of women staying home, having babies and cooking doesn’t apply and hasn’t applied for a long time.”",
+              "text": "P. “I do think there’s still some way to go...there’s still going to be sort of the unstated expectation for new",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "dads to essentially come right back to work, but I think the research is showing that’s starting to change.” He said equal parental leave is an essential component to creating gender equality in the workplace. “The old standard of women staying home, having babies and cooking doesn’t apply and hasn’t applied for a long time.”",
               "flags": [
                 false,
                 false,
@@ -4095,7 +4108,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices. The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+              "text": "types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices.",
               "flags": [
                 false,
                 false,
@@ -4104,6 +4117,19 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -4534,9 +4560,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 改革开放以来，中国人民生活水平不断提高,这在人们的",
+              "text": "改革开放以来，中国人民生活水平不断提高,这在人们的",
               "flags": [
                 false,
                 false,

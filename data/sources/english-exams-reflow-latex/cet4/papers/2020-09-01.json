@@ -2763,13 +2763,19 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "discussing financial matters with those closest to them. Alternatively, they would go to the other ",
+              "text": "discussing financial matters with those closest to them. Alternatively, they would go to the other",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "34",
               "flags": [
@@ -2786,8 +2792,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -3880,7 +3885,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "While the continued gender penalty in the tabor market is frustrating, our finding that misperceived weight does not harm workers is more heartening. Since employers' perception of weight is what matters in the tabor market, changing discrimination laws to include body type as a category would help. Michigan is the only state that prohibits discrimination on the basis of weight and height. We believe expanding such protections would make the labor market more fair and efficient.",
+              "text": "While the continued gender penalty in the tabor market is frustrating, our finding that misperceived weight does not harm workers is more heartening.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Since employers' perception of weight is what matters in the tabor market, changing discrimination laws to include body type as a category would help. Michigan is the only state that prohibits discrimination on the basis of weight and height. We believe expanding such protections would make the labor market more fair and efficient.",
               "flags": [
                 false,
                 false,
@@ -4269,7 +4287,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "The work-life balance is dead. By this, I'm not advocating that you should give up your pursuit of having a fulfilling career and a thriving personal life, and I'm definitely not saying that you have to give up one to have the other. I also acknowledge that we have a work-life problem, but I'm arguing that the concept of balance has never been helpful, because it's too limiting. You see, our language makes a difference, and how we refer to things matters because it affects our thinking and therefore our actions. At the minimum, most of us work because we want to be able to support ourselves, our families, and the people around us. In the ideal world, we're all doing work that we're proud of and that provides meaning and purpose to us. But even if your job doesn't give you shivers of joy each new day, working is a",
+              "text": "The work-life balance is dead. By this, I'm not advocating that you should give up your pursuit of having a fulfilling career and a thriving personal life, and I'm definitely not saying that you have to give up one to have the other. I also acknowledge that we have a work-life problem, but I'm arguing that the concept of balance has never been helpful, because it's too limiting. You see, our language makes a difference, and how we refer to things matters because it affects our thinking and therefore our actions.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "At the minimum, most of us work because we want to be able to support ourselves, our families, and the people around us. In the ideal world, we're all doing work that we're proud of and that provides meaning and purpose to us. But even if your job doesn't give you shivers of joy each new day, working is a",
               "flags": [
                 false,
                 false,
@@ -15110,6 +15141,356 @@
               ],
               "glyph_font_size": 9.5,
               "glyph_origin_y": 512.9600219726562
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "51. What does the author suggest by saying \"The work-life balance is dead\"?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The hope of achieving a thriving life is impossible to realize.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "The pursuit of a fulfilling career involves personal sacrifice.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The imbalance between work and life simply doesn't exist anymore.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "The concept of work-life balance contributes little to a fulfilling life.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "52. What does the author say about our use of language?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It impacts how we think and behave.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It changes with the passage of time.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It reflects how we communicate.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It differs from person to person.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "53. What does the author say we do in an ideal world?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "We do work that betters the lives of our families and friends.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "We do work that gives us bursts of joy each new day.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "We do meaningful work that contributes to society.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "We do demanding work that brings our capacity into full play.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "54. What does the author say about life?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is cyclical.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It is dynamic.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It is fulfilling.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It is risky.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "55. What does the author advise us to do?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Make life as simple as possible.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Talk about balance in simpler terms.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Balance life and work in a new way.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Strive for a more fulfilling life.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
             }
           ]
         },

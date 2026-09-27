@@ -9,8 +9,8 @@
       "excluded_advert_pages": [],
       "htm": "papers/2023-answers.htm",
       "tex": "tex/2023-answers.tex",
-      "htm_sha256": "9d8955da356dd16e6ec8a9f5ed6d60a8c9d0b8a3a74d99562f7636833323a6af",
-      "tex_sha256": "a1e4d070898f2b76911bf9b928235bfe5446a5e997b76b540f89e4942d801fc8"
+      "htm_sha256": "c2b99d5499fefb268c4de65b7c1d5747c2067a72e94d3020e56e1e4852ffad66",
+      "tex_sha256": "1496a19459b5cd4362e9618b4dc91df096e516e4ceed7119707196d4979bd89c"
     },
     {
       "id": "2022-answers",
@@ -21,8 +21,8 @@
       "excluded_advert_pages": [],
       "htm": "papers/2022-answers.htm",
       "tex": "tex/2022-answers.tex",
-      "htm_sha256": "f173862e901fb0ab744aea3b2563a7d2f3915df4b55db276394e0fe1a970f6f2",
-      "tex_sha256": "8b372eead38f17b47a7c236dba323b4a35f0dd923ecd118b186384a34287df15"
+      "htm_sha256": "392f096333b6fed5d46847839cfdffdcc7ad9f543cf85f32499a105bc5cd77b0",
+      "tex_sha256": "b2ffff21f34a9fa82556d6f804012427fbccc26d2f62e6b43aeb96fff57332e1"
     },
     {
       "id": "2021-answers",
@@ -45,8 +45,8 @@
       "excluded_advert_pages": [],
       "htm": "papers/2020-answers.htm",
       "tex": "tex/2020-answers.tex",
-      "htm_sha256": "6b386aca679746061228366509c858cf19693ebc1380e26eccc7ce50b145d15e",
-      "tex_sha256": "b2f84d84d9a48634ad80c2956cd2f82e0959ea28852efe3df92f0c96d95eb0c9"
+      "htm_sha256": "e59bed25b18b08cee8c84d0e50a4ff0462af4064231ce0ee545e4429340e9e08",
+      "tex_sha256": "e8ca6b47ff2cdac5a245ac734fcf7b0bcd03ef756d0fb2d0a991514c6e11ba47"
     },
     {
       "id": "2019-answers",
@@ -186,10 +186,10 @@
   "source_pages": 106,
   "reading_pages": 105,
   "source_hashes": {
-    "2023": "ecdad1a4ceef12ab2e76268e29cd3a1f4ee7563b0163a83196ffd7037ab2299d",
-    "2022": "1350c34bdde84edc68730b7c81411d32d1bbcf18f7c23d8f544c9f1b8ebb9c82",
+    "2023": "f14533d06a1309bad676a9a7ab6f04c515022762c7b23937eb8ccdd24ac67cac",
+    "2022": "663797fd3a3d981897effcd0a526b322c0bb8511320364d6a86143ee573695bb",
     "2021": "0313c48d7bb7db9fec0a587119cda079855d1d496bf506d8592cabb3edfca43b",
-    "2020": "84ec6a36a47d7d7555ce13cd05daa3463e0120dff3c1c85931ac234c0fe8c5de",
+    "2020": "cdb8fa95d12cce313c5fec3c6f54ff425103d6cc5678ce852d62535171b4983b",
     "2019": "4681c6d9955ba305f8477fadec5edc4d2782446431112073ffb4277181100df3",
     "2018": "76920682344e56a54c53e34b24e8ff11e3ec9d2d617195211a4b2b15699b8409",
     "2017": "ef05cc95c953a00fee5cbb81125ff376ef6b578e208c38739f501a5d3d64f636",
@@ -204,7 +204,7 @@
   },
   "formulas": 23,
   "figures": 0,
-  "tex_compilation_verified": true,
+  "tex_compilation_verified": false,
   "browser_tested": false,
   "notes": {
     "2023": [],

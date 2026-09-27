@@ -1616,6 +1616,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "They take drugs to get high.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -1627,18 +1640,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "They take drugs to get high. D) They keep drug use a secret.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "They keep drug use a secret.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -3552,7 +3565,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "P) Time, I realize, is the biggest obstacle to cooking for most people. You must adjust your priorities to find time to cook. For instance, you can move a TV to the kitchen and watch your favorite shows while you’re standing at the sink. No one is asking you to give up activities you like, but if you’re watching food shows on TV, try cooking instead.",
+              "text": "P) Time, I realize, is the biggest obstacle to cooking for most people. You must adjust your priorities to find time to cook. For",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "instance, you can move a TV to the kitchen and watch your favorite shows while you’re standing at the sink. No one is asking you to give up activities you like, but if you’re watching food shows on TV, try cooking instead.",
               "flags": [
                 false,
                 false,
@@ -4342,7 +4368,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "the world’s latest bedtime，hitting the hay at around 3:30 a.m. 、Russians also get up an hour later on International Women’s Day, the day for treating and celebrating female relatives.",
+              "text": "the world’s latest bedtime，hitting the hay at around 3:30 a.m.",
               "flags": [
                 false,
                 false,
@@ -4351,6 +4377,19 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "、Russians also get up an hour later on International Women’s Day, the day for treating and celebrating female relatives.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "paragraph",

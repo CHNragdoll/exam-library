@@ -2697,7 +2697,21 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "benefits. In relation to the intensity of anaerobic exercise, however, the results were far clearer — the optimum (最佳选择) for improving mood is ",
+              "text": "benefits.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In relation to the intensity of anaerobic exercise, however, the results were far clearer — the optimum (最佳选择) for improving mood is ",
               "flags": [
                 false,
                 false,
@@ -2720,8 +2734,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",

@@ -9963,7 +9963,20 @@
               "label": "A",
               "runs": [
                 {
-                  "text": "has to attract B shall attract",
+                  "text": "has to attract",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "shall attract",
                   "flags": [
                     false,
                     false,

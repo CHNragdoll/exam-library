@@ -1184,7 +1184,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "12. A )Moveable metal type began to be used in printing.",
+              "text": "12.",
               "flags": [
                 false,
                 false,
@@ -1196,6 +1196,19 @@
         {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Moveable metal type began to be used in printing.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [

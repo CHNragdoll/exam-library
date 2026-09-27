@@ -2715,7 +2715,21 @@
               ]
             },
             {
-              "text": " the machines. If history is any guide, it’s almost certain that advances in AI will cause more jobs to ",
+              "text": " the machines.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "If history is any guide, it’s almost certain that advances in AI will cause more jobs to ",
               "flags": [
                 false,
                 false,
@@ -2738,8 +2752,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -4135,7 +4148,46 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "People who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might do this out of a sense of self-worth around the ability to influence others. One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency. Under the guise (外表) of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control. They may not be fully aware of this drive, however. These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations. When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesired result.",
+              "text": "People who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might do this out of a sense of self-worth around the ability to influence others. One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Under the guise (外表) of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control. They may not be fully aware of this drive, however.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesired result.",
               "flags": [
                 false,
                 false,

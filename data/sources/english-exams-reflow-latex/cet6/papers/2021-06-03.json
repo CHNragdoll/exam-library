@@ -24359,6 +24359,356 @@
           ]
         },
         {
+          "type": "question",
+          "runs": [
+            {
+              "text": "51. What do people tend to do while engaging in a conversation?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Repeat what their partners say one way or another.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Focus as much as possible on topics of mutual interest.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Imitate their partners' gestures without their knowing it.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Observe carefully how their partners make use of gestures.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "52. When does mirroring usually take place in a conversation?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "When both sides are sympathetic with each other.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "When both sides have a lot of things in common.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "When both sides make interesting contributions.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "When both sides try to seek common ground.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "53. What do we learn about popular culture?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It encourages people to imitate.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It appeals mostly to big names.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It acquaints young people with their idols.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It can change people's mode of cognition.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "54. Why is the saying \"copy from two, it's research\" a lesson to learn?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It facilitates the creation of one's own writing style.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It helps to protect one's intellectual property rights.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It fosters correct interpretation of professional writing.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It enables one to write intriguing sequels to famous stories.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "55. Why does the author say imitation is rather paradoxical?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is liable to different interpretations.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It is by and large a necessary evil.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It can give rise to endless disputes.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It may do harm as well as good.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "type": "heading",
           "runs": [
             {

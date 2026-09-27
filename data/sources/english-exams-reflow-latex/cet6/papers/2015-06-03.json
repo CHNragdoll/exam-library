@@ -393,19 +393,42 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "centre.",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": " 注意：此部分试题请在答题卡1 上作答。 1、A) The man might be able to play in the World Cup.",
+              "text": "centre. 注意：此部分试题请在答题卡1 上作答。",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "1.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The man might be able to play in the World Cup.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -455,14 +478,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "2、A) Work out a plan to tighten his budget. C) Apply for a senior position in the restaurant.",
+              "text": "2.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Work out a plan to tighten his budget.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Apply for a senior position in the restaurant.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -499,14 +553,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "3、A) A financial burden. C) A real nuisance.",
+              "text": "3.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "A financial burden.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "A real nuisance.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -543,14 +628,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "4、A) The errors will be corrected soon. C) The computing system is too complex.",
+              "text": "4.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The errors will be corrected soon.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The computing system is too complex.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -587,14 +703,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "5、A) He needs help to retrieve his files. C) He needs some time to polish his paper.",
+              "text": "5.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "He needs help to retrieve his files.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "He needs some time to polish his paper.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -631,14 +778,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "6、A) They might have to change their plan. C) He has a heavier workload than the woman.",
+              "text": "6.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They might have to change their plan.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "He has a heavier workload than the woman.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -675,14 +853,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "7、A) They have to wait a month to apply for a student loan.",
+              "text": "7.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They have to wait a month to apply for a student loan.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -732,14 +928,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "8、A) New laws are yet to be made to reduce pollutant release.",
+              "text": "8.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "New laws are yet to be made to reduce pollutant release.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -802,14 +1016,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "9、A) Enormous size of its stores. C) Its appealing surroundings.",
+              "text": "9.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Enormous size of its stores.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Its appealing surroundings.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -846,14 +1091,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "10、A) An ancient building. C) An Egyptian museum.",
+              "text": "10.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "An ancient building.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "An Egyptian museum.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -906,14 +1182,45 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "11、 A)Its power bill reaches £ 9 million a year. C) It supplies power to a nearby town.",
+              "text": "11.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Its power bill reaches £ 9 million a year.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It supplies power to a nearby town.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -950,14 +1257,71 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "12、A) 11 500. B) 30 000. C) 250 000. D) 300 000.",
+              "text": "12.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "11 500.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "30 000.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "250 000.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "300 000.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -976,14 +1340,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "13、A) Transferring to another department. C) Thinking about doing a different job.",
+              "text": "13.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Transferring to another department.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Thinking about doing a different job.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1020,14 +1415,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "14、A) She has finally got a promotion and a pay raise.",
+              "text": "14.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "She has finally got a promotion and a pay raise.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1077,14 +1490,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "15、A) He and Andrea have proved to be a perfect match.",
+              "text": "15.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "He and Andrea have proved to be a perfect match.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1321,14 +1752,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "16、A) They are motorcycles designated for water sports.",
+              "text": "16.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They are motorcycles designated for water sports.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1378,14 +1827,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "17、A) Water scooter operators’ lack of experience. C) Overloading of small boats and other craft.",
+              "text": "17.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Water scooter operators’ lack of experience.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Overloading of small boats and other craft.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1422,14 +1902,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "18、A) They scare whales to death. C) They discharge toxic emissions.",
+              "text": "18.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They scare whales to death.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "They discharge toxic emissions.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1466,14 +1977,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "19、A) Expand operating areas. B) Limit the use of water scooters.",
+              "text": "19.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Expand operating areas.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Limit the use of water scooters.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1536,14 +2078,102 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "20、A) They are stable. B) They are close. C) They are strained. D) They are changing. 21、A) They are fully occupied with their own business.",
+              "text": "20.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They are stable.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "They are close.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "They are strained.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "They are changing.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "21.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They are fully occupied with their own business.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1593,14 +2223,45 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "22、A) Count on each other for help. C) Keep a friendly distance.",
+              "text": "22.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Count on each other for help.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Keep a friendly distance.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1663,14 +2324,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "23、A) It may produce an increasing number of idle youngsters.",
+              "text": "23.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It may produce an increasing number of idle youngsters.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2301,14 +2980,32 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "24、A) It is less serious in cities than in rural areas.",
+              "text": "24.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is less serious in cities than in rural areas.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2358,14 +3055,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "25、A) Allowing them to choose their favorite teachers.",
+              "text": "25.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Allowing them to choose their favorite teachers.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -6400,7 +7115,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -6441,15 +7156,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Directions",
               "flags": [

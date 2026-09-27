@@ -4025,6 +4025,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Staying in the shade whenever possible.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -4036,18 +4049,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "B ) Staying in the shade whenever possible. D) Applying the right amount of sunscreen.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Applying the right amount of sunscreen.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -4562,21 +4575,16 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
-              "text": "Part IY Translation (30 minutes)",
+              "text": "Part IY Translation (30 minutes) ",
               "flags": [
                 false,
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
               "text": "Directions",
               "flags": [
@@ -7404,7 +7412,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "词。本句提到要为教师和校长们提供支持，而这些支持是为了帮助学生发挥其全部潜力。因此, 空格处需要填人一个能与动词reach 相搭配的名词，且表达“潜力，能力”的意义，由此确定名词potential 为本题答案，意思是“潜力”。 备选词中，challenges 意思是“挑战'commitment 意思是“投人，承诺”，component 意思是“组成部分，部件” contests 意思是“比赛”，均与此处文意不符，且不能与动词reach 搭配，可以排除。 4〇. D) commitment。i:_?i 羊解名词辨析题。空格前面为形容词deep,后面为介词of,因此空格处需要填人名词。根据连词and 可以判断，该名词与and 前面的excellent work 在意义上应该是并列的，且根据上下文，此处要表达的意义是教师和校长们工作出色且努力。因此，空格处的名词表达的是“努力”或“投人”的意思，且为不可数的抽象名词， 备选词中只有commitment—词符合要求，由此确定其为本题答案。备选词中的challenges 和contests 均为可数名词复数形式，可以排除;component 意思是“组成部分，部件”，与此处文意不符，且不能用deep 进行修饰，可以排除;potential 已经用过，直接排除。",
+              "text": "词。本句提到要为教师和校长们提供支持，而这些支持是为了帮助学生发挥其全部潜力。因此, 空格处需要填人一个能与动词reach 相搭配的名词，且表达“潜力，能力”的意义，由此确定名词potential 为本题答案，意思是“潜力”。 备选词中，challenges 意思是“挑战'commitment 意思是“投人，承诺”，component 意思是“组成部分，部件” contests 意思是“比赛”，均与此处文意不符，且不能与动词reach 搭配，可以排除。 4〇. D) commitment。i:_?i 羊解名词辨析题。空格前面为形容词deep,后面为介词of,因此空格处需要填人名词。根据",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "连词and 可以判断，该名词与and 前面的excellent work 在意义上应该是并列的，且根据上下文，此处要表达的意义是教师和校长们工作出色且努力。因此，空格处的名词表达的是“努力”或“投人”的意思，且为不可数的抽象名词， 备选词中只有commitment—词符合要求，由此确定其为本题答案。备选词中的challenges 和contests 均为可数名词复数形式，可以排除;component 意思是“组成部分，部件”，与此处文意不符，且不能用deep 进行修饰，可以排除;potential 已经用过，直接排除。",
               "flags": [
                 false,
                 false,
@@ -9011,7 +9032,20 @@
               ]
             },
             {
-              "text": " Passage One | 〇全文翻译 (56)",
+              "text": " Passage One | 〇全文翻译",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "(56)",
               "flags": [
                 false,
                 false,
@@ -9043,7 +9077,20 @@
               ]
             },
             {
-              "text": "黑瘤是最具侵犯性的皮趺癌。如果你拥有红发或金发、浅色皮肤、蓝色或绿色眼睛，或者容易晒伤，又或者有近亲患此疾病，那么你将有相对较高的患病风险。如果你周期性地暴露于强烈的阳光下，黑瘤则更为常见。U长期暴露于阳光下，其他皮肤癌也越来越有可能发生丨1:_; 对于防晒霜减少黑瘤的有效性一直存在争议——比起对于预防其他类型的皮肤癌，其证据更加乏力。.（58) 2011 ",
+              "text": "黑瘤是最具侵犯性的皮趺癌。如果你拥有红发或金发、浅色皮肤、蓝色或绿色眼睛，或者容易晒伤，又或者有近亲患此疾病，那么你将有相对较高的患病风险。如果你周期性地暴露于强烈的阳光下，黑瘤则更为常见。U长期暴露于阳光下，其他皮肤癌也越来越有可能发生丨1:_;",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "对于防晒霜减少黑瘤的有效性一直存在争议——比起对于预防其他类型的皮肤癌，其证据更加乏力。.（58) 2011 ",
               "flags": [
                 false,
                 false,
@@ -9103,13 +9150,31 @@
               ]
             },
             {
-              "text": "但是认为防晒霜给人们错误防晒意识似乎又是合理的。. 许多人使用防晒霜的方法也并不正确——用量不足、几小时后未能重新涂抹以及过长时间暴露于阳光下。晒伤才是最令人担忧的问题——最近的一项研究显示，青少年时期五次晒伤的经历就足以增加所有皮肤癌的患病风险。 ",
+              "text": "但是认为防晒霜给人们错误防晒意识似乎又是合理的。.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "许多人使用防晒霜的方法也并不正确——用量不足、几小时后未能重新涂抹以及过长时间暴露于阳光下。晒伤才是最令人担忧的问题——最近的一项研究显示，青少年时期五次晒伤的经历就足以增加所有皮肤癌的患病风险。",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "好消息是，正如澳大利亚人“套上一涂上一扣上”运动的数据所显示的，综合使用防晒霜和皮肤遮盖措施能够降低黑瘤发病率。因此，如果今年夏天有热浪，我们也最好套上T 恤，抹上防晒霜，并且扣上帽子。",
               "flags": [
@@ -9949,7 +10014,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "能将更加被看重，故答案为D)。 睛：A)“计算机将承担更复杂的工作”，文章第四段的末句提到从经营管理技巧到创新能力，都是ginSt",
+              "text": "能将更加被看重，故答案为D)。",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "睛：A)“计算机将承担更复杂的工作”，文章第四段的末句提到从经营管理技巧到创新能力，都是ginSt",
               "flags": [
                 false,
                 false,

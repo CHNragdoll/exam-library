@@ -3369,7 +3369,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "P. Thus, if your personality tends toward unsociability, you shouldn’t feel the need to change. Of course, that comes with qualifications. But as long as you have regular social contact, you are choosing solitude rather than being forced into it, you have at least a few good friends and your solitude is good for your well-being or productivity, there’s no point agonising over how to fit a square personality into a round hole.",
+              "text": "P. Thus, if your personality tends toward unsociability, you shouldn’t feel the need to change. Of course, that comes",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "with qualifications. But as long as you have regular social contact, you are choosing solitude rather than being forced into it, you have at least a few good friends and your solitude is good for your well-being or productivity, there’s no point agonising over how to fit a square personality into a round hole.",
               "flags": [
                 false,
                 false,

@@ -4562,7 +4562,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library. You should write neatly on the ANSWER SHEET. ",
+              "text": "Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write neatly on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

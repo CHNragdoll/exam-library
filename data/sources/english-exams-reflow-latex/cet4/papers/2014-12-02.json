@@ -3560,7 +3560,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "46. Greater mobility puts younger people at an advantage in seeking new jobs.",
@@ -3573,7 +3573,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "47. Many of the older workers laid off during the recession had to accept lower pay in their new jobs.",
@@ -3586,7 +3586,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "48. Those who lose their jobs shortly before retirement age live a shorter-than-average life.",
@@ -3599,7 +3599,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "49. Seniors at nursing homes could benefit from the weak job market.",
@@ -3612,7 +3612,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "50. Age discrimination in employment makes it pointless retraining older workers.",
@@ -3625,7 +3625,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "51. According to recent reports and data analyses, boomers suffer most from the weak economy.",
@@ -3638,7 +3638,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "52. Unemployed boomers are at a disadvantage in job-hunting because employers tend to hire younger workers.",
@@ -3651,7 +3651,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "53. People in their fifties and early sixties bear the heaviest family burdens.",
@@ -3664,7 +3664,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "54. People who take benefits from Social Security before official retirement age will get much less for the rest of their lives.",
@@ -3677,7 +3677,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "question",
           "runs": [
             {
               "text": "55. Older workers5 choice of jobs can be limited because of disability.",
@@ -3801,7 +3801,85 @@
               ]
             },
             {
-              "text": " (骑车的) passengers on those shining blue Citi Bikes. But what about local bike shops? Is Citi Bike rolling up riders at their expense? At Gotham Bikes in Tribeca, manager W. Ben said the shop has seen an increase in its overall sales due to the bike-share program. “ It’s getting more people on the road,’’ he said. James Ryan, an employee at Danny’s Cycles in Gramercy also said Citi Bike is a good option for people to ease into biking in a city famed for its traffic jams and aggressive drivers. “They can try out a bike without committing to buying one,” he said. Rentals are not a big part of the business at either Gotham Bikes or Danny’s Cycles. But for Frank’s Bike Shop, a small business on Grand St. , the bike-share program has been bad news. Owner Frank Arroyo said his rental business has decreased by 90% since Citi Bike was rolled out last month. Arroyo’s main rental customers are European tourists, who have since been drawn away by Citi Bikes. However, Ben said the bike-share is good for bike sales at his shop. People have used the bike- share and realized how great it is to bike in the city, then decide that they want something nicer for themselves,’’ he noted. Christian Farrell of Waterfront Bicycle Shop, on West St. just north of Christopher St. , said initially he was concerned about bike-share, though, he admitted, “ I was happy to see people on bikes.” Farrell’s early concerns were echoed by Andrew Crooks, owner of NYC Velo, at 64 Second Ave. “It seemed like a great idea, but one that would be difficult to implement,” Crooks said of Citi Bike. He said he worried about inexperienced riders’ lack of awareness of biking rules and strong negative reaction from non-cyclists. However, he said, ifs still too early to tell if his business has been impacted. While it’s possible bike-share will cause a drop in business, Crooks allowed that the idea is a positive step forward for New York City. 56 What is the author’s chief concern about the increasing use of Citi Bikes in New York?",
+              "text": " (骑车的) passengers on those shining blue Citi Bikes. But what about local bike shops? Is Citi Bike rolling up riders at their expense?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "At Gotham Bikes in Tribeca, manager W. Ben said the shop has seen an increase in its overall sales due to the bike-share program. “ It’s getting more people on the road,’’ he said. James Ryan, an employee at Danny’s Cycles in Gramercy also said Citi Bike is a good option for people to ease into biking in a city famed for its traffic jams and aggressive drivers. “They can try out a bike without committing to buying one,” he said.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rentals are not a big part of the business at either Gotham Bikes or Danny’s Cycles. But for Frank’s Bike Shop, a small business on Grand St. , the bike-share program has been bad news. Owner Frank Arroyo said his rental business has decreased by 90% since Citi Bike was rolled out last month. Arroyo’s main rental customers are European tourists, who have since been drawn away by Citi Bikes.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "However, Ben said the bike-share is good for bike sales at his shop. People have used the bike- share and realized how great it is to bike in the city, then decide that they want something nicer for themselves,’’ he noted.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christian Farrell of Waterfront Bicycle Shop, on West St. just north of Christopher St. , said initially he was concerned about bike-share, though, he admitted, “ I was happy to see people on bikes.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Farrell’s early concerns were echoed by Andrew Crooks, owner of NYC Velo, at 64 Second Ave. “It seemed like a great idea, but one that would be difficult to implement,” Crooks said of Citi Bike. He said he worried about inexperienced riders’ lack of awareness of biking rules and strong negative reaction from non-cyclists. However, he said, ifs still too early to tell if his business has been impacted.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "While it’s possible bike-share will cause a drop in business, Crooks allowed that the idea is a positive step forward for New York City. 56 What is the author’s chief concern about the increasing use of Citi Bikes in New York?",
               "flags": [
                 false,
                 false,
@@ -4206,7 +4284,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Between 1980 and 2008, staff and teachers at US public schools grew roughly twice as fast as students. Yet students showed no additional learning in achievement tests. Universities show similar trends of increased administration personnel and costs without greater learning, as documented in Richard Arum and Josipa Roksa’s recent book",
+              "text": "Between 1980 and 2008, staff and teachers at US public schools grew roughly twice as fast as students. Yet students showed no additional learning in achievement tests.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Universities show similar trends of increased administration personnel and costs without greater learning, as documented in Richard Arum and Josipa Roksa’s recent book",
               "flags": [
                 false,
                 false,
@@ -4236,9 +4327,79 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " A survey shows that 63% of employers say that recent college graduates don’t have the skills they need to succeed and 25% of employers say that entry-level writing skills are lacking. Some simplistically attribute the decline in our public education system to the drain of skilled students by private schools, but far more significant events were at work. Public schools worked well until about the 1970s. In fact, until that time, public schools provided far better education than private ones. It was the underperforming students who were thrown out of public schools and went to private ones. A prominent reason public schools did well was that many highly qualified women had few options for working outside the house other than being teachers or nurses. They accepted relatively low pay, difficult working conditions, and gave their very best. Having such a large supply of talented women teachers meant that society could pay less for their services. Womens liberation opened up new professional opportunities for women, and, over time, some of the best left teaching as a career option, bringing about a gradual decline in the quality of schooling. Also around that time, regulations, government, and unions came to dictate pay, prevent adjustments, and introduce ",
+              "text": "A survey shows that 63% of employers say that recent college graduates don’t have the skills they need to succeed and 25% of employers say that entry-level writing skills are lacking.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Some simplistically attribute the decline in our public education system to the drain of skilled students by private schools, but far more significant events were at work.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Public schools worked well until about the 1970s. In fact, until that time, public schools provided far better education than private ones. It was the underperforming students who were thrown out of public schools and went to private ones.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A prominent reason public schools did well was that many highly qualified women had few options for working outside the house other than being teachers or nurses. They accepted relatively low pay, difficult working conditions, and gave their very best.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Having such a large supply of talented women teachers meant that society could pay less for their services. Womens liberation opened up new professional opportunities for women, and, over time, some of the best left teaching as a career option, bringing about a gradual decline in the quality of schooling.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Also around that time, regulations, government, and unions came to dictate pay, prevent adjustments, and introduce ",
               "flags": [
                 false,
                 false,

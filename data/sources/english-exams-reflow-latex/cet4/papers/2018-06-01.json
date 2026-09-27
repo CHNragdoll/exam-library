@@ -143,15 +143,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "of reading ability and how to develop it.",
               "flags": [
@@ -270,15 +267,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "will hear two or three questions. Both the news report and the questions will be spoken only",
               "flags": [
@@ -944,15 +938,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "conversation, you will hear four questions. Both the conversation and the questions will bespo",
               "flags": [
@@ -2589,15 +2580,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "for each blank from a list of choices given in a word bank following the passage. Read the",
               "flags": [
@@ -3459,7 +3447,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "45. Digital access codes are criticized because they are profit-driven just like the textbook",
+              "text": "45. Digital access codes are criticized because they are profit-driven just like the textbook business.",
               "flags": [
                 false,
                 false,
@@ -3469,16 +3457,21 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
-              "text": "business.Section C ",
+              "text": "Section C",
               "flags": [
-                false,
+                true,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "instruction",
+          "runs": [
             {
               "text": "Directions:",
               "flags": [
@@ -3494,12 +3487,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                true
+              ]
+            },
             {
               "text": "or unfinished statements. For each of them there are four choices marked A), B), C) and",
               "flags": [
@@ -3507,47 +3503,45 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
+            },
             {
-              "label": "D",
-              "runs": [
-                {
-                  "text": ". You should decide on the best choice and mark the corresponding letter",
-                  "flags": [
-                    false,
-                    false,
-                    true
-                  ]
-                },
-                {
-                  "text": " on Answer Sheet2",
-                  "flags": [
-                    true,
-                    false,
-                    true
-                  ]
-                },
-                {
-                  "text": " ",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                },
-                {
-                  "text": "with a single line through the centre.",
-                  "flags": [
-                    false,
-                    false,
-                    true
-                  ]
-                }
+              "text": " D)",
+              "flags": [
+                false,
+                false,
+                true
+              ]
+            },
+            {
+              "text": ". You should decide on the best choice and mark the corresponding letter",
+              "flags": [
+                false,
+                false,
+                true
+              ]
+            },
+            {
+              "text": " on Answer Sheet2",
+              "flags": [
+                true,
+                false,
+                true
+              ]
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
+            {
+              "text": "with a single line through the centre.",
+              "flags": [
+                false,
+                false,
+                true
               ]
             }
           ]

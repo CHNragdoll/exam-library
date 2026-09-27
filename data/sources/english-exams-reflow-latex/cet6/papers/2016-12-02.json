@@ -3711,7 +3711,21 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "who go on to earn less—will have a portion of their debt written off. It’s not just the lectures and tutorials that are important. Education is the sum of what students teach each other in between lectures and seminars. Students do not merely benefit while at university, studies show they go on to be healthier and happier than non-graduates, and also far more likely to vote. Whatever your talents, it is extraordinarily difficult to get a leading job in most fields without having been to university. Recruiters circle elite universities like",
+              "text": "who go on to earn less—will have a portion of their debt written off. It’s not just the lectures and tutorials that are important. Education is the sum of what students teach each other in between lectures and seminars. Students do not merely benefit while at university, studies show they go on to be healthier and happier than non-graduates, and also far more likely to vote.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Whatever your talents, it is extraordinarily difficult to get a leading job in most fields without having been to university. Recruiters circle elite universities like",
               "flags": [
                 false,
                 false,
@@ -3727,7 +3741,20 @@
               ]
             },
             {
-              "text": "(兀鹰). Many top firms will not even look at applications from those who lack a 2.1, i.e., an upper-second class degree, from an elite university. Students at university also meet those likely to be in leading jobs in the future, forming contacts for life. This might not be right, but school-leavers who fail to acknowledge as much risk making the wrong decision about going to university. Perhaps the reason why so many universities offer their students so little is they know studying at a top university remains a brilliant investment",
+              "text": "(兀鹰). Many top firms will not even look at applications from those who lack a 2.1, i.e., an upper-second class degree, from an elite university. Students at university also meet those likely to be in leading jobs in the future, forming contacts for life. This might not be right, but school-leavers who fail to acknowledge as much risk making the wrong decision about going to university.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Perhaps the reason why so many universities offer their students so little is they know studying at a top university remains a brilliant investment",
               "flags": [
                 false,
                 false,
@@ -3750,8 +3777,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "question",

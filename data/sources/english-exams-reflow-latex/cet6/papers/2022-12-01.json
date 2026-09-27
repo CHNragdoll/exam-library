@@ -4042,7 +4042,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms. In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.",
+              "text": "change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms.",
               "flags": [
                 false,
                 false,
@@ -4051,6 +4051,19 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -4481,9 +4494,40 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230 万平方公里，平均海拔4000 米以上，被称为“世界屋脊”。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。 青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。 由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统， 草地覆盖率不断增加，许多濒危物种得到更为有效的保护。",
+              "text": "青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230 万平方公里，平均海拔4000 米以上，被称为“世界屋脊”。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统， 草地覆盖率不断增加，许多濒危物种得到更为有效的保护。",
               "flags": [
                 false,
                 false,

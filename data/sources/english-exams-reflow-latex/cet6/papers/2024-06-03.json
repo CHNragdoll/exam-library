@@ -1633,7 +1633,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Kim concludes that “rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility”. And here’s the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality. “In this era of choice, entertainment media are what captures hearts and minds,” Kim writes. “Its political consequences are anything but trivial”.",
+              "text": "Kim concludes that “rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility”. And here’s the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“In this era of choice, entertainment media are what captures hearts and minds,” Kim writes. “Its political consequences are anything but trivial”.",
               "flags": [
                 false,
                 false,
@@ -2022,7 +2035,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "When someone asks us “what do you do?” we nearly always reply with our occupation. Work, for many of us, is much more than a job. It is the defining aspect of our identity. For many of us it is through our job that we can define ourselves. “Without my job I don’t know who I am,” is a sentence that has been uttered on more than a handful of occasions from my office chair. Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs. This loss provokes an identity crisis much greater than the loss of the job itself. One of the things I have come to understand, however, is that our identity is much more complex than we",
+              "text": "When someone asks us “what do you do?” we nearly always reply with our occupation. Work, for many of us, is much more than a job. It is the defining aspect of our identity. For many of us it is through our job that we can define ourselves.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“Without my job I don’t know who I am,” is a sentence that has been uttered on more than a handful of occasions from my office chair. Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs. This loss provokes an identity crisis much greater than the loss of the job itself.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "One of the things I have come to understand, however, is that our identity is much more complex than we",
               "flags": [
                 false,
                 false,

@@ -4054,7 +4054,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "more federal money. Perhaps they should read what he had to say about drugs: “A national drug agency would provide governments more influence on pharmaceutical companies in order to try to constrain the ever-increasing cost of drugs.” (45)____________________________________ So when the premiers gather in Niagara Falls to assemble their usual complaint list, they should also get cracking about something in their jurisdiction that would help their budgets and patients.",
+              "text": "more federal money. Perhaps they should read what he had to say about drugs: “A national drug agency would provide governments more influence on pharmaceutical companies in order to try to constrain the ever-increasing cost of drugs.”",
               "flags": [
                 false,
                 false,
@@ -4063,6 +4063,19 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "(45)____________________________________ So when the premiers gather in Niagara Falls to assemble their usual complaint list, they should also get cracking about something in their jurisdiction that would help their budgets and patients.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "paragraph",

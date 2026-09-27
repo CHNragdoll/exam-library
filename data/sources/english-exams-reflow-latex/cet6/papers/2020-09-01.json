@@ -1151,14 +1151,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "1 1 . A) Help understand life in freezing conditions.",
+              "text": "11.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Help understand life in freezing conditions.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1248,14 +1266,53 @@
                   ]
                 }
               ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "He was trying to preserve the languages of the Indian tribes.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "His contact with a social worker had greatly aroused his interest in the tribe.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "His meeting with Gonzalez had made him eager to learn more about the tribe.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "B ) He was trying to preserve the languages of the Indian tribes.",
+              "text": "13.",
               "flags": [
                 false,
                 false,
@@ -1265,79 +1322,73 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "C ) His contact with a social worker had greatly aroused his interest in the tribe.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "A",
+              "runs": [
+                {
+                  "text": "He taught Copeland to speak the Tarahumaras language.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "D ) His meeting with Gonzalez had made him eager to learn more about the tribe.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "He persuaded the Tarahumaras to accept Copeland's gifts.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "1 3. A ) He taught Copeland to speak the Tarahumaras language.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "He recommended one of his best friends as an interpreter.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "B ) He persuaded the Tarahumaras to accept Copeland's gifts.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "C ) He recommended one of his best friends as an interpreter.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "D ) He acted as an intermediary between Copeland and the villagers.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "He acted as an intermediary between Copeland and the villagers.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1362,7 +1413,7 @@
               "label": "A",
               "runs": [
                 {
-                  "text": "Unpredictable. C ) Laborious.",
+                  "text": "Unpredictable.",
                   "flags": [
                     false,
                     false,
@@ -1370,18 +1421,44 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "B ) Unjustifiable. D ) Tedious.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Unjustifiable.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Laborious.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Tedious.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1416,7 +1493,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "15. A ) Their appreciation of help from the outsiders.",
+              "text": "15.",
               "flags": [
                 false,
                 false,
@@ -1426,40 +1503,73 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "B ) Their sense of sharing and caring.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Their appreciation of help from the outsiders.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "C ) Their readiness to adapt to technology.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Their sense of sharing and caring.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
+          "type": "options",
+          "items": [
             {
-              "text": "D ) Their belief in creating wealth for themselves.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Their readiness to adapt to technology.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Their belief in creating wealth for themselves.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -1804,14 +1914,32 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "1 8. A) They tried to effect social change by force.",
+              "text": "18.",
               "flags": [
                 false,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They tried to effect social change by force.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2616,7 +2744,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "handicap or another in order to explain away failure. Though self-handicapping can be an effective way of coping with performance anxiety now and then, in the end, researchers say, it will lead to 33 . In the long run, excuse makers fail to live up to their true 34 and lose the status they care so much about. And despite their protests to the 35 , they have only themselves to blame.",
+              "text": "handicap or another in order to explain away failure.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Though self-handicapping can be an effective way of coping with performance anxiety now and then, in the end, researchers say, it will lead to 33 . In the long run, excuse makers fail to live up to their true 34 and lose the status they care so much about. And despite their protests to the",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "35 , they have only themselves to blame.",
               "flags": [
                 false,
                 false,
@@ -2710,7 +2864,7 @@
               "label": "G",
               "runs": [
                 {
-                  "text": "legacies 0) viciously",
+                  "text": "legacies",
                   "flags": [
                     false,
                     false,
@@ -2775,7 +2929,7 @@
               "label": "L",
               "runs": [
                 {
-                  "text": "reahns",
+                  "text": "realms",
                   "flags": [
                     false,
                     false,
@@ -2801,7 +2955,20 @@
               "label": "N",
               "runs": [
                 {
-                  "text": "rum",
+                  "text": "run",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "O",
+              "runs": [
+                {
+                  "text": "viciously",
                   "flags": [
                     false,
                     false,
@@ -13817,10 +13984,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "3 6. A study found that there are similar changes in brain structure between those who are bilingual",
+              "text": "36. A study found that there are similar changes in brain structure between those who are bilingual",
               "flags": [
                 false,
                 false,
@@ -14714,7 +14881,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Home to virgin reefs, rare sharks and vast numbers of exotic fish, the Coral Sea is a unique haven of biodiversity off the northeastem coast of Australia. If a proposal by the Australian government goes ahead, the region will also become the world's largest marine protected area, with restrictions or bans on fishing, mining and marine farming. The Coral Sea reserve would cover almost 990,000 square kilometres and stretch as far as 1,100 kilometres from the coast. Unveiled recently by environment minister Tony Burke, the proposal would be the last in a series of proposed marine reserves around Australia's coast.",
+              "text": "Home to virgin reefs, rare sharks and vast numbers of exotic fish, the Coral Sea is a unique haven of biodiversity off the northeastem coast of Australia. If a proposal by the Australian government goes ahead, the region will also become the world's largest marine protected area, with restrictions or bans on fishing, mining and marine farming.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Coral Sea reserve would cover almost 990,000 square kilometres and stretch as far as 1,100 kilometres from the coast. Unveiled recently by environment minister Tony Burke, the proposal would be the last in a series of proposed marine reserves around Australia's coast.",
               "flags": [
                 false,
                 false,
@@ -14844,10 +15024,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "5 1 . What do we learn from the passage about the Coral Sea?",
+              "text": "51. What do we learn from the passage about the Coral Sea?",
               "flags": [
                 false,
                 false,
@@ -20138,6 +20318,216 @@
               ],
               "glyph_font_size": 10.5,
               "glyph_origin_y": 301.6399841308594
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "53. What is scientists' argument about the Coral Sea proposal?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The government has not done enough for marine protection.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It will not improve the marine reserves along Australia's coast.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The government has not consulted them in drawing up the proposal.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It is not based on sufficient investigations into the ecological system.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "54. What does marine geologist Robin Beaman say about the Coral Sea plan?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It can compare with the British government's effort in the Indian Ocean.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It will result in the establishment of the world's largest marine reserve.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It will ensure the sustainability of the fishing industry around the coast.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It is a tremendous joint effort to protect the range of marine habitats.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "55. What do critics think of the Coral Sea plan?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It will do more harm than good to the environment.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It will adversely affect Australia's fishing industry.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It will protect regions that actually require little protection.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It will win little support from environmental organisations.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
             }
           ]
         },

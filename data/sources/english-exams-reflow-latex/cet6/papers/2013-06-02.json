@@ -1133,6 +1133,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It helps singers warm themselves up.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -1144,18 +1157,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": ") B) It helps singers warm themselves up. D) It can do harm to singers’ vocal chords.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It can do harm to singers’ vocal chords.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]

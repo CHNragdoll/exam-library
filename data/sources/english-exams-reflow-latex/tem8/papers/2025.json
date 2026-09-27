@@ -2518,21 +2518,34 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A was at the bottom of the swells. B. was climbing up the swells.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "was at the bottom of the swells.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "was climbing up the swells.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "C",
               "runs": [

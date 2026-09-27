@@ -29,7 +29,7 @@ class AnswerPanelTests(unittest.TestCase):
                 {'id': f'q-{number}-1', 'number': str(number), 'recordType': 'question',
                  'answer': empty()} for number in range(1, 4)
             ]
-            question_paper = {'id': question_id, 'category': 'math3', 'kind': 'questions',
+            question_paper = {'id': question_id, 'category': 'math3', 'year': 2019, 'kind': 'questions',
                               'questions': questions, 'audit': {}}
             answer_paper = {'id': answer_id, 'category': 'math3', 'kind': 'answers',
                             'questions': [], 'blocks': [{'id': 'b-1-1', 'page': '1'}]}

@@ -4250,7 +4250,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "learning process. The active involvement of users is reflected in the gamified (游戏化的) interaction offered by the social media platforms — the ability to like, write a comment, compare, share. Once the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background. A survey conducted in the United States revealed that more than 50% filter the images before posting them. And you will not be surprised to hear that the majority of them are women. One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side. The effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and Face Tune allow users to achieve a level of perfection that was previously only observed in beauty magazines. Even though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+              "text": "learning process. The active involvement of users is reflected in the gamified (游戏化的) interaction offered by the social media platforms — the ability to like, write a comment, compare, share.",
               "flags": [
                 false,
                 false,
@@ -4259,6 +4259,58 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Once the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A survey conducted in the United States revealed that more than 50% filter the images before posting them. And you will not be surprised to hear that the majority of them are women. One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and Face Tune allow users to achieve a level of perfection that was previously only observed in beauty magazines.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Even though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -4274,26 +4326,39 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A It dictates the taste of digital media. C. It has ushered in a new awakening.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It dictates the taste of digital media.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
                 {
                   "text": "It has been in the making for years.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It has ushered in a new awakening.",
                   "flags": [
                     false,
                     false,
@@ -4401,26 +4466,39 @@
           ]
         },
         {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A It is now regarded as the new beauty ideal. C. It is being much talked about on social media.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is now regarded as the new beauty ideal.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
                 {
                   "text": "It is what most women will go after in 2050.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It is being much talked about on social media.",
                   "flags": [
                     false,
                     false,
@@ -4663,9 +4741,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 北斗（Beidou）卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力，攻克了一系列技术难题，北斗系统最终实现了全球覆盖和高精度定位，使中国成为世界上少数几个独立拥有全球卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在已经在国际上得到广泛认可，开始为越来越多的国家和地区提供优质服务。",
+              "text": "北斗（Beidou）卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力，攻克了一系列技术难题，北斗系统最终实现了全球覆盖和高精度定位，使中国成为世界上少数几个独立拥有全球卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在已经在国际上得到广泛认可，开始为越来越多的国家和地区提供优质服务。",
               "flags": [
                 false,
                 false,
