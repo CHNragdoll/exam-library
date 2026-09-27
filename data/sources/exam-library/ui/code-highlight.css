@@ -1,0 +1,26 @@
+/* GitHub-like light syntax palette; text stays ordinary selectable HTML. */
+.exam-reader.reader-reflow pre.code,
+.structured-main pre.code {
+  color: #24292f;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  text-align: left;
+  font: 0.8em/1.65 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  tab-size: 4;
+}
+.code-token-keyword,.code-token-operator { color: #cf222e; }
+.code-token-type,.code-token-number { color: #0550ae; }
+.code-token-function { color: #8250df; }
+.code-token-comment { color: #6e7781; font-style: italic; }
+.code-token-string { color: #0a3069; }
+.code-token-constant,.code-token-directive { color: #953800; }
+@media print {
+  .exam-reader.reader-reflow pre.code,.structured-main pre.code {
+    background: #f6f8fa;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

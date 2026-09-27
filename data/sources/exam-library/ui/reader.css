@@ -50,12 +50,56 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
 .exam-reader.reader-reflow>main h2{font-size:1.12em;line-height:1.6;margin:1.8em 0 .8em;color:#273e53}
 .exam-reader.reader-reflow>main h2:first-child{margin-top:.4em}
 .exam-reader.reader-reflow>main .paragraph{text-align:justify;text-align-last:left;overflow-wrap:break-word}
+.exam-reader.reader-reflow>main p.reader-source-paragraph{text-indent:1.4em;margin-bottom:.7em}
+.exam-reader.reader-reflow>main .paragraph.reader-math-subquestion{display:block;margin:.2em 0;text-align:left;text-align-last:left}
+.exam-reader.reader-reflow>main .paragraph.reader-politics-subquestion{display:block;margin:.65em 0;text-align:left;text-align-last:left}
+.exam-reader.reader-reflow>main .paragraph.question.reader-math-continuation{display:none}
+.exam-reader.reader-reflow>main .math-options.reader-math-two-column{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.3em .9em;min-width:0;margin-inline-start:var(--reader-math-question-indent,0)}
+.exam-reader.reader-reflow>main .math-options.reader-math-four-column{grid-template-columns:repeat(4,minmax(0,1fr));gap:.3em .6em}
+.exam-reader.reader-reflow>main .math-options.reader-math-two-column .math-option{min-width:0}
+.exam-reader.reader-reflow>main .math-options.reader-math-two-column .math-option-content{min-width:0;overflow-wrap:anywhere}
+.exam-reader.reader-reflow>main .math-options.reader-math-two-column mjx-container>svg{max-width:100%;height:auto}
+@container (max-width:740px){.exam-reader.reader-reflow>main .math-options.reader-math-four-column{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@container (max-width:420px){.exam-reader.reader-reflow>main .math-options.reader-math-two-column{grid-template-columns:minmax(0,1fr)}}
 .exam-reader.reader-reflow>main .reader-answer-sheet-note{display:block;margin:.1em 0 1.2em;text-align:left}
+.exam-reader.reader-reflow>main p.reader-translation-directions{margin-bottom:.65em}
+.exam-reader.reader-reflow>main p.reader-translation-body{margin:.2em 0 .65em;text-indent:2em}
+.exam-reader.reader-reflow>main p.reader-lettered-paragraph{display:grid;grid-template-columns:1.9em minmax(0,1fr);gap:0;margin:.7em 0;text-indent:0}
+.exam-reader.reader-reflow>main .reader-lettered-label{text-align:left}
+.exam-reader.reader-reflow>main .reader-lettered-body{min-width:0;text-align:justify;text-align-last:left}
+.exam-reader.reader-reflow>main .reader-email-box{border:1px solid #59616b;padding:.45em .65em;margin:.7em 0 .5em}
+.exam-reader.reader-reflow>main .reader-email-box p.paragraph{margin:0;text-align:left;text-align-last:left;text-indent:0;line-height:1.8}
+.exam-reader.reader-reflow>main .reader-email-box .reader-email-body{margin:.35em 0}
+.exam-reader.reader-reflow>main .reader-email-right-signoff .reader-email-signoff,.exam-reader.reader-reflow>main .reader-email-right-signoff .reader-email-name{text-align:right;text-align-last:right}
+.exam-reader.reader-reflow>main p.reader-email-instruction{margin:.45em 0;text-align:left;text-align-last:left}
 .exam-reader.reader-reflow>main p.reader-cartoon-followup{text-align:center;text-align-last:center}
 .exam-reader.reader-reflow>main .reader-listening-question{display:grid;grid-template-columns:2.3em minmax(0,1fr);align-items:start;column-gap:.45em;margin:1.4em 0 .8em}
 .exam-reader.reader-reflow>main .reader-listening-question>.question{margin:0;line-height:1.9}
 .exam-reader.reader-reflow>main .reader-listening-question>.options{margin:0}
 .exam-reader.reader-reflow>main .options,.exam-reader.reader-reflow>main .options li,.exam-reader.reader-reflow>main .option-text,.exam-reader.reader-reflow>main .choice,.exam-reader.reader-reflow>main .choice-item,.exam-reader.reader-reflow>main .choices{text-align:left;text-align-last:left;word-spacing:normal}
+.exam-reader.reader-reflow>main{container-type:inline-size}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column{grid-template-columns:2.1em repeat(4,minmax(0,1fr));column-gap:.55em;min-width:0}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-number{grid-column:1;grid-row:1}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(2){grid-column:2;grid-row:1}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(3){grid-column:3;grid-row:1}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(4){grid-column:4;grid-row:1}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(5){grid-column:5;grid-row:1}
+@container (max-width:740px){
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column{grid-template-columns:2.1em repeat(2,minmax(0,1fr))}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-number{grid-row:1 / span 2}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(2){grid-column:2;grid-row:1}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(3){grid-column:3;grid-row:1}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(4){grid-column:2;grid-row:2}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(5){grid-column:3;grid-row:2}
+}
+@container (max-width:420px){
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column{grid-template-columns:2.1em minmax(0,1fr)}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-number{grid-row:1 / span 4}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(2){grid-column:2;grid-row:1}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(3){grid-column:2;grid-row:2}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(4){grid-column:2;grid-row:3}
+ .exam-reader.reader-reflow>main .choice-row.reader-four-column .choice-item:nth-child(5){grid-column:2;grid-row:4}
+}
 .exam-reader.reader-reflow>main .blank{text-align:center;text-align-last:center;word-spacing:normal;white-space:nowrap}
 .exam-reader.reader-reflow>main figcaption{text-align:center}
 .exam-reader.reader-reflow>main figure > img.reader-figure-image{display:block;max-width:min(100%,600px);max-height:560px;height:auto;object-fit:contain;margin-inline:auto}

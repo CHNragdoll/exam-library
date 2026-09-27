@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "common": {
+    "schema": "exam-paper.v1",
+    "optionLabels": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "answerFields": [
+      "value",
+      "solution",
+      "explanation",
+      "commentary",
+      "knowledge"
+    ],
+    "sourceTrace": [
+      "sourceDocumentId",
+      "sourceQuestionIds",
+      "sourceBlocks",
+      "sourcePages"
+    ]
+  },
+  "templates": {
+    "english-kaoyan": {
+      "category": "kaoyan",
+      "label": "考研英语",
+      "family": "english",
+      "sections": [
+        "writing",
+        "cloze",
+        "reading",
+        "translation"
+      ],
+      "choiceColumns": 2
+    },
+    "english-cet4": {
+      "category": "cet4",
+      "label": "大学英语四级",
+      "family": "english",
+      "sections": [
+        "writing",
+        "listening",
+        "reading",
+        "translation"
+      ],
+      "choiceColumns": 2
+    },
+    "english-cet6": {
+      "category": "cet6",
+      "label": "大学英语六级",
+      "family": "english",
+      "sections": [
+        "writing",
+        "listening",
+        "reading",
+        "translation"
+      ],
+      "choiceColumns": 2
+    },
+    "english-tem4": {
+      "category": "tem4",
+      "label": "英语专业四级",
+      "family": "english",
+      "sections": [
+        "dictation",
+        "listening",
+        "language",
+        "reading",
+        "writing"
+      ],
+      "choiceColumns": 2
+    },
+    "english-tem8": {
+      "category": "tem8",
+      "label": "英语专业八级",
+      "family": "english",
+      "sections": [
+        "listening",
+        "reading",
+        "language",
+        "translation",
+        "writing"
+      ],
+      "choiceColumns": 2
+    },
+    "cs408": {
+      "category": "cs408",
+      "label": "408 计算机统考",
+      "family": "technical",
+      "sections": [
+        "single_choice",
+        "free_response"
+      ],
+      "choiceColumns": 2
+    },
+    "math3": {
+      "category": "math3",
+      "label": "考研数学三",
+      "family": "mathematics",
+      "sections": [
+        "single_choice",
+        "fill_blank",
+        "free_response"
+      ],
+      "choiceColumns": 2
+    },
+    "politics": {
+      "category": "politics",
+      "label": "考研政治",
+      "family": "humanities",
+      "sections": [
+        "single_choice",
+        "multiple_choice",
+        "free_response"
+      ],
+      "choiceColumns": 2
+    }
+  }
+}
