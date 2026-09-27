@@ -53,6 +53,12 @@
       note.append(noteText);
       paragraph.after(note);
     }
+    if (config.documentId === 'cet6:2015-12-02') {
+      const caption = main.querySelector('section[data-source-page="1"] > figure + p.paragraph');
+      if (caption?.textContent.trim().startsWith('We just don’t have much useful information.')) {
+        caption.classList.add('reader-cartoon-followup');
+      }
+    }
     for (const number of main.querySelectorAll('p.question')) {
       const options = number.nextElementSibling;
       if (!/^\s*\d+[.．]\s*$/.test(number.textContent) || !options?.matches('ul.options')) continue;

@@ -26,7 +26,7 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  m.getBoundingClientRect=()=>({top:200-scroll,height:10000});
  d.querySelectorAll('#exam-reader-config').forEach(n=>n.remove());
  const c=d.createElement('script');c.id='exam-reader-config';c.type='application/json';
- c.textContent=JSON.stringify({title:'试卷测试',category:relative.includes('/cet6/')?'cet6':'kaoyan',categoryLabel:'考研英语',mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm'});
+ c.textContent=JSON.stringify({title:'试卷测试',category:relative.includes('/cet6/')?'cet6':'kaoyan',documentId:relative.includes('2015-12-02.htm')?'cet6:2015-12-02':'test',categoryLabel:'考研英语',mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm'});
  d.body.append(c);
  const textBefore=m.textContent, formula=d.querySelector('[data-toggle-source]'), svgCount=m.querySelectorAll('svg').length, imageCount=m.querySelectorAll('img').length;
  w.eval(script);w.dispatchEvent(new w.Event('load'));await wait(20);
@@ -37,6 +37,12 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
   assert(!note.previousElementSibling.textContent.includes('注意：'),'note no longer trails directions');
   const first=[...m.querySelectorAll('.reader-listening-question')].find(row=>row.querySelector('.question')?.textContent.trim()==='1.');
   assert(first && first.querySelector('ul.options'),'bare listening number shares a row with A/B options');
+ }
+ if(relative.includes('cet6/papers/2015-12-02.htm')) {
+  const caption=m.querySelector('p.reader-cartoon-followup');
+  assert(caption && caption.textContent.includes('We just don’t have much useful information.'),'cartoon reply is centered below figure');
+  assert(!caption.textContent.includes('注意：'),'answer-sheet note stays separate from caption');
+  assert.match(readerCss,/p\.reader-cartoon-followup\{text-align:center;text-align-last:center\}/);
  }
  assert.equal(d.querySelector('[data-toggle-source]'),formula,'original formula control retained');
  if(embedded) {
@@ -164,6 +170,7 @@ function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], ex
  assert.match(readerCss,/figure\.reader-sized-figure\s*>\s*img\.reader-figure-image/,'sized figure rule applies to both images');
  assert.match(readerCss,/object-fit:\s*contain/,'figure scaling does not crop content');
  for(const [file,mode] of files)console.log('PASS',await fixture(file,mode));
+ console.log('PASS centered cartoon reply',await fixture('english-exams-reflow-latex/cet6/papers/2015-12-02.htm','reflow'));
  console.log('PASS denied storage',await fixture(files[0][0],'reflow',{denied:true}));
  console.log('PASS explicit resume',await fixture(files[0][0],'reflow',{resume:true,previous:true}));
  console.log('PASS no implicit resume',await fixture(files[0][0],'reflow',{previous:true}));
