@@ -10,6 +10,7 @@
   const SETTINGS_KEY = 'exam-library:reader:v1';
   const RECENT_KEY = 'exam-library:recent:v1';
   const isSvg = config.mode === 'svg';
+  const sourcePages = () => [...main.querySelectorAll(':scope > section[data-source-page]')];
   const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
   const safeUrl = value => {
     try {
@@ -40,24 +41,204 @@
     width: [760, 920, 1120].includes(Number(rawSettings?.width)) ? Number(rawSettings.width) : 920,
     svgZoom: ['fit', '100', '125', '150'].includes(rawSettings?.svgZoom) ? rawSettings.svgZoom : 'fit'
   };
+  const joinExtractedProse = () => {
+    if (isSvg || !['cet4', 'cet6'].includes(config.category)) return;
+    const blocks = sourcePages()
+      .flatMap(section => [...section.children]);
+    const prose = node => node?.matches('p.paragraph');
+    const startsLowercase = node => /^[a-z]/.test(node.textContent.trimStart());
+    const append = (target, continuation) => {
+      // The extraction omitted spaces at block boundaries; restoring one also
+      // keeps copied text readable after the two blocks become one paragraph.
+      target.append(document.createTextNode(' '));
+      while (continuation.firstChild) target.append(continuation.firstChild);
+      continuation.remove();
+    };
+    for (let index = 0; index < blocks.length; index++) {
+      const block = blocks[index];
+      if (!block.isConnected || !prose(block)) continue;
+      const text = block.textContent.trim();
+      if (/^Directions\s*[：:]/i.test(text) && !/[.!?。．]\s*$/.test(text)) {
+        let nextIndex = index + 1;
+        // Long lowercase "headings" in directions are OCR line fragments,
+        // not section headings. Keep real headings such as Passage One apart.
+        while (blocks[nextIndex]?.isConnected && blocks[nextIndex].matches('h2.heading') &&
+               startsLowercase(blocks[nextIndex]) &&
+               blocks[nextIndex].textContent.trim().length >= 40 &&
+               !/^(?:passage|section|part|text)\s+(?:\d+|one|two|three|four)\b/i.test(blocks[nextIndex].textContent.trim())) {
+          append(block, blocks[nextIndex++]);
+        }
+        if (nextIndex > index + 1 && prose(blocks[nextIndex]) &&
+            startsLowercase(blocks[nextIndex]) && !/[.!?。．]\s*$/.test(block.textContent)) {
+          append(block, blocks[nextIndex]);
+        }
+      }
+      // Matching passages assign every true paragraph its own A)–O) marker.
+      // PDF page/line breaks may create lowercase unmarked fragments, including
+      // across two section elements; those fragments belong to this paragraph.
+      if (!/^[A-O][)）]\s+\S.{30}/s.test(text)) continue;
+      for (let nextIndex = index + 1; prose(blocks[nextIndex]) &&
+           blocks[nextIndex].isConnected && startsLowercase(blocks[nextIndex]); nextIndex++) {
+        append(block, blocks[nextIndex]);
+      }
+    }
+  };
+  const restoreSourceParagraphs = targets => {
+    if (isSvg || !['cet4', 'cet6'].includes(config.category)) return;
+    for (const [paragraph, anchors] of targets) {
+      if (!paragraph.isConnected || !paragraph.matches('p.paragraph')) continue;
+      const raw = paragraph.textContent;
+      let compact = '';
+      const offsets = [];
+      for (let index = 0; index < raw.length; index++) {
+        if (!/\s/.test(raw[index])) { compact += raw[index]; offsets.push(index); }
+      }
+      const cuts = [];
+      for (const anchor of anchors) {
+        if (typeof anchor !== 'string' || anchor.length < 20) continue;
+        const first = compact.indexOf(anchor);
+        if (first <= 0 || compact.indexOf(anchor, first + 1) !== -1) continue;
+        cuts.push(offsets[first]);
+      }
+      if (!cuts.length) continue;
+      paragraph.classList.add('reader-source-paragraph');
+      for (const offset of [...new Set(cuts)].sort((a, b) => b - a)) {
+        const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+        let remaining = offset, point = null;
+        for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+          if (remaining <= node.textContent.length) { point = [node, remaining]; break; }
+          remaining -= node.textContent.length;
+        }
+        if (!point) continue;
+        const range = document.createRange();
+        range.setStart(...point);
+        range.setEnd(paragraph, paragraph.childNodes.length);
+        const next = document.createElement('p');
+        next.className = paragraph.className;
+        next.append(range.extractContents());
+        paragraph.after(next);
+      }
+    }
+  };
   const normalizeEnglishLayout = () => {
     if (isSvg || !['cet4', 'cet6', 'tem4', 'tem8'].includes(config.category)) return;
     for (const paragraph of main.querySelectorAll('p.paragraph')) {
-      const last = paragraph.lastChild;
-      if (!last || last.nodeType !== Node.TEXT_NODE) continue;
-      const match = last.textContent.match(/\s*注意[：:]\s*此部分试题请在答题卡\s*[12]\s*上作答。\s*$/);
-      if (!match || !paragraph.textContent.slice(0, -match[0].length).trim()) continue;
-      const noteText = last.splitText(match.index);
+      const notePattern = /\s*注意[：:]\s*此部分试题请在答题卡\s*[12]\s*上作答(?:[^。]*。)?/;
+      const match = paragraph.textContent.match(notePattern);
+      if (!match || !paragraph.textContent.slice(0, match.index).trim()) continue;
+      const textPoint = position => {
+        const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+        for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+          if (position <= node.textContent.length) return [node, position];
+          position -= node.textContent.length;
+        }
+        return null;
+      };
+      const remainder = document.createElement('p');
+      remainder.className = paragraph.className;
+      const end = textPoint(match.index + match[0].length);
+      if (!end) continue;
+      const trailing = document.createRange();
+      trailing.setStart(...end);
+      trailing.setEnd(paragraph, paragraph.childNodes.length);
+      remainder.append(trailing.extractContents());
+      const start = textPoint(match.index);
+      const range = document.createRange();
+      range.setStart(...start);
+      range.setEnd(paragraph, paragraph.childNodes.length);
       const note = document.createElement('p');
       note.className = 'reader-answer-sheet-note';
-      note.append(noteText);
+      note.append(range.extractContents());
       paragraph.after(note);
+      if (remainder.textContent.trim()) note.after(remainder);
+    }
+    const splitAt = (paragraph, offset, className) => {
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      let remaining = offset, point = null;
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (remaining <= node.textContent.length) { point = [node, remaining]; break; }
+        remaining -= node.textContent.length;
+      }
+      if (!point) return null;
+      const range = document.createRange();
+      range.setStart(...point);
+      range.setEnd(paragraph, paragraph.childNodes.length);
+      const next = document.createElement('p');
+      next.className = className;
+      next.append(range.extractContents());
+      paragraph.after(next);
+      return next;
+    };
+    // Translation instructions and the Chinese passage can share one extracted
+    // PDF block. Split the display at the answer-sheet sentence, then restore
+    // paragraph starts traced from the positioned SVG text layer.
+    for (const paragraph of [...main.querySelectorAll('p.paragraph')]) {
+      const text = paragraph.textContent;
+      if (!/^\s*Directions\s*[：:]/i.test(text) || !/translat/i.test(text)) continue;
+      const end = /Answer Sheet\s*2\s*\./i.exec(text);
+      if (!end || !/[\u3400-\u9fff]/.test(text.slice(end.index + end[0].length))) continue;
+      const body = splitAt(paragraph, end.index + end[0].length, 'paragraph reader-translation-body');
+      if (!body) continue;
+      paragraph.classList.add('reader-translation-directions');
+      let tail = body;
+      for (const anchor of config.translationParagraphStarts || []) {
+        if (typeof anchor !== 'string' || !anchor) continue;
+        const raw = tail.textContent;
+        let normalized = '', offsets = [];
+        for (let index = 0; index < raw.length; index++) {
+          if (!/\s/.test(raw[index])) { normalized += raw[index]; offsets.push(index); }
+        }
+        const found = normalized.indexOf(anchor);
+        if (found < 0 || !raw.slice(0, offsets[found]).trim()) continue;
+        const next = splitAt(tail, offsets[found], 'paragraph reader-translation-body');
+        if (next) tail = next;
+      }
+    }
+    // Matching passages in the source PDF place A)–O) in a narrow label
+    // column, with the prose aligned to the right on every wrapped line.
+    for (const paragraph of main.querySelectorAll('p.paragraph')) {
+      const first = paragraph.firstChild;
+      if (!first || first.nodeType !== Node.TEXT_NODE) continue;
+      const match = /^(\s*)([A-O][)）])(\s+)/.exec(first.textContent);
+      if (!match) continue;
+      first.textContent = match[3] + first.textContent.slice(match[0].length);
+      const label = document.createElement('span');
+      label.className = 'reader-lettered-label';
+      label.textContent = match[1] + match[2];
+      const prose = document.createElement('span');
+      prose.className = 'reader-lettered-body';
+      while (paragraph.firstChild) prose.append(paragraph.firstChild);
+      paragraph.append(label, prose);
+      paragraph.classList.add('reader-lettered-paragraph');
     }
     if (config.documentId === 'cet6:2015-12-02') {
-      const caption = main.querySelector('section[data-source-page="1"] > figure + p.paragraph');
+      const caption = main.querySelector(':scope > section[data-source-page="1"] > figure + p.paragraph');
       if (caption?.textContent.trim().startsWith('We just don’t have much useful information.')) {
         caption.classList.add('reader-cartoon-followup');
       }
+    }
+    // PDF extraction can split one four-choice question into separate lists,
+    // including at a source-page boundary. Keep the choices with their number.
+    const blocks = sourcePages()
+      .flatMap(section => [...section.children]);
+    for (let index = 0; index < blocks.length; index++) {
+      const number = blocks[index];
+      if (!number.matches('p.question') || !/^\s*\d+[.．]\s*$/.test(number.textContent)) continue;
+      const groups = [];
+      for (let next = index + 1; blocks[next]?.matches('ul.options'); next++) groups.push(blocks[next]);
+      if (!groups.length) continue;
+      if (groups.length > 1) {
+        const choices = groups.flatMap(group => [...group.children]);
+        const labels = choices.map(choice => choice.querySelector('.option-label')?.textContent.trim());
+        if (choices.length === 4 && new Set(labels).size === 4 &&
+            labels.every(label => /^[ABCD]\.$/.test(label))) {
+          choices.sort((a, b) => a.querySelector('.option-label').textContent.localeCompare(b.querySelector('.option-label').textContent));
+          groups[0].append(...choices);
+          groups[0].classList.toggle('single', groups.some(group => group.classList.contains('single')));
+          groups.slice(1).forEach(group => group.remove());
+        }
+      }
+      if (groups[0].parentElement !== number.parentElement) number.after(groups[0]);
     }
     for (const number of main.querySelectorAll('p.question')) {
       const options = number.nextElementSibling;
@@ -66,6 +247,334 @@
       row.className = 'reader-listening-question';
       number.before(row);
       row.append(number, options);
+    }
+  };
+  const normalizeKaoyanLayout = () => {
+    if (isSvg || config.category !== 'kaoyan') return;
+    const splitAt = (paragraph, offset) => {
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      let point = null;
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (offset <= node.textContent.length) { point = [node, offset]; break; }
+        offset -= node.textContent.length;
+      }
+      if (!point) return null;
+      const range = document.createRange();
+      range.setStart(...point);
+      range.setEnd(paragraph, paragraph.childNodes.length);
+      const next = document.createElement('p');
+      next.className = paragraph.className;
+      next.append(range.extractContents());
+      paragraph.after(next);
+      return next;
+    };
+    // The PDF uses a period for long reading passages even when extraction
+    // emitted a closing parenthesis. Match the passage text before changing
+    // its marker, so answer options and unrelated lettered text stay intact.
+    for (const paragraph of main.querySelectorAll('p.paragraph')) {
+      const first = paragraph.firstChild;
+      if (!first || first.nodeType !== Node.TEXT_NODE) continue;
+      const match = /^(\s*)([A-O])([)）.．])(\s+)/.exec(first.textContent);
+      if (!match) continue;
+      const preview = paragraph.textContent.slice(match[0].length).replace(/\s+/g, '').toLowerCase().slice(0, 24);
+      const source = (config.letteredParagraphMarkers || []).find(item =>
+        item.letter === match[2] && item.preview === preview);
+      if (!source || !['.', ')'].includes(source.marker)) continue;
+      first.textContent = match[4] + first.textContent.slice(match[0].length);
+      const label = document.createElement('span');
+      label.className = 'reader-lettered-label';
+      label.textContent = match[1] + match[2] + source.marker;
+      const prose = document.createElement('span');
+      prose.className = 'reader-lettered-body';
+      while (paragraph.firstChild) prose.append(paragraph.firstChild);
+      paragraph.append(label, prose);
+      paragraph.classList.add('reader-lettered-paragraph');
+    }
+    // Writing prompts can arrive as one extracted paragraph although the
+    // source email has its own box and separate greeting/signature lines.
+    for (const candidate of [...main.querySelectorAll('p.paragraph')]) {
+      if (!/Yours,\s*Paul\b/.test(candidate.textContent) || candidate.closest('.reader-email-box')) continue;
+      let greeting = /^\s*(?:Hi|Dear)\s+Li Ming,/i.test(candidate.textContent)
+        ? candidate : candidate.previousElementSibling;
+      const greetingMatch = greeting?.matches('p.paragraph') &&
+        /^\s*(?:Hi|Dear)\s+Li Ming,/i.exec(greeting.textContent);
+      if (!greetingMatch || greeting.parentElement !== candidate.parentElement) continue;
+      let body = candidate === greeting ? greeting : candidate;
+      let signoff = candidate;
+      if (greeting.textContent.slice(greetingMatch[0].length).trim()) {
+        body = splitAt(greeting, greetingMatch[0].length);
+        if (!body) continue;
+        if (candidate === greeting) signoff = body;
+      }
+      const signoffOffset = signoff.textContent.search(/Yours,\s*Paul\b/);
+      if (signoffOffset > 0) {
+        signoff = splitAt(signoff, signoffOffset);
+        if (!signoff) continue;
+      }
+      const signature = /Yours,\s*/.exec(signoff.textContent);
+      if (!signature || signature.index !== 0) continue;
+      const paul = splitAt(signoff, signature[0].length);
+      if (!paul) continue;
+      const instructionOffset = paul.textContent.search(/(?:You should write|Write your answer)\b/i);
+      if (instructionOffset > 0) splitAt(paul, instructionOffset);
+      const emailParts = [];
+      for (let node = greeting; node; node = node.nextElementSibling) {
+        emailParts.push(node);
+        if (node === paul) break;
+      }
+      if (emailParts.at(-1) !== paul || emailParts.some(node => !node.matches('p.paragraph'))) continue;
+      const box = document.createElement('div');
+      box.className = 'reader-email-box';
+      greeting.before(box);
+      box.append(...emailParts);
+      greeting.classList.add('reader-email-greeting');
+      body.classList.add('reader-email-body');
+      signoff.classList.add('reader-email-signoff');
+      paul.classList.add('reader-email-name');
+      if (config.emailSignoffRight) box.classList.add('reader-email-right-signoff');
+      const instruction = box.nextElementSibling;
+      if (instruction?.matches('p.paragraph') && /^(?:You should|Write your answer)/i.test(instruction.textContent.trim())) {
+        const doNot = instruction.textContent.search(/\bDo not\b/i);
+        if (doNot > 0) splitAt(instruction, doNot);
+        instruction.classList.add('reader-email-instruction');
+        if (instruction.nextElementSibling?.matches('p.paragraph') && /^\s*Do not\b/i.test(instruction.nextElementSibling.textContent)) {
+          instruction.nextElementSibling.classList.add('reader-email-instruction');
+        }
+      }
+    }
+  };
+  const normalizePoliticsQuestions = () => {
+    if (isSvg || config.category !== 'politics' || config.kind !== 'questions') return;
+    const pages = sourcePages();
+
+    // Only a folio at the very end of its matching source page is removed.
+    // The source sometimes recognizes the closing dash as a bullet.
+    for (const page of pages) {
+      const last = page.lastElementChild;
+      if (!last?.matches('p.paragraph, .choices')) continue;
+      const walker = document.createTreeWalker(last, NodeFilter.SHOW_TEXT);
+      let tail = null;
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (node.textContent.trim()) tail = node;
+      }
+      if (!tail) continue;
+      const folio = /\s+-\s*(\d{1,2})\s*[-•·]\s*$/.exec(tail.textContent);
+      if (folio && Number(folio[1]) === Number(page.dataset.sourcePage)) {
+        tail.textContent = tail.textContent.slice(0, folio.index);
+      }
+    }
+
+    const blocks = pages.flatMap(page => [...page.children]);
+    let currentQuestion = null;
+    for (const block of blocks) {
+      const number = block.matches('p.question') && /^\s*(\d+)[.．]/.exec(block.textContent);
+      if (number) currentQuestion = Number(number[1]);
+      if (!block.matches('p.paragraph') || currentQuestion == null) continue;
+      const marker = /^\s*第\s*(\d+)\s*题\s*[（(]\s*续\s*[）)]\s*[：:]?\s*/.exec(block.textContent);
+      if (!marker || Number(marker[1]) !== currentQuestion) continue;
+      const first = block.firstChild;
+      if (first?.nodeType !== Node.TEXT_NODE || !first.textContent.startsWith(marker[0])) continue;
+      first.textContent = first.textContent.slice(marker[0].length);
+      if (!block.textContent.trim()) block.remove();
+    }
+
+    // A source-page break can divide A from B/C/D. The complete A–D set
+    // belongs to the preceding question, even when the latter page differs.
+    const liveBlocks = pages.flatMap(page => [...page.children]);
+    for (let index = 0; index < liveBlocks.length; index++) {
+      const stem = liveBlocks[index];
+      if (!stem.matches('p.question')) continue;
+      const groups = [];
+      for (let next = index + 1; next < liveBlocks.length; next++) {
+        const block = liveBlocks[next];
+        if (block.matches('p.question, h2, h3')) break;
+        if (block.matches('.choices')) groups.push(block);
+        else if (block.matches('p.paragraph') && block.textContent.trim()) break;
+      }
+      if (groups.length < 2) continue;
+      const choices = groups.flatMap(group => [...group.children]);
+      const labels = choices.map(choice => choice.querySelector('b')?.textContent.trim());
+      if (labels.join('') !== 'A.B.C.D.') continue;
+      groups[0].append(...choices.slice(groups[0].children.length));
+      groups.slice(1).forEach(group => group.remove());
+    }
+
+    const splitAt = (paragraph, offset) => {
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      let point = null;
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (offset <= node.textContent.length) { point = [node, offset]; break; }
+        offset -= node.textContent.length;
+      }
+      if (!point) return null;
+      const range = document.createRange();
+      range.setStart(...point);
+      range.setEnd(paragraph, paragraph.childNodes.length);
+      const prompt = document.createElement('p');
+      prompt.className = 'paragraph reader-politics-subquestion';
+      prompt.append(range.extractContents());
+      paragraph.after(prompt);
+      return prompt;
+    };
+    let analysisQuestion = null;
+    for (const paragraph of pages.flatMap(page => [...page.querySelectorAll(':scope > p.paragraph')])) {
+      const number = paragraph.matches('.question') && /^\s*(\d+)[.．]/.exec(paragraph.textContent);
+      if (number) analysisQuestion = Number(number[1]);
+      if (analysisQuestion == null || analysisQuestion < 34 || analysisQuestion > 38) continue;
+      const text = paragraph.textContent;
+      const sourceEnd = Math.max(text.lastIndexOf('摘自'), text.lastIndexOf('摘编自'));
+      const markers = [...text.matchAll(/[（(]([1-4])[）)]/g)]
+        .filter(match => match.index > sourceEnd);
+      if (markers.length < 2 || markers[0][1] !== '1' || markers[1][1] !== '2') continue;
+      for (const match of markers.reverse()) {
+        const prompt = match.index === 0 ? paragraph : splitAt(paragraph, match.index);
+        if (!prompt) continue;
+        prompt.classList.add('reader-politics-subquestion');
+        prompt.dataset.question = String(analysisQuestion);
+      }
+    }
+
+    // The original 2023 PDF reads “从二〇二〇年到二〇三五年”. Keep this
+    // verified correction narrower than a general OCR punctuation rule.
+    if (config.documentId === 'politics:2023-questions') {
+      const question35 = [...main.querySelectorAll('p.question')]
+        .find(node => /^\s*35[.．]/.test(node.textContent));
+      if (question35) {
+        const walker = document.createTreeWalker(question35, NodeFilter.SHOW_TEXT);
+        for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+          node.textContent = node.textContent
+            .replace('从二。二O年到二O三五年', '从二〇二〇年到二〇三五年')
+            .replace('从二O三五年到本世纪中叶', '从二〇三五年到本世纪中叶');
+        }
+      }
+    }
+  };
+  const normalizeMathQuestions = () => {
+    if (isSvg || config.category !== 'math3' || config.kind !== 'questions') return;
+    const questionProse = main.querySelectorAll('.paragraph, .math-option-content');
+    for (const block of questionProse) {
+      // Keep the original LaTeX/source blocks and formula DOM untouched. Only
+      // the displayed punctuation in question prose follows this paper style.
+      const walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT);
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (node.parentElement.closest('.formula, mjx-container, .tex-source')) continue;
+        node.textContent = node.textContent.replace(/。/g, '.');
+      }
+    }
+    // The converter leaves several (I)/(II)/(III) prompts inline with the
+    // stem or with each other. Split at their actual text nodes so MathJax SVG
+    // and source formulas remain attached to the right subquestion.
+    const marker = /（[ⅠⅡⅢⅣⅤⅥ]）/g;
+    for (const paragraph of [...main.querySelectorAll('.paragraph')]) {
+      const starts = [];
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (node.parentElement.closest('.formula, mjx-container, .tex-source')) continue;
+        for (const match of node.textContent.matchAll(marker)) starts.push([node, match.index]);
+      }
+      if (!starts.length) continue;
+      for (const [node, offset] of starts.reverse()) {
+        if (offset === 0 && node === paragraph.firstChild) {
+          paragraph.classList.add('reader-math-subquestion');
+          continue;
+        }
+        const range = document.createRange();
+        range.setStart(node, offset);
+        range.setEnd(paragraph, paragraph.childNodes.length);
+        const next = document.createElement('div');
+        next.className = 'paragraph reader-math-subquestion';
+        next.append(range.extractContents());
+        paragraph.after(next);
+      }
+    }
+    // The source archive has both (A) and （A）. Display one consistent label,
+    // while keeping each original label available on the element and in TeX.
+    for (const option of main.querySelectorAll('.math-option')) {
+      const label = option.querySelector('.math-option-label');
+      const content = option.querySelector('.math-option-content');
+      if (!label || !content) continue;
+      const sourceLabel = label.textContent.trim();
+      const match = /^[（(]?\s*([A-D])\s*[）).．]?$/i.exec(sourceLabel);
+      if (match) {
+        if (!label.dataset.sourceLabel) label.dataset.sourceLabel = sourceLabel;
+        label.textContent = `${match[1].toUpperCase()}.`;
+      }
+      const leaves = [];
+      const collect = node => {
+        if (node.nodeType === Node.TEXT_NODE) {
+          if (node.textContent.trim()) leaves.push(node);
+        } else if (node.nodeType === Node.ELEMENT_NODE) {
+          if (node.matches('.formula, mjx-container')) { leaves.push(null); return; }
+          for (const child of node.childNodes) collect(child);
+        }
+      };
+      collect(content);
+      const last = leaves.at(-1);
+      if (last) last.textContent = last.textContent.replace(/[。.](?=\s*$)/, '');
+    }
+    // Page extraction sometimes emits A/B and C/D as separate grids. The
+    // question number, rather than PDF page boundaries, defines one set.
+    const sequence = [...main.querySelectorAll('.paragraph.question, .math-options')];
+    for (let index = 0; index < sequence.length; index++) {
+      if (!sequence[index].matches('.paragraph.question')) continue;
+      const number = /^\s*（(\d+)）/.exec(sequence[index].textContent);
+      const groups = [];
+      const continuations = [];
+      for (let next = index + 1; next < sequence.length; next++) {
+        if (sequence[next].matches('.paragraph.question')) {
+          const continued = number && new RegExp(`^\\s*（${number[1]}）（续）`).test(sequence[next].textContent);
+          if (continued) { continuations.push(sequence[next]); continue; }
+          break;
+        }
+        groups.push(sequence[next]);
+      }
+      if (!groups.length) continue;
+      if (number) groups[0].style.setProperty('--reader-math-question-indent',
+        `${2 + number[1].length * .6}em`);
+      const choices = groups.flatMap(group => [...group.querySelectorAll(':scope > .math-option')]);
+      const labels = choices.map(choice => choice.querySelector('.math-option-label')?.textContent.trim());
+      if (choices.length !== 4 || labels.join('') !== 'A.B.C.D.') continue;
+      groups[0].append(...choices);
+      groups.slice(1).forEach(group => group.remove());
+      continuations.forEach(node => node.classList.add('reader-math-continuation'));
+    }
+    const visibleWidth = option => {
+      const content = option.querySelector('.math-option-content');
+      if (!content) return Infinity;
+      let ex = 3; // A. and its gap
+      const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (node.parentElement.closest('.formula, mjx-container')) continue;
+        for (const char of node.textContent.trim()) {
+          ex += /[\u3400-\u9fff，；：？！]/.test(char) ? 2 : /\s/.test(char) ? .35 : 1;
+        }
+      }
+      for (const svg of content.querySelectorAll('.formula svg[width]')) {
+        ex += Number.parseFloat(svg.getAttribute('width')) || 0;
+      }
+      return ex;
+    };
+    for (const group of main.querySelectorAll('.math-options')) {
+      const choices = [...group.querySelectorAll(':scope > .math-option')];
+      group.classList.add('reader-math-two-column');
+      if (choices.length === 4 && choices.every(choice => visibleWidth(choice) <= 19)) {
+        group.classList.add('reader-math-four-column');
+      }
+    }
+  };
+  const layoutCompactChoices = () => {
+    if (isSvg) return;
+    for (const row of main.querySelectorAll('.choice-row')) {
+      const cells = [...row.children];
+      if (cells.length !== 5 || !cells[0].matches('.choice-number') ||
+          !cells.slice(1).every(cell => cell.matches('.choice-item'))) continue;
+      const choices = cells.slice(1).map(cell => cell.textContent.replace(/\s+/g, ' ').trim());
+      // Four short alternatives can share a row. Longer prose keeps the
+      // source's two-column layout so it remains readable without scrolling.
+      if (choices.every((choice, index) =>
+        choice.startsWith(`${'ABCD'[index]}.`) && choice.length <= 18)) {
+        row.classList.add('reader-four-column');
+      }
     }
   };
   const sizeFigures = () => {
@@ -164,7 +673,33 @@
       }
     }
   };
+  // Capture source targets before layout cleanup inserts/moves DOM nodes.
+  // Source block indexes describe the original reflow HTML, not the enhanced DOM.
+  const structuredTargets = [];
+  if (!isSvg && Array.isArray(config.structuredToc)) {
+    const pages = sourcePages();
+    for (const entry of config.structuredToc) {
+      const node = pages[entry.pageIndex - 1]?.children[entry.blockIndex - 1];
+      if (node) structuredTargets.push({node, label: entry.label, level: entry.level || 0});
+    }
+  }
+  const sourceParagraphTargets = new Map();
+  if (!isSvg && Array.isArray(config.readingParagraphStarts)) {
+    const pages = sourcePages();
+    for (const entry of config.readingParagraphStarts) {
+      const node = pages[entry.reflowPageIndex - 1]?.children[entry.reflowBlockIndex - 1];
+      if (!node?.matches('p.paragraph')) continue;
+      if (!sourceParagraphTargets.has(node)) sourceParagraphTargets.set(node, []);
+      sourceParagraphTargets.get(node).push(entry.anchor);
+    }
+  }
+  joinExtractedProse();
+  restoreSourceParagraphs(sourceParagraphTargets);
   normalizeEnglishLayout();
+  normalizeKaoyanLayout();
+  normalizePoliticsQuestions();
+  normalizeMathQuestions();
+  layoutCompactChoices();
   sizeFigures();
   applyImageRedraws();
   // Embedded readers contain exam material only: no nested toolbar, history writes,
@@ -216,18 +751,24 @@
   const tocLabel = el('label', 'reader-toc-label');
   tocLabel.append(el('span', 'reader-control-label', isSvg ? '页码' : '目录'));
   const toc = el('select', 'reader-toc'); toc.setAttribute('aria-label', isSvg ? '跳转到试卷页面' : '跳转到章节或题目');
-  const targets = isSvg ? Array.from(main.querySelectorAll('.page-wrap')) : Array.from(main.querySelectorAll('h2, h3, .question'));
   const chosen = [];
-  targets.forEach((node, index) => {
-    // Avoid nested question/heading duplicates and invisible source-code copies.
-    if (chosen.some(item => item.node.contains(node))) return;
-    let text = isSvg ? `第 ${index + 1} 页` : node.textContent.replace(/\s+/g, ' ').trim();
-    if (!text) return;
-    if (!node.id) node.id = `reader-anchor-${index + 1}`;
+  const addTocTarget = (node, text, level = 0) => {
+    if (!node || !text || chosen.some(item => item.node === node)) return;
+    if (!node.id) node.id = `reader-anchor-${chosen.length + 1}`;
     chosen.push({node, text});
-    const option = el('option', '', text.length > 64 ? `${text.slice(0, 64)}…` : text);
+    const visible = `${'　'.repeat(Math.min(3, level))}${text.length > 64 ? `${text.slice(0, 64)}…` : text}`;
+    const option = el('option', '', visible);
     option.value = String(chosen.length - 1); toc.append(option);
-  });
+  };
+  for (const entry of structuredTargets) addTocTarget(entry.node, entry.label, entry.level);
+  if (!chosen.length) {
+    const targets = isSvg ? Array.from(main.querySelectorAll('.page-wrap')) : Array.from(main.querySelectorAll('h2, h3, .question'));
+    targets.forEach((node, index) => {
+      if (chosen.some(item => item.node.contains(node))) return;
+      const text = isSvg ? `第 ${index + 1} 页` : node.textContent.replace(/\s+/g, ' ').trim();
+      addTocTarget(node, text);
+    });
+  }
   if (!chosen.length) { tocLabel.hidden = true; }
   else {
     toc.addEventListener('change', () => jump(chosen[Number(toc.value)]?.node));

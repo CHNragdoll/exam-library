@@ -130,6 +130,55 @@ def repair_figure_crops(category, stem, page_number, blocks):
 def plain_text(block):
     return ''.join(run['text'] for run in block.get('runs', []))
 
+def repair_split_option_labels(category, stem, page_number, blocks):
+    """Repair a few PDF text-layer option labels checked against their four choices."""
+    for index in range(len(blocks) - 2, -1, -1):
+        question = blocks[index]
+        if question['type'] != 'question' or not re.fullmatch(r'\d+[.．]', plain_text(question).strip()):
+            continue
+        groups = []
+        for block in blocks[index + 1:]:
+            if block['type'] != 'options':
+                break
+            groups.append(block)
+        if len(groups) < 2:
+            continue
+        items = [item for group in groups for item in group['items']]
+        labels = ''.join(item['label'] for item in items)
+        key = (category, stem, page_number, plain_text(question).strip())
+        if key in {
+            ('cet6', '2015-12-02', 2, '8.'),
+            ('cet4', '2014-06-03', 1, '7.'),
+        }:
+            assert labels == 'ABCC'
+            items[-1]['label'] = 'D'
+        elif key in {
+            ('cet4', '2015-12-01', 1, '3.'),
+            ('cet4', '2014-06-03', 1, '6.'),
+        }:
+            assert labels == 'ACCD'
+            items[2]['label'] = 'B'
+        elif key in {
+            ('cet6', '2025-12-02', 2, '12.'),
+            ('cet4', '2015-12-01', 1, '6.'),
+            ('cet4', '2021-06-01', 3, '20.'),
+        }:
+            assert labels in {'ABCCD', 'ACBCD'}
+            blanks = [(group, item) for group in groups for item in group['items']
+                      if item['label'] == 'C' and not plain_text(item)]
+            assert len(blanks) == 1
+            blanks[0][0]['items'].remove(blanks[0][1])
+        elif key == ('cet4', '2016-06-02', 3, '22.'):
+            assert labels == 'ABCDD' and plain_text(items[2]) == 'Ph.'
+            assert plain_text(items[3]) == 'candidates in dieting.'
+            items[2]['runs'][0]['text'] = 'Ph.D. candidates in dieting.'
+            next(group for group in groups if items[3] in group['items'])['items'].remove(items[3])
+        elif key == ('kaoyan', '2012-02', 4, '22.'):
+            assert labels == 'ALABCD' and not plain_text(items[1])
+            assert plain_text(items[0]).startswith('Unified has made the rule about homework')
+            question['runs'].append({'text': ' ' + plain_text(items[0]), 'flags': [False, False, False]})
+            blocks.remove(groups[0])
+
 def make_paper(entry):
     src=source_pdf(entry);assert sha(src)==entry['source_pdf_sha256']
     category=entry['category'];stem=Path(entry['file']).stem
@@ -149,6 +198,7 @@ def make_paper(entry):
         if category=='cet6' and stem=='2014-12-03' and pn==1:
             restore_cet6_2014_12_03_page_one(data['blocks'])
         repair_figure_crops(category, stem, pn, data['blocks'])
+        repair_split_option_labels(category, stem, pn, data['blocks'])
         rendered=[];textblocks=[];pageglyph=0
         note_pending=any(b['type']=='source_line' for b in data['blocks'])
         plain_text_end=''.join(r['text'] for r in pages[-1]['blocks'][-1].get('runs',[])).rstrip() if pages and pages[-1]['blocks'] else ''

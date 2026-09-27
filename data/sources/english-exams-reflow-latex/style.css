@@ -12,4 +12,7 @@ figure.flowchart{max-width:100%;margin:1.4em auto}
 /* Answer choices keep natural word spacing; only continuous prose is justified. */
 .paper .options li > span:last-child{text-align:start;text-align-last:auto;word-spacing:normal;hyphens:manual}
 
+/* Fifteen-word cloze banks are short entries and read better in three columns. */
+@media(min-width:900px){.paper .options:not(.single):has(>li:nth-child(10)){grid-template-columns:repeat(3,minmax(0,1fr));column-gap:1em}}
+
 @media(max-width:650px){.choice-row{grid-template-columns:2.1em minmax(0,1fr)}.choice-number{grid-row:1 / span 4}.choice-item:nth-child(2){grid-column:2;grid-row:1}.choice-item:nth-child(3){grid-column:2;grid-row:2}.choice-item:nth-child(4){grid-column:2;grid-row:3}.choice-item:nth-child(5){grid-column:2;grid-row:4}}
