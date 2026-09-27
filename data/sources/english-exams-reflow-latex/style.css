@@ -2,7 +2,7 @@
 
 .source-line{margin:.1em 0;line-height:1}.source-line img{display:block;max-width:100%;height:auto}
 
-figcaption,.figure-caption{text-align:center;margin:.8em auto 1.3em;line-height:1.65}figure.flowchart{margin:1.5em auto;max-width:100%}.flowchart img{display:block;width:100%;height:auto}.choice-scroll{overflow-x:auto;margin:.7em 0 1em}.choice-row{display:grid;grid-template-columns:2.1em repeat(4,minmax(max-content,1fr));align-items:baseline;column-gap:.9em;min-width:max-content}.choice-number{font-weight:600}.choice-item{white-space:nowrap}.choice-item strong{margin-right:.35em}
+figcaption,.figure-caption{text-align:center;margin:.8em auto 1.3em;line-height:1.65}figure.flowchart{margin:1.5em auto;max-width:100%}.flowchart img{display:block;width:100%;height:auto}.choice-scroll{overflow-x:visible;margin:.7em 0 1em}.choice-row{display:grid;grid-template-columns:2.1em repeat(2,minmax(0,1fr));align-items:start;gap:.45em .9em;min-width:0}.choice-number{grid-column:1;grid-row:1 / span 2;font-weight:600}.choice-item{min-width:0;white-space:normal;overflow-wrap:anywhere}.choice-item:nth-child(2){grid-column:2;grid-row:1}.choice-item:nth-child(3){grid-column:3;grid-row:1}.choice-item:nth-child(4){grid-column:2;grid-row:2}.choice-item:nth-child(5){grid-column:3;grid-row:2}.choice-item strong{margin-right:.35em}
 
 /* Continuous reading: source-page metadata must not impose visual pages. */
 .paper > section{display:contents}
@@ -11,3 +11,5 @@ figure.flowchart{max-width:100%;margin:1.4em auto}
 
 /* Answer choices keep natural word spacing; only continuous prose is justified. */
 .paper .options li > span:last-child{text-align:start;text-align-last:auto;word-spacing:normal;hyphens:manual}
+
+@media(max-width:650px){.choice-row{grid-template-columns:2.1em minmax(0,1fr)}.choice-number{grid-row:1 / span 4}.choice-item:nth-child(2){grid-column:2;grid-row:1}.choice-item:nth-child(3){grid-column:2;grid-row:2}.choice-item:nth-child(4){grid-column:2;grid-row:3}.choice-item:nth-child(5){grid-column:2;grid-row:4}}

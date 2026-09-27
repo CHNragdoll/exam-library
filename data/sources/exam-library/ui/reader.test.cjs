@@ -6,6 +6,7 @@ const assert = require('node:assert/strict');
 const base = path.resolve(__dirname, '../..');
 const script = fs.readFileSync(path.join(__dirname, 'reader.js'), 'utf8');
 const readerCss = fs.readFileSync(path.join(__dirname, 'reader.css'), 'utf8');
+const englishCss = fs.readFileSync(path.join(base, 'english-exams-reflow-latex/style.css'), 'utf8');
 const files = [
  ['english-exams-reflow-latex/kaoyan/papers/2014-01.htm','reflow'],
  ['english-exams-reflow-latex/cet6/papers/2015-12-01.htm','reflow'],
@@ -166,11 +167,30 @@ function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], ex
  if(embedded)assert.equal(d.querySelectorAll('.reader-toolbar').length,0,'embedded redraw has no toolbar');
  dom.window.close();
 }
+function choiceLayoutFixture() {
+ const file=path.join(base,'english-exams-reflow-latex/cet6/papers/2015-12-02.htm');
+ const dom=new JSDOM(fs.readFileSync(file,'utf8'));
+ const w=dom.window,d=w.document,style=d.createElement('style');
+ style.textContent=englishCss;d.head.append(style);
+ const row=[...d.querySelectorAll('.choice-row')].find(node=>node.textContent.includes('Touch his heart.'));
+ assert(row && row.children.length===5,'question 9 has number and A-D');
+ assert.equal(row.children[4].textContent.trim().startsWith('D.'),true,'D option remains complete');
+ assert.equal(w.getComputedStyle(row.parentElement).overflowX,'visible','no horizontal scrolling');
+ assert.equal(w.getComputedStyle(row).minWidth,'0px','choice row fits content width');
+ assert.match(w.getComputedStyle(row).gridTemplateColumns,/repeat\(2,minmax\(0,1fr\)\)/,'two option columns');
+ assert.equal(w.getComputedStyle(row.children[1]).gridRow,'1');
+ assert.equal(w.getComputedStyle(row.children[2]).gridRow,'1');
+ assert.equal(w.getComputedStyle(row.children[3]).gridRow,'2');
+ assert.equal(w.getComputedStyle(row.children[4]).gridRow,'2');
+ assert.equal(w.getComputedStyle(row.children[4]).whiteSpace,'normal','long options wrap');
+ dom.window.close();
+}
 (async()=>{
  assert.match(readerCss,/figure\.reader-sized-figure\s*>\s*img\.reader-figure-image/,'sized figure rule applies to both images');
  assert.match(readerCss,/object-fit:\s*contain/,'figure scaling does not crop content');
  for(const [file,mode] of files)console.log('PASS',await fixture(file,mode));
  console.log('PASS centered cartoon reply',await fixture('english-exams-reflow-latex/cet6/papers/2015-12-02.htm','reflow'));
+ choiceLayoutFixture();console.log('PASS listening choices wrap without horizontal scrolling');
  console.log('PASS denied storage',await fixture(files[0][0],'reflow',{denied:true}));
  console.log('PASS explicit resume',await fixture(files[0][0],'reflow',{resume:true,previous:true}));
  console.log('PASS no implicit resume',await fixture(files[0][0],'reflow',{previous:true}));
