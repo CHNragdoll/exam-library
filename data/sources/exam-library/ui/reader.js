@@ -43,14 +43,14 @@
   const sizeFigures = () => {
     if (isSvg) return;
     for (const image of main.querySelectorAll('figure > img[src]')) {
-      if (image.classList.contains('reader-redraw-image') || image.classList.contains('inline-glyph') ||
+      if (image.classList.contains('reader-figure-image') || image.classList.contains('inline-glyph') ||
           image.closest('.formula, mjx-container, .source-line')) continue;
       const figure = image.parentElement;
       image.classList.add('reader-figure-image');
       const setWidth = () => {
         const width = image.naturalWidth, height = image.naturalHeight;
         if (!width || !height) return;
-        // Use the original scan's proportions for both views. Short diagrams
+        // Use the original asset's proportions for both views. Short diagrams
         // become readable, while wide or tall scans stay within the page.
         const target = Math.round(Math.min(700, Math.max(240, width * 1.45), 560 * width / height));
         figure.style.setProperty('--reader-figure-width', `${target}px`);
