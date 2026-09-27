@@ -53,6 +53,10 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
 .exam-reader.reader-reflow>main .options,.exam-reader.reader-reflow>main .options li,.exam-reader.reader-reflow>main .option-text,.exam-reader.reader-reflow>main .choice,.exam-reader.reader-reflow>main .choice-item,.exam-reader.reader-reflow>main .choices{text-align:left;text-align-last:left;word-spacing:normal}
 .exam-reader.reader-reflow>main .blank{text-align:center;text-align-last:center;word-spacing:normal;white-space:nowrap}
 .exam-reader.reader-reflow>main figcaption{text-align:center}
+.exam-reader.reader-reflow>main img.reader-redraw-image[hidden],.exam-reader.reader-reflow>main img[data-reader-redraw-applied="1"][hidden]{display:none!important}
+.exam-reader.reader-reflow>main .reader-redraw-control{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:4px;margin:8px auto 0;color:var(--ui-muted);font:12px/1.5 var(--ui-font);text-align:center}
+.exam-reader.reader-reflow>main .reader-redraw-toggle{border:0;background:none;padding:2px 4px;color:var(--ui-accent);font:inherit;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+.exam-reader.reader-reflow>main .reader-redraw-toggle:focus-visible{outline:2px solid var(--ui-accent);outline-offset:2px;border-radius:3px}
 .exam-reader.reader-reflow>main .question{scroll-margin-top:160px}
 .exam-reader.reader-svg>main{max-width:none;margin:0;padding:0 0 40px;overflow-x:auto}
 .exam-reader.reader-svg>main>.page-wrap{width:100%;max-width:1000px;margin:0 auto 24px;padding:0 20px}
@@ -82,7 +86,7 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
  .exam-reader>footer{padding:0 18px 24px}
 }
 @media(max-width:380px){.exam-reader .reader-top{flex-wrap:wrap}.exam-reader .reader-identity{flex-basis:100%}.exam-reader .reader-versions{margin-left:auto}.exam-reader.reader-reflow>main{padding:20px 16px}}
-@media print{.exam-reader .reader-toolbar,.exam-reader .reader-skip,.exam-reader .reader-announcement{display:none!important}.exam-reader.reader-focus .reader-source-header{display:block}.exam-reader .reader-source-header .reader-original-title{display:block}.exam-reader.reader-reflow>main{width:100%;max-width:none;border:0;padding:0;font-size:12pt}.exam-reader.reader-svg>main{overflow:visible}.exam-reader.reader-svg>main>.page-wrap,.exam-reader.reader-svg.reader-zoomed>main>.page-wrap{width:100%;max-width:none;padding:0;break-after:page}.exam-reader .reader-source-header{padding:0}.exam-reader{background:white}}
+@media print{.exam-reader .reader-toolbar,.exam-reader .reader-skip,.exam-reader .reader-announcement,.exam-reader .reader-redraw-control{display:none!important}.exam-reader.reader-focus .reader-source-header{display:block}.exam-reader .reader-source-header .reader-original-title{display:block}.exam-reader.reader-reflow>main{width:100%;max-width:none;border:0;padding:0;font-size:12pt}.exam-reader.reader-svg>main{overflow:visible}.exam-reader.reader-svg>main>.page-wrap,.exam-reader.reader-svg.reader-zoomed>main>.page-wrap{width:100%;max-width:none;padding:0;break-after:page}.exam-reader .reader-source-header{padding:0}.exam-reader{background:white}}
 /* Comparison is a pair of isolated document viewports; source content stays intact. */
 .exam-reader .reader-version{cursor:pointer}
 .exam-reader.reader-comparing>main,.exam-reader.reader-comparing>.reader-source-header,.exam-reader.reader-comparing>footer,.exam-reader.reader-comparing .reader-controls,.exam-reader.reader-comparing .reader-progress,.exam-reader.reader-comparing>.reader-skip{display:none}

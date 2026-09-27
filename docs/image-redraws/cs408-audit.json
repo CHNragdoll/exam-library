@@ -1,0 +1,3083 @@
+{
+  "scope": "408真题和答案LaTeX重排页中figure>img实际引用的独立插图，排除封面、整页SVG和MathJax公式",
+  "count": 153,
+  "documents": 25,
+  "by_collection": {
+    "questions_and_complete": 117,
+    "answers": 36
+  },
+  "svg_with_embedded_raster": 126,
+  "vector_only_svg": 27,
+  "priority_counts": {
+    "moderate": 47,
+    "none_observed": 51,
+    "severe": 45,
+    "none_observed+source_crop_issue": 8,
+    "severe+source_crop_issue": 1,
+    "moderate+source_crop_issue": 1
+  },
+  "method": "解析papers/*.htm实际figure/img引用，逐项目视PNG预览，并放大渲染严重及裁切样本的活动SVG；PNG是预览源，网页引用SVG。SVG含位图不自动等于整图低清。",
+  "color_rule": "彩色只可辅助分组，不得新增语义；数字、拓扑、箭头、答案关系保持。",
+  "entries": [
+    {
+      "index": 0,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p001-b005.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第3题：结点编号 1 至 7 的二叉树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        189,
+        238
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p001-b005.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第3题：结点编号 1 至 7 的二叉树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 1,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p001-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第4题：A、B、C、D 四棵候选二叉排序树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        829,
+        192
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p001-b007.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第4题：A、B、C、D 四棵候选二叉排序树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 2,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p004-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第42题：单链表结点 data 与 link 结构",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        298,
+        78
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p004-b010.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第42题：单链表结点 data 与 link 结构；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 3,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p005-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第44题：CPU 数据通路和控制信号图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        880,
+        578
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p005-b002.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第44题：CPU 数据通路和控制信号图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 4,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p006-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第47题：R1、R2、局域网、域名服务器和互联网拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        745,
+        356
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p006-b003.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题：R1、R2、局域网、域名服务器和互联网拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 5,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p007-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第41题反例：A、B、C、D 的带权图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        312,
+        196
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p007-b009.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第41题反例：A、B、C、D 的带权图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 6,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p014-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2009-complete.htm",
+      "alt": "第9题小根堆插入前后的两棵树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        929,
+        260
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2009-complete-p014-b003.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第9题小根堆插入前后的两棵树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 7,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b005.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 3 题四幅后序线索二叉树选项图（A—D）",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        1049,
+        298
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b005.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 3 题四幅后序线索二叉树选项图（A—D）；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 8,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 4 题平衡二叉树",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        280,
+        216
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b007.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 4 题平衡二叉树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 9,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b012.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 8 题有向图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        369,
+        240
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p001-b012.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 图外题文误入且下方似有截断。 重绘前须回查完整原PDF。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 8 题有向图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "图外题文误入且下方似有截断。"
+    },
+    {
+      "index": 10,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p004-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 34 题分组交换网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        347,
+        120
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p004-b010.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 34 题分组交换网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 11,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p007-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 45 题磁盘与磁头移动方向示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        594,
+        298
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p007-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 45 题磁盘与磁头移动方向示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 12,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p007-b004.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 46 题页框与 CLOCK 指针示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        392,
+        323
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p007-b004.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 46 题页框与 CLOCK 指针示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 13,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p010-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "第 44 题数据 Cache 与主存映射关系图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        516,
+        605
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p010-b000.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 44 题数据 Cache 与主存映射关系图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 14,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p015-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2010-complete.htm",
+      "alt": "图 2010-28 最佳适配算法分配示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        647,
+        369
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2010-complete-p015-b002.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "图 2010-28 最佳适配算法分配示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 15,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p002-b015.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2011-complete.htm",
+      "alt": "第6题特殊树形结构：1895个中间结点及116个叶结点",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        400,
+        272
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p002-b015.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第6题特殊树形结构：1895个中间结点及116个叶结点；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 16,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p007-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2011-complete.htm",
+      "alt": "第37题路由器 R1、R2 与三个子网的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        758,
+        332
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p007-b002.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第37题路由器 R1、R2 与三个子网的网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 17,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p008-b005.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2011-complete.htm",
+      "alt": "第41题有向带权图 G",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        536,
+        212
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p008-b005.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第41题有向带权图 G；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 18,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p008-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2011-complete.htm",
+      "alt": "第41题关键路径粗线示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        560,
+        225
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p008-b007.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第41题关键路径粗线示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 19,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p013-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2011-complete.htm",
+      "alt": "题47-a图：网络拓扑，主机、路由器 R、Internet 及接口地址",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        738,
+        136
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2011-complete-p013-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题47-a图：网络拓扑，主机、路由器 R、Internet 及接口地址；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 20,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p001-b017.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第7题有向带权图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        465,
+        183
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p001-b017.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第7题有向带权图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 21,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p002-b004.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第9题三阶B树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        372,
+        154
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p002-b004.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第9题三阶B树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 22,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p005-b015.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第40题电子邮件传递过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 32,
+      "png_preview_pixels": [
+        514,
+        136
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p005-b015.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第40题电子邮件传递过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 23,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p005-b023.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第42题两个链表的公共后缀示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 22,
+      "png_preview_pixels": [
+        536,
+        125
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p005-b023.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第42题两个链表的公共后缀示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 24,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p006-b013.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第44题流水线执行过程示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        789,
+        200
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p006-b013.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第44题流水线执行过程示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 25,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p010-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第3题二叉树树形示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        665,
+        240
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p010-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第3题二叉树树形示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 26,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p010-b004.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第4题平衡二叉树构造示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        620,
+        183
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p010-b004.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第4题平衡二叉树构造示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 27,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p011-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第9题删除关键字78后的B树调整过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        883,
+        172
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p011-b007.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第9题删除关键字78后的B树调整过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 28,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p014-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第29题两个作业的运行时序",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        656,
+        207
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p014-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第29题两个作业的运行时序；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 29,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p015-b011.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2012-complete.htm",
+      "alt": "第41题哈夫曼树式合并过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        300,
+        238
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2012-complete-p015-b011.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第41题哈夫曼树式合并过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 30,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p002-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第8题无向图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        465,
+        469
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p002-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第8题无向图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 31,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p002-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第9题AOE网",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        534,
+        360
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p002-b003.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第9题AOE网；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 32,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p004-b012.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第27题缓冲区工作过程",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        376,
+        354
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p004-b012.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第27题缓冲区工作过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 33,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p005-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第34题10 BaseT信号波形",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        567,
+        138
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p005-b006.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 当前图像是题文而非所标波形，疑似选图错误。 重绘前须回查完整原PDF。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第34题10 BaseT信号波形；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "当前图像是题文而非所标波形，疑似选图错误。"
+    },
+    {
+      "index": 34,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第44题条件转移指令数据通路",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        923,
+        585
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第44题条件转移指令数据通路；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 35,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p008-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第46题页表和代码页示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        874,
+        309
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p008-b010.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第46题页表和代码页示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 36,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p009-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第47题网络拓扑结构",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        1085,
+        603
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p009-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题网络拓扑结构；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 37,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p010-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第3题平衡二叉树示例",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        414,
+        318
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p010-b009.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第3题平衡二叉树示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 38,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p011-b019.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第17题变址寻址过程",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        558,
+        209
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p011-b019.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第17题变址寻址过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 39,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p014-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第40题SMTP邮件传递过程",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        1025,
+        347
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p014-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第40题SMTP邮件传递过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 40,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p016-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第42题二叉排序树",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        967,
+        358
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p016-b006.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第42题二叉排序树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 41,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p018-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2013-complete.htm",
+      "alt": "第46题页表和代码页对应关系",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        856,
+        334
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2013-complete-p018-b010.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第46题页表和代码页对应关系；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 42,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p001-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2014-complete.htm",
+      "alt": "第4题二叉树中序线索化示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        229,
+        258
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p001-b010.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第4题二叉树中序线索化示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 43,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p002-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2014-complete.htm",
+      "alt": "第7题有向图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        349,
+        256
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p002-b000.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "节点1–6：3→1、3→6、1→2、1→4、4→2、4→6、2→5、6→5；原图有灰底透印。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 44,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p004-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2014-complete.htm",
+      "alt": "题34交换机与三台主机的连接拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        496,
+        192
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p004-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "交换机端口1/2/3分别接三台主机；图下MAC后缀 a1/b1/c1，完整字符应回查PDF。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 45,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p005-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2014-complete.htm",
+      "alt": "第42题R1构造的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        889,
+        278
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p005-b009.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "R1–R4四边形拓扑；四角子网192.1.1.0/24、192.1.5.0/24、192.1.6.0/24、192.1.7.0/24；链路代价3/2/4/6，接口10.1.1.1/.2/.5/.6/.9/.10/.13/.14。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 46,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p016-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2014-complete.htm",
+      "alt": "第42题链式存储结构示意图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        683,
+        603
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2014-complete-p016-b002.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第42题链式存储结构示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 47,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p001-b011.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第6题带权图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        203,
+        149
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p001-b011.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第6题带权图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 48,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p004-b005.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第34题比特流、编码1和编码2波形图",
+      "active_asset": "svg",
+      "svg_type": "vector_only_svg",
+      "embedded_image_count": 0,
+      "png_preview_pixels": [
+        460,
+        198
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p004-b005.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG由可缩放路径组成。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第34题比特流、编码1和编码2波形图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 49,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p005-b008.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第41题删除前的单链表 head",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        549,
+        78
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p005-b008.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第41题删除前的单链表 head；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 50,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p005-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第41题删除后的单链表 head",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        389,
+        92
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p005-b010.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第41题删除后的单链表 head；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 51,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p006-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第42题含5个顶点的图 G",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        249,
+        174
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p006-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第42题含5个顶点的图 G；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 52,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p006-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第43题单总线 CPU 数据通路图及端点①～⑨",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        778,
+        438
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p006-b003.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第43题单总线 CPU 数据通路图及端点①～⑨；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 53,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p007-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第44题题图a：部分指令控制信号及取指、执行阶段",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        836,
+        412
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p007-b000.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第44题题图a：部分指令控制信号及取指、执行阶段；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 54,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p008-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2015-complete.htm",
+      "alt": "第47题网络拓扑及 IP、MAC 地址配置图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        609,
+        343
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2015-complete-p008-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "以太网交换机连接WWW、DHCP、路由器、主机1/2/N和Internet；IP 111.123.15.1/2/3/4/24；MAC 00-a1-a1-a1-a1-a1 与 00-b1-b1-b1-b1-b1。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 55,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p001-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 3 题火车车轨示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        680,
+        136
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p001-b007.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 3 题火车车轨示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 56,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p001-b011.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 6 题有向图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        174,
+        178
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p001-b011.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 6 题有向图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 57,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p002-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 8 题带权有向图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        420,
+        183
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p002-b002.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 8 题带权有向图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 58,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p004-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 29 题页面访问时间序列",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        572,
+        78
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p004-b006.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 29 题页面访问时间序列；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 59,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "题 33～41 图：路由器、交换机、集线器和主机网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        914,
+        527
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "R1–R3、NAT、Switch、Hub、H1–H4、DNS与Web；H1 192.168.3.2、H2 .3、H3 .251、H4 .252，R2 E1 192.168.3.254；Internet云内地址无法可靠辨认。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 60,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p009-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 44 题设备 D 中断输入输出时序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        636,
+        198
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p009-b001.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 上缘截掉部分波形/文字。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 44 题设备 D 中断输入输出时序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "上缘截掉部分波形/文字。"
+    },
+    {
+      "index": 61,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p010-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 45 题虚拟地址、TLB、页表与 Cache 访问示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        898,
+        432
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p010-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 45 题虚拟地址、TLB、页表与 Cache 访问示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 62,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p012-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2016-questions.htm",
+      "alt": "第 47 题目录树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        280,
+        254
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2016-questions-p012-b001.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 47 题目录树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 63,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p001-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 5 题二叉树树形",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        154,
+        132
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p001-b009.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 上下边界裁断，叶结点不全。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "blocked_until_source_recovered",
+      "critical_content_confirmable": "no",
+      "critical_content": "第 5 题二叉树树形；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "上下边界裁断，叶结点不全。"
+    },
+    {
+      "index": 64,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p001-b013.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 8 题四幅二叉树选项图（A—D）",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        894,
+        309
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p001-b013.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 8 题四幅二叉树选项图（A—D）；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 65,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p004-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 35 题无线局域网 AP、主机 H 与路由器 R 拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        1000,
+        207
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p004-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 35 题无线局域网 AP、主机 H 与路由器 R 拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 66,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p005-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 41 题两棵表达式树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        923,
+        323
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p005-b002.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 左边表达式树的叶结点被裁断。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "blocked_until_source_recovered",
+      "critical_content_confirmable": "no",
+      "critical_content": "第 41 题两棵表达式树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "左边表达式树的叶结点被裁断。"
+    },
+    {
+      "index": 67,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p006-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 42 题带权连通图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        263,
+        254
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p006-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 42 题带权连通图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 68,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2017-questions.htm",
+      "alt": "第 47 题回退 N 帧协议两种双向传输场景图（a）、（b）",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        516,
+        572
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2017-questions-p011-b001.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 47 题回退 N 帧协议两种双向传输场景图（a）、（b）；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 69,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p001-b008.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 6 题二叉排序树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        336,
+        332
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p001-b008.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 6 题二叉排序树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 70,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p001-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 7 题有向图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        347,
+        200
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p001-b010.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 上缘夹带正文。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 7 题有向图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "上缘夹带正文。"
+    },
+    {
+      "index": 71,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p004-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 37 题路由器与两侧局域网拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        900,
+        280
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p004-b010.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 37 题路由器与两侧局域网拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 72,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p006-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 42 题带权城市网络图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        369,
+        296
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p006-b001.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 下缘及右侧节点裁断，权值图不完整。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "blocked_until_source_recovered",
+      "critical_content_confirmable": "no",
+      "critical_content": "第 42 题带权城市网络图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "下缘及右侧节点裁断，权值图不完整。"
+    },
+    {
+      "index": 73,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p008-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 44 题 CPU、TLB、页表与 Cache 存储访问结构图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 11,
+      "png_preview_pixels": [
+        1089,
+        738
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p008-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 44 题 CPU、TLB、页表与 Cache 存储访问结构图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 74,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2018-questions.htm",
+      "alt": "第 47 题两个子网及路由器拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        1069,
+        243
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2018-questions-p011-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 47 题两个子网及路由器拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 75,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p001-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2019-questions.htm",
+      "alt": "题5 AOE网活动与持续时间",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        423,
+        169
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p001-b009.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题5 AOE网活动与持续时间；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 76,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p004-b011.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2019-questions.htm",
+      "alt": "题38 TCP数据段和确认段时序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        340,
+        480
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p004-b011.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题38 TCP数据段和确认段时序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 77,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2019-questions.htm",
+      "alt": "题47 路由器、设备和主机网络拓扑及IP地址",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        963,
+        558
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2019-questions-p011-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题47 路由器、设备和主机网络拓扑及IP地址；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 78,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p001-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第5题二叉排序树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        225,
+        163
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p001-b007.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第5题二叉排序树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 79,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p001-b011.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第7题无向带权图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        396,
+        216
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p001-b011.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第7题无向带权图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 80,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p004-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第33题发送方与接收方通信时序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 3,
+      "png_preview_pixels": [
+        398,
+        325
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p004-b003.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第33题发送方与接收方通信时序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 81,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p004-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第35题交换机、路由器与集线器网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 3,
+      "png_preview_pixels": [
+        1025,
+        385
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p004-b007.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第35题交换机、路由器与集线器网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 82,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p005-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第37题CSMA/CA帧及帧间间隔时序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        389,
+        454
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p005-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第37题CSMA/CA帧及帧间间隔时序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 83,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p005-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第40题局域网、DNS服务器和Web服务器拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        892,
+        325
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p005-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第40题局域网、DNS服务器和Web服务器拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 84,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p012-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2020-questions.htm",
+      "alt": "第47题校园网路由器、交换机、主机拓扑及IP地址",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        1016,
+        483
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2020-questions-p012-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题校园网路由器、交换机、主机拓扑及IP地址；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 85,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p001-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第6题平衡二叉树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        327,
+        243
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p001-b010.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第6题平衡二叉树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 86,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p001-b013.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第7题有向无环图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        289,
+        283
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p001-b013.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第7题有向无环图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 87,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p002-b000.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第8题Dijkstra最短路径有向带权图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        292,
+        236
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p002-b000.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第8题Dijkstra最短路径有向带权图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 88,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p004-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第34题差分曼彻斯特信号波形",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        794,
+        223
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p004-b003.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第34题差分曼彻斯特信号波形；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 89,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p004-b013.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第40题TCP数据段和确认段时序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        538,
+        280
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p004-b013.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第40题TCP数据段和确认段时序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 90,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2021-questions.htm",
+      "alt": "第47题路由器、交换机、DNS服务器、Web服务器和主机网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        616,
+        434
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2021-questions-p011-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题路由器、交换机、DNS服务器、Web服务器和主机网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 91,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p001-b012.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第7题含10个活动的AOE网",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        452,
+        218
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p001-b012.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第7题含10个活动的AOE网；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 92,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p001-b015.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第8题5阶B树T",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        747,
+        143
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p001-b015.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第8题5阶B树T；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 93,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p004-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第36题主机H与路由器、交换机的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        1045,
+        267
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p004-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "Internet—路由器—路由器—交换机—主机H；关键地址192.168.1.1/30、192.168.1.62/27、192.168.1.60。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 94,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p005-b004.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第41题二叉树T1和T2",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        580,
+        298
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p005-b004.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第41题二叉树T1和T2；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 95,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p007-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第43题CPU部分数据通路与控制信号",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        803,
+        369
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p007-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第43题CPU部分数据通路与控制信号；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 96,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p009-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第45题（a）stu子目录结构",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        252,
+        238
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p009-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第45题（a）stu子目录结构；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 97,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p010-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第46题操作A至F的执行顺序约束图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        407,
+        232
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p010-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第46题操作A至F的执行顺序约束图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 98,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2022-questions.htm",
+      "alt": "第47题含路由器R、交换机S、AP和主机H1至H5的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        998,
+        400
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2022-questions-p011-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题含路由器R、交换机S、AP和主机H1至H5的网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 99,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p001-b010.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2023-questions.htm",
+      "alt": "第5题二叉树树形",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        205,
+        245
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p001-b010.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第5题二叉树树形；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 100,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p004-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2023-questions.htm",
+      "alt": "第33题主机H1、路由器及主机H2的分组交换网络",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        503,
+        152
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p004-b001.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第33题主机H1、路由器及主机H2的分组交换网络；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 101,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p004-b008.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2023-questions.htm",
+      "alt": "第38题包含NAT路由器R2的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        1127,
+        265
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p004-b008.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "Internet—R1—NAT R2—H；地址195.123.0.34/30、192.168.0.1、192.168.0.3；浅灰图标低对比。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 102,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p005-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2023-questions.htm",
+      "alt": "第41题有向图G",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        316,
+        327
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p005-b003.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第41题有向图G；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 103,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p011-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2023-questions.htm",
+      "alt": "第47题主机H、交换机、路由器与FTP服务器网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        898,
+        214
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2023-questions-p011-b001.pdf",
+      "priority": "severe+source_crop_issue",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 图下注释裁断。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第47题主机H、交换机、路由器与FTP服务器网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "图下注释裁断。"
+    },
+    {
+      "index": 104,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p001-b009.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第4题无向图G的邻接多重表",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        707,
+        416
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p001-b009.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第4题无向图G的邻接多重表；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 105,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p001-b014.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第7题含关键字k1、k2、k3和子树T的二叉搜索树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        207,
+        232
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p001-b014.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第7题含关键字k1、k2、k3和子树T的二叉搜索树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 106,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p004-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第33题H1至H2不同带宽链路的网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        894,
+        303
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p004-b003.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第33题H1至H2不同带宽链路的网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 107,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p004-b007.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第35题交换机VLAN端口、主机IP与MAC地址拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        1025,
+        394
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p004-b007.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "交换机端口13–24、VLAN1/2/3端口分组、H1–H7的IP/MAC；所有端口号和对应关系必须保持。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 108,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p005-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第37题选择重传SR数据帧、确认帧与时间顺序图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        727,
+        729
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p005-b001.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第37题选择重传SR数据帧、确认帧与时间顺序图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 109,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p008-b003.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "题43图（b）计算机M部分数据通路及控制信号",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        1078,
+        360
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p008-b003.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题43图（b）计算机M部分数据通路及控制信号；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 110,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p012-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2024-questions.htm",
+      "alt": "第47题四个自治系统AS1–AS4与R11–R44互连拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        874,
+        518
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2024-questions-p012-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "AS1–AS4、R11–R16/R22/R33/R44；AS1内RIP，网络136.5.16.0/20、210.2.3.0/24、210.2.4.0/24。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 111,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p004-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题33图 H1—R1—R2—H2网络拓扑与各链路带宽",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        854,
+        136
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p004-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "题33图 H1—R1—R2—H2网络拓扑与各链路带宽；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 112,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p004-b006.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题36图 DHCP服务器与主机H之间的DHCPOFFER、DHCPREQUEST报文交互",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        732,
+        460
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p004-b006.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题36图 DHCP服务器与主机H之间的DHCPOFFER、DHCPREQUEST报文交互；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 113,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题38图 主机甲、乙之间TCP数据段与确认段的时序",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        707,
+        583
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题38图 主机甲、乙之间TCP数据段与确认段的时序；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 114,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p007-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题42图 含12个活动及持续时间的AOE网",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        954,
+        303
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p007-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "题42图 含12个活动及持续时间的AOE网；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 115,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p009-b002.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题44图（b）补码除法器逻辑结构",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        769,
+        378
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p009-b002.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "题44图（b）补码除法器逻辑结构；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 116,
+      "path": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.svg",
+      "document": "data/sources/cs408-latex-2009-2017/papers/2025-questions.htm",
+      "alt": "题47图 工程部网络、卫星链路与公司总部网络拓扑",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        878,
+        260
+      ],
+      "pdf_source": "data/sources/cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题47图 工程部网络、卫星链路与公司总部网络拓扑；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 117,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2016-answers-p001-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2016-answers.htm",
+      "alt": "第 1 题：单链表插入结点前后的链接关系",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        716,
+        160
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2016-answers-p001-b005.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 1 题：单链表插入结点前后的链接关系；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 118,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2016-answers-p006-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2016-answers.htm",
+      "alt": "第 28 题：分段地址变换过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 29,
+      "png_preview_pixels": [
+        823,
+        389
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2016-answers-p006-b005.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 28 题：分段地址变换过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 119,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2017-answers-p001-b013.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2017-answers.htm",
+      "alt": "第 5 题：二叉树结点关系",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        300,
+        289
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2017-answers-p001-b013.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 5 题：二叉树结点关系；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 120,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2017-answers-p002-b006.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2017-answers.htm",
+      "alt": "第 8 题：四种折半查找判定树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 16,
+      "png_preview_pixels": [
+        774,
+        369
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2017-answers-p002-b006.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 8 题：四种折半查找判定树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 121,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p001-b008.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2018-answers.htm",
+      "alt": "第 5 题：哈夫曼树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        343,
+        312
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p001-b008.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 5 题：哈夫曼树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 122,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p002-b010.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2018-answers.htm",
+      "alt": "第 11 题：堆的调整过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 27,
+      "png_preview_pixels": [
+        674,
+        338
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p002-b010.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 11 题：堆的调整过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 123,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p007-b003.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2018-answers.htm",
+      "alt": "第 42 题：两种最小生成树构造方案",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 23,
+      "png_preview_pixels": [
+        632,
+        249
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2018-answers-p007-b003.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 42 题：两种最小生成树构造方案；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 124,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p001-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 2 题树转换成二叉树的示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        689,
+        212
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p001-b005.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 2 题树转换成二叉树的示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 125,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b000.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 4 题删除叶结点后再插入的平衡二叉树示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        600,
+        167
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b000.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 4 题删除叶结点后再插入的平衡二叉树示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 126,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 4 题删除非叶结点且不调整的示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        623,
+        156
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b002.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 4 题删除非叶结点且不调整的示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 127,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b004.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 4 题删除非叶结点后经旋转调整的示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        745,
+        140
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p002-b004.pdf",
+      "priority": "none_observed+source_crop_issue",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 下缘夹带或裁断正文。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 4 题删除非叶结点后经旋转调整的示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "下缘夹带或裁断正文。"
+    },
+    {
+      "index": 128,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p003-b001.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 6 题表达式二叉树去重形成有向无环图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        589,
+        256
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p003-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 6 题表达式二叉树去重形成有向无环图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 129,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p006-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 27 题进程 \\(P_1\\)、\\(P_2\\) 调度时间图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        467,
+        223
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p006-b005.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "P1/P2调度图；横轴10/20/30/40/50ms，实线/虚线时段对应关系不变。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 130,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p010-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 42 题初始循环单链表的队头和队尾",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        212,
+        67
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p010-b002.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 42 题初始循环单链表的队头和队尾；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 131,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p010-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2019-answers.htm",
+      "alt": "第 42 题插入第一个结点后的循环单链表",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 2,
+      "png_preview_pixels": [
+        345,
+        112
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2019-answers-p010-b005.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 42 题插入第一个结点后的循环单链表；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 132,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p002-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 4 题二叉树构造过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        634,
+        216
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p002-b002.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 4 题二叉树构造过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 133,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p002-b005.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 5 题二叉排序树插入过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        645,
+        229
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p002-b005.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 5 题二叉排序树插入过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 134,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p003-b000.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 7 题 Kruskal 最小生成树五步过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        934,
+        434
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p003-b000.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 7 题 Kruskal 最小生成树五步过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 135,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p003-b004.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 10 题 B 树关键字插入与分裂过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        834,
+        234
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p003-b004.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 10 题 B 树关键字插入与分裂过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 136,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p007-b006.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 35 题网络拓扑及广播域、冲突域示意图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        923,
+        312
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p007-b006.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 35 题网络拓扑及广播域、冲突域示意图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 137,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p009-b000.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "第 41 题三数在数轴上的距离关系",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        300,
+        100
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p009-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 41 题三数在数轴上的距离关系；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 138,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p013-b010.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2020-answers.htm",
+      "alt": "附页第 05 题 AOE 网络图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 1,
+      "png_preview_pixels": [
+        400,
+        145
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2020-answers-p013-b010.pdf",
+      "priority": "moderate+source_crop_issue",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 下缘题文残留。 重绘前须回查完整原PDF。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "after_crop_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "附页第 05 题 AOE 网络图；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": "下缘题文残留。"
+    },
+    {
+      "index": 139,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p001-b004.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 1 题图 1、图 2：循环链表删除首结点",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 7,
+      "png_preview_pixels": [
+        847,
+        174
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p001-b004.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 1 题图 1、图 2：循环链表删除首结点；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 140,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 4 题森林对应的二叉树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        267,
+        160
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b002.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 4 题森林对应的二叉树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 141,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b004.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 5 题哈夫曼树构造过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        885,
+        227
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b004.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 5 题哈夫曼树构造过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 142,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b006.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 6 题 AVL 树 RL 旋转过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        469,
+        180
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p002-b006.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 6 题 AVL 树 RL 旋转过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 143,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p003-b003.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 9 题 B 树最多结点树形",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        529,
+        200
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p003-b003.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第 9 题 B 树最多结点树形；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 144,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p003-b006.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 11 题堆调整过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        816,
+        289
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p003-b006.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "第 11 题堆调整过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 145,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p008-b001.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2021-answers.htm",
+      "alt": "第 38 题 TCP 连接释放状态图",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 25,
+      "png_preview_pixels": [
+        800,
+        454
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2021-answers-p008-b001.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "TCP连接释放状态机；ESTABLISHED、FIN-WAIT-1/2、CLOSE-WAIT、LAST-ACK、TIME-WAIT/CLOSED及FIN/ACK转移逐项核验。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 146,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p001-b006.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2022-answers.htm",
+      "alt": "第3题图1—图4：中序遍历二叉树反例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 3,
+      "png_preview_pixels": [
+        665,
+        200
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p001-b006.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第3题图1—图4：中序遍历二叉树反例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 147,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p002-b000.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2022-answers.htm",
+      "alt": "第5题图1、图2：二叉树示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 15,
+      "png_preview_pixels": [
+        534,
+        214
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p002-b000.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第5题图1、图2：二叉树示例；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 148,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p002-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2022-answers.htm",
+      "alt": "第6题图1—图3：无向图连通性示例",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 15,
+      "png_preview_pixels": [
+        869,
+        200
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p002-b002.pdf",
+      "priority": "severe",
+      "blur_reason": "原图扫描底纹、锯齿或密集小字在插图尺寸下难辨；放大SVG后仍见像素化或低对比。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "conditional_on_exact_label_check",
+      "critical_content_confirmable": "partial",
+      "critical_content": "TCP连接释放双端状态机；每条转移、报文序号和状态保持。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 149,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p006-b001.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2022-answers.htm",
+      "alt": "第39题图 TCP连接释放过程",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 6,
+      "png_preview_pixels": [
+        860,
+        580
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2022-answers-p006-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "第39题图 TCP连接释放过程；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 150,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p002-b001.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2023-answers.htm",
+      "alt": "题4图 哈夫曼树",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 10,
+      "png_preview_pixels": [
+        334,
+        225
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p002-b001.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "题4图 哈夫曼树；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 151,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p002-b002.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2023-answers.htm",
+      "alt": "题5图 根据后序遍历逐步填写二叉树结点",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 10,
+      "png_preview_pixels": [
+        569,
+        289
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p002-b002.pdf",
+      "priority": "moderate",
+      "blur_reason": "局部边缘偏软或文字较小；需在页面实际尺寸确认。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "yes",
+      "critical_content_confirmable": "partial",
+      "critical_content": "题5图 根据后序遍历逐步填写二叉树结点；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    },
+    {
+      "index": 152,
+      "path": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p008-b003.svg",
+      "document": "data/sources/cs408-answers-latex-2016-2025/papers/2023-answers.htm",
+      "alt": "题29图 进程P1、P2、P3调度时间轴",
+      "active_asset": "svg",
+      "svg_type": "svg_with_embedded_raster",
+      "embedded_image_count": 7,
+      "png_preview_pixels": [
+        547,
+        189
+      ],
+      "pdf_source": "data/sources/cs408-answers-latex-2016-2025/assets/figures/2023-answers-p008-b003.pdf",
+      "priority": "none_observed",
+      "blur_reason": "逐项预览未见明显模糊，源图可读。 SVG含嵌入位图；扩展名不代表整图清晰。",
+      "imagegen_suitable": "optional",
+      "critical_content_confirmable": "yes",
+      "critical_content": "题29图 进程P1、P2、P3调度时间轴；完整数字、标注、箭头和拓扑需照原SVG/PDF逐项核对，未据模糊处猜测。",
+      "source_crop_issue": null
+    }
+  ]
+}

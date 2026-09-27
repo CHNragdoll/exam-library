@@ -1,0 +1,403 @@
+{
+  "scope": "Only <img> figure assets actually referenced by math3-latex-1987-2009, math3-latex-2009-2019, and politics-latex-2003-2023 paper HTML; inline MathJax SVG and unreferenced asset files excluded.",
+  "method": "Parsed paper HTML, inspected SVG image elements, reviewed associated PNG previews at original resolution. Browser file-policy restrictions were respected.",
+  "counts": {
+    "referenced": 17,
+    "mathVectorRetain": 12,
+    "politicsRasterRedrawCandidates": 5
+  },
+  "figures": [
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/1987-questions.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-011-04.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-011-04.png",
+      "previewPixels": [
+        298,
+        328
+      ],
+      "alt": "函数 y=sin x 与面积 S_1、S_2 的示意图",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector sine curve, labels and shaded areas legible.",
+      "keyInvariants": [
+        "Keep y=sin x, O, t, π/2, S₁ and S₂; horizontal segment and two shaded regions retain their relative position."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/1987-questions.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-021-10.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-021-10.png",
+      "previewPixels": [
+        325,
+        253
+      ],
+      "alt": "函数 y=x^2 与面积 S_1、S_2 的示意图",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector parabola and labels.",
+      "keyInvariants": [
+        "Keep y=x², O, t, 1, S₁ and S₂; parabola, horizontal segment and shaded regions retain their relative position."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/1989-answers.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-064-10.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-064-10.png",
+      "previewPixels": [
+        381,
+        350
+      ],
+      "alt": "1989年试卷IV第四题收益函数 R(x) 图形",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Graph itself is crisp; the PNG/SVG crop includes unrelated source text at the left edge, a crop issue.",
+      "keyInvariants": [
+        "Keep R(x), x=2,4,6 and the plotted curve/dashed guides; do not change the labeled e-based values."
+      ],
+      "unreadableOrUncertain": [
+        "Left edge contains cropped neighboring text; cropping is separate from blur."
+      ]
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/1989-answers.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-065-07.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-065-07.png",
+      "previewPixels": [
+        417,
+        317
+      ],
+      "alt": "1989年试卷V第五题函数图形",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Graph itself is crisp; crop includes unrelated text fragments at the left edge.",
+      "keyInvariants": [
+        "Keep x=-1/2, x=1 vertical dotted asymptote, y=2 horizontal dotted asymptote, O and curve branches."
+      ],
+      "unreadableOrUncertain": [
+        "Left edge contains cropped neighboring text; cropping is separate from blur."
+      ]
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/1993-answers.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-073-10.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-073-10.png",
+      "previewPixels": [
+        248,
+        267
+      ],
+      "alt": "试卷 V 第七题函数曲线图",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector graph.",
+      "keyInvariants": [
+        "Keep axes, curve branches, dotted oblique line and all printed numeric labels."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/2007-questions.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-110-05.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-110-05.png",
+      "previewPixels": [
+        392,
+        256
+      ],
+      "alt": "第3题函数图形",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector arcs and axis labels.",
+      "keyInvariants": [
+        "Keep connected semicircle segments and x marks -3,-2,-1,O,1,2,3."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/2008-questions.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-113-04.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-113-04.png",
+      "previewPixels": [
+        348,
+        264
+      ],
+      "alt": "第2题曲线段及区域 ABCD、ABOD 示意图",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector geometric construction.",
+      "keyInvariants": [
+        "Keep A(a,f(a)), B(a,0), C(0,f(a)), D, y=f(x), straight segments and curve."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-1987-2009",
+      "document": "data/sources/math3-latex-1987-2009/papers/2008-questions.htm",
+      "assetSvg": "data/sources/math3-latex-1987-2009/assets/figures/page-113-08.svg",
+      "previewPng": "data/sources/math3-latex-1987-2009/assets/figures/page-113-08.png",
+      "previewPixels": [
+        275,
+        303
+      ],
+      "alt": "第4题阴影区域 D_uv，边界为半径 1、u 的圆弧和夹角 v",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector region and labels.",
+      "keyInvariants": [
+        "Keep concentric quarter-circle boundaries x²+y²=1 and x²+y²=u², angle v and shaded D_uv."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-2009-2019",
+      "document": "data/sources/math3-latex-2009-2019/papers/2009-questions.htm",
+      "assetSvg": "data/sources/math3-latex-2009-2019/assets/figures/page-051-06.svg",
+      "previewPng": "data/sources/math3-latex-2009-2019/assets/figures/page-051-06.png",
+      "previewPixels": [
+        320,
+        270
+      ],
+      "alt": "第4题已知函数 y=f(x) 的图形",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector piecewise graph.",
+      "keyInvariants": [
+        "Keep y=f(x), open circles at x=0 and x=2, marks -1,0,1,2,3, and piecewise levels/curve."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-2009-2019",
+      "document": "data/sources/math3-latex-2009-2019/papers/2009-questions.htm",
+      "assetSvg": "data/sources/math3-latex-2009-2019/assets/figures/page-051-07.svg",
+      "previewPng": "data/sources/math3-latex-2009-2019/assets/figures/page-051-07.png",
+      "previewPixels": [
+        845,
+        439
+      ],
+      "alt": "第4题图形选项（A）、（B）、（C）、（D）",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector four-option graph.",
+      "keyInvariants": [
+        "Keep four separate choices A,B,C,D, their coordinate marks, open circles and each branch/plateau shape."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-2009-2019",
+      "document": "data/sources/math3-latex-2009-2019/papers/2015-questions.htm",
+      "assetSvg": "data/sources/math3-latex-2009-2019/assets/figures/page-021-07.svg",
+      "previewPng": "data/sources/math3-latex-2009-2019/assets/figures/page-021-07.png",
+      "previewPixels": [
+        284,
+        189
+      ],
+      "alt": "第 2 题：二阶导函数 f″(x) 的图形",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector graph of f″(x).",
+      "keyInvariants": [
+        "Keep left branch tangent to x-axis, right branch and x/y axes."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "math3-latex-2009-2019",
+      "document": "data/sources/math3-latex-2009-2019/papers/2016-questions.htm",
+      "assetSvg": "data/sources/math3-latex-2009-2019/assets/figures/page-016-03.svg",
+      "previewPng": "data/sources/math3-latex-2009-2019/assets/figures/page-016-03.png",
+      "previewPixels": [
+        314,
+        234
+      ],
+      "alt": "题1的导函数 \\(f^{\\prime}(x)\\) 图形，坐标轴为 \\(x,y\\)。",
+      "svgKind": "vector_paths",
+      "embeddedImages": [],
+      "decision": "retain_vector",
+      "redrawCandidate": false,
+      "qualityAssessment": "Crisp vector function curve and dotted vertical reference.",
+      "keyInvariants": [
+        "Keep axes, dashed vertical line, all zero crossings, turning points and branch directions."
+      ],
+      "unreadableOrUncertain": []
+    },
+    {
+      "collection": "politics-latex-2003-2023",
+      "document": "data/sources/politics-latex-2003-2023/papers/2006-questions.htm",
+      "assetSvg": "data/sources/politics-latex-2003-2023/assets/figures/2006-questions-p005-b007.svg",
+      "previewPng": "data/sources/politics-latex-2003-2023/assets/figures/2006-questions-p005-b007.png",
+      "previewPixels": [
+        431,
+        285
+      ],
+      "alt": "",
+      "svgKind": "contains_embedded_raster",
+      "embeddedImages": [
+        {
+          "width": "397",
+          "height": "263",
+          "format": "image/jpeg"
+        }
+      ],
+      "decision": "redraw_candidate",
+      "redrawCandidate": true,
+      "qualityAssessment": "Embedded JPEG diagram is pixelated; bullet text is small at SVG nominal width 194 px, so the relationships are hard to read.",
+      "keyInvariants": [
+        "Preserve three overlapping ellipses, all three arrowed bullet groups, center intersection and arrow to future crisis; preserve Chinese labels only after verifying exact source text.",
+        "Color may separate the three groups, but overlap must not imply a different causal relationship."
+      ],
+      "unreadableOrUncertain": [
+        "Some bullet characters are too small/aliased to certify from this preview; verify text from original source before replacement."
+      ]
+    },
+    {
+      "collection": "politics-latex-2003-2023",
+      "document": "data/sources/politics-latex-2003-2023/papers/2007-questions.htm",
+      "assetSvg": "data/sources/politics-latex-2003-2023/assets/figures/2007-questions-p005-b013.svg",
+      "previewPng": "data/sources/politics-latex-2003-2023/assets/figures/2007-questions-p005-b013.png",
+      "previewPixels": [
+        601,
+        523
+      ],
+      "alt": "",
+      "svgKind": "contains_embedded_raster",
+      "embeddedImages": [
+        {
+          "width": "574",
+          "height": "388",
+          "format": "image/jpeg"
+        },
+        {
+          "width": "500",
+          "height": "437",
+          "format": "image/jpeg"
+        }
+      ],
+      "decision": "redraw_candidate",
+      "redrawCandidate": true,
+      "qualityAssessment": "Embedded JPEG Middle East map is visibly pixelated; small labels become unreadable at nominal SVG width 270 px.",
+      "keyInvariants": [
+        "Preserve coastline and national boundaries, all country/place labels, 30°N and 40°E markers, north arrow, 600 km scale and legend; no added geopolitical claims.",
+        "Color may distinguish land, water and boundaries without emphasizing a political answer."
+      ],
+      "unreadableOrUncertain": [
+        "Some place names cannot be certified at displayed size; validate against the original source or authoritative map before replacement."
+      ]
+    },
+    {
+      "collection": "politics-latex-2003-2023",
+      "document": "data/sources/politics-latex-2003-2023/papers/2008-questions.htm",
+      "assetSvg": "data/sources/politics-latex-2003-2023/assets/figures/2008-questions-p002-b009.svg",
+      "previewPng": "data/sources/politics-latex-2003-2023/assets/figures/2008-questions-p002-b009.png",
+      "previewPixels": [
+        182,
+        172
+      ],
+      "alt": "",
+      "svgKind": "contains_embedded_raster",
+      "embeddedImages": [
+        {
+          "width": "109",
+          "height": "103",
+          "format": "image/jpeg"
+        }
+      ],
+      "decision": "redraw_candidate",
+      "redrawCandidate": true,
+      "qualityAssessment": "Embedded 109×103 JPEG cartoon is soft and tiny; the vertical caption on its right is unreadable.",
+      "keyInvariants": [
+        "Preserve the original cartoon composition, tree, dark rounded ground and small adjacent figure/object; retain any caption only if verified from source.",
+        "Do not add symbolic objects or turn the cartoon into an interpretation of the answer choices."
+      ],
+      "unreadableOrUncertain": [
+        "Right-side vertical writing and small details are illegible; do not guess them."
+      ]
+    },
+    {
+      "collection": "politics-latex-2003-2023",
+      "document": "data/sources/politics-latex-2003-2023/papers/2009-questions.htm",
+      "assetSvg": "data/sources/politics-latex-2003-2023/assets/figures/2009-questions-p006-b001.svg",
+      "previewPng": "data/sources/politics-latex-2003-2023/assets/figures/2009-questions-p006-b001.png",
+      "previewPixels": [
+        698,
+        493
+      ],
+      "alt": "",
+      "svgKind": "contains_embedded_raster",
+      "embeddedImages": [
+        {
+          "width": "537",
+          "height": "290",
+          "format": "image/jpeg"
+        }
+      ],
+      "decision": "redraw_candidate",
+      "redrawCandidate": true,
+      "qualityAssessment": "Embedded 537×290 JPEG is a low-contrast scan; line-chart axes, month labels and both series are blurred.",
+      "keyInvariants": [
+        "Preserve CPI diamond series versus PPI square series, chronological monthly x-axis, percentage y-axis, all plotted data points and legend; preserve crossing and peak relationships.",
+        "Color may distinguish the two series if legend remains explicit; do not infer exact numeric values from the blurry scan."
+      ],
+      "unreadableOrUncertain": [
+        "Exact plotted percentages and some date labels cannot be certified from the preview; acquire verified data/source before precise redraw."
+      ]
+    },
+    {
+      "collection": "politics-latex-2003-2023",
+      "document": "data/sources/politics-latex-2003-2023/papers/2010-questions.htm",
+      "assetSvg": "data/sources/politics-latex-2003-2023/assets/figures/2010-questions-p001-b008.svg",
+      "previewPng": "data/sources/politics-latex-2003-2023/assets/figures/2010-questions-p001-b008.png",
+      "previewPixels": [
+        252,
+        182
+      ],
+      "alt": "",
+      "svgKind": "contains_embedded_raster",
+      "embeddedImages": [
+        {
+          "width": "151",
+          "height": "109",
+          "format": "image/jpeg"
+        }
+      ],
+      "decision": "redraw_candidate",
+      "redrawCandidate": true,
+      "qualityAssessment": "Embedded 151×109 JPEG polar-bear photo is visibly soft and blocky, though the subject remains recognizable.",
+      "keyInvariants": [
+        "Preserve one polar bear on a small piece of ice with surrounding water, pose and framing; avoid extra animals or environmental claims.",
+        "Color photo rendering is acceptable."
+      ],
+      "unreadableOrUncertain": []
+    }
+  ]
+}

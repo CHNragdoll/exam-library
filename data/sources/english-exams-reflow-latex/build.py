@@ -47,6 +47,47 @@ def htmlruns(runs):
 def source_chars(page):
     return get_unknown_glyphs(page)
 
+def restore_cet4_2015_06_01_page_one(blocks):
+    """Correct the caption's PDF text-map glyph against the printed page."""
+    caption=blocks[4]
+    assert caption['type']=='paragraph' and len(caption['runs'])==1
+    assert caption['runs'][0]['text']=='“Why am 丨going to school if my phone already knows everything?”'
+    # The printed character is a Latin capital I, not the mapped CJK stroke.
+    caption['runs'][0]['text']='“Why am I going to school if my phone already knows everything?”'
+
+def restore_cet4_2015_06_02_page_one(blocks):
+    """Move two printed text fragments out of this paper's mixed figure crop."""
+    writing=blocks[3]
+    figure=blocks[4]
+    listening=blocks[5]
+    assert writing['type']=='paragraph' and ''.join(r['text'] for r in writing['runs']).endswith(' 120')
+    assert figure['type']=='figure' and all(abs(a-b)<.1 for a,b in zip(figure['bbox'],[78.78,98.00,461.85,228.68]))
+    assert listening['type']=='heading' and ''.join(r['text'] for r in listening['runs'])=='Part II'
+    writing['runs'].append({'text':' words but no more than 180 words.','flags':[False,False,False]})
+    # The source figure crop also contains this text and the listening heading.
+    # Restrict it to the four-panel cartoon so both fragments appear only once.
+    figure['bbox']=[110,110,402,212]
+    listening['runs'][0]['text']='Part II Listening Comprehension (30 minutes)'
+
+def restore_cet6_2014_12_01_page_one(blocks):
+    """Separate the printed answer-sheet note from the classroom cartoon."""
+    figure=blocks[3]
+    following=blocks[4]
+    assert figure['type']=='figure' and all(abs(a-b)<.1 for a,b in zip(figure['bbox'],[22.16,138.78,330.92,285.92]))
+    assert following['type']=='paragraph' and ''.join(r['text'] for r in following['runs']).startswith('PartⅡ Listening Comprehension')
+    # The left edge of the source crop includes the note; the right holds the art and its caption.
+    figure['bbox']=[181.5,140,330.8,275.5]
+    blocks.insert(4,{'type':'paragraph','runs':[{'text':'注意：此部分试题请在答题卡 1 上作答。','flags':[False,False,False]}]})
+
+def restore_cet6_2014_12_03_page_one(blocks):
+    """Restore the clipped word limit and keep it outside the cartoon crop."""
+    writing=blocks[1]
+    figure=blocks[2]
+    assert writing['type']=='paragraph' and ''.join(r['text'] for r in writing['runs']).endswith('no more than')
+    assert figure['type']=='figure' and all(abs(a-b)<.1 for a,b in zip(figure['bbox'],[53.56,132.80,373.76,460.90]))
+    writing['runs'][-1]['text']+=' 200 words.'
+    figure['bbox']=[64,161,371,461]
+
 def make_paper(entry):
     src=source_pdf(entry);assert sha(src)==entry['source_pdf_sha256']
     category=entry['category'];stem=Path(entry['file']).stem
@@ -57,6 +98,14 @@ def make_paper(entry):
         unknown=source_chars(page)
         data=extract(page,unknown_glyphs=unknown)
         data['blocks']=prepare(data['blocks'],page)
+        if category=='cet4' and stem=='2015-06-01' and pn==1:
+            restore_cet4_2015_06_01_page_one(data['blocks'])
+        if category=='cet4' and stem=='2015-06-02' and pn==1:
+            restore_cet4_2015_06_02_page_one(data['blocks'])
+        if category=='cet6' and stem=='2014-12-01' and pn==1:
+            restore_cet6_2014_12_01_page_one(data['blocks'])
+        if category=='cet6' and stem=='2014-12-03' and pn==1:
+            restore_cet6_2014_12_03_page_one(data['blocks'])
         rendered=[];textblocks=[];pageglyph=0
         note_pending=any(b['type']=='source_line' for b in data['blocks'])
         plain_text_end=''.join(r['text'] for r in pages[-1]['blocks'][-1].get('runs',[])).rstrip() if pages and pages[-1]['blocks'] else ''

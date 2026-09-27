@@ -71,6 +71,63 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  if(!denied){const records=JSON.parse(map.get('exam-library:recent:v1'));assert.equal(records[0].url,url);assert(records[0].progress>=0&&records[0].progress<=1);assert.equal(records.filter(x=>x.url===url).length,1);assert.equal(typeof records[0].updatedAt,'number');}
  dom.window.close();return relative;
 }
+function redrawFixture({embedded=false, mode='reflow'}={}) {
+ const file=path.join(base,files[0][0]);
+ const url=new URL(`file://${file}`).href;
+ const dom=new JSDOM(fs.readFileSync(file,'utf8'),{url:url+(embedded?'?exam-embed=1':''),runScripts:'outside-only',pretendToBeVisual:true});
+ const w=dom.window,d=w.document,m=d.querySelector('main');
+ Object.defineProperty(w,'localStorage',{value:{getItem(){return null},setItem(){}}});
+ Object.defineProperty(w,'scrollY',{get:()=>0});w.scrollTo=()=>{};
+ m.getBoundingClientRect=()=>({top:200,height:10000});
+ const image=m.querySelector('figure img');assert(image,'source fixture has a figure image');
+ const originalSrc=image.getAttribute('src'),originalAlt=image.getAttribute('alt');
+ const replacementHref='2014-01.assets/color-redraw-test.svg';
+ const outsider=d.createElement('img');outsider.src=originalSrc;m.append(outsider);
+ const nearFigure=d.createElement('figure'),nearImage=d.createElement('img');
+ nearImage.src=`${originalSrc}?different=1`;nearFigure.append(nearImage);m.append(nearFigure);
+ const pictureFigure=d.createElement('figure'),picture=d.createElement('picture'),pictureImage=d.createElement('img');
+ pictureImage.src=originalSrc;picture.append(pictureImage);pictureFigure.append(picture);m.append(pictureFigure);
+ const config=d.getElementById('exam-reader-config');
+ const payload=JSON.parse(config.textContent);
+ payload.mode=mode;payload.imageRedraws=[{id:'redraw-test',originalHref:originalSrc,replacementHref,alt:'彩色图表说明'}];
+ config.textContent=JSON.stringify(payload);
+ w.eval(script);
+ if(mode==='svg') {
+  assert.equal(m.querySelectorAll('.reader-redraw-control').length,0,'SVG reader keeps original images');
+  assert.equal(image.getAttribute('src'),originalSrc);
+ } else {
+  const redraw=image.nextElementSibling,control=redraw.nextElementSibling;
+  assert(redraw.classList.contains('reader-redraw-image'));
+  assert(control.classList.contains('reader-redraw-control'));
+  assert.equal(control.dataset.redrawId,'redraw-test');
+  assert.equal(image.getAttribute('src'),originalSrc,'original image node retained');
+  assert.equal(redraw.src,new URL(replacementHref,url).href);
+  assert.equal(redraw.alt,'彩色图表说明');
+  assert.equal(control.textContent,'重绘图加载中查看原图');
+  assert.equal(outsider.src,new URL(originalSrc,url).href,'non-figure image left alone');
+  assert.equal(nearImage.src,new URL(`${originalSrc}?different=1`,url).href,'URL must match exactly');
+  assert.equal(pictureImage.nextElementSibling,null,'picture source remains untouched');
+  const toggle=control.querySelector('button');
+  toggle.click();assert.equal(image.hidden,false);
+  redraw.dispatchEvent(new w.Event('load'));
+  assert.equal(image.hidden,false,'late load cannot undo user switch');
+  assert.equal(control.textContent,'原图查看重绘图');
+  toggle.click();assert.equal(image.hidden,true,'loaded redraw shown by default when selected');
+  assert.equal(redraw.hidden,false);assert.equal(control.textContent,'重绘图查看原图');
+  assert.equal(image.getAttribute('alt'),originalAlt);
+  redraw.dispatchEvent(new w.Event('error'));
+  assert.equal(image.hidden,false,'failed redraw falls back to original');
+  assert.equal(image.getAttribute('src'),originalSrc);
+  assert.equal(image.getAttribute('alt'),originalAlt);
+  assert.equal(redraw.hidden,true);
+  assert(toggle.hidden,'failed redraw cannot be retried indefinitely');
+  assert(control.textContent.includes('加载失败'));
+  redraw.dispatchEvent(new w.Event('load'));assert.equal(image.hidden,false,'late load cannot revive failed redraw');
+  w.eval(script);assert.equal(m.querySelectorAll('.reader-redraw-control').length,1,'redraw enhancement idempotent');
+ }
+ if(embedded)assert.equal(d.querySelectorAll('.reader-toolbar').length,0,'embedded redraw has no toolbar');
+ dom.window.close();
+}
 (async()=>{
  for(const [file,mode] of files)console.log('PASS',await fixture(file,mode));
  console.log('PASS denied storage',await fixture(files[0][0],'reflow',{denied:true}));
@@ -82,4 +139,7 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  console.log('PASS compare without storage',await fixture(files[0][0],'reflow',{compare:true,denied:true}));
  console.log('PASS embedded reflow no recursion',await fixture(files[0][0],'reflow',{embedded:true}));
  console.log('PASS embedded SVG no recursion',await fixture(files[3][0],'svg',{embedded:true}));
+ redrawFixture();console.log('PASS redraw switching and error fallback');
+ redrawFixture({embedded:true});console.log('PASS embedded redraw');
+ redrawFixture({mode:'svg'});console.log('PASS SVG original unaffected');
 })().catch(error=>{console.error(error);process.exitCode=1});

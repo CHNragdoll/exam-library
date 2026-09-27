@@ -40,6 +40,78 @@
     width: [760, 920, 1120].includes(Number(rawSettings?.width)) ? Number(rawSettings.width) : 920,
     svgZoom: ['fit', '100', '125', '150'].includes(rawSettings?.svgZoom) ? rawSettings.svgZoom : 'fit'
   };
+  const applyImageRedraws = () => {
+    if (isSvg || !Array.isArray(config.imageRedraws)) return;
+    const figures = Array.from(main.querySelectorAll('figure img[src]'));
+    for (const item of config.imageRedraws) {
+      if (!item || typeof item.id !== 'string' || typeof item.alt !== 'string' ||
+          typeof item.originalHref !== 'string' || typeof item.replacementHref !== 'string') continue;
+      const originalUrl = safeUrl(item.originalHref);
+      const replacementUrl = safeUrl(item.replacementHref);
+      if (!originalUrl || !replacementUrl || originalUrl === replacementUrl) continue;
+      for (const image of figures) {
+        // Compare full resolved URLs, including query and fragment, to avoid
+        // replacing a similarly named image or a formula outside a figure.
+        if (image.src !== originalUrl || image.dataset.readerRedrawApplied === '1' || image.closest('picture')) continue;
+        image.dataset.readerRedrawApplied = '1';
+        // Keep the original image node intact. A separate image lets loading
+        // finish after a toggle without an old event changing the chosen view.
+        const redraw = image.cloneNode(false);
+        redraw.classList.add('reader-redraw-image');
+        redraw.removeAttribute('id');
+        redraw.removeAttribute('data-reader-redraw-applied');
+        redraw.removeAttribute('src');
+        redraw.removeAttribute('srcset');
+        redraw.removeAttribute('sizes');
+        redraw.loading = 'eager';
+        redraw.alt = item.alt;
+        redraw.hidden = true;
+        const control = document.createElement('span');
+        control.className = 'reader-redraw-control';
+        control.dataset.redrawId = item.id;
+        const label = document.createElement('span');
+        label.className = 'reader-redraw-label';
+        const toggle = document.createElement('button');
+        toggle.className = 'reader-redraw-toggle';
+        toggle.type = 'button';
+        control.append(label, toggle);
+        image.insertAdjacentElement('afterend', redraw);
+        redraw.insertAdjacentElement('afterend', control);
+        let wantRedraw = true, ready = false, failed = false;
+        const showOriginal = () => {
+          wantRedraw = false;
+          image.hidden = false;
+          redraw.hidden = true;
+          label.textContent = '原图';
+          toggle.textContent = '查看重绘图';
+        };
+        const showRedraw = () => {
+          if (failed) return;
+          wantRedraw = true;
+          image.hidden = ready;
+          redraw.hidden = !ready;
+          label.textContent = ready ? '重绘图' : '重绘图加载中';
+          toggle.textContent = '查看原图';
+        };
+        redraw.addEventListener('load', () => {
+          if (failed) return;
+          ready = true;
+          if (wantRedraw) showRedraw();
+        });
+        redraw.addEventListener('error', () => {
+          if (failed) return;
+          failed = true;
+          showOriginal();
+          label.textContent = '重绘图加载失败，已显示原图';
+          toggle.hidden = true;
+        });
+        toggle.addEventListener('click', () => wantRedraw ? showOriginal() : showRedraw());
+        showRedraw();
+        redraw.src = replacementUrl;
+      }
+    }
+  };
+  applyImageRedraws();
   // Embedded readers contain exam material only: no nested toolbar, history writes,
   // resume action, or comparison frames. No access to a child document is needed.
   if (embedded) {

@@ -28,13 +28,38 @@ def strip_ui(content):
 def registry():
     global _cache
     path = ROOT / 'documents.json'
+    redraw_path = ROOT / 'image-redraws.json'
     if not path.exists():
         return {}
-    stamp = path.stat().st_mtime_ns
+    stamp = (path.stat().st_mtime_ns,
+             redraw_path.stat().st_mtime_ns if redraw_path.exists() else None)
     if _cache[0] == stamp:
         return _cache[1]
     data = json.loads(path.read_text())
     records = data if isinstance(data, list) else data['documents']
+    redraws = {}
+    if redraw_path.exists():
+        redraw_data = json.loads(redraw_path.read_text())
+        assert redraw_data['version'] == 1 and isinstance(redraw_data['images'], list)
+
+        def source_path(value):
+            assert isinstance(value, str) and value and not Path(value).is_absolute(), value
+            target = (SOURCES / value).resolve()
+            assert target.is_relative_to(SOURCES), value
+            return target
+
+        ids = set()
+        originals = set()
+        for entry in redraw_data['images']:
+            assert isinstance(entry, dict) and all(isinstance(entry.get(key), str) and entry[key]
+                       for key in ('id', 'document', 'original', 'replacement', 'alt')), entry
+            assert entry['id'] not in ids, ('duplicate redraw id', entry['id'])
+            ids.add(entry['id'])
+            document = source_path(entry['document'])
+            original = source_path(entry['original'])
+            assert (document, original) not in originals, ('duplicate redraw original', entry['id'])
+            originals.add((document, original))
+            redraws.setdefault(document, []).append((entry, original, source_path(entry['replacement'])))
     result = {}
     for item in records:
         for mode, other in [('svg', 'reflow'), ('reflow', 'svg')]:
@@ -42,7 +67,7 @@ def registry():
             assert target.is_relative_to(SOURCES), target
             alternate = (ROOT / item[other]).resolve()
             rel = lambda p: os.path.relpath(p, target.parent)
-            result[target] = {
+            config = {
                 'title': item['title'], 'category': item['category'],
                 'categoryLabel': item['categoryLabel'], 'year': item['year'],
                 'documentId': item['id'], 'kind': item['kind'], 'mode': mode,
@@ -51,6 +76,15 @@ def registry():
                 'alternateHref': rel(alternate),
                 'alternateLabel': 'SVG 原版' if other == 'svg' else 'LaTeX 重排',
             }
+            if mode == 'reflow' and target in redraws:
+                config['imageRedraws'] = [
+                    {'id': entry['id'], 'originalHref': rel(original),
+                     'replacementHref': rel(replacement), 'alt': entry['alt']}
+                    for entry, original, replacement in redraws[target]
+                ]
+            result[target] = config
+    reflow_readers = {target for target, config in result.items() if config['mode'] == 'reflow'}
+    assert set(redraws).issubset(reflow_readers), ('redraw document is not a reflow reader', set(redraws) - reflow_readers)
     _cache = (stamp, result)
     return result
 
