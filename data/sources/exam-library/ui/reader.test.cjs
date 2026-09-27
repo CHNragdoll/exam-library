@@ -5,6 +5,7 @@ const path = require('node:path');
 const assert = require('node:assert/strict');
 const base = path.resolve(__dirname, '../..');
 const script = fs.readFileSync(path.join(__dirname, 'reader.js'), 'utf8');
+const readerCss = fs.readFileSync(path.join(__dirname, 'reader.css'), 'utf8');
 const files = [
  ['english-exams-reflow-latex/kaoyan/papers/2014-01.htm','reflow'],
  ['math3-latex-2009-2019/papers/2019-answers.htm','reflow'],
@@ -71,7 +72,7 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
  if(!denied){const records=JSON.parse(map.get('exam-library:recent:v1'));assert.equal(records[0].url,url);assert(records[0].progress>=0&&records[0].progress<=1);assert.equal(records.filter(x=>x.url===url).length,1);assert.equal(typeof records[0].updatedAt,'number');}
  dom.window.close();return relative;
 }
-function redrawFixture({embedded=false, mode='reflow'}={}) {
+function redrawFixture({embedded=false, mode='reflow', originalSize=[90, 80], expectedWidth='240px', delayedSize=false}={}) {
  const file=path.join(base,files[0][0]);
  const url=new URL(`file://${file}`).href;
  const dom=new JSDOM(fs.readFileSync(file,'utf8'),{url:url+(embedded?'?exam-embed=1':''),runScripts:'outside-only',pretendToBeVisual:true});
@@ -81,12 +82,21 @@ function redrawFixture({embedded=false, mode='reflow'}={}) {
  m.getBoundingClientRect=()=>({top:200,height:10000});
  const image=m.querySelector('figure img');assert(image,'source fixture has a figure image');
  const originalSrc=image.getAttribute('src'),originalAlt=image.getAttribute('alt');
+ Object.defineProperties(image,{
+  naturalWidth:{get:()=>originalSize[0]},
+  naturalHeight:{get:()=>originalSize[1]},
+  complete:{get:()=>!delayedSize}
+ });
  const replacementHref='2014-01.assets/color-redraw-test.svg';
  const outsider=d.createElement('img');outsider.src=originalSrc;m.append(outsider);
  const nearFigure=d.createElement('figure'),nearImage=d.createElement('img');
  nearImage.src=`${originalSrc}?different=1`;nearFigure.append(nearImage);m.append(nearFigure);
  const pictureFigure=d.createElement('figure'),picture=d.createElement('picture'),pictureImage=d.createElement('img');
  pictureImage.src=originalSrc;picture.append(pictureImage);pictureFigure.append(picture);m.append(pictureFigure);
+ const glyphFigure=d.createElement('figure'),glyph=d.createElement('img');
+ glyph.className='inline-glyph';glyph.src=originalSrc;glyphFigure.append(glyph);m.append(glyphFigure);
+ Object.defineProperties(glyph,{naturalWidth:{value:90},naturalHeight:{value:80},complete:{value:true}});
+ Object.defineProperties(nearImage,{naturalWidth:{value:300},naturalHeight:{value:100},complete:{value:true}});
  const config=d.getElementById('exam-reader-config');
  const payload=JSON.parse(config.textContent);
  payload.mode=mode;payload.imageRedraws=[{id:'redraw-test',originalHref:originalSrc,replacementHref,alt:'彩色图表说明'}];
@@ -95,8 +105,21 @@ function redrawFixture({embedded=false, mode='reflow'}={}) {
  if(mode==='svg') {
   assert.equal(m.querySelectorAll('.reader-redraw-control').length,0,'SVG reader keeps original images');
   assert.equal(image.getAttribute('src'),originalSrc);
+  assert(!image.classList.contains('reader-figure-image'),'SVG page image sizing untouched');
  } else {
   const redraw=image.nextElementSibling,control=redraw.nextElementSibling;
+  if(delayedSize){
+   assert(!image.parentElement.classList.contains('reader-sized-figure'),'waits for source dimensions');
+   image.dispatchEvent(new w.Event('load'));
+  }
+  assert.equal(image.parentElement.style.getPropertyValue('--reader-figure-width'),expectedWidth,'width derives from original image');
+  assert(image.parentElement.classList.contains('reader-sized-figure'));
+  assert(image.classList.contains('reader-figure-image'));
+  assert(redraw.classList.contains('reader-figure-image'),'redraw shares source sizing rule');
+  assert.equal(nearFigure.style.getPropertyValue('--reader-figure-width'),'435px','unmapped figure is normalized');
+  assert(!glyph.classList.contains('reader-figure-image'),'fallback glyph stays untouched');
+  assert(!glyphFigure.classList.contains('reader-sized-figure'));
+  assert.equal(glyphFigure.querySelectorAll('.reader-redraw-control').length,0,'fallback glyph is never replaced');
   assert(redraw.classList.contains('reader-redraw-image'));
   assert(control.classList.contains('reader-redraw-control'));
   assert.equal(control.dataset.redrawId,'redraw-test');
@@ -124,11 +147,14 @@ function redrawFixture({embedded=false, mode='reflow'}={}) {
   assert(control.textContent.includes('加载失败'));
   redraw.dispatchEvent(new w.Event('load'));assert.equal(image.hidden,false,'late load cannot revive failed redraw');
   w.eval(script);assert.equal(m.querySelectorAll('.reader-redraw-control').length,1,'redraw enhancement idempotent');
+  assert.equal(image.parentElement.style.getPropertyValue('--reader-figure-width'),expectedWidth,'repeat enhancement retains original width basis');
  }
  if(embedded)assert.equal(d.querySelectorAll('.reader-toolbar').length,0,'embedded redraw has no toolbar');
  dom.window.close();
 }
 (async()=>{
+ assert.match(readerCss,/figure\.reader-sized-figure\s*>\s*img\.reader-figure-image/,'sized figure rule applies to both images');
+ assert.match(readerCss,/object-fit:\s*contain/,'figure scaling does not crop content');
  for(const [file,mode] of files)console.log('PASS',await fixture(file,mode));
  console.log('PASS denied storage',await fixture(files[0][0],'reflow',{denied:true}));
  console.log('PASS explicit resume',await fixture(files[0][0],'reflow',{resume:true,previous:true}));
@@ -142,4 +168,6 @@ function redrawFixture({embedded=false, mode='reflow'}={}) {
  redrawFixture();console.log('PASS redraw switching and error fallback');
  redrawFixture({embedded:true});console.log('PASS embedded redraw');
  redrawFixture({mode:'svg'});console.log('PASS SVG original unaffected');
+ redrawFixture({originalSize:[900,400],expectedWidth:'700px'});console.log('PASS wide figure cap');
+ redrawFixture({originalSize:[90,400],expectedWidth:'126px',delayedSize:true});console.log('PASS tall figure cap and delayed source load');
 })().catch(error=>{console.error(error);process.exitCode=1});

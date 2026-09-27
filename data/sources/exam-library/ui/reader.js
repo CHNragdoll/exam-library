@@ -40,9 +40,29 @@
     width: [760, 920, 1120].includes(Number(rawSettings?.width)) ? Number(rawSettings.width) : 920,
     svgZoom: ['fit', '100', '125', '150'].includes(rawSettings?.svgZoom) ? rawSettings.svgZoom : 'fit'
   };
+  const sizeFigures = () => {
+    if (isSvg) return;
+    for (const image of main.querySelectorAll('figure > img[src]')) {
+      if (image.classList.contains('reader-redraw-image') || image.classList.contains('inline-glyph') ||
+          image.closest('.formula, mjx-container, .source-line')) continue;
+      const figure = image.parentElement;
+      image.classList.add('reader-figure-image');
+      const setWidth = () => {
+        const width = image.naturalWidth, height = image.naturalHeight;
+        if (!width || !height) return;
+        // Use the original scan's proportions for both views. Short diagrams
+        // become readable, while wide or tall scans stay within the page.
+        const target = Math.round(Math.min(700, Math.max(240, width * 1.45), 560 * width / height));
+        figure.style.setProperty('--reader-figure-width', `${target}px`);
+        figure.classList.add('reader-sized-figure');
+      };
+      image.addEventListener('load', setWidth);
+      if (image.complete) setWidth();
+    }
+  };
   const applyImageRedraws = () => {
     if (isSvg || !Array.isArray(config.imageRedraws)) return;
-    const figures = Array.from(main.querySelectorAll('figure img[src]'));
+    const figures = Array.from(main.querySelectorAll('figure > img.reader-figure-image[src]'));
     for (const item of config.imageRedraws) {
       if (!item || typeof item.id !== 'string' || typeof item.alt !== 'string' ||
           typeof item.originalHref !== 'string' || typeof item.replacementHref !== 'string') continue;
@@ -53,6 +73,8 @@
         // Compare full resolved URLs, including query and fragment, to avoid
         // replacing a similarly named image or a formula outside a figure.
         if (image.src !== originalUrl || image.dataset.readerRedrawApplied === '1' || image.closest('picture')) continue;
+        // Lazy originals must still load so the shared width can be measured.
+        image.loading = 'eager';
         image.dataset.readerRedrawApplied = '1';
         // Keep the original image node intact. A separate image lets loading
         // finish after a toggle without an old event changing the chosen view.
@@ -111,6 +133,7 @@
       }
     }
   };
+  sizeFigures();
   applyImageRedraws();
   // Embedded readers contain exam material only: no nested toolbar, history writes,
   // resume action, or comparison frames. No access to a child document is needed.

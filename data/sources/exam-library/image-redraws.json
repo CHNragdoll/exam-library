@@ -70,9 +70,9 @@
       "id": "cs408-2016-questions-p005-b001",
       "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
       "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.svg",
-      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001-v2.png",
-      "alt": "题 33～41 图：路由器、交换机、集线器和主机网络拓扑",
-      "reviewNote": "修正Switch顶面四支独立箭头，保持两支朝左上、两支朝右下，清除相连和不规则边缘。"
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001-v3.png",
+      "alt": "2016年408网络拓扑：Switch四箭头按原图错位排布",
+      "reviewNote": "按用户指出的错位关系修正Switch顶面：四支箭头交错分布，不再两两共线。"
     },
     {
       "id": "cs408-2023-questions-p004-b008",
@@ -197,9 +197,9 @@
       "id": "cs408:2025-questions:p005-b001",
       "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
       "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
-      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-precise.svg",
-      "alt": "2025年408第38题TCP报文时序图：精确SVG直线及文字",
-      "reviewNote": "改为精确SVG：时间轴和报文均由坐标直线绘制，两条长报文共用右侧交点。文字为矢量文字，设备外观保留。"
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-color.png",
+      "alt": "2025年第38题TCP报文时序：以精确SVG为底稿的彩色图片",
+      "reviewNote": "按用户新要求，将精确SVG底稿上色为图片；保留共享端点、截断箭头和全部文字。精确SVG源文件仍保留。"
     },
     {
       "id": "2025-questions-p012-b001",
@@ -208,6 +208,94 @@
       "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p012-b001-v4-color.png",
       "alt": "2025年408第47题：工程部网络经天通一号卫星链路连接公司总部网络",
       "reviewNote": "R1/R2按用户原样局部图修正两进两出及中央交叠，再加淡色；外框和普通连线修直，卫星折线保留。"
+    },
+    {
+      "id": "cs408-2010-complete-p010-b000",
+      "document": "cs408-latex-2009-2017/papers/2010-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2010-complete-p010-b000.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2010-complete-p010-b000-color.png",
+      "alt": "Cache行号与主存数组块的映射示意图",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2025-questions:p009-b002",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p009-b002.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p009-b002-color.png",
+      "alt": "2025年第44题图（b）补码除法器逻辑结构",
+      "reviewNote": "补码除法器彩色重绘；普通线条修直，保留四处总线位宽、反馈回路与三条控制虚线。"
+    },
+    {
+      "id": "2009-complete-p005-b002",
+      "document": "cs408-latex-2009-2017/papers/2009-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2009-complete-p005-b002.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2009-complete-p005-b002-color-v2.png",
+      "alt": "第44题：16位计算机的部分CPU数据通路与控制信号图例",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2016-questions:p010-b001",
+      "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p010-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p010-b001-color-v2.png",
+      "alt": "虚拟地址经 TLB、页表转换到物理地址并访问双路 Cache 的结构图",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2018-questions:p008-b001",
+      "document": "cs408-latex-2009-2017/papers/2018-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2018-questions-p008-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2018-questions-p008-b001-color.png",
+      "alt": "CPU、TLB、页目录、页表与双路 Cache 存储访问结构图",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408:2016-answers:p006-b005",
+      "document": "cs408-answers-latex-2016-2025/papers/2016-answers.htm",
+      "original": "cs408-answers-latex-2016-2025/assets/figures/2016-answers-p006-b005.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-answers-p006-b005-color.png",
+      "alt": "2016年答案第6页分段地址变换过程图",
+      "reviewNote": "浅色重绘分段地址变换图；第 2 段与物理地址浅金突出，保留源图全部逻辑与数值。"
+    },
+    {
+      "id": "cs408-2015-complete-p006-b003",
+      "document": "cs408-latex-2009-2017/papers/2015-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2015-complete-p006-b003.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2015-complete-p006-b003-color-v2.png",
+      "alt": "第43题单总线 CPU 数据通路图及端点①～⑨",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408-2015-complete-p007-b000",
+      "document": "cs408-latex-2009-2017/papers/2015-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2015-complete-p007-b000.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2015-complete-p007-b000-color-v2.png",
+      "alt": "第44题题图a：部分指令控制信号及取指、执行阶段",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408-2022-questions-p007-b001",
+      "document": "cs408-latex-2009-2017/papers/2022-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2022-questions-p007-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2022-questions-p007-b001-color.png",
+      "alt": "第43题CPU部分数据通路与控制信号",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "cs408-2024-questions-p008-b003",
+      "document": "cs408-latex-2009-2017/papers/2024-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2024-questions-p008-b003.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2024-questions-p008-b003-color.png",
+      "alt": "题43图（b）计算机M部分数据通路及控制信号",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。"
+    },
+    {
+      "id": "2013-complete-p007-b009",
+      "document": "cs408-latex-2009-2017/papers/2013-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2013-complete-p007-b009-color.png",
+      "alt": "第44题：条件转移指令的数据通路及①②③待填部件",
+      "reviewNote": "按用户要求接入已完成彩色图；原图裁框同时恢复完整PC反馈回路。"
     }
   ]
 }

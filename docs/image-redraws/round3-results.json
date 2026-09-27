@@ -1,0 +1,394 @@
+{
+  "mode": "built-in imagegen",
+  "user_review_pending": true,
+  "changes": [
+    {
+      "id": "cs408-2015-complete-p006-b003",
+      "document": "cs408-latex-2009-2017/papers/2015-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2015-complete-p006-b003.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2015-complete-p006-b003-color-v2.png",
+      "alt": "第43题单总线 CPU 数据通路图及端点①～⑨",
+      "prompt": "Use case: scientific-educational precise-object-edit. The attached ORIGINAL single-bus CPU datapath exam figure is the authoritative edit target. Redraw it as a crisp high-resolution textbook diagram, white background, thin black straight wires and rectangular devices, very pale blue CPU bus, very pale amber ALU/SR/T/MUX functional blocks, muted gray dashed enclosure. Preserve EXACTLY every existing symbol, label, line, arrow, gap, dot, and endpoint; do not complete the student's required missing connections. This is an unfinished exam diagram on purpose. Keep all nine circled endpoint numbers ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ at their original positions, including bare terminal dots and open wire stubs. ① belongs to dashed SRout control stub; ② to dashed SRop control stub; ③ to dashed ALUop control stub; ④ beside ALU B-side vertical terminal; ⑤ beside dashed Tin control stub to T; ⑥ at the bottom uncompleted CPU internal bus connection; ⑦ at the MUX top terminal dot; ⑧ at dashed MUXop control stub; ⑨ at MUX output terminal dot. Preserve the source's existing T-to-ALU A path and T-to-bottom-bus path, ALU output to SR, SR dashed output control, 2-input MUX with bottom input marked 2 and input selectors 0 and 1, and the disconnected ⑦/⑧/⑨ stubs. Preserve right side device matrix exactly: R0,R1,R2,R3 with existing bidirectional bus arrows; MAR,MDR,PC,IR,控制部件, CPU内总线, 主存总线, 主存, CPU(中央处理器), vertical bus arrows, memory links and downward dotted outputs from controller. Preserve every label verbatim: 移位寄存器, SR, SRout, SRop, ALUop, ALU, A, B, T, Tin, MUX, MUXop, R0, R1, R2, R3, MAR, MDR, PC, IR, 控制部件, CPU内总线, 主存总线, 主存, CPU(中央处理器), 0, 1, 2, and circled ①–⑨. No invented connections, labels, or filled answer. Exact educational fidelity outranks aesthetic simplification. Revision: remove only the invented bidirectional arrow/wire from CPU internal bus to MAR left edge; the original high-resolution PDF has blank white space there. Keep R0-bus, MDR-bus and MAR-right-to-memory-bus connections unchanged.",
+      "invariants": [
+        "① SRout、② SRop、③ ALUop 与⑤ Tin 均为各自虚线控制 stub，编号、端点黑点、箭头方向保留。",
+        "④ 位于 ALU B 输入线的下端；⑥ 位于底部 CPU 内总线横线的未完成接点；⑦ 是 MUX 顶部悬空黑点；⑧ 是 MUXop 虚线控制 stub；⑨ 是 MUX 底部 1 路悬空黑点。①～⑨仍未互相补线。",
+        "T 向上接 ALU A、向下接底部总线；ALU 输出向上接 SR；MUX 下输入 2 和选择标记 0/1 保留。",
+        "R0～R3、MDR、PC 与 CPU 内总线的原有箭头保留；MAR 左侧与 CPU 内总线之间无连线，MAR 右侧接主存总线；IR 向下接控制部件，控制部件下方两条虚线箭头保留。",
+        "CPU(中央处理器)、CPU内总线、主存总线、主存、所有器件/信号名称以及虚线子系统边框可读。",
+        "MAR 左侧与 CPU 内总线之间必须是空白，不存在箭头、线或黑点；MAR 右侧至主存总线的原有线保持。"
+      ],
+      "verified": true,
+      "reason": "高分原 PDF 确认 MAR 左侧为空白；首轮误加双向箭头已在 v2 局部移除。①～⑨、其余寄存器连线与控制 stub 复核保留。",
+      "sha256": "cbcd7ddc9ff967532115b8ee54923f2263223efb8118b6b75cee6c91f4a88f7e",
+      "generator": "built-in imagegen edit",
+      "previous_replacement": "exam-library/assets/redrawn/cs408-2015-complete-p006-b003-color.png",
+      "revision_prompt": "Use case: precise-object-edit of technical diagram. Image 1 is the EDIT TARGET high-resolution colored CPU datapath. Image 2 is the authoritative ORIGINAL reference. Make exactly one local correction: remove the mistakenly invented bidirectional horizontal wire/arrows between the central vertical pale-blue CPU internal bus and the LEFT EDGE of the MAR register box (topmost right-side register row). The original has completely WHITE EMPTY SPACE between CPU bus and MAR on that row. Preserve the R0-to-bus bidirectional arrow on the same height, and preserve MAR's RIGHT-side line/arrow toward the main-memory bus. Preserve the bidirectional connection between CPU bus and MDR on the next row, and the PC connection below. Do not remove or alter anything else, especially endpoints ①–⑨, all dotted stubs, arrows, labels, bus and memory links. The MAR left gap must be clear white without a line, arrowhead or dot. Original topology fidelity is mandatory.",
+      "original_sha256": "14acefd73f8eee4d61899e8f047e1ba2261b6865da97815af5dad56097dfd889",
+      "replacement_sha256": "cbcd7ddc9ff967532115b8ee54923f2263223efb8118b6b75cee6c91f4a88f7e",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408-2015-complete-p007-b000",
+      "document": "cs408-latex-2009-2017/papers/2015-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2015-complete-p007-b000.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2015-complete-p007-b000-color-v2.png",
+      "alt": "第44题题图a：部分指令控制信号及取指、执行阶段",
+      "prompt": "Use case: scientific-educational precise-object-edit. The attached ORIGINAL is the authoritative edit target. Redraw this computer-science exam control-signal figure as crisp high-resolution typeset text inside straight thin rectangular boxes, white background and only very pale blue and amber accents on box borders or heading bands. Preserve exact two-stage branching layout: one upper fetch-stage box above horizontal dotted separator labeled 取指阶段, lower 执行阶段 branching to left shl R2,R1 box and right sub R0,R2,(R) box, with original connector lines and outer dotted border. Do not add answers to circled blanks ①–⑧. Preserve every source text token, order, punctuation, equals sign, numeral, circled blank, and line break VERBATIM, even if source seems unusual. Upper box four lines exactly: 'PCout=1, MARin=1, Tin=1, MEMop=read'; 'MUXop=①, ALUop=add, SRop=②'; 'SRout=1, PCin=1'; 'MDRout, 1Rin=1'. Left lower heading 'shl R2,R1'; box two lines 'R1out=1,Tin=1,ALUop=③ SRop=④' and 'SRout=1,R2in=1'. Right lower heading 'sub R0,R2,(R)'; box four lines 'R1out=1,MARin=1,MEMop=⑤'; 'R2out=1,Tin=1'; 'MDRout=1,MUXop=1,ALUop=⑥,SRop=⑦'; '⑧=1,R0in=1'. Bottom note in Chinese exactly '注：值为 0 的寄存器输入/输出控制信号以及值为任意的其他控制信号均未在图中标出。' Keep heading and box relationships; no extraneous glyphs or arrows; do not silently correct R1out versus R0out or 1Rin versus IRin or fill placeholders. Make the text large enough to read and preserve all eight circled numbers. Revision: remove the invented empty pale-blue title band and horizontal divider from the upper fetch-stage box; move its four unchanged lines upward into the single original-style rectangle while keeping bottom branch connector.",
+      "invariants": [
+        "外层虚线框、取指/执行阶段水平虚线分隔线、上框到左右执行框的连接分支保留。",
+        "上框四行 PCout=1/MARin=1/Tin=1/MEMop=read；MUXop=①/ALUop=add/SRop=②；SRout=1/PCin=1；MDRout, 1Rin=1 按原印刷顺序保留。",
+        "左执行分支 shl R2,R1；R1out=1/Tin=1/ALUop=③/SRop=④；SRout=1/R2in=1，与原图一致。",
+        "右执行分支 sub R0,R2,(R)；R1out=1/MARin=1/MEMop=⑤；R2out=1/Tin=1；MDRout=1/MUXop=1/ALUop=⑥/SRop=⑦；⑧=1/R0in=1，与原图一致。",
+        "①～⑧仍是圈号占位，未写入控制值；底下注释文字完整。",
+        "取指顶框为单个矩形，首行 PCout=1 紧靠框内上部，没有空白标题行或额外分隔线。"
+      ],
+      "verified": true,
+      "reason": "原稿取指框无空白标题行；v2 删除首轮新增的蓝色空行与分隔线，四行取指文本及分支连接保留。",
+      "sha256": "cc7fd933f1d78af238e4ebafd3919594aaa649a50d882ca33d3627d0e7c63ed9",
+      "generator": "built-in imagegen edit",
+      "previous_replacement": "exam-library/assets/redrawn/cs408-2015-complete-p007-b000-color.png",
+      "revision_prompt": "Use case: precise-object-edit of a control-signal exam diagram. Image 1 is EDIT TARGET colored redraw; Image 2 is authoritative ORIGINAL. Make exactly one local correction to the UPPER FETCH-STAGE BOX: remove the invented empty pale-blue horizontal title/header band and its horizontal divider line. The original has one single plain rectangular box whose text starts near its top inside edge, with no empty header row. Move the existing four text lines upward only as needed to fill the deleted space, and shorten the upper box to the original height while preserving the vertical branch connector from its bottom to the lower execution boxes. Keep all four lines verbatim, including circled ① ② and 'MDRout, 1Rin=1'; preserve every other label, number ③–⑧, branch line, lower boxes, stage dotted separator, outer dotted border, note, spacing, and pale accent style. Do not add a new header, omit text, alter punctuation or fill circled blanks.",
+      "original_sha256": "15173e04b8b40c021589eaf07a8e385b3d6f3ea49cc0c58cdcde9d3262878adf",
+      "replacement_sha256": "cc7fd933f1d78af238e4ebafd3919594aaa649a50d882ca33d3627d0e7c63ed9",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408-2010-complete-p010-b000",
+      "document": "cs408-latex-2009-2017/papers/2010-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2010-complete-p010-b000.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2010-complete-p010-b000-color.png",
+      "alt": "Cache行号与主存数组块的映射示意图",
+      "prompt": "Faithful high-resolution lightly colorized tracing of original Cache-to-main-memory mapping chart. Keep exact five Cache rows 0, ellipsis, 5, 6, 7; 17 visible main-memory cells from a[0][0] to a[255][255]; braces 5, 6, 21; 320 callout; five crossing dashed diagonals and all endpoints; use pale blue Cache, pale cream memory and one muted accent for the dashed lines, without adding data.",
+      "invariants": [
+        "左侧Cache五个可见行及左标0、纵省略号、5、6、7，四条内部横线。",
+        "右侧主存17个可见单元顺序：a[0][0]、…、a[0][15]、a[0][16]、…、a[0][31]、…、a[0][255]、a[1][0]、…、a[1][15]、…、…、a[1][255]、…、…、a[255][255]。",
+        "右侧三组花括号分别标5、6、21；上端320标注及右侧两处纵省略号保留。",
+        "恰好五条虚线：Cache行5上界分别到320和a[1][0]；行6上界分别到a[0][16]和a[1][15]；行7上界到a[0][31]。交叉关系与原图一致。",
+        "行号、块号、Cache、主存文字完整；网格分隔与顶底波形外轮廓保留。"
+      ],
+      "verified": true,
+      "reason": "原PNG及原PDF高分辨率渲染逐项对照，所有可辨文字、行数、括号数字和五条虚线的起终点一致；仅清晰化并轻度上色。",
+      "pixels": [
+        1159,
+        1358
+      ],
+      "sha256": "1049d1920b0a0b55c14ff829b3727179f88225efc48b6c266e37d79a75bd0e87",
+      "original_sha256": "80939916e6ceab7e89b8c30bc1523960f3b663b77d9b5808777c54556d83cf2d",
+      "replacement_sha256": "1049d1920b0a0b55c14ff829b3727179f88225efc48b6c266e37d79a75bd0e87",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408:2025-questions:p009-b002",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p009-b002.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p009-b002-color.png",
+      "alt": "2025年第44题图（b）补码除法器逻辑结构",
+      "prompt": "Use case: scientific-educational, precise faithful redraw of the attached exam diagram. Redraw this 2025 computer science question 44(b) two's-complement divider circuit as crisp high-resolution COLOR diagram. Preserve exact layout, every connection, arrow direction and bus width. White background, straight ruler-clean wires, black sharp labels and arrows, light blue register rectangles, pale gold ALU, pale lavender rounded control block. TOP: rectangle '除数寄存器Y' with downward solid arrow into ALU upper-right input; slash across vertical wire and label '32'. ALU is original notched-top trapezoid, labeled '32位ALU'. Upper-left ALU input receives downward solid arrow from feedback wire: feedback travels from bottom-left up far left, right across short top horizontal then down into ALU; slash and '32' on input. ALU bottom output goes down, slash and '32', downward arrow into left half of long register rectangle. Long rectangle label left '余数寄存器R', dotted vertical divider, right '余数/商寄存器Q'. Under right half label '32位'. R output vertical descends from left half, slash and '32', joins bottom horizontal feedback wire (no added arrow here). Bottom feedback wire goes left to aforementioned ALU left input loop AND right to below control block then UP with arrow entering its bottom. Control block rounded rectangle '控制逻辑', right of registers. Three dotted control lines: from its top up, then left to arrowhead entering ALU right sloping face, label 'ALUop' above this line near ALU; two short horizontal dotted arrows from control left side pointing LEFT into right edge of long register rectangle, upper label '左移', lower label '写使能'. Separate solid upward clock arrow entering bottom of control to right of feedback arrow, label '时钟'. Keep both control input arrows distinct. All dotted control lines SAME black dotted style, solid datapath wires black. Exactly four slash width labels '32', one '32位' below Q, no bitwidth additions. No inferred connection, no extra junction dot, no new labels, no title/caption, no perspective or decorative symbols. Match proportions/positions of source; only improve straightness, clarity and light fill colors.",
+      "invariants": [
+        "四个带斜杠的32总线标注及Q下方32位",
+        "三个左向控制虚线箭头：ALUop、左移、写使能",
+        "R底部输出加入反馈母线，左返ALU输入，右向上进入控制逻辑",
+        "时钟为独立向上输入，不与反馈合并",
+        "Y向下输入ALU，ALU向下写R，R/Q间虚线分隔"
+      ],
+      "verified": true,
+      "reason": "主代理逐项核对源图：信号名、位宽、反馈回路和箭头方向均保留；人工审计待用户确认。",
+      "reviewNote": "补码除法器彩色重绘；普通线条修直，保留四处总线位宽、反馈回路与三条控制虚线。",
+      "original_sha256": "b8dc337f18d77efa87dd30237dc66da44366f97c0d83790ed58e7660038d70e7",
+      "replacement_sha256": "fc0962ddacd9236e0b57f5a922f43da421e900bb500c48c16e8d49182bf3c8f7",
+      "round": 3
+    },
+    {
+      "id": "2009-complete-p005-b002",
+      "document": "cs408-latex-2009-2017/papers/2009-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2009-complete-p005-b002.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2009-complete-p005-b002-color-v2.png",
+      "alt": "第44题：16位计算机的部分CPU数据通路与控制信号图例",
+      "prompt": "以2009年原PDF裁片为唯一权威，浅色高分辨率重绘同一CPU数据通路。保留存储器(M)的MemR、MemW、Data、Addr，CB/DB/AB三条双端总线及下方无名内部总线，MAR/MDR及其双向连接与三态门，R0/R1输入和输出支路，A—ALU—AC回授，PC/IR控制与译码出口，底部Xout/Xin图例；精确复制每条箭头、交叉、控制标签和大小写，不增位宽、组件或连线。",
+      "refinement_prompt": "基于首个彩色候选局部将MDRoutE水平控制引线从虚线恢复原图实线；再基于原图局部移除MDRout控制引线和ADD→ALU控制引线上误生成的两个实心箭头头，其余线路、文字和三态门保持。",
+      "invariants": [
+        "存储器(M)端口MemR、MemW、Data、Addr；CB、DB、AB和下方无名内部总线均双端箭头",
+        "MARin、MDRin、MDRinE、MDRoutE、MDRout控制标注与三态门位置及线端",
+        "R0in/R0out与R1in/R1out各自输入、三态输出和共同右侧数据输入支路",
+        "Ain—A—ALU(ADD)—AC(ACin/ACout)及ACout左绕反馈至内部总线",
+        "PC输入、PCout三态、PCin、PC+1；IR、IRin、至指令译码部件",
+        "控制信号图例内Xout三态门符号和Xin左向寄存器输入箭头；不新增图内位宽",
+        "MDRout与ADD控制线是触及目标的短实线，线端没有实心箭头头",
+        "CB/DB标签间悬空短竖笔画虽奇怪，但在原PDF裁片中确实存在，保留原样"
+      ],
+      "verified": true,
+      "reason": "从原PDF裁片核对并两次局部imagegen修订：MDRoutE控制线改回实线、MDRout和ADD控制线的多余箭头头已移除。CB/DB之间的小竖笔画在原PDF相同位置可见，按原图保留。",
+      "status": "accepted",
+      "sha256": "c6dcd670644b7a72ae2287bdf658f38743c34d105c4c821e828283b046acdfa3",
+      "original_sha256": "b61119a74a359b8e067bce37ce32d2f14ad4ca848826d892d5e0f2d99b2d8161",
+      "replacement_sha256": "c6dcd670644b7a72ae2287bdf658f38743c34d105c4c821e828283b046acdfa3",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "2013-complete-p007-b009",
+      "document": "cs408-latex-2009-2017/papers/2013-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2013-complete-p007-b009-color.png",
+      "alt": "第44题：条件转移指令的数据通路及①②③待填部件",
+      "prompt": "以2013年原PDF裁片为唯一权威，浅色高分辨率重绘条件转移数据通路。保留标志寄存器、①内OP/C/Z/N/OFFSET字段、三组双输入门与汇合门、OFFSET→符号扩展器→②→③→多路选择器、常数2与PC→加法器、加法器分支到③及多路选择器、左侧结果选通信号箭头和多路选择器至PC的右侧反馈回路。所有原有文字、圆圈数字、导线交叉和边界原样；不填答①②③、不添加位宽或推断结构。",
+      "invariants": [
+        "①原位保留且字段顺序为OP、C、Z、N、OFFSET；上方两处短入线原样",
+        "标志寄存器和C/Z/N分别进入三个双输入门；其输出汇合于单一门，再向右箭头进入多路选择器左端",
+        "OFFSET垂直进入符号扩展器→②→③→多路选择器顶部",
+        "常数2与PC分别进入加法器；其输出分支至③及多路选择器",
+        "多路选择器底部输出经图右侧回路返回PC；保留边界处裁切方式",
+        "①②③均为待答编号而非部件名称；没有额外位宽、连接或节点"
+      ],
+      "verified": true,
+      "reason": "用户确认此图已重绘，要求一并接入。按完整原卷与修正裁片再次核对，PC反馈闭环、门及所有标注保留。",
+      "status": "accepted",
+      "reviewNote": "按用户要求接入已完成彩色图；原图裁框同时恢复完整PC反馈回路。",
+      "original_sha256": "d32dc95ebbfaa51ccf5a7106c70ba647c5501defd2de65945836379d1856bbb5",
+      "replacement_sha256": "e821fb5e74edc622f2d4dd59c60d3527126ccdeb9c1f4842ece4930fec1d57c5",
+      "round": 3
+    },
+    {
+      "id": "cs408:2016-questions:p010-b001",
+      "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p010-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p010-b001-color-v2.png",
+      "previousReplacement": "exam-library/assets/redrawn/cs408-2016-questions-p010-b001-color.png",
+      "alt": "虚拟地址经 TLB、页表转换到物理地址并访问双路 Cache 的结构图",
+      "revisionPrompt": "Use case: precise-object-edit. Asset type: fix exactly two missing connector stubs in the 2016 CS408 Q45 color memory-access diagram. Image 1 is the CURRENT color PNG and EDIT TARGET; Image 2 is the original exam crop as wiring reference. Change ONLY these TWO tiny black horizontal line segments inside the TLB table, using the same stroke thickness and exact row centerlines as the existing black wires: (1) in TLB TOP row, connect the black dot in the 标记 cell at approximately x=375,y=326 of Image 1 leftward to the table's left border x≈355; the stroke must pass continuously through that border and meet the already-existing left-facing arrow into the top 比较器. The dot must not remain isolated. (2) in TLB BOTTOM/third row, connect the black dot in the 页框号 cell at approximately x=668,y=439 rightward to the table's right border x≈691; the stroke must pass continuously through that border and meet the already-existing right-facing output arrow toward the physical-address route. That dot must not remain isolated. Keep all original black dots, arrowheads, endpoints, row boundaries, Chinese/Latin labels, A–H letters, TLB/page-table/Cache row counts, other wiring, colors, dimensions and composition unchanged. Do not add any other lines, arrows, labels, cells, or diagram elements. The two repaired strokes must visibly bridge dot-to-border-to-existing-arrow with no white gap.",
+      "prompt": "Use case: scientific-educational. Asset type: clean color redraw for an offline Chinese CS408 exam, 2016 Q45. Input Image 1 is the cropped diagram and authoritative layout reference; Input Image 2 is the original full exam page and authoritative reference for the right-hand word Cache, which the crop truncates. Redraw ONLY the diagram at high resolution on white, preserving every black straight connector, arrow direction, endpoint, branching, crossing, row/column count, dot, vertical ellipsis and label. Do not redesign the circuit or answer the exam. Add only VERY LIGHT pastel fills inside existing rectangular regions (e.g. pale blue address fields, pale green TLB/page tables, pale violet cache cells), with black crisp straight strokes and high-contrast text. Layout: top left 虚拟地址 has two adjacent fields, left field A, right field blank; top right 物理地址 has two fields C and D; the long top wire from the virtual right field ends at D. On left, two stacked 比较器 boxes with three vertical dots between, connected to a TLB 2-column 3-row table headed 标记 and 页框号; lower-left cell contains B and black connection dots stay at their original locations. Below, a separate 页表 2-column 4-row table headed 存在位 and 页框号, with its black dot and outgoing arrow. Both TLB and page-table output branches join the existing route upward to physical address C. Under physical address, three adjacent E F G fields stay in that exact order and retain their downward branch lines. At right, Cache is a 4-column 4-row table with headers 标记, 数据, 标记, 数据, and H in the leftmost cell of its THIRD data row; preserve both 比较器 boxes below their respective tag columns, their input and feedback connectors, and the left-into-cache arrow. Print all visible words exactly: 虚拟地址, 物理地址, A, B, C, D, E, F, G, H, 标记, 页框号, 存在位, TLB, 页表, 数据, 比较器, Cache. The original full page confirms the complete label Cache at the right edge. No new numerals, bit widths, arrows, table cells, labels, dotted/dashed lines or explanatory captions. Keep the original very wide diagram geometry and all endpoints.",
+      "invariants": [
+        "虚拟地址 A 与物理地址 C、D 的两段结构，E、F、G 三段结构及 B、H 位置不变。",
+        "TLB 保持 2 列 3 行、两处比较器及省略号；页表保持 2 列 4 行。",
+        "Cache 保持 4 列 4 行，标题依次为 标记、数据、标记、数据，H 位于首列第三行。",
+        "所有黑点、折线连接、箭头端点及方向、下方两处比较器反馈线路按原卷布局保留。",
+        "原始整卷第10页确认右侧完整标题为 Cache。"
+      ],
+      "verified": true,
+      "reason": "The v2 PNG was reviewed at full size against the original figure and full exam page. Enlarged crops confirm the first TLB row dot connects continuously through the left border to its comparator arrow and the third row dot connects continuously through the right border to its output arrow. Labels, table dimensions, other visible wires and arrow directions remain consistent with the source. The crop-only source defect was repaired separately from the original PDF.",
+      "connectorChecks": [
+        "TLB first row: black dot to left table border to top comparator arrow is a continuous horizontal stroke with no white gap.",
+        "TLB third row: black dot to right table border to output arrow is a continuous horizontal stroke with no white gap."
+      ],
+      "sourceCrop": {
+        "previousPdfBBox": [
+          106,
+          89,
+          510,
+          283
+        ],
+        "correctedPdfBBox": [
+          106,
+          89,
+          535,
+          283
+        ],
+        "regeneratedFormats": [
+          "svg",
+          "png",
+          "pdf"
+        ],
+        "originalExamPdfSha256": "727216ad7a903fa94bd8d596fecc43f4d6a731c49c3757ff638b48314d5eb9be",
+        "originalExamPdfUnchanged": true
+      },
+      "original_sha256": "84d0da7c8658bf99d8b5d3e71ae63510722c918e01f5325029236bdde7085edb",
+      "replacement_sha256": "22b43f0897b99755ce30729594a624ba530a9643a7a29020a530ef7fe9443a42",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408:2018-questions:p008-b001",
+      "document": "cs408-latex-2009-2017/papers/2018-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2018-questions-p008-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2018-questions-p008-b001-color.png",
+      "alt": "CPU、TLB、页目录、页表与双路 Cache 存储访问结构图",
+      "prompt": "Use case: scientific-educational. Asset type: source-faithful high-resolution color redraw of the Chinese CS408 2018 Q44 CPU/TLB/page-table/two-way Cache access diagram. Input Image 1 is the authoritative cropped original; Input Image 2 is its 4x PDF rendering for small text. This is a TRACE, not a new diagram: keep the same wide canvas, all black straight wire routes, corners, intersections, arrowheads, feedback loops, comparators, the two dashed boundary boxes and every existing cell border at the source position. Do not rearrange, simplify, answer or infer anything. Add only very pale low-opacity background fills inside existing boxes/tables (light blue address fields, light green TLB and page tables, light lavender Cache) without obscuring black ink. Exact upper text: CPU; 虚页号（20位）; 页内地址（12位）. Left dashed box label TLB; table header Tag, 有效位, 实页号. Its visible rows are exactly: 00324H | 1 | F800H; 0008CH | 1 | 0040H; 8C040H | 1 | 0160H; then the printed vertical ellipses; 04320H | 0 | 0E80H. Preserve each left-side circled = comparator and the printed 比较器 label and TLB缺失 path. Lower left pair of boxes each says 10位; PDBR, 页目录 and 页表 boxes keep their exact rows and connecting arrows. Center-lower address pair says 实页号 and 页内地址, pointing to physical address fields 20位, 3位, 5位. Right dashed box label Cache; top 数据 box, 多路选择 trapezoid, two gate shapes, two circled = comparators, and both 比较器 labels. Cache left-way table headers 有效位, Tag, Data with side row indices 0,1,2 and original rows: 1 | F8000H; 1 | 008C0H; 0 | 00400H; then ... . Right-way table headers Data, Tag, 有效位, rows: F2840H | 1; 23008H | 0; 01600H | 1; then ... . Preserve the bidirectional arrow between two way tables, all comparator-to-selector wires and exact dashed box extents. Preserve the bottom figure title 题44图 if visible. Every numeral, H suffix, Chinese/English label, data/valid column order, row count, connector endpoint, line style and crossing must match the reference. No additional data, labels, arrows, highlighting or explanatory text.",
+      "invariants": [
+        "CPU 下方虚页号 20位、页内地址 12位，物理地址 20位、3位、5位和左下两个 10位不变。",
+        "TLB 保持 Tag/有效位/实页号列：00324H/1/F800H、0008CH/1/0040H、8C040H/1/0160H、省略号、04320H/0/0E80H。",
+        "双路 Cache 左表 1/F8000H、1/008C0H、0/00400H；右表 F2840H/1、23008H/0、01600H/1；Data/Tag/有效位列方向不变。",
+        "两处虚线边界、比较器、门形符号、多路选择、双向连线、页目录与页表的表格和反馈箭头保留。",
+        "浅色填充只在现有方框内；黑色连线、边框与交叉点保持清晰。"
+      ],
+      "verified": true,
+      "reason": "Full-size source PNG and 4x PDF rendering were compared with the generated image. Critical values, bit widths, row/column order, dashed boundaries and visible arrows match; no semantic mismatch was found in this visual review.",
+      "original_sha256": "2467a447a401648b3a8e8a5afa4c780f4a6a9d0ef7a2de43cd6425678643369d",
+      "replacement_sha256": "255f1f2e795dd527e59e7b1789e10d68084fc2091dfc1487ff9442e73d07b723",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408-2022-questions-p007-b001",
+      "document": "cs408-latex-2009-2017/papers/2022-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2022-questions-p007-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2022-questions-p007-b001-color.png",
+      "alt": "第43题CPU部分数据通路与控制信号",
+      "prompt": "以原 PDF 中 1426×712 嵌入图像为权威参照，彩色高分辨率忠实重绘 CPU 数据通路：只在原寄存器/ALU/主存储器内加浅色填充，所有总线、分支、箭头、三态门、线型、位宽斜杠、信号文字和端点逐项照原。首版额外的内部总线到 ALU A 直达线、IR 右侧闭合竖线及 Read 箭头头部均依原图删除；A 只由 Y 经水平 16 位线路进入，B 由内部总线进入。",
+      "invariants": [
+        "两条系统总线轨道与左向箭头；主存储器垂直双向连接；外侧左下 L 形长线与右端独立短竖线",
+        "MAR/MDR/PC/IR 的上下总线抽头、MARin/MDRin/MDRout/PCin/PCout/IRin 及相应虚线控制箭头",
+        "IR 上方两个指向送CU等部件的箭头；右端 Read 短虚线无实心箭头，Write 虚线向上",
+        "内部总线两条轨道和左向箭头；Y/Yin 后仅一条 Y→ALU A 16 位线；内部总线→ALU B 16 位线",
+        "ALU/ALUop，F 16 位分支到 FR 的 SF/OF/… 与 Z；Z 经下方 U 形线、Zout 三态门返回内部总线",
+        "GPRs 从内部总线输入并经 GPRout 三态门输出；rd/rs 两个 4 位输入及 GPRin 底部控制箭头",
+        "IR 右侧上部长线与内部总线右端均开放，不额外相连"
+      ],
+      "verified": true,
+      "reason": "原生 PDF 嵌入图像与最终彩色图分区逐项目检；首版发现三处多画连接/箭头，第二版已针对原图纠正并重新核对全部主要标签、控制线和数据路径。",
+      "original_sha256": "56a7a70a32a0264eb3e2bd54fd4f90e26e2cf3c090bb5485190fd954391d2af1",
+      "replacement_sha256": "75d7ad03decd086ff489f691758d0a9b6e5689e3bb76fb8f0a1d45d9a7975de6",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408-2024-questions-p008-b003",
+      "document": "cs408-latex-2009-2017/papers/2024-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2024-questions-p008-b003.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2024-questions-p008-b003-color.png",
+      "alt": "题43图（b）计算机M部分数据通路及控制信号",
+      "prompt": "照原题重绘计算机 M 的扩展器、MUX、ALU 数据通路，仅在三个原框体内加浅色填充；保留 IR[31:20] 的 12 位宽、扩展器输出 32 位宽、B 和 A 各 32 位、MUX 的 0/1 输入、ALU 输入与输出 F 32 位、OF/SF/ZF/CF 四状态输出、Ext/ALUBsrc/ALUctr 的向上虚线箭头和 ALUctr 的 3 位宽斜杠，右下 000/001/010 运算说明逐字照原。",
+      "invariants": [
+        "IR[31:20] 经 12 位宽斜杠到扩展器；0:零扩展、1:符号扩展，Ext 虚线上箭头",
+        "扩展器经 32 位宽到 MUX 1 端；B 经 32 位宽到 MUX 0 端；ALUBsrc 虚线上箭头",
+        "MUX 经 32 位宽到 ALU 下输入；A 经 32 位宽到 ALU 上输入；ALU 左侧凹形轮廓",
+        "ALUctr 虚线上箭头和 3 位宽；F 输出 32 位宽；OF、SF、ZF、CF 四个独立右向输出",
+        "右下 000:加、001:减、010:逻辑左移和省略号；所有数据线为实线、控制线为虚线"
+      ],
+      "verified": true,
+      "reason": "源 PNG 与 PDF 原生嵌入图逐项对照生成图；扩展器、MUX、ALU 的文字、位宽、控制线型、四标志位与 F 输出端点均可确认，无多画线。",
+      "original_sha256": "6f9cb56cb501f2b2aa8569a1013d6b03e77ecd07b026a58d084fa834a8e644ab",
+      "replacement_sha256": "6e71cb8b08b751731812b0d8a3d64ff68681e3593fe7832b2994118d6d7ccac4",
+      "reviewNote": "新增清晰重绘；按原图核对标注、端点和方向，并修直普通直线。",
+      "round": 3
+    },
+    {
+      "id": "cs408:2016-answers:p006-b005",
+      "document": "cs408-answers-latex-2016-2025/papers/2016-answers.htm",
+      "original": "cs408-answers-latex-2016-2025/assets/figures/2016-answers-p006-b005.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-answers-p006-b005-color.png",
+      "alt": "2016年答案第6页分段地址变换过程图",
+      "prompt": "Use case: scientific-educational. Redraw the supplied Chinese computer-science segmentation address-translation diagram as an exceptionally clear, crisp, lightly colored textbook schematic. This is a fidelity edit of the reference, not a redesigned or simplified explanation. White background, very pale blue filled boxes, dark navy text and consistent blue-gray thin straight orthogonal connectors. Gentle light amber fill may distinguish the selected table row and physical address. Flat 2D; no shadows, no decorative icons, no invented legend or title. Keep landscape layout and all original content, arrow endpoints, line styles, junctions, and relative positions. Chinese must be accurate and readable.\nEXACT TEXT: 控制寄存器; 段表始址 F; 段表长度 M; 越界; 段号 S; 位移量 W; 逻辑地址 A; 段号; 段长 C; 基址 b; 物理地址 E; 主 存. Registers right have values 2 and 100. Physical address box value 8292. Segment table row numbers 0,1,2,3 outside its left edge; two columns have rows respectively 1KB | 6KB; 600 | 4KB; 500 | 8KB; 200 | 9200. Memory left labels exactly 8KB, 8292, 8692.\nTOPOLOGY: upper-left control register is a single rectangle split into F and M cells. M cell connects horizontally right with arrow INTO a circular > comparator. Comparator has upward arrow to 越界. F cell has vertical arrow down INTO circular + at left. Upper-right logical address rectangle is split into S=2 and W=100 cells. S goes down then left along a horizontal line, with a single dot junction under comparator: line ends with a LEFT arrow INTO the left + circle. From dot a vertical arrow points UP into the > comparator. Left + output line goes downward then right with RIGHT arrow to segment row 2 (left of table). Table selected row2 right edge (8KB) goes right then up then right with arrow INTO second + circle, situated under logical-address W. W cell has downward arrow INTO second + circle. That + has downward arrow INTO rectangle 8292. From bottom of 8292 rectangle route down-left-down-right, with rightward arrow pointing to memory's 8292 position, exactly as original.\nMEMORY geometry: tall rectangle at lower-right with 5 horizontal bands; its four internal boundaries, in top-to-bottom order, are thin SOLID, DASHED, DASHED, thin SOLID. Keep both dashed lines horizontal. The 8KB label sits left of the first dashed boundary, 8292 beside second dashed boundary and the incoming arrow, 8692 beside final solid boundary. Main memory label below. Do not add any numbered address or translate/modify any values. Preserve the original under-brace styling below logical and physical address fields if practical.\nPrioritize perfect legibility, exact numbers, and faithful arrow topology. Do not add any additional comparator/limit check even if it seems desirable. Output one high resolution landscape diagram around 2048x1000.",
+      "invariants": [
+        "控制寄存器分为段表始址 F、段表长度 M；逻辑地址 A 为段号 S=2、位移量 W=100。",
+        "M 向右输入 > 比较器；S 分支向上输入比较器并向左输入左侧加法器；比较器向上输出越界。",
+        "F 向下输入左侧加法器，加法器向下再向右指向段表第 2 行；单一实心分支点保持。",
+        "段表行号 0/1/2/3 及两列段长 C、基址 b：1KB/6KB、600/4KB、500/8KB、200/9200，全部逐项一致。",
+        "第 2 行 8KB 向右、向上、向右输入右侧加法器；W 向下输入同一加法器；向下输出物理地址 E=8292。",
+        "物理地址底部连线向下、向左、向下、向右指向主存的 8292 标注处；箭头端点与源图一致，未擅自延长到内存边框。",
+        "主存为五段矩形，四条内部边界自上至下为实线、虚线、虚线、实线；8KB、8292、8692 标注顺序位置及主存文字保留。",
+        "所有原有标签与数值保留，无新增地址、位宽、比较器或附加逻辑；只有浅蓝/浅金填充和笔画清晰化。"
+      ],
+      "verified": true,
+      "reason": "已并排目视核对原 PNG 与 imagegen 输出，逐项检查所有数值、表格行列、两处加法器、比较器、分支点、连线转折、箭头方向及主存虚实边界；一致。未改原始 PNG/SVG/PDF；尚待主代理集成和用户图像验收。",
+      "reviewNote": "浅色重绘分段地址变换图；第 2 段与物理地址浅金突出，保留源图全部逻辑与数值。",
+      "generation": {
+        "mode": "image_gen referenced_image_paths",
+        "reference": "cs408-answers-latex-2016-2025/assets/figures/2016-answers-p006-b005.png",
+        "output": "exec-a27ef52a-6f08-406c-be93-5f29b82ac472.png"
+      },
+      "original_sha256": "e78cd5ccc652332c667286f7dfddf60b5cd8ba105bc7a2db8b92ca88a6407289",
+      "replacement_sha256": "28d55215f34e45d5d86944de37e7d2059da7ebf95b7cdc12a785114926e667eb",
+      "round": 3
+    },
+    {
+      "id": "cs408-2016-questions-p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2016-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2016-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2016-questions-p005-b001-v3.png",
+      "alt": "2016年408网络拓扑：Switch四箭头按原图错位排布",
+      "prompt": "Edit only Switch top glyphs in image1. Image2 is USER'S ORIGINAL CLOSE-UP. COPY THE EXACT FOUR-ARROW GLYPH FROM IMAGE2 (ignore its red annotation and black screenshot surround). Do not improvise. The four arrows form a staggered arrangement centered at TOP, LEFT, RIGHT, BOTTOM of the diamond. Two NW arrows are at top and left. Two SE arrows are at right and bottom. Opposing shafts are NOT collinear. The current image1 incorrectly pairs them in two back-to-back bidirectional straight lines. Replace that with original four bent-chevron-tip arrows in distinct offset positions. In normalized Switch top diamond coords (left 0,50; top50,0; right100,50; bottom50,100): TOP arrow tail (67,32) to head (45,12), LEFT tail (47,55) to head(24,35), RIGHT tail(55,45) to head(78,66), BOTTOM tail(34,66) to head(57,87). Thus neither opposing pair shares one line. Match bold stroke and angular bent arrowhead shape of source, not filled triangular arrowheads. Preserve purple surface and every other pixel/layout/IP/icon in full network diagram unchanged. Output whole diagram, no red annotation.",
+      "verified": true,
+      "invariants": [
+        "四支独立箭头分布于菱形顶面上、左、右、下位置",
+        "上和左指向西北，右和下指向东南；反向箭头不共线",
+        "保留折角箭头头部，其他文字IP与设备和连接不变"
+      ],
+      "reviewNote": "按用户指出的错位关系修正Switch顶面：四支箭头交错分布，不再两两共线。",
+      "original_sha256": "b890e450e91da5cf2cad7ca33ee9323c9d7b65f3a6c2ae24a28023ceb77d1a39",
+      "replacement_sha256": "8a5cda738dc12311fadc3b4fbb19d71f5136db1ce42d1f72b16e83e5b5642449",
+      "round": 3
+    },
+    {
+      "id": "cs408:2025-questions:p005-b001",
+      "document": "cs408-latex-2009-2017/papers/2025-questions.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2025-questions-p005-b001.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2025-questions-p005-b001-color.png",
+      "alt": "2025年第38题TCP报文时序：以精确SVG为底稿的彩色图片",
+      "prompt": "Color-only edit of this exact precision-drawn TCP sequence diagram. Keep EVERY straight black line and arrow geometry exactly as input, with no warp, bend, reposition or changed endpoint. Left/right vertical timelines must be ruler-straight. The first long seq=2001 line ends at the SAME right-axis point from which return ACK begins. seq=3001 and short t1 outgoing arrow end midway, do not extend them. Preserve all text including 甲、乙、t0、t1、时间、seq = 2001, 1000 B数据、seq = 3001, 1000 B数据、seq = 4001, ack_seq = 3001, rcvwnd = 4000 B. Only add subtle color: left vintage computer blue screen and light blue body, right server cool slate blue, outgoing data arrows deep blue, returning ACK arrow warm orange, timelines black, text black, plain white background. All arrow tips remain solid sharp triangles and their exact source positions stay. The short unlabelled arrow after t1 blue. No additions. High fidelity colorization, not redesign. Same tall landscape aspect ratio.",
+      "verified": true,
+      "invariants": [
+        "报文与时间轴保持直线；第一长报文与ACK共用右轴交点",
+        "seq=3001及t1后短报文保持中途截断",
+        "原有三组seq/ack_seq/rcvwnd数值与文字完整"
+      ],
+      "reviewNote": "按用户新要求，将精确SVG底稿上色为图片；保留共享端点、截断箭头和全部文字。精确SVG源文件仍保留。",
+      "original_sha256": "4b6ab31ec4c0987cdf7f6bd00eda97a79d636cc44ed27c760cde98371dfb2693",
+      "replacement_sha256": "bf5cac6b82cee9c4d95a4b328c673ed7759a712d120463e045abe2931470a287",
+      "round": 3
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "id": "cs408-2013-complete-p011-b019",
+      "document": "cs408-latex-2009-2017/papers/2013-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2013-complete-p011-b019.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2013-complete-p011-b019-color.png",
+      "alt": "变址寄存器与形式地址相加得到实际地址并访问主存的示意图",
+      "prompt": "Faithful high-resolution lightly colorized tracing of original indexed-addressing diagram. Register 1000 H; two-field formal-address box empty left and 2000 H right; table headed 地址 and 内容, rows 1000 H|2000 H, 2000 H|3000 H, 3000 H|4000 H. Exactly three arrow endpoints: register line to left of circled plus, 2000 H downward into top of plus, plus output down then right into address cell 3000 H. Preserve all dividers and labels, pastel fills and straight black lines, no invented data.",
+      "invariants": [
+        "变址寄存器框内1000 H；形式地址两格中左格为空、右格2000 H。",
+        "主存表列名地址/内容，三行严格为1000 H/2000 H、2000 H/3000 H、3000 H/4000 H。",
+        "1000 H从左框下行后折向右进入加号左侧；2000 H向下进入加号顶部；加号输出向下再向右指向第三行3000 H地址格左侧。",
+        "单个带圈加号、三个箭头终点和表格所有分隔线保留；不新增连线。"
+      ],
+      "verified": false,
+      "reason": "User requested clear native vector originals remain unchanged.",
+      "pixels": [
+        2048,
+        768
+      ],
+      "sha256": "35e3cf820385930ccecf11df96b262e1d90f28b29b57c2c44ebc686fe6591532",
+      "status": "skipped_clear_vector"
+    },
+    {
+      "id": "2013-complete-p008-b010",
+      "document": "cs408-latex-2009-2017/papers/2013-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2013-complete-p008-b010.png",
+      "original_svg": "cs408-latex-2009-2017/assets/figures/2013-complete-p008-b010.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2013-complete-p008-b010-color.png",
+      "alt": "第46题题图：页表中页框号 2、页框号 1 对应代码页面 2、代码页面 1；物理地址 1、2、3 待求。",
+      "prompt": "Use case: precise-object-edit. Asset type: Chinese computer-science exam diagram, QUESTION version only. Edit target: the attached 2013 page-table question figure. Redraw the exact same wide landscape diagram with crisp black straight rules, right-angle connectors and two black arrowheads; white background; very pale low-saturation blue fill only behind the two page-table entry rows, and very pale low-saturation amber fill only behind the two code-page rectangles. Preserve the exact source layout, proportions, ordering, all empty areas, and every label verbatim. On the left: title 页表 above an open-bottom tall rectangular page table; the two middle rows read top 页框号 2 and bottom 页框号 1. Immediately left of these rows: top 物理地址 2, bottom 物理地址 1. At bottom left: 0020 0000H. From the TOP row, one horizontal/right-angle line runs right and steps upward to a right-pointing arrow at the horizontal divider of the code-page rectangle, with label 物理地址 3 above it. From the BOTTOM row, one line runs right, steps downward and ends in a right-pointing arrow at the BOTTOM border of the code-page rectangle, with label 0090 0000H above that connector. On the right: single rectangle with two stacked pages, upper exactly 代码页面 2, lower exactly 代码页面 1. All empty page-table cells and background remain empty. This is a question diagram: do not insert the answer values 00901H, 00900H, 0090 1000H, 0020 0024H, or 0020 0020H. Keep Chinese characters and all zeros exactly, with black text. Do not add page borders, decorative elements, icons, dotted lines, or extra labels. Render at high resolution, no crop, full diagram visible.",
+      "invariants": [
+        "题图标题为页表；页表中只有页框号 2（上）与页框号 1（下），上下大格留白，底部无边框。",
+        "左侧依次为物理地址 2、物理地址 1，左下为 0020 0000H；这三个标注不能换为答案值。",
+        "右侧代码页面 2 在上、代码页面 1 在下，位置和分界线保留。",
+        "上连接由上表项向右后上折，右向箭头抵达代码页分界线，标注物理地址 3；下连接向右后下折，右向箭头抵达代码页底边，标注 0090 0000H。",
+        "不能补入答案图的 00901H、00900H、0090 1000H、0020 0024H 或 0020 0020H。"
+      ],
+      "verified": false,
+      "reason": "User requested clear native vector originals remain unchanged.",
+      "status": "skipped_clear_vector"
+    },
+    {
+      "id": "2013-complete-p018-b010",
+      "document": "cs408-latex-2009-2017/papers/2013-complete.htm",
+      "original": "cs408-latex-2009-2017/assets/figures/2013-complete-p018-b010.png",
+      "original_svg": "cs408-latex-2009-2017/assets/figures/2013-complete-p018-b010.svg",
+      "replacement": "exam-library/assets/redrawn/cs408-2013-complete-p018-b010-color.png",
+      "alt": "第46题答案图：0020 0024H 处页表项 00901H 指向 0090 1000H；0020 0020H 处页表项 00900H 指向 0090 0000H。",
+      "prompt": "Use case: precise-object-edit. Asset type: Chinese computer-science exam page-table ANSWER diagram. Edit target: the attached 2013 answer figure (not the separate question figure). Recreate this exact very wide landscape crop at high resolution on white, with crisp thin black straight rules, right-angle connectors, two filled black circular nodes and two black right-pointing arrowheads. Add subtle low-saturation pale blue fill only in the two populated page-table rows; very pale amber fill only in the two code-page boxes. Preserve source diagram geometry and every label verbatim. LEFT: an open-bottom tall rectangular page table, cropped at the top just as in the source, with a large EMPTY upper cell, two narrow populated rows, then an EMPTY lower region. Upper populated row: left-side address exactly '0020 0024H'; inside row exactly '00901H'; filled black dot near right edge. Lower populated row: left-side address exactly '0020 0020H'; inside row exactly '00900H'; filled black dot near right edge. From upper dot the connector runs RIGHT then UP then RIGHT, finishing in a right-pointing arrowhead BEFORE the address label exactly '0090 1000H' in the gap. From lower dot the connector runs RIGHT as a horizontal arrow, finishing BEFORE the address label exactly '0090 0000H' in the gap. RIGHT: one code-page rectangle with two stacked boxes: upper exactly '代码页面 2', lower exactly '代码页面 1'. The upper address/arrow align near the upper page, lower address/arrow align near the lower page. Preserve the 2-address top/bottom ordering. Do not change any digit, number of zeroes, H suffix, spacing, Chinese character, or page number. Do not add the title 页表, physical-address placeholder labels from the question figure, any other labels, icons, dotted lines, or page border. Keep empty cells empty. No crop of existing content.",
+      "invariants": [
+        "答案图上行：左侧 0020 0024H，表内 00901H，黑点连线右行上折，右向箭头位于 0090 1000H 文字之前。",
+        "答案图下行：左侧 0020 0020H，表内 00900H，黑点水平连线，右向箭头位于 0090 0000H 文字之前。",
+        "代码页面 2 在上、代码页面 1 在下；页表上下大格保持空白，底部开放。",
+        "答案图裁切本身不含页表标题，不额外补题图中的物理地址占位文字。"
+      ],
+      "verified": false,
+      "reason": "User requested clear native vector originals remain unchanged.",
+      "status": "skipped_clear_vector"
+    }
+  ]
+}

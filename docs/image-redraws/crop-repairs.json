@@ -1,0 +1,143 @@
+{
+  "repairs": [
+    {
+      "sourcePdf": "2019-answer.pdf",
+      "sourcePdfSha256": "a50bd04914b55d0400655a03e5fa5f02b37ac1821107827ecaf6ab09b71b3fd6",
+      "sourceConfig": "data/sources/cs408-answers-latex-2016-2025/source/2019.json",
+      "generator": "build.py reads figure bbox from source/2019.json; regenerated only these three blocks with its figure branch",
+      "sourceTextAndOtherBlocksUnchanged": true,
+      "targetFigures": [
+        {
+          "id": "2019-answers-p002-b000",
+          "sourceBlockIndex": 0,
+          "oldBbox": [
+            105,
+            55,
+            375,
+            130
+          ],
+          "newBbox": [
+            130,
+            63,
+            359,
+            124
+          ],
+          "assets": {
+            "svg": "assets/figures/2019-answers-p002-b000.svg",
+            "png": "assets/figures/2019-answers-p002-b000.png",
+            "pdf": "assets/figures/2019-answers-p002-b000.pdf"
+          },
+          "visualCheck": {
+            "completeRoots": true,
+            "labelsAndArrowsIntact": true,
+            "adjacentTextAbsent": true
+          },
+          "pdfRenderMatchesSourceCrop": true
+        },
+        {
+          "id": "2019-answers-p002-b002",
+          "sourceBlockIndex": 2,
+          "oldBbox": [
+            100,
+            195,
+            380,
+            265
+          ],
+          "newBbox": [
+            128,
+            190,
+            366,
+            257
+          ],
+          "assets": {
+            "svg": "assets/figures/2019-answers-p002-b002.svg",
+            "png": "assets/figures/2019-answers-p002-b002.png",
+            "pdf": "assets/figures/2019-answers-p002-b002.pdf"
+          },
+          "visualCheck": {
+            "completeRoots": true,
+            "labelsAndArrowsIntact": true,
+            "adjacentTextAbsent": true
+          },
+          "pdfRenderMatchesSourceCrop": true
+        },
+        {
+          "id": "2019-answers-p002-b004",
+          "sourceBlockIndex": 4,
+          "oldBbox": [
+            75,
+            322,
+            410,
+            385
+          ],
+          "newBbox": [
+            98,
+            308,
+            393,
+            375
+          ],
+          "assets": {
+            "svg": "assets/figures/2019-answers-p002-b004.svg",
+            "png": "assets/figures/2019-answers-p002-b004.png",
+            "pdf": "assets/figures/2019-answers-p002-b004.pdf"
+          },
+          "visualCheck": {
+            "completeRoots": true,
+            "labelsAndArrowsIntact": true,
+            "adjacentTextAbsent": true
+          },
+          "pdfRenderMatchesSourceCrop": true
+        }
+      ],
+      "visualReview": "Rendered all three regenerated PNGs and the b004 SVG; roots and branch nodes complete, surrounding paragraph characters absent. The prose remains in the unchanged paragraph blocks and existing HTML/TeX."
+    },
+    {
+      "id": "cs408:2016-questions:p010-b001",
+      "sourceConfig": "data/sources/cs408-latex-2009-2017/source/2016.json",
+      "previousPdfBBox": [
+        106,
+        89,
+        510,
+        283
+      ],
+      "correctedPdfBBox": [
+        106,
+        89,
+        535,
+        283
+      ],
+      "regeneratedFormats": [
+        "svg",
+        "png",
+        "pdf"
+      ],
+      "originalExamPdfSha256": "727216ad7a903fa94bd8d596fecc43f4d6a731c49c3757ff638b48314d5eb9be",
+      "originalExamPdfUnchanged": true
+    },
+    {
+      "id": "2013-complete-p007-b009",
+      "configuration": "cs408-latex-2009-2017/source/2013.json",
+      "source_page": 7,
+      "block_index": 9,
+      "old_bbox": [
+        78,
+        417,
+        493,
+        680
+      ],
+      "new_bbox": [
+        78,
+        417,
+        505,
+        680
+      ],
+      "derivatives": [
+        "cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.svg",
+        "cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.png",
+        "cs408-latex-2009-2017/assets/figures/2013-complete-p007-b009.pdf"
+      ],
+      "verified": true,
+      "evidence": "2013完整原卷第7页显示从多路选择器底部沿右侧返回PC顶部的闭合反馈回路；新裁片右界x=505包含整条竖边和上下连接，PDF cropbox为427×263pt，原尺寸PNG已目视复核。"
+    }
+  ]
+}
