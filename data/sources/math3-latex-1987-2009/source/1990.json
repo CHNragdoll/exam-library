@@ -1,0 +1,494 @@
+{
+  "year": 1990,
+  "pages": [
+    {
+      "source_page": 29,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1990年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）极限 \\(\\lim_{n\\to\\infty}\\left(\\sqrt{n+3\\sqrt n}-\\sqrt{n-\\sqrt n}\\right)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设函数 \\(f(x)\\) 有连续的导函数，\\(f(0)=0\\) 且 \\(f\\prime(0)=b\\)，若函数"
+        },
+        {
+          "type": "display",
+          "tex": "F(x)=\\begin{cases}\\frac{f(x)+a\\sin x}{x},&x\\ne0,\\\\A,&x=0\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 \\(x=0\\) 处连续，则常数 \\(A=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）曲线 \\(y=x^2\\) 与直线 \\(y=x+2\\) 所围成的平面图形的面积为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）若线性方程组"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{cases}x_1+x_2=-a_1,\\\\x_2+x_3=a_2,\\\\x_3+x_4=-a_3,\\\\x_4+x_1=a_4\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "有解，则常数 \\(a_1,a_2,a_3,a_4\\) 应满足条件______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）一射手对同一目标独立地进行4次射击，若至少命中一次的概率为 \\(\\frac{80}{81}\\)，则该射手的命中率为______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设函数 \\(f(x)=x\\tan x\\,e^{\\sin x}\\)，则 \\(f(x)\\) 是（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）偶函数。 （B）无界函数。 （C）周期函数。 （D）单调函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设函数 \\(f(x)\\) 对任意的 \\(x\\) 均满足等式 \\(f(1+x)=af(x)\\)，且有 \\(f\\prime(0)=b\\)，其中 \\(a,b\\) 为非零常数，则（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f(x)\\) 在 \\(x=1\\) 处不可导。 （B）\\(f(x)\\) 在 \\(x=1\\) 处可导，且 \\(f\\prime(1)=a\\)。 （C）\\(f(x)\\) 在 \\(x=1\\) 处可导，且 \\(f\\prime(1)=b\\)。 （D）\\(f(x)\\) 在 \\(x=1\\) 处可导，且 \\(f\\prime(1)=ab\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）向量组 \\(\\boldsymbol\\alpha_1,\\boldsymbol\\alpha_2,\\ldots,\\boldsymbol\\alpha_s\\) 线性无关的充分条件是（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\boldsymbol\\alpha_1,\\ldots,\\boldsymbol\\alpha_s\\) 均不为零向量。 （B）其中任意两个向量的分量不成比例。 （C）其中任意一个向量均不能由其余 \\(s-1\\) 个向量线性表示。 （D）其中有一部分向量线性无关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A,B\\) 为两随机事件，且 \\(B\\subset A\\)，则下列式子正确的是（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P(A+B)=P(A)\\)。 （B）\\(P(AB)=P(A)\\)。 （C）\\(P(B\\mid A)=P(B)\\)。 （D）\\(P(B-A)=P(B)-P(A)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X\\) 和 \\(Y\\) 相互独立，其概率分布为"
+        }
+      ]
+    },
+    {
+      "source_page": 30,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "display",
+          "tex": "\\begin{array}{c|cc}m&-1&1\\\\\\hline P\\{X=m\\}&\\frac12&\\frac12\\end{array}\\qquad\\begin{array}{c|cc}m&-1&1\\\\\\hline P\\{Y=m\\}&\\frac12&\\frac12\\end{array}"
+        },
+        {
+          "type": "paragraph",
+          "text": "则下列式子正确的是（　　） （A）\\(X=Y\\)。 （B）\\(P\\{X=Y\\}=0\\)。 （C）\\(P\\{X=Y\\}=\\frac12\\)。 （D）\\(P\\{X=Y\\}=1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、计算题（本题共4小题，每小题5分，满分20分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求函数 \\(I(x)=\\int_e^x\\frac{\\ln t}{t^2-2t+1}\\,dt\\) 在区间 \\([e,e^2]\\) 上的最大值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）计算二重积分 \\(\\iint_D xe^{-y^2}\\,dx\\,dy\\)，其中 \\(D\\) 是曲线 \\(y=4x^2\\) 和 \\(y=9x^2\\) 在第一象限所围成的区域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）求级数 \\(\\sum_{n=1}^{\\infty}\\frac{(x-3)^n}{n^2}\\) 的收敛域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）求微分方程 \\(y\\prime+y\\cos x=(\\ln x)e^{-\\sin x}\\) 的通解。"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分9分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "某公司可通过电台及报纸两种方式做销售某种商品的广告，根据统计资料，销售收入 \\(R\\)（万元）与电台广告费用 \\(x_1\\)（万元）及报纸广告费用 \\(x_2\\)（万元）之间的关系有如下经验公式："
+        },
+        {
+          "type": "display",
+          "tex": "R=15+14x_1+32x_2-8x_1x_2-2x_1^2-10x_2^2."
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）在广告费用不限的情况下，求最优广告策略；（2）若提供的广告费用为1.5万元，求相应的最优广告策略。"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(f(x)\\) 在闭区间 \\([0,c]\\) 上连续，其导数 \\(f\\prime(x)\\) 在开区间 \\((0,c)\\) 内存在且单调减少，\\(f(0)=0\\)。试应用拉格朗日中值定理证明不等式 \\(f(a+b)\\le f(a)+f(b)\\)，其中常数 \\(a,b\\) 满足条件 \\(0\\le a\\le b\\le a+b\\le c\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知线性方程组"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{cases}x_1+x_2+x_3+x_4+x_5=a,\\\\3x_1+2x_2+x_3+x_4-3x_5=0,\\\\x_2+2x_3+2x_4+6x_5=b,\\\\5x_1+4x_2+3x_3+3x_4-x_5=2.\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(a,b\\) 为何值时，方程组有解？（2）方程组有解时，求出方程组的导出组的一个基础解系；（3）方程组有解时，求出方程组的全部解。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分5分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知对于 \\(n\\) 阶方阵 \\(A\\)，存在自然数 \\(k\\)，使得 \\(A^k=O\\)。试证明矩阵 \\(E-A\\) 可逆，并写出其逆矩阵的表达式（\\(E\\) 为 \\(n\\) 阶单位阵）。"
+        }
+      ]
+    },
+    {
+      "source_page": 31,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "八、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(A\\) 为 \\(n\\) 阶矩阵，\\(\\lambda_1\\) 和 \\(\\lambda_2\\) 是 \\(A\\) 的两个不同的特征值，\\(\\boldsymbol x_1,\\boldsymbol x_2\\) 是分别属于 \\(\\lambda_1\\) 和 \\(\\lambda_2\\) 的特征向量。试证明 \\(\\boldsymbol x_1+\\boldsymbol x_2\\) 不是 \\(A\\) 的特征向量。"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分4分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "从0，1，2，\\(\\ldots\\)，9等十个数字中任意选出三个不同的数字，试求下列事件的概率：\\(A_1=\\{\\text{三个数字中不含0和5}\\}\\)；\\(A_2=\\{\\text{三个数字中不含0或5}\\}\\)；\\(A_3=\\{\\text{三个数字中含0但不含5}\\}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分5分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "一电子仪器由两个部件构成，以 \\(X\\) 和 \\(Y\\) 分别表示两个部件的寿命（单位：千小时），已知 \\(X\\) 和 \\(Y\\) 的联合分布函数为"
+        },
+        {
+          "type": "display",
+          "tex": "F(x,y)=\\begin{cases}1-e^{-0.5x}-e^{-0.5y}+e^{-0.5(x+y)},&x\\ge0,y\\ge0,\\\\0,&\\text{其他}.\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）问 \\(X\\) 和 \\(Y\\) 是否独立？（2）求两个部件的寿命都超过100小时的概率 \\(a\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "某地抽样调查结果表明，考生的外语成绩（百分制）近似服从正态分布，平均成绩为72分，96分以上的占考生总数的2.3%，试求考生的外语成绩在60分至84分之间的概率。附表（表中 \\(\\Phi(x)\\) 是标准正态分布函数）"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{array}{c|ccccccc}x&0&0.5&1.0&1.5&2.0&2.5&3.0\\\\\\hline\\Phi(x)&0.500&0.692&0.841&0.933&0.977&0.994&0.999\\end{array}"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第一、（1）题】 （2）【同试卷IV 第一、（2）题】 （3）【同试卷IV 第一、（3）题】 （4）【同试卷IV 第一、（4）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）已知随机变量 \\(X\\sim N(-3,1),\\ Y\\sim N(2,1)\\)，且 \\(X,Y\\) 相互独立，设随机变量 \\(Z=X-2Y+7\\)，则 \\(Z\\sim\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第二、（1）题】 （2）【同试卷IV 第二、（2）题】 （3）【同试卷IV 第二、（3）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A\\) 为 \\(n\\) 阶可逆矩阵，\\(A^*\\) 是 \\(A\\) 的伴随矩阵，则（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(|A^*|=|A|^{n-1}\\)。 （B）\\(|A^*|=|A|\\)。 （C）\\(|A^*|=|A|^n\\)。 （D）\\(|A^*|=|A^{-1}|\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 32,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（5）已知随机变量 \\(X\\) 服从二项分布，且 \\(E(X)=2.4,D(X)=1.44\\)，则二项分布的参数 \\(n,p\\) 的值为（　　） （A）\\(n=4,p=0.6\\)。 （B）\\(n=6,p=0.4\\)。 （C）\\(n=8,p=0.3\\)。 （D）\\(n=24,p=0.1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、（本题共4小题，每小题5分，满分20分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求极限 \\(\\displaystyle\\lim_{x\\to\\infty}\\frac1x\\int_0^x(1+t^2)e^{t^2-x^2}\\,dt\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）求不定积分 \\(\\displaystyle\\int\\frac{x\\cos^4(x/2)}{\\sin^3x}\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(x^2+z^2=y\\varphi(z/y)\\)，其中 \\(\\varphi\\) 为可微函数，求 \\(\\frac{\\partial z}{\\partial y}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）【同试卷IV 第三、（2）题】"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分9分）【同试卷IV 第四题】"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "证明不等式 \\(1+x\\ln(x+\\sqrt{1+x^2})\\ge\\sqrt{1+x^2}\\)，\\(-\\infty<x<+\\infty\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分4分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(A\\) 为 \\(10\\times10\\) 矩阵"
+        },
+        {
+          "type": "display",
+          "tex": "A=\\begin{pmatrix}0&1&0&\\cdots&0&0\\\\0&0&1&\\cdots&0&0\\\\\\vdots&\\vdots&\\vdots&\\ddots&\\vdots&\\vdots\\\\0&0&0&\\cdots&0&1\\\\10^{10}&0&0&\\cdots&0&0\\end{pmatrix},"
+        },
+        {
+          "type": "paragraph",
+          "text": "计算行列式 \\(|A-\\lambda E|\\)，其中 \\(E\\) 为10阶单位矩阵，\\(\\lambda\\) 为常数。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分5分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设方阵 \\(A\\) 满足条件 \\(A^{\\mathrm T}A=E\\)，其中 \\(A^{\\mathrm T}\\) 是 \\(A\\) 的转置矩阵，\\(E\\) 为单位阵。试证明 \\(A\\) 的实特征向量所对应的特征值的绝对值等于1。"
+        },
+        {
+          "type": "heading",
+          "text": "八、（本题满分8分）【同试卷IV 第六题】"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分5分）【同试卷IV 第九题】"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "甲乙两人独立地各进行两次射击，假设甲的命中率为0.2，乙的为0.5，以 \\(X\\) 和 \\(Y\\) 分别表示甲和乙的命中次数，试求 \\(X\\) 和 \\(Y\\) 的联合概率分布。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分7分）【同试卷IV 第十一题】"
+        }
+      ]
+    },
+    {
+      "source_page": 66,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1990年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(2\\)。 （2）\\(a+b\\)。 （3）\\(\\frac92\\)。 （4）\\(a_1+a_2+a_3+a_4=0\\)。 （5）\\(\\frac23\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。 （2）D。 （3）C。 （4）A。 （5）C。"
+        },
+        {
+          "type": "heading",
+          "text": "三、计算题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\ln(1+e)-\\frac e{1+e}\\)。 （2）\\(\\frac5{144}\\)。 （3）\\([2,4]\\)。 （4）\\(y=e^{-\\sin x}(x\\ln x-x+C)\\)，其中 \\(C\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（1）当 \\(x_1=0.75,x_2=1.25\\) 时，利润取得最大值。（2）当仅有1.5万元广告费用时，最优广告策略是将1.5万元费用全部用于报纸的广告费。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、证明略（在 \\([0,a]\\) 和 \\([b,a+b]\\) 上分别应用拉格朗日中值定理）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（1）\\(a=1,b=3\\)。 （2）基础解系为 \\(\\boldsymbol\\xi_1=(1,-2,1,0,0)^{\\mathrm T},\\ \\boldsymbol\\xi_2=(1,-2,0,1,0)^{\\mathrm T},\\ \\boldsymbol\\xi_3=(5,-6,0,0,1)^{\\mathrm T}\\)。 （3）方程的全部解为 \\(\\boldsymbol x=(-2,3,0,0,0)^{\\mathrm T}+k_1\\boldsymbol\\xi_1+k_2\\boldsymbol\\xi_2+k_3\\boldsymbol\\xi_3\\)，其中 \\(k_1,k_2,k_3\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、证明略。\\((E-A)^{-1}=E+A+\\cdots+A^{k-1}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、证明略（反证法）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、\\(P(A_1)=\\frac7{15};\\ P(A_2)=\\frac{14}{15};\\ P(A_3)=\\frac7{30}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（1）\\(X\\) 和 \\(Y\\) 独立。（2）\\(e^{-0.1}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、\\(0.682\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第一、（1）题】 （2）【同试卷IV 第一、（2）题】 （3）【同试卷IV 第一、（3）题】 （4）【同试卷IV 第一、（4）题】 （5）\\(N(0,5)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第二、（1）题】 （2）【同试卷IV 第二、（2）题】 （3）【同试卷IV 第二、（3）题】 （4）A。 （5）B。"
+        },
+        {
+          "type": "heading",
+          "text": "三、计算题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\frac12\\)。 （2）\\(-\\frac18x\\csc^2\\frac x2-\\frac14\\cot\\frac x2+C\\)，其中 \\(C\\) 为任意常数。"
+        }
+      ]
+    },
+    {
+      "source_page": 67,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "（试卷V）参考答案续"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（3）\\(\\displaystyle\\frac{\\partial z}{\\partial y}=\\frac{y\\varphi(z/y)-z\\varphi\\prime(z/y)}{2yz-y\\varphi\\prime(z/y)}\\)。 （4）【同试卷IV 第三、（2）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、【同试卷IV 第四题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、证明略（可考虑函数 \\(f(x)=1+x\\ln(x+\\sqrt{1+x^2})-\\sqrt{1+x^2}\\)，计算 \\(f\\prime(x)\\)，证明 \\(f(x)\\) 的最小值为 \\(f(0)=0\\)）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、\\(\\lambda^{10}-10^{10}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、证明略（考虑 \\((A\\boldsymbol x)^{\\mathrm T}(A\\boldsymbol x)\\)，利用 \\(A^{\\mathrm T}A=E\\) 可得 \\((A\\boldsymbol x)^{\\mathrm T}(A\\boldsymbol x)=\\boldsymbol x^{\\mathrm T}\\boldsymbol x\\)）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、【同试卷IV 第六题】 九、【同试卷IV 第九题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{array}{c|ccc}Y\\backslash X&0&1&2\\\\\\hline0&0.16&0.08&0.01\\\\1&0.32&0.16&0.02\\\\2&0.16&0.08&0.01\\end{array}"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、【同试卷IV 第十一题】"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

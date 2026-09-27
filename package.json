@@ -1,0 +1,12 @@
+{
+  "name": "exam-library",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Offline original and reflow exam readers",
+  "scripts": {
+    "test": "node data/sources/exam-library/ui/test_catalog.cjs && node data/sources/exam-library/ui/reader.test.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "29.1.1"
+  }
+}

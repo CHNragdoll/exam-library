@@ -1,0 +1,226 @@
+{
+  "year": 2008,
+  "pages": [
+    {
+      "source_page": 113,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2008年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共8小题，每小题4分，满分32分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设函数 \\(f(x)\\) 在区间 \\([-1,1]\\) 上连续，则 \\(x=0\\) 是函数 \\(g(x)=\\frac{\\int_0^x f(t)\\,\\mathrm dt}{x}\\) 的（　）。（A）跳跃间断点。（B）可去间断点。（C）无穷间断点。（D）振荡间断点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）如图，曲线段的方程为 \\(y=f(x)\\)，函数 \\(f(x)\\) 在区间 \\([0,a]\\) 上有连续的导数，则定积分 \\(\\int_0^a xf^{\\prime}(x)\\,\\mathrm dx\\) 等于（　）。"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            314,
+            119,
+            439,
+            214
+          ],
+          "caption": "第2题曲线段及区域 ABCD、ABOD 示意图"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）曲边梯形 \\(ABOD\\) 的面积。（B）梯形 \\(ABOD\\) 的面积。（C）曲边三角形 \\(ACD\\) 的面积。（D）三角形 \\(ACD\\) 的面积。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）已知 \\(f(x,y)=e^{\\sqrt{x^2+y^4}}\\)，则（　）。（A）\\(f_x^{\\prime}(0,0)\\)、\\(f_y^{\\prime}(0,0)\\) 都存在。（B）\\(f_x^{\\prime}(0,0)\\) 不存在，\\(f_y^{\\prime}(0,0)\\) 存在。（C）\\(f_x^{\\prime}(0,0)\\) 存在，\\(f_y^{\\prime}(0,0)\\) 不存在。（D）\\(f_x^{\\prime}(0,0)\\)、\\(f_y^{\\prime}(0,0)\\) 都不存在。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设函数 \\(f\\) 连续，若 \\(F(u,v)=\\iint_{D_{uv}}\\frac{f(x^2+y^2)}{\\sqrt{x^2+y^2}}\\,\\mathrm dx\\,\\mathrm dy\\)，其中区域 \\(D_{uv}\\) 为图中阴影部分，则 \\(\\frac{\\partial F}{\\partial u}=\\)（　）。"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            340,
+            272,
+            439,
+            381
+          ],
+          "caption": "第4题阴影区域 D_uv，边界为半径 1、u 的圆弧和夹角 v"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(vf(u^2)\\)。（B）\\(\\frac vu f(u^2)\\)。（C）\\(vf(u)\\)。（D）\\(\\frac vu f(u)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设 \\(A\\) 为 \\(n\\) 阶非零矩阵，\\(E\\) 为 \\(n\\) 阶单位矩阵，若 \\(A^3=O\\)，则（　）。（A）\\(E-A\\) 不可逆，\\(E+A\\) 不可逆。（B）\\(E-A\\) 不可逆，\\(E+A\\) 可逆。（C）\\(E-A\\) 可逆，\\(E+A\\) 可逆。（D）\\(E-A\\) 可逆，\\(E+A\\) 不可逆。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）设 \\(A=\\begin{pmatrix}1&2\\\\2&1\\end{pmatrix}\\)，则在实数域上与 \\(A\\) 合同的矩阵为（　）。（A）\\(\\begin{pmatrix}-2&1\\\\1&-2\\end{pmatrix}\\)。（B）\\(\\begin{pmatrix}2&-1\\\\-1&2\\end{pmatrix}\\)。（C）\\(\\begin{pmatrix}2&1\\\\1&2\\end{pmatrix}\\)。（D）\\(\\begin{pmatrix}1&-2\\\\-2&1\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）设随机变量 \\(X,Y\\) 独立同分布，且 \\(X\\) 的分布函数为 \\(F(x)\\)，则 \\(Z=\\max\\{X,Y\\}\\) 的分布函数为（　）。（A）\\(F^2(x)\\)。（B）\\(F(x)F(y)\\)。（C）\\(1-[1-F(x)]^2\\)。（D）\\([1-F(x)][1-F(y)]\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设随机变量 \\(X\\sim N(0,1)\\)，\\(Y\\sim N(1,4)\\)，且相关系数 \\(\\rho_{XY}=1\\)，则（　）。（A）\\(P\\{Y=-2X-1\\}=1\\)。（B）\\(P\\{Y=2X-1\\}=1\\)。（C）\\(P\\{Y=-2X+1\\}=1\\)。（D）\\(P\\{Y=2X+1\\}=1\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 114,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共6小题，每小题4分，满分24分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）设函数 \\(f(x)=\\begin{cases}x^2+1,&|x|\\le c,\\\\\\frac2{|x|},&|x|>c\\end{cases}\\) 在 \\(( -\\infty,+\\infty)\\) 内连续，则 \\(c=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）设 \\(f\\!\\left(x+\\frac1x\\right)=\\frac{x+x^3}{1+x^4}\\)，则 \\(\\int_2^{2\\sqrt2}f(x)\\,\\mathrm dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）设 \\(D=\\{(x,y)\\mid x^2+y^2\\le1\\}\\)，则 \\(\\iint_D(x^2-y)\\,\\mathrm dx\\,\\mathrm dy=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）微分方程 \\(xy^{\\prime}+y=0\\) 满足条件 \\(y(1)=1\\) 的解是 \\(y=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）设3阶矩阵 \\(A\\) 的特征值为 \\(1,2,2\\)，\\(E\\) 为3阶单位矩阵，则 \\(|4A^{-1}-E|=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）设随机变量 \\(X\\) 服从参数为1的泊松分布，则 \\(P\\{X=E(X^2)\\}=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，满分94分，解答应写出文字说明、证明过程或演算步骤）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分9分）计算 \\(\\lim_{x\\to0}\\frac1{x^2}\\ln\\frac{\\sin x}{x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分10分）设 \\(z=z(x,y)\\) 是由方程 \\(x^2+y^2-z=\\varphi(x+y+z)\\) 所确定的函数，其中 \\(\\varphi\\) 具有二阶导数，且 \\(\\varphi^{\\prime}\\ne-1\\)。（Ⅰ）求 \\(\\mathrm dz\\)；（Ⅱ）记 \\(u(x,y)=\\frac1{x-y}\\left(\\frac{\\partial z}{\\partial x}-\\frac{\\partial z}{\\partial y}\\right)\\)，求 \\(\\frac{\\partial u}{\\partial x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分11分）计算 \\(\\iint_D\\max\\{xy,1\\}\\,\\mathrm dx\\,\\mathrm dy\\)，其中 \\(D=\\{(x,y)\\mid0\\le x\\le2,\\;0\\le y\\le2\\}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分10分）设 \\(f(x)\\) 是周期为2的连续函数。（Ⅰ）证明对任意实数 \\(t\\)，有 \\(\\int_t^{t+2}f(x)\\,\\mathrm dx=\\int_0^2f(x)\\,\\mathrm dx\\)；（Ⅱ）证明 \\(G(x)=\\int_0^x\\left[2f(t)-\\int_t^{t+2}f(s)\\,\\mathrm ds\\right]\\mathrm dt\\) 是周期为2的周期函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分10分）设银行存款的年利率为 \\(r=0.05\\)，并依年复利计算。某基金会希望通过存款 \\(A\\) 万元实现第一年提取19万元，第二年提取28万元，\\(\\cdots\\)，第 \\(n\\) 年提取 \\((10+9n)\\) 万元，并能按此规律一直提取下去，问 \\(A\\) 至少应为多少万元？"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分12分）设 \\(n\\) 元线性方程组 \\(Ax=b\\)，其中"
+        }
+      ]
+    },
+    {
+      "source_page": 115,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "display",
+          "tex": "A=\\begin{pmatrix}2a&1&&&&\\\\a^2&2a&1&&&\\\\&a^2&2a&1&&\\\\&&\\ddots&\\ddots&\\ddots&\\\\&&&a^2&2a&1\\\\&&&&a^2&2a\\end{pmatrix}_{n\\times n},\\qquad x=\\begin{pmatrix}x_1\\\\x_2\\\\\\vdots\\\\x_n\\end{pmatrix},\\qquad b=\\begin{pmatrix}1\\\\0\\\\\\vdots\\\\0\\end{pmatrix}."
+        },
+        {
+          "type": "paragraph",
+          "text": "（Ⅰ）证明行列式 \\(|A|=(n+1)a^n\\)；（Ⅱ）当 \\(a\\) 为何值时，该方程组有唯一解，并求 \\(x_1\\)；（Ⅲ）当 \\(a\\) 为何值时，该方程组有无穷多解，并求通解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分10分）设 \\(A\\) 为3阶矩阵，\\(\\alpha_1,\\alpha_2\\) 为 \\(A\\) 的分别属于特征值 \\(-1,1\\) 的特征向量，向量 \\(\\alpha_3\\) 满足 \\(A\\alpha_3=\\alpha_2+\\alpha_3\\)。（Ⅰ）证明 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性无关；（Ⅱ）令 \\(P=(\\alpha_1,\\alpha_2,\\alpha_3)\\)，求 \\(P^{-1}AP\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分11分）设随机变量 \\(X\\) 与 \\(Y\\) 相互独立，\\(X\\) 的概率分布为 \\(P\\{X=i\\}=\\frac13\\;(i=-1,0,1)\\)，\\(Y\\) 的概率密度为 \\(f_Y(y)=\\begin{cases}1,&0\\le y<1,\\\\0,&\\text{其他},\\end{cases}\\) 记 \\(Z=X+Y\\)。（Ⅰ）求 \\(P\\{Z\\le\\frac12\\mid X=0\\}\\)；（Ⅱ）求 \\(Z\\) 的概率密度 \\(f_Z(z)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分11分）设 \\(X_1,X_2,\\cdots,X_n\\) 是总体 \\(N(\\mu,\\sigma^2)\\) 的简单随机样本，记 \\(\\bar X=\\frac1n\\sum_{i=1}^nX_i\\)，\\(S^2=\\frac1{n-1}\\sum_{i=1}^n(X_i-\\bar X)^2\\)，\\(T=\\bar X^2-\\frac1nS^2\\)。（Ⅰ）（超纲题）证明 \\(T\\) 是 \\(\\mu^2\\) 的无偏估计量。（无偏估计为超纲概念，可改为“证明 \\(E(T)=\\mu^2\\)”）；（Ⅱ）当 \\(\\mu=0,\\sigma=1\\) 时，求 \\(D(T)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 131,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2008年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。（2）C。（3）B。（4）A。（5）C。（6）D。（7）A。（8）D。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）\\(1\\)。（10）\\(\\frac12\\ln3\\)。（11）\\(\\frac\\pi4\\)。（12）\\(\\frac1x\\)。（13）\\(3\\)。（14）\\(\\frac1{2e}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）\\(-\\frac16\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（Ⅰ）\\(\\mathrm dz=\\frac{2x-\\varphi^{\\prime}(x+y+z)}{\\varphi^{\\prime}(x+y+z)+1}\\,\\mathrm dx+\\frac{2y-\\varphi^{\\prime}(x+y+z)}{\\varphi^{\\prime}(x+y+z)+1}\\,\\mathrm dy\\)。（Ⅱ）\\(\\frac{\\partial u}{\\partial x}=\\frac{-2(2x+1)\\varphi^{\\prime\\prime}(x+y+z)}{[\\varphi^{\\prime}(x+y+z)+1]^3}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）\\(\\frac{19}4+\\ln2\\)。（18）证明略。（19）\\(A\\) 至少应为3980万元。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（Ⅰ）证明略。（Ⅱ）\\(a\\ne0\\) 时，方程组有唯一解，\\(x_1=\\frac{n}{(n+1)a}\\)。（Ⅲ）\\(a=0\\) 时，方程组有无穷多解，通解为 \\(x=k(1,0,\\cdots,0)^{\\mathrm T}+(0,1,0,\\cdots,0)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅰ）证明略。（Ⅱ）\\(P^{-1}AP=\\begin{pmatrix}-1&0&0\\\\0&1&1\\\\0&0&1\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\(\\frac12\\)。（Ⅱ）\\(f_Z(z)=\\begin{cases}\\frac13,&-1\\le z<2,\\\\0,&\\text{其他},\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）证明略。（Ⅱ）\\(\\frac2{n(n-1)}\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

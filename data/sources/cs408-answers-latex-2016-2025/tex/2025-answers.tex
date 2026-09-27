@@ -1,0 +1,135 @@
+\documentclass[UTF8,11pt]{ctexart}
+\usepackage[a4paper,margin=22mm]{geometry}
+\usepackage{amsmath,amssymb,bm,graphicx,adjustbox,fvextra,longtable,array}
+\xeCJKDeclareCharClass{CJK}{"2160 -> "217F, "2460 -> "249B, "2200 -> "22FF}
+\newcommand{\fitmath}[1]{\begin{adjustbox}{max width=\linewidth}$\displaystyle #1$\end{adjustbox}}
+\setlength{\parindent}{0pt}\setlength{\parskip}{.65em}\renewcommand{\arraystretch}{1.3}
+\sloppy\allowdisplaybreaks
+\begin{document}
+\section*{2025 年计算机统考 408 · 答案与解析}
+\subsection*{2025年全国硕士研究生招生考试计算机学科专业基础试题参考答案}
+
+\subsection*{一、单项选择题}
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|}\hline
+1. B & 2. D & 3. D & 4. B & 5. D\\\hline
+6. C & 7. C & 8. C & 9. A & 10. D\\\hline
+11. A & 12. D & 13. D & 14. D & 15. C\\\hline
+16. B & 17. C & 18. B & 19. A & 20. A\\\hline
+21. B & 22. A & 23. D & 24. C & 25. C\\\hline
+26. B & 27. D & 28. C & 29. C & 30. A\\\hline
+31. C & 32. B & 33. B & 34. C & 35. C\\\hline
+36. C & 37. B & 38. A & 39. B & 40. A\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+\subsection*{二、综合应用题}
+
+41．【答案要点】（1）算法的基本设计思想：从后向前扫描一趟数组A，对每个\(\displaystyle A[i]\)（\(\displaystyle 0\le i\le n-1\)），分别找到从\(\displaystyle A[n-1]\)到\(\displaystyle A[i]\)中的最大值Max和最小值Min，然后分以下情况处理：\textcircled{1}若\(\displaystyle A[i]\ge0\)，则\(\displaystyle A[i]\)与Max相乘；\textcircled{2}若\(\displaystyle A[i]<0\)，则\(\displaystyle A[i]\)与Min相乘。相乘的结果保存在\(\displaystyle res[i]\)中。
+
+
+41．（续）（2）算法实现：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+void calMulMax(int A[], int res[], int n)
+{
+    int i, Max, Min;
+    Max=Min=A[n-1];
+    for(i=n-1; i>=0; i--) {  // 从后向前扫描数组 A
+        if(A[i]>Max) Max=A[i];
+        else if(A[i]<Min) Min=A[i];
+        if(A[i]>=0) res[i]=A[i]*Max;  // 根据 A[i] 的正负性分别处理
+        else res[i]=A[i]*Min;
+    }
+}
+\end{Verbatim}
+
+（3）算法的时间复杂度为\(\displaystyle O(n)\)，空间复杂度为\(\displaystyle O(1)\)。
+
+
+42．【答案要点】（1）完成该工程的最短时间是12。关键活动是a、e、m、n。（2）与e同时进行的活动可能有b、c、d。（3）时间余量最大的活动是j。时间余量是6。（4）b的持续时间最多是4。压缩k的持续时间。
+
+
+43．【答案要点】（1）Cache组号字段占6位；块内地址字段占6位。虚拟地址中\(\displaystyle \mathrm{VA}_{11}\sim\mathrm{VA}_{6}\)可作为Cache索引。（2）\(\displaystyle d[100]\)的虚拟地址为0180 01B0H。Cache组号是\(\displaystyle 000110\mathrm{B}=6\)。
+
+
+43．（续）（3）\(\displaystyle d[0]\)在其所在主存块内的偏移量为20H。共发生129次Cache缺失，访问总次数为\(\displaystyle 2048\times2=4096\)，Cache缺失率为\(\displaystyle 129/4096\approx3.15\%\)；数组元素的平均访问时间约为\(\displaystyle 2+3.15\%\times200=8.3\)个时钟周期。（4）数组d分布在3页中。访问数组d所引起的缺页次数是3。
+
+
+44．【答案要点】（1）R中初始内容是FFFF FFFFH；Q中初始内容是8765 4321H；Y中初始内容是0000 00FFH。控制逻辑部件中包含计数器。由ALUop所控制的ALU运算有加运算、减运算。（2）当x为0000 0000H时，发生除0异常；当d[i]为8000 0000H且x为FFFF FFFFH时，发生除运算溢出异常。CPU检测到除法异常后，需要将断点和程序状态保存到内核栈或者特定寄存器中，关中断，最后跳转到内核中的除法异常处理程序执行。
+
+
+45．【答案要点】设置信号量及其初值：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+Semaphore position=3;  // 可挖树坑的数量
+Semaphore pit=0;       // 树坑的数量
+Semaphore tree=0;      // 待浇水的树苗数
+Semaphore mutex=1;     // 实现铁锹的互斥使用
+\end{Verbatim}
+
+甲：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+for(;;) {
+    wait(position);
+    wait(mutex);
+    挖树坑;
+    signal(mutex);
+    signal(pit);
+    ...
+}
+\end{Verbatim}
+
+乙：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+for(;;) {
+    wait(pit);
+    放树苗;
+    signal(position);
+    wait(mutex);
+    填土;
+    signal(mutex);
+    signal(tree);
+    ...
+}
+\end{Verbatim}
+
+丙：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+for(;;) {
+    wait(tree);
+    浇水;
+    ...
+}
+\end{Verbatim}
+
+46．【答案要点】（1）进程控制块位于内核区。该进程处于阻塞态。（2）main()函数的代码位于只读代码段。scanf()和printf()的功能需要通过执行驱动程序实现。（3）ptr被分配在可读写数据段中。length会被分配在用户栈中。ptr指向的字符串位于运行时堆中。
+
+
+47．【答案要点】（1）单向传播时延为
+
+
+\[\fitmath{\displaystyle 2\times\dfrac{\displaystyle 36\,000\times10^3}{\displaystyle 300\,000\times10^3}=240\,\mathrm{ms}}\]
+
+最大吞吐量为200 kb/s。最少时间为
+
+
+\[\fitmath{\displaystyle 240\times10^{-3}+\dfrac{\displaystyle 4000\times8}{\displaystyle 200\times10^3}=400\,\mathrm{ms}}\]
+
+（2）令\(\displaystyle W_s\)为发送窗口，\(\displaystyle k\)为序号字段位数，则有
+
+
+\[\fitmath{\displaystyle \dfrac{\displaystyle W_s\times\dfrac{\displaystyle 1500\times8}{\displaystyle 200\times10^3}}{\displaystyle 2\times240\times10^{-3}+\dfrac{\displaystyle 1500\times8}{\displaystyle 200\times10^3}}\ge0.8\qquad\text{①}}\]
+
+解得\(\displaystyle W_s\ge7.2\)，向上取整得\(\displaystyle W_s\ge8\)，即发送窗口至少为8。对于GBN，应满足\(\displaystyle 2^k\ge W_s+1\)，即\(\displaystyle 2^k\ge8+1=9\)，\(\displaystyle k\)向上取整得\(\displaystyle k\ge4\)，即序号字段至少需要4位。
+
+
+（3）作业区子网的子网地址为10.10.10.64/26；管理区子网的子网地址为10.10.10.0/26；生活区子网的子网地址为10.10.10.128/25。
+
+\end{document}

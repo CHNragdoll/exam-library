@@ -1,0 +1,204 @@
+{
+  "year": 2004,
+  "pages": [
+    {
+      "source_page": 101,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2004年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共6小题，每小题4分，满分24分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）若 \\(\\lim_{x\\to0}\\frac{\\sin x}{e^x-a}(\\cos x-b)=5\\)，则 \\(a=\\)______，\\(b=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）函数 \\(f(u,v)\\) 由关系式 \\(f[xg(y),y]=x+g(y)\\) 确定，其中函数 \\(g(y)\\) 可微，且 \\(g(y)\\ne0\\)，则 \\(\\frac{\\partial^2f}{\\partial u\\partial v}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(f(x)=\\begin{cases}xe^{x^2},&-\\frac12\\le x<\\frac12,\\\\-1,&x\\ge\\frac12,\\end{cases}\\) 则 \\(\\int_{1/2}^{1}f(x-1)\\,\\mathrm dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）二次型 \\(f(x_1,x_2,x_3)=(x_1+x_2)^2+(x_2-x_3)^2+(x_3+x_1)^2\\) 的秩为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X\\) 服从参数为 \\(\\lambda\\) 的指数分布，则 \\(P\\{X>\\sqrt{D(X)}\\}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）设总体 \\(X\\) 服从正态分布 \\(N(\\mu_1,\\sigma^2)\\)，总体 \\(Y\\) 服从正态分布 \\(N(\\mu_2,\\sigma^2)\\)，\\(X_1,\\ldots,X_{n_1}\\) 和 \\(Y_1,\\ldots,Y_{n_2}\\) 分别是来自总体 \\(X\\) 和 \\(Y\\) 的简单随机样本，则 \\(E\\left[\\frac{\\sum_{i=1}^{n_1}(X_i-\\bar X)^2+\\sum_{j=1}^{n_2}(Y_j-\\bar Y)^2}{n_1+n_2-2}\\right]=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共8小题，每小题4分，满分32分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）函数 \\(f(x)=\\frac{|x|\\sin(x-2)}{x(x-1)(x-2)^2}\\) 在下列哪个区间内有界（　）。\n（A）\\((-1,0)\\)。（B）\\((0,1)\\)。（C）\\((1,2)\\)。（D）\\((2,3)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设 \\(f(x)\\) 在 \\((-\\infty,+\\infty)\\) 内有定义，且 \\(\\lim_{x\\to\\infty}f(x)=a\\)，\\(g(x)=\\begin{cases}f(1/x),&x\\ne0,\\\\0,&x=0,\\end{cases}\\) 则（　）。\n（A）\\(x=0\\) 必是 \\(g(x)\\) 的第一类间断点。（B）\\(x=0\\) 必是 \\(g(x)\\) 的第二类间断点。（C）\\(x=0\\) 必是 \\(g(x)\\) 的连续点。（D）\\(g(x)\\) 在点 \\(x=0\\) 处的连续性与 \\(a\\) 的取值有关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）设 \\(f(x)=|x(1-x)|\\)，则（　）。\n（A）\\(x=0\\) 是 \\(f(x)\\) 的极值点，但 \\((0,0)\\) 不是曲线 \\(y=f(x)\\) 的拐点。（B）\\(x=0\\) 不是 \\(f(x)\\) 的极值点，但 \\((0,0)\\) 是曲线 \\(y=f(x)\\) 的拐点。（C）\\(x=0\\) 是 \\(f(x)\\) 的极值点，且 \\((0,0)\\) 是曲线 \\(y=f(x)\\) 的拐点。（D）\\(x=0\\) 不是 \\(f(x)\\) 的极值点，\\((0,0)\\) 也不是曲线 \\(y=f(x)\\) 的拐点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）设有以下命题：① 若 \\(\\sum_{n=1}^{\\infty}(u_{2n-1}+u_{2n})\\) 收敛，则 \\(\\sum_{n=1}^{\\infty}u_n\\) 收敛；② 若 \\(\\sum_{n=1}^{\\infty}u_n\\) 收敛，则 \\(\\sum_{n=1}^{\\infty}u_{n+100}\\) 收敛；"
+        }
+      ]
+    },
+    {
+      "source_page": 102,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（10）（续）③ 若 \\(\\lim_{n\\to\\infty}\\frac{u_{n+1}}{u_n}>1\\)，则 \\(\\sum_{n=1}^{\\infty}u_n\\) 发散；④ 若 \\(\\sum_{n=1}^{\\infty}(u_n+v_n)\\) 收敛，则 \\(\\sum_{n=1}^{\\infty}u_n\\)、\\(\\sum_{n=1}^{\\infty}v_n\\) 都收敛。则以上命题中正确的是（　）。（A）①②。（B）②③。（C）③④。（D）①④。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）设 \\(f^{\\prime}(x)\\) 在 \\([a,b]\\) 上连续，且 \\(f^{\\prime}(a)>0\\)，\\(f^{\\prime}(b)<0\\)，则下列结论中错误的是（　）。\n（A）至少存在一点 \\(x_0\\in(a,b)\\)，使得 \\(f(x_0)>f(a)\\)。（B）至少存在一点 \\(x_0\\in(a,b)\\)，使得 \\(f(x_0)>f(b)\\)。（C）至少存在一点 \\(x_0\\in(a,b)\\)，使得 \\(f^{\\prime}(x_0)=0\\)。（D）至少存在一点 \\(x_0\\in(a,b)\\)，使得 \\(f(x_0)=0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设 \\(n\\) 阶矩阵 \\(A\\) 与 \\(B\\) 等价，则必有（　）。\n（A）当 \\(|A|=a\\;(a\\ne0)\\) 时，\\(|B|=a\\)。（B）当 \\(|A|=a\\;(a\\ne0)\\) 时，\\(|B|=-a\\)。（C）当 \\(|A|\\ne0\\) 时，\\(|B|=0\\)。（D）当 \\(|A|=0\\) 时，\\(|B|=0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）设 \\(n\\) 阶矩阵 \\(A\\) 的伴随矩阵 \\(A^*\\ne O\\)，若 \\(\\xi_1,\\xi_2,\\xi_3,\\xi_4\\) 是非齐次线性方程组 \\(Ax=b\\) 的互不相等的解，则对应的齐次线性方程组 \\(Ax=0\\) 的基础解系（　）。\n（A）不存在。（B）仅含一个非零解向量。（C）含有两个线性无关的解向量。（D）含有三个线性无关的解向量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）设随机变量 \\(X\\) 服从正态分布 \\(N(0,1)\\)，对给定的 \\(\\alpha\\;(0<\\alpha<1)\\)，数 \\(u_\\alpha\\) 满足 \\(P\\{X>u_\\alpha\\}=\\alpha\\)。若 \\(P\\{|X|<x\\}=\\alpha\\)，则 \\(x\\) 等于（　）。\n（A）\\(u_{\\alpha/2}\\)。（B）\\(u_{1-\\alpha/2}\\)。（C）\\(u_{(1-\\alpha)/2}\\)。（D）\\(u_{1-\\alpha}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，满分94分。解答应写出文字说明、证明过程或演算步骤）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分8分）求 \\(\\lim_{x\\to0}\\left(\\frac1{\\sin^2x}-\\frac{\\cos^2x}{x^2}\\right)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分8分）求 \\(\\iint_D(\\sqrt{x^2+y^2}+y)\\,\\mathrm d\\sigma\\)，其中 \\(D\\) 是由圆 \\(x^2+y^2=4\\) 和 \\((x+1)^2+y^2=1\\) 所围成的平面区域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分8分）设 \\(f(x),g(x)\\) 在 \\([a,b]\\) 上连续，且满足 \\(\\int_a^xf(t)\\,\\mathrm dt\\ge\\int_a^xg(t)\\,\\mathrm dt\\; (x\\in[a,b))\\)，\\(\\int_a^bf(t)\\,\\mathrm dt=\\int_a^bg(t)\\,\\mathrm dt\\)，证明 \\(\\int_a^bxf(x)\\,\\mathrm dx\\le\\int_a^bxg(x)\\,\\mathrm dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分9分）设某商品的需求函数为 \\(Q=100-5P\\)，其中价格 \\(P\\in(0,20)\\)，\\(Q\\) 为需求量。（Ⅰ）求需求量对价格的弹性 \\(E_d\\;(E_d>0)\\)；（Ⅱ）推导 \\(\\frac{\\mathrm dR}{\\mathrm dP}=Q(1-E_d)\\)（其中 \\(R\\) 为收益），并用弹性 \\(E_d\\) 说明价格在何范围内变化时，降低价格反而使收益增加。"
+        }
+      ]
+    },
+    {
+      "source_page": 103,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分9分）设级数 \\(\\frac{x^4}{2\\times4}+\\frac{x^6}{2\\times4\\times6}+\\frac{x^8}{2\\times4\\times6\\times8}+\\cdots\\;(-\\infty<x<+\\infty)\\) 的和函数为 \\(S(x)\\)。求：（Ⅰ）\\(S(x)\\) 所满足的一阶微分方程；（Ⅱ）\\(S(x)\\) 的表达式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分13分）设 \\(\\alpha_1=(1,2,0)^{\\mathrm T}\\)，\\(\\alpha_2=(1,a+2,-3a)^{\\mathrm T}\\)，\\(\\alpha_3=(-1,-b-2,a+2b)^{\\mathrm T}\\)，\\(\\beta=(1,3,-3)^{\\mathrm T}\\)，试讨论当 \\(a,b\\) 为何值时，（Ⅰ）\\(\\beta\\) 不能由 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性表示；（Ⅱ）\\(\\beta\\) 可由它们唯一地线性表示，并求出表示式；（Ⅲ）\\(\\beta\\) 可由它们线性表示，但表示式不唯一，并求出表示式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分13分）设 \\(n\\) 阶矩阵 \\(A=\\begin{pmatrix}1&b&\\cdots&b\\\\b&1&\\cdots&b\\\\\\vdots&\\vdots&&\\vdots\\\\b&b&\\cdots&1\\end{pmatrix}\\)。（Ⅰ）求 \\(A\\) 的特征值和特征向量；（Ⅱ）求可逆矩阵 \\(P\\)，使得 \\(P^{-1}AP\\) 为对角矩阵。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分13分）设 \\(A,B\\) 为两个随机事件，且 \\(P(A)=\\frac14\\)，\\(P(B\\mid A)=\\frac13\\)，\\(P(A\\mid B)=\\frac12\\)。令 \\(X=\\begin{cases}1,&A\\text{发生},\\\\0,&A\\text{不发生},\\end{cases}\\quad Y=\\begin{cases}1,&B\\text{发生},\\\\0,&B\\text{不发生}.\\end{cases}\\) 求：（Ⅰ）二维随机变量 \\((X,Y)\\) 的概率分布；（Ⅱ）\\(X\\) 与 \\(Y\\) 的相关系数 \\(\\rho_{XY}\\)；（Ⅲ）\\(Z=X^2+Y^2\\) 的概率分布。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分13分）设随机变量 \\(X\\) 的分布函数为 \\(F(x;\\alpha,\\beta)=\\begin{cases}1-(\\frac\\alpha x)^\\beta,&x>\\alpha,\\\\0,&x\\le\\alpha,\\end{cases}\\) 其中参数 \\(\\alpha>0\\)，\\(\\beta>1\\)。设 \\(X_1,X_2,\\ldots,X_n\\) 为来自总体 \\(X\\) 的简单随机样本。（Ⅰ）当 \\(\\alpha=1\\) 时，求未知参数 \\(\\beta\\) 的矩估计量；（Ⅱ）当 \\(\\alpha=1\\) 时，求未知参数 \\(\\beta\\) 的最大似然估计量；（Ⅲ）当 \\(\\beta=2\\) 时，求未知参数 \\(\\alpha\\) 的最大似然估计量。"
+        }
+      ]
+    },
+    {
+      "source_page": 126,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2004年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(1;-4\\)。（2）\\(-\\frac{g^{\\prime}(v)}{[g(v)]^2}\\)。（3）\\(-\\frac12\\)。（4）\\(2\\)。（5）\\(\\frac1e\\)。（6）\\(\\sigma^2\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）A。（8）D。（9）C。（10）B。（11）D。（12）D。（13）B。（14）C。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）\\(\\frac43\\)。 （16）\\(\\frac{16}{9}(3\\pi-2)\\)。 （17）证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（Ⅰ）\\(E_d=\\frac P{20-P}\\)。（Ⅱ）当 \\(10<P<20\\) 时，价格降低反而使收益增加。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（Ⅰ）\\(y^{\\prime}=xy+\\frac{x^3}{2}\\)，初始条件为 \\(y(0)=0\\)。（Ⅱ）\\(S(x)=e^{x^2/2}-\\frac{x^2}{2}-1\\;(-\\infty<x<+\\infty)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（Ⅰ）当 \\(a=0\\)，\\(b\\) 为任意常数时，\\(\\beta\\) 不能由 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性表示。（Ⅱ）当 \\(a\\ne0\\) 且 \\(a\\ne b\\) 时，\\(\\beta\\) 能唯一地线性表示为 \\(\\beta=(1-\\frac1a)\\alpha_1+\\frac1a\\alpha_2\\)。（Ⅲ）当 \\(a=b\\ne0\\) 时，\\(\\beta\\) 可线性表示但不唯一：\\(\\beta=(1-\\frac1a)\\alpha_1+(\\frac1a+k)\\alpha_2+k\\alpha_3\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅰ）当 \\(b=0\\) 或 \\(n=1\\) 时，\\(A=E\\)，\\(A\\) 的特征值 \\(\\lambda_1=\\cdots=\\lambda_n=1\\)，任意非零列向量均为 \\(A\\) 的特征向量。当 \\(b\\ne0\\) 且 \\(n\\ge2\\) 时，\\(\\lambda_1=1+(n-1)b\\)，\\(\\lambda_2=\\cdots=\\lambda_n=1-b\\)；前者的特征向量为 \\(k_1(1,1,\\ldots,1)^{\\mathrm T}\\)，后者的特征向量为 \\(k_2(1,-1,0,\\ldots,0)^{\\mathrm T}+\\cdots+k_n(1,0,\\ldots,0,-1)^{\\mathrm T}\\)，其中 \\(k_i\\) 不全为零。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅱ）\\(P=\\begin{pmatrix}1&1&1&\\cdots&1\\\\1&-1&0&\\cdots&0\\\\1&0&-1&\\cdots&0\\\\\\vdots&\\vdots&\\vdots&&\\vdots\\\\1&0&\\cdots&0&-1\\end{pmatrix}\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 127,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\((X,Y)\\) 的概率分布为 \\(\\begin{array}{c|cccc}(X,Y)&(0,0)&(0,1)&(1,0)&(1,1)\\\\\\hline P&\\frac23&\\frac1{12}&\\frac16&\\frac1{12}\\end{array}\\)。（Ⅱ）\\(\\rho_{XY}=\\frac1{\\sqrt{15}}\\)。（Ⅲ）\\(P\\{Z=0\\}=\\frac23\\)，\\(P\\{Z=1\\}=\\frac14\\)，\\(P\\{Z=2\\}=\\frac1{12}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(\\hat\\beta=\\frac{\\bar X}{\\bar X-1}\\)。（Ⅱ）\\(\\hat\\beta=\\frac n{\\sum_{i=1}^n\\ln X_i}\\)。（Ⅲ）\\(\\hat\\alpha=\\min\\{X_1,X_2,\\ldots,X_n\\}\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

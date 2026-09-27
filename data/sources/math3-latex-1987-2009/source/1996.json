@@ -1,0 +1,434 @@
+{
+  "year": 1996,
+  "pages": [
+    {
+      "source_page": 55,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1996 年全国硕士研究生招生考试试题（试卷 IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设方程 \\(x=y^y\\) 确定 \\(y\\) 是 \\(x\\) 的函数，则 \\(dy=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设 \\(\\int xf(x)\\,dx=\\arcsin x+C\\)，则 \\(\\int\\frac1{f(x)}\\,dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\((x_0,y_0)\\) 是抛物线 \\(y=ax^2+bx+c\\) 上的一点。若在该点的切线过原点，则系数应满足的关系是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A=\\begin{pmatrix}1&1&1&\\cdots&1\\\\a_1&a_2&a_3&\\cdots&a_n\\\\a_1^2&a_2^2&a_3^2&\\cdots&a_n^2\\\\\\vdots&\\vdots&\\vdots&&\\vdots\\\\a_1^{n-1}&a_2^{n-1}&a_3^{n-1}&\\cdots&a_n^{n-1}\\end{pmatrix},\\ X=(x_1,x_2,\\ldots,x_n)^{\\mathrm T},\\ B=(1,1,\\ldots,1)^{\\mathrm T}\\)，其中 \\(a_i\\ne a_j\\)（\\(i\\ne j;i,j=1,2,\\ldots,n\\)），则线性方程组 \\(A^{\\mathrm T}X=B\\) 的解是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）（超纲题）设由来自正态总体 \\(X\\sim N(\\mu,0.9^2)\\) 容量为 9 的简单随机样本，得样本均值 \\(\\bar X=5\\)，则未知参数 \\(\\mu\\) 的置信度为 0.95 的置信区间是______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）累次积分 \\(\\int_0^{\\pi/2}d\\theta\\int_0^{\\cos\\theta}f(r\\cos\\theta,r\\sin\\theta)r\\,dr\\) 可以写成（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\int_0^1dy\\int_0^{\\sqrt{y-y^2}}f(x,y)\\,dx\\)。 （B）\\(\\int_0^1dy\\int_0^{\\sqrt{1-y^2}}f(x,y)\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）\\(\\int_0^1dx\\int_0^1f(x,y)\\,dy\\)。 （D）\\(\\int_0^1dx\\int_0^{\\sqrt{x-x^2}}f(x,y)\\,dy\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）下述各选项正确的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）若 \\(\\sum_{n=1}^{\\infty}u_n^2\\) 和 \\(\\sum_{n=1}^{\\infty}v_n^2\\) 都收敛，则 \\(\\sum_{n=1}^{\\infty}(u_n+v_n)^2\\) 收敛。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（B）若 \\(\\sum_{n=1}^{\\infty}|u_nv_n|\\) 收敛，则 \\(\\sum_{n=1}^{\\infty}u_n^2\\) 与 \\(\\sum_{n=1}^{\\infty}v_n^2\\) 都收敛。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）若正项级数 \\(\\sum_{n=1}^{\\infty}u_n\\) 发散，则 \\(u_n\\geq\\frac1n\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（D）若级数 \\(\\sum_{n=1}^{\\infty}u_n\\) 收敛，且 \\(u_n\\geq v_n\\)（\\(n=1,2,\\ldots\\)），则级数 \\(\\sum_{n=1}^{\\infty}v_n\\) 也收敛。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(n\\) 阶矩阵 \\(A\\) 非奇异（\\(n\\geq2\\)），\\(A^*\\) 是矩阵 \\(A\\) 的伴随矩阵，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\((A^*)^*=|A|^{n-1}A\\)。 （B）\\((A^*)^*=|A|^{n+1}A\\)。 （C）\\((A^*)^*=|A|^{n-2}A\\)。 （D）\\((A^*)^*=|A|^{n+2}A\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 56,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "试卷 IV（续）"
+        },
+        {
+          "type": "paragraph",
+          "text": "二、（4）设有任意两个 \\(n\\) 维向量组 \\(\\alpha_1,\\ldots,\\alpha_m\\) 和 \\(\\beta_1,\\ldots,\\beta_m\\)，若存在两组不全为零的数 \\(\\lambda_1,\\ldots,\\lambda_m\\) 和 \\(k_1,\\ldots,k_m\\)，使 \\((\\lambda_1+k_1)\\alpha_1+\\cdots+(\\lambda_m+k_m)\\alpha_m+(\\lambda_1-k_1)\\beta_1+\\cdots+(\\lambda_m-k_m)\\beta_m=0\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\alpha_1,\\ldots,\\alpha_m\\) 和 \\(\\beta_1,\\ldots,\\beta_m\\) 都线性相关。 （B）\\(\\alpha_1,\\ldots,\\alpha_m\\) 和 \\(\\beta_1,\\ldots,\\beta_m\\) 都线性无关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）\\(\\alpha_1+\\beta_1,\\ldots,\\alpha_m+\\beta_m,\\alpha_1-\\beta_1,\\ldots,\\alpha_m-\\beta_m\\) 线性无关。 （D）\\(\\alpha_1+\\beta_1,\\ldots,\\alpha_m+\\beta_m,\\alpha_1-\\beta_1,\\ldots,\\alpha_m-\\beta_m\\) 线性相关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）已知 \\(0<P(B)<1\\) 且 \\(P[(A_1+A_2)\\mid B]=P(A_1\\mid B)+P(A_2\\mid B)\\)，则下列选项成立的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P[(A_1+A_2)\\mid\\bar B]=P(A_1\\mid\\bar B)+P(A_2\\mid\\bar B)\\)。 （B）\\(P(A_1B+A_2B)=P(A_1B)+P(A_2B)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）\\(P(A_1+A_2)=P(A_1\\mid B)+P(A_2\\mid B)\\)。 （D）\\(P(B)=P(A_1)P(B\\mid A_1)+P(A_2)P(B\\mid A_2)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（本题满分 6 分）设 \\(f(x)=\\begin{cases}\\frac{g(x)-e^{-x}}x,&x\\ne0,\\\\0,&x=0,\\end{cases}\\) 其中 \\(g(x)\\) 有二阶连续导数，且 \\(g(0)=1,g^{\\prime}(0)=-1\\)。（1）求 \\(f^{\\prime}(x)\\)；（2）讨论 \\(f^{\\prime}(x)\\) 在 \\(( -\\infty,+\\infty)\\) 上的连续性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（本题满分 6 分）设函数 \\(z=f(u)\\)，方程 \\(u=\\varphi(u)+\\int_y^x p(t)\\,dt\\) 确定 \\(u\\) 是 \\(x,y\\) 的函数，其中 \\(f(u),\\varphi(u)\\) 可微；\\(p(t),\\varphi^{\\prime}(u)\\) 连续，且 \\(\\varphi^{\\prime}(u)\\ne1\\)。求 \\(p(y)\\frac{\\partial z}{\\partial x}+p(x)\\frac{\\partial z}{\\partial y}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、（本题满分 6 分）计算 \\(\\int_0^{+\\infty}\\frac{xe^{-x}}{(1+e^{-x})^2}\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（本题满分 5 分）设 \\(f(x)\\) 在区间 \\([0,1]\\) 上可微，且满足条件 \\(f(1)=2\\int_0^{1/2}xf(x)\\,dx\\)。试证：存在 \\(\\xi\\in(0,1)\\)，使 \\(f(\\xi)+\\xi f^{\\prime}(\\xi)=0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（本题满分 6 分）设某种商品的单价为 \\(p\\) 时，售出的商品数量 \\(Q\\) 可以表示成 \\(Q=\\frac a{p+b}-c\\)，其中 \\(a,b,c\\) 均为正常数，且 \\(a>bc\\)。（1）求 \\(p\\) 在何范围变化时，使相应销售额增加或减少；（2）要使销售额最大，商品单价 \\(p\\) 应取何值？最大销售额是多少？"
+        }
+      ]
+    },
+    {
+      "source_page": 57,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "试卷 IV（续）"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、（本题满分 6 分）求微分方程 \\(\\frac{dy}{dx}=\\frac{y-\\sqrt{x^2+y^2}}x\\) 的通解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、（本题满分 8 分）设矩阵 \\(A=\\begin{pmatrix}0&1&0&0\\\\1&0&0&0\\\\0&0&y&1\\\\0&0&1&2\\end{pmatrix}\\)。（1）已知 \\(A\\) 的一个特征值为 3，试求 \\(y\\)；（2）求可逆矩阵 \\(P\\)，使 \\((AP)^{\\mathrm T}(AP)\\) 为对角矩阵。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（本题满分 8 分）设向量组 \\(\\alpha_1,\\alpha_2,\\ldots,\\alpha_t\\) 是齐次线性方程组 \\(Ax=0\\) 的一个基础解系，向量 \\(\\beta\\) 不是方程组 \\(Ax=0\\) 的解，即 \\(A\\beta\\ne0\\)。试证明：向量组 \\(\\beta,\\beta+\\alpha_1,\\beta+\\alpha_2,\\ldots,\\beta+\\alpha_t\\) 线性无关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（本题满分 7 分）假设一部机器在一天内发生故障的概率为 0.2，机器发生故障时全天停止工作。若一周 5 个工作日里无故障，可获利润 10 万元；发生一次故障仍可获利润 5 万元；发生二次故障所获利润 0 元；发生三次或三次以上故障就要亏损 2 万元。求一周内利润的期望是多少？"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、（本题满分 6 分）考虑一元二次方程 \\(x^2+Bx+C=0\\)，其中 \\(B,C\\) 分别是将一枚色子（骰子）接连掷两次先后出现的点数，求该方程有实根的概率 \\(p\\) 和有重根的概率 \\(q\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十三、（本题满分 6 分）假设 \\(X_1,X_2,\\ldots,X_n\\) 是来自总体 \\(X\\) 的简单随机样本。已知 \\(E(X^k)=\\alpha_k\\)（\\(k=1,2,3,4\\)）。证明：当 \\(n\\) 充分大时，随机变量 \\(Z_n=\\frac1n\\sum_{i=1}^nX_i^2\\) 近似服从正态分布，并指出其分布参数。"
+        },
+        {
+          "type": "heading",
+          "text": "1996 年全国硕士研究生招生考试试题（试卷 V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷 IV 第一、（1）题】 （2）【同试卷 IV 第一、（2）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(y=\\ln\\left(x+\\sqrt{1+x^2}\\right)\\)，则 \\(\\left.y^{\\prime\\prime\\prime}\\right|_{x=\\sqrt3}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）5 阶行列式 \\(\\begin{vmatrix}1-a&a&0&0&0\\\\-1&1-a&a&0&0\\\\0&-1&1-a&a&0\\\\0&0&-1&1-a&a\\\\0&0&0&-1&1-a\\end{vmatrix}=\\)______。"
+        }
+      ]
+    },
+    {
+      "source_page": 58,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "试卷 V（续）"
+        },
+        {
+          "type": "paragraph",
+          "text": "一、（5）一实习生用同一台机器接连独立地制造 3 个同种零件，第 \\(i\\) 个零件是不合格品的概率 \\(P_i=\\frac1{i+1}\\)（\\(i=1,2,3\\)），以 \\(X\\) 表示 3 个零件中合格品的个数，则 \\(P\\{X=2\\}=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(f^{\\prime}(x_0)=f^{\\prime\\prime}(x_0)=0, f^{\\prime\\prime\\prime}(x_0)>0\\)，则下列选项正确的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f^{\\prime}(x_0)\\) 是 \\(f^{\\prime}(x)\\) 的极大值。 （B）\\(f(x_0)\\) 是 \\(f(x)\\) 的极大值。 （C）\\(f(x_0)\\) 是 \\(f(x)\\) 的极小值。 （D）\\((x_0,f(x_0))\\) 是曲线 \\(y=f(x)\\) 的拐点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设 \\(f(x)\\) 处处可导，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）当 \\(\\lim_{x\\to+\\infty}f^{\\prime}(x)=+\\infty\\) 时，必有 \\(\\lim_{x\\to+\\infty}f(x)=+\\infty\\)。 （B）当 \\(\\lim_{x\\to+\\infty}f(x)=+\\infty\\) 时，必有 \\(\\lim_{x\\to+\\infty}f^{\\prime}(x)=+\\infty\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）当 \\(\\lim_{x\\to-\\infty}f^{\\prime}(x)=-\\infty\\) 时，必有 \\(\\lim_{x\\to-\\infty}f(x)=-\\infty\\)。 （D）当 \\(\\lim_{x\\to-\\infty}f(x)=-\\infty\\) 时，必有 \\(\\lim_{x\\to-\\infty}f^{\\prime}(x)=-\\infty\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）【同试卷 IV 第二、（3）题】 （4）【同试卷 IV 第二、（4）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设 \\(A,B\\) 为任意两个事件，且 \\(A\\subset B, P(B)>0\\)，则下列选项必然成立的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P(A)<P(A\\mid B)\\)。 （B）\\(P(A)\\leq P(A\\mid B)\\)。 （C）\\(P(A)>P(A\\mid B)\\)。 （D）\\(P(A)\\geq P(A\\mid B)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（本题满分 6 分）【同试卷 IV 第三题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（本题满分 7 分）设 \\(f(x,y)=\\int_0^{xy}e^{-t^2}\\,dt\\)，求 \\(\\frac xy\\frac{\\partial^2f}{\\partial x^2}-2\\frac{\\partial^2f}{\\partial x\\partial y}+\\frac yx\\frac{\\partial^2f}{\\partial y^2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、（本题满分 6 分）【同试卷 IV 第五题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（本题满分 7 分）【同试卷 IV 第六题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（本题满分 9 分）已知一抛物线通过 \\(x\\) 轴上的两点 \\(A(1,0),B(3,0)\\)。（1）求证：两坐标轴与该抛物线所围图形的面积等于 \\(x\\) 轴与该抛物线所围图形的面积；（2）计算上述两平面图形绕 \\(x\\) 轴旋转一周所产生的两个旋转体体积之比。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、（本题满分 6 分）设 \\(f(x)\\) 在 \\([a,b]\\) 上连续，在 \\((a,b)\\) 内可导，且 \\(\\frac1{b-a}\\int_a^b f(x)\\,dx=f(b)\\)。求证：在 \\((a,b)\\) 内至少存在一点 \\(\\xi\\)，使 \\(f^{\\prime}(\\xi)=0\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 59,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "试卷 V（续）"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、（本题满分 9 分）已知线性方程组 \\(\\begin{cases}x_1+x_2-2x_3+3x_4=0,\\\\2x_1+x_2-6x_3+4x_4=-1,\\\\3x_1+2x_2+px_3+7x_4=-1,\\\\x_1-x_2-6x_3-x_4=t.\\end{cases}\\) 讨论参数 \\(p,t\\) 取何值时，方程组有解、无解；当有解时，试用其导出组的基础解系表示其通解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（本题满分 7 分）设有 4 阶方阵 \\(A\\) 满足条件 \\(|3E+A|=0,\\ AA^{\\mathrm T}=2E,\\ |A|<0\\)，其中 \\(E\\) 是 4 阶单位阵。求方阵 \\(A\\) 的伴随矩阵 \\(A^*\\) 的一个特征值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（本题满分 7 分）【同试卷 IV 第十一题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、（本题满分 6 分）假设一电路装有三个同种电气元件，其工作状态相互独立，且无故障工作的时间都服从参数为 \\(\\lambda>0\\) 的指数分布。当三个元件都无故障时，电路正常工作，否则整个电路不能正常工作。试求电路正常工作的时间 \\(T\\) 的概率分布。"
+        }
+      ]
+    },
+    {
+      "source_page": 78,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1996 年真题参考答案（试卷 IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\frac{dx}{x(1+\\ln y)}\\)。 （2）\\(-\\frac13\\sqrt{(1-x^2)^3}+C\\)，其中 \\(C\\) 为任意常数。 （3）\\(\\frac ca\\geq0\\)，\\(b\\) 任意。 （4）\\((1,0,\\ldots,0)^{\\mathrm T}\\)。 （5）\\((4.412,5.588)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）D。 （2）A。 （3）C。 （4）D。 （5）B。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（1）\\(f^{\\prime}(x)=\\begin{cases}\\frac{xg^{\\prime}(x)-g(x)+(x+1)e^{-x}}{x^2},&x\\ne0,\\\\\\frac{g^{\\prime\\prime}(0)-1}{2},&x=0.\\end{cases}\\)（2）\\(f^{\\prime}(x)\\) 在 \\((-\\infty,+\\infty)\\) 上连续。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、0。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、\\(\\ln2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、证明略。（可利用积分中值定理和罗尔定理。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（1）当 \\(0<p<\\sqrt{\\frac bc}(\\sqrt a-\\sqrt{bc})\\) 时，随单价 \\(p\\) 增加，相应的销售额增加；当 \\(p>\\sqrt{\\frac bc}(\\sqrt a-\\sqrt{bc})\\) 时，随单价 \\(p\\) 增加，相应的销售额减少。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）当 \\(p=\\sqrt{\\frac bc}(\\sqrt a-\\sqrt{bc})\\) 时，销售额取最大值，最大销售额是 \\((\\sqrt a-\\sqrt{bc})^2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、原方程的通解为 \\(y+\\sqrt{x^2+y^2}=C\\)（\\(x>0\\)），其中 \\(C\\) 为任意非零常数。当 \\(x<0\\) 时，原方程的解与 \\(x>0\\) 时相同。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、（1）\\(y=2\\)。（2）\\(P=\\begin{pmatrix}1&0&0&0\\\\0&1&0&0\\\\0&0&1&-\\frac45\\\\0&0&0&1\\end{pmatrix}\\)，\\((AP)^{\\mathrm T}(AP)\\) 为对角矩阵。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、证明略。（可利用向量组线性无关的定义。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、5.216 万元。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、\\(p=\\frac{19}{36},\\ q=\\frac1{18}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十三、证明略。（使用中心极限定理。）\\(Z_n\\) 近似服从参数为 \\(\\mu=\\alpha_2,\\ \\sigma^2=\\frac{\\alpha_4-\\alpha_2^2}{n}\\) 的正态分布。"
+        }
+      ]
+    },
+    {
+      "source_page": 79,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1996 年真题参考答案（试卷 V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷 IV 第一、（1）题】 （2）【同试卷 IV 第一、（2）题】 （3）\\(\\frac5{32}\\)。 （4）\\(1-a+a^2-a^3+a^4-a^5\\)。 （5）\\(\\frac{11}{24}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）D。 （2）A。 （3）【同试卷 IV 第二、（3）题】 （4）【同试卷 IV 第二、（4）题】 （5）B。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、【同试卷 IV 第三题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、\\(-2e^{-x^2y^2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、【同试卷 IV 第五题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、【同试卷 IV 第六题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（1）证明略。（利用定积分求面积。）（2）记抛物线与两坐标轴所围图形绕 x 轴旋转所得旋转体体积为 \\(V_1\\)，抛物线与 x 轴所围图形绕 x 轴旋转所得旋转体体积为 \\(V_2\\)，则 \\(V_1/V_2=19/8\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、证明略。（可利用积分中值定理和罗尔定理。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、当 \\(t\\ne-2\\) 时，方程组无解；当 \\(t=-2\\) 时，方程组有解，此时分两种情况：当 \\(p=-8\\) 时，方程组的通解为 \\(x=k_1(4,-2,1,0)^{\\mathrm T}+k_2(-1,-2,0,1)^{\\mathrm T}+(-1,1,0,0)^{\\mathrm T}\\)，其中 \\(k_1,k_2\\) 为任意常数；当 \\(p\\ne-8\\) 时，方程组的通解为 \\(x=k(-1,-2,0,1)^{\\mathrm T}+(-1,1,0,0)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、\\(\\frac43\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、【同试卷 IV 第十一题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、\\(G(t)=\\begin{cases}1-e^{-3\\lambda t},&t>0,\\\\0,&t\\leq0.\\end{cases}\\)\\(T\\) 服从参数为 \\(3\\lambda\\) 的指数分布。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "原PDF第59页试卷V第十题同时印有 |3E+A|=0、AAᵀ=2E，两条件不相容；第79页参考答案印为4/3。题目和答案均按原稿转录，未自行纠正。"
+  ]
+}

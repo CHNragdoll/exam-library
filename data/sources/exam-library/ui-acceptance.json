@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-09-27T04:29:28.979945+00:00",
+  "documents": 335,
+  "reader_pages": 670,
+  "paired_versions_verified": 335,
+  "catalog_dom_checks": 25,
+  "reader_dom_scenarios": 13,
+  "exam_html_byte_preserved": true,
+  "html_hash_records": 670,
+  "independent_review": "passed; mobile settings panel positioning fixed; comparison increment reviewed",
+  "browser_tested": false,
+  "browser_limitation": "Explicit browser URL policy denied file:// after user authorization. No alternate surface or local server workaround attempted. Actual layout, local iframe display and cross-file storage remain unverified.",
+  "assets": {
+    "ui/tokens.css": "e864c496943bb8fc1576766879301f43002a98cf72dd94dbbed16161f355a962",
+    "ui/catalog.css": "cbef2d821c95c93823d972543a09296308cc08283d1e2813858723577257993b",
+    "ui/catalog.js": "be6dbf6698f8a8255de84c8cf29bd7ba4324e160986f01a71abbc34b46e67859",
+    "ui/reader.css": "2020bf42a59d0e572dcdf118840a37179c11fe5ae77f03d4b14a1eb9a526b8a2",
+    "ui/reader.js": "2aeb5489d8352f6b45e0ccec6761677fd9f2da590a68216b8fa9b3e990f9fa02",
+    "ui/reader.test.cjs": "b2d770a85f639b0867f119f743820a99140cbe45c492e38b97deab7869a11c80",
+    "ui/test_catalog.cjs": "2e10ae563b682a7ff4512db1bc80598eac29f8f268191f593a8de11ad72639a6",
+    "enhance_readers.py": "241a049a9963cab591988b2910ba95e48066e1bdf1a01064422c015aad4f1011",
+    "build.py": "756e71433b12a1271643686a8aeb0462746d42c2525a227207604c9d13ef67b7"
+  },
+  "historical": true,
+  "superseded_by": "../../../docs/CHANGE_2026-09-27.md"
+}

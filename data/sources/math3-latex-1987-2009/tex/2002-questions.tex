@@ -1,0 +1,107 @@
+\documentclass[UTF8,12pt]{ctexart}
+\usepackage[a4paper,margin=24mm]{geometry}
+\usepackage{amsmath,amssymb,bm,graphicx,adjustbox}
+\newcommand{\fitmath}[1]{\begin{adjustbox}{max width=\linewidth}$\displaystyle #1$\end{adjustbox}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{.7em}
+\sloppy
+\allowdisplaybreaks
+\begin{document}
+\section*{2002 年考研数学三 · 真题}
+\subsection*{2002年全国硕士研究生招生考试试题}
+
+\subsection*{一、填空题（本题共5小题，每小题3分，满分15分）}
+
+（1）设常数 \(\displaystyle a\ne\dfrac{\displaystyle 1}{\displaystyle 2}\)，则 \(\displaystyle \lim_{n\to\infty}\ln\left[\dfrac{\displaystyle n-2na+1}{\displaystyle n(1-2a)}\right]^n=\)\_\_\_\_\_\_。
+
+
+（2）交换积分次序：\(\displaystyle \int_0^{1/4}\mathrm dy\displaystyle \int_y^{\sqrt y}f(x,\allowbreak y)\,\mathrm dx+\displaystyle \int_{1/4}^{1/2}\mathrm dy\displaystyle \int_y^{1/2}f(x,\allowbreak y)\,\mathrm dx=\)\_\_\_\_\_\_。
+
+
+（3）设3阶矩阵 \(\displaystyle A=\begin{pmatrix}1&2&-2\\2&1&2\\3&0&4\end{pmatrix}\)，3维列向量 \(\displaystyle \alpha=(a,\allowbreak 1,\allowbreak 1)^{\mathrm T}\)。已知 \(\displaystyle A\alpha\) 与 \(\displaystyle \alpha\) 线性相关，则 \(\displaystyle a=\)\_\_\_\_\_\_。
+
+
+（4）设随机变量 \(\displaystyle X\) 和 \(\displaystyle Y\) 的联合概率分布为 \(\displaystyle \begin{array}{c|ccc}Y\backslash X&-1&0&1\\\hline 0&0.07&0.18&0.15\\1&0.08&0.32&0.20\end{array}\)，则 \(\displaystyle X^2\) 和 \(\displaystyle Y^2\) 的协方差 \(\displaystyle \operatorname{Cov}(X^2,\allowbreak Y^2)=\)\_\_\_\_\_\_。
+
+
+（5）设总体 \(\displaystyle X\) 的概率密度为 \(\displaystyle f(x;\theta)=\begin{cases}e^{-(x-\theta)},\allowbreak &x\ge\theta,\allowbreak \\0,\allowbreak &x<\theta,\allowbreak \end{cases}\) 而 \(\displaystyle X_1,\allowbreak X_2,\allowbreak \ldots,\allowbreak X_n\) 是来自总体 \(\displaystyle X\) 的简单随机样本，则未知参数 \(\displaystyle \theta\) 的矩估计量为\_\_\_\_\_\_。
+
+
+\subsection*{二、选择题（本题共5小题，每小题3分，满分15分）}
+
+（1）设函数 \(\displaystyle f(x)\) 在闭区间 \(\displaystyle [a,\allowbreak b]\) 上有定义，在开区间 \(\displaystyle (a,\allowbreak b)\) 内可导，则（　）。
+（A）当 \(\displaystyle f(a)f(b)<0\) 时，存在 \(\displaystyle \xi\in(a,\allowbreak b)\)，使 \(\displaystyle f(\xi)=0\)。（B）对任何 \(\displaystyle \xi\in(a,\allowbreak b)\)，有 \(\displaystyle \lim_{x\to\xi}[f(x)-f(\xi)]=0\)。（C）当 \(\displaystyle f(a)=f(b)\) 时，存在 \(\displaystyle \xi\in(a,\allowbreak b)\)，使 \(\displaystyle f^{\prime}(\xi)=0\)。（D）存在 \(\displaystyle \xi\in(a,\allowbreak b)\)，使 \(\displaystyle f(b)-f(a)=f^{\prime}(\xi)(b-a)\)。
+
+
+（2）（原考题有误，见参考答案说明及修正）设幂级数 \(\displaystyle \sum_{n=1}^{\infty}a_nx^n\) 与 \(\displaystyle \sum_{n=1}^{\infty}b_nx^n\) 的收敛半径分别为 \(\displaystyle \dfrac{\displaystyle \sqrt5}{\displaystyle 3}\) 与 \(\displaystyle \dfrac{\displaystyle 1}{\displaystyle 3}\)，则幂级数 \(\displaystyle \sum_{n=1}^{\infty}\dfrac{\displaystyle a_n^2}{\displaystyle b_n^2}x^n\) 的收敛半径为（　）。
+（A）\(\displaystyle 5\)。（B）\(\displaystyle \dfrac{\displaystyle \sqrt5}{\displaystyle 3}\)。（C）\(\displaystyle \dfrac{\displaystyle 1}{\displaystyle 3}\)。（D）\(\displaystyle \dfrac{\displaystyle 1}{\displaystyle 5}\)。
+
+
+（3）设 \(\displaystyle A\) 是 \(\displaystyle m\times n\) 矩阵，\(\displaystyle B\) 是 \(\displaystyle n\times m\) 矩阵，则线性方程组 \(\displaystyle (AB)x=0\)（　）。
+（A）当 \(\displaystyle n>m\) 时仅有零解。（B）当 \(\displaystyle n>m\) 时必有非零解。（C）当 \(\displaystyle m>n\) 时仅有零解。（D）当 \(\displaystyle m>n\) 时必有非零解。
+
+
+（4）设 \(\displaystyle A\) 是 \(\displaystyle n\) 阶实对称矩阵，\(\displaystyle P\) 是 \(\displaystyle n\) 阶可逆矩阵。已知 \(\displaystyle n\) 维列向量 \(\displaystyle \alpha\) 是 \(\displaystyle A\) 的属于特征值 \(\displaystyle \lambda\) 的特征向量，则矩阵 \(\displaystyle (P^{-1}AP)^{\mathrm T}\) 属于特征值 \(\displaystyle \lambda\) 的特征向量是（　）。
+（A）\(\displaystyle P^{-1}\alpha\)。（B）\(\displaystyle P^{\mathrm T}\alpha\)。（C）\(\displaystyle P\alpha\)。（D）\(\displaystyle (P^{-1})^{\mathrm T}\alpha\)。
+
+
+（5）设随机变量 \(\displaystyle X\) 和 \(\displaystyle Y\) 都服从标准正态分布，则（　）。
+（A）\(\displaystyle X+Y\) 服从正态分布。（B）\(\displaystyle X^2+Y^2\) 服从 \(\displaystyle \chi^2\) 分布。（C）\(\displaystyle X^2\) 和 \(\displaystyle Y^2\) 都服从 \(\displaystyle \chi^2\) 分布。（D）\(\displaystyle \dfrac{\displaystyle X^2}{\displaystyle Y^2}\) 服从 \(\displaystyle F\) 分布。
+
+
+\subsection*{三、（本题满分5分）}
+
+求极限 \(\displaystyle \lim_{x\to0}\dfrac{\displaystyle \int_0^x\left[\displaystyle \int_0^{u^2}\arctan(1+t)\,\mathrm dt\right]\mathrm du}{\displaystyle x(1-\cos x)}\)。
+
+
+\subsection*{四、（本题满分7分）}
+
+设函数 \(\displaystyle u=f(x,\allowbreak y,\allowbreak z)\) 有连续偏导数，且 \(\displaystyle z=z(x,\allowbreak y)\) 由方程 \(\displaystyle xe^x-ye^y=ze^z\) 所确定，求 \(\displaystyle \mathrm du\)。
+
+
+\subsection*{五、（本题满分6分）}
+
+设 \(\displaystyle f(\sin^2x)=\dfrac{\displaystyle x}{\displaystyle \sin x}\)，求 \(\displaystyle \int\dfrac{\displaystyle \sqrt x}{\displaystyle \sqrt{1-x}}f(x)\,\mathrm dx\)。
+
+
+\subsection*{六、（本题满分7分）}
+
+设 \(\displaystyle D_1\) 是由抛物线 \(\displaystyle y=2x^2\) 和直线 \(\displaystyle x=a,\allowbreak x=2\) 及 \(\displaystyle y=0\) 所围成的平面区域；\(\displaystyle D_2\) 是由抛物线 \(\displaystyle y=2x^2\) 和直线 \(\displaystyle y=0,\allowbreak x=a\) 所围成的平面区域，其中 \(\displaystyle 0<a<2\)。（1）试求 \(\displaystyle D_1\) 绕 \(\displaystyle x\) 轴旋转而成的旋转体体积 \(\displaystyle V_1\)；\(\displaystyle D_2\) 绕 \(\displaystyle y\) 轴旋转而成的旋转体体积 \(\displaystyle V_2\)；（2）问当 \(\displaystyle a\) 为何值时，\(\displaystyle V_1+V_2\) 取得最大值？试求此最大值。
+
+
+\subsection*{七、（本题满分7分）}
+
+（1）验证函数 \(\displaystyle y(x)=1+\dfrac{\displaystyle x^3}{\displaystyle 3!}+\dfrac{\displaystyle x^6}{\displaystyle 6!}+\dfrac{\displaystyle x^9}{\displaystyle 9!}+\cdots+\dfrac{\displaystyle x^{3n}}{\displaystyle (3n)!}+\cdots\;(-\infty<x<+\infty)\) 满足微分方程 \(\displaystyle y^{\prime\prime}+y^{\prime}+y=e^x\)；（2）利用（1）的结果求幂级数 \(\displaystyle \sum_{n=0}^{\infty}\dfrac{\displaystyle x^{3n}}{\displaystyle (3n)!}\) 的和函数。
+
+
+\subsection*{八、（本题满分6分）}
+
+设函数 \(\displaystyle f(x),\allowbreak g(x)\) 在 \(\displaystyle [a,\allowbreak b]\) 上连续，且 \(\displaystyle g(x)>0\)。利用闭区间上连续函数的性质，证明存在一点 \(\displaystyle \xi\in[a,\allowbreak b]\)，使 \(\displaystyle \int_a^b f(x)g(x)\,\mathrm dx=f(\xi)\displaystyle \int_a^b g(x)\,\mathrm dx\)。
+
+
+\subsection*{九、（本题满分8分）}
+
+设齐次线性方程组
+
+
+\[\fitmath{\displaystyle \begin{cases}ax_1+bx_2+bx_3+\cdots+bx_n=0,\\bx_1+ax_2+bx_3+\cdots+bx_n=0,\\\cdots,\\bx_1+bx_2+bx_3+\cdots+ax_n=0.\end{cases}}\]
+
+
+其中 \(\displaystyle a\ne0,\allowbreak b\ne0,\allowbreak n\ge2\)。试讨论 \(\displaystyle a,\allowbreak b\) 为何值时，方程组仅有零解、有无穷多组解？在有无穷多组解时，求出全部解，并用基础解系表示全部解。
+
+
+\subsection*{十、（本题满分8分）}
+
+设 \(\displaystyle A\) 为3阶实对称矩阵，且满足条件 \(\displaystyle A^2+2A=O\)，已知 \(\displaystyle A\) 的秩 \(\displaystyle r(A)=2\)。（1）求 \(\displaystyle A\) 的全部特征值；（2）当 \(\displaystyle k\) 为何值时，矩阵 \(\displaystyle A+kE\) 为正定矩阵，其中 \(\displaystyle E\) 为3阶单位矩阵。
+
+
+\subsection*{十一、（本题满分8分）}
+
+假设随机变量 \(\displaystyle U\) 在区间 \(\displaystyle [-2,\allowbreak 2]\) 上服从均匀分布，随机变量 \(\displaystyle X=\begin{cases}-1,\allowbreak &U\le-1,\allowbreak \\1,\allowbreak &U>-1,\allowbreak \end{cases}\quad Y=\begin{cases}-1,\allowbreak &U\le1,\allowbreak \\1,\allowbreak &U>1.\end{cases}\) 试求（1）\(\displaystyle X\) 和 \(\displaystyle Y\) 的联合概率分布；（2）\(\displaystyle D(X+Y)\)。
+
+
+\subsection*{十二、（本题满分8分）}
+
+假设一设备开机后无故障工作的时间 \(\displaystyle X\) 服从指数分布，平均无故障工作的时间 \(\displaystyle E(X)\) 为5小时。设备定时开机，出现故障时自动关机，而在无故障的情况下工作2小时便关机。试求该设备每次开机无故障工作的时间 \(\displaystyle Y\) 的分布函数 \(\displaystyle F(y)\)。
+
+\end{document}

@@ -1,0 +1,161 @@
+{
+  "renderer": "outline-svg-2-clean",
+  "papers": 206,
+  "pages": 2020,
+  "all_public_catalog_urls_saved": true,
+  "source_pdf_hashes_unchanged": true,
+  "embedded_svg_hashes_passed": true,
+  "copy_text_matches_xml_safe_source": true,
+  "offline_svg_resources_valid": true,
+  "internal_links_checked": 449,
+  "legacy_44_copies_identical": true,
+  "source_encoding_warning_pages": 37,
+  "visual_checks": [
+    {
+      "file": "cet4/papers/2020-12-01.htm",
+      "page": 5,
+      "requires_manual_raster_review": true,
+      "mean_absolute_channel_error_0_to_255": 8.577,
+      "width": 794,
+      "height": 1123,
+      "reviewed": true,
+      "review_result": "Prior manual comparison reused: identical page SVG bytes and source PDF; no URL on this page."
+    },
+    {
+      "file": "cet4/papers/2026-06-02.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.9453,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "cet6/papers/2020-09-02.htm",
+      "page": 8,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.5494,
+      "width": 688,
+      "height": 972
+    },
+    {
+      "file": "cet6/papers/2026-06-03.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 5.164,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2000-01.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 2.4309,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2014-01.htm",
+      "page": 12,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.3536,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.3955,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 7,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.7658,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 8,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 1.6443,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 12,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 2.6381,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 13,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 5.115,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "kaoyan/papers/2026-01.htm",
+      "page": 14,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 1.7697,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "tem4/papers/2025.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.9335,
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "file": "tem8/papers/2025.htm",
+      "page": 1,
+      "requires_manual_raster_review": false,
+      "mean_absolute_channel_error_0_to_255": 3.8171,
+      "width": 794,
+      "height": 1123
+    }
+  ],
+  "browser_visual_check": false,
+  "browser_limit": "Browser file URL navigation was blocked; no browser workaround used. SVG rendering independently checked with librsvg against source PDF rendering.",
+  "responsive_verification": "CSS width constraints and identical viewBox aspect ratios verified; browser interaction not tested.",
+  "manual_raster_review_completed": true,
+  "visible_url_identifiers_absent": true,
+  "visual_catalog_cover_counts": {
+    "english-exams-web-2026-09-26/index.htm": 5,
+    "english-exams-web-2026-09-26/tem4/index.htm": 4,
+    "english-exams-web-2026-09-26/cet6/index.htm": 83,
+    "english-exams-web-2026-09-26/tem8/index.htm": 4,
+    "english-exams-web-2026-09-26/cet4/index.htm": 71,
+    "english-exams-web-2026-09-26/kaoyan/index.htm": 44,
+    "kaoyan-web-2026-09-26/index.htm": 44
+  },
+  "catalog_and_paper_local_links": 3511,
+  "source_provenance_retained": true,
+  "unrelated_source_text_preserved_ignoring_whitespace": true,
+  "url_removal": {
+    "papers": 206,
+    "pages": 2020,
+    "pages_with_identifiers_removed": 1145,
+    "url_identifiers_removed": 1145,
+    "backup_files": 2965
+  },
+  "catalog_order": "Year descending; exam month descending; paper number ascending",
+  "url_removal_pixel_check": {
+    "paper": "kaoyan 2026-01",
+    "page": 1,
+    "changed_pixels_inside_url_bounds": 892,
+    "changed_pixels_outside_url_bounds": 0
+  },
+  "updated_downloader_offline_smoke": "14 page sample passed: visible URL-free output, no network"
+}

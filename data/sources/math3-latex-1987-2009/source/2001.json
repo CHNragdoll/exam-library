@@ -1,0 +1,266 @@
+{
+  "year": 2001,
+  "pages": [
+    {
+      "source_page": 92,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2001年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设生产函数为 \\(Q=AL^\\alpha K^\\beta\\)，其中 \\(Q\\) 是产出量，\\(L\\) 是劳动投入量，\\(K\\) 是资本投入量，而 \\(A,\\alpha,\\beta\\) 均为大于零的参数，则当 \\(Q=1\\) 时 \\(K\\) 关于 \\(L\\) 的弹性为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）某公司每年的工资总额在比上一年增加20%的基础上再追加2百万元。若以 \\(W_t\\) 表示第 \\(t\\) 年的工资总额（单位：百万元），则 \\(W_t\\) 满足的差分方程是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设矩阵 \\(A=\\begin{pmatrix}k&1&1&1\\\\1&k&1&1\\\\1&1&k&1\\\\1&1&1&k\\end{pmatrix}\\)，且 \\(r(A)=3\\)，则 \\(k=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设随机变量 \\(X\\) 和 \\(Y\\) 的数学期望分别为 \\(-2\\) 和 \\(2\\)，方差分别为 \\(1\\) 和 \\(4\\)，而相关系数为 \\(-0.5\\)，则根据切比雪夫不等式 \\(P\\{|X+Y|\\ge6\\}\\le\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设总体 \\(X\\) 服从正态分布 \\(N(0,2^2)\\)，而 \\(X_1,X_2,\\ldots,X_{15}\\) 是来自总体 \\(X\\) 的简单随机样本，则随机变量 \\(Y=\\frac{X_1^2+\\cdots+X_{10}^2}{2(X_{11}^2+\\cdots+X_{15}^2)}\\) 服从______分布，参数为______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共5小题，每小题3分，满分15分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(f(x)\\) 的导数在 \\(x=a\\) 处连续，又 \\(\\lim_{x\\to a}\\frac{f^{\\prime}(x)}{x-a}=-1\\)，则（　）。\n（A）\\(x=a\\) 是 \\(f(x)\\) 的极小值点。（B）\\(x=a\\) 是 \\(f(x)\\) 的极大值点。（C）\\((a,f(a))\\) 是曲线 \\(y=f(x)\\) 的拐点。（D）\\(x=a\\) 不是 \\(f(x)\\) 的极值点，\\((a,f(a))\\) 也不是曲线 \\(y=f(x)\\) 的拐点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设 \\(g(x)=\\int_0^x f(u)\\,\\mathrm du\\)，其中 \\(f(x)=\\begin{cases}\\frac12(x^2+1),&0\\le x<1,\\\\\\frac13(x-1),&1\\le x\\le2,\\end{cases}\\) 则 \\(g(x)\\) 在区间 \\((0,2)\\) 内（　）。\n（A）无界。（B）递减。（C）不连续。（D）连续。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(A=\\begin{pmatrix}a_{11}&a_{12}&a_{13}&a_{14}\\\\a_{21}&a_{22}&a_{23}&a_{24}\\\\a_{31}&a_{32}&a_{33}&a_{34}\\\\a_{41}&a_{42}&a_{43}&a_{44}\\end{pmatrix}\\)，\\(B=\\begin{pmatrix}a_{14}&a_{13}&a_{12}&a_{11}\\\\a_{24}&a_{23}&a_{22}&a_{21}\\\\a_{34}&a_{33}&a_{32}&a_{31}\\\\a_{44}&a_{43}&a_{42}&a_{41}\\end{pmatrix}\\)，\\(P_1=\\begin{pmatrix}0&0&0&1\\\\0&1&0&0\\\\0&0&1&0\\\\1&0&0&0\\end{pmatrix}\\)，\\(P_2=\\begin{pmatrix}1&0&0&0\\\\0&0&1&0\\\\0&1&0&0\\\\0&0&0&1\\end{pmatrix}\\)，其中 \\(A\\) 可逆，则 \\(B^{-1}\\) 等于（　）。"
+        }
+      ]
+    },
+    {
+      "source_page": 93,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（3）（续）（A）\\(A^{-1}P_1P_2\\)。（B）\\(P_1A^{-1}P_2\\)。（C）\\(P_1P_2A^{-1}\\)。（D）\\(P_2A^{-1}P_1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A\\) 是 \\(n\\) 阶矩阵，\\(\\alpha\\) 是 \\(n\\) 维列向量。若 \\(r\\!\\begin{pmatrix}A&\\alpha\\\\\\alpha^{\\mathrm T}&0\\end{pmatrix}=r(A)\\)，则线性方程组（　）。\n（A）\\(AX=\\alpha\\) 必有无穷多解。（B）\\(AX=\\alpha\\) 必有唯一解。（C）\\(\\begin{pmatrix}A&\\alpha\\\\\\alpha^{\\mathrm T}&0\\end{pmatrix}\\begin{pmatrix}X\\\\y\\end{pmatrix}=0\\) 仅有零解。（D）\\(\\begin{pmatrix}A&\\alpha\\\\\\alpha^{\\mathrm T}&0\\end{pmatrix}\\begin{pmatrix}X\\\\y\\end{pmatrix}=0\\) 必有非零解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）将一枚硬币重复掷 \\(n\\) 次，以 \\(X\\) 和 \\(Y\\) 分别表示正面向上和反面向上的次数，则 \\(X\\) 和 \\(Y\\) 的相关系数等于（　）。\n（A）\\(-1\\)。（B）\\(0\\)。（C）\\(\\frac12\\)。（D）\\(1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、（本题满分5分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(u=f(x,y,z)\\) 有连续的一阶偏导数，又函数 \\(y=y(x)\\) 及 \\(z=z(x)\\) 分别由下列两式确定：\\(e^{xy}-xy=2\\) 和 \\(e^x=\\int_0^{x-z}\\frac{\\sin t}{t}\\,\\mathrm dt\\)，求 \\(\\frac{\\mathrm du}{\\mathrm dx}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 \\(f(x)\\) 在 \\((-\\infty,+\\infty)\\) 内可导，且 \\(\\lim_{x\\to\\infty}f^{\\prime}(x)=e\\)，\\(\\lim_{x\\to\\infty}\\left(\\frac{x+c}{x-c}\\right)^x=\\lim_{x\\to\\infty}[f(x)-f(x-1)]\\)，求 \\(c\\) 的值。"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "求二重积分 \\(\\iint_D y[1+xe^{\\frac12(x^2+y^2)}]\\,\\mathrm dx\\mathrm dy\\) 的值，其中 \\(D\\) 是由直线 \\(y=x\\)、\\(y=-1\\) 及 \\(x=1\\) 围成的平面区域。"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知抛物线 \\(y=px^2+qx\\)（其中 \\(p<0,q>0\\)）在第一象限内与直线 \\(x+y=5\\) 相切，且此抛物线与 \\(x\\) 轴所围成的平面图形的面积为 \\(S\\)。（1）问 \\(p\\) 和 \\(q\\) 为何值时，\\(S\\) 达到最大值？（2）求出此最大值。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(f(x)\\) 在 \\([0,1]\\) 上连续，在 \\((0,1)\\) 内可导，且满足 \\(f(1)=k\\int_0^{1/k}xe^{1-x}f(x)\\,\\mathrm dx\\;(k>1)\\)，证明至少存在一点 \\(\\xi\\in(0,1)\\)，使得 \\(f^{\\prime}(\\xi)=(1-\\xi^{-1})f(\\xi)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 94,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "八、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 \\(f_n(x)\\) 满足 \\(f_n^{\\prime}(x)=f_n(x)+x^{n-1}e^x\\)（\\(n\\) 为正整数），且 \\(f_n(1)=\\frac en\\)，求函数项级数 \\(\\sum_{n=1}^{\\infty}f_n(x)\\) 之和。"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分9分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设矩阵 \\(A=\\begin{pmatrix}1&1&a\\\\1&a&1\\\\a&1&1\\end{pmatrix}\\)，\\(\\beta=\\begin{pmatrix}1\\\\1\\\\-2\\end{pmatrix}\\)。已知线性方程组 \\(AX=\\beta\\) 有解但不唯一，试求（1）\\(a\\) 的值；（2）正交矩阵 \\(Q\\)，使 \\(Q^{\\mathrm T}AQ\\) 为对角矩阵。"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(A\\) 为 \\(n\\) 阶实对称矩阵，\\(r(A)=n\\)，\\(A_{ij}\\) 是 \\(A=(a_{ij})_{n\\times n}\\) 中元素 \\(a_{ij}\\) 的代数余子式（\\(i,j=1,2,\\cdots,n\\)），二次型 \\(f(x_1,x_2,\\cdots,x_n)=\\sum_{i=1}^n\\sum_{j=1}^n\\frac{A_{ij}}{|A|}x_ix_j\\)。（1）记 \\(X=(x_1,x_2,\\cdots,x_n)^{\\mathrm T}\\)，把 \\(f(x_1,x_2,\\cdots,x_n)\\) 写成矩阵形式，并证明二次型 \\(f(X)\\) 的矩阵为 \\(A^{-1}\\)；（2）二次型 \\(g(X)=X^{\\mathrm T}AX\\) 与 \\(f(X)\\) 的规范形是否相同？说明理由。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "一生产线生产的产品成箱包装，每箱的重量是随机的。假设每箱平均重50千克，标准差为5千克。若用最大载重量为5吨的汽车承运，试利用中心极限定理说明每辆车最多可以装多少箱，才能保障不超载的概率大于0.977。（\\(\\Phi(2)=0.977\\)，其中 \\(\\Phi(x)\\) 是标准正态分布函数。）"
+        },
+        {
+          "type": "heading",
+          "text": "十二、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设随机变量 \\(X\\) 和 \\(Y\\) 的联合分布是正方形 \\(G=\\{(x,y)\\mid1\\le x\\le3,1\\le y\\le3\\}\\) 上的均匀分布，试求随机变量 \\(U=|X-Y|\\) 的概率密度 \\(p(u)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 123,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2001年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(-\\frac\\alpha\\beta\\)。（2）\\(W_t=1.2W_{t-1}+2\\)。（3）\\(-3\\)。（4）\\(\\frac1{12}\\)。（5）\\(F\\)；\\((10,5)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。（2）D。（3）C。（4）D。（5）A。"
+        },
+        {
+          "type": "heading",
+          "text": "三、"
+        },
+        {
+          "type": "paragraph",
+          "text": "\\(\\frac{\\mathrm du}{\\mathrm dx}=\\frac{\\partial f}{\\partial x}-\\frac yx\\frac{\\partial f}{\\partial y}+\\left[1-\\frac{e^x(x-z)}{\\sin(x-z)}\\right]\\frac{\\partial f}{\\partial z}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "四、"
+        },
+        {
+          "type": "paragraph",
+          "text": "\\(\\frac12\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "五、"
+        },
+        {
+          "type": "paragraph",
+          "text": "\\(-\\frac23\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "六、"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）当 \\(p=-\\frac45\\)，\\(q=3\\) 时，\\(S\\) 最大。（2）最大值为 \\(\\frac{225}{32}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "七、"
+        },
+        {
+          "type": "paragraph",
+          "text": "证明略（可考虑函数 \\(F(x)=xe^{1-x}f(x)\\)，利用积分中值定理和罗尔定理）。"
+        },
+        {
+          "type": "heading",
+          "text": "八、"
+        },
+        {
+          "type": "paragraph",
+          "text": "\\(\\sum_{n=1}^{\\infty}f_n(x)=-e^x\\ln(1-x)\\)，\\(-1\\le x<1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "九、"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(a=-2\\)。（2）\\(Q=\\begin{pmatrix}\\frac1{\\sqrt2}&\\frac1{\\sqrt6}&\\frac1{\\sqrt3}\\\\0&-\\frac2{\\sqrt6}&\\frac1{\\sqrt3}\\\\-\\frac1{\\sqrt2}&\\frac1{\\sqrt6}&\\frac1{\\sqrt3}\\end{pmatrix}\\)，\\(Q^{\\mathrm T}AQ=\\begin{pmatrix}3&0&0\\\\0&-3&0\\\\0&0&0\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "十、"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）二次型 \\(f(x_1,x_2,\\cdots,x_n)\\) 的矩阵形式为 \\(f(X)=\\frac1{|A|}X^{\\mathrm T}\\operatorname{adj}(A)X\\)。证明略。（2）因为 \\(A\\) 和 \\(A^{-1}\\) 合同，所以 \\(g(X)\\) 与 \\(f(X)\\) 有相同的规范形。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、"
+        },
+        {
+          "type": "paragraph",
+          "text": "最多可装98箱。"
+        },
+        {
+          "type": "heading",
+          "text": "十二、"
+        },
+        {
+          "type": "paragraph",
+          "text": "\\(p(u)=\\begin{cases}\\frac12(2-u),&0<u<2,\\\\0,&\\text{其他}.\\end{cases}\\)"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

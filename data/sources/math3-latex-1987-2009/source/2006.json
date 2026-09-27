@@ -1,0 +1,202 @@
+{
+  "year": 2006,
+  "pages": [
+    {
+      "source_page": 107,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2006年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共6小题，每小题4分，满分24分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\lim_{n\\to\\infty}\\left(\\frac{n+1}{n}\\right)^{(-1)^n}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设函数 \\(f(x)\\) 在 \\(x=2\\) 的某邻域内可导，且 \\(f^{\\prime}(x)=e^{f(x)}\\)，\\(f(2)=1\\)，则 \\(f^{\\prime\\prime\\prime}(2)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设函数 \\(f(u)\\) 可微，且 \\(f^{\\prime}(0)=\\frac12\\)，则 \\(z=f(4x^2-y^2)\\) 在点 \\((1,2)\\) 处的全微分 \\(\\left.\\mathrm dz\\right|_{(1,2)}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设矩阵 \\(A=\\begin{pmatrix}2&1\\\\-1&2\\end{pmatrix}\\)，\\(E\\) 为2阶单位矩阵，矩阵 \\(B\\) 满足 \\(BA=B+2E\\)，则 \\(|B|=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X\\) 与 \\(Y\\) 相互独立，且均服从区间 \\([0,3]\\) 上的均匀分布，则 \\(P\\{\\max\\{X,Y\\}\\le1\\}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）设总体 \\(X\\) 的概率密度为 \\(f(x)=\\frac12e^{-|x|}\\;(-\\infty<x<+\\infty)\\)，\\(X_1,X_2,\\ldots,X_n\\) 为总体 \\(X\\) 的简单随机样本，其样本方差为 \\(S^2\\)，则 \\(E(S^2)=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共8小题，每小题4分，满分32分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）设函数 \\(y=f(x)\\) 具有二阶导数，且 \\(f^{\\prime}(x)>0\\)，\\(f^{\\prime\\prime}(x)>0\\)。\\(\\Delta x\\) 为自变量 \\(x\\) 在点 \\(x_0\\) 处的增量，\\(\\Delta y\\) 与 \\(\\mathrm dy\\) 分别为 \\(f(x)\\) 在点 \\(x_0\\) 处对应的增量与微分，若 \\(\\Delta x>0\\)，则（　）。（A）\\(0<\\mathrm dy<\\Delta y\\)。（B）\\(0<\\Delta y<\\mathrm dy\\)。（C）\\(\\Delta y<\\mathrm dy<0\\)。（D）\\(\\mathrm dy<\\Delta y<0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设函数 \\(f(x)\\) 在 \\(x=0\\) 处连续，且 \\(\\lim_{h\\to0}\\frac{f(h^2)}{h^2}=1\\)，则（　）。（A）\\(f(0)=0\\) 且 \\(f^{\\prime}_{-}(0)\\) 存在。（B）\\(f(0)=1\\) 且 \\(f^{\\prime}_{-}(0)\\) 存在。（C）\\(f(0)=0\\) 且 \\(f^{\\prime}_{+}(0)\\) 存在。（D）\\(f(0)=1\\) 且 \\(f^{\\prime}_{+}(0)\\) 存在。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）若级数 \\(\\sum_{n=1}^{\\infty}a_n\\) 收敛，则级数（　）。（A）\\(\\sum|a_n|\\) 收敛。（B）\\(\\sum(-1)^na_n\\) 收敛。（C）\\(\\sum a_na_{n+1}\\) 收敛。（D）\\(\\sum\\frac{a_n+a_{n+1}}2\\) 收敛。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）设非齐次线性微分方程 \\(y^{\\prime}+P(x)y=Q(x)\\) 有两个不同的解 \\(y_1(x),y_2(x)\\)，\\(C\\) 为任意常数，则该方程的通解是（　）。（A）\\(C[y_1(x)-y_2(x)]\\)。（B）\\(y_1(x)+C[y_1(x)-y_2(x)]\\)。（C）\\(C[y_1(x)+y_2(x)]\\)。（D）\\(y_1(x)+C[y_1(x)+y_2(x)]\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）设 \\(f(x,y)\\) 与 \\(\\varphi(x,y)\\) 均为可微函数，且 \\(\\varphi_y^{\\prime}(x,y)\\ne0\\)，已知 \\((x_0,y_0)\\) 是 \\(f(x,y)\\) 在约束条件 \\(\\varphi(x,y)=0\\) 下的一个极值点，下列选项正确的是（　）。（A）若 \\(f_x^{\\prime}(x_0,y_0)=0\\)，则 \\(f_y^{\\prime}(x_0,y_0)=0\\)。（B）若 \\(f_x^{\\prime}(x_0,y_0)=0\\)，则 \\(f_y^{\\prime}(x_0,y_0)\\ne0\\)。（C）若 \\(f_x^{\\prime}(x_0,y_0)\\ne0\\)，则 \\(f_y^{\\prime}(x_0,y_0)=0\\)。（D）若 \\(f_x^{\\prime}(x_0,y_0)\\ne0\\)，则 \\(f_y^{\\prime}(x_0,y_0)\\ne0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设 \\(\\alpha_1,\\ldots,\\alpha_s\\) 均为 \\(n\\) 维列向量，\\(A\\) 是 \\(m\\times n\\) 矩阵，下列选项正确的是（　）。（A）若 \\(\\alpha_i\\) 线性相关，则 \\(A\\alpha_i\\) 线性相关。（B）若 \\(\\alpha_i\\) 线性相关，则 \\(A\\alpha_i\\) 线性无关。（C）若 \\(\\alpha_i\\) 线性无关，则 \\(A\\alpha_i\\) 线性相关。（D）若 \\(\\alpha_i\\) 线性无关，则 \\(A\\alpha_i\\) 线性无关。"
+        }
+      ]
+    },
+    {
+      "source_page": 108,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（13）设 \\(A\\) 为3阶矩阵，将 \\(A\\) 的第2行加到第1行得 \\(B\\)，再将 \\(B\\) 的第1列的 \\(-1\\) 倍加到第2列得 \\(C\\)，记 \\(P=\\begin{pmatrix}1&1&0\\\\0&1&0\\\\0&0&1\\end{pmatrix}\\)，则（　）。（A）\\(C=P^{-1}AP\\)。（B）\\(C=PAP^{-1}\\)。（C）\\(C=P^{\\mathrm T}AP\\)。（D）\\(C=PAP^{\\mathrm T}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）设随机变量 \\(X\\) 服从正态分布 \\(N(\\mu_1,\\sigma_1^2)\\)，随机变量 \\(Y\\) 服从正态分布 \\(N(\\mu_2,\\sigma_2^2)\\)，且 \\(P\\{|X-\\mu_1|<1\\}>P\\{|Y-\\mu_2|<1\\}\\)，则必有（　）。（A）\\(\\sigma_1<\\sigma_2\\)。（B）\\(\\sigma_1>\\sigma_2\\)。（C）\\(\\mu_1<\\mu_2\\)。（D）\\(\\mu_1>\\mu_2\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，满分94分。解答应写出文字说明、证明过程或演算步骤）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分7分）设 \\(f(x,y)=\\frac y{1+xy}-\\frac{1-y\\sin\\frac{\\pi x}{y}}{\\arctan x}\\)，\\(x>0,y>0\\)。求：（Ⅰ）\\(g(x)=\\lim_{y\\to+\\infty}f(x,y)\\)；（Ⅱ）\\(\\lim_{x\\to0^+}g(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分7分）计算二重积分 \\(\\iint_D\\sqrt{y^2-xy}\\,\\mathrm dx\\mathrm dy\\)，其中 \\(D\\) 是由直线 \\(y=x,y=1,x=0\\) 所围成的平面区域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分10分）证明：当 \\(0<a<b<\\pi\\) 时，\\(b\\sin b+2\\cos b+\\pi b>a\\sin a+2\\cos a+\\pi a\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分8分）在 \\(xOy\\) 坐标平面上，连续曲线 \\(L\\) 过点 \\(M(1,0)\\)，其上任意点 \\(P(x,y)\\;(x\\ne0)\\) 处的切线斜率与直线 \\(OP\\) 的斜率之差等于 \\(ax\\)（常数 \\(a>0\\)）。（Ⅰ）求 \\(L\\) 的方程；（Ⅱ）当 \\(L\\) 与直线 \\(y=ax\\) 所围成平面图形的面积为 \\(\\frac83\\) 时，确定 \\(a\\) 的值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分10分）求幂级数 \\(\\sum_{n=1}^{\\infty}\\frac{(-1)^{n-1}x^{2n+1}}{n(2n-1)}\\) 的收敛域及和函数 \\(S(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分13分）设4维向量组 \\(\\alpha_1=(1+a,1,1,1)^{\\mathrm T}\\)，\\(\\alpha_2=(2,2+a,2,2)^{\\mathrm T}\\)，\\(\\alpha_3=(3,3,3+a,3)^{\\mathrm T}\\)，\\(\\alpha_4=(4,4,4,4+a)^{\\mathrm T}\\)。问 \\(a\\) 为何值时，\\(\\alpha_1,\\alpha_2,\\alpha_3,\\alpha_4\\) 线性相关？当线性相关时，求出一个极大线性无关组，并将其余向量用该极大线性无关组线性表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分13分）设3阶实对称矩阵 \\(A\\) 的各行元素之和均为3，向量 \\(\\alpha_1=(-1,2,-1)^{\\mathrm T}\\)，\\(\\alpha_2=(0,-1,1)^{\\mathrm T}\\) 是线性方程组 \\(Ax=0\\) 的两个解。"
+        }
+      ]
+    },
+    {
+      "source_page": 109,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（21）（续）（Ⅰ）求 \\(A\\) 的特征值与特征向量；（Ⅱ）求正交矩阵 \\(Q\\) 和对角矩阵 \\(\\Lambda\\)，使得 \\(Q^{\\mathrm T}AQ=\\Lambda\\)；（Ⅲ）求 \\(A\\) 及 \\((A-\\frac32E)^6\\)，其中 \\(E\\) 为3阶单位矩阵。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分13分）设随机变量 \\(X\\) 的概率密度为 \\(f_X(x)=\\begin{cases}\\frac12,&-1<x<0,\\\\\\frac14,&0\\le x<2,\\\\0,&\\text{其他}.\\end{cases}\\) 令 \\(Y=X^2\\)，\\(F(x,y)\\) 为二维随机变量 \\((X,Y)\\) 的分布函数。求：（Ⅰ）\\(Y\\) 的概率密度 \\(f_Y(y)\\)；（Ⅱ）\\(\\operatorname{Cov}(X,Y)\\)；（Ⅲ）\\(F(-\\frac12,4)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分13分）设总体 \\(X\\) 的概率密度为 \\(f(x;\\theta)=\\begin{cases}\\theta,&0<x<1,\\\\1-\\theta,&1\\le x<2,\\\\0,&\\text{其他},\\end{cases}\\) 其中 \\(\\theta\\) 是未知参数 \\((0<\\theta<1)\\)，\\(X_1,X_2,\\ldots,X_n\\) 为来自总体 \\(X\\) 的简单随机样本，记 \\(N\\) 为样本值 \\(x_1,x_2,\\ldots,x_n\\) 中小于1的个数。求：（Ⅰ）\\(\\theta\\) 的矩估计；（Ⅱ）\\(\\theta\\) 的最大似然估计。"
+        }
+      ]
+    },
+    {
+      "source_page": 129,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2006年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(1\\)。（2）\\(2e^3\\)。（3）\\(4\\,\\mathrm dx-2\\,\\mathrm dy\\)。（4）\\(2\\)。（5）\\(\\frac19\\)。（6）\\(2\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）A。（8）C。（9）D。（10）B。（11）D。（12）A。（13）B。（14）A。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（Ⅰ）\\(g(x)=\\frac1x-\\frac{1-\\pi x}{\\arctan x}\\)。（Ⅱ）\\(\\pi\\)。（16）\\(\\frac29\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）证明略。（可考虑 \\(f(x)=x\\sin x+2\\cos x+\\pi x\\)，\\(x\\in[0,\\pi]\\)，利用导数分析 \\(f(x)\\) 的单调性。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（Ⅰ）\\(y=ax^2-ax\\)。（Ⅱ）\\(a=2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）收敛域为 \\([-1,1]\\)；\\(S(x)=2x^2\\arctan x-x\\ln(1+x^2)\\)，\\(x\\in[-1,1]\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）当 \\(a=0\\) 时，\\(\\alpha_1,\\alpha_2,\\alpha_3,\\alpha_4\\) 线性相关，\\(\\alpha_1\\) 为一个极大线性无关组，且 \\(\\alpha_2=2\\alpha_1\\)，\\(\\alpha_3=3\\alpha_1\\)，\\(\\alpha_4=4\\alpha_1\\)。当 \\(a=-10\\) 时，向量组线性相关，\\(\\alpha_2,\\alpha_3,\\alpha_4\\) 为一个极大线性无关组，且 \\(\\alpha_1=-\\alpha_2-\\alpha_3-\\alpha_4\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅰ）\\(A\\) 的特征值为 \\(0,0,3\\)。属于特征值0的特征向量为 \\(k_1\\alpha_1+k_2\\alpha_2\\)，其中 \\(k_1,k_2\\) 为不全为零的任意常数；属于特征值3的特征向量为 \\(k(1,1,1)^{\\mathrm T}\\)，其中 \\(k\\) 为任意非零常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅱ）\\(Q=\\begin{pmatrix}-\\frac1{\\sqrt6}&-\\frac1{\\sqrt2}&\\frac1{\\sqrt3}\\\\\\frac2{\\sqrt6}&0&\\frac1{\\sqrt3}\\\\-\\frac1{\\sqrt6}&\\frac1{\\sqrt2}&\\frac1{\\sqrt3}\\end{pmatrix}\\)，\\(\\Lambda=\\begin{pmatrix}0&0&0\\\\0&0&0\\\\0&0&3\\end{pmatrix}\\)。（Ⅲ）\\(A=\\begin{pmatrix}1&1&1\\\\1&1&1\\\\1&1&1\\end{pmatrix}\\)，\\((A-\\frac32E)^6=(\\frac32)^6E\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\(f_Y(y)=\\begin{cases}\\frac3{8\\sqrt y},&0<y<1,\\\\\\frac1{8\\sqrt y},&1\\le y<4,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅱ）\\(\\operatorname{Cov}(X,Y)=\\frac23\\)。（Ⅲ）\\(\\frac14\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(\\hat\\theta=\\frac32-\\bar X\\)。（Ⅱ）\\(\\hat\\theta=\\frac Nn\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

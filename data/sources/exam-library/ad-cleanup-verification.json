@@ -1,0 +1,390 @@
+{
+  "reflow": {
+    "source_files_audited": 302,
+    "visible_blocks_audited_after_cleanup": 39163,
+    "changed_sources": [
+      "politics-answers-latex-2009-2023/source/2019.json"
+    ],
+    "backup": "exam-library/work/before-ad-cleanup/reflow/politics-answers-latex-2009-2023/source/2019.json",
+    "before_sha256": "c60179bc8679cf76e6e3c2a31d0893075c841b7d9ac49a6b9e345107c48ae068",
+    "after_sha256": "4681c6d9955ba305f8477fadec5edc4d2782446431112073ffb4277181100df3",
+    "removed": [
+      {
+        "source_page": 7,
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "原稿推广页"
+          },
+          {
+            "type": "paragraph",
+            "text": "持续更新至考研复试结束"
+          },
+          {
+            "type": "paragraph",
+            "text": "5分/页，首单免费"
+          },
+          {
+            "type": "paragraph",
+            "text": "一剧题"
+          },
+          {
+            "type": "paragraph",
+            "text": "可以免费刷题+打卡+督学"
+          },
+          {
+            "type": "paragraph",
+            "text": "包含：肖1000题、肖8、肖4等"
+          }
+        ],
+        "reason": "standalone print-service and exam-product promotion, explicitly identified by user"
+      }
+    ],
+    "removed_visible_note_suffix": "，第 7 页为推广页。",
+    "notes_before": [
+      "第 13、15、32、33 题答案在原稿上有横线划过，仍按可见原文保留；第 6 页系附入的 2020 年分析题答案残页，第 7 页为推广页。"
+    ],
+    "retained_keyword_hits": [
+      {
+        "path": "cs408-latex-2009-2017/source/2011.json",
+        "page": 11,
+        "block": 7,
+        "text": "45．（8分）某银行提供1个服务窗口和10个供顾客等待的座位。顾客到达银行时，若有空座位，则到取号机上领取一个号，等待叫号。取号机每次仅允许一位顾客使用。当营业员空闲时，通过叫号选取一位顾客，并为其服务。顾客和营业员的活动过程描述如下：",
+        "decision": "keep: exam question/code/passage content"
+      },
+      {
+        "path": "cs408-latex-2009-2017/source/2011.json",
+        "page": 12,
+        "block": 2,
+        "text": "semaphore seets = 10, // 有10个坐位的资源信号量\nmutex = 1,              // 取号机互斥信号量\nhaveCustom = 0;         // 顾客与营业员同步，无顾客时营业员休息\n\nprocess 顾客\n{\n  P(seets);             // 等空位\n  P(mutex);             // 申请使用取号机\n  从取号机上取号;\n  V(mutex);             // 取号完毕\n  V(haveCustom);        // 通知营业员有新顾客到来\n  等待营业员叫号;\n  V(seets);             // 离开坐位\n  接受服务;\n}\n\nprocess 营业员\n{\n  while(True)\n  {\n    P(haveCustom);      // 没有顾客则休息\n    叫号;\n    为顾客服务;\n  }\n}",
+        "decision": "keep: exam question/code/passage content"
+      },
+      {
+        "path": "english-exams-reflow-latex/cet6/papers/2026-06-02.json",
+        "page": 4,
+        "block": 6,
+        "text": "C) “Does nature return by itself?” asks Arnout Asjes, Land Life Company’s chief technology officer, who oversees a mix of drone (无人机) and satellite imagery, big data analysis, soil enhancement, QR (二维码) tagging and site-specific tree configuration designs. “Probably, but it can take decades or hundreds of years, so we are speeding things up.”",
+        "decision": "keep: exam question/code/passage content"
+      }
+    ],
+    "answer_key_unchanged": true,
+    "covered_questions_unchanged": true,
+    "all_other_source_pages_byte_structure_unchanged": true,
+    "all_other_structured_source_sha256_unchanged": true,
+    "scope": "Only structured reflow sources; native SVG/PDF image advertisements audited separately."
+  },
+  "politics_original": {
+    "documents": 36,
+    "source_pages": 292,
+    "displayed_pages": 291,
+    "omitted_advert_pages": 1,
+    "removed_advert_regions": 242,
+    "removed_qr_images": 14,
+    "original_pdfs_unchanged": true,
+    "all_svg_match_native_cleaned_pdf": true,
+    "all_pixel_changes_within_advert_bounds": true,
+    "2019_page_6_preserved": true,
+    "browser_tested": false
+  },
+  "other_original": {
+    "changes": {
+      "math3_2009_2019": {
+        "pages": 55,
+        "advert_regions": 110,
+        "body_pixels_unchanged": true
+      },
+      "math3_1987_2009": {
+        "raw_pages": 132,
+        "reading_pages": 131,
+        "omitted_advert_only_pages": [
+          2
+        ],
+        "obsolete_advert_asset_removed": true
+      },
+      "cs408": {
+        "documents": 27,
+        "pages": 333,
+        "advert_regions": 3,
+        "target": [
+          "2018-answers page 4",
+          "2019-answers page 12"
+        ],
+        "body_pixels_unchanged": true,
+        "header_scan_fragment": "Removed exact independent scan fragment adjacent to 2018 page4 shop promotion, bbox [180.13,35.39,227.42,41.17]; source evidence preserved."
+      }
+    },
+    "english": {
+      "documents": 206,
+      "visible_copy_text_hits": 6,
+      "hits_are_exam_content": true,
+      "edits_needed": false
+    },
+    "source_pdfs": [
+      {
+        "path": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/2019-2009年考研数学三真题及答案.pdf",
+        "sha256": "be52066dc498b684c242607cc16d44dc457fcfe046bf0990b5773e373b5b75d3",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+        "sha256": "1c50e01719d065bc79f96f283bbd513245533d98789d8bc487a51e9a0f158a83",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2009年408真题及答案解析.pdf",
+        "sha256": "04b6bb8e8daff007e5f736d68632d4e1452eb5fe69605f56f37aa59e1e4abdf0",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2010年408真题及答案解析.pdf",
+        "sha256": "6f090983d7116688dc1b6b5bd5ef4189d46d40bff260e450af0e1e8e4ad743ce",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2011年计算机考研408统考真题及答案.pdf",
+        "sha256": "d26ea92f68381a24fab00495edf9f2037ef2d599c22a7ebebe94e1c70ac8c433",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2012年计算机统考真题及答案解析.pdf",
+        "sha256": "1e9a9fbffaa5bbdfd0ae71e22a560a8d5c1b9ba6ab0083e5d39ae243945d7862",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2013年计算机考研408统考真题及答案.pdf",
+        "sha256": "b1d399197dd8ebc46435c84732580de3914b85173190cac360e2089d9133e3e5",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2014年计算机统考真题及解析.pdf",
+        "sha256": "7b0bf60471b9829c651b34f3dd5e4f6fe7869ea97e2b8a54102dab056cd9d35b",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/Postgraduate-408-old-exam/2015年计算机考研408统考真题及答案.pdf",
+        "sha256": "ec95d87bec6cd24e4d9bf15131bd67f239daaebc281b1ae5c2a2ebd9c9ae6873",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2016.pdf",
+        "sha256": "727216ad7a903fa94bd8d596fecc43f4d6a731c49c3757ff638b48314d5eb9be",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2017.pdf",
+        "sha256": "be9d174cfb6018c945066c94aa501675be4f3106a187037ab26757823fb51715",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2018.pdf",
+        "sha256": "1f47b4d36458b68d261f8e58b459fc5bf7b5fba3da40075f8ade36faeb7ec5ec",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2019.pdf",
+        "sha256": "46e45d5c4bb5afce467e6cd0228fa64c90ab2ceb138e2f8b17a9eb0747542057",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2020.pdf",
+        "sha256": "3471eff98676125de3bc5f9b5eb9113cdf3388d13f86e02aba93b22402164401",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2021.pdf",
+        "sha256": "d26b51a98a162c1239df3aded10dba92fc94886090e044393bab2ed840fb7ea3",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2022.pdf",
+        "sha256": "6850a0c624b1ec419114ed9f366cdab0b9bd7e3ad00375ba5a9dba7a3a76eecb",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2023.pdf",
+        "sha256": "4c061880c25df3827374406426a315ec170270ac4b5c900de3dae5a5849b9cd5",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2024.pdf",
+        "sha256": "baae7ba96588d55117a31c297304927d3791d0f3576bf0c70f32fd8a9fe1766c",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2025.pdf",
+        "sha256": "28f4fd31bb5ee1a72a839c939b713ef1729271e676d99291df0df26f8ef90b37",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+        "sha256": "93c5cb3465c1141cfd023b17e2616f4392d97f74ff39443b1fc36b10c19c235f",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2017-answer.pdf",
+        "sha256": "6799d0c083d9a32f499e4ee6c77be9b93cbd24d769a070ae98fd1637d67b00b2",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2018-answer.pdf",
+        "sha256": "411bf95ad1c23407c4d3fa6ee1de8467524146b9ea795ffff153d6af3598b507",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2019-answer.pdf",
+        "sha256": "a50bd04914b55d0400655a03e5fa5f02b37ac1821107827ecaf6ab09b71b3fd6",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2020-answer.pdf",
+        "sha256": "97ee67dd49d648e206cffedf71772e8d86a26ad327baeb5397aa95562a844bf8",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2021-answer.pdf",
+        "sha256": "041f3f9509475584a2abebd729d3b2e01a2bd6535c7e10ebb39ddcd8a4378de9",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2022-answer.pdf",
+        "sha256": "34561e046a8fc56fc98e01fbf88c1bf0152df80ff5e0898ed08da478549e7901",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2023-answer.pdf",
+        "sha256": "20de39c0e7c4b949d8a94b78909e5e0a53f35276011f23aff07e8f0a9c04360c",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2024-answer.pdf",
+        "sha256": "83146d04e95bdf2e7a58b6157a2ba00029c7b4268f1937bedd740ae7f1868523",
+        "unchanged": true
+      },
+      {
+        "path": "/Users/apple/Downloads/408-exam-paper/answers/2025-answer.pdf",
+        "sha256": "06bb902c4f7a5421ed4dd616acd4ca6cc52570ff54f75b9d01bf8f2e6fe6e8a4",
+        "unchanged": true
+      }
+    ],
+    "native_rendered_samples": [
+      "math3-2009-2019-1-clean.png",
+      "cs408-4-clean.png",
+      "408-clean.png",
+      "english-clean.png",
+      "cs408-2019-12-clean.png"
+    ],
+    "browser_tested": false,
+    "scanned_408_ocr_audit": "Existing independent Vision/Tesseract raw OCR checked for advertising; 2019 page12 shop promotion confirmed visually and hidden with opaque vector margin mask, preserving scan encoding."
+  },
+  "reflow_validation": {
+    "documents": 15,
+    "pages": 106,
+    "reading_pages": 105,
+    "blocks": 1703,
+    "tables": 3,
+    "figures": 0,
+    "formulas": 23,
+    "local_links_checked": 90,
+    "pending_links": 0,
+    "tex_documents_compiled": 15,
+    "warning_documents": 0,
+    "source_hashes": {
+      "2023": "ecdad1a4ceef12ab2e76268e29cd3a1f4ee7563b0163a83196ffd7037ab2299d",
+      "2022": "1350c34bdde84edc68730b7c81411d32d1bbcf18f7c23d8f544c9f1b8ebb9c82",
+      "2021": "0313c48d7bb7db9fec0a587119cda079855d1d496bf506d8592cabb3edfca43b",
+      "2020": "84ec6a36a47d7d7555ce13cd05daa3463e0120dff3c1c85931ac234c0fe8c5de",
+      "2019": "4681c6d9955ba305f8477fadec5edc4d2782446431112073ffb4277181100df3",
+      "2018": "76920682344e56a54c53e34b24e8ff11e3ec9d2d617195211a4b2b15699b8409",
+      "2017": "ef05cc95c953a00fee5cbb81125ff376ef6b578e208c38739f501a5d3d64f636",
+      "2016": "a51b54873f8d43c03da0c6aa5b24790fddb541b8aa81a2905fc612e065ed7a36",
+      "2015": "cb66f829b0d381c45e0775a8b428b47a20d2385a331ffcff5fd8d200027da3e6",
+      "2014": "41dbf6dffac3fb867e3778bb850f787876e977a808e77fd9da45a31e8c0521e6",
+      "2013": "66fd1e8b7f521f7d9e1f262e0b3db68b8561ebfd0d7c31f5d5c525864663c7b4",
+      "2012": "8d15342a5d884cc49caef037e3c9ddc9373878a4abce4a72fee2172577c02228",
+      "2011": "9fbe5820a0ce2079cb0ea996767e64e41c531264af8f1e0ca9d6bd6f75015e37",
+      "2010": "a2ee7b47886b80b1ad7fd497a685deb0446f1289ee2e502f25c67360e919fa2d",
+      "2009": "235f3693b43f4b4a380d2086d12ac7425eb57a7284788db12456d3d0cd86ff65"
+    },
+    "coverage": {
+      "2023": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2022": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2021": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2020": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2019": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2018": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2017": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2016": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2015": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2014": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2013": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2012": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2011": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2010": {
+        "answers": 38,
+        "choice_keys": 33
+      },
+      "2009": {
+        "answers": 38,
+        "choice_keys": 33
+      }
+    },
+    "browser_tested": false
+  },
+  "catalog": {
+    "categories": {
+      "kaoyan": 44,
+      "math3": 66,
+      "cs408": 27,
+      "politics": 36,
+      "cet6": 83,
+      "cet4": 71,
+      "tem4": 4,
+      "tem8": 4
+    },
+    "paper_cards": 335,
+    "version_links": 670,
+    "local_links_checked": 2281,
+    "browser_tested": false
+  },
+  "raw_pdfs_preserved": true,
+  "browser_tested": false
+}

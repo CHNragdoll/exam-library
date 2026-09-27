@@ -1,0 +1,285 @@
+\documentclass[UTF8,11pt]{ctexart}
+\usepackage[a4paper,margin=22mm]{geometry}
+\usepackage{amsmath,amssymb,bm,graphicx,adjustbox,fvextra,longtable,array}
+\xeCJKDeclareCharClass{CJK}{"2160 -> "217F, "2460 -> "249B, "2200 -> "22FF}
+\newcommand{\fitmath}[1]{\begin{adjustbox}{max width=\linewidth}$\displaystyle #1$\end{adjustbox}}
+\setlength{\parindent}{0pt}\setlength{\parskip}{.65em}\renewcommand{\arraystretch}{1.3}
+\sloppy\allowdisplaybreaks
+\begin{document}
+\section*{2018 年计算机统考 408 · 答案与解析}
+\subsection*{2018 年计算机学科专业基础综合试题参考答案}
+
+\subsection*{一、单项选择题}
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+题号 & 答案 & 题号 & 答案 & 题号 & 答案 & 题号 & 答案 & 题号 & 答案 & 题号 & 答案 & 题号 & 答案 & 题号 & 答案\\\hline
+1 & B & 2 & C & 3 & A & 4 & A & 5 & A & 6 & C & 7 & D & 8 & B\\\hline
+9 & C & 10 & D & 11 & A & 12 & D & 13 & C & 14 & A & 15 & A & 16 & B\\\hline
+17 & C & 18 & B & 19 & A & 20 & D & 21 & B & 22 & C & 23 & C & 24 & D\\\hline
+25 & B & 26 & A & 27 & C & 28 & D & 29 & D & 30 & A & 31 & D & 32 & C\\\hline
+33 & B & 34 & C & 35 & D & 36 & D & 37 & D & 38 & C & 39 & B & 40 & D\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+1. 解析：第一次调用：\textcircled{1}从 \(\displaystyle S_1\) 中弹出 2 和 3；\textcircled{2}从 \(\displaystyle S_2\) 中弹出 +；\textcircled{3}执行 \(\displaystyle 3+2=5\)；\textcircled{4}将 5 压入 \(\displaystyle S_1\) 中，第一次调用结束后 \(\displaystyle S_1\) 中剩余 5, 8, 5（5 在栈顶），\(\displaystyle S_2\) 中剩余 *、-（- 在栈顶）。第二次调用：\textcircled{1}从 \(\displaystyle S_1\) 中弹出 5 和 8；\textcircled{2}从 \(\displaystyle S_2\) 中弹出 -；\textcircled{3}执行 \(\displaystyle 8-5=3\)；\textcircled{4}将 3 压入 \(\displaystyle S_1\) 中，第二次调用结束后 \(\displaystyle S_1\) 中剩余 5、3（3 在栈顶），\(\displaystyle S_2\) 中剩余 *。第三次调用：\textcircled{1}从 \(\displaystyle S_1\) 中弹出 3 和 5；\textcircled{2}从 \(\displaystyle S_2\) 中弹出 *；\textcircled{3}执行 \(\displaystyle 5\times3=15\)；\textcircled{4}将 15 压入 \(\displaystyle S_1\) 中，第三次调用结束后 \(\displaystyle S_1\) 中仅剩余 15（栈顶），\(\displaystyle S_2\) 为空。故选 B。
+
+
+2. 解析：A 的操作顺序：\textcircled{1}\textcircled{1}\textcircled{2}\textcircled{2}\textcircled{1}\textcircled{1}\textcircled{3}\textcircled{3}。B 的操作顺序：\textcircled{2}\textcircled{1}\textcircled{1}\textcircled{1}\textcircled{1}\textcircled{1}\textcircled{1}\textcircled{3}。D 的操作顺序：\textcircled{2}\textcircled{2}\textcircled{2}\textcircled{2}\textcircled{2}\textcircled{1}\textcircled{3}\textcircled{3}\textcircled{3}\textcircled{3}\textcircled{3}。对于 C：首先输出 3，说明 1 和 2 必须先依次入栈，而此后 2 肯定比 1 先输出，因此无法得到 1, 2 的输出顺序。
+
+
+3. 解析：数组 \(\displaystyle N\) 的下标从 0 开始，第一个元素 \(\displaystyle m_{1,\allowbreak 1}\) 对应存入 \(\displaystyle n_0\)，矩阵 \(\displaystyle M\) 的第一行有 12 个元素，第二行有 11 个，第三行有 10 个，第四行有 9 个，第五行有 8 个，所以 \(\displaystyle m_{6,\allowbreak 6}\) 是第 \(\displaystyle 12+11+10+9+8+1=51\) 个元素，下标应为 50，故选 A。
+
+
+4. 解析：非叶结点的度均为 2，且所有叶结点都位于同一层的完全二叉树就是满二叉树。对于一棵高度为 \(\displaystyle h\) 的满二叉树（空树 \(\displaystyle h=0\)），其最后一层全部是叶结点，数量为 \(\displaystyle 2^{h-1}\)；总结点数为 \(\displaystyle 2^h-1\)。因此当 \(\displaystyle 2^{h-1}=k\) 时，可以得到 \(\displaystyle 2^h-1=2k-1\)。
+
+
+5. 解析：构造一棵符合题意的哈夫曼树，如下图所示。
+
+
+\begin{center}\includegraphics[width=.65\linewidth,height=.4\textheight,keepaspectratio]{../assets/figures/2018-answers-p001-b008.pdf}\end{center}
+
+由此可知，左子树为 0，右子树为 1，故答案为 A。
+
+
+6. 解析：根据二叉排序树的特性：中序遍历（LNR）得到的是一个递增序列。图中二叉排序树的中序遍历序列为 \(\displaystyle x_1,\allowbreak x_3,\allowbreak x_5,\allowbreak x_4,\allowbreak x_2\)，可知 \(\displaystyle x_3<x_5<x_4\)。
+
+
+7. 解析：拓扑排序每次选取入度为 0 的结点输出，经观察不难发现拓扑序列前两位一定是 1, 5 或 5, 1（因为只有 1 和 5 的入度均为 0，且其他结点都不满足仅有 1 或仅有 5 作为前驱）。因此 D 显然错误。
+
+
+8. 解析：\(\displaystyle m\) 阶 B 树的基本性质：根结点以外的非叶结点最少含有 \(\displaystyle \lceil m/2\rceil-1\) 个关键字，代入 \(\displaystyle m=3\) 得到每个非叶结点中最少包含 1 个关键字，而根结点含有 1 个关键字，因此所有非叶结点都有两个孩子。此时其树形与 \(\displaystyle h=5\) 的满二叉树相同，可求得关键字最少为 31 个。
+
+
+9. 解析：根据题意，得到 HT 如下：
+
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-16\tabcolsep-9\arrayrulewidth)/8\relax}|}\hline
+地址 & 0 & 1 & 2 & 3 & 4 & 5 & 6\\\hline
+HT &  & 22 & 43 & 15 &  &  & \\\hline\end{tabular}\end{adjustbox}\end{center}
+
+\(\displaystyle ASL_{\text{成功}}=(1+2+3)/3=2\)。
+
+
+10. 解析：初始序列：8, 3, 9, 11, 2, 1, 4, 7, 5, 10, 6。第一趟：1, 3, 7, 5, 2, 6, 4, 9, 11, 10, 8。第二趟：1, 2, 6, 4, 3, 7, 5, 8, 11, 10, 9。
+
+
+第一趟分组：8, 1, 6；3, 4；9, 7；11, 5；2, 10；间隔为 5，排序后组内递增。第二趟分组：1, 5, 4, 10；3, 2, 9, 8；7, 6, 11；间隔为 3，排序后组内递增。故答案选 D。
+
+
+11. 解析：要熟练掌握建堆、堆的调整方法，从序列末尾开始向前遍历，变换过程如下图所示。
+
+
+\begin{center}\includegraphics[width=.65\linewidth,height=.4\textheight,keepaspectratio]{../assets/figures/2018-answers-p002-b010.pdf}\end{center}
+
+12. 解析：对于 I，二进制由于只有 0, 1 两种数值，运算规则较简单，都是通过 ALU 部件转换成加法运算。对于 II，二进制只需要高电平和低电平两个状态就可以表示，这样的物理器件很容易制
+
+
+造。对于 III，二进制与逻辑量相吻合。二进制的 0 和 1 正好与逻辑量的“真”和“假”相对应，因此用二进制数表示二值逻辑显得十分自然，采用逻辑门电路很容易实现运算。
+
+
+13. 解析：利用补码转换成原码的规则：负数符号位不变数值位取反加 1；正数补码等于原码。两个机器数对应的原码是 \(\displaystyle [x]_{\text{原}}=80000021\mathrm H\)，对应的数值是 \(\displaystyle -33\)，\(\displaystyle [y]_{\text{原}}=[y]_{\text{补}}=00000041\mathrm H=65\)。排除 A、D 选项。\(\displaystyle x-y\) 直接利用补码减法准则，\(\displaystyle [x]_{\text{补}}-[y]_{\text{补}}=[x]_{\text{补}}+[-y]_{\text{补}}\)，\(\displaystyle -y\) 的补码是连同符号位取反加 1，最终减法变成加法，得出结果为 FFFFFF9EH。
+
+
+14. 解析：IEEE 754 单精度浮点数的符号位、阶码位、尾数位（省去正数位 1）所占的位数分别是 1、8、23 位。最小正数，数符位取 0，移码的取值范围是 1～254，取 1，得阶码值 \(\displaystyle 1-127=-126\)（127 为我们规定的偏置值），尾数取全 0，最终推出最小规格化正数为 A 选项。
+
+
+15. 解析：按字节编址，采用小端方式，低位的数据存储在低地址位、高位的数据存储在高地址位，并且按照一个字节相对不变的顺序存储。由题意知机器代码的地址是递减的，存储 0 的位数是后 32 位，那么我们只需要把 -64 的补码按字节存储在其中即可，而 -64 表示成 32 位的十六进制数是 FFFFFF C0，根据小端方式的特点，高字节存储在低地址，就是 C0 FF FF FF，故选 A。
+
+
+16. 解析：逻辑移位：左移和右移空位都补 0，并且所有数字参与移动。算术移位：符号位不参与移动，右移空位补符号位；左移空位补 0。根据该规则，轻松选出 B 选项。
+
+
+17. 解析：由题意，首先根据 DRAM 采用的是行列地址线复用技术，我们尽量选用行列差值不要太大的。对于 B、C 选项，地址线只需 6 根（取行或列所需地址线的最大值），轻松排除 A、D 选项。其次，为了减小刷新开销，而 DRAM 一般是按行刷新的，所以应选行数值较少的，答案为 C。
+
+
+18. 解析：根据变址寻址的公式 \(\displaystyle EA=(IX)+A\)，则 \(\displaystyle (IX)=2100\mathrm H-2000\mathrm H=100\mathrm H=256\)，\(\displaystyle sizeof(double)=8\)（双精度浮点数用 8 位字节表示），因此数组的下标为 \(\displaystyle 256/8=32\)，答案选 B。
+
+
+19. 解析：\(\displaystyle [x]_{\text{补}}-[y]_{\text{补}}=[x]_{\text{补}}+[-y]_{\text{补}}\)，\(\displaystyle [-R2]_{\text{补}}=00000010\mathrm H\)，很明显 \(\displaystyle [R1]_{\text{补}}+[-R2]_{\text{补}}\) 的最高位进位和符号位进位都是 1（当最高位进位和符号位进位的值不相同时才产生溢出），可以判断溢出标志 OF 为 0。同时，减法操作只需判断借位标志，R1 大于 R2，所以借位标志为 0，综上选 A。
+
+
+20. 解析：指令流水线的每个流水段时间单位为时钟周期，题中指令流水线的指令需要用到 A～E 五个部件，所以每个流水段时间应取：最大部件时间 \(\displaystyle 80\mathrm{ps}\)，此外还有寄存器延时为 \(\displaystyle 20\mathrm{ps}\)，则 CPU 时钟周期至少是 \(\displaystyle 100\mathrm{ps}\)。答案选 D。
+
+
+21. 解析：总线数据传输率＝总线工作频率×总线带宽（＝总线宽度/8），所以 I 和 II 会影响总线数据传输率。采用突发传输方式（也称猝发传输），在一个总线周期内传输存储地址连续的多个数据字，从而提高了传输效率。采用地址/数据线复用只是减少了线的数量，节省了成本，并不能提高传输率。
+
+
+22. 解析：中断优先级由屏蔽字决定，而不是根据请求的先后次序，因此 A 错误。中断隐指令完成的
+
+
+工作有：\textcircled{1}关中断；\textcircled{2}保存断点；\textcircled{3}引出中断服务程序，通用寄存器的保护由中断服务程序完成，B 错误。中断允许状态即开中断后，才能响应中断请求，C 正确。有中断请求时，先要由中断隐指令完成中断前程序的状态保存，D 错误。
+
+
+23. 解析：多任务操作系统可以在同一时间内运行多个应用程序，故 I 正确。多个任务必须互斥地访问共享资源，为达到这一目标必须对共享资源进行必要的保护，故 II 正确。现代操作系统都是多任务的（主要特点是并发和并行），并不一定需要运行在多 CPU 的硬件上，单个 CPU 也可以满足要求，III 错误。综上所述，I、II 正确，III 错误，故选 C。
+
+
+24. 解析：由优先权可知，进程的执行顺序为 \(\displaystyle P_2\to P_3\to P_1\)。\(\displaystyle P_2\) 的周转时间：\(\displaystyle 1+15+24=40\mu\mathrm{s}\)；\(\displaystyle P_3\) 的周转时间：\(\displaystyle 18+1+24+1+36=80\mu\mathrm{s}\)；\(\displaystyle P_1\) 的周转时间：\(\displaystyle 30+1+24+1+36+1+12=105\mu\mathrm{s}\)。平均周转时间：\(\displaystyle (40+80+105)/3=225/3=75\mu\mathrm{s}\)，故选 D。
+
+
+25. 解析：仔细阅读两个线程代码可知，thread1 和 thread2 均是对 \(\displaystyle x\) 进行加 1 操作，\(\displaystyle x\) 初始值为 0，若要使得最终 \(\displaystyle x=2\)，只有先执行 thread1 再执行 thread2，或先执行 thread2 再执行 thread1，故只有 2 种可能，选 B。
+
+
+26. 解析：由题中数据可知，仅剩最后一个同类资源，若将其分给 \(\displaystyle P_1\) 或 \(\displaystyle P_2\)，则均无法正常执行；若分给 \(\displaystyle P_3\)，则 \(\displaystyle P_3\) 正常执行完成后，释放的这个资源仍无法使 \(\displaystyle P_1\)、\(\displaystyle P_2\) 正常执行，故不存在安全序列，选 A。
+
+
+27. 解析：进程等待某资源为可用（不包括处理机）或等待输入/输出完成均会进入阻塞状态，故 I、II 正确；III 中情况发生时，进程进入就绪状态，故 III 错误，答案选 C。
+
+
+28. 解析：“条件变量”是管程内部说明和使用的一种特殊变量，其作用类似于信号量机制中的“信号量”，都是用于实现进程同步的。需要注意的是，在同一时刻，管程中只能有一个进程在执行。如果进程 A 执行了 x.wait() 操作，那么该进程会阻塞，并挂到条件变量 x 对应的阻塞队列上。这样，管程的使用权被释放，就可以有另一个进程进入管程。如果进程 B 执行了 x.signal() 操作，那么会唤醒 x 对应的阻塞队列队头进程。在 Pascal 语言的管程中，规定只有一个进程要离开管程时才能调用 signal() 操作。
+
+
+29. 解析：时钟中断的主要工作是处理和时间有关的信息以及决定是否执行调度程序，和时间有关的所有信息，包括系统时间、进程的时间片、延时、使用 CPU 的时间、各种定时器，故 I、II、III 均正确，选 D。
+
+
+30. 解析：当系统总是持续出现某个磁道的访问请求时，均持续满足最短寻道时间优先、扫描算法和循环扫描算法的访问条件，会一直服务该访问请求。因此，先来先服务按照请求次序进行调度，比较公平，故选 A。
+
+
+31. 解析：II 和 IV 显然均能提高文件访问速度。对于 I，提前读是指在读当前盘块时，将下一个可能要访问的盘块数据读入缓冲区，以便需要时直接从缓冲区中读取，提高了文件的访问速度。对于 III，延迟写是先将写数据写入缓冲区，并置上“延迟写”标志，以备不久之后访问，当缓冲区需要再次被分配出去时才将缓冲区数据写入磁盘，减少了访问磁盘的次数，提高了文件的访问速度，III 也正确，答案选 D。
+
+
+32. 解析：硬件方法实现进程同步不能实现让权等待（见王道单科书），故 B、D 错误；Peterson 算法满足有限等待但不满足让权等待，故 A 错误；记录型信号量由于引入阻塞机制，消除了不让权等待的情况，故 C 正确。
+
+
+33. 解析：FTP 用来传输文件，SMTP 用来发送电子邮件，HTTP 用来传输网页文件，都对可靠性的要求较高，因此都用传输层有连接的 TCP 服务。无连接 UDP 服务效率更高、开销小，DNS 在传输层采用无连接的 UDP 服务。
+
+
+34. 解析：物理层的接口规范主要分为 4 种：机械特性、电气特性、功能特性、规程特性。机械特性规定连接所用设备的规格，即 A 所说的接口形状。电气特性规定信号的电压高低、阻抗匹配等，如 D 所说的信号电平。功能特性规定线路上出现的电平代表什么意义、接口部件的信号线（数据线、控制线、定时线等）的用途，如 B 所说的引脚功能。选项 C 中的物理地址就是 MAC 地址，它属于数据链路层的范畴。
+
+
+35. 解析：CSMA/CA 协议进行信道预约主要使用的是请求发送帧 RTS（Request to Send）和允许发送帧 CTS（Clear to Send）。当一台主机想要发送信息时，先向无线站点发送一个 RTS 帧，说明要传输的数据及相应的时间。当无线站点收到 RTS 帧之后，会广播一个 CTS 帧作为对此的响应，既给发送端发送许可，又指示其他主机不要在这个时间内发送数据，从而预约信道，避免碰撞。发送确认帧，主要是保证信息的可靠传输；二进制指数退避法是在 CSMA/CD 中的一种冲突处理方法；C 选项则与预约信道无关。
+
+
+36. 解析：信道利用率＝传输帧的有效时间/传输帧的周期。假设帧的长度为 \(\displaystyle x\) 比特。对于有效时间，应该用帧的大小除以数据传输速率，即 \(\displaystyle x/(3\mathrm{kbps})\)。对于帧的传输周期，应包含 4 个部分：帧在发送端的发送时延、帧从发送端到接收端的单程传播时延、确认帧在接收端的发送时延、确认帧从接收端到发送端的单程传播时延。这 4 个时延中，由于题目中说“忽略确认帧传输延时”，因此不计算确认帧的发送时延（注意传输时延和传播时延的区别，传输时延也称发送时延，和传播时延只有一字之差）。所以帧的传输周期由三部分组成：首先是帧在发送端的发送时延 \(\displaystyle x/(3\mathrm{kbps})\)，其次是帧从发送端到接收端的单程传播时延 \(\displaystyle 200\mathrm{ms}\)，最后是确认帧从接收端到发送端的单程传播时延 \(\displaystyle 200\mathrm{ms}\)，三者相加可得其周期应为 \(\displaystyle x/(3\mathrm{kbps})+400\mathrm{ms}\)。代入信道利用率的公式，求出 \(\displaystyle x=800\mathrm{bit}\)。答案选 D。
+
+
+37. 解析：在网络的信息传递中，会经常用到两个地址：MAC 地址和 IP 地址。其中，MAC 地址会随着信息被发往不同的网络而改变，但 IP 地址当且仅当信息在私人网络中传递时才会改变。分组 P 在如题图所示的网络中传递时，首先由主机 H1 将分组发往路由器 R，此时源 MAC 地址为
+
+
+H1 主机本身的 MAC 地址，即 00-1a-2b-3c-4d-52，目的 MAC 地址为路由器 R 的 MAC 地址，即 00-1a-2b-3c-4d-51。当路由器 R 收到分组 P 后，根据分组 P 的目的 IP 地址，得知应将分组从另一个端口转发出去，于是会给分组 P 更换新的 MAC 地址，此时由于从另外端口转发出去，因此 P 的新源 MAC 地址变为负责转发的端口 MAC 地址，即 00-a1-b2-c3-d4-61，目的 MAC 地址应为主机 H2 的 MAC 地址，即 00-a1-b2-c3-d4-62。根据分析过程，题目所问的 MAC 地址应为路由器 R 两个端口的 MAC 地址，故选 D。
+
+
+38. 解析：对于此类题目，先分析需要聚合的 IP 地址。观察发现，题中的 4 个路由地址，前 16 位完全相同，不同之处在于第 3 段的 8 位中，将这 8 位展开写成二进制，分别如下：
+
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\hline
+第三段 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & 0\\\hline
+32 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 0\\\hline
+40 & 0 & 0 & 1 & 0 & 1 & 0 & 0 & 0\\\hline
+48 & 0 & 0 & 1 & 1 & 0 & 0 & 0 & 0\\\hline
+56 & 0 & 0 & 1 & 1 & 1 & 0 & 0 & 0\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+观察发现，4 个地址的第 3 段中，从前向后最多有 3 位相同，因此这 3 位是能聚合的最大位数。将这些相同的位都保留，将第 3 段第 3 位之后的所有位都置 0，就得到了聚合后的 IP 地址 35.230.32.0，其网络前缀为 16+3，也即前 19 位，故聚合后的网络地址为 35.230.32.0/19，答案为 C。
+
+
+39. 解析：传输层分用的定义是：接收方的传输层剥去报文首部后，能把这些数据正确交付到目的进程。C 和 D 选项显然不符。端口号是传输层服务访问点 TSAP，用来标识主机中的应用进程。对于 A 和 B 选项，源端口号是在需要对方回信时选用，不需要时可用全 0。目的端口号是在终点交付报文时使用到，符合题意，故选 B。
+
+
+40. 解析：电子邮件出现得较早，当时的数据传输能力较弱，使用者们往往也不需要传输较大的图片、视频等，因此 SMTP 具有一些目前来看较为老旧的性质，例如限制所有邮件报文的体部分，只能采用 7 位 ASCII 来表示。在如今的传输过程中，如果传输了非文本文件，往往需要将这些多媒体文件重新编码为 ASCII 再传输。因此无须转换即可传输的是 ASCII 文本，答案为 D。
+
+
+\subsection*{二、综合应用题}
+
+41. 解答：（1）题目要求算法时间上尽可能高效，因此采用空间换时间的办法。分配一个用于标记的数组 \(\displaystyle B[n]\)，用来记录 \(\displaystyle A\) 中是否出现了 1～\(\displaystyle n\) 中的正整数，\(\displaystyle B[0]\) 对应正整数 1，\(\displaystyle B[n-1]\) 对应正整数 \(\displaystyle n\)，初始化 \(\displaystyle B\) 中全部为 0。由于 \(\displaystyle A\) 中含有 \(\displaystyle n\) 个整数，因此可能返回的值是 1～\(\displaystyle n+1\)，当 \(\displaystyle A\) 中 \(\displaystyle n\) 个数恰好为 1～\(\displaystyle n\) 时返回 \(\displaystyle n+1\)。当数组 \(\displaystyle A\) 中出现了小于等于 0 或大于 \(\displaystyle n\) 的值时，会导致 1～\(\displaystyle n\) 中出现空余位置，返回结果必然在 1～\(\displaystyle n\) 中，因此对于 \(\displaystyle A\) 中出现了小于等于 0 或大于 \(\displaystyle n\) 的值可以不采取任何操作。经过以上分析可以得出算法流程：从 \(\displaystyle A[0]\) 开始遍历 \(\displaystyle A\)，若 \(\displaystyle 0<A[i]\leq n\)，则令 \(\displaystyle B[A[i]-1]=1\)；否则不进行操作。对 \(\displaystyle A\) 遍历结束后，开始遍历数组 \(\displaystyle B\)，若能查找到第一个满足 \(\displaystyle B[i]=0\) 的下标 \(\displaystyle i\)，返回 \(\displaystyle i+1\) 即为结果，此时说明 \(\displaystyle A\) 中未出现的最小正整数在 1～\(\displaystyle n\) 之间。若 \(\displaystyle B[i]\) 全部不为 0，返回 \(\displaystyle i+1\)（跳出循环时 \(\displaystyle i=n\)，\(\displaystyle i+1\) 等于 \(\displaystyle n+1\)），此时说明 \(\displaystyle A\) 中未出现的最小正整数是 \(\displaystyle n+1\)。
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+int findMissMin(int A[], int n)
+{
+    int i, *B;                         // 标记数组
+    B = (int *)malloc(sizeof(int) * n); // 分配空间
+    memset(B, 0, sizeof(int) * n);     // 赋初值为 0
+    for (i = 0; i < n; i++)
+        if (A[i] > 0 && A[i] <= n)     // 若 A[i] 的值介于 1～n，则标记数组 B
+            B[A[i] - 1] = 1;
+    for (i = 0; i < n; i++)            // 扫描数组 B，找到目标值
+        if (B[i] == 0) break;
+    return i + 1;                      // 返回结果
+}
+
+\end{Verbatim}
+
+（2）时间复杂度：遍历 \(\displaystyle A\) 一次，遍历 \(\displaystyle B\) 一次，两次循环内操作步骤为 \(\displaystyle O(1)\) 量级，因此时间复杂度为 \(\displaystyle O(n)\)。空间复杂度：额外分配了 \(\displaystyle B[n]\)，空间复杂度为 \(\displaystyle O(n)\)。
+
+
+42. 解答：（1）为了求解最经济的方案，可以把问题抽象为求无向带权图的最小生成树。可以采用手动 Prim 算法或 Kruskal 算法作图。注意本题最小生成树有两种构造，如下图所示。
+
+
+\begin{center}\includegraphics[width=.65\linewidth,height=.4\textheight,keepaspectratio]{../assets/figures/2018-answers-p007-b003.pdf}\end{center}
+
+方案的总费用为 16。
+
+
+（2）存储题中的图可以采用邻接矩阵（或邻接表）。构造最小生成树采用 Prim 算法（或 Kruskal 算法）。
+
+
+（3）TTL＝5，即 IP 分组的生存时间（最大传递距离）为 5，方案 1 中 TL 和 BJ 的距离过远，TTL＝5 不足以让 IP 分组从 H1 传送到 H2，因此 H2 不能收到 IP 分组。而方案 2 中 TL 和 BJ 邻近，H2 可以收到 IP 分组。
+
+
+43. 解答：（1）程序定时向缓存端口查询数据，由于缓存端口大小有限，必须在传输完端口大小的数据时访问端口，以防止部分数据未被及时读取而丢失。设备 A 准备 32 位数据所用的时间为 \(\displaystyle 4\mathrm B/(2\mathrm{MB/s})=2\mu\mathrm s\)，所以最多每隔 \(\displaystyle 2\mu\mathrm s\) 必须查询一次，每秒的查询次数至少是 \(\displaystyle 1\mathrm s/(2\mu\mathrm s)=5\times10^5\)，每秒 CPU 用于设备 A 输入/输出的时间至少为 \(\displaystyle 5\times10^5\times10\times4=2\times10^7\) 个时钟周期，占整个 CPU 时间的百分比至少是 \(\displaystyle 2\times10^7/(500\mathrm M)=4\%\)。
+
+
+（2）中断响应和中断处理的时间为 \(\displaystyle 400\times(1/(500\mathrm M))=0.8\mu\mathrm s\)，这时只需判断设备 B 准备 32 位数据要多久，如果准备数据的时间小于中断响应和中断处理的时间，那么数据就会被刷新，造成丢失。经过计算，设备 B 准备 32 位数据所用的时间为 \(\displaystyle 4\mathrm B/(40\mathrm{MB/s})=0.1\mu\mathrm s\)，因此设备 B 不适合采用中断 I/O 方式。
+
+
+（3）在 DMA 方式中，只有预处理和后处理需要 CPU 处理，数据的传送过程是由 DMA 控制的。设备 B 每秒的 DMA 次数最多为 \(\displaystyle 40\mathrm{MB}/1000\mathrm B=40000\)，CPU 用于设备 B 输入/输出的时间最多为 \(\displaystyle 40000\times500=2\times10^7\) 个时钟周期，占 CPU 总时间的百分比最多为 \(\displaystyle 2\times10^7/(500\mathrm M)=4\%\)。
+
+
+44. 解答：（1）物理地址由实页号和页内地址拼接，因此其位数为 \(\displaystyle 16+12=28\) 或直接可得 \(\displaystyle 20+3+5=28\)。
+
+
+（2）TLB 采用全相联映射，可以把页表内容调入任一块空 TLB 项中，TLB 中每项都有一个比较器，没有映射规则，只要空闲就行。TLB 采用静态存储器 SRAM，读写速度快，但成本高，多用于容量较小的高速缓冲存储器。
+
+
+（3）从图中可以看到，Cache 中每组有两行，故采用 2 路组相联映射方式。因为是 2 路组相联并采用 LRU 替换算法，所以每行（或每组）需要 1 位 LRU 位；因为采用回写策略，所以每行有 1 位修改位（脏位），根据脏位判断数据是否被更新，若脏位为 1 则需要写回内存。
+
+
+28 位物理地址中 Tag 字段占 20 位，组索引字段占 3 位，块内偏移地址占 5 位，故 Cache 共有 \(\displaystyle 2^3=8\) 组，每组 2 行，每行有 \(\displaystyle 2^5=32\mathrm B\)，故 Cache 总容量为 \(\displaystyle 8\times2\times(20+1+1+132\times8)=4464\) 位＝558 字节。
+
+
+Cache 中有效位用来指出所在 Cache 行中的信息是否有效。
+
+
+（4）虚拟地址分为两部分：虚页号、页内地址；物理地址分为两部分：实页号、页内地址。利用虚拟地址的虚页号部分去查找 TLB 表（缺失时从页表调入），将实页号取出后和虚拟地址的页内地址拼接，就形成了物理地址。虚页号 008CH 恰好在 TLB 表中对应实页号 0040H（有效位为 1，说明存在），虚拟地址的后 3 位为页内地址 040H，则对应的物理地址是 0040040H。
+
+
+物理地址为 0040040H，其中高 20 位 00400H 为标志字段，低 5 位 00000B 为块内偏移量，中间 3 位 010B 为组号 2，因此将 00400H 与 Cache 中的第 2 组两行中的标志字段同时比较，可以看出，虽然有一个 Cache 行中的标志字段与 00400H 相等，但对应的有效位为 0，而另一 Cache 行的标志字段与 00400H 不相等，故访问 Cache 不命中。
+
+
+因为物理地址的低 12 位与虚拟地址低 12 位相同，即为 001001100000B。根据物理地址的结构，物理地址的后八位 01100000B 的前三位 011B 是组号，因此该地址所在的主存映射到 Cache 的组号为 3。
+
+
+45. 解答：（1）由图可知，地址总长度为 32 位，高 20 位为虚页号，低 12 位为页内地址，且虚页号高 10 位为页目录号，低 10 位为页号。展开成二进制表示为
+
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-6\tabcolsep-4\arrayrulewidth)/3\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-6\tabcolsep-4\arrayrulewidth)/3\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-6\tabcolsep-4\arrayrulewidth)/3\relax}|}\hline
+页目录号（10 位） & 页号（10 位） & 页内地址（12 位）\\\hline
+0000 0001 10 & 00 0000 0110 & 0000 0000 1000\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+故十六进制表示为 0180 6008H。
+
+
+（2）PDBR 为页目录基地址寄存器（Page-Directory Base Register），其存储页目录表物理内存基地址。进程切换时，PDBR 的内容会变化；同一进程的线程切换时，PDBR 的内容不会变化。每个进程地址空间、页目录和 PDBR 的内容存在一一对应的关系。进程切换时，地址空间发生了变化，对应的页目录及其起始地址也相应变化，因此需要用进程切换后当前进程的页目录起始地址刷新 PDBR。同一进程中的线程共享该进程的地址空间，其线程发生切换时，地址空间不变，线程使用的页目录不变，因此 PDBR 的内容也不变。
+
+
+（3）改进型 CLOCK 置换算法需要用到使用位和修改位，故需要设置访问字段（使用位）和修改字段（脏位）。
+
+
+46. 解答：（1）簇大小为 4KB，每个地址项长度为 4B，故每簇有 \(\displaystyle 4\mathrm{KB}/4\mathrm B=1024\) 个地址项。最大文件
+
+
+的物理块数可达 \(\displaystyle 8+1\times1024+1\times1024^2+1\times1024^3\)，每个物理块（簇）大小为 4KB，故最大文件长度为 \(\displaystyle (8+1\times1024+1\times1024^2+1\times1024^3)\times4\mathrm{KB}=32\mathrm{KB}+4\mathrm{MB}+4\mathrm{GB}+4\mathrm{TB}\)。
+
+
+（2）文件索引节点总个数为 \(\displaystyle 1\mathrm M\times4\mathrm{KB}/64\mathrm B=64\mathrm M\)，5600B 的文件占 2 个簇，512M 个簇可存放文件总个数为 \(\displaystyle 512\mathrm M/2=256\mathrm M\)。可表示文件的总个数受限于文件索引节点总个数，故能存储 64M 个大小为 5600B 的图像文件。
+
+
+（3）文件 F1 的大小为 \(\displaystyle 6\mathrm{KB}<4\mathrm{KB}\times8=32\mathrm{KB}\)，故获取文件 F1 的最后一个簇的簇号只需要访问索引节点直接地址项。文件 F2 的大小为 40KB，\(\displaystyle 4\mathrm{KB}\times8<40\mathrm{KB}<4\mathrm{KB}\times8+4\mathrm{KB}\times1024\)，故获取 F2 的最后一个簇的簇号还需要读一级索引表。综上，需要的时间不相同。
+
+
+47. 解答：（1）广播地址是网络地址中主机号全 1 的地址（主机号全 0 的地址代表网络本身）。销售部和技术部均分配了 192.168.1.0/24 的 IP 地址空间，IP 地址的前 24 位为子网的网络号。于是在后 8 位中划分部门的子网，选择前 1 位作为部门子网的网络号。令销售部子网的网络号为 0，技术部子网的网络号为 1，则技术部子网的完整地址为 192.168.1.128；令销售部子网的主机号全 1，可以得到该部门的广播地址为 192.168.1.127。
+
+
+每个主机仅分配一个 IP 地址，计算目前还可以分配的主机数，用技术部可以分配的主机数减去已分配的主机数，技术部总共可以分配给计算机的主机数为 \(\displaystyle 2^7-2=126\)（减去全 0 和全 1 的主机号）。已经分配了 \(\displaystyle 208-129+1=80\) 个，此外还有 1 个 IP 地址分配给了路由器的端口（192.168.1.254），因此还可以分配 \(\displaystyle 126-80-1=45\) 台。
+
+
+（2）判断分片大小，需要考虑各个网段的 MTU，而且注意分片的数据长度必须是 8B 的整数倍。由题可知，在技术部子网内，\(\displaystyle MTU=800\mathrm B\)，IP 分组头部长 20B，最大 IP 分片封装数据的字节数为 \(\displaystyle \lfloor(800-20)/8\rfloor\times8=776\)。至少需要的分片数为 \(\displaystyle \lceil(1500-20)/776\rceil=2\)。第 1 个分片的偏移量为 0；第 2 个分片的偏移量为 \(\displaystyle 776/8=97\)。
+
+\end{document}

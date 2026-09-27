@@ -1,0 +1,264 @@
+{
+  "year": 2012,
+  "pages": [
+    {
+      "source_page": 36,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2012 年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共 8 小题，每小题 4 分，共 32 分。在每小题给出的四个选项中，只有一项符合题目要求，把所选项前的字母填在题后的括号内。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 曲线 \\(y=\\frac{x^2+x}{x^2-1}\\) 的渐近线的条数为（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0。 (B) 1。 (C) 2。 (D) 3。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 设函数 \\(f(x)=(e^x-1)(e^{2x}-2)\\cdots(e^{nx}-n)\\)，其中 \\(n\\) 为正整数，则 \\(f^{\\prime}(0)=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\((-1)^{n-1}(n-1)!\\)。 (B) \\((-1)^n(n-1)!\\)。 (C) \\((-1)^{n-1}n!\\)。 (D) \\((-1)^nn!\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 设函数 \\(f(t)\\) 连续，则二次积分 \\(\\int_0^{\\pi/2}d\\theta\\int_{2\\cos\\theta}^2 f(r^2)r\\,dr=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(\\int_0^2dx\\int_{\\sqrt{2x-x^2}}^{\\sqrt{4-x^2}}\\sqrt{x^2+y^2}f(x^2+y^2)\\,dy\\)。 (B) \\(\\int_0^2dx\\int_{\\sqrt{2x-x^2}}^{\\sqrt{4-x^2}}f(x^2+y^2)\\,dy\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) \\(\\int_0^2dy\\int_{1+\\sqrt{1-y^2}}^{\\sqrt{4-y^2}}\\sqrt{x^2+y^2}f(x^2+y^2)\\,dx\\)。 (D) \\(\\int_0^2dy\\int_{1+\\sqrt{1-y^2}}^{\\sqrt{4-y^2}}f(x^2+y^2)\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 已知级数 \\(\\sum_{n=1}^{\\infty}(-1)^n\\sqrt n\\sin\\frac1{n^\\alpha}\\) 绝对收敛，级数 \\(\\sum_{n=1}^{\\infty}\\frac{(-1)^n}{n^{2-\\alpha}}\\) 条件收敛，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(0<\\alpha\\leq\\frac12\\)。 (B) \\(\\frac12<\\alpha\\leq1\\)。 (C) \\(1<\\alpha\\leq\\frac32\\)。 (D) \\(\\frac32<\\alpha<2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 设 \\(\\alpha_1=\\begin{pmatrix}0\\\\0\\\\c_1\\end{pmatrix},\\ \\alpha_2=\\begin{pmatrix}0\\\\1\\\\c_2\\end{pmatrix},\\ \\alpha_3=\\begin{pmatrix}1\\\\-1\\\\c_3\\end{pmatrix},\\ \\alpha_4=\\begin{pmatrix}-1\\\\1\\\\c_4\\end{pmatrix}\\)，其中 \\(c_1,c_2,c_3,c_4\\) 为任意常数，则下列向量组线性相关的为（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(\\alpha_1,\\alpha_2,\\alpha_3\\)。 (B) \\(\\alpha_1,\\alpha_2,\\alpha_4\\)。 (C) \\(\\alpha_1,\\alpha_3,\\alpha_4\\)。 (D) \\(\\alpha_2,\\alpha_3,\\alpha_4\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 设 \\(A\\) 为 3 阶矩阵，\\(P\\) 为 3 阶可逆矩阵，且 \\(P^{-1}AP=\\begin{pmatrix}1&0&0\\\\0&1&0\\\\0&0&2\\end{pmatrix}\\)。若 \\(P=(\\alpha_1,\\alpha_2,\\alpha_3),\\ Q=(\\alpha_1+\\alpha_2,\\alpha_2,\\alpha_3)\\)，则 \\(Q^{-1}AQ=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(\\begin{pmatrix}1&0&0\\\\0&2&0\\\\0&0&1\\end{pmatrix}\\)。 (B) \\(\\begin{pmatrix}1&0&0\\\\0&1&0\\\\0&0&2\\end{pmatrix}\\)。 (C) \\(\\begin{pmatrix}2&0&0\\\\0&1&0\\\\0&0&2\\end{pmatrix}\\)。 (D) \\(\\begin{pmatrix}2&0&0\\\\0&2&0\\\\0&0&1\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 设随机变量 \\(X\\) 与 \\(Y\\) 相互独立，且都服从区间 \\((0,1)\\) 上的均匀分布，则 \\(P\\{X^2+Y^2\\leq1\\}=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(\\frac14\\)。 (B) \\(\\frac12\\)。 (C) \\(\\frac\\pi8\\)。 (D) \\(\\frac\\pi4\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 37,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(8) 设 \\(X_1,X_2,X_3,X_4\\) 为来自总体 \\(N(1,\\sigma^2)\\)（\\(\\sigma>0\\)）的简单随机样本，则统计量 \\(\\frac{X_1-X_2}{|X_3+X_4-2|}\\) 的分布为（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(N(0,1)\\)。 (B) \\(t(1)\\)。 (C) \\(\\chi^2(1)\\)。 (D) \\(F(1,1)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共 6 小题，每小题 4 分，共 24 分，把答案填在题中横线上。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9) \\(\\lim_{x\\to\\pi/4}(\\tan x)^{1/(\\cos x-\\sin x)}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(10) 设函数 \\(f(x)=\\begin{cases}\\ln\\sqrt x,&x\\geq1,\\\\2x-1,&x<1,\\end{cases}\\ y=f(f(x))\\)，则 \\(\\left.\\frac{dy}{dx}\\right|_{x=e}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(11) 设连续函数 \\(z=f(x,y)\\) 满足 \\(\\lim_{\\substack{x\\to0\\\\y\\to1}}\\frac{f(x,y)-2x+y-2}{\\sqrt{x^2+(y-1)^2}}=0\\)，则 \\(dz|_{(0,1)}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(12) 由曲线 \\(y=\\frac4x\\) 和直线 \\(y=x\\) 及 \\(y=4x\\) 在第一象限中围成的平面图形的面积为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(13) 设 \\(A\\) 为 3 阶矩阵，\\(|A|=3\\)，\\(A^*\\) 为 \\(A\\) 的伴随矩阵，若交换 \\(A\\) 的第 1 行与第 2 行得矩阵 \\(B\\)，则 \\(|BA^*|=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(14) 设 \\(A,B,C\\) 是随机事件，\\(A\\) 与 \\(C\\) 互不相容，\\(P(AB)=\\frac12,\\ P(C)=\\frac13\\)，则 \\(P(AB\\mid\\overline C)=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共 9 小题，共 94 分，解答应写出文字说明、证明过程或演算步骤。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(15)（本题满分 10 分）求极限 \\(\\lim_{x\\to0}\\frac{e^{x^2}-e^{2-2\\cos x}}{x^4}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(16)（本题满分 10 分）计算二重积分 \\(\\iint_D e^xxy\\,dx\\,dy\\)，其中 \\(D\\) 是以曲线 \\(y=\\sqrt x,\\ y=\\frac1{\\sqrt x}\\) 及 \\(y\\) 轴为边界的无界区域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(17)（本题满分 10 分）某企业为生产甲、乙两种型号的产品投入的固定成本为 10 000（万元）。设该企业生产甲、乙两种产品的产量分别为 \\(x\\)（件）和 \\(y\\)（件），且这两种产品的边际成本分别为 \\(20+\\frac x2\\)（万元／件）与 "
+        }
+      ]
+    },
+    {
+      "source_page": 38,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "\\(6+y\\)（万元／件）。（I）求生产甲、乙两种产品的总成本函数 \\(C(x,y)\\)（万元）；（II）当总产量为 50 件时，甲、乙两种产品的产量各为多少时可使总成本最小？求最小总成本；（III）求总产量为 50 件且总成本最小时甲产品的边际成本，并解释其经济意义。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(18)（本题满分 10 分）证明 \\(x\\ln\\frac{1+x}{1-x}+\\cos x\\geq1+\\frac{x^2}{2}\\)（\\(-1<x<1\\)）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(19)（本题满分 10 分）已知函数 \\(f(x)\\) 满足方程 \\(f^{\\prime\\prime}(x)+f^{\\prime}(x)-2f(x)=0\\) 及 \\(f^{\\prime\\prime}(x)+f(x)=2e^x\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求 \\(f(x)\\) 的表达式；（II）求曲线 \\(y=f(x^2)\\int_0^x f(-t^2)\\,dt\\) 的拐点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(20)（本题满分 11 分）设 \\(A=\\begin{pmatrix}1&a&0&0\\\\0&1&a&0\\\\0&0&1&a\\\\a&0&0&1\\end{pmatrix},\\ \\beta=\\begin{pmatrix}1\\\\-1\\\\0\\\\0\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）计算行列式 \\(|A|\\)；（II）当实数 \\(a\\) 为何值时，方程组 \\(Ax=\\beta\\) 有无穷多解，并求其通解。"
+        }
+      ]
+    },
+    {
+      "source_page": 39,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(21)（本题满分 11 分）已知 \\(A=\\begin{pmatrix}1&0&1\\\\0&1&1\\\\-1&0&a\\\\0&a&-1\\end{pmatrix}\\)，二次型 \\(f(x_1,x_2,x_3)=x^{\\mathrm T}(A^{\\mathrm T}A)x\\) 的秩为 2。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求实数 \\(a\\) 的值；（II）求正交变换 \\(x=Qy\\) 将 \\(f\\) 化为标准形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(22)（本题满分 11 分）设二维离散型随机变量 \\((X,Y)\\) 的概率分布为：\\(\\begin{array}{c|ccc}X\\backslash Y&0&1&2\\\\\\hline 0&\\frac14&0&\\frac14\\\\1&0&\\frac13&0\\\\2&\\frac1{12}&0&\\frac1{12}\\end{array}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求 \\(P\\{X=2Y\\}\\)；（II）求 \\(\\operatorname{Cov}(X-Y,Y)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(23)（本题满分 11 分）设随机变量 \\(X\\) 与 \\(Y\\) 相互独立，且都服从参数为 1 的指数分布。记 \\(U=\\max\\{X,Y\\},\\ V=\\min\\{X,Y\\}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求 \\(V\\) 的概率密度 \\(f_V(v)\\)；（II）求 \\(E(U+V)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 40,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2012 年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) C。 (2) A。 (3) B。 (4) D。 (5) C。 (6) B。 (7) D。 (8) B。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9) \\(e^{-\\sqrt2}\\)。 (10) \\(\\frac1e\\)。 (11) \\(2dx-dy\\)。 (12) \\(4\\ln2\\)。 (13) \\(-27\\)。 (14) \\(\\frac34\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(15) \\(\\frac1{12}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(16) \\(\\frac12\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(17)（I）\\(C(x,y)=20x+\\frac{x^2}{4}+6y+\\frac{y^2}{2}+10000\\)。（II）若总产量为 50 件，则当甲种产品的产量为 24 件，乙种产品的产量为 26 件时，总成本最小，最小成本为 \\(C(24,26)=11118\\) 万元。（III）当总产量为 50 件且总成本最小时，甲种产品的边际成本为 32 万元。其经济意义为：当甲、乙两种产品的产量分别为 24、26 件时，若甲种产品的产量再增加 1 件，则总成本增加 32 万元，即当乙种产品的产量为 26 件时，生产第 25 件甲种产品需要 32 万元。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(18) 证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(19)（I）\\(f(x)=e^x\\)。（II）\\((0,0)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(20)（I）\\(|A|=1-a^4\\)。（II）\\(a=-1\\) 时，方程组 \\(Ax=\\beta\\) 有无穷多解，其通解为 \\(k(1,1,1,1)^{\\mathrm T}+(0,-1,0,0)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(21)（I）\\(a=-1\\)。（II）\\(Q=\\begin{pmatrix}\\frac1{\\sqrt6}&\\frac1{\\sqrt2}&\\frac1{\\sqrt3}\\\\\\frac1{\\sqrt6}&-\\frac1{\\sqrt2}&\\frac1{\\sqrt3}\\\\\\frac2{\\sqrt6}&0&-\\frac1{\\sqrt3}\\end{pmatrix}\\)，正交变换 \\(x=Qy\\) 将二次型 \\(f(x_1,x_2,x_3)\\) 变成标准形 \\(f=6y_1^2+2y_2^2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(22)（I）\\(\\frac14\\)。（II）\\(-\\frac23\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(23)（I）\\(f_V(v)=\\begin{cases}2e^{-2v},&v>0,\\\\0,&v\\leq0.\\end{cases}\\)（II）\\(2\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

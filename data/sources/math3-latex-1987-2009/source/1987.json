@@ -1,0 +1,648 @@
+{
+  "year": 1987,
+  "pages": [
+    {
+      "source_page": 3,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1987年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "paragraph",
+          "text": "【编者注】1987年到1996年的数学试卷IV、V均为现在的数学三。"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、判断题（本题共5小题，每小题2分，满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\lim_{x\\to0}e^{1/x}=\\infty\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(\\int_{-\\pi}^{\\pi}x^4\\sin x\\,dx=0\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 4,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（3）若级数 \\(\\sum_{n=1}^{\\infty}a_n\\) 与 \\(\\sum_{n=1}^{\\infty}b_n\\) 均发散，则级数 \\(\\sum_{n=1}^{\\infty}(a_n+b_n)\\) 必发散。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）假设 \\(D\\) 是矩阵 \\(A\\) 的 \\(r\\) 阶子式，且 \\(D\\ne0\\)，但含 \\(D\\) 的一切 \\(r+1\\) 阶子式都等于0，那么矩阵 \\(A\\) 的一切 \\(r+1\\) 阶子式都等于0。"
+        }
+      ]
+    },
+    {
+      "source_page": 5,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（5）连续型随机变量取任何给定实数值的概率均为零。"
+        }
+      ]
+    },
+    {
+      "source_page": 6,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、选择题（本大题共5小题，每小题2分，满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）下列函数在其定义域内连续的是（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f(x)=\\ln x+\\sin x\\)。 （B）\\(f(x)=\\begin{cases}\\sin x,&x\\le0,\\\\\\cos x,&x>0.\\end{cases}\\) （C）\\(f(x)=\\begin{cases}x+1,&x<0,\\\\0,&x=0,\\\\x-1,&x>0.\\end{cases}\\) （D）\\(f(x)=\\begin{cases}\\frac1{\\sqrt{|x|}},&x\\ne0,\\\\0,&x=0.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）若 \\(f(x)\\) 在 \\((a,b)\\) 内可导且 \\(a<x_1<x_2<b\\)，则至少存在一点 \\(\\xi\\)，使得（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f(b)-f(a)=f\\prime(\\xi)(b-a)\\;(a<\\xi<b)\\)。 （B）\\(f(b)-f(x_1)=f\\prime(\\xi)(b-x_1)\\;(x_1<\\xi<b)\\)。 （C）\\(f(x_2)-f(x_1)=f\\prime(\\xi)(x_2-x_1)\\;(x_1<\\xi<x_2)\\)。 （D）\\(f(x_2)-f(a)=f\\prime(\\xi)(x_2-a)\\;(a<\\xi<x_2)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 7,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（3）下列广义积分收敛的是（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\int_e^{+\\infty}\\frac{\\ln x}{x}\\,dx\\)。 （B）\\(\\int_e^{+\\infty}\\frac1{x\\ln x}\\,dx\\)。 （C）\\(\\int_e^{+\\infty}\\frac1{x(\\ln x)^2}\\,dx\\)。 （D）\\(\\int_e^{+\\infty}\\frac1{x\\sqrt{\\ln x}}\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(n\\) 阶方阵 \\(A\\) 的秩 \\(r(A)=r<n\\)，那么在 \\(A\\) 的 \\(n\\) 个行向量中（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）必有 \\(r\\) 个行向量线性无关。 （B）任意 \\(r\\) 个行向量都线性无关。 （C）任意 \\(r\\) 个行向量都构成极大线性无关向量组。 （D）任意一个行向量都可以由其他 \\(r\\) 个行向量线性表示。"
+        }
+      ]
+    },
+    {
+      "source_page": 8,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（5）若两事件 \\(A\\) 和 \\(B\\) 同时出现的概率 \\(P(AB)=0\\)，则（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(A\\) 和 \\(B\\) 不相容（互斥）。 （B）\\(AB\\) 是不可能事件。 （C）\\(AB\\) 未必是不可能事件。 （D）\\(P(A)=0\\) 或 \\(P(B)=0\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 9,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "三、计算下列各题（每小题4分，满分16分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求极限 \\(\\displaystyle\\lim_{x\\to0}(1+xe^x)^{1/x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设 \\(y=\\ln\\frac{\\sqrt{1+x^2}-1}{\\sqrt{1+x^2}+1}\\)，求 \\(y\\prime\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 10,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(z=\\arctan\\frac{x+y}{x-y}\\)，求 \\(dz\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）求不定积分 \\(\\displaystyle\\int e^{\\sqrt{2x-1}}\\,dx\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 11,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "四、（本题满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "考虑函数 \\(y=\\sin x,\\ 0\\le x\\le\\frac\\pi2\\)。问："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(t\\) 取何值时，右图中阴影部分的面积 \\(S_1\\) 与 \\(S_2\\) 之和 \\(S=S_1+S_2\\) 最小？"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(t\\) 取何值时，面积 \\(S=S_1+S_2\\) 最大？"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            370,
+            29,
+            477,
+            147
+          ],
+          "caption": "函数 y=sin x 与面积 S_1、S_2 的示意图"
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "五、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "将函数 \\(f(x)=\\frac1{x^2-3x+2}\\) 展开成 \\(x\\) 的幂级数，并指出收敛区间。"
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "六、（本题满分5分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "计算二重积分 \\(\\iint_D e^{x^2}\\,dx\\,dy\\)，其中 \\(D\\) 是第一象限中由直线 \\(y=x\\) 和曲线 \\(y=x^3\\) 围成的封闭区域。"
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "七、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知某商品的需求量 \\(x\\) 对价格 \\(p\\) 的弹性 \\(\\eta=-3p^3\\)，而市场对该商品的最大需求量为1（万件）。求需求函数。"
+        }
+      ]
+    },
+    {
+      "source_page": 15,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "八、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "解线性方程组"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{cases}2x_1-x_2+4x_3-3x_4=-4,\\\\x_1+x_3-x_4=-3,\\\\3x_1+x_2+x_3=1,\\\\7x_1+7x_3-3x_4=3.\\end{cases}"
+        }
+      ]
+    },
+    {
+      "source_page": 16,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "九、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设矩阵 \\(A\\) 和 \\(B\\) 满足 \\(AB=A+2B\\)，求矩阵 \\(B\\)，其中"
+        },
+        {
+          "type": "display",
+          "tex": "A=\\begin{pmatrix}4&2&3\\\\1&1&0\\\\-1&2&3\\end{pmatrix}."
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "十、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "求矩阵 \\(A\\) 的特征值与对应的特征向量，其中"
+        },
+        {
+          "type": "display",
+          "tex": "A=\\begin{pmatrix}-3&-1&2\\\\0&-1&4\\\\-1&0&1\\end{pmatrix}."
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "十一、（本题共2小题，每小题4分，满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）已知随机变量 \\(X\\) 的概率分布为 \\(P\\{X=1\\}=0.2,\\ P\\{X=2\\}=0.3,\\ P\\{X=3\\}=0.5\\)，试写出 \\(X\\) 的分布函数 \\(F(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）已知随机变量 \\(Y\\) 的概率密度为"
+        },
+        {
+          "type": "display",
+          "tex": "f(y)=\\begin{cases}\\frac{y}{a^2}e^{-y^2/(2a^2)},&y>0,\\\\0,&y\\le0,\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "求随机变量 \\(Z=\\frac1Y\\) 的数学期望 \\(E(Z)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "十二、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "假设有两箱同种零件：第一箱内装50件，其中10件一等品；第二箱内装30件，其中18件一等品。现从两箱中随意挑出一箱，然后从该箱中先后随机取两个零件（取出的零件均不放回）。试求："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）先取出的零件是一等品的概率 \\(p\\)；"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）在先取出的零件是一等品的条件下，第二次取出的零件仍然是一等品的条件概率 \\(q\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 20,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、判断题（本题共5小题，每小题2分，满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第一、（1）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）【同试卷IV 第一、（2）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）若函数 \\(f(x)\\) 在区间 \\((a,b)\\) 上严格单增，则对区间 \\((a,b)\\) 内任何一点 \\(x\\) 有 \\(f\\prime(x)>0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）若 \\(A\\) 为 \\(n\\) 阶方阵，\\(k\\) 为常数，且 \\(|A|\\) 和 \\(|kA|\\) 为 \\(A\\) 和 \\(kA\\) 的行列式，则 \\(|kA|=k|A|\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）【同试卷IV 第一、（5）题】"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共5小题，每小题2分，满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第二、（1）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）【同试卷IV 第二、（2）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）【同试卷IV 第二、（3）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）【同试卷IV 第二、（4）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）对于任意两个事件 \\(A\\) 和 \\(B\\)，有 \\(P(A-B)=\\)（　　）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P(A)-P(B)\\)。 （B）\\(P(A)-P(B)+P(AB)\\)。 （C）\\(P(A)-P(AB)\\)。 （D）\\(P(A)-P(\\bar B)-P(\\overline{AB})\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 21,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "三、计算下列各题（本题共5小题，每小题4分，满分20分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求极限 \\(\\displaystyle\\lim_{x\\to+\\infty}\\frac{\\ln(1+1/x)}{\\operatorname{arccot}x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）【同试卷IV 第三、（2）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）【同试卷IV 第三、（3）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）计算定积分 \\(\\displaystyle\\int_{1/2}^1 e^{\\sqrt{2x-1}}\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）求不定积分 \\(\\displaystyle\\int\\frac{x\\,dx}{x^4+2x^2+5}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "考虑函数 \\(y=x^2,\\ 0\\le x\\le1\\)。问："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(t\\) 取何值时，右图中阴影部分的面积 \\(S_1\\) 与 \\(S_2\\) 之和 \\(S=S_1+S_2\\) 最小？"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(t\\) 取何值时，面积 \\(S=S_1+S_2\\) 最大？"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            322,
+            169,
+            439,
+            260
+          ],
+          "caption": "函数 y=x^2 与面积 S_1、S_2 的示意图"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分5分）【同试卷IV 第六题】"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设某产品的总成本函数为 \\(C(x)=400+3x+\\frac12x^2\\)，而需求函数为 \\(p=\\frac{100}{\\sqrt x}\\)，其中 \\(x\\) 为产量（假定等于需求量）、\\(p\\) 为价格，试求："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）边际成本； （2）边际收益； （3）边际利润； （4）收益的价格弹性。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分8分）【同试卷IV 第八题】"
+        },
+        {
+          "type": "heading",
+          "text": "八、（本题满分7分）【同试卷IV 第九题】"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分6分）【同试卷IV 第十题】"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知随机变量 \\(X\\) 的概率分布为 \\(P\\{X=1\\}=0.2,\\ P\\{X=2\\}=0.3,\\ P\\{X=3\\}=0.5\\)，试写出 \\(X\\) 的分布函数 \\(F(x)\\)，并求 \\(X\\) 的数学期望与方差。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分8分）【同试卷IV 第十二题】"
+        }
+      ]
+    },
+    {
+      "source_page": 60,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1987年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、判断题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）×。 （2）√。 （3）×。 （4）√。 （5）√。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）A。 （2）C。 （3）C。 （4）A。 （5）C。"
+        },
+        {
+          "type": "heading",
+          "text": "三、计算题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(e\\)。 （2）\\(\\frac2{x\\sqrt{1+x^2}}\\)。 （3）\\(dz=\\frac{-y\\,dx+x\\,dy}{x^2+y^2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）\\((\\sqrt{2x-1}-1)e^{\\sqrt{2x-1}}+C\\)，其中 \\(C\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（1）当 \\(t=\\frac\\pi4\\) 时，\\(S_1+S_2\\) 最小。（2）当 \\(t=0\\) 时，\\(S_1+S_2\\) 最大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、\\(f(x)=\\sum_{n=0}^{\\infty}\\left(1-\\frac1{2^{n+1}}\\right)x^n\\)，收敛区间为 \\((-1,1)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、\\(\\frac e2-1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、\\(x=e^{-p^3}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、\\((x_1,x_2,x_3,x_4)^{\\mathrm T}=k(-1,2,1,0)^{\\mathrm T}+(3,-8,0,6)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、"
+        },
+        {
+          "type": "display",
+          "tex": "B=\\begin{pmatrix}3&-8&-6\\\\2&-9&-6\\\\-2&12&9\\end{pmatrix}."
+        },
+        {
+          "type": "paragraph",
+          "text": "十、特征值 \\(\\lambda=1\\)，特征向量为 \\(k(0,2,1)^{\\mathrm T}\\)，其中 \\(k\\) 为任意非零常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（1）"
+        },
+        {
+          "type": "display",
+          "tex": "F(x)=\\begin{cases}0,&x<1,\\\\0.2,&1\\le x<2,\\\\0.5,&2\\le x<3,\\\\1,&x\\ge3.\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(\\frac{\\sqrt{2\\pi}}{2a}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、（1）\\(\\frac25\\)。（2）\\(0.48557\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、判断题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第一、（1）题】 （2）【同试卷IV 第一、（2）题】 （3）×。 （4）×。 （5）【同试卷IV 第一、（5）题】"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）【同试卷IV 第二、（1）题】 （2）【同试卷IV 第二、（2）题】 （3）【同试卷IV 第二、（3）题】 （4）【同试卷IV 第二、（4）题】 （5）C。"
+        }
+      ]
+    },
+    {
+      "source_page": 61,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "（试卷V）参考答案续"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（1）\\(1\\)。 （2）【同试卷IV 第三、（2）题】 （3）【同试卷IV 第三、（3）题】 （4）\\(1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）\\(\\frac14\\arctan\\frac{x^2+1}{2}+C\\)，其中 \\(C\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（1）当 \\(t=\\frac12\\) 时，\\(S_1+S_2\\) 最小。（2）当 \\(t=1\\) 时，\\(S_1+S_2\\) 最大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、【同试卷IV 第六题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（1）边际成本为 \\(\\frac{dC(x)}{dx}=3+x\\)。（2）边际收益为 \\(\\frac{dR(x)}{dx}=\\frac{50}{\\sqrt x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）边际利润为 \\(\\frac{d(R-C)}{dx}=\\frac{50}{\\sqrt x}-3-x\\)。（4）收益对价格的弹性为 \\(-1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、【同试卷IV 第八题】 八、【同试卷IV 第九题】 九、【同试卷IV 第十题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、"
+        },
+        {
+          "type": "display",
+          "tex": "F(x)=\\begin{cases}0,&x<1,\\\\0.2,&1\\le x<2,\\\\0.5,&2\\le x<3,\\\\1,&x\\ge3,\\end{cases}\\quad E(X)=2.3,\\quad D(X)=0.61."
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、【同试卷IV 第十二题】"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

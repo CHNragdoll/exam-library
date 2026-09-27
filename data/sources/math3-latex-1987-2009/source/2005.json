@@ -1,0 +1,200 @@
+{
+  "year": 2005,
+  "pages": [
+    {
+      "source_page": 104,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2005年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共6小题，每小题4分，满分24分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）极限 \\(\\lim_{x\\to\\infty}x\\sin\\frac{2x}{x^2+1}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）微分方程 \\(xy^{\\prime}+y=0\\) 满足初始条件 \\(y(1)=2\\) 的特解为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设二元函数 \\(z=xe^{x+y}+(x+1)\\ln(1+y)\\)，则 \\(\\left.\\mathrm dz\\right|_{(1,0)}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设行向量组 \\((2,1,1,1),(2,1,a,a),(3,2,1,a),(4,3,2,1)\\) 线性相关，且 \\(a\\ne1\\)，则 \\(a=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）从数 \\(1,2,3,4\\) 中任取一个数，记为 \\(X\\)，再从 \\(1,\\ldots,X\\) 中任取一个数，记为 \\(Y\\)，则 \\(P\\{Y=2\\}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）设二维随机变量 \\((X,Y)\\) 的概率分布为 \\(\\begin{array}{c|cc}X\\backslash Y&0&1\\\\\\hline0&0.4&a\\\\1&b&0.1\\end{array}\\)。若随机事件 \\(\\{X=0\\}\\) 与 \\(\\{X+Y=1\\}\\) 相互独立，则 \\(a=\\)______，\\(b=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共8小题，每小题4分，满分32分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）当 \\(a\\) 取下列哪个值时，函数 \\(f(x)=2x^3-9x^2+12x-a\\) 恰有两个不同的零点（　）。（A）2。（B）4。（C）6。（D）8。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设 \\(I_1=\\iint_D\\cos\\sqrt{x^2+y^2}\\,\\mathrm d\\sigma\\)，\\(I_2=\\iint_D\\cos(x^2+y^2)\\,\\mathrm d\\sigma\\)，\\(I_3=\\iint_D\\cos(x^2+y^2)^2\\,\\mathrm d\\sigma\\)，其中 \\(D=\\{(x,y)\\mid x^2+y^2\\le1\\}\\)，则（　）。（A）\\(I_3>I_2>I_1\\)。（B）\\(I_1>I_2>I_3\\)。（C）\\(I_2>I_1>I_3\\)。（D）\\(I_3>I_1>I_2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）设 \\(a_n>0\\)，\\(n=1,2,\\ldots\\)，若 \\(\\sum_{n=1}^{\\infty}a_n\\) 发散，\\(\\sum_{n=1}^{\\infty}(-1)^{n-1}a_n\\) 收敛，则下列结论正确的是（　）。（A）\\(\\sum a_{2n-1}\\) 收敛，\\(\\sum a_{2n}\\) 发散。（B）\\(\\sum a_{2n}\\) 收敛，\\(\\sum a_{2n-1}\\) 发散。（C）\\(\\sum(a_{2n-1}+a_{2n})\\) 收敛。（D）\\(\\sum(a_{2n-1}-a_{2n})\\) 收敛。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）设 \\(f(x)=x\\sin x+\\cos x\\)，下列命题中正确的是（　）。（A）\\(f(0)\\) 是极大值，\\(f(\\frac\\pi2)\\) 是极小值。（B）\\(f(0)\\) 是极小值，\\(f(\\frac\\pi2)\\) 是极大值。（C）两者都是极大值。（D）两者都是极小值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）以下四个命题中，正确的是（　）。"
+        }
+      ]
+    },
+    {
+      "source_page": 105,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（11）（续）（A）若 \\(f^{\\prime}(x)\\) 在 \\((0,1)\\) 内连续，则 \\(f(x)\\) 在 \\((0,1)\\) 内有界。（B）若 \\(f(x)\\) 在 \\((0,1)\\) 内连续，则 \\(f(x)\\) 在 \\((0,1)\\) 内有界。（C）若 \\(f^{\\prime}(x)\\) 在 \\((0,1)\\) 内有界，则 \\(f(x)\\) 在 \\((0,1)\\) 内有界。（D）若 \\(f(x)\\) 在 \\((0,1)\\) 内有界，则 \\(f^{\\prime}(x)\\) 在 \\((0,1)\\) 内有界。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设矩阵 \\(A=(a_{ij})_{3\\times3}\\)，满足 \\(A^*=A^{\\mathrm T}\\)，其中 \\(A^*\\) 为 \\(A\\) 的伴随矩阵，\\(A^{\\mathrm T}\\) 为 \\(A\\) 的转置矩阵。若 \\(a_{11},a_{12},a_{13}\\) 为三个相等的正数，则 \\(a_{11}\\) 为（　）。（A）\\(\\frac{\\sqrt3}{3}\\)。（B）\\(3\\)。（C）\\(\\frac13\\)。（D）\\(\\sqrt3\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）设 \\(\\lambda_1,\\lambda_2\\) 是矩阵 \\(A\\) 的两个不同的特征值，对应的特征向量分别为 \\(\\alpha_1,\\alpha_2\\)，则 \\(\\alpha_1,A(\\alpha_1+\\alpha_2)\\) 线性无关的充分必要条件是（　）。（A）\\(\\lambda_1=0\\)。（B）\\(\\lambda_2=0\\)。（C）\\(\\lambda_1\\ne0\\)。（D）\\(\\lambda_2\\ne0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）（超纲题）设一批零件的长度服从正态分布 \\(N(\\mu,\\sigma^2)\\)，其中 \\(\\mu,\\sigma^2\\) 均未知。现从中随机抽取16个零件，测得样本均值 \\(\\bar x=20\\)（cm），样本标准差 \\(S=1\\)（cm），则 \\(\\mu\\) 的置信度为0.90的置信区间是（　）。（A）\\((20-\\frac14t_{0.05}(16),20+\\frac14t_{0.05}(16))\\)。（B）\\((20-\\frac14t_{0.1}(16),20+\\frac14t_{0.1}(16))\\)。（C）\\((20-\\frac14t_{0.05}(15),20+\\frac14t_{0.05}(15))\\)。（D）\\((20-\\frac14t_{0.1}(15),20+\\frac14t_{0.1}(15))\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，满分94分。解答应写出文字说明、证明过程或演算步骤）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分8分）求 \\(\\lim_{x\\to0}\\left(\\frac{1+x}{1-e^{-x}}-\\frac1x\\right)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分8分）设 \\(f(u)\\) 具有二阶连续导数，且 \\(g(x,y)=f(\\frac yx)+yf(\\frac xy)\\)，求 \\(x^2\\frac{\\partial^2g}{\\partial x^2}-y^2\\frac{\\partial^2g}{\\partial y^2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分9分）计算二重积分 \\(\\iint_D|x^2+y^2-1|\\,\\mathrm d\\sigma\\)，其中 \\(D=\\{(x,y)\\mid0\\le x\\le1,0\\le y\\le1\\}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分9分）求幂级数 \\(\\sum_{n=1}^{\\infty}(\\frac1{2n+1}-1)x^{2n}\\) 在区间 \\((-1,1)\\) 内的和函数 \\(S(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分8分）设 \\(f(x),g(x)\\) 在 \\([0,1]\\) 上的导数连续，且 \\(f(0)=0\\)，\\(f^{\\prime}(x)\\ge0\\)，\\(g^{\\prime}(x)\\ge0\\)。证明：对任何 \\(a\\in[0,1]\\)，有 \\(\\int_0^ag(x)f^{\\prime}(x)\\,\\mathrm dx+\\int_0^1f(x)g^{\\prime}(x)\\,\\mathrm dx\\ge f(a)g(1)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分13分）已知齐次线性方程组"
+        }
+      ]
+    },
+    {
+      "source_page": 106,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（20）（续）（i）\\(\\begin{cases}x_1+2x_2+3x_3=0,\\\\2x_1+3x_2+5x_3=0,\\\\x_1+x_2+ax_3=0,\\end{cases}\\) 和（ii）\\(\\begin{cases}x_1+bx_2+cx_3=0,\\\\2x_1+b^2x_2+(c+1)x_3=0.\\end{cases}\\) 同解，求 \\(a,b,c\\) 的值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分13分）设 \\(D=\\begin{pmatrix}A&C\\\\C^{\\mathrm T}&B\\end{pmatrix}\\) 为正定矩阵，其中 \\(A,B\\) 分别为 \\(m\\) 阶、\\(n\\) 阶对称矩阵，\\(C\\) 为 \\(m\\times n\\) 矩阵。（Ⅰ）计算 \\(P^{\\mathrm T}DP\\)，其中 \\(P=\\begin{pmatrix}E_m&-A^{-1}C\\\\O&E_n\\end{pmatrix}\\)；（Ⅱ）利用（Ⅰ）的结果判断矩阵 \\(B-C^{\\mathrm T}A^{-1}C\\) 是否为正定矩阵，并证明你的结论。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分13分）设二维随机变量 \\((X,Y)\\) 的概率密度为 \\(f(x,y)=\\begin{cases}1,&0<x<1,\\ 0<y<2x,\\\\0,&\\text{其他}.\\end{cases}\\) 求：（Ⅰ）\\((X,Y)\\) 的边缘概率密度 \\(f_X(x),f_Y(y)\\)；（Ⅱ）\\(Z=2X-Y\\) 的概率密度 \\(f_Z(z)\\)；（Ⅲ）\\(P\\{Y\\le\\frac12\\mid X\\le\\frac12\\}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分13分）设 \\(X_1,X_2,\\ldots,X_n\\;(n>2)\\) 为来自总体 \\(N(0,\\sigma^2)\\) 的简单随机样本，其样本均值为 \\(\\bar X\\)。记 \\(Y_i=X_i-\\bar X\\)，\\(i=1,2,\\ldots,n\\)。（Ⅰ）求 \\(Y_i\\) 的方差 \\(D(Y_i)\\)；（Ⅱ）求 \\(Y_1\\) 与 \\(Y_n\\) 的协方差 \\(\\operatorname{Cov}(Y_1,Y_n)\\)；（Ⅲ）\\(c(Y_1+Y_n)^2\\) 是 \\(\\sigma^2\\) 的无偏估计量，求常数 \\(C\\)。（无偏估计为超纲概念，可改为“若 \\(E(c(Y_1+Y_n)^2)=\\sigma^2\\)，求常数 \\(C\\)”）"
+        }
+      ]
+    },
+    {
+      "source_page": 128,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2005年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(2\\)。（2）\\(xy=2\\)。（3）\\(2e\\,\\mathrm dx+(e+2)\\,\\mathrm dy\\)。（4）\\(\\frac12\\)。（5）\\(\\frac{13}{48}\\)。（6）\\(a=0.4,b=0.1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）B。（8）A。（9）D。（10）B。（11）C。（12）A。（13）D。（14）C。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）\\(\\frac32\\)。（16）\\(x^2\\frac{\\partial^2g}{\\partial x^2}-y^2\\frac{\\partial^2g}{\\partial y^2}=\\frac{2y}{x}f^{\\prime}(\\frac yx)\\)。（17）\\(\\frac\\pi4-\\frac13\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）\\(S(x)=\\begin{cases}\\frac1{2x}\\ln\\frac{1+x}{1-x}-\\frac1{1-x^2},&x\\in(-1,1)\\setminus\\{0\\},\\\\0,&x=0.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）证明略。（可考虑 \\(F(x)=\\int_0^xg(t)f^{\\prime}(t)\\,\\mathrm dt+\\int_0^1f(t)g^{\\prime}(t)\\,\\mathrm dt-f(x)g(1)\\)，\\(x\\in[0,1]\\)，证明 \\(F^{\\prime}(x)\\le0\\)。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）\\(a=2,b=1,c=2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅰ）\\(P^{\\mathrm T}DP=\\begin{pmatrix}A&O\\\\O&B-C^{\\mathrm T}A^{-1}C\\end{pmatrix}\\)。（Ⅱ）矩阵 \\(B-C^{\\mathrm T}A^{-1}C\\) 是正定矩阵。证明略。（\\(\\begin{pmatrix}A&O\\\\O&B-C^{\\mathrm T}A^{-1}C\\end{pmatrix}\\) 是正定矩阵，其各阶顺序主子式均大于零，证明 \\(B-C^{\\mathrm T}A^{-1}C\\) 的各阶顺序主子式均大于零。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\(f_X(x)=\\begin{cases}2x,&0<x<1,\\\\0,&\\text{其他},\\end{cases}\\quad f_Y(y)=\\begin{cases}1-\\frac y2,&0<y<2,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅱ）\\(f_Z(z)=\\begin{cases}1-\\frac z2,&0<z<2,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅲ）\\(\\frac34\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(D(Y_i)=\\frac{n-1}{n}\\sigma^2\\)，\\(i=1,2,\\ldots,n\\)。（Ⅱ）\\(\\operatorname{Cov}(Y_1,Y_n)=-\\frac1n\\sigma^2\\)。（Ⅲ）\\(c=\\frac n{2(n-2)}\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "原PDF第104页选择题（8）：I_3印作“cos (x²+y²)²”，平方上标紧跟右括号，排版可被读作 cos((x²+y²)²) 或 cos²(x²+y²)；此处按原位置保留 TeX 写法，不擅自改写。原答案选择 A，与前一种解释一致。"
+  ]
+}

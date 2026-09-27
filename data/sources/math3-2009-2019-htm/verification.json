@@ -1,0 +1,36 @@
+{
+  "all_55_source_pages_covered_once": true,
+  "bookmarks_preserved_as_22_documents": true,
+  "all_svg_bytes_match_cleaned_source_rendering": true,
+  "copy_text_matches_source": true,
+  "all_local_links_valid": true,
+  "rendered_samples": [
+    {
+      "source_page": 1,
+      "mean_absolute_channel_difference": 2.9571
+    },
+    {
+      "source_page": 5,
+      "mean_absolute_channel_difference": 1.6889
+    },
+    {
+      "source_page": 26,
+      "mean_absolute_channel_difference": 3.7017
+    },
+    {
+      "source_page": 30,
+      "mean_absolute_channel_difference": 1.4183
+    },
+    {
+      "source_page": 51,
+      "mean_absolute_channel_difference": 2.5543
+    },
+    {
+      "source_page": 55,
+      "mean_absolute_channel_difference": 2.0681
+    }
+  ],
+  "removed_advert_regions": 110,
+  "browser_interaction_tested": false,
+  "math_ocr_reliability": "Not reliable; formulas must be read from the original glyph rendering."
+}

@@ -1,0 +1,204 @@
+{
+  "year": 2007,
+  "pages": [
+    {
+      "source_page": 110,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2007年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共10小题，每小题4分，满分40分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）当 \\(x\\to0^+\\) 时，与 \\(\\sqrt x\\) 等价的无穷小量是（　）。（A）\\(1-e^{\\sqrt x}\\)。（B）\\(\\ln(1+\\sqrt x)\\)。（C）\\(\\sqrt{1+\\sqrt x}-1\\)。（D）\\(1-\\cos\\sqrt x\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设函数 \\(f(x)\\) 在 \\(x=0\\) 处连续，下列命题错误的是（　）。（A）若 \\(\\lim_{x\\to0}\\frac{f(x)}x\\) 存在，则 \\(f(0)=0\\)。（B）若 \\(\\lim_{x\\to0}\\frac{f(x)+f(-x)}x\\) 存在，则 \\(f(0)=0\\)。（C）若 \\(\\lim_{x\\to0}\\frac{f(x)}x\\) 存在，则 \\(f^{\\prime}(0)\\) 存在。（D）若 \\(\\lim_{x\\to0}\\frac{f(x)-f(-x)}x\\) 存在，则 \\(f^{\\prime}(0)\\) 存在。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）如图，连续函数 \\(y=f(x)\\) 在区间 \\([-3,-2]\\)、\\([2,3]\\) 上的图形分别是直径为1的上、下半圆周，在区间 \\([-2,0]\\)、\\([0,2]\\) 上的图形分别是直径为2的下、上半圆周。设 \\(F(x)=\\int_0^xf(t)\\,\\mathrm dt\\)，则下列结论正确的是（　）。"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            298,
+            216,
+            439,
+            308
+          ],
+          "caption": "第3题函数图形"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(F(3)=-\\frac34F(-2)\\)。（B）\\(F(3)=\\frac54F(2)\\)。（C）\\(F(-3)=\\frac34F(2)\\)。（D）\\(F(-3)=-\\frac54F(-2)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设函数 \\(f(x,y)\\) 连续，则二次积分 \\(\\int_{\\pi/2}^{\\pi}\\mathrm dx\\int_{\\sin x}^{1}f(x,y)\\,\\mathrm dy\\) 等于（　）。（A）\\(\\int_0^1\\mathrm dy\\int_{\\pi+\\arcsin y}^{\\pi}f(x,y)\\,\\mathrm dx\\)。（B）\\(\\int_0^1\\mathrm dy\\int_{\\pi-\\arcsin y}^{\\pi}f(x,y)\\,\\mathrm dx\\)。（C）\\(\\int_0^1\\mathrm dy\\int_{\\pi/2}^{\\pi+\\arcsin y}f(x,y)\\,\\mathrm dx\\)。（D）\\(\\int_0^1\\mathrm dy\\int_{\\pi/2}^{\\pi-\\arcsin y}f(x,y)\\,\\mathrm dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设某商品的需求函数为 \\(Q=160-2p\\)，其中 \\(Q,p\\) 分别表示需求量和价格，如果该商品需求弹性的绝对值等于1，则商品的价格是（　）。（A）10。（B）20。（C）30。（D）40。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）曲线 \\(y=\\frac1x+\\ln(1+e^x)\\) 渐近线的条数为（　）。（A）0。（B）1。（C）2。（D）3。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）设向量组 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性无关，则下列向量组线性相关的是（　）。（A）\\(\\alpha_1-\\alpha_2,\\alpha_2-\\alpha_3,\\alpha_3-\\alpha_1\\)。（B）\\(\\alpha_1+\\alpha_2,\\alpha_2+\\alpha_3,\\alpha_3+\\alpha_1\\)。（C）\\(\\alpha_1-2\\alpha_2,\\alpha_2-2\\alpha_3,\\alpha_3-2\\alpha_1\\)。（D）\\(\\alpha_1+2\\alpha_2,\\alpha_2+2\\alpha_3,\\alpha_3+2\\alpha_1\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 111,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（8）设矩阵 \\(A=\\begin{pmatrix}2&-1&-1\\\\-1&2&-1\\\\-1&-1&2\\end{pmatrix}\\)，\\(B=\\begin{pmatrix}1&0&0\\\\0&1&0\\\\0&0&0\\end{pmatrix}\\)，则 \\(A\\) 与 \\(B\\)（　）。（A）合同且相似。（B）合同，但不相似。（C）不合同，但相似。（D）既不合同，也不相似。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）某人向同一目标独立重复射击，每次射击命中目标的概率为 \\(p\\;(0<p<1)\\)，则此人第4次射击恰好第2次命中目标的概率为（　）。（A）\\(3p(1-p)^2\\)。（B）\\(6p(1-p)^2\\)。（C）\\(3p^2(1-p)^2\\)。（D）\\(6p^2(1-p)^2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）设随机变量 \\((X,Y)\\) 服从二维正态分布，且 \\(X\\) 与 \\(Y\\) 不相关，\\(f_X(x),f_Y(y)\\) 分别表示 \\(X,Y\\) 的概率密度，则在 \\(Y=y\\) 的条件下，\\(X\\) 的条件概率密度 \\(f_{X\\mid Y}(x\\mid y)\\) 为（　）。（A）\\(f_X(x)\\)。（B）\\(f_Y(y)\\)。（C）\\(f_X(x)f_Y(y)\\)。（D）\\(\\frac{f_X(x)}{f_Y(y)}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共6小题，每小题4分，满分24分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）\\(\\lim_{x\\to+\\infty}\\frac{x^3+x^2+1}{2^x+x^3}(\\sin x+\\cos x)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设函数 \\(y=\\frac1{2x+3}\\)，则 \\(y^{(n)}(0)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）设 \\(f(u,v)\\) 是二元可微函数，\\(z=f(\\frac yx,\\frac xy)\\)，则 \\(x\\frac{\\partial z}{\\partial x}-y\\frac{\\partial z}{\\partial y}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）微分方程 \\(\\frac{\\mathrm dy}{\\mathrm dx}=\\frac yx-\\frac12(\\frac yx)^3\\) 满足 \\(\\left.y\\right|_{x=1}=1\\) 的特解为 \\(y=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）设矩阵 \\(A=\\begin{pmatrix}0&1&0&0\\\\0&0&1&0\\\\0&0&0&1\\\\0&0&0&0\\end{pmatrix}\\)，则 \\(A^3\\) 的秩为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）在区间 \\((0,1)\\) 中随机地取两个数，则这两个数之差的绝对值小于 \\(\\frac12\\) 的概率为______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共8小题，满分86分。解答应写出文字说明、证明过程或演算步骤）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分10分）设函数 \\(y=y(x)\\) 由方程 \\(y\\ln y-x+y=0\\) 确定，试判断曲线 \\(y=y(x)\\) 在点 \\((1,1)\\) 附近的凹凸性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分11分）设二元函数 \\(f(x,y)=\\begin{cases}x^2,&|x|+|y|\\le1,\\\\\\frac1{\\sqrt{x^2+y^2}},&1<|x|+|y|\\le2,\\end{cases}\\) 计算二重积分 \\(\\iint_Df(x,y)\\,\\mathrm d\\sigma\\)，其中 \\(D=\\{(x,y)\\mid |x|+|y|\\le2\\}\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 112,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分10分）设函数 \\(f(x),g(x)\\) 在 \\([a,b]\\) 上连续，在 \\((a,b)\\) 内二阶可导且存在相等的最大值，又 \\(f(a)=g(a)\\)，\\(f(b)=g(b)\\)。证明：（Ⅰ）存在 \\(\\eta\\in(a,b)\\)，使得 \\(f(\\eta)=g(\\eta)\\)；（Ⅱ）存在 \\(\\xi\\in(a,b)\\)，使得 \\(f^{\\prime\\prime}(\\xi)=g^{\\prime\\prime}(\\xi)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分11分）将函数 \\(f(x)=\\frac1{x^2-3x-4}\\) 展开成 \\(x-1\\) 的幂级数，并指出其收敛区间。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分11分）设线性方程组① \\(\\begin{cases}x_1+x_2+x_3=0,\\\\x_1+2x_2+ax_3=0,\\\\x_1+4x_2+a^2x_3=0,\\end{cases}\\) 与方程组② \\(x_1+2x_2+x_3=a-1\\) 有公共解，求 \\(a\\) 的值及所有公共解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分11分）设3阶实对称矩阵 \\(A\\) 的特征值 \\(\\lambda_1=1,\\lambda_2=2,\\lambda_3=-2\\)，且 \\(\\alpha_1=(1,-1,1)^{\\mathrm T}\\) 是 \\(A\\) 的属于 \\(\\lambda_1\\) 的一个特征向量。记 \\(B=A^5-4A^3+E\\)，其中 \\(E\\) 为3阶单位矩阵。（Ⅰ）验证 \\(\\alpha_1\\) 是矩阵 \\(B\\) 的特征向量，并求 \\(B\\) 的全部特征值与特征向量；（Ⅱ）求矩阵 \\(B\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分11分）设二维随机变量 \\((X,Y)\\) 的概率密度为 \\(f(x,y)=\\begin{cases}2-x-y,&0<x<1,\\ 0<y<1,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅰ）求 \\(P\\{X>2Y\\}\\)；（Ⅱ）求 \\(Z=X+Y\\) 的概率密度 \\(f_Z(z)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（24）（本题满分11分）设总体 \\(X\\) 的概率密度为 \\(f(x;\\theta)=\\begin{cases}\\frac1{2\\theta},&0<x<\\theta,\\\\\\frac1{2(1-\\theta)},&\\theta\\le x<1,\\\\0,&\\text{其他},\\end{cases}\\) 其中参数 \\(\\theta\\;(0<\\theta<1)\\) 未知，\\(X_1,X_2,\\ldots,X_n\\) 是来自总体 \\(X\\) 的简单随机样本，\\(\\bar X\\) 是样本均值。（Ⅰ）求参数 \\(\\theta\\) 的矩估计量 \\(\\hat\\theta\\)；（Ⅱ）（超纲题）判断 \\(4\\bar X^2\\) 是否为 \\(\\theta^2\\) 的无偏估计量，并说明理由。（无偏估计为超纲概念，可改为“验证是否有 \\(E(4\\bar X^2)=\\theta^2\\)”）"
+        }
+      ]
+    },
+    {
+      "source_page": 130,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2007年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。（2）D。（3）C。（4）B。（5）D。（6）D。（7）A。（8）B。（9）C。（10）A。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）\\(0\\)。（12）\\(\\frac{(-1)^n2^nn!}{3^{n+1}}\\)。（13）\\(-\\frac{2y}{x}f_1^{\\prime}+\\frac{2x}{y}f_2^{\\prime}\\)。（14）\\(\\frac{x}{\\sqrt{\\ln x+1}}\\)。（15）\\(1\\)。（16）\\(\\frac34\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）曲线 \\(y=y(x)\\) 在点 \\((1,1)\\) 附近是凸的。（18）\\(\\frac13+4\\sqrt2\\ln(\\sqrt2+1)\\)。（19）证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）\\(\\frac1{x^2-3x-4}=-\\frac15\\sum_{n=0}^{\\infty}\\left[\\frac1{3^{n+1}}+\\frac{(-1)^n}{2^{n+1}}\\right](x-1)^n\\)，\\(x\\in(-1,3)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）当 \\(a=1\\) 时，\\(x=k(1,0,-1)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数，是方程组①和②的公共解；当 \\(a=2\\) 时，\\(x=(0,1,-1)^{\\mathrm T}\\) 是方程组①和②的唯一公共解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）矩阵 \\(B\\) 的属于特征值 \\(-2\\) 的特征向量为 \\(k_1(1,-1,1)^{\\mathrm T}\\)，其中 \\(k_1\\) 为任意非零常数；矩阵 \\(B\\) 的属于特征值1的特征向量为 \\(k_2(1,1,0)^{\\mathrm T}+k_3(-1,0,1)^{\\mathrm T}\\)，其中 \\(k_2,k_3\\) 为不全为零的常数。（Ⅱ）\\(B=\\begin{pmatrix}0&1&-1\\\\1&0&1\\\\-1&1&0\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(\\frac7{24}\\)。（Ⅱ）\\(f_Z(z)=\\begin{cases}2z-z^2,&0<z\\le1,\\\\z^2-4z+4,&1<z\\le2,\\\\0,&\\text{其他}.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（24）（Ⅰ）\\(\\hat\\theta=2\\bar X-\\frac12\\)。（Ⅱ）\\(E(4\\bar X^2)\\ne\\theta^2\\)。因此，\\(4\\bar X^2\\) 不是 \\(\\theta^2\\) 的无偏估计量。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

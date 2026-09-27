@@ -1,0 +1,226 @@
+{
+  "year": 1999,
+  "pages": [
+    {
+      "source_page": 86,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1999 年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(f(x)\\) 有一个原函数 \\(\\frac{\\sin x}{x}\\)，则 \\(\\int_{\\pi/2}^{\\pi}xf'(x)\\,\\mathrm dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(\\sum_{n=1}^{\\infty}n\\left(\\frac12\\right)^{n-1}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(A=\\begin{pmatrix}1&0&1\\\\0&2&0\\\\1&0&1\\end{pmatrix}\\)，而 \\(n\\ge2\\) 为正整数，则 \\(A^n-2A^{n-1}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）在天平上重复称量一重为 \\(a\\) 的物品，假设各次称量结果相互独立且同服从正态分布 \\(N(a,0.2^2)\\)。若以 \\(\\bar X_n\\) 表示 \\(n\\) 次称量结果的算术平均值，则为使 \\(P\\{|\\bar X_n-a|<0.1\\}\\ge0.95\\)，\\(n\\) 的最小值应不小于自然数______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X_{ij}\\;(i,j=1,2,\\ldots,n;\\ n\\ge2)\\) 独立同分布，\\(E(X_{ij})=2\\)，则行列式 \\(Y=\\begin{vmatrix}X_{11}&X_{12}&\\cdots&X_{1n}\\\\X_{21}&X_{22}&\\cdots&X_{2n}\\\\\\vdots&\\vdots&&\\vdots\\\\X_{n1}&X_{n2}&\\cdots&X_{nn}\\end{vmatrix}\\) 的数学期望 \\(E(Y)=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(f(x)\\) 是连续函数，\\(F(x)\\) 是 \\(f(x)\\) 的原函数，则（　）。（A）当 \\(f(x)\\) 是奇函数时，\\(F(x)\\) 必为偶函数。（B）当 \\(f(x)\\) 是偶函数时，\\(F(x)\\) 必为奇函数。（C）当 \\(f(x)\\) 是周期函数时，\\(F(x)\\) 必为周期函数。（D）当 \\(f(x)\\) 是单调增函数时，\\(F(x)\\) 必为单调增函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）设 \\(f(x,y)\\) 连续，且 \\(f(x,y)=xy+\\iint_D f(u,v)\\,\\mathrm du\\mathrm dv\\)，其中 \\(D\\) 是由 \\(y=0,y=x^2,x=1\\) 所围区域，则 \\(f(x,y)\\) 等于（　）。（A）\\(xy\\)。（B）\\(2xy\\)。（C）\\(xy+\\frac18\\)。（D）\\(xy+1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设向量 \\(\\beta\\) 可由向量组 \\(\\alpha_1,\\alpha_2,\\ldots,\\alpha_m\\) 线性表示，但不能由向量组（Ⅰ）：\\(\\alpha_1,\\alpha_2,\\ldots,\\alpha_{m-1}\\) 线性表示，记向量组（Ⅱ）：\\(\\alpha_1,\\alpha_2,\\ldots,\\alpha_{m-1},\\beta\\)，则（　）。（A）\\(\\alpha_m\\) 不能由（Ⅰ）线性表示，也不能由（Ⅱ）线性表示。（B）\\(\\alpha_m\\) 不能由（Ⅰ）线性表示，但可由（Ⅱ）线性表示。（C）\\(\\alpha_m\\) 可由（Ⅰ）线性表示，也可由（Ⅱ）线性表示。（D）\\(\\alpha_m\\) 可由（Ⅰ）线性表示，但不可由（Ⅱ）线性表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A,B\\) 为 \\(n\\) 阶矩阵，且 \\(A\\) 与 \\(B\\) 相似，\\(E\\) 为 \\(n\\) 阶单位矩阵，则（　）。"
+        }
+      ]
+    },
+    {
+      "source_page": 87,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（4）（续）（A）\\(\\lambda E-A=\\lambda E-B\\)。（B）\\(A\\) 与 \\(B\\) 有相同的特征值和特征向量。（C）\\(A\\) 与 \\(B\\) 都相似于一个对角矩阵。（D）对任意常数 \\(t\\)，\\(tE-A\\) 与 \\(tE-B\\) 相似。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X_i\\sim\\begin{pmatrix}-1&0&1\\\\\\frac14&\\frac12&\\frac14\\end{pmatrix}\\;(i=1,2)\\)，且满足 \\(P\\{X_1X_2=0\\}=1\\)，则 \\(P\\{X_1=X_2\\}\\) 等于（　）。（A）\\(0\\)。（B）\\(\\frac14\\)。（C）\\(\\frac12\\)。（D）\\(1\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、（本题满分 6 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲线 \\(y=\\frac1{\\sqrt x}\\) 的切线与 \\(x\\) 轴和 \\(y\\) 轴围成一个图形，记切点的横坐标为 \\(a\\)。试求切线方程和这个图形的面积。当切点沿曲线趋于无穷远时，该面积的变化趋势如何？"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分 7 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "计算二重积分 \\(\\iint_D y\\,\\mathrm dx\\mathrm dy\\)，其中 \\(D\\) 是由直线 \\(x=-2,y=0,y=2\\) 以及曲线 \\(x=-\\sqrt{2y-y^2}\\) 所围成的平面区域。"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分 6 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设生产某种产品必须投入两种要素，\\(x_1\\) 和 \\(x_2\\) 分别为两要素的投入量，\\(Q\\) 为产出量；若生产函数为 \\(Q=2x_1^\\alpha x_2^\\beta\\)，其中 \\(\\alpha,\\beta\\) 为正常数，且 \\(\\alpha+\\beta=1\\)。假设两种要素的价格分别为 \\(p_1\\) 和 \\(p_2\\)，试问：当产出量为 12 时，两要素各投入多少可以使得投入总费用最小？"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分 6 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设有微分方程 \\(y'-2y=\\varphi(x)\\)，其中 \\(\\varphi(x)=\\begin{cases}2,&x<1,\\\\0,&x>1.\\end{cases}\\) 试求在 \\(( -\\infty,+\\infty )\\) 内的连续函数 \\(y=y(x)\\)，使之在 \\(( -\\infty,1 )\\) 和 \\((1,+\\infty)\\) 内都满足所给方程，且满足条件 \\(y(0)=0\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分 6 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设函数 \\(f(x)\\) 连续，且 \\(\\int_0^x t f(2x-t)\\,\\mathrm dt=\\frac12\\arctan x^2\\)。已知 \\(f(1)=1\\)，求 \\(\\int_1^2 f(x)\\,\\mathrm dx\\) 的值。"
+        },
+        {
+          "type": "heading",
+          "text": "八、（本题满分 7 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设函数 \\(f(x)\\) 在区间 \\([0,1]\\) 上连续，在 \\((0,1)\\) 内可导，且 \\(f(0)=f(1)=0\\)，\\(f(\\frac12)=1\\)。试证：（1）存在 \\(\\eta\\in(\\frac12,1)\\)，使 \\(f(\\eta)=\\eta\\)；（2）对任意实数 \\(\\lambda\\)，必存在 \\(\\xi\\in(0,\\eta)\\)，使得 \\(f'(\\xi)-\\lambda[f(\\xi)-\\xi]=1\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 88,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "九、（本题满分 9 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设矩阵 \\(A=\\begin{pmatrix}a&-1&c\\\\5&b&3\\\\1-c&0&-a\\end{pmatrix}\\)，且 \\(|A|=-1\\)。又设 \\(A\\) 的伴随矩阵 \\(A^*\\) 有特征值 \\(\\lambda_0\\)，属于 \\(\\lambda_0\\) 的特征向量为 \\(\\alpha=(-1,-1,1)^{\\mathrm T}\\)，求 \\(a,b,c\\) 及 \\(\\lambda_0\\) 的值。"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分 7 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(A\\) 为 \\(m\\times n\\) 实矩阵，\\(E\\) 为 \\(n\\) 阶单位矩阵，已知矩阵 \\(B=\\lambda E+A^{\\mathrm T}A\\)，试证：当 \\(\\lambda>0\\) 时，矩阵 \\(B\\) 为正定矩阵。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分 9 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "假设二维随机变量 \\((X,Y)\\) 在矩形 \\(G=\\{(x,y)\\mid 0\\le x\\le2,0\\le y\\le1\\}\\) 上服从均匀分布，记 \\(U=\\begin{cases}0,&X\\le Y,\\\\1,&X>Y,\\end{cases}\\quad V=\\begin{cases}0,&X\\le2Y,\\\\1,&X>2Y.\\end{cases}\\)（1）求 \\(U\\) 和 \\(V\\) 的联合分布；（2）求 \\(U\\) 和 \\(V\\) 的相关系数 \\(r\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "十二、（本题满分 7 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(X_1,X_2,\\ldots,X_9\\) 是来自正态总体 \\(X\\) 的简单随机样本，\\(Y_1=\\frac16(X_1+\\cdots+X_6)\\)，\\(Y_2=\\frac13(X_7+X_8+X_9)\\)，\\(S^2=\\frac12\\sum_{i=7}^{9}(X_i-Y_2)^2\\)，\\(Z=\\frac{\\sqrt2(Y_1-Y_2)}S\\)，证明统计量 \\(Z\\) 服从自由度为 2 的 \\(t\\) 分布。"
+        }
+      ]
+    },
+    {
+      "source_page": 121,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1999 年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(\\frac4\\pi-1\\)。（2）\\(4\\)。（3）\\(O_{3\\times3}\\)，即 3 阶零矩阵。（4）\\(16\\)。（5）\\(0\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）A。（2）C。（3）B。（4）D。（5）A。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、所求切线方程为 \\(y-\\frac1{\\sqrt a}=-\\frac1{2\\sqrt{a^3}}(x-a)\\)，面积为 \\(\\frac94\\sqrt a\\)。当切点沿 \\(x\\) 轴正方向趋于无穷远时，\\(\\lim_{a\\to+\\infty}S=+\\infty\\)；当切点沿 \\(y\\) 轴正方向趋于无穷远时，\\(\\lim_{a\\to0^+}S=0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、\\(4-\\frac\\pi2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、当 \\(x_1=6\\left(\\frac{p_2\\alpha}{p_1\\beta}\\right)^\\beta\\)，\\(x_2=6\\left(\\frac{p_1\\beta}{p_2\\alpha}\\right)^\\alpha\\) 时，投入总费用最小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、\\(y(x)=\\begin{cases}e^{2x}-1,&x\\le1,\\\\(1-e^{-2})e^{2x},&x>1.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、\\(\\frac34\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、（1）证明略。（可利用零点定理。）（2）证明略。（可考虑函数 \\(F(x)=e^{-\\lambda x}[f(x)-x]\\)，对 \\(F(x)\\) 使用罗尔定理。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、\\(a=2,b=-3,c=2,\\lambda_0=1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、证明略。（\\(B\\) 为对称矩阵，\\(x^{\\mathrm T}Bx=\\lambda x^{\\mathrm T}x+(Ax)^{\\mathrm T}(Ax)\\)。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（1）\\(P\\{U=0,V=0\\}=\\frac14\\)，\\(P\\{U=0,V=1\\}=0\\)，\\(P\\{U=1,V=0\\}=\\frac14\\)，\\(P\\{U=1,V=1\\}=\\frac12\\)。（2）\\(r=\\frac1{\\sqrt3}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、证明略。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

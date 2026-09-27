@@ -1,0 +1,34 @@
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.*
+!.env.example
+* 2.*
+*.zip
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+.local/
+**/work/*
+**/assets/verification/
+**/assets/tex-build/
+**/verification-cache/
+data/sources/.layout-*/
+data/sources/layout-repair-backup/
+data/sources/visual-catalog-run/
+data/sources/politics-work/
+data/sources/kaoyan-web-2026-09-26/
+.firecrawl/
+* [3-9].*
+
+# Versioned build inputs, kept in their existing relative locations
+!**/work/page-map.json
+!**/work/independent-answer-key-check.json
+!**/work/render
+!**/work/render/

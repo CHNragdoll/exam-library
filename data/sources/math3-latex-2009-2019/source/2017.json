@@ -1,0 +1,224 @@
+{
+  "year": 2017,
+  "pages": [
+    {
+      "source_page": 11,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2017年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共8小题，每小题4分，共32分。在每小题给出的四个选项中，只有一项符合题目要求，把所选项前的字母填在题后的括号内。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）若函数 \\(f(x)=\\begin{cases}\\frac{1-\\cos\\sqrt{x}}{ax},&x>0,\\\\b,&x\\le0\\end{cases}\\) 在 \\(x=0\\) 处连续，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(ab=\\frac12\\)。 （B）\\(ab=-\\frac12\\)。 （C）\\(ab=0\\)。 （D）\\(ab=2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）二元函数 \\(z=xy(3-x-y)\\) 的极值点是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\((0,0)\\)。 （B）\\((0,3)\\)。 （C）\\((3,0)\\)。 （D）\\((1,1)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设函数 \\(f(x)\\) 可导，且 \\(f(x)f^{\\prime}(x)>0\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f(1)>f(-1)\\)。 （B）\\(f(1)<f(-1)\\)。 （C）\\(|f(1)|>|f(-1)|\\)。 （D）\\(|f(1)|<|f(-1)|\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）若级数 \\(\\sum_{n=2}^{\\infty}[\\sin\\frac1n-k\\ln(1-\\frac1n)]\\) 收敛，则 \\(k=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(1\\)。 （B）\\(2\\)。 （C）\\(-1\\)。 （D）\\(-2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设 \\(\\alpha\\) 为 \\(n\\) 维单位列向量，\\(E\\) 为 \\(n\\) 阶单位矩阵，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(E-\\alpha\\alpha^{\\mathrm T}\\) 不可逆。 （B）\\(E+\\alpha\\alpha^{\\mathrm T}\\) 不可逆。 （C）\\(E+2\\alpha\\alpha^{\\mathrm T}\\) 不可逆。 （D）\\(E-2\\alpha\\alpha^{\\mathrm T}\\) 不可逆。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）已知矩阵 \\(A=\\begin{pmatrix}2&0&0\\\\0&2&1\\\\0&0&1\\end{pmatrix}\\)，\\(B=\\begin{pmatrix}2&1&0\\\\0&2&0\\\\0&0&1\\end{pmatrix}\\)，\\(C=\\begin{pmatrix}1&0&0\\\\0&2&0\\\\0&0&2\\end{pmatrix}\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(A\\) 与 \\(C\\) 相似，\\(B\\) 与 \\(C\\) 相似。 （B）\\(A\\) 与 \\(C\\) 相似，\\(B\\) 与 \\(C\\) 不相似。 （C）\\(A\\) 与 \\(C\\) 不相似，\\(B\\) 与 \\(C\\) 相似。 （D）\\(A\\) 与 \\(C\\) 不相似，\\(B\\) 与 \\(C\\) 不相似。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）设 \\(A,B,C\\) 为三个随机事件，且 \\(A\\) 与 \\(C\\) 相互独立，\\(B\\) 与 \\(C\\) 相互独立，则 \\(A\\cup B\\) 与 \\(C\\) 相互独立的充分必要条件是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(A\\) 与 \\(B\\) 相互独立。 （B）\\(A\\) 与 \\(B\\) 互不相容。 （C）\\(AB\\) 与 \\(C\\) 相互独立。 （D）\\(AB\\) 与 \\(C\\) 互不相容。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设 \\(X_1,X_2,\\cdots,X_n\\;(n\\ge2)\\) 为来自总体 \\(N(\\mu,1)\\) 的简单随机样本，记 \\(\\bar X=\\frac1n\\sum_{i=1}^nX_i\\)，则下列结论中不正确的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\sum_{i=1}^n(X_i-\\mu)^2\\) 服从 \\(\\chi^2\\) 分布。 （B）\\(2(X_n-X_1)^2\\) 服从 \\(\\chi^2\\) 分布。 （C）\\(\\sum_{i=1}^n(X_i-\\bar X)^2\\) 服从 \\(\\chi^2\\) 分布。 （D）\\(n(\\bar X-\\mu)^2\\) 服从 \\(\\chi^2\\) 分布。"
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共6小题，每小题4分，共24分，把答案填在题中横线上。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）\\(\\int_{-\\pi}^{\\pi}(\\sin^3x+\\sqrt{\\pi^2-x^2})\\,\\mathrm dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（10）差分方程 \\(y_{t+1}-2y_t=2^t\\) 的通解为 \\(y_t=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）设生产某产品的平均成本为 \\(\\bar C(Q)=1+e^{-Q}\\)，其中产量为 \\(Q\\)，则边际成本为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设函数 \\(f(x,y)\\) 具有一阶连续偏导数，且 \\(\\mathrm df(x,y)=ye^y\\,\\mathrm dx+x(1+y)e^y\\,\\mathrm dy\\)，\\(f(0,0)=0\\)，则 \\(f(x,y)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）设矩阵 \\(A=\\begin{pmatrix}1&0&1\\\\1&1&2\\\\0&1&1\\end{pmatrix}\\)，\\(\\alpha_1,\\alpha_2,\\alpha_3\\) 为线性无关的3维列向量组，则向量组 \\(A\\alpha_1,A\\alpha_2,A\\alpha_3\\) 的秩为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）设随机变量 \\(X\\) 的概率分布为 \\(P\\{X=-2\\}=\\frac12\\)，\\(P\\{X=1\\}=a\\)，\\(P\\{X=3\\}=b\\)，若 \\(E(X)=0\\)，则 \\(D(X)=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，共94分，解答应写出文字说明、证明过程或演算步骤。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分10分）求 \\(\\lim_{x\\to0^+}\\frac{\\int_0^x\\sqrt{x-t}\\,e^t\\,\\mathrm dt}{\\sqrt{x^3}}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分10分）计算积分 \\(\\iint_D\\frac{y^3}{(1+x^2+y^4)^2}\\,\\mathrm dx\\mathrm dy\\)，其中 \\(D\\) 是第一象限中以曲线 \\(y=\\sqrt{x}\\) 与 \\(x\\) 轴为边界的无界区域。"
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分10分）求 \\(\\lim_{n\\to\\infty}\\sum_{k=1}^n\\frac{k}{n^2}\\ln(1+\\frac{k}{n})\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分10分）已知方程 \\(\\frac1{\\ln(1+x)}-\\frac1x=k\\) 在区间 \\((0,1)\\) 内有实根，确定常数 \\(k\\) 的取值范围。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分10分）若 \\(a_0=1,a_1=0,a_{n+1}=\\frac1{n+1}(na_n+a_{n-1})\\;(n=1,2,3,\\cdots)\\)，\\(S(x)\\) 为幂级数 \\(\\sum_{n=0}^{\\infty}a_nx^n\\) 的和函数。（Ⅰ）证明该幂级数的收敛半径不小于1。（Ⅱ）证明 \\((1-x)S^{\\prime}(x)-xS(x)=0\\;(x\\in(-1,1))\\)，并求 \\(S(x)\\) 的表达式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分11分）设3阶矩阵 \\(A=(\\alpha_1,\\alpha_2,\\alpha_3)\\) 有3个不同的特征值，且 \\(\\alpha_3=\\alpha_1+2\\alpha_2\\)。（Ⅰ）证明 \\(r(A)=2\\)；（Ⅱ）若 \\(\\beta=\\alpha_1+\\alpha_2+\\alpha_3\\)，求方程组 \\(Ax=\\beta\\) 的通解。"
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分11分）设二次型 \\(f(x_1,x_2,x_3)=2x_1^2-x_2^2+ax_3^2+2x_1x_2-8x_1x_3+2x_2x_3\\) 在正交变换 \\(x=Qy\\) 下的标准形为 \\(\\lambda_1y_1^2+\\lambda_2y_2^2\\)，求 \\(a\\) 的值及一个正交矩阵 \\(Q\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分11分）设随机变量 \\(X,Y\\) 相互独立，且 \\(X\\) 的概率分布为 \\(P\\{X=0\\}=P\\{X=2\\}=\\frac12\\)，\\(Y\\) 的概率密度为 \\(f(y)=\\begin{cases}2y,&0<y<1,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅰ）求 \\(P\\{Y\\le E(Y)\\}\\)；（Ⅱ）求 \\(Z=X+Y\\) 的概率密度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分11分）某工程师为了解一台天平的精度，用该天平对一物体的质量做 \\(n\\) 次测量，该物体的质量 \\(\\mu\\) 是已知的。设 \\(n\\) 次测量结果 \\(X_1,X_2,\\cdots,X_n\\) 相互独立且均服从正态分布 \\(N(\\mu,\\sigma^2)\\)。该工程师记录的是 \\(n\\) 次测量的绝对误差 \\(Z_i=|X_i-\\mu|\\;(i=1,2,\\cdots,n)\\)，利用 \\(Z_1,Z_2,\\cdots,Z_n\\) 估计 \\(\\sigma\\)。（Ⅰ）求 \\(Z_1\\) 的概率密度；（Ⅱ）利用一阶矩求 \\(\\sigma\\) 的矩估计量；（Ⅲ）求 \\(\\sigma\\) 的最大似然估计量。"
+        }
+      ]
+    },
+    {
+      "source_page": 15,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2017年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）A。 （2）D。 （3）C。 （4）C。 （5）A。 （6）B。 （7）C。 （8）B。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）\\(\\frac{\\pi^3}{2}\\)。 （10）\\((C+\\frac12t)2^t\\)。 （11）\\(1+e^{-Q}-Qe^{-Q}\\)。 （12）\\(xye^y\\)。 （13）\\(2\\)。 （14）\\(\\frac92\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）\\(\\frac23\\)。 （16）\\(\\frac{(2-\\sqrt2)\\pi}{16}\\)。 （17）\\(\\frac14\\)。 （18）\\((\\frac1{\\ln2}-1,\\frac12)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（Ⅰ）证明略。（Ⅱ）证明略。\\(S(x)=\\frac{e^{-x}}{1-x}\\)，\\(x\\in(-1,1)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（Ⅰ）证明略。（Ⅱ）\\(k(1,2,-1)^{\\mathrm T}+(1,1,1)^{\\mathrm T}\\) 为线性方程组 \\(Ax=\\beta\\) 的通解，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）\\(a=2\\)，\\(Q=\\begin{pmatrix}-\\frac1{\\sqrt2}&\\frac1{\\sqrt3}&\\frac1{\\sqrt6}\\\\0&-\\frac1{\\sqrt3}&\\frac2{\\sqrt6}\\\\\\frac1{\\sqrt2}&\\frac1{\\sqrt3}&\\frac1{\\sqrt6}\\end{pmatrix}\\)，且 \\(Q^{\\mathrm T}AQ=\\begin{pmatrix}6&0&0\\\\0&-3&0\\\\0&0&0\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\(\\frac49\\)。（Ⅱ）\\(f_Z(z)=\\begin{cases}z,&0<z<1,\\\\z-2,&2<z<3,\\\\0,&\\text{其他}.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(f_{Z_1}(z)=\\begin{cases}\\sqrt{\\frac2\\pi}\\frac1\\sigma e^{-z^2/(2\\sigma^2)},&z\\ge0,\\\\0,&z<0.\\end{cases}\\)（Ⅱ）\\(\\hat\\sigma=\\sqrt{\\frac\\pi2}\\bar Z\\)。（Ⅲ）\\(\\hat\\sigma=\\sqrt{\\frac1n\\sum_{i=1}^nZ_i^2}\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

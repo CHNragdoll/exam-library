@@ -1,0 +1,165 @@
+\documentclass[UTF8,11pt]{ctexart}
+\usepackage[a4paper,margin=22mm]{geometry}
+\usepackage{amsmath,amssymb,bm,graphicx,adjustbox,fvextra,longtable,array}
+\xeCJKDeclareCharClass{CJK}{"2160 -> "217F, "2460 -> "249B, "2200 -> "22FF}
+\newcommand{\fitmath}[1]{\begin{adjustbox}{max width=\linewidth}$\displaystyle #1$\end{adjustbox}}
+\setlength{\parindent}{0pt}\setlength{\parskip}{.65em}\renewcommand{\arraystretch}{1.3}
+\sloppy\allowdisplaybreaks
+\begin{document}
+\section*{2024 年计算机统考 408 · 答案与解析}
+\subsection*{2024年全国硕士研究生招生考试计算机学科专业基础试题参考答案}
+
+\subsection*{一、单项选择题}
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-10\tabcolsep-6\arrayrulewidth)/5\relax}|}\hline
+1. D & 2. A & 3. A & 4. B & 5. D\\\hline
+6. A & 7. D & 8. A & 9. B & 10. C\\\hline
+11. D & 12. B & 13. B & 14. C & 15. D\\\hline
+16. D & 17. C & 18. B & 19. C & 20. B\\\hline
+21. A & 22. C & 23. A & 24. A & 25. D\\\hline
+26. A & 27. A & 28. B & 29. A & 30. C\\\hline
+31. C & 32. C & 33. B & 34. C & 35. D\\\hline
+36. B & 37. D & 38. D & 39. C & 40. D\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+\subsection*{二、综合应用题}
+
+41．【答案要点】（1）算法的基本设计思想：建立图G各顶点的入度表degree[]。选择入度为0的顶点v，将v的所有邻接点的入度减1，重复执行这个过程。若每次选中的入度为0的顶点有且仅有一个，且共进行了G.numVertices次，则意味着存在唯一的拓扑序列，返回1，否则不存在拓扑序列，或存在多个拓扑序列，返回0。（2）用C语言描述的算法：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+int uniquely(MGraph G)  // 判定有向图是否存在唯一的拓扑序列
+{
+    int *degree, i, j, count=0, in0=-1, prev_in0;
+    degree=(int*)malloc(G.numVertices*sizeof(int));
+    for(j=0; j<G.numVertices; j++) {  // 计算各顶点的入度
+        degree[j]=0;
+        for(i=0; i<G.numVertices; i++)
+            degree[j]+=G.Edge[i][j];
+        if(degree[j]==0) {
+            if(in0==-1) in0=j;  // 入度为0的顶点
+            else in0=-2;       // 有多个入度为0的顶点
+        }
+    }
+    while(in0>=0) {
+        count++;
+        prev_in0=in0;
+        in0=-1;
+        for(j=0; j<G.numVertices; j++)
+            if(G.Edge[prev_in0][j]>0) {
+                if(--degree[j]==0) {  // 邻接点入度值减1
+\end{Verbatim}
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+                    if(in0==-1) in0=j;  // 入度为0的顶点
+                    else in0=-2;       // 有多个入度为0的顶点
+                }
+            }
+    }
+    free(degree);
+    if(count==G.numVertices) return 1;
+    else return 0;
+}
+\end{Verbatim}
+
+42．【答案要点】（1）HT如下。
+
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+地址 & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\\\hline
+关键字 & 11 &  & 14 & 7 &  & 20 & 9 &  &  & 3 & 18\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+装填因子\(\displaystyle \alpha=7/11\)。（2）查找关键字14的关键字比较序列：3、18、14。（3）查找关键字8，确认查找失败时的散列地址是7。
+
+
+43．【答案要点】（1）最多有\(\displaystyle 2^5=32\)个通用寄存器。M字长为32位，故通用寄存器宽度为32位，因此shamt字段占\(\displaystyle \log_2 32=5\)位。（2）控制信号ALUBsrc=0；F=1FDB 9753H；OF=1；CF=1；根据CF判断是否溢出。（3）因为slli指令的移位位数只使用IR[31:20]中的低5位，
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+                    if(in0==-1) in0=j;  // 入度为0的顶点
+                    else in0=-2;       // 有多个入度为0的顶点
+                }
+            }
+    }
+    free(degree);
+    if(count==G.numVertices) return 1;
+    else return 0;
+}
+\end{Verbatim}
+
+42．【答案要点】（1）HT如下。
+
+
+\begin{center}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+地址 & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\\\hline
+关键字 & 11 &  & 14 & 7 &  & 20 & 9 &  &  & 3 & 18\\\hline\end{tabular}\end{adjustbox}\end{center}
+
+装填因子\(\displaystyle \alpha=7/11\)。（2）查找关键字14的关键字比较序列：3、18、14。（3）查找关键字8，确认查找失败时的散列地址是7。
+
+
+43．【答案要点】（1）最多有\(\displaystyle 2^5=32\)个通用寄存器。M字长为32位，故通用寄存器宽度为32位，因此shamt字段占\(\displaystyle \log_2 32=5\)位。（2）控制信号ALUBsrc=0；F=1FDB 9753H；OF=1；CF=1；根据CF判断是否溢出。（3）因为slli指令的移位位数只使用IR[31:20]中的低5位，
+
+
+43．（续）（3）与高位IR[31:25]及扩展出来的位无关，故Ext取值可以是0也可以是1。（4）Ext=1；ALUctr=000。（5）因为A040 A103H=101000000100 00001 010 00010 0000011B，根据指令格式中IR[6:0]=0000011B、IR[14:12]=010B，可以判定该指令是lw指令。lw指令所读取数据的存储地址为FFFF 9CD4H。
+
+
+44．【答案要点】（1）a的首地址存放在r3；i存放在r2；sum存放在r1。（2）a[i]的地址为0013 E004H；a[i]的机器数为FFFF ECDCH；sum的机器数为0000 000EH；a[i]所在页的页号是0013EH；数组a至少存放在2页中。（3）指令机器码为0021 2213H。汇编形式是slli r4, r2, 1。
+
+
+45．【答案要点】（1）页表项的虚拟地址为：
+
+
+\[\fitmath{\displaystyle \mathrm{B8C0\ 0000H}+(\mathrm{48H}\ll2)=\mathrm{B8C0\ 0120H}}\]
+
+页表项的物理地址为：
+
+
+\[\fitmath{\displaystyle \mathrm{6540\ 0000H}+(\mathrm{48H}\ll2)=\mathrm{6540\ 0120H}}\]
+
+相应页表项中的页框号为：
+
+
+\[\fitmath{\displaystyle \mathrm{BAB4\ 5678H}\gg22=\mathrm{2EAH}}\]
+
+（2）进程P的页表所在页的页号为：
+
+
+\[\fitmath{\displaystyle \mathrm{B8C0\ 0000H}\gg22=\mathrm{2E3H}}\]
+
+页表项的虚拟地址为：
+
+
+\[\fitmath{\displaystyle \mathrm{B8C0\ 0000H}+(\mathrm{2E3H}\ll2)=\mathrm{B8C0\ 0B8CH}}\]
+
+45．（续）页表项中的页框号为：
+
+
+\[\fitmath{\displaystyle \mathrm{6540\ 0000H}\gg22=\mathrm{195H}}\]
+
+46．【答案要点】（1）实现C1的代码是临界区。因为代码C1执行对B的写操作，且P1和P2需要互斥执行C1。（2）进程P1和P2的同步伪代码如下：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+Semaphore S=0;  // 实现进程 P1 与 P2 的同步
+P1:                 P2:
+...                 ...
+C1;                 wait(S);
+signal(S);          C2;
+...                 ...
+\end{Verbatim}
+
+（3）进程P1和P2的互斥伪代码如下：
+
+
+\begin{Verbatim}[breaklines,breakanywhere,fontsize=\small]
+Semaphore mutex=1;  // 实现 P1 与 P2 互斥执行 C3
+P1:                 P2:
+...                 ...
+wait(mutex);        wait(mutex);
+C3;                 C3;
+signal(mutex);      signal(mutex);
+...                 ...
+\end{Verbatim}
+
+47．【答案要点】（1）AS4应该选择OSPF协议。（2）初始TTL值应该至少设置为16。（3）R11～R16路由器均获得到达网络210.2.3.0/24的正确路由，至少需要30s；均获得到达网络210.2.4.0/24的正确路由，至少需要60s。（4）由BGP协议外部会话（eBGP）完成；通过UPDATE报文通告；R13通过BGP协议内部会话（iBGP）通告R14和R15。（5）R14路由表中到达网络136.5.16.0/20路由的下一跳是R11；R15路由表中到达网络136.5.16.0/20路由的下一跳是R13。
+
+\end{document}

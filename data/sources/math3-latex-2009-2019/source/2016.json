@@ -1,0 +1,246 @@
+{
+  "year": 2016,
+  "pages": [
+    {
+      "source_page": 16,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2016年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共8小题，每小题4分，共32分。在每小题给出的四个选项中，只有一项符合题目要求，把所选项前的字母填在题后的括号内。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设函数 \\(f(x)\\) 在 \\((-\\infty,+\\infty)\\) 内连续，其导函数的图形如图所示，则（　）。"
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            339,
+            125,
+            452,
+            209
+          ],
+          "caption": "题1的导函数 \\(f^{\\prime}(x)\\) 图形，坐标轴为 \\(x,y\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）函数 \\(f(x)\\) 有2个极值点，曲线 \\(y=f(x)\\) 有2个拐点。 （B）函数 \\(f(x)\\) 有2个极值点，曲线 \\(y=f(x)\\) 有3个拐点。 （C）函数 \\(f(x)\\) 有3个极值点，曲线 \\(y=f(x)\\) 有1个拐点。 （D）函数 \\(f(x)\\) 有3个极值点，曲线 \\(y=f(x)\\) 有2个拐点。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）已知函数 \\(f(x,y)=\\frac{e^x}{x-y}\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f_x^{\\prime}-f_y^{\\prime}=0\\)。 （B）\\(f_x^{\\prime}+f_y^{\\prime}=0\\)。 （C）\\(f_x^{\\prime}-f_y^{\\prime}=f\\)。 （D）\\(f_x^{\\prime}+f_y^{\\prime}=f\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设 \\(J_i=\\iint_{D_i}\\sqrt[3]{x-y}\\,\\mathrm dx\\mathrm dy\\;(i=1,2,3)\\)，其中 \\(D_1=\\{(x,y)\\mid0\\le x\\le1,0\\le y\\le1\\}\\)，\\(D_2=\\{(x,y)\\mid0\\le x\\le1,0\\le y\\le\\sqrt x\\}\\)，\\(D_3=\\{(x,y)\\mid0\\le x\\le1,x^2\\le y\\le1\\}\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(J_1<J_2<J_3\\)。 （B）\\(J_3<J_1<J_2\\)。 （C）\\(J_2<J_3<J_1\\)。 （D）\\(J_2<J_1<J_3\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）级数 \\(\\sum_{n=1}^{\\infty}(\\frac1{\\sqrt n}-\\frac1{\\sqrt{n+1}})\\sin(n+k)\\)（\\(k\\) 为常数）（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）绝对收敛。 （B）条件收敛。 （C）发散。 （D）收敛性与 \\(k\\) 有关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设 \\(A,B\\) 是可逆矩阵，且 \\(A\\) 与 \\(B\\) 相似，则下列结论错误的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(A^{\\mathrm T}\\) 与 \\(B^{\\mathrm T}\\) 相似。 （B）\\(A^{-1}\\) 与 \\(B^{-1}\\) 相似。 （C）\\(A+A^{\\mathrm T}\\) 与 \\(B+B^{\\mathrm T}\\) 相似。 （D）\\(A+A^{-1}\\) 与 \\(B+B^{-1}\\) 相似。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（6）设二次型 \\(f(x_1,x_2,x_3)=a(x_1^2+x_2^2+x_3^2)+2x_1x_2+2x_2x_3+2x_1x_3\\) 的正、负惯性指数分别为1，2，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(a>1\\)。 （B）\\(a<-2\\)。 （C）\\(-2<a<1\\)。 （D）\\(a=1\\) 或 \\(a=-2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（7）设 \\(A,B\\) 为两个随机事件，且 \\(0<P(A)<1\\)，\\(0<P(B)<1\\)，如果 \\(P(A\\mid B)=1\\)，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P(\\bar B\\mid\\bar A)=1\\)。 （B）\\(P(A\\mid\\bar B)=0\\)。 （C）\\(P(A\\cup\\bar B)=1\\)。 （D）\\(P(B\\mid A)=1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（8）设随机变量 \\(X\\) 与 \\(Y\\) 相互独立，且 \\(X\\sim N(1,2)\\)，\\(Y\\sim N(1,4)\\)，则 \\(D(XY)=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）6。 （B）8。 （C）14。 （D）15。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共6小题，每小题4分，共24分，把答案填在题中横线上。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）已知函数 \\(f(x)\\) 满足 \\(\\lim_{x\\to0}\\frac{\\sqrt{1+f(x)\\sin2x}-1}{e^{3x}-1}=2\\)，则 \\(\\lim_{x\\to0}f(x)=\\)______。"
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（10）极限 \\(\\lim_{n\\to\\infty}\\frac1{n^2}(\\sin\\frac1n+2\\sin\\frac2n+\\cdots+n\\sin\\frac nn)=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（11）设函数 \\(f(u,v)\\) 可微，\\(z=z(x,y)\\) 由方程 \\((x+1)z-y^2=x^2f(x-z,y)\\) 确定，则 \\(\\left.\\mathrm dz\\right|_{(0,1)}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（12）设 \\(D=\\{(x,y)\\mid|x|\\le y\\le1,-1\\le x\\le1\\}\\)，则 \\(\\iint_Dx^2e^{-y^2}\\,\\mathrm dx\\mathrm dy=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（13）行列式 \\(\\begin{vmatrix}\\lambda&-1&0&0\\\\0&\\lambda&-1&0\\\\0&0&\\lambda&-1\\\\4&3&2&\\lambda+1\\end{vmatrix}=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（14）设袋中有红、白、黑球各1个，从中有放回地取球，每次取1个，直到三种颜色的球都取到时停止，则取球次数恰好为4的概率为______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共9小题，共94分，解答应写出文字说明、证明过程或演算步骤。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）（本题满分10分）求极限 \\(\\lim_{x\\to0}(\\cos2x+2x\\sin x)^{1/x^4}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（本题满分10分）设某商品的最大需求量为1200件，该商品的需求函数 \\(Q=Q(p)\\)，需求弹性 \\(\\eta=\\frac p{120-p}\\;(\\eta>0)\\)，\\(p\\) 为单价（万元）。（Ⅰ）求需求函数的表达式；（Ⅱ）求 \\(p=100\\) 万元时的边际收益，并说明其经济意义。"
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（17）（本题满分10分）设函数 \\(f(x)=\\int_0^1|t^2-x^2|\\,\\mathrm dt\\;(x>0)\\)，求 \\(f^{\\prime}(x)\\)，并求 \\(f(x)\\) 的最小值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）（本题满分10分）设函数 \\(f(x)\\) 连续，且满足 \\(\\int_0^xf(x-t)\\,\\mathrm dt=\\int_0^x(x-t)f(t)\\,\\mathrm dt+e^{-x}-1\\)，求 \\(f(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）（本题满分10分）求幂级数 \\(\\sum_{n=0}^{\\infty}\\frac{x^{2n+2}}{(n+1)(2n+1)}\\) 的收敛域及和函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（本题满分11分）设矩阵 \\(A=\\begin{pmatrix}1&1&1-a\\\\1&0&a\\\\a+1&1&a+1\\end{pmatrix}\\)，\\(\\beta=\\begin{pmatrix}0\\\\1\\\\2a-2\\end{pmatrix}\\)，且方程组 \\(Ax=\\beta\\) 无解。（Ⅰ）求 \\(a\\) 的值；（Ⅱ）求方程组 \\(A^{\\mathrm T}Ax=A^{\\mathrm T}\\beta\\) 的通解。"
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（21）（本题满分11分）已知矩阵 \\(A=\\begin{pmatrix}0&-1&1\\\\2&-3&0\\\\0&0&0\\end{pmatrix}\\)。（Ⅰ）求 \\(A^{99}\\)；（Ⅱ）设3阶矩阵 \\(B=(\\alpha_1,\\alpha_2,\\alpha_3)\\) 满足 \\(B^2=BA\\)。记 \\(B^{100}=(\\beta_1,\\beta_2,\\beta_3)\\)，将 \\(\\beta_1,\\beta_2,\\beta_3\\) 分别表示为 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 的线性组合。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（本题满分11分）设二维随机变量 \\((X,Y)\\) 在区域 \\(D=\\{(x,y)\\mid0<x<1,x^2<y<\\sqrt x\\}\\) 上服从均匀分布，令 \\(U=\\begin{cases}1,&X\\le Y,\\\\0,&X>Y.\\end{cases}\\)（Ⅰ）写出 \\((X,Y)\\) 的概率密度；（Ⅱ）问 \\(U\\) 与 \\(X\\) 是否相互独立？并说明理由；（Ⅲ）求 \\(Z=U+X\\) 的分布函数 \\(F(z)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（本题满分11分）设总体 \\(X\\) 的概率密度为 \\(f(x;\\theta)=\\begin{cases}\\frac{3x^2}{\\theta^3},&0<x<\\theta,\\\\0,&\\text{其他},\\end{cases}\\) 其中 \\(\\theta\\in(0,+\\infty)\\) 为未知参数，\\(X_1,X_2,X_3\\) 为来自总体 \\(X\\) 的简单随机样本，令 \\(T=\\max\\{X_1,X_2,X_3\\}\\)。（Ⅰ）求 \\(T\\) 的概率密度；（Ⅱ）确定 \\(a\\)，使得 \\(E(aT)=\\theta\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 20,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2016年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。 （2）D。 （3）B。 （4）A。 （5）C。 （6）C。 （7）A。 （8）C。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（9）\\(6\\)。 （10）\\(\\sin1-\\cos1\\)。 （11）\\(-\\mathrm dx+2\\mathrm dy\\)。 （12）\\(\\frac13-\\frac2{3e}\\)。 （13）\\(\\lambda^4+\\lambda^3+2\\lambda^2+3\\lambda+4\\)。 （14）\\(\\frac29\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（15）\\(e^{1/3}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（16）（Ⅰ）\\(Q(p)=1200-10p\\)。（Ⅱ）当 \\(p=100\\) 万元时，边际收益为80万元。其经济意义为：当 \\(p=100\\) 万元，\\(Q=200\\) 件时，销售第201件商品所得的收益为80万元。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（17）\\(f^{\\prime}(x)=\\begin{cases}4x^2-2x,&0<x<1,\\\\2x,&x\\ge1.\\end{cases}\\) 最小值 \\(f(\\frac12)=\\frac14\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（18）\\(f(x)=-\\frac{e^{-x}+e^x}{2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（19）和函数 \\(s(x)=\\begin{cases}x\\ln(\\frac{1+x}{1-x})+\\ln(1-x^2),&x\\in(-1,1),\\\\2\\ln2,&x=\\pm1.\\end{cases}\\) 收敛域为 \\([-1,1]\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（20）（Ⅰ）\\(a=0\\)。（Ⅱ）通解为 \\(k(0,1,-1)^{\\mathrm T}+(1,-2,0)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（21）（Ⅰ）\\(A^{99}=\\begin{pmatrix}2^{99}-2&1-2^{99}&2-2^{98}\\\\2^{100}-2&1-2^{100}&2-2^{99}\\\\0&0&0\\end{pmatrix}\\)。（Ⅱ）\\(\\beta_1=(2^{99}-2)\\alpha_1+(2^{100}-2)\\alpha_2\\)，\\(\\beta_2=(1-2^{99})\\alpha_1+(1-2^{100})\\alpha_2\\)，\\(\\beta_3=(2-2^{98})\\alpha_1+(2-2^{99})\\alpha_2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（22）（Ⅰ）\\(f(x,y)=\\begin{cases}3,&0<x<1,\\ x^2<y<\\sqrt x,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅱ）\\(U\\) 与 \\(X\\) 不相互独立，理由见解析。（Ⅲ）\\(F(z)=\\begin{cases}0,&z\\le0,\\\\\\frac32z^2-z^3,&0<z\\le1,\\\\2(z-1)^{3/2}-\\frac32z^2+3z-1,&1<z\\le2,\\\\1,&z>2.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "（23）（Ⅰ）\\(f_T(t)=\\begin{cases}\\frac{9t^8}{\\theta^9},&0<t<\\theta,\\\\0,&\\text{其他}.\\end{cases}\\)（Ⅱ）当 \\(a=\\frac{10}{9}\\) 时，\\(E(aT)=\\theta\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

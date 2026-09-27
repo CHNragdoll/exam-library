@@ -1,0 +1,444 @@
+{
+  "year": 1988,
+  "pages": [
+    {
+      "source_page": 22,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1988年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共4小题，每小题3分，满分12分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(f(x)=\\int_0^x e^{-t^2/2}\\,dt\\)，\\(-\\infty<x<+\\infty\\)，则：① \\(f\\prime(x)=\\)______；② \\(f(x)\\) 的单调性是______；③ \\(f(x)\\) 的奇偶性是______；④ 其图形的拐点是______；⑤ 凹凸区间是______；⑥ 水平渐近线是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）行列式"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{vmatrix}1&1&1&0\\\\1&1&0&1\\\\1&0&1&1\\\\0&1&1&1\\end{vmatrix}=\\underline{\\qquad}."
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设矩阵"
+        },
+        {
+          "type": "display",
+          "tex": "A=\\begin{pmatrix}0&0&0&1\\\\0&0&1&0\\\\0&1&0&0\\\\1&0&0&0\\end{pmatrix},\\quad A^{-1}=\\underline{\\qquad}."
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(P(A)=0.4,\\ P(A\\cup B)=0.7\\)，那么：① 若 \\(A\\) 与 \\(B\\) 互不相容，则 \\(P(B)=\\)______；② 若 \\(A\\) 与 \\(B\\) 相互独立，则 \\(P(B)=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "二、判断题（本题共5小题，每小题2分，满分10分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）若 \\(\\lim_{x\\to x_0}f(x)\\) 与 \\(\\lim_{x\\to x_0}f(x)g(x)\\) 均存在，则 \\(\\lim_{x\\to x_0}g(x)\\) 存在。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）若 \\(x_0\\) 是函数 \\(f(x)\\) 的极值点，则必有 \\(f\\prime(x_0)=0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）等式 \\(\\int_0^a f(x)\\,dx=-\\int_0^a f(a-x)\\,dx\\) 对任何实数 \\(a\\) 都成立。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）若 \\(A\\) 和 \\(B\\) 都是 \\(n\\) 阶非零方阵，且 \\(AB=O\\)，则 \\(A\\) 的秩必小于 \\(n\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）若事件 \\(A,B,C\\) 满足等式 \\(A\\cup C=B\\cup C\\)，则 \\(A=B\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、（本大题共4小题，每小题4分，满分16分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求极限 \\(\\displaystyle\\lim_{x\\to1}\\frac{x^x-1}{x\\ln x}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）已知 \\(u+e^u=xy\\)，求 \\(\\frac{\\partial^2u}{\\partial x\\partial y}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）求定积分 \\(\\int_0^3\\frac1{\\sqrt x(1+x)}\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）求二重积分 \\(\\int_0^{\\pi/6}dy\\int_y^{\\pi/6}\\frac{\\cos x}{x}\\,dx\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本大题共2小题，每小题3分，满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）讨论级数 \\(\\sum_{n=1}^{\\infty}\\frac{(n+1)!}{n^{n+1}}\\) 的敛散性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）已知级数 \\(\\sum_{n=1}^{\\infty}a_n^2\\) 与 \\(\\sum_{n=1}^{\\infty}b_n^2\\) 都收敛，试证明级数 \\(\\sum_{n=1}^{\\infty}a_nb_n\\) 绝对收敛。"
+        }
+      ]
+    },
+    {
+      "source_page": 23,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "五、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知某商品的需求量 \\(D\\) 和供给量 \\(S\\) 都是价格 \\(p\\) 的函数：\\(D=D(p)=\\frac a{p^2},\\ S=S(p)=bp\\)，其中 \\(a>0\\) 和 \\(b>0\\) 为常数；价格 \\(p\\) 是时间 \\(t\\) 的函数且满足方程 \\(\\frac{dp}{dt}=k[D(p)-S(p)]\\)（\\(k\\) 为正常数）。假设当 \\(t=0\\) 时价格为1，试求："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）需求量等于供给量时的均衡价格 \\(p_e\\)；（2）价格函数 \\(p(t)\\)；（3）极限 \\(\\lim_{t\\to+\\infty}p(t)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "在曲线 \\(y=x^2\\;(x\\ge0)\\) 上某点 \\(A\\) 处作一切线，使之与曲线以及 \\(x\\) 轴所围图形的面积为 \\(\\frac1{12}\\)，试求：（1）切点 \\(A\\) 的坐标；（2）过切点 \\(A\\) 的切线方程；（3）由上述所围平面图形绕 \\(x\\) 轴旋转一周所成旋转体的体积。"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知线性方程组"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{cases}x_1+x_2+2x_3+3x_4=1,\\\\x_1+3x_2+6x_3+x_4=3,\\\\3x_1-x_2-k_1x_3+15x_4=3,\\\\x_1-5x_2-10x_3+12x_4=k_2.\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "问 \\(k_1\\) 和 \\(k_2\\) 各取何值时，方程组无解？有唯一解？有无穷多解？在方程组有无穷多解的情况下，试求出一般解。"
+        },
+        {
+          "type": "heading",
+          "text": "八、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知向量组 \\(\\boldsymbol\\alpha_1,\\boldsymbol\\alpha_2,\\ldots,\\boldsymbol\\alpha_s\\;(s\\ge2)\\) 线性无关。设 \\(\\boldsymbol\\beta_1=\\boldsymbol\\alpha_1+\\boldsymbol\\alpha_2,\\ \\boldsymbol\\beta_2=\\boldsymbol\\alpha_2+\\boldsymbol\\alpha_3,\\ldots,\\boldsymbol\\beta_{s-1}=\\boldsymbol\\alpha_{s-1}+\\boldsymbol\\alpha_s,\\ \\boldsymbol\\beta_s=\\boldsymbol\\alpha_s+\\boldsymbol\\alpha_1\\)。试讨论向量组 \\(\\boldsymbol\\beta_1,\\boldsymbol\\beta_2,\\ldots,\\boldsymbol\\beta_s\\) 的线性相关性。"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "设 \\(A\\) 是3阶方阵，\\(A^*\\) 是 \\(A\\) 的伴随矩阵，\\(A\\) 的行列式 \\(|A|=\\frac12\\)，求行列式 \\(|(3A)^{-1}-2A^*|\\) 的值。"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "玻璃杯成箱出售，每箱20只。假设各箱含0，1，2只残次品的概率相应为0.8，0.1和0.1。一顾客欲购一箱玻璃杯，在购买时，售货员随意取一箱，而顾客随机地察看4只：若无残次品，则买下该箱玻璃杯，否则退回。试求："
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）顾客买下该箱的概率 \\(\\alpha\\)；（2）在顾客买下的一箱中，确实没有残次品的概率 \\(\\beta\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "某保险公司多年统计资料表明，在索赔户中被盗窃赔户占20%，以 \\(X\\) 表示在随意抽查的100个索赔户中因被盗窃向保险公司索赔的户数。"
+        }
+      ]
+    },
+    {
+      "source_page": 24,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "（1）写出 \\(X\\) 的概率分布；（2）利用棣莫弗—拉普拉斯定理，求出被盗窃赔户不少于14户且不多于30户的概率的近似值。附表 \\(\\Phi(x)\\) 是标准正态分布函数。"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{array}{c|ccccccc}x&0&0.5&1&1.5&2&2.5&3\\\\\\hline\\Phi(x)&0.5&0.692&0.841&0.933&0.977&0.994&0.999\\end{array}"
+        },
+        {
+          "type": "heading",
+          "text": "十二、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "假设随机变量 \\(X\\) 在区间 \\((1,2)\\) 上服从均匀分布。试求随机变量 \\(Y=e^{2X}\\) 的概率密度 \\(f(y)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "heading",
+          "text": "一、（本题满分12分）【同试卷IV 第一题】"
+        },
+        {
+          "type": "heading",
+          "text": "二、（本题满分10分）【同试卷IV 第二题】"
+        },
+        {
+          "type": "heading",
+          "text": "三、（本大题共4小题，每小题4分，满分16分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）求极限 \\(\\displaystyle\\lim_{x\\to1}(1-x^2)\\tan\\frac\\pi2x\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）已知 \\(u=e^{x/y}\\)，求 \\(\\frac{\\partial^2u}{\\partial x\\partial y}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）【同试卷IV 第三、（3）题】 （4）【同试卷IV 第三、（4）题】"
+        },
+        {
+          "type": "heading",
+          "text": "四、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "确定常数 \\(a\\) 和 \\(b\\)，使函数"
+        },
+        {
+          "type": "display",
+          "tex": "f(x)=\\begin{cases}ax+b,&x>1,\\\\x^2,&x\\le1\\end{cases}"
+        },
+        {
+          "type": "paragraph",
+          "text": "处处可导。"
+        },
+        {
+          "type": "heading",
+          "text": "五、（本题满分8分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "将长为 \\(a\\) 的铁丝切成两段，一段围成正方形，另一段围成圆形。问这两段铁丝各长为多少时，正方形与圆形的面积之和最小？"
+        },
+        {
+          "type": "heading",
+          "text": "六、（本题满分8分）【同试卷IV 第六题】"
+        },
+        {
+          "type": "heading",
+          "text": "七、（本题满分8分）【同试卷IV 第七题】"
+        },
+        {
+          "type": "heading",
+          "text": "八、（本题满分6分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 \\(n\\) 阶方阵 \\(A\\) 满足矩阵方程 \\(A^2-3A-2E=O\\)，其中 \\(A\\) 给定，\\(E\\) 是单位矩阵。证明：\\(A\\) 可逆，并求出其逆矩阵 \\(A^{-1}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "九、（本题满分7分）【同试卷IV 第八题】"
+        },
+        {
+          "type": "heading",
+          "text": "十、（本题满分7分）【同试卷IV 第十题】"
+        },
+        {
+          "type": "heading",
+          "text": "十一、（本题满分7分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "假设有十只同种电器元件，其中有两只废品。装配仪器时，从这批元件中任取一只，如是废品，则扔掉重新任取一只，直到取得正品之前，已取出的废品只数的概率分布、数学期望和方差。"
+        },
+        {
+          "type": "heading",
+          "text": "十二、（本题满分5分）【同试卷IV 第十二题】"
+        }
+      ]
+    },
+    {
+      "source_page": 62,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1988年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷IV）"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）① \\(e^{-x^2/2}\\)；② 在 \\((-\\infty,+\\infty)\\) 上单调增；③ 奇函数；④ \\((0,0)\\)；⑤ 在 \\((-\\infty,0)\\) 上是凹的，在 \\((0,+\\infty)\\) 上是凸的；⑥ \\(y=-\\sqrt{\\pi/2},\\ y=\\sqrt{\\pi/2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(-3\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）"
+        },
+        {
+          "type": "display",
+          "tex": "\\begin{pmatrix}0&0&0&1\\\\0&0&1&0\\\\0&1&0&0\\\\1&0&0&0\\end{pmatrix}."
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）① \\(0.3\\)；② \\(0.5\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、判断题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）×。 （2）×。 （3）×。 （4）√。 （5）×。"
+        },
+        {
+          "type": "heading",
+          "text": "三、计算题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(1\\)。 （2）\\(\\frac{\\partial^2u}{\\partial x\\partial y}=\\frac1{1+e^u}-\\frac{xye^u}{(1+e^u)^3}\\)。 （3）\\(\\frac{2\\pi}{3}\\)。 （4）\\(\\frac12\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "四、级数"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）级数收敛。（2）证明略（可利用 \\(|a_nb_n|\\le\\frac12(a_n^2+b_n^2)\\) 和比较审敛法）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、（1）\\(p_e=(a/b)^{1/3}\\)。 （2）\\(p(t)=[p_e^3+(1-p_e^3)e^{-3kbt}]^{1/3}\\)。 （3）\\(\\lim_{t\\to+\\infty}p(t)=p_e\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（1）\\((1,1)\\)。 （2）\\(y=2x-1\\)。 （3）\\(\\frac\\pi{30}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、\\(k_1\\ne2\\) 时，方程组有唯一解；\\(k_1=2\\) 且 \\(k_2\\ne1\\) 时，方程组无解；\\(k_1=2\\) 且 \\(k_2=1\\) 时，方程组有无穷多解，其解为 \\((x_1,x_2,x_3,x_4)^{\\mathrm T}=k(0,-2,1,0)^{\\mathrm T}+(-8,3,0,2)^{\\mathrm T}\\)，其中 \\(k\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、\\(s\\) 为奇数时，向量组 \\(\\boldsymbol\\beta_1,\\ldots,\\boldsymbol\\beta_s\\) 线性无关；\\(s\\) 为偶数时，向量组 \\(\\boldsymbol\\beta_1,\\ldots,\\boldsymbol\\beta_s\\) 线性相关。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、\\(-\\frac{16}{27}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（1）\\(\\alpha=\\frac{448}{475}\\approx0.94\\)。 （2）\\(\\beta\\approx0.85\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（1）\\(P\\{X=k\\}=\\binom{100}{k}0.2^k0.8^{100-k}\\;(k=0,1,\\ldots,100)\\)。 （2）\\(0.927\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、"
+        },
+        {
+          "type": "display",
+          "tex": "f(y)=\\begin{cases}\\frac1{2y},&e^2<y<e^4,\\\\0,&\\text{其他}.\\end{cases}"
+        },
+        {
+          "type": "heading",
+          "text": "（试卷V）"
+        },
+        {
+          "type": "paragraph",
+          "text": "一、【同试卷IV 第一题】 二、【同试卷IV 第二题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（1）\\(\\frac4\\pi\\)。 （2）\\(-\\frac{x+y}{y^3}e^{x/y}\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 63,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "三、（3）【同试卷IV 第三、（3）题】 （4）【同试卷IV 第三、（4）题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、\\(a=2,b=-1\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、当圆的周长为 \\(\\frac{\\pi a}{4+\\pi}\\)，正方形的周长为 \\(\\frac{4a}{4+\\pi}\\) 时，两图形的面积之和最小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、【同试卷IV 第六题】 七、【同试卷IV 第七题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、证明略。\\(A^{-1}=\\frac12(A-3E)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、【同试卷IV 第八题】 十、【同试卷IV 第十题】"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（1）\\(P\\{X=0\\}=\\frac45,\\ P\\{X=1\\}=\\frac8{45},\\ P\\{X=2\\}=\\frac1{45}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）\\(E(X)=\\frac29\\)。 （3）\\(D(X)=\\frac{88}{405}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、【同试卷IV 第十二题】"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

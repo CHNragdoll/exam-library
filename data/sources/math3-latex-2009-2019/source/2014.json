@@ -1,0 +1,252 @@
+{
+  "year": 2014,
+  "pages": [
+    {
+      "source_page": 26,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2014 年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题（本题共 8 小题，每小题 4 分，共 32 分。在每小题给出的四个选项中，只有一项符合题目要求，把所选项前的字母填在题后的括号内。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) \\(\\lim_{n\\to\\infty}a_n=a\\)，且 \\(a\\ne0\\)，则当 \\(n\\) 充分大时有（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(|a_n|>\\frac{|a|}{2}\\)。 (B) \\(|a_n|<\\frac{|a|}{2}\\)。 (C) \\(a_n>a-\\frac1n\\)。 (D) \\(a_n<a+\\frac1n\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 下列曲线中有渐近线的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(y=x+\\sin x\\)。 (B) \\(y=x^2+\\sin x\\)。 (C) \\(y=x+\\sin\\frac1x\\)。 (D) \\(y=x^2+\\sin\\frac1x\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 设 \\(p(x)=a+bx+cx^2+dx^3\\)。当 \\(x\\to0\\) 时，若 \\(p(x)-\\tan x\\) 是比 \\(x^3\\) 高阶的无穷小量，则下列选项中错误的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(a=0\\)。 (B) \\(b=1\\)。 (C) \\(c=0\\)。 (D) \\(d=\\frac16\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 设函数 \\(f(x)\\) 具有 2 阶导数，\\(g(x)=f(0)(1-x)+f(1)x\\)，则在区间 \\([0,1]\\) 上（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 当 \\(f^{\\prime}(x)\\geq0\\) 时，\\(f(x)\\geq g(x)\\)。 (B) 当 \\(f^{\\prime}(x)\\geq0\\) 时，\\(f(x)\\leq g(x)\\)。 (C) 当 \\(f^{\\prime\\prime}(x)\\geq0\\) 时，\\(f(x)\\geq g(x)\\)。 (D) 当 \\(f^{\\prime\\prime}(x)\\geq0\\) 时，\\(f(x)\\leq g(x)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 行列式 \\(\\begin{vmatrix}0&a&b&0\\\\a&0&0&b\\\\0&c&d&0\\\\c&0&0&d\\end{vmatrix}=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\((ad-bc)^2\\)。 (B) \\(-(ad-bc)^2\\)。 (C) \\(a^2d^2-b^2c^2\\)。 (D) \\(b^2c^2-a^2d^2\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 设 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 均为 3 维向量，则对任意常数 \\(k,l\\)，向量组 \\(\\alpha_1+k\\alpha_3,\\alpha_2+l\\alpha_3\\) 线性无关是向量组 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性无关的（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 必要非充分条件。 (B) 充分非必要条件。 (C) 充分必要条件。 (D) 既非充分也非必要条件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 设随机事件 \\(A\\) 与 \\(B\\) 相互独立，且 \\(P(B)=0.5,P(A-B)=0.3\\)，则 \\(P(B-A)=\\)（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.1。 (B) 0.2。 (C) 0.3。 (D) 0.4。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(8) 设 \\(X_1,X_2,X_3\\) 为来自正态总体 \\(N(0,\\sigma^2)\\) 的简单随机样本，则统计量 \\(S=\\frac{X_1-X_2}{\\sqrt2|X_3|}\\) 服从的分布为（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) \\(F(1,1)\\)。 (B) \\(F(2,1)\\)。 (C) \\(t(1)\\)。 (D) \\(t(2)\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题（本题共 6 小题，每小题 4 分，共 24 分，把答案填在题中横线上。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9) 设某商品的需求函数为 \\(Q=40-2P\\)（\\(P\\) 为商品的价格），则该商品的边际收益为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(10) 设 \\(D\\) 是由曲线 \\(xy+1=0\\) 与直线 \\(y+x=0\\) 及 \\(y=2\\) 围成的有界区域，则 \\(D\\) 的面积为______。"
+        }
+      ]
+    },
+    {
+      "source_page": 27,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(11) 设 \\(\\int_0^a xe^{2x}\\,dx=\\frac14\\)，则 \\(a=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(12) 二次积分 \\(\\int_0^1dy\\int_y^1\\left(\\frac{e^{x^2}}x-e^{y^2}\\right)dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(13) 设二次型 \\(f(x_1,x_2,x_3)=x_1^2-x_2^2+2ax_1x_3+4x_2x_3\\) 的负惯性指数为 1，则 \\(a\\) 的取值范围是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(14) 设总体 \\(X\\) 的概率密度为 \\(f(x;\\theta)=\\begin{cases}\\frac{2x}{3\\theta^2},&\\theta<x<2\\theta,\\\\0,&\\text{其他},\\end{cases}\\) 其中 \\(\\theta\\) 是未知参数，\\(X_1,X_2,\\ldots,X_n\\) 为来自总体 \\(X\\) 的简单随机样本。若 \\(E\\left(c\\sum_{i=1}^nX_i^2\\right)=\\theta^2\\)，则 \\(c=\\)______。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题（本题共 9 小题，共 94 分，解答应写出文字说明、证明过程或演算步骤。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "(15)（本题满分 10 分）求极限 \\(\\lim_{x\\to+\\infty}\\frac{\\int_1^x[t^2(e^{1/t}-1)-t]\\,dt}{x^2\\ln(1+1/x)}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(16)（本题满分 10 分）设平面区域 \\(D=\\{(x,y)\\mid1\\leq x^2+y^2\\leq4,\\ x\\geq0,\\ y\\geq0\\}\\)，计算 \\(\\iint_D\\frac{x\\sin(\\pi\\sqrt{x^2+y^2})}{x+y}\\,dx\\,dy\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 28,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(17)（本题满分 10 分）设函数 \\(f(u)\\) 具有连续导数，且 \\(z=f(e^x\\cos y)\\) 满足 \\(\\cos y\\frac{\\partial z}{\\partial x}-\\sin y\\frac{\\partial z}{\\partial y}=(4z+e^x\\cos y)e^x\\)。若 \\(f(0)=0\\)，求 \\(f(u)\\) 的表达式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(18)（本题满分 10 分）求幂级数 \\(\\sum_{n=0}^{\\infty}(n+1)(n+3)x^n\\) 的收敛域及和函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(19)（本题满分 10 分）设函数 \\(f(x),g(x)\\) 在区间 \\([a,b]\\) 上连续，且 \\(f(x)\\) 单调增加，\\(0\\leq g(x)\\leq1\\)。证明："
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）\\(0\\leq\\int_a^x g(t)\\,dt\\leq x-a,\\ x\\in[a,b]\\)；（II）\\(\\int_a^{a+\\int_a^b g(t)\\,dt} f(x)\\,dx\\leq\\int_a^b f(x)g(x)\\,dx\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(20)（本题满分 11 分）设矩阵 \\(A=\\begin{pmatrix}1&-2&3&-4\\\\0&1&-1&1\\\\1&2&0&-3\\end{pmatrix}\\)，\\(E\\) 为 3 阶单位矩阵。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求方程组 \\(Ax=0\\) 的一个基础解系；（II）求满足 \\(AB=E\\) 的所有矩阵 \\(B\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 29,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(21)（本题满分 11 分）证明 \\(n\\) 阶矩阵 \\(\\begin{pmatrix}1&1&\\cdots&1\\\\1&1&\\cdots&1\\\\\\vdots&\\vdots&&\\vdots\\\\1&1&\\cdots&1\\end{pmatrix}\\) 与 \\(\\begin{pmatrix}0&\\cdots&0&1\\\\0&\\cdots&0&2\\\\\\vdots&&\\vdots&\\vdots\\\\0&\\cdots&0&n\\end{pmatrix}\\) 相似。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(22)（本题满分 11 分）设随机变量 \\(X\\) 的概率分布为 \\(P\\{X=1\\}=P\\{X=2\\}=\\frac12\\)。在给定 \\(X=i\\) 的条件下，随机变量 \\(Y\\) 服从均匀分布 \\(U(0,i)\\)（\\(i=1,2\\)）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求 \\(Y\\) 的分布函数 \\(F_Y(y)\\)；（II）求 \\(E(Y)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(23)（本题满分 11 分）设随机变量 \\(X,Y\\) 的概率分布相同，\\(X\\) 的概率分布为 \\(P\\{X=0\\}=\\frac13,\\ P\\{X=1\\}=\\frac23\\)，且 \\(X\\) 与 \\(Y\\) 的相关系数 \\(\\rho_{XY}=\\frac12\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（I）求 \\((X,Y)\\) 的概率分布；（II）求 \\(P\\{X+Y\\leq1\\}\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 30,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2014 年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) A。 (2) C。 (3) D。 (4) D。 (5) B。 (6) A。 (7) B。 (8) C。"
+        },
+        {
+          "type": "heading",
+          "text": "二、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9) \\(20-Q\\)。 (10) \\(\\frac32-\\ln2\\)。 (11) \\(\\frac12\\)。 (12) \\(\\frac{e-1}{2}\\)。 (13) \\([-2,2]\\)。 (14) \\(\\frac{2}{5n}\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "三、解答题"
+        },
+        {
+          "type": "paragraph",
+          "text": "(15) \\(\\frac12\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(16) \\(-\\frac34\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(17) \\(f(u)=\\frac1{16}e^{4u}-\\frac14u-\\frac1{16}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(18) 和函数 \\(s(x)=\\frac{3-x}{(1-x)^3}\\)，收敛域为 \\((-1,1)\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(19) 证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(20)（I）\\((-1,2,3,1)^{\\mathrm T}\\)。（II）\\(B=\\begin{pmatrix}2-k_1&6-k_2&-1-k_3\\\\-1+2k_1&-3+2k_2&1+2k_3\\\\-1+3k_1&-4+3k_2&1+3k_3\\\\k_1&k_2&k_3\\end{pmatrix}\\)，其中 \\(k_1,k_2,k_3\\) 为任意常数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(21) 证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(22)（I）\\(F_Y(y)=\\begin{cases}0,&y<0,\\\\\\frac34y,&0\\leq y<1,\\\\\\frac12+\\frac14y,&1\\leq y<2,\\\\1,&y\\geq2.\\end{cases}\\)（II）\\(\\frac34\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(23)（I）\\((X,Y)\\) 的概率分布为 \\(\\begin{array}{c|cc}Y\\backslash X&0&1\\\\\\hline 0&\\frac29&\\frac19\\\\1&\\frac19&\\frac59\\end{array}\\)。（II）\\(\\frac49\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

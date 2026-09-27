@@ -1,0 +1,224 @@
+{
+  "year": 1997,
+  "pages": [
+    {
+      "source_page": 80,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1997 年全国硕士研究生招生考试试题"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设 \\(y=f(\\ln x)e^{f(x)}\\)，其中 \\(f\\) 可微，则 \\(dy=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）若 \\(f(x)=\\frac1{1+x^2}+\\sqrt{1-x^2}\\int_0^1f(x)\\,dx\\)，则 \\(\\int_0^1f(x)\\,dx=\\)______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）差分方程 \\(y_{t+1}-y_t=t2^t\\) 的通解为______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）若二次型 \\(f(x_1,x_2,x_3)=2x_1^2+x_2^2+x_3^2+2x_1x_2+x_1x_3+tx_2x_3\\) 是正定的，则 \\(t\\) 的取值范围是______。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设随机变量 \\(X\\) 和 \\(Y\\) 相互独立，且都服从正态分布 \\(N(0,3^2)\\)，而 \\(X_1,\\ldots,X_9\\) 和 \\(Y_1,\\ldots,Y_9\\) 分别是来自总体 \\(X\\) 和 \\(Y\\) 的简单随机样本，则统计量 \\(U=\\frac{X_1+\\cdots+X_9}{\\sqrt{Y_1^2+\\cdots+Y_9^2}}\\) 服从______分布（2 分），参数为______（1 分）。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题（本题共 5 小题，每小题 3 分，满分 15 分）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）设函数 \\(f(x)=\\int_0^{1-\\cos x}\\sin(t^2)\\,dt,\\ g(x)=\\frac{x^5}{5}+\\frac{x^6}{6}\\)，则当 \\(x\\to0\\) 时，\\(f(x)\\) 是 \\(g(x)\\) 的（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）低阶无穷小。 （B）高阶无穷小。 （C）等价无穷小。 （D）同阶但不等价的无穷小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（2）若函数 \\(f(-x)=f(x)\\)（\\(-\\infty<x<+\\infty\\)），在 \\((-\\infty,0)\\) 内 \\(f^{\\prime}(x)>0\\)，且 \\(f^{\\prime\\prime}(x)<0\\)，则在 \\((0,+\\infty)\\) 内有（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(f^{\\prime}(x)>0,f^{\\prime\\prime}(x)<0\\)。 （B）\\(f^{\\prime}(x)>0,f^{\\prime\\prime}(x)>0\\)。 （C）\\(f^{\\prime}(x)<0,f^{\\prime\\prime}(x)<0\\)。 （D）\\(f^{\\prime}(x)<0,f^{\\prime\\prime}(x)>0\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（3）设向量组 \\(\\alpha_1,\\alpha_2,\\alpha_3\\) 线性无关，则下列向量组中，线性无关的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(\\alpha_1+\\alpha_2,\\alpha_2+\\alpha_3,\\alpha_3-\\alpha_1\\)。 （B）\\(\\alpha_1+\\alpha_2,\\alpha_2+\\alpha_3,\\alpha_1+2\\alpha_2+\\alpha_3\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（C）\\(\\alpha_1+2\\alpha_2,2\\alpha_2+3\\alpha_3,3\\alpha_3+\\alpha_1\\)。 （D）\\(\\alpha_1+\\alpha_2+\\alpha_3,2\\alpha_1-3\\alpha_2+22\\alpha_3,3\\alpha_1+5\\alpha_2-5\\alpha_3\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（4）设 \\(A,B\\) 为同阶可逆矩阵，则（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(AB=BA\\)。 （B）存在可逆矩阵 \\(P\\)，使 \\(P^{-1}AP=B\\)。 （C）存在可逆矩阵 \\(C\\)，使 \\(C^{\\mathrm T}AC=B\\)。 （D）存在可逆矩阵 \\(P\\) 和 \\(Q\\)，使 \\(PAQ=B\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）设两个随机变量 \\(X\\) 与 \\(Y\\) 相互独立，且同分布；\\(P\\{X=-1\\}=P\\{Y=-1\\}=\\frac12,\\ P\\{X=1\\}=P\\{Y=1\\}=\\frac12\\)，则下列各式中成立的是（　）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "（A）\\(P\\{X=Y\\}=\\frac12\\)。 （B）\\(P\\{X=Y\\}=1\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 81,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、选择题（续）"
+        },
+        {
+          "type": "paragraph",
+          "text": "（5）（续）（C）\\(P\\{X+Y=0\\}=\\frac14\\)。 （D）\\(P\\{XY=1\\}=\\frac14\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、（本题满分 6 分）在经济学中，称函数 \\(Q(x)=A[\\delta K^{-x}+(1-\\delta)L^{-x}]^{-1/x}\\) 为固定替代弹性生产函数，而称函数 \\(\\bar Q=AK^\\delta L^{1-\\delta}\\) 为 Cobb-Douglas 生产函数（简称 C-D 生产函数）。试证明：当 \\(x\\to0\\) 时，固定替代弹性生产函数变为 C-D 生产函数，即 \\(\\lim_{x\\to0}Q(x)=\\bar Q\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、（本题满分 5 分）设 \\(u=f(x,y,z)\\) 有连续偏导数，\\(y=y(x)\\) 和 \\(z=z(x)\\) 分别由方程 \\(e^{xy}-y=0\\) 和 \\(e^z-xz=0\\) 所确定，求 \\(\\frac{du}{dx}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、（本题满分 6 分）一商家销售某种商品的价格满足关系 \\(p=7-0.2x\\)（万元／吨），\\(x\\) 为销售量（单位：吨），商品的成本函数是 \\(C=3x+1\\)（万元）。（1）若每销售一吨商品，政府要征税 \\(t\\)（万元），求该商家获取最大利润时的销售量；（2）\\(t\\) 为何值时，政府税收总额最大？"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、（本题满分 6 分）设函数 \\(f(x)\\) 在 \\([0,+\\infty)\\) 上连续、单调不减且 \\(f(0)\\geq0\\)。试证函数 \\(F(x)=\\begin{cases}\\frac1x\\int_0^x t^nf(t)\\,dt,&x>0,\\\\0,&x=0\\end{cases}\\) 在 \\([0,+\\infty)\\) 上连续且单调不减（其中 \\(n>0\\)）。"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（本题满分 6 分）从点 \\(P_0(1,0)\\) 作 \\(x\\) 轴的垂线，交抛物线 \\(y=x^2\\) 于点 \\(Q_0(1,1)\\)；再从 \\(Q_0\\) 作这条抛物线的切线与 \\(x\\) 轴交于 \\(P_1\\)，然后从 \\(P_1\\) 作 \\(x\\) 轴的垂线，交抛物线于点 \\(Q_1\\)，依次重复上述过程得到一系列的点 \\(P_1,Q_1;P_2,Q_2;\\ldots;P_n,Q_n;\\ldots\\)。（1）求 \\(\\overline{OP_n}\\)；（2）求级数 \\(\\overline{Q_1P_1}+\\overline{Q_2P_2}+\\cdots+\\overline{Q_nP_n}+\\cdots\\) 的和，其中 \\(n\\)（\\(n\\geq1\\)）为自然数，而 \\(\\overline{M_1M_2}\\) 表示点 \\(M_1\\) 与 \\(M_2\\) 之间的距离。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、（本题满分 6 分）设函数 \\(f(t)\\) 在 \\([0,+\\infty)\\) 上连续，且满足方程 \\(f(t)=e^{4\\pi t^2}+\\iint_{x^2+y^2\\leq4t^2}f\\left(\\frac12\\sqrt{x^2+y^2}\\right)\\,dx\\,dy\\)，求 \\(f(t)\\)。"
+        }
+      ]
+    },
+    {
+      "source_page": 82,
+      "kind": "questions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "九、（本题满分 6 分）设 \\(A\\) 为 \\(n\\) 阶非奇异矩阵，\\(\\alpha\\) 为 \\(n\\) 维列向量，\\(b\\) 为常数。记分块矩阵 \\(P=\\begin{pmatrix}E&O\\\\-\\alpha^{\\mathrm T}A^*&|A|\\end{pmatrix},\\ Q=\\begin{pmatrix}A&\\alpha\\\\\\alpha^{\\mathrm T}&b\\end{pmatrix}\\)，其中 \\(A^*\\) 是矩阵 \\(A\\) 的伴随矩阵，\\(E\\) 为 \\(n\\) 阶单位矩阵。（1）计算并化简 \\(PQ\\)；（2）证明：矩阵 \\(Q\\) 可逆的充分必要条件是 \\(\\alpha^{\\mathrm T}A^{-1}\\alpha\\ne b\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（本题满分 10 分）设 3 阶实对称矩阵 \\(A\\) 的特征值是 1、2、3；矩阵 \\(A\\) 的属于特征值 1、2 的特征向量分别是 \\(\\alpha_1=(-1,-1,1)^{\\mathrm T},\\ \\alpha_2=(1,-2,-1)^{\\mathrm T}\\)。（1）求 \\(A\\) 的属于特征值 3 的特征向量；（2）求矩阵 \\(A\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、（本题满分 7 分）假设随机变量 \\(X\\) 的绝对值不大于 1，\\(P\\{X=-1\\}=\\frac18,\\ P\\{X=1\\}=\\frac14\\)，在事件 \\(\\{-1<X<1\\}\\) 出现的条件下，\\(X\\) 在 \\((-1,1)\\) 内的任一子区间上取值的条件概率与该子区间长度成正比。试求 \\(X\\) 的分布函数。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、（本题满分 6 分）游客乘电梯从底层到电视塔顶层观光；电梯于每个整点的第 5 分钟、25 分钟和 55 分钟从底层起运行。假设一游客在早晨八点的第 \\(X\\) 分钟到达底层候梯处，且 \\(X\\) 在 \\([0,60]\\) 上均匀分布，求该游客等候时间的数学期望。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十三、（本题满分 6 分）两台同样的自动记录仪，每台无故障工作的时间服从参数为 5 的指数分布。首先开动其中一台，当其发生故障时停用而另一台自行开动。试求两台记录仪无故障工作的总时间 \\(T\\) 的概率密度 \\(f(t)\\)、数学期望和方差。"
+        }
+      ]
+    },
+    {
+      "source_page": 119,
+      "kind": "answers",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1997 年真题参考答案"
+        },
+        {
+          "type": "heading",
+          "text": "一、填空题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）\\(e^{f(x)}\\left[\\frac1x f^{\\prime}(\\ln x)+f^{\\prime}(x)f(\\ln x)\\right]\\,dx\\)。 （2）\\(\\frac\\pi{4-\\pi}\\)。 （3）\\(y_t=C+(t-2)2^t\\)，其中 \\(C\\) 为任意常数。 （4）\\(-\\sqrt2<t<\\sqrt2\\)。 （5）\\(t\\) 分布；参数为 \\(9\\)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、选择题"
+        },
+        {
+          "type": "paragraph",
+          "text": "（1）B。 （2）C。 （3）C。 （4）D。 （5）A。"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、证明略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四、\\(\\frac{du}{dx}=\\frac{\\partial f}{\\partial x}+\\frac{y^2}{1-xy}\\frac{\\partial f}{\\partial y}+\\frac z{xz-x}\\frac{\\partial f}{\\partial z}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "五、（1）当销售量 \\(x=\\frac52(4-t)\\) 时，利润最大。（2）\\(t=2\\) 时，政府税收总额最大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "六、证明略。（证明 \\(\\lim_{x\\to0^+}F(x)=F(0)\\)，并且当 \\(x>0\\) 时，\\(F^{\\prime}(x)\\geq0\\)。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "七、（1）\\(\\overline{OP_n}=\\frac1{2^{n-1}}\\)。（2）\\(\\frac43\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "八、\\(f(t)=(4\\pi t^2+1)e^{4\\pi t^2}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "九、（1）\\(PQ=\\begin{pmatrix}A&\\alpha\\\\0&|A|(b-\\alpha^{\\mathrm T}A^{-1}\\alpha)\\end{pmatrix}\\)，其中零向量 \\(0\\) 为 \\(n\\) 维行向量。（2）证明略。（利用（1）的结论，证明 \\(|Q|\\ne0\\iff b-\\alpha^{\\mathrm T}A^{-1}\\alpha\\ne0\\)。）"
+        },
+        {
+          "type": "paragraph",
+          "text": "十、（1）\\(A\\) 的属于特征值 3 的特征向量为 \\(k(1,0,1)^{\\mathrm T}\\)，其中 \\(k\\) 为任意非零常数。（2）\\(A=\\frac16\\begin{pmatrix}13&-2&5\\\\-2&10&2\\\\5&2&13\\end{pmatrix}\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十一、\\(F(x)=\\begin{cases}0,&x<-1,\\\\\\frac{5x+7}{16},&-1\\leq x<1,\\\\1,&x\\geq1.\\end{cases}\\)"
+        },
+        {
+          "type": "paragraph",
+          "text": "十二、\\(\\frac{70}6\\approx11.67\\)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "十三、\\(f(t)=\\begin{cases}25te^{-5t},&t>0,\\\\0,&t\\leq0.\\end{cases}\\) 数学期望为 \\(\\frac25\\)，方差为 \\(\\frac2{25}\\)。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "原PDF第81页第七题从 P₀=(1,0) 开始递推，第119页参考答案却印 OPₙ=1/2^(n−1)，与递推所得的 P₁=1/2 不一致。参考答案按原稿保留。"
+  ]
+}

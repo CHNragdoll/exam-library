@@ -1,0 +1,33 @@
+{
+  "scope": "Mathematics III LaTeX reflow, 1987-2019",
+  "sets": [
+    {
+      "directory": "math3-latex-1987-2009",
+      "years": "1987-2008",
+      "html_documents": 44,
+      "choice_groups": 156,
+      "choice_items": 576,
+      "tex_sha_matches_existing_compilation_record": 44,
+      "standalone_zip_local_links_checked": 537
+    },
+    {
+      "directory": "math3-latex-2009-2019",
+      "years": "2009-2019",
+      "html_documents": 22,
+      "choice_groups": 98,
+      "choice_items": 348,
+      "tex_sha_matches_existing_compilation_record": 22,
+      "standalone_zip_local_links_checked": 247
+    }
+  ],
+  "checks": {
+    "option_layout_regressions": "2 passed",
+    "split_paragraph_source_text_reassembles_exactly": true,
+    "html_manifest_digests_match": true,
+    "mathjax_formula_errors": 0,
+    "all_standalone_zip_links_resolve": true,
+    "intentionally_unsplit": "2009 graph question says its A-D options are in a figure",
+    "browser_visual_acceptance": false,
+    "tex_recompiled_for_this_layout_change": false
+  }
+}
