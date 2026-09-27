@@ -263,7 +263,7 @@ I3 &  & 取指 & 译码/读寄存器 & 运算 & 访存 & 写回 & \\\hline\end{t
 2 & 500 & 8KB\\\hline
 3 & 200 & 9200\\\hline\end{tabular}\end{adjustbox}\end{center}
 
-\textcircled{1} 从逻辑地址 \(\displaystyle A\) 中取出前几位为段号 \(\displaystyle S\)，后几位为段内偏移量 \(\displaystyle W\)，注意段式存储管理的题目中，逻辑地址一般以二进制给出，而在页式存储管理中，逻辑地址一般以十进制给出，各位读者要具体问题具体分析。\textcircled{2} 比较段号 \(\displaystyle S\) 和段表长度 \(\displaystyle M\)，若 \(\displaystyle S\geq M\)，则产生越界异常，否则继续执行。\textcircled{3} 段表中段号 \(\displaystyle S\) 对应的段表项地址＝段表起始地址 \(\displaystyle F\)＋段号 \(\displaystyle S\)×段表项长度，取出该段表项的前几位得到段长 \(\displaystyle C\)。若段内偏移量 \(\displaystyle W\geq C\)，则产生越界异常，否则继续执行。\textcircled{4} 取出段表项中该段起始地址 \(\displaystyle b\)，计算 \(\displaystyle E=b+W\)，用得到的物理地址 \(\displaystyle E\) 去访问内存。题目中段号为 2 的段长为 300，小于段内地址 400，故发生越界异常，D 正确。
+\textcircled{1} 从逻辑地址 \(\displaystyle A\) 中取出前几位为段号 \(\displaystyle S\)，后几位为段内偏移量 \(\displaystyle W\)，注意段式存储管理的题目中，逻辑地址一般以二进制给出，而在页式存储管理中，逻辑地址一般以十进制给出，各位读者要具体问题具体分析。\textcircled{2} 比较段号 \(\displaystyle S\) 和段表长度 \(\displaystyle M\)，若 \(\displaystyle S\geq M\)，则产生越界异常，否则继续执行。\textcircled{3} 段表中段号 \(\displaystyle S\) 对应的段表项地址＝段表起始地址 \(\displaystyle F\)＋段号 \(\displaystyle S\)×段表项长度，取出该段表项的前几位得到段长 \(\displaystyle C\)。若段内偏移量 \(\displaystyle W\geq C\)，则产生越界异常，否则继续执行。从这句话我们可以看出，段表项实际上只有两部分，前几位是段长，后几位是起始地址。\textcircled{4} 取出段表项中该段起始地址 \(\displaystyle b\)，计算 \(\displaystyle E=b+W\)，用得到的物理地址 \(\displaystyle E\) 去访问内存。题目中段号为 2 的段长为 300，小于段内地址 400，故发生越界异常，D 正确。
 
 
 29.解析：

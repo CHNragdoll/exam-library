@@ -1,0 +1,3974 @@
+{
+  "basisCatalogSha256": "3ebc29a8ccbfbad02f36b3611a79ec99d5b4c949991019fad2a2d97cec862ae8",
+  "basisReportFindings": 1900,
+  "triagedFindings": 195,
+  "automatedDocumentCoverage": 335,
+  "uniquePdfCoverage": 271,
+  "uniquePdfPages": 2832,
+  "visuallyCheckedPdfPages": [
+    [
+      "cs408:2013-complete",
+      6
+    ],
+    [
+      "cs408:2013-complete",
+      10
+    ],
+    [
+      "cs408:2010-complete",
+      3
+    ],
+    [
+      "cs408:2010-complete",
+      4
+    ],
+    [
+      "cs408:2014-complete",
+      8
+    ],
+    [
+      "cs408:2015-complete",
+      1
+    ],
+    [
+      "cs408:2017-questions",
+      1
+    ],
+    [
+      "cs408:2017-answers",
+      6
+    ],
+    [
+      "cs408:2009-complete",
+      1
+    ],
+    [
+      "cet6:2012-06-01",
+      22
+    ],
+    [
+      "tem4:2025",
+      9
+    ],
+    [
+      "tem8:2025",
+      6
+    ],
+    [
+      "politics:2021-questions",
+      6
+    ],
+    [
+      "cet6:2024-12-01",
+      8
+    ],
+    [
+      "cet6:2020-07-01",
+      1
+    ],
+    [
+      "politics:2020-questions",
+      1
+    ],
+    [
+      "politics:2020-answers",
+      2
+    ]
+  ],
+  "visuallyCheckedFallbackCrops": [
+    [
+      "cet6:2020-09-02",
+      2,
+      "b-2-8"
+    ],
+    [
+      "tem4:2025",
+      9,
+      "b-9-5"
+    ],
+    [
+      "cet4:2020-12-03",
+      1,
+      "b-1-7"
+    ]
+  ],
+  "counts": {
+    "image_fallback_visually_present": 115,
+    "printed_cross_reference_to_other_paper": 24,
+    "printed_original_duplicate_label": 1,
+    "printed_original_option_anomaly": 5,
+    "text_present_ocr_or_formula_variation": 19,
+    "text_present_reordered": 26,
+    "word_bank_repaired_from_pdf": 5
+  },
+  "dispositions": {
+    "no_content_loss_observed": 189,
+    "unresolved_original_printing": 6
+  },
+  "rows": [
+    {
+      "documentId": "tem4:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-14"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 17%:  summarize  the  main  message  of  the  excerpt,  and  then \n comment  on  the  fragmented  style  of  learning  from  a  learner’s  perspective. \nYou  can  ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 1,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-7"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: Intercultural   Communication \nIntroduction \n \nCultural  differences  occur  in: \n— problem-solving  approaches \n— (1)  ________  emotional  expressions \n— exp",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已对照原 PDF 与对应裁切图，文字可见；只是未形成可复制文本"
+    },
+    {
+      "documentId": "tem4:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-7"
+      ],
+      "evidence": "PDF text block 15, shingle coverage 0%: (7)  ________  with  clear-cut  boundaries \n \nNegotiation  of  shared  meanings \n— primary  concern:  (8)  ________ \n \nSocietal  embedded  system \n— multilaye",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 2,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-24",
+        "b-1-29",
+        "b-1-25"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 26%: 6.\nA.  Absence  from  work.\nC. Being  serious  and  engaging.\nB. Being  restorative  and  active.\nD. Occasion  for  reflection.\n7.\nA.  Mountain  climbing.\nC. Wa",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "tem8:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-4"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%:  summarize  the  main  message  of  the  two  excerpts,  and  then \n give  your  opinions  on  how  to  balance  humility  with  ambition  in  your  future  c",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 3,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2025",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6",
+        "b-9-8",
+        "b-9-10",
+        "b-9-12",
+        "b-9-14"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%:  people  with  high  working  memory  capacity:  good  at  (5)  _______ \n enabling  us  to  communicate:  building  (6)  _______  in  a  conversation \n allow",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2025.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 4,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-8"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: Read  carefully  the  following  excerpt  and  then  write  your  response  in  NO  LESS  THAN  200  WORDS,  in  which  you  should: \n summarize  the  main  me",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 5,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: Machine  Learning \nMachine  learning  is  the  most  powerful  branch  of  artificial  intelligence.\n \nWhat  machines  can  do \n \nMachine  learning  started  i",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 6,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: Machine  learning  in  the  future \n \nTasks  machines  will  be  able  to  perform \n— conducting  audits \n— (9)  ______ \n \nHumans  are  still  needed  for  (1",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 7,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-3"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: Read  carefully  the  following  two  excerpts  on \n online  \n study,  and  then  write  your \n response \n in  NO \n LESS \n THAN \n 300  \nWORDS,  in  which  you \n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 8,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6",
+        "b-9-8"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: — linguistic  parameters  set  when  learning  a  second  language                                        \n— learning  (3)  _______  of  the  second  language \n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 9,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6",
+        "b-9-8"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: — first  language  acquisition  taking  place  at  a  very  young  age \n— in  the  second  language  classroom  (6)  _______  being  better  learners           ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 10,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2024",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6",
+        "b-9-8"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: — first  language  acquisition:  without  (7)  _______ \n— traits  that  improve  learning  in  a  second  language  classroom: \n— (8)  _______ \n— motivation \n— ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2024.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 11,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2023",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-14"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%:  summarize  the  main  message  of  the  excerpt,  and  then \n discuss  the  pros  and  cons  of  one  particular  teacher  quality  assessment  measure  intr",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2023.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 12,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem4:2023",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: Reasons  for  global  use  of  English \n \nglobalization:  international  process  of  (1)  ______ \n \n(2)  ______  of  English  in  the  process \n \nReactions  ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2023.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 13,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2023",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-18"
+      ],
+      "evidence": "PDF text block 17, shingle coverage 0%:  summarize \n the \n main \n message \n of  the \n two \n excerpts,  and \n then \n make \n comments \n on \n whether \n universities \n should \n set \n requirements \n othe",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2023.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 14,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2023",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6",
+        "b-9-8",
+        "b-9-10"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: —reason  for  metaphors:  to  explain  (2)                                                           \n—Aristotle’s  definition  of  metaphor: \nthe  thing  and  ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2023.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 15,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cs408:2022-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-4",
+        "b-3-3",
+        "b-3-1"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 31%: 13. B。【解析】n位补码整数的最小值是1,00 …0（即－2n一1 )：最大值是0,11…l （即2正1 _1)。n\n位补码整数所能表示的范围是－2正I ,..._, 2n-l -1 , 32 位补码整数所能表示的范围是－231 ~\n231-1。\n14. A。【解析】IEEE 754 单精度浮点数格式中依次为数符1",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2022-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.851,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2022-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 14%: 会占用26 条零地址指令的空间。如果全都是零地址指令，则最多有2 “ 条，减去一地址指令\n和二地址指令所占用的零地址指令空间，即2 16-254x26-12x26x26 = (2 10-254-12x26)x",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2022-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.907,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2022-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        10
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-10-3",
+        "b-10-2",
+        "b-10-1"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 29%: 两部分组成，一部分是信号传播时延，另一部分是信号通过设备2 时产生的额外l.51µs\n时间延迟。代入公式为64B = (1.51µs + D/(2xI0 8m/s))xIOOMbps, 注意单位换算，最终解\n得D=210m。",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2022-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "tem4:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-6"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: First  way  of  practicing \n \nDoing  (1)  ______   \n \nFirst  step  to  understanding  an  interview \n \nQuality  depending  upon  (2)  ______  of  your  partn",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem4/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 16,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-11"
+      ],
+      "evidence": "PDF text block 18, shingle coverage 0%:  summarize \n the \n main \n messages \n of \n the \n two \n excerpts,  and \n then \n give  your  opinion  on  the  view  of  happiness  in  either  Excerpt  1  or  E",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 17,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-12"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: — (1)  ______:  a  human  as  a  choice-making  animal \n— philosopher:  a  human  as  a  rationalizing  animal \n— anthropology:  (2)  ______  about  human  beha",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 18,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-12"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: — in  films  and  TV  shows:  adventurers  and  heroes \n— their  work  in  reality:  (3)  ______   \nFields  and  branches  of  anthropology \n Development  of  ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 19,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-12"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: — early  Greek  and  Roman  philosophers’  interest:  (4)  ______   \n— the  Age  of  Exploration  leading  to  the  study  of  (5)  ______   \n Two  broad  fiel",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 20,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-12"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: to  the  field \n‒ subfields:  archaeology,  (10)  ______  and  ethnography \n‒ ethnography:  description  of  human  societies  based  on  (11)                \n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 21,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "tem8:2022",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-5",
+        "b-9-12"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: — focus  of  study:  human  (12)  ______   \nCommon  features  in  all  societies \n Human  biology \n Existence  of  (13)  ______   \n Education \n(14)  ______  ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/tem8/2022.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 22,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cs408:2021-questions",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-1"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 29%: 中，正确的是        。 \nA. 若x, y 和z 为无符号整数，则z＜x＜y \nB. 若x, y 和z 为无符号整数，则x＜y＜z \nC. 若x, y 和z 为带符号整数，则x＜y＜z \nD. 若x, y 和z 为带符号整数，则y＜x＜z \n14.下列数值中，不能用IEEE 754 浮点格式精确表示的     ",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/papers-rebuild/2021.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 23,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "逐条目检确认目标文字或公式已有表示；连续字串比对误报"
+    },
+    {
+      "documentId": "cet6:2021-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-22"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 2%: Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 24,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: share with young children can be a valuable opportunity to develop children's understanding of themselves \nand others. Books can also allow children to see dive",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 25,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 1%: direction, toward communication as a means of exchange. That was visionary genius. \nE) Marconi's career was devoted to making wireless communication happen chea",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 26,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-14"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: Passage Two \nQuestions 51 to SS are based on the following passage. \nNicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative pro",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 27,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-4",
+        "b-2-2",
+        "b-2-11"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 29%: 7 . A) Time pressure. \nC) Modern technology.\nB) Tight budget.\nD) Fierce competition.\n8. A) Research as many different options as possible. C) Focus on what is p",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-4",
+        "b-4-8"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: as bad as she thought. He said, on her income, with some changes, she would be able to buy an \ninvestment unit within two years, which she did. \nNicole admitted",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 28,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-4",
+        "b-4-8"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: A) abundance\nF) expended\nK) perm;mently\nB) astonishment\nG) feat\nL) plight\nC) entailed\nH) fiscally\nM) prosper\nD) envisaged\nI) impetus\nN) shatter\nE) equation\nJ) o",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 29,
+      "classification": "word_bank_repaired_from_pdf",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 已目检，词库 O 项和可确认错字已按源卷修复；原图回退仍保留"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-4",
+        "b-4-8"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: A) Notre Dame Cathedral in the heart of Paris was within \"15 to 30 minutes\" of complete destruction as\nfirefighters battled to stop flames reaching its bell tow",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 30,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: of every French person, even those who have never visited it. This history is ours and so we will \nrebuild Notre Dame. It is what the French people expect; it i",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 31,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-5"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 3%: Section C \nDirections: There are 2 passages in this section . Each passage is fallowed by some questions or unfinished \nstatements. For each of them there are f",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 32,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-16"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: The car has reshaped our cities. It seems to offer autonomy for everyone. There is something almost \ndelightful in the detachment from reality of advertisements",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 33,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-5"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 11%: Directions: For this part, you are allowed 30 minutes to write an essay based on the chart below. You \nshould start your essay with a briXf description of the c",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 34,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-5"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 2%: Directions: In this section, you are going to read a passage with ten statements attached to it. Each \nstatement contains information given in one of the paragr",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 35,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: E) Now, a person can be animated from scratch. \"If they're alive today, you can put them in scanning\nrigs, you can get every detail of their body analysed very ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 36,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-13"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: Passage Two \nQuestions 51 to 55 are based on the following passage. \nEmulating your conversation partner's actions is a common human behavior classified as \"mir",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 37,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: define authorship with 85 % accuracy. \nWriting is not an easy craft to master. If you want to write like a professional without plagiarism (tf; \nÂ) , there are ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 38,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-4"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: 30 \nfor individuals who become isolated and disconnected. \" \nBarran started a \"Let's Talk Loneliness\" campaign thatɓdifficult conversations across Britain. \nHe ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 39,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2021-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 6%: work and play, and who work at what they are passionate about, are more focused and productive, \ndelive中，greater value to their .clients'. \nWho are these people",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 40,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-12",
+        "b-1-17"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 18%: lɧtter for each item on Answer Sheet .2戒th a single line through the centre. You may not use any of the\nwords in the bank more t加n once.\nNowadays you can't buy ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 41,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-12",
+        "b-1-17"
+      ],
+      "evidence": "PDF text block 13, shingle coverage 0%: However, you can't help butɨif these companies are basing their business on fabrications (捏造\n的东西）. I \n34 \nthat with online surveys 1 just click the \n35 \nthat's ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 42,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2021-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-12",
+        "b-1-17"
+      ],
+      "evidence": "PDF text block 14, shingle coverage 0%: A) announce\nF) fascinated\nK) shining\nB) commonplace\nG) option\nL) showering\nC) confess\nH)prompted\nM)variety\nD) desperate\nI) roughly\nN) voyage\nE) experience\nJ) ro",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 43,
+      "classification": "word_bank_repaired_from_pdf",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 已目检，词库 O 项和可确认错字已按源卷修复；原图回退仍保留"
+    },
+    {
+      "documentId": "cs408:2020-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-1"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 17%: Lx = |df — Z)| , L2 = |Z? — c| , Z3 = |c — a| , Z) = |<7 — Z)| + — c| + |c — a| = Zt + Z2 + £3 = 2L3\n由。的表达式可知，事实上决定。大小的关键是々和。之间的距离，于是问题就可以简化\n为每次固定c 找一个a 使得4 =卜-",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2020-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 44,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "逐条目检确认目标文字或公式已有表示；连续字串比对误报"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-13"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 45,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-13"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: Taxes can also be an important tool for environmental protection, and many economists say taxing \ncarbon would be the best way to reduce greenhouse· gas emissio",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 46,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-4"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: A) A group of corn farmers stands huddled around an agronomist <*!lfr ]) and his computer on the side\nof an irrigation machine in central South Africa. The agro",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 47,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 1%: the world. Earlier that year, IBM's cognitive learning system, Watson, competed in the game \nJeopardy against former winners Brad Rutter and Ken Jennings with a",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 48,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-11",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 8%: Section C \nDirections: There are 2 passages in' this section. &eh passage is followed by some questions or unfinished \nstatements. For each of them there are fo",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 49,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-11",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: at gets lost in this industrialised haste is the quality of looking. Consider an extreme example, the \nlate philosopher Richard Wollheim. When he visited the L",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 50,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-11",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 4%: Olafur Eliasson's current Tate Modem show, for instance, might seem nothing more than an \nentertainment, overrun as it is with kids romping. ( 1'i: lifi] 4@-)",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 51,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-15"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 2%: Part ][ \n \nReading Comprehension \n \n( 40 minutes) \nSection A \nDirections: In this section, there is a passage with ten blanks. You are required to select one wo",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 52,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: 1980 isw- with prompting several long-term changes in the city, including bus and,bike lanes, and \nwomen wearing sports shoes to work. The Spanish flu pandemic ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 53,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: Slow Hope \nA) Our world is full of-mostly untold-stories of slow hope, driven by the idea that change is possible.\nThey are 'slow' in their unfolding, and they ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 54,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-6"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: towards a more hopeful future. Instead of one big narrative, a story of unexpected rescue by a larger­\nthan-life hero, we need multiple stories: we need stories",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 55,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-6"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: J) The power of small, grassroots movements to make changes that spread beyond their place of origin can\nbe seen with the Slow Food movement, which began in Ita",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 56,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-22",
+        "b-6-24"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: Vegetarians would prefer not to ·be compelled to eat meat. Yet the reverse compulsion (\u000bit) is \nhidden in the proposals for a new plant-based \"planetary diet.\" ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 57,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-22",
+        "b-6-24"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: The EA:T report presumes that \"traditional diets\" in countries like India include little red meat, which \nmight be consumed only on special occasions or as mino",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 58,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-14"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 2%: Back in 1964, in his book Games People Play , psychiatrist Eric Berne described a pattern of \nconversation he called \"Why Don't You-Yes But\", which remains one ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 59,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-3",
+        "b-1-5",
+        "b-1-7"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: Directions: For this part , you are allowed 30 minutes to write an essay on why students should be encouraged \nto develop creativity. You should write at least ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 60,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-3",
+        "b-1-5",
+        "b-1-7"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: Social distancing is putting people out of work, canceling school and tanking the stock market. It has \nbeen \n26 \nby fear, and it is creating even more fear as ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 61,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-2",
+        "b-2-4"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 8%: Section B \nDirections: In this sGction, you are going to read a passage with ten statements attached to it. Each \nstatement contains information given in one of",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 62,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-2",
+        "b-2-4"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: A) Picture yourself at a college graduation day, with a fresh cohort ( -Jf) of students about to set sail for\nnew horizons. What are they thinking while they. t",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 63,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 1%: 'at will' depending on the nature of the project. If, for instance, your project is developing an \nintegrated circuit, you will have to take a module on advance",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 64,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-23"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 2%: Social media can certainly be an escape from the daily grind, but we must be cautioned against the \nnegative effects, such as addiction, on a person's overall p",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 65,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-17",
+        "b-5-20"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: branches with their knuckles (Wi* ;n, while others did it by loudly ripping leaves with their teeth. The \nteam identified 39 of these traditions that are practi",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 66,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-17",
+        "b-5-20"
+      ],
+      "evidence": "PDF text block 13, shingle coverage 0%: \"It's amazing to think that just 60 years ago, we knew next to notJ.ting of the behavior of our sister \nspecies in the wild,\" Whiten says. \"But now, just as we ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 67,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: cousins, the actions of humans are closing the window on all we have discovered.\" \n\"Sometimes in the rush to conserve the species, I think we forget about the i",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 68,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: No one knows whether the destruction of chimp culture is getting worse. Few places have tracked \nchimp behavior over long periods, and those that have are also ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 69,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: Obviously conservationists need to think about saving species in a completely new way-by preserving \nanimal traditions as well as bodies and genes. \"Instead of ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 70,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2",
+        "b-6-14"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: Directions: For this pa,rt, )OU are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write )Our answer on Answer Sheet 2. \n-tli.",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 71,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-22",
+        "b-1-5",
+        "b-1-7"
+      ],
+      "evidence": "PDF text block 14, shingle coverage 25%: 6. A) It was canceled due to bad weather.\nC) She dreamed of a plane crash.\nB) She overslept and missed the flight.\nD) It was postponed to the following day.",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-7",
+        "b-4-16",
+        "b-4-18"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 25%: 23. A) It has never seen any change. \nC) It is a well-protected government secret.\nB) It has much to do with color.\nD) It is a subject of study by many forgers.",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-13"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A)\ncontrary\nI)\nmomentum\nB)\nfatigue\nJ)\nobsessed\nC)\nheavily\nK)\npotential\nD)\nheaving\nL)\nreahns\nE)\nhospitalized\nM) reciprocal\nF)\nlabeled\nN)\nrum\nG)\nlegacies\n0)\nvicio",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 72,
+      "classification": "word_bank_repaired_from_pdf",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 已目检，词库 O 项和可确认错字已按源卷修复；原图回退仍保留"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-13"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: A) Brains, brains, brains. People are fascinated by brain research. And yet it can be hard to point to\nplaces where our education system is really making use of",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 73,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-4",
+        "b-6-6"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: E) Some of the insistence on English-first was founded on research produced decades ago, in which\nbilingual students underperformed monolingual ( if i¼ ę ) Engl",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 74,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-4",
+        "b-6-6"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: crayola roja instead of a red crayon ( ࠑ ࠒ ) , requires skills called \" inhibition \" and \" task\nswitching.\" These skills are subsets of an ability called execut",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 75,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: A)\nbond\nI)\nmagically\nB)\ncontemplated\nJ)\noutcomes\nC)\ndawned\nK)\npatterns\nD)\nhierarchy\nL)\nrarely\nE)\ninsight\nM) saturated\nF)\nlegislative\nN)\nstereotypes\nG)\nleverage\n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 76,
+      "classification": "word_bank_repaired_from_pdf",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 已目检，词库 O 项和可确认错字已按源卷修复；原图回退仍保留"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-8",
+        "b-2-10"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: A) After years of big promises, telemedicine is finally living up to its potential. Driven by faster\ninternet connections, ubiquitous ( J\"G 51-1:. ࠕ ;(£ aJ.i ) ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已对照原 PDF 与对应裁切图，文字可见；只是未形成可复制文本"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-8",
+        "b-2-10"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: B) Doctors are linking up with patients by phone, email and webcam ( Wl M}. .fl.1ࠖ ࠗ) .  They're also\nconsulting with each other electronically-sometimes to mak",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已对照原 PDF 与对应裁切图，文字可见；只是未形成可复制文本"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-8",
+        "b-2-10"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: D) None of this is to say that telemedicine has found its way into all comers of medicine. A recent\nsurvey of 500 tech-savvy( tk:iiAi࠘ aJ.i )  consumers found t",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 77,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-3"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: I) But critics worry that such services may be sacrificing quality for convenience. Consulting a\nrandom doctor patients will never meet, they say, further fragm",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 78,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-3"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: J) The American Telemedicine Association and other organizations have started accreditation (࠙ft:)\nprograms to identify top-quality telemedicine sites. The Amer",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 79,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-3"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: K) Who pays for the services? While employers and health plans have been eager to cover virtual urgent­\ncare visits, insurers have been far less willing to pay ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 80,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-3"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: L) Bills to expand Medicare coverage of telemedicine have bipartisan( i1fJ ,Jt ę )  support in Congress.\nOpponents worry that such expansion would be costly for",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 81,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: where the patient is located to provide medical care, which means virtual-visit companies can \nmatch users only with locally licensed clinicians. It also causes",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 82,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-2",
+        "b-7-15",
+        "b-7-17"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: rely on synthetic fertilizers or pesticides. \nOrganic agriculture is also associated with greater biodiversity of plants, animals, insects and \nmicroorganisms a",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 83,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-2",
+        "b-7-15",
+        "b-7-17"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 0%: ( £I-̐) ( Dream of the Red Chamber) ¾  18 tlt£21f̑JrࠜLlfl=: s{J̎ࠝ;Jvl,Jt o lf̑JHir § \namࠞŅżAࠟm .ࠠ̒Tmࠡ̓ffl#2̓zࠢŅࠣࠤttȦffl$$0 ̄ ȟǑ*ࠥ3o żȧǏA\n!lmffl 400 ƙż*-ǏA!lm , ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 84,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2020-09-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-2",
+        "b-8-6",
+        "b-8-10",
+        "b-8-13"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: {7.KWF1tJ (Water Margin)¾'f' OOXIIY:kt:!Jl!.;Jvi,Jtz- o J!$1Jvi,Jl.-=f Bi 51::A5Ktr.lit\nJt1k 1-t &ttiHli;;,W 1: s{;tiJ • , a 1¥*-lts)l: If' oo if 1'f s{; ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2020-09-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 85,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: All this is extra work we \n33 \nonto ourselves because we don't trust peoplthe checking, \nfollowing through, doing things ourselves because we don't believe oth",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 86,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 15%: Directions: In this section, you are going to read a passage with ten statements attached to it. Each \nstatement contains information given in one of the paragr",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 87,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: The Place Where the Poor Once Thrived \nA) This is the land of opportunity. If that weren't already implied by the landscape-:---rolling green hills,\npalm trees,",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 88,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-6"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: other progressive cities such as Boston and Minneapolis. \nD) The reasons kids in San_ Jose performed so well might seem obvious. Some of the world's most\ninnova",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 89,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: E) Indeed, the streets of San Jose seem, in some ways, to embody the best of America. It's possible to\ndrive in a matter of minutes from sleek (  i1t: \u0003 ) offi",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 90,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-9",
+        "b-6-19",
+        "b-6-24",
+        "b-6-27"
+      ],
+      "evidence": "PDF text block 20, shingle coverage 10%: Directions: There are· 2 passages in this section . Each passage is followed by some questions or unfinished \nstatements. For Meh of them there are four choices",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 91,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-8"
+      ],
+      "evidence": "PDF text block 13, shingle coverage 0%: economic expansion, those familiar images are outdated, hurtful, and counterproductive to focusing \nattention on solutions and building ladders of opportunity.\n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 92,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-5"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: economic need beyond that absolute measure, the Institute for Policy Studies found that 140 million \npeople are poor or low-income. That's almost half the U.S. ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 93,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-5"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: I) Negative images remain of who is living in poverty as well as what is needed to move out of it. The big \nAmerican myth is that yoµ can pull yourself up by yo",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 94,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-18",
+        "b-6-21"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 10%: Directions: There are 2 passages in this section. Each passage is folioP by :Dme questions or unfinished \nstltements. For each of them there are foo.r choices m",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 95,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-18",
+        "b-6-21"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 4%: Boredom has, paradoxically, become quite interesting to academics lately. In early May, London's \nBoring Conference celebrated seven years of delighting in dull",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 96,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-16"
+      ],
+      "evidence": "PDF text block 12, shingle coverage 0%: Forests in countries like Brazil and the Congo get a lot of attention· from environmentalists, and it is \neasy to see why. South America and sub-Saharan Africa ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 97,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-7",
+        "b-1-10"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: Part ll \nListening Comprehension \n(25 minutes) \nffl.lYJ: Iii -=f 2020 \u0005 12 J.l lrnt&\u001a\\it1e:l;ffl:ilt\u001aT\u001b\u001cIYT.1J '*\u001c1iBIYr.1J \u001dflr\u001b\u001cJjg\u001effllaJ, .R\u001f JJ1J!.J¥\"\nlaJ ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 98,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-7",
+        "b-1-10"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 7%: Directions: In this section, there is a passage with ten blanks. You are required to select one K/{7;d for each \nblank from a list of choices given in a word ba",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已对照原 PDF 与对应裁切图，文字可见；只是未形成可复制文本"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-7",
+        "b-1-10"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: The things people make, and the way they make them, determine how cities grow and decline, and \ninfluence how empires rise and fall. So, any disruption to the w",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 99,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-7",
+        "b-1-10"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 0%: Greater efficiency \n32 \nmeans fewer people can do the same work. Yet faciory bosses in many \ndeveloped countries are worried about a lack of skilled human worke",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 100,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-4",
+        "b-1-7",
+        "b-1-10"
+      ],
+      "evidence": "PDF text block 12, shingle coverage 0%: solution. But economist Helena Leurent says this period of rapid change in manufacturing is a{­\nopportunity to make the world a better place. \"Manufacturing is ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 101,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-3",
+        "b-2-9",
+        "b-2-14"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: Directions: In this section, )VU are going to rea4 a passage with ten statements attac_ to it. Each\n. \n. \nstatement contains information given in one of the par",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 102,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-3",
+        "b-2-9",
+        "b-2-14"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: . \n. \nD) Let's start b_ack at the beginÌing of the 20th century-the beginning of the lunch box story, really._ \n. \n. \nWhile there were neighborhood schools in c",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 103,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: the Addams Family, the Six Million Dollar Man, the Bionic Woman-everything that was on television \nended up on a lunch box,\" says Allen W,oodall. He's the found",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 104,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: book bags, that bulky traditional lunh box w;as hard to fit inside. \"But you can't just throw a sandwich\nin a backpack,\" Jayasekara says. \"It still has to go i",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 105,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-9"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: The system works like existing dockless bikeshare systems, where riders unlock bikes through a \nsmartphone app. \"This is the beginning of a long-term shift away",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 106,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-3",
+        "b-6-17"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: . A,l,t.;t,t1.t-•J:.aPf-'.M:g-ilb, il;b'vt.ii·+\"A\"cgd-te\"♦--\"cgd-tfflfilo .iE.li1-=ti! \n,+t,.f,J½gh.:!(., ii(iJtlJ(aJ---jk;fJllf#Ji!.m-f.--.mJ..t.•.ftg...fh.:!l",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 107,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet4:2020-07-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-7"
+      ],
+      "evidence": "PDF text block 18, shingle coverage 0%: A) Why do so many Americans eat tons of processed food, the stuff that is correctly called junk O.iJ.&.)\nand should really carry warning labels?\nB) It's not bec",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-07-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 108,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-5",
+        "b-5-1",
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A) assessed\nI)\nexcelling\nB) assigned\nJ)\nindulging\nC) consequences\nK) loopholes\nD) conspicuously\nL) rapidly\nE) deficits\nM) redundant\nF) designated\nN) regularly\nG",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2019-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        10
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-10-14"
+      ],
+      "evidence": "PDF text block 16, shingle coverage 0%: Here's how the Pacific Northwest is preparing for \" The Big One\" . It's the mother of all disaster \ndrills for what could be the worst disaster in American hist",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 109,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        12
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-12-2",
+        "b-12-16"
+      ],
+      "evidence": "PDF text block 28, shingle coverage 0%: JJiߧ 0 \n\u0005\u0006 st11 ' nWU, ̊ Ņffi:ttśll!Fߨ' ill!w Jxl * {1Jtߩ̋pj: 0 1:1: 9'1 00  ߪ˿Jt 1.-t 9'1 ' ffi:tt߫ fil\nw .111B.1 , ̌ ra, rWift , ߬JJw .A. fn śll!xl.t߭tL!il\\Ji",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 110,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-12"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: A)\nalleviate\nI)\ndesires\nB)\napparently\nJ)\nexcluded\nC)\narrogant\nK)\nfeature\nD)\nassociated\nL)\nlonely\nE)\ncircumstances\nM) separate\nF)\ncompetitive\nN)\nspectacularly\nG)",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 111,
+      "classification": "word_bank_repaired_from_pdf",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 已目检，词库 O 项和可确认错字已按源卷修复；原图回退仍保留"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-12"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 0%: [ B] Joseph wanted to put this theory to the test. In 2009, he and his wife Laura launched Maple Hill \nCreamery, an organic, all grass-fed yogurt company in nor",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 112,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-7"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: [ HJ Smith says he'll provide services ranging from formal seminars to on-farm workshops on holistic\n(߹,ff.. a!] )  management, to one-on-one hand-holding and a",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 113,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-7"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: [ K] Another grass-fed booster spurring farmers to convert is EPIC, which makes meat-based protein\nbars. Founders Taylor Collins and his wife, Katie Forrest, us",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 114,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-19"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 0%: Schools are not just a microcosm ( ߻ JJ ) of society; they mediate it too. The best seek to\nalleviate the external pressures on their pupils while equipping the",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 115,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-2"
+      ],
+      "evidence": "PDF text block 1, shingle coverage 0%: children's passions, boost their skills and open their eyes to life's possibilities. Educational outings \nhelp bright but disadvantaged students to get better s",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 116,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-7"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 1%: Rising temperatures and overfishing in the pristine ( 3f... ߼ it ߽ ę ) waters around the Antarctic\ncould see king penguin populations pushed to the brink of ext",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 117,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-2",
+        "b-8-16"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 0%: 1ruttx_m1;t a {i1f ;{tJ'l.;;g $ fift ࠃ ffȠ , re£ fiȠࠄ1t7]( Im , X fiMHtࠅ lzfil , ࠆ r:iJ ࠇ1tJk 1m:, ?mxY tࠈ ȥ, i:!Jcࠉ lf \nm O {rif ;ft:ifl!Mf ǒErmś-ࠊ' ili 5ࠋ mjś",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 118,
+      "classification": "image_fallback_visually_present",
+      "disposition": "no_content_loss_observed",
+      "rationale": "已逐条查看原 PDF 和当前回退图，目标段落及首尾行完整可见；不等于已可搜索"
+    },
+    {
+      "documentId": "cet6:2019-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-20",
+        "b-3-18",
+        "b-3-19"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A) adverse\nI) minimum\nB) championed\nJ) radiating\nC clinical\nK) ration\nD) contrary\nL) shooting\nE) contribute\nM) subscribe\nF) intimate\nN) systematic\nG) lumped\nO) ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2019-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A) autonomous\nI) pouring\nB) detached\nJ) prototypes\nC) dual\nK) random\nD) glamour\nL) repressing\nE) imminent\nM) segmented\nF) odds\nN) spectrum\nG) opposites\nO) ultim",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2019-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-15",
+        "b-1-1",
+        "b-1-2"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: A) abruptly\nI) cracked\nB) additives\nJ) fractures\nC) approach\nK) hollow\nD) ardently\nL) relevant\nE) besieged\nM) reshuffled\nF) channel\nN) strived\nG) comparable\nO) ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2019-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-16",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A) bid\nI) replace\nB) contrast\nJ) represent\nC) deputy\nK) restrictive\nD) dominance\nL) reward\nE) fleets\nM) significant\nF) knots\nN) sponsor\nG) legislation\nO) transm",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2019-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2019-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-4",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A) acquired\nI) image\nB) adaptations\nJ) literally\nC) brutal\nK) refined\nD) deliberately\nL) revolves\nE) expressed\nM) speculate\nF) extends\nN) structure\nG) habitats\n",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2019-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2019-06-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-11",
+        "b-1-8",
+        "b-1-1"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: A)create\nI)intentionally\nB)depressed\nJ)investment\nC)eventually\nK)revealing\nD)experiences\nL)stretches\nE)exploring\nM)stripped\nF)exterior\nN)territory\nG)habitats\nO)",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2019-06-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cs408:2018-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-8",
+        "b-6-1",
+        "b-6-2"
+      ],
+      "evidence": "PDF text block 24, shingle coverage 22%: 1) 题目要求算法时间上尽可能高效，因此采用空间换时间的办法。分配一个用千标记的\n数组B[n],\n用来记录A中是否出现了I-n中的正整数，B[O]对应正整数1, B[n -1]对应正整数\nn, 初始化B中全部为0。由千A中含有n个整数，因此可能返回的值是l-n + 1, 当A中n",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2018-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.9,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2018-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-8",
+        "b-6-1",
+        "b-6-2"
+      ],
+      "evidence": "PDF text block 25, shingle coverage 17%: 个数恰好为l-n 时返回n + l。当数组A中出现了小于等于0或大于n的值时，会导致l-n\n中出现空余位置，返回结果必然在l-n中，因此对于A中出现了小于等于0或大于n的值可",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2018-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2018-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        9
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-9-3",
+        "b-9-1",
+        "b-9-2"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 14%: (3)文件Fl的大小为6KB < 4KBx8 = 32KB, 故获取文件Fl的最后一个簇的簇号只需要\n访问索引节点的直接地址项。文件F2的大小为40KB, 4KBx8 < 40KB < 4KBx8 + 4KBx 1024,",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2018-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.886,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cet6:2018-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A)aggressive\nI）hinders\nB)chaos\nJ)mammal\nC) configuration\nK) monitoring\nD)declared\nL）predators\nE)dedicated\nM）remove\nF)dwells\nN) tempt\nG)extinction\nO）underlying\nH",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2018-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-2",
+        "b-4-8",
+        "b-4-18"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A)aptitude\nI）obscure\nB)eradication\nJ)obsess\nC) evaluated\nK) raising\nD)evaporated\nL）resist\nE)filtering\nM）significant\nF)grasp\nN) suffer\nG)legacy\nO）typical\nH) mini",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2018-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-14",
+        "b-1-1",
+        "b-1-2"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: A)advances\nI）otherwise\nB)boundaries\nJ)predators\nC)challenging\nK) primarily\nD)currently\nL）retorted\nE)determine\nM）spotted\nF)devising\nN) testimonies\nG)elsewhere\nO）",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2018-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-11",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 6, shingle coverage 0%: A)chronicles\nI）perfect\nB)complete\nJ) precision\nC) established\nK) puzzled\nD) fascinates\nL）remnants\nE)hypothesis\nM）removed\nF)maximum\nN) revelations\nG) momentum\nO）",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2018-06-02",
+      "code": "incomplete_choices",
+      "pages": [
+        "8"
+      ],
+      "questionIds": [
+        "q-53-2"
+      ],
+      "blockIds": [
+        "b-8-14",
+        "b-8-15"
+      ],
+      "evidence": "option labels: ['B', 'C', 'D', 'E']",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "printed_original_option_anomaly",
+      "disposition": "unresolved_original_printing",
+      "rationale": "已逐页核对原 PDF：选项标签重复、缺印或异常；保留原印刷文字和部分题状态，不猜补标准四项"
+    },
+    {
+      "documentId": "cet4:2018-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-7",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 20%: A) ability\nK) regularly\nB) associated\nL) relates\nC) consciously\nM) sources\nD) constant\nN) undermine\nE) control\nO) vehicles\nF) damage\nG) described\nH) equals\nI) e",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2018-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2018-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-4",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 3, shingle coverage 0%: A) avoid\nI) reward\nB) convenience\nJ) silent\nC) effectively\nD) escape\nK) specific\nE) intimate\nL) surveyed\nF) particularly\nM) unfriendly\nG) primary\nN) warning\nH) ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2018-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2018-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-11",
+        "b-1-1",
+        "b-1-2"
+      ],
+      "evidence": "PDF text block 8, shingle coverage 0%: A) deepen\nI)remedies\nB) experiences\nJ) scared\nC) hesitant\nD) inconvenience\nK) sensitive\nE) lessen\nL) sink\nF) licenses\nM) temporary\nG)pressured\nN) tremble\nH) rec",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2018-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cs408:2017-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-5",
+        "b-6-3",
+        "b-6-1"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 26%: void. 13七reeToE:xp(BTree *roqt, int deep) \n｛ \n／／空结点返回\nif(root == NULL) return; \nelse if(root->left==NULL&&rɝot今right==NULL)\n!/若为叶结点\nprintf (\"%s\", root->data); \n",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2017-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.513,
+      "visuallyConfirmed": true,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2017-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-5",
+        "b-7-6",
+        "b-7-7"
+      ],
+      "evidence": "PDF text block 12, shingle coverage 29%: (2)图G的MST是唯一的。(2分）第一小题的最小生成树包括了图中权值最小的四条边，\n其他边都比这四条边大，所以此图的MST唯一。\n(3)当带权连通图的任意一个环中所包含的边的权值均不相同时，其MST 是唯一的。(2",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2017-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.757,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2017-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        7
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-7-12",
+        "b-7-11",
+        "b-7-10"
+      ],
+      "evidence": "PDF text block 28, shingle coverage 17%: 舍入后数值增大，所以讫(24)比fl(24) 大1。(1分）\n【评分说明】只要说明双24)需舍入处理即可给分。\n(4)显然f(31)已超出了int型数据的表示范围，用fl(31)实现时得到的机器数为32个1,",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2017-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.852,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2017-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-8",
+        "b-8-1",
+        "b-8-2"
+      ],
+      "evidence": "PDF text block 22, shingle coverage 17%: 算器中执行\"0 减FFFF FFFFH\" 的操作，即0000 OOOOH + 0000 OOOOH + 1=0000 0001H, 此时，\n进位输出C = O, 减法运算时的借位标志CF = C EB I= 1。(2 分）",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2017-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cet6:2017-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-3",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A)allocate\nI)permit\nB) celebrities\nJ)secure\nC)commercial\nK) solitary\nD)communities\nL)spectacle\nE）essential\nM)sponsor\nF）exclusive\nN)stocks\nG)independent\nO)territ",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2017-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2017-12-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-15",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: A)associated\nI)slight\nB)examine\nJ)specify\nC)indicate\nK)superior\nD)nuisance\nL)suspicious\nE)peak\nM)tip\nF)preventing\nN)treated\nG)prohibiting\nO)visual\nH)sensitive",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2017-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2017-12-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-11",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 5, shingle coverage 0%: A）advantage\nI）maintained\nB）commercial\nJ）occupations\nC）conservation\nK）posted\nD）equipped\nL）remained\nE）incoming\nM）reservations\nF）innovation\nN）submitted\nG）limited\nO",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2017-12-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2017-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        1
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-1-13",
+        "b-1-1",
+        "b-1-2"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: A）attracted\nI）feeding\nB）career\nJ）graduating\nC）championships\nK）interest\nD）degrees\nL）levels\nE）developing\nM）local\nF）enroll\nN）operates\nG）exposure\nO）participated\nH）f",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2017-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cs408:2016-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        2
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-2-12",
+        "b-2-1",
+        "b-2-2"
+      ],
+      "evidence": "PDF text block 24, shingle coverage 0%: 先访问V i, 然后从V1出发，访问与V1邻接且未被访问的任一顶点（满足的有V2、V3和Vs),\n然后从巧出发，访问与V2 邻接且未被访问的任一顶点（满足的只有Vs), 按规则本应该访问\nVs, 但选项D却访问V3,\n因此D错误。\n7. 解析：",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.852,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2016-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-14",
+        "b-4-13",
+        "b-4-1"
+      ],
+      "evidence": "PDF text block 34, shingle coverage 0%: 指令12在时钟5 时将结果写入寄存器(R5), 但指令13在时钟3时读寄存器(R5)。本来\n指令12应先写入R5, 指令13后读R5, 结果变成指令13先读R5, 指令12后写入R5, 因而发",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2016-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        5
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-5-12",
+        "b-5-1",
+        "b-5-2"
+      ],
+      "evidence": "PDF text block 35, shingle coverage 23%: 25. 解析：\n对于本题，先满足一个进程的资源需求，再看其他进程是否能出现死锁状态。因为p4只申\n请一个资源，当将R2 分配给p4后，p4执行完后将R2 释放，这时使得系统满足死锁的条件是R1\n分配给P 1 • R2分配给P2• R3 分配给p3 (或者R2分配给P1• R3 分配给P2• R, 分配给p3)。穷举\n其",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.965,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2016-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        11
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-11-7",
+        "b-11-5",
+        "b-11-1"
+      ],
+      "evidence": "PDF text block 9, shingle coverage 29%: 程序前15条指令的执行时间。时钟周期为1/(SOMHz) = 20ns, 设备D将字符送1/0端口的时间\n为0.5m s/20ns = 2.Sx 104个时钟周期。一个字符的传送时间大约为2.5xl04 + 10 + 15x4 = 25070",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cs408:2016-answers",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        11
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-11-10",
+        "b-11-1",
+        "b-11-2"
+      ],
+      "evidence": "PDF text block 16, shingle coverage 29%: 11; 主存块大小为64B, 故G = 6。2路组相联，每组数据区容量有64Bx2 = 128B, 共有\n64KB/128B = 512组，故F = 9; E = 24-G-F = 24-6-9 = 9。\n因而A= l9, B = l9, C = ll, D=l3, E = 9, F = 9, G = 6。（各1分，共",
+      "sourcePdf": "/Users/apple/Downloads/408-exam-paper/answers/2016-answer.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cet4:2016-06-01",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-12",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 0%: A)attendance\nE)dropping\nI)mood\nM)review\nB)consequently\nF)essential\nJ)mutually\nN)survive\nC)current\nG)feasible\nK)particularly\nO)tend\nD)depressing\nH)flow\nL)perform",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2016-06-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet4:2016-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        3
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-3-24",
+        "b-3-1",
+        "b-3-2"
+      ],
+      "evidence": "PDF text block 7, shingle coverage 0%: A) abandoned\nE)commitment\nI)frequent\nM)provide\nB)advanced\nF)dampens\nJ)fulfillment\nN)understandably\nC)biased\nG)dependent\nK)grant\nO)unrealistically\nD)chances\nH)di",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2016-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cs408:2015-complete",
+      "code": "incomplete_choices",
+      "pages": [
+        "1"
+      ],
+      "questionIds": [
+        "q-1-1"
+      ],
+      "blockIds": [
+        "b-1-4",
+        "b-1-5",
+        "b-1-6"
+      ],
+      "evidence": "option labels: ['A', 'B', 'B', 'D']",
+      "sourcePdf": "/Users/apple/Downloads/Postgraduate-408-old-exam/2015年计算机考研408统考真题及答案.pdf",
+      "owner": "408 结构化选项表示：保留原卷及重排源 A/B/B/D，标注印刷异常；不得自动改作 C",
+      "classification": "printed_original_duplicate_label",
+      "disposition": "unresolved_original_printing",
+      "rationale": "原 PDF 第1页与源块 b-1-6 均为 A/B/B/D；保留印刷标签，人工审查选项表示，不得推造 C"
+    },
+    {
+      "documentId": "cs408:2015-complete",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        6
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-6-1",
+        "b-6-4"
+      ],
+      "evidence": "PDF text block 2, shingle coverage 14%: 请回答下列问题： \n1）写出图G 的邻接矩阵A（行、列下标从0 开始）。 \n2）求A2，矩阵A2中位于0 行3 列元素值的含义是什么？ \n3）若已知具有n（n≥2）个顶点的图的邻接矩阵为B，则Bm（2≤m≤n）中非零元素的含义是什\n么？",
+      "sourcePdf": "/Users/apple/Downloads/Postgraduate-408-old-exam/2015年计算机考研408统考真题及答案.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "visualReview": "docs/fallback-visual-review-2026-09-28.json",
+      "visualReviewId": 120,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "逐条目检确认目标文字或公式已有表示；连续字串比对误报"
+    },
+    {
+      "documentId": "cet6:2015-12-01",
+      "code": "incomplete_choices",
+      "pages": [
+        "7"
+      ],
+      "questionIds": [
+        "q-56-1"
+      ],
+      "blockIds": [
+        "b-7-7",
+        "b-7-8"
+      ],
+      "evidence": "option labels: ['A', 'B', 'C']",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2015-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "printed_original_option_anomaly",
+      "disposition": "unresolved_original_printing",
+      "rationale": "已逐页核对原 PDF：选项标签重复、缺印或异常；保留原印刷文字和部分题状态，不猜补标准四项"
+    },
+    {
+      "documentId": "cet6:2015-12-03",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-4",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "PDF text block 11, shingle coverage 0%: A) alternatively\nF) ideal\nK) presumption\nB) caters\nG) improvements\nL) ready\nC) chronically\nH) necessarily\nM) recommended\nD) debated\nI) negotiated\nN) surpasses\nE",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2015-12-03.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cet6:2015-06-02",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        4
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-4-6",
+        "b-4-8",
+        "b-4-1"
+      ],
+      "evidence": "PDF text block 4, shingle coverage 0%: A) assess\nF) interacting\nK) potential\nB) constrained\nG) interpretation\nL) sneaking\nC) contains\nH) magnified\nM) sticking\nD) explore\nI) mirrors\nN) undermines\nE) i",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2015-06-02.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "unorderedTextCoverage": 1.0,
+      "classification": "text_present_reordered",
+      "disposition": "no_content_loss_observed",
+      "rationale": "英文单词在结构化卷中；PDF 双栏词库或选项读取顺序不同"
+    },
+    {
+      "documentId": "cs408:2014-complete",
+      "code": "possible_missing_paragraph",
+      "pages": [
+        8
+      ],
+      "questionIds": [],
+      "blockIds": [
+        "b-8-6",
+        "b-8-1",
+        "b-8-2"
+      ],
+      "evidence": "PDF text block 10, shingle coverage 0%: 1．内层循环条件j<=n 与外层循环的变量无关，每次循环j 自增1，每次内层循环都执\n行n 次。外层循环条件为k<=n，增量定义为k*=2，可知循环次数为2k<=n，即k<=log2n。\n所以内层循环的时间复杂度是O(n)，外层循环的时间复杂度是O(log2n)。对于嵌套循环，根\n据乘法规则可知，该段程序的时间复杂度T",
+      "sourcePdf": "/Users/apple/Downloads/Postgraduate-408-old-exam/2014年计算机统考真题及解析.pdf",
+      "owner": "408 结构化解析：scripts/build_structured_exams.py；源文字错误另查 data/sources/cs408-latex-2009-2017",
+      "unorderedTextCoverage": 0.4,
+      "visuallyConfirmed": true,
+      "classification": "text_present_ocr_or_formula_variation",
+      "disposition": "no_content_loss_observed",
+      "rationale": "中文片段在结构化卷中；连续字串检测受 PDF OCR、代码或公式改写影响"
+    },
+    {
+      "documentId": "cet6:2014-12-01",
+      "code": "incomplete_choices",
+      "pages": [
+        "7"
+      ],
+      "questionIds": [
+        "q-61-1"
+      ],
+      "blockIds": [
+        "b-7-15",
+        "b-7-16",
+        "b-7-17"
+      ],
+      "evidence": "option labels: ['A', 'C', 'C', 'D']",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2014-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "printed_original_option_anomaly",
+      "disposition": "unresolved_original_printing",
+      "rationale": "已逐页核对原 PDF：选项标签重复、缺印或异常；保留原印刷文字和部分题状态，不猜补标准四项"
+    },
+    {
+      "documentId": "cet4:2014-12-01",
+      "code": "incomplete_choices",
+      "pages": [
+        "7"
+      ],
+      "questionIds": [
+        "q-61-1"
+      ],
+      "blockIds": [
+        "b-7-8",
+        "b-7-9",
+        "b-7-10"
+      ],
+      "evidence": "option labels: ['A', 'B', 'C']",
+      "sourcePdf": "/Users/apple/Documents/PyCharm/Anki/exam-library/data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2014-12-01.pdf",
+      "owner": "英语原卷重排/结构化解析：data/sources/english-exams-reflow-latex/tools/extract.py 与 scripts/build_structured_exams.py",
+      "classification": "printed_original_option_anomaly",
+      "disposition": "unresolved_original_printing",
+      "rationale": "已逐页核对原 PDF：选项标签重复、缺印或异常；保留原印刷文字和部分题状态，不猜补标准四项"
+    },
+    {
+      "documentId": "politics:2005-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "1"
+      ],
+      "questionIds": [
+        "q-3-1"
+      ],
+      "blockIds": [
+        "b-1-8",
+        "b-1-9"
+      ],
+      "evidence": "option labels: ['A', 'B', 'C', 'C']",
+      "sourcePdf": "/Users/apple/Downloads/考研政治真题/2005考研政治真题.pdf",
+      "owner": "政治结构化解析：scripts/build_structured_exams.py",
+      "classification": "printed_original_option_anomaly",
+      "disposition": "unresolved_original_printing",
+      "rationale": "已逐页核对原 PDF：选项标签重复、缺印或异常；保留原印刷文字和部分题状态，不猜补标准四项"
+    },
+    {
+      "documentId": "math3:1996-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "58"
+      ],
+      "questionIds": [
+        "q-3-5"
+      ],
+      "blockIds": [
+        "b-4-15",
+        "b-4-16"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1996-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "58"
+      ],
+      "questionIds": [
+        "q-4-5"
+      ],
+      "blockIds": [
+        "b-4-17",
+        "b-4-18"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1995-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "53"
+      ],
+      "questionIds": [
+        "q-1-4"
+      ],
+      "blockIds": [
+        "b-3-23",
+        "b-3-24"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1995-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "53"
+      ],
+      "questionIds": [
+        "q-2-4"
+      ],
+      "blockIds": [
+        "b-3-25",
+        "b-3-26"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1995-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "54"
+      ],
+      "questionIds": [
+        "q-5-5"
+      ],
+      "blockIds": [
+        "b-4-2",
+        "b-4-3"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1994-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "49"
+      ],
+      "questionIds": [
+        "q-1-4"
+      ],
+      "blockIds": [
+        "b-3-23",
+        "b-3-24"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1994-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "50"
+      ],
+      "questionIds": [
+        "q-5-5"
+      ],
+      "blockIds": [
+        "b-4-9",
+        "b-4-10"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1993-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "45"
+      ],
+      "questionIds": [
+        "q-1-4"
+      ],
+      "blockIds": [
+        "b-3-19",
+        "b-3-20"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1993-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "45"
+      ],
+      "questionIds": [
+        "q-2-4"
+      ],
+      "blockIds": [
+        "b-3-21",
+        "b-3-22"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1992-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "41"
+      ],
+      "questionIds": [
+        "q-1-4"
+      ],
+      "blockIds": [
+        "b-4-2",
+        "b-4-3"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1992-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "41"
+      ],
+      "questionIds": [
+        "q-5-5"
+      ],
+      "blockIds": [
+        "b-4-16",
+        "b-4-17"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1991-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "35"
+      ],
+      "questionIds": [
+        "q-1-4"
+      ],
+      "blockIds": [
+        "b-3-31",
+        "b-3-32"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1991-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "36"
+      ],
+      "questionIds": [
+        "q-5-5"
+      ],
+      "blockIds": [
+        "b-4-8",
+        "b-4-9"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1990-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "31"
+      ],
+      "questionIds": [
+        "q-1-5"
+      ],
+      "blockIds": [
+        "b-3-32",
+        "b-3-33"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1990-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "31"
+      ],
+      "questionIds": [
+        "q-2-5"
+      ],
+      "blockIds": [
+        "b-3-34",
+        "b-3-35"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1990-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "31"
+      ],
+      "questionIds": [
+        "q-3-5"
+      ],
+      "blockIds": [
+        "b-3-36",
+        "b-3-37"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1989-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "27"
+      ],
+      "questionIds": [
+        "q-1-5"
+      ],
+      "blockIds": [
+        "b-3-36",
+        "b-3-37"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1989-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "27"
+      ],
+      "questionIds": [
+        "q-2-5"
+      ],
+      "blockIds": [
+        "b-3-38",
+        "b-3-39"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1989-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "27"
+      ],
+      "questionIds": [
+        "q-3-5"
+      ],
+      "blockIds": [
+        "b-3-40",
+        "b-3-41"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1989-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "28"
+      ],
+      "questionIds": [
+        "q-5-5"
+      ],
+      "blockIds": [
+        "b-4-1",
+        "b-4-2"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1987-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "20"
+      ],
+      "questionIds": [
+        "q-1-5"
+      ],
+      "blockIds": [
+        "b-18-14",
+        "b-18-15"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1987-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "20"
+      ],
+      "questionIds": [
+        "q-2-5"
+      ],
+      "blockIds": [
+        "b-18-16",
+        "b-18-17"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1987-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "20"
+      ],
+      "questionIds": [
+        "q-3-5"
+      ],
+      "blockIds": [
+        "b-18-18",
+        "b-18-19"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    },
+    {
+      "documentId": "math3:1987-questions",
+      "code": "incomplete_choices",
+      "pages": [
+        "20"
+      ],
+      "questionIds": [
+        "q-4-6"
+      ],
+      "blockIds": [
+        "b-18-20",
+        "b-18-21"
+      ],
+      "evidence": "option labels: []",
+      "sourcePdf": "/Users/apple/Downloads/a/考研数学真题 数学三 2009-2021【公众号-世纪高教在线】/a/2009-1987年考研数学三真题及答案.pdf",
+      "owner": "数学三结构化解析：scripts/build_structured_exams.py；核对相应 math3-latex 源记录",
+      "classification": "printed_cross_reference_to_other_paper",
+      "disposition": "no_content_loss_observed",
+      "rationale": "原 PDF 的 V 卷只印指向 IV 卷对应题的交叉引用，没有重印选项；已核实目标题有四项"
+    }
+  ],
+  "basisAuditSha256": "1bdee48df5f3b2abb2d1cc2adcc0ca9134b04971dc9afb07928de601416c6c70"
+}

@@ -1441,7 +1441,21 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you’ll travel through as much of the store as possible, and be tempted along the way. In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this “revolution in distribution” uses corporate black magic on our appetite. The book ",
+              "text": "flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you’ll travel through as much of the store as possible, and be tempted along the way.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this “revolution in distribution” uses corporate black magic on our appetite. The book ",
               "flags": [
                 false,
                 false,
@@ -1480,8 +1494,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "question",

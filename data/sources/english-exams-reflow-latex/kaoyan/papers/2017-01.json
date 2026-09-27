@@ -1904,23 +1904,10 @@
           ]
         },
         {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "Part of the issue is that the government did not anticipate the steep increase in airline",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "travel, so the TSA is now rushing to get new screeners on the line. Part of the issue is that airports have only so much room for screening lanes. Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.",
+              "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line. Part of the issue is that airports have only so much room for screening lanes. Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.",
               "flags": [
                 false,
                 false,
@@ -4679,7 +4666,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation. You should write neatly on the ANSWER SHEET. ",
+              "text": "You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write neatly on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

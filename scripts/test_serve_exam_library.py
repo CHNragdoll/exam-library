@@ -3,15 +3,36 @@
 from contextlib import redirect_stderr
 from http.client import HTTPConnection
 from io import StringIO
+import os
 from pathlib import Path
 import tempfile
 import threading
 import unittest
 
-from scripts.serve_exam_library import create_server, main
+from scripts.serve_exam_library import create_server, database_inputs_newer, main
 
 
 class ExamLibraryServerTest(unittest.TestCase):
+    def test_database_refresh_tracks_jsonl_and_paper_edits(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            structured = root / "structured"
+            paper = structured / "papers" / "test.json"
+            paper.parent.mkdir(parents=True)
+            audit = structured / "audit.json"
+            bank = structured / "question-bank.jsonl"
+            database = root / "bank.sqlite3"
+            for path in (audit, bank, paper, database):
+                path.write_text("test", encoding="utf-8")
+            for path in (audit, bank, paper):
+                os.utime(path, ns=(1_000_000_000, 1_000_000_000))
+            os.utime(database, ns=(2_000_000_000, 2_000_000_000))
+            self.assertFalse(database_inputs_newer(database, structured))
+            for path in (bank, paper, audit):
+                os.utime(path, ns=(3_000_000_000, 3_000_000_000))
+                self.assertTrue(database_inputs_newer(database, structured))
+                os.utime(path, ns=(1_000_000_000, 1_000_000_000))
+
     @classmethod
     def setUpClass(cls) -> None:
         cls._files = tempfile.TemporaryDirectory()

@@ -4246,6 +4246,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "She married her husband in 1972.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -4257,258 +4270,19 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            38.84992980957031,
-            326.3841552734375,
-            446.8262634277344,
-            340.28216552734375
-          ],
-          "font_size": 9.0,
-          "runs": [
+            },
             {
-              "text": "B) She married her husband in 1972.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "She helped the village to become famous.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                251.0498809814453,
-                327.9241638183594,
-                263.0390625,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                267.4898681640625,
-                327.9241638183594,
-                282.4538879394531,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                285.60986328125,
-                327.9241638183594,
-                308.678466796875,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                308.683349609375,
-                327.9241638183594,
-                313.85833740234375,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                317.0898742675781,
-                327.9241638183594,
-                330.5088806152344,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                333.8398742675781,
-                327.9241638183594,
-                356.6468811035156,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                356.6524658203125,
-                327.9241638183594,
-                361.2964782714844,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                364.7398681640625,
-                327.9241638183594,
-                390.6238708496094,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                390.6462707519531,
-                327.9241638183594,
-                408.28607177734375,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                411.5698547363281,
-                327.9241638183594,
-                438.0524597167969,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
-            },
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                438.0693664550781,
-                327.9241638183594,
-                445.8262634277344,
-                339.28216552734375
-              ],
-              "glyph_font_size": 9.0,
-              "glyph_origin_y": 337.23016357421875
             }
           ]
         },
@@ -8832,7 +8606,7 @@
         }
       ],
       "source_page": 3,
-      "inline_glyphs": 3
+      "inline_glyphs": 2
     },
     {
       "blocks": [
@@ -9728,33 +9502,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "I) Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body-both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "part because they felt like they had the resources to deal with the demanding situation. Students who",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "got the growth mindset intervention (干预）showed less-contracted blood vessels and their hearts pumped more blood—both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks.",
+              "text": "I) Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body-both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in part because they felt like they had the resources to deal with the demanding situation. Students who got the growth mindset intervention (干预）showed less-contracted blood vessels and their hearts pumped more blood—both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks.",
               "flags": [
                 false,
                 false,
@@ -11204,7 +10952,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT. Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees'work, rather than adjust their work to fit in with the company's IT limitations.",
+              "text": "technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT.",
               "flags": [
                 false,
                 false,
@@ -11213,6 +10961,19 @@
             }
           ],
           "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees'work, rather than adjust their work to fit in with the company's IT limitations.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",
@@ -11581,7 +11342,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Directions: For this part , you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 铁观音(Tieguanyin)是中国最受欢迎的茶之一，原产于福建省安溪县西坪镇，如今安溪全县普遍种植， 但该县不同地区生产的铁观音又各具风味。铁观音一年四季均可采摘，尤以春秋两季采摘的茶叶品质最佳。铁观音的加工非常复杂，需要专门的技术和丰富的经验。铁观音含有多种维生素，喝起来口感独特。 常饮铁观音有助于预防心脏病、降低血压、增强记忆力。",
+              "text": "Directions: For this part , you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "铁观音(Tieguanyin)是中国最受欢迎的茶之一，原产于福建省安溪县西坪镇，如今安溪全县普遍种植， 但该县不同地区生产的铁观音又各具风味。铁观音一年四季均可采摘，尤以春秋两季采摘的茶叶品质最佳。铁观音的加工非常复杂，需要专门的技术和丰富的经验。铁观音含有多种维生素，喝起来口感独特。 常饮铁观音有助于预防心脏病、降低血压、增强记忆力。",
               "flags": [
                 false,
                 false,

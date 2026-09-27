@@ -3853,7 +3853,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Hospitals, hoping to curb medical error, have invested heavily to put computers, smartphones and other devices into the hands of medical staff for instant access to patient data, drug information and case studies. But like many cures, this solution has come with an unintended side effect: doctors and nurses can be focused on the",
+              "text": "Hospitals, hoping to curb medical error, have invested heavily to put computers, smartphones and other devices into the hands of medical staff for instant access to patient data, drug information and case studies.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "But like many cures, this solution has come with an unintended side effect: doctors and nurses can be focused on the",
               "flags": [
                 false,
                 false,
@@ -3882,7 +3895,47 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "screen and not the patient, even during moments of critical care. A poll showed that half of medical technicians had admitted texting during a procedure. This phenomenon has set off an intensifying discussion at hospitals and medical schools about a problem perhaps best described as “distracted doctoring.” In response, some hospitals have begun limiting the use of electronic devices in critical settings, while schools have started reminding medical students to focus on patients instead of devices. “You justify carrying devices around the hospital to do medical records, but you can surf the Internet or do Facebook, and sometimes Facebook is more tempting,” said Dr. Peter Papadakos at the University of Rochester Medical Center. “My",
+              "text": "screen and not the patient, even during moments of critical care. A poll showed that half of medical technicians had admitted texting during a procedure.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "This phenomenon has set off an intensifying discussion at hospitals and medical schools about a problem perhaps best described as “distracted doctoring.” In response, some hospitals have begun limiting the use of electronic devices in critical settings, while schools have started reminding medical students to focus on patients instead of devices.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“You justify carrying devices around the hospital to do medical records, but you can surf the Internet or do Facebook, and sometimes Facebook is more tempting,” said Dr. Peter Papadakos at the University of Rochester Medical Center.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“My",
               "flags": [
                 false,
                 false,
@@ -3898,7 +3951,46 @@
               ]
             },
             {
-              "text": "（本能的感觉）is lives are in danger,” said Dr. Papadakos. “We’re not educating people about the problem, and ifs getting worse.” A survey of 439 medical technicians found that 55 percent of technicians who monitor bypass machines acknowledged that they had talked on cellphones during heart surgery. Half said they had texted while in surgery. The study concluded, “ Such distractions have the potential to be disastrous.” Medical professionals have always faced interruptions from cellphones, and multitasking is simply a fact of life for many medical jobs. What has changed, say doctors, especially younger ones, is that they face increasing pressure to interact with their devices. The pressure stems from a",
+              "text": "（本能的感觉）is lives are in danger,” said Dr. Papadakos. “We’re not educating people about the problem, and ifs getting worse.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A survey of 439 medical technicians found that 55 percent of technicians who monitor bypass machines acknowledged that they had talked on cellphones during heart surgery. Half said they had texted while in surgery. The study concluded, “ Such distractions have the potential to be disastrous.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Medical professionals have always faced interruptions from cellphones, and multitasking is simply a fact of life for many medical jobs. What has changed, say doctors, especially younger ones, is that they face increasing pressure to interact with their devices.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The pressure stems from a",
               "flags": [
                 false,
                 false,
@@ -3914,15 +4006,27 @@
               ]
             },
             {
-              "text": "(信条）of modem medicine that patient care must be “data driven,” and informed by the latest, instantly accessible information. By many accounts, the technology has helped reduce medical error by providing instant access to patient data or prescription details. Dr. Peter Carmel, president of the American Medical Association, said technology “offers great potential in health c a r e , ” b u t he added that doctors, first priority should be with the patient.",
+              "text": "(信条）of modem medicine that patient care must be “data driven,” and informed by the latest, instantly accessible information. By many accounts, the technology has helped reduce medical error by providing instant access to patient data or prescription details.",
               "flags": [
                 false,
                 false,
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Dr. Peter Carmel, president of the American Medical Association, said technology “offers great potential in health c a r e , ” b u t he added that doctors, first priority should be with the patient.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
         },
         {
           "type": "question",

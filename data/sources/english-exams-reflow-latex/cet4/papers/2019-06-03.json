@@ -2231,7 +2231,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "After four months, the patients using the computerized CBT programs had no improvement in depression levels over the patients who were only getting usual care from their doctors. “It’s an important, cautionary note that we shouldn’t get too carried away with the idea that a computer system can replace doctors and therapists, ” says Christopher Dowrick, a professor of primary medical care at the University of Liverpool. “We do still need the human touch or the human interaction, particularly when people are depressed.” Being depressed can mean feeling “lost in your own small, negative, dark world,” Dowrick says. Having a person, instead of a computer, reach out to you is particularly important in combating that sense of isolation. “When you’re emotionally vulnerable, you’re even more in need of a caring human being ,” he says.",
+              "text": "After four months, the patients using the computerized CBT programs had no improvement in depression levels over the patients who were only getting usual care from their doctors.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“It’s an important, cautionary note that we shouldn’t get too carried away with the idea that a computer system can replace doctors and therapists, ” says Christopher Dowrick, a professor of primary medical care at the University of Liverpool. “We do still need the human touch or the human interaction, particularly when people are depressed.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Being depressed can mean feeling “lost in your own small, negative, dark world,” Dowrick says. Having a person, instead of a computer, reach out to you is particularly important in combating that sense of isolation. “When you’re emotionally vulnerable, you’re even more in need of a caring human being ,” he says.",
               "flags": [
                 false,
                 false,
@@ -2591,7 +2617,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -2632,15 +2658,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Directions:",
               "flags": [
@@ -2688,9 +2711,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 剪纸是中国民间艺术的一种独特形式，已有2,000 多年历年。剪纸很可能源于汉代，继纸张发明之后。 从此，它在中国的许多地方得到了普及。剪纸用的材料和工具很简单：纸和剪刀。剪纸作品通常是用红纸做成的，因为红色在中国传统文化中与幸福相联。因此，在婚礼、春节等喜庆场合，红颜色的剪纸是门窗装饰的首选。",
+              "text": "剪纸是中国民间艺术的一种独特形式，已有2,000 多年历年。剪纸很可能源于汉代，继纸张发明之后。 从此，它在中国的许多地方得到了普及。剪纸用的材料和工具很简单：纸和剪刀。剪纸作品通常是用红纸做成的，因为红色在中国传统文化中与幸福相联。因此，在婚礼、春节等喜庆场合，红颜色的剪纸是门窗装饰的首选。",
               "flags": [
                 false,
                 false,

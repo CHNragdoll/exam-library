@@ -4247,7 +4247,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "A third reason has to do with the way memory works: when training is variable, learners are forced to actively reconstruct their memories. “Understanding the impact of variability is important for literally every aspect of our daily life. Beyond affecting the way we learn language, motor skills, and categories, it even has an impact on our social lives,” explains Raviv. “For example, face recognition is affected by whether people grew up in a small community or in a larger community. Exposure to fewer faces during childhood is associated with diminished face memory.” “We hope this work will spark people’s curiosity and generate more work on the topic,” concludes Raviv. “Our paper raises a lot of open questions. Can we find similar effects of variability beyond the brain, for instance, in the immune system?”",
+              "text": "A third reason has to do with the way memory works: when training is variable, learners are forced to actively reconstruct their memories.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“Understanding the impact of variability is important for literally every aspect of our daily life. Beyond affecting the way we learn language, motor skills, and categories, it even has an impact on our social lives,” explains Raviv. “For example, face recognition is affected by whether people grew up in a small community or in a larger community. Exposure to fewer faces during childhood is associated with diminished face memory.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“We hope this work will spark people’s curiosity and generate more work on the topic,” concludes Raviv. “Our paper raises a lot of open questions. Can we find similar effects of variability beyond the brain, for instance, in the immune system?”",
               "flags": [
                 false,
                 false,
@@ -4685,9 +4711,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征",
+              "text": "中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征",
               "flags": [
                 false,
                 false,

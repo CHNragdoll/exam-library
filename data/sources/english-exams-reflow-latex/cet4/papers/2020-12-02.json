@@ -86,7 +86,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "Part ll",
@@ -2412,6 +2412,177 @@
                 true,
                 false,
                 false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "16.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Bring their own bags when shopping.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Use public transport when traveling.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Dispose of their trash properly.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Pay a green tax upon arrival.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "17.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It has not been doing a good job in recycling.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It has witnessed a rise in accidental drowning.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It has not attracted many tourists in recent years.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It has experienced an overall decline in air quality.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "18.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "To charge a small fee on plastic products in supermarkets.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -4869,6 +5040,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It provides some necessary nutrients.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -4880,265 +5064,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            65.30902099609375,
-            313.6219787597656,
-            529.109130859375,
-            330.3675231933594
-          ],
-          "font_size": 11.0,
-          "runs": [
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                66.30902099609375,
-                314.6825256347656,
-                78.05921936035156,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
             },
             {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                83.05902099609375,
-                314.6825256347656,
-                91.53952026367188,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                95.00901794433594,
-                314.6825256347656,
-                125.75553131103516,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                125.73162841796875,
-                314.6825256347656,
-                135.83682250976562,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                139.239013671875,
-                314.6825256347656,
-                149.37001037597656,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": "o",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                149.19561767578125,
-                314.6825256347656,
-                163.42022705078125,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                167.20901489257812,
-                314.6825256347656,
-                173.29202270507812,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                173.30621337890625,
-                314.6825256347656,
-                202.67620849609375,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": "cessa",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                202.69041442871094,
-                314.6825256347656,
-                212.78060913085938,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                216.71900939941406,
-                314.6825256347656,
-                245.272216796875,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": "����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                245.2880096435547,
-                314.6825256347656,
-                261.8573913574219,
-                329.3675231933594
-              ],
-              "glyph_font_size": 11.0,
-              "glyph_origin_y": 325.80352783203125
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "D) It supplies the body with enough calories.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It supplies the body with enough calories.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -17783,7 +17720,7 @@
         }
       ],
       "source_page": 3,
-      "inline_glyphs": 4
+      "inline_glyphs": 3
     },
     {
       "blocks": [
@@ -39354,18 +39291,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "· D) Their stable supply of building materials.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Their stable supply of building materials.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]

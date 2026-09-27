@@ -991,6 +991,151 @@
               "label": "B",
               "runs": [
                 {
+                  "text": "More people driving safely.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Stricter traffic rules.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "More self-driving trucks on the road.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "5.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It isn't so enjoyable as he expected.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It isn't so motivating as he believed.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It doesn't enable him to earn as much money as he used to.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It doesn't seem to offer as much freedom as he anticipated.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "6.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Not all of them care about their employees' behaviors.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "B",
+              "runs": [
+                {
                   "text": "Few of them are aware of their employees' feelings.",
                   "flags": [
                     true,
@@ -3571,33 +3716,28 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "It remains inactive without burning calories noticeably .",
+                  "text": "It remains inactive without burning calories noticeably.",
                   "flags": [
-                    true,
+                    false,
                     false,
                     false
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": ". C) It continues to bum up calories to help us stay in shape.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It continues to burn up calories to help us stay in shape.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
+            },
             {
               "label": "D",
               "runs": [

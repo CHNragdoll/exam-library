@@ -3520,7 +3520,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -7538,7 +7538,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "W: Three letters of recommendation are required to apply to graduate schools. I was wondering if the one professor Smith wrote for me last year could still be used. M: It’s a bit dated. You’d better submit a recent one. Q: What does the man suggest the woman do? 答案：Present a new letter of reference. 【解析】此题为细节题。只要考生抓住这位男士回答中的关键词dated 和recent，就不难找出正确答案，而且，整个答句也很短，均是简单句，易于考生理解。letter of recommendation 和letter of reference 意思相似，均可表示“推荐信”。",
+              "text": "W: Three letters of recommendation are required to apply to graduate schools. I was wondering if the one professor Smith wrote for me last year could still be used.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "M: It’s a bit dated. You’d better submit a recent one. Q: What does the man suggest the woman do? 答案：Present a new letter of reference. 【解析】此题为细节题。只要考生抓住这位男士回答中的关键词dated 和recent，就不难找出正确答案，而且，整个答句也很短，均是简单句，易于考生理解。letter of recommendation 和letter of reference 意思相似，均可表示“推荐信”。",
               "flags": [
                 false,
                 false,
@@ -7564,7 +7577,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "W: I’ve noticed that you spend a lot of time tending your garden. Would you like to join our gardening club? We meet every other Wednesday. M: Oh, thanks for the invitation, but this is how I relax. I’d rather not make it something formal and structured. Q: What can we infer about the man? 答案：He declines to join the gardening club. 【解析】此题为暗示推理题，有一定难度。抓住问题中的关键词“infer”，这位男士暗示了什么？从男士的回答“谢谢邀请，但这是我放松的方式，我宁愿我的花园不那么条条框框” 中可推断出，这位男士间接拒绝了参加园艺俱乐部的邀请。",
+              "text": "W: I’ve noticed that you spend a lot of time tending your garden. Would you like to join our gardening club? We meet every other Wednesday.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "M: Oh, thanks for the invitation, but this is how I relax. I’d rather not make it something formal and structured.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Q: What can we infer about the man? 答案：He declines to join the gardening club. 【解析】此题为暗示推理题，有一定难度。抓住问题中的关键词“infer”，这位男士暗示了什么？从男士的回答“谢谢邀请，但这是我放松的方式，我宁愿我的花园不那么条条框框” 中可推断出，这位男士间接拒绝了参加园艺俱乐部的邀请。",
               "flags": [
                 false,
                 false,
@@ -7668,7 +7707,85 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "W: I don’t know what to do. I can’t seem to get anyone in the hospital to listen to my complaints and this outdated equipment is dangerous. Just look at it. M: Hmm, uh, are you trying to say that it presents a health hazard? W: Yes, I am. The head technician in the lab tried to persuade the hospital administration to replace it, but they are trying to cut costs. M: You are pregnant, aren’t you? W: Yes, I am. I made an effort to get my supervisor to transfer me to another department, but he urged me not to complain too loudly. Because the administration is more likely to replace me than an X-ray equipment, I’m afraid to refuse to work. But I’m more afraid to expose my unborn child to the radiation. M: I see what you mean. Well, as your union representative, I have to warn you that it would take quite a while to force management to replace the old machines and attempt to get you transferred may or may not be successful. W: Oh, what am I supposed to do then? M: Workers have the legal right to refuse certain unsafe work assignments under two federal laws, the Occupation or Safety and Health Act and the National Labor Relations Act. But the requirements of either of the Acts may be difficult to meet. W: Do you think I have a good case? M: If you do lose your job, the union will fight to get it back for you along with back pay, your lost income. But you have to be prepared for a long wait, maybe after two years. Q19. What does the woman complain about? Q20. What has the woman asked her supervisor to do? Q21. What does the man say about the two federal laws? Q22. What will the union do if the woman loses her job? 【答案】",
+              "text": "W: I don’t know what to do. I can’t seem to get anyone in the hospital to listen to my complaints and this outdated equipment is dangerous. Just look at it.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "M: Hmm, uh, are you trying to say that it presents a health hazard? W: Yes, I am. The head technician in the lab tried to persuade the hospital administration to replace it, but they are trying to cut costs.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "M: You are pregnant, aren’t you? W: Yes, I am. I made an effort to get my supervisor to transfer me to another department, but he urged me not to complain too loudly. Because the administration is more likely to replace me than an X-ray equipment, I’m afraid to refuse to work. But I’m more afraid to expose my unborn child to the radiation.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "M: I see what you mean. Well, as your union representative, I have to warn you that it would take quite a while to force management to replace the old machines and attempt to get you transferred may or may not be successful.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "W: Oh, what am I supposed to do then? M: Workers have the legal right to refuse certain unsafe work assignments under two federal laws, the Occupation or Safety and Health Act and the National Labor Relations Act. But the requirements of either of the Acts may be difficult to meet.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "W: Do you think I have a good case? M: If you do lose your job, the union will fight to get it back for you along with back pay, your lost income. But you have to be prepared for a long wait, maybe after two years.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Q19. What does the woman complain about? Q20. What has the woman asked her supervisor to do? Q21. What does the man say about the two federal laws? Q22. What will the union do if the woman loses her job? 【答案】",
               "flags": [
                 false,
                 false,

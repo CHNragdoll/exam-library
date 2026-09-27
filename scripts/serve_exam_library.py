@@ -119,6 +119,18 @@ def create_server(port: int = DEFAULT_PORT, root: Path = SOURCES,
     )
 
 
+def database_inputs_newer(database: Path, structured: Path) -> bool:
+    """Detect edits to every structured input consumed by the SQLite builder."""
+    if not database.is_file():
+        return True
+    database_mtime = database.stat().st_mtime_ns
+    inputs = (structured / "audit.json", structured / "question-bank.jsonl")
+    for source in (*inputs, *(structured / "papers").rglob("*.json")):
+        if source.is_file() and source.stat().st_mtime_ns > database_mtime:
+            return True
+    return False
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="在 localhost 打开真题库")
     parser.add_argument("--port", type=int, default=DEFAULT_PORT, help=f"监听端口（默认 {DEFAULT_PORT}）")
@@ -136,9 +148,8 @@ def main(argv: list[str] | None = None) -> int:
         else:
             print(f"无法启动本地服务：{exc}", file=sys.stderr)
         return 1
-    audit = SOURCES / "exam-library/structured/audit.json"
-    stale = not dbapi.DEFAULT_DATABASE.is_file() or (audit.is_file() and
-             dbapi.DEFAULT_DATABASE.stat().st_mtime < audit.stat().st_mtime)
+    stale = database_inputs_newer(dbapi.DEFAULT_DATABASE,
+                                  SOURCES / "exam-library/structured")
     if not stale:
         try:
             with closing(dbapi.connect()) as connection:

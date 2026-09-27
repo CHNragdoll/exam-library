@@ -2636,7 +2636,21 @@
               ]
             },
             {
-              "text": " in unwanted and unavoidable situations. He was ",
+              "text": " in unwanted and unavoidable situations.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "He was ",
               "flags": [
                 false,
                 false,
@@ -2691,8 +2705,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -4432,9 +4445,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 近年来，中国越来越多的城市着力打造“15 分钟",
+              "text": "近年来，中国越来越多的城市着力打造“15 分钟",
               "flags": [
                 false,
                 false,

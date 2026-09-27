@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from collections import Counter
+from contextlib import closing
 import hashlib
 import json
 from pathlib import Path
@@ -11,6 +12,7 @@ import tempfile
 import unittest
 
 from scripts.build_question_database import build_database
+from scripts import question_database_api
 
 
 def _write_json(path: Path, value: object) -> None:
@@ -62,6 +64,11 @@ def _make_fixture(root: Path) -> tuple[Path, Path]:
     questions[-1]["status"] = "partial"
     questions.extend(_question(number, "fill_blank", [], str(number), "explicit")
                      for number in range(6, 11))
+    questions.append(_question(11, "multiple_choice", [
+        {"label": f"{letter}.", "sourceLabel": f"({letter})", "text": letter,
+         "sourceOrder": index}
+        for index, letter in enumerate("ABCDE", 1)
+    ], "ACE", "explicit"))
     block = lambda local_id, status=None: {
         "id": local_id, "page": "1", "sourcePageIndex": 1,
         "sourceBlockIndex": int(local_id[-1]), "role": "content", "text": local_id,
@@ -87,8 +94,8 @@ def _make_fixture(root: Path) -> tuple[Path, Path]:
         "schema": "exam-paper.v1", "papers": 1, "categories": {"test": 1},
         "questionRecords": len(questions), "bank": {
             "questions": len(questions), "single_choice": 4,
-            "multiple_choice": 1, "fill_blank": 5, "free_response": 0,
-            "linkedAnswers": 8,
+            "multiple_choice": 2, "fill_blank": 5, "free_response": 0,
+            "linkedAnswers": 9,
         },
         "partialQuestions": 1, "sourceBlocks": 2, "sourceOnlyBlocks": 1,
         "documents": [document],
@@ -115,16 +122,101 @@ def _make_fixture(root: Path) -> tuple[Path, Path]:
 
 
 class QuestionDatabaseTests(unittest.TestCase):
+    def test_diagram_choice_letters_remain_source_letters_when_shuffled(self) -> None:
+        with tempfile.TemporaryDirectory() as folder:
+            structured, output = _make_fixture(Path(folder))
+            paper_path = structured / "papers/test/2025.json"
+            paper = json.loads(paper_path.read_text(encoding="utf-8"))
+            diagram_options = [
+                {"label": f"{letter}.", "sourceLabel": f"{letter}.",
+                 "text": letter, "sourceOrder": index}
+                for index, letter in enumerate("BDEFG", 1)
+            ]
+            paper["questions"][2]["options"] = diagram_options
+            paper["questions"][2]["context"] = {
+                "kind": "ordering_diagram", "fixedLetters": ["A", "C", "H"],
+            }
+            _write_json(paper_path, paper)
+            bank_path = structured / "question-bank.jsonl"
+            rows = [json.loads(line) for line in bank_path.read_text(encoding="utf-8").splitlines()]
+            rows[2]["options"] = diagram_options
+            rows[2]["context"] = paper["questions"][2]["context"]
+            bank_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows), encoding="utf-8")
+            build_database(structured, output)
+            with closing(question_database_api.connect(output)) as db:
+                default = question_database_api.question(db, "test:2025:q-3-1")
+                shuffled = question_database_api.question(db, "test:2025:q-3-1", "shuffle", "demo")
+            self.assertEqual([option["displayLabel"] for option in default["question"]["options"]],
+                             ["B.", "D.", "E.", "F.", "G."])
+            self.assertEqual({option["displayLabel"] for option in shuffled["question"]["options"]},
+                             {"B.", "D.", "E.", "F.", "G."})
+
+    def test_repeated_printed_option_label_keeps_both_positions_without_scoring(self) -> None:
+        with tempfile.TemporaryDirectory() as folder:
+            structured, output = _make_fixture(Path(folder))
+            paper_path = structured / "papers/test/2025.json"
+            paper = json.loads(paper_path.read_text(encoding="utf-8"))
+            options = [
+                {"label": f"{letter}.", "sourceLabel": f"{letter}、",
+                 "text": str(index), "sourceOrder": index}
+                for index, letter in enumerate("ABCC", 1)
+            ]
+            paper["questions"][4]["options"] = options
+            _write_json(paper_path, paper)
+            bank_path = structured / "question-bank.jsonl"
+            rows = [json.loads(line) for line in bank_path.read_text(encoding="utf-8").splitlines()]
+            rows[4]["options"] = options
+            bank_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows), encoding="utf-8")
+
+            build_database(structured, output)
+            with sqlite3.connect(output) as db:
+                actual = db.execute(
+                    """SELECT id,label,source_label,default_position,source_position,is_correct
+                         FROM options WHERE question_id='test:2025:q-5-1' ORDER BY default_position"""
+                ).fetchall()
+                self.assertEqual([row[1:5] for row in actual], [
+                    (f"{letter}.", f"{letter}、", index, index)
+                    for index, letter in enumerate("ABCC", 1)
+                ])
+                self.assertEqual(len({row[0] for row in actual}), 4)
+                self.assertTrue(all(row[5] is None for row in actual))
+            with closing(question_database_api.connect(output)) as db:
+                response = question_database_api.question(db, "test:2025:q-5-1", "default", "")
+                self.assertEqual([option["displayLabel"] for option in response["question"]["options"]],
+                                 ["A、", "B、", "C、", "C、"])
+
+    def test_embedded_answer_entries_are_records_but_not_exam_questions(self) -> None:
+        with tempfile.TemporaryDirectory() as folder:
+            structured, output = _make_fixture(Path(folder))
+            paper_path = structured / "papers/test/2025.json"
+            paper = json.loads(paper_path.read_text(encoding="utf-8"))
+            answer_entry = {
+                **paper["questions"][0], "id": "a-1-1", "recordType": "answer",
+                "questionType": "free_response", "options": [],
+                "stem": "Printed answer-page entry", "answer": _answer(None, "missing"),
+            }
+            paper["questions"].append(answer_entry)
+            _write_json(paper_path, paper)
+
+            stats = build_database(structured, output)
+            self.assertEqual(stats.question_records, 12)
+            self.assertEqual(stats.bank_questions, 11)
+            with sqlite3.connect(output) as db:
+                self.assertEqual(db.execute(
+                    "SELECT question_count, record_count FROM papers").fetchone(), (11, 12))
+                self.assertEqual(db.execute(
+                    "SELECT in_bank FROM questions WHERE id='test:2025:a-1-1'").fetchone(), (0,))
+
     def test_marks_only_explicit_matching_choices_and_preserves_order(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             structured, output = _make_fixture(Path(folder))
             stats = build_database(structured, output)
-            self.assertEqual(stats.marked_questions, 2)
+            self.assertEqual(stats.marked_questions, 3)
             with sqlite3.connect(output) as db:
                 db.execute("PRAGMA foreign_keys=ON")
                 self.assertEqual(db.execute("PRAGMA foreign_key_check").fetchall(), [])
                 self.assertEqual(db.execute("SELECT value FROM meta WHERE key='schema_version'").fetchone()[0],
-                                 "question-bank.sqlite.v1")
+                                 "question-bank.sqlite.v2")
                 options = db.execute(
                     """SELECT question_id,label,default_position,source_position,is_correct
                        FROM options ORDER BY question_id,default_position"""
@@ -138,6 +230,8 @@ class QuestionDatabaseTests(unittest.TestCase):
                 ])
                 self.assertEqual([row[-1] for row in by_question["test:2025:q-2-1"]],
                                  [1, 0, 1, 0])
+                self.assertEqual([row[-1] for row in by_question["test:2025:q-11-1"]],
+                                 [1, 0, 1, 0, 1])
                 for number in (3, 4, 5):
                     self.assertTrue(all(row[-1] is None for row in
                                         by_question[f"test:2025:q-{number}-1"]))
@@ -149,8 +243,8 @@ class QuestionDatabaseTests(unittest.TestCase):
                         "SELECT value FROM answers WHERE question_id=?",
                         (f"test:2025:q-{number}-1",)).fetchone()[0], str(number))
                 self.assertEqual(db.execute("SELECT question_count,record_count FROM papers").fetchone(),
-                                 (10, 10))
-                self.assertEqual(db.execute("SELECT COUNT(*) FROM context_source_blocks").fetchone()[0], 10)
+                                 (11, 11))
+                self.assertEqual(db.execute("SELECT COUNT(*) FROM context_source_blocks").fetchone()[0], 11)
                 self.assertEqual(db.execute("SELECT formulas_json,images_json FROM source_blocks LIMIT 1").fetchone(),
                                  ('["x^2"]', '["figure.png"]'))
 

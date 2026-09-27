@@ -22,10 +22,10 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_STRUCTURED_DIR = REPO_ROOT / "data/sources/exam-library/structured"
 DEFAULT_OUTPUT = REPO_ROOT / "data/question-bank.sqlite3"
 SCHEMA_PATH = Path(__file__).with_name("question_bank_schema.sql")
-SCHEMA_VERSION = "question-bank.sqlite.v1"
+SCHEMA_VERSION = "question-bank.sqlite.v2"
 PAPER_SCHEMA = "exam-paper.v1"
 CHOICE_TYPES = frozenset(("single_choice", "multiple_choice"))
-OPTION_LABEL = re.compile(r"^([A-D])\.$")
+OPTION_LABEL = re.compile(r"^([A-H])\.$")
 ANSWER_SEPARATORS = re.compile(r"[\s,，、/&+;；()（）\[\]【】]+")
 
 
@@ -80,16 +80,30 @@ def _load_bank(root: Path) -> dict[str, dict]:
 
 def _choice_letters(question: dict, labels: list[str]) -> set[str] | None:
     answer = question["answer"]
+    context = question.get("context") or {}
+    matching_bank = context.get("kind") in {"matching_table", "ordering_diagram"}
+    if context.get("kind") == "ordering_diagram":
+        full = "ABCDEFGH" if "H" in context.get("fixedLetters", []) else "ABCDEFG"
+        valid_labels = [letter for letter in full if letter not in context["fixedLetters"]]
+        # The 2010 diagram has one extra paragraph as a distractor; the
+        # other four diagrams offer exactly five unplaced paragraphs.
+        if len(valid_labels) not in {5, 6}:
+            return None
+        valid_labels = (valid_labels,)
+    elif matching_bank:
+        valid_labels = (list("ABCDEFG"),)
+    else:
+        valid_labels = (list("ABCD"), list("ABCDE"))
     if (question.get("questionType") not in CHOICE_TYPES
             or question.get("status") != "complete"
-            or len(labels) != 4 or set(labels) != set("ABCD")
+            or labels not in valid_labels
             or answer.get("status") != "explicit"):
         return None
     value = answer.get("value")
     if not isinstance(value, str) or not value.strip():
         return None
     letters = ANSWER_SEPARATORS.sub("", value.strip())
-    if not letters or re.fullmatch(r"[A-D]+", letters) is None:
+    if not letters or re.fullmatch(r"[A-H]+" if matching_bank else r"[A-E]+", letters) is None:
         return None
     selected = set(letters)
     if len(selected) != len(letters) or not selected.issubset(set(labels)):
@@ -133,7 +147,9 @@ def _validate_paper(paper: dict, document: dict, path: Path) -> None:
     _require(isinstance(paper.get("source"), dict), f"{path}: missing source paths")
     _require(isinstance(paper.get("questions"), list), f"{path}: questions must be a list")
     _require(isinstance(paper.get("blocks"), list), f"{path}: blocks must be a list")
-    _check_audit_count(len(paper["questions"]), document.get("questions"), f"{path}: question records")
+    _check_audit_count(sum(paper["kind"] != "questions" or q.get("recordType") == "question"
+                           for q in paper["questions"]),
+                       document.get("questions"), f"{path}: question records")
     _check_audit_count(len(paper["blocks"]), document.get("sourceBlocks"), f"{path}: source blocks")
     _check_audit_count(sum(q.get("status") == "partial" for q in paper["questions"]), document.get("partialQuestions"), f"{path}: partial questions")
     _check_audit_count(sum(b.get("status") == "source_only" for b in paper["blocks"]), document.get("sourceOnlyBlocks"), f"{path}: source-only blocks")
@@ -184,7 +200,9 @@ def _insert_question(connection: sqlite3.Connection, paper: dict, question: dict
         match = OPTION_LABEL.fullmatch(option.get("label", ""))
         _require(match is not None, f"Invalid option label: {question_id}")
         labels.append(match.group(1))
-    _require(len(labels) == len(set(labels)), f"Duplicate option label: {question_id}")
+    # A few printed papers repeat a label (for example A/B/C/C). Preserve
+    # every source option and its position; an ambiguous sequence is never
+    # eligible for automatic marking in _choice_letters.
     correct = _choice_letters(question, labels)
     for position, option in enumerate(options, 1):
         source_position = option.get("sourceOrder", position)
@@ -198,7 +216,8 @@ def _insert_question(connection: sqlite3.Connection, paper: dict, question: dict
                (id,question_id,label,source_label,text,default_position,
                 source_position,is_correct,raw_json)
                VALUES (?,?,?,?,?,?,?,?,?)""",
-            (f"{question_id}:{letter}", question_id, option["label"],
+            (f"{question_id}:{letter}" + (f":{position}" if labels.count(letter) > 1 else ""),
+             question_id, option["label"],
              option.get("sourceLabel"), option["text"], position,
              source_position, int(letter in correct) if correct is not None else None,
              _json(option)),
@@ -329,7 +348,10 @@ def build_database(structured_dir: Path = DEFAULT_STRUCTURED_DIR,
                      if k not in ("blocks", "questions")})),
             )
             categories[paper["category"]] += 1
-            totals["questionRecords"] += len(paper["questions"])
+            totals["questionRecords"] += sum(
+                paper["kind"] != "questions" or q.get("recordType") == "question"
+                for q in paper["questions"])
+            totals["allRecords"] += len(paper["questions"])
             totals["partialQuestions"] += sum(q["status"] == "partial" for q in paper["questions"])
             totals["sourceBlocks"] += len(paper["blocks"])
             totals["sourceOnlyBlocks"] += sum(b.get("status") == "source_only" for b in paper["blocks"])
@@ -373,7 +395,7 @@ def build_database(structured_dir: Path = DEFAULT_STRUCTURED_DIR,
             _check_audit_count(bank_counts[question_type], audit["bank"].get(question_type),
                                f"bank {question_type}")
 
-        stats = BuildStats(len(documents), totals["questionRecords"], len(bank),
+        stats = BuildStats(len(documents), totals["allRecords"], len(bank),
                            totals["sourceBlocks"], options_count, marked_count)
         _verify_database(connection, audit, stats)
         connection.commit()

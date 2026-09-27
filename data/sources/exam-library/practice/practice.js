@@ -164,6 +164,33 @@
     return option.displayLabel || option.label || option.sourceLabel || `${String.fromCharCode(65 + index)}.`;
   }
 
+  function renderOptionImage(option) {
+    const image = option.image;
+    const src = localImageUrl(image?.src);
+    const crop = image?.crop;
+    if (!src || !crop || !['x', 'y', 'width', 'height', 'sourceWidth', 'sourceHeight']
+        .every(key => Number.isInteger(crop[key])) ||
+        crop.x < 0 || crop.y < 0 || crop.width <= 0 || crop.height <= 0 ||
+        crop.x + crop.width > crop.sourceWidth || crop.y + crop.height > crop.sourceHeight) return null;
+    const frame = element('span', 'option-image-frame');
+    frame.style.width = `min(100%, ${crop.width * 2}px)`;
+    frame.style.aspectRatio = `${crop.width} / ${crop.height}`;
+    const picture = element('img', 'option-image');
+    picture.alt = valueText(image.alt) || `原卷选项 ${option.label || ''} 图`;
+    picture.loading = 'lazy';
+    picture.decoding = 'async';
+    picture.style.width = `${crop.sourceWidth / crop.width * 100}%`;
+    picture.style.height = `${crop.sourceHeight / crop.height * 100}%`;
+    picture.style.left = `${-crop.x / crop.width * 100}%`;
+    picture.style.top = `${-crop.y / crop.height * 100}%`;
+    picture.src = src;
+    const failure = element('span', 'image-error', '选项图无法加载，请查看原始选项图。');
+    failure.hidden = true;
+    picture.addEventListener('error', () => { picture.hidden = true; failure.hidden = false; });
+    frame.append(picture, failure);
+    return frame;
+  }
+
   function renderOptions(question) {
     const options = Array.isArray(question.options) ? question.options : [];
     ui.options.replaceChildren();
@@ -180,8 +207,11 @@
       input.name = 'choice';
       input.value = String(option.id);
       input.checked = selected.has(String(option.id));
-      label.append(input, element('span', 'option-label', optionLabel(option, index)),
-        element('span', 'option-text', valueText(option.text)));
+      const content = element('span', 'option-body');
+      if (valueText(option.text)) content.append(element('span', 'option-text', valueText(option.text)));
+      const image = renderOptionImage(option);
+      if (image) content.append(image);
+      label.append(input, element('span', 'option-label', optionLabel(option, index)), content);
       ui.options.append(label);
     }
   }
@@ -225,6 +255,7 @@
   function renderContentBlocks(question) {
     ui.content.replaceChildren();
     const blocks = Array.isArray(question.contentBlocks) ? question.contentBlocks : [];
+    const optionFigureIds = new Set((question.options || []).map(option => option.image?.sourceBlockId).filter(Boolean));
     for (const block of blocks) {
       if (!block || (block.role !== 'content' && block.role !== 'figure')) continue;
       const section = element('section', `content-block content-${block.role}`);
@@ -233,7 +264,15 @@
       const repeatedCode = codeText.trim() &&
         body.replace(/\s+/g, '') === codeText.replace(/\s+/g, '');
       if (body.trim() && !repeatedCode && block.role !== 'figure') {
-        section.append(contentText(body));
+        const paragraphs = Array.isArray(block.paragraphs) ? block.paragraphs.filter(part =>
+          typeof part === 'string' && part.trim()) : [];
+        if (paragraphs.length) {
+          const group = element('div', 'content-paragraphs');
+          for (const part of paragraphs) group.append(contentText(part));
+          section.append(group);
+        } else {
+          section.append(contentText(body));
+        }
       }
       if (codeText.trim()) {
         const pre = element('pre', 'content-code code');
@@ -241,6 +280,18 @@
         section.append(pre);
       }
       const images = Array.isArray(block.images) ? block.images : [];
+      if (block.role === 'figure' && optionFigureIds.has(block.id)) {
+        const src = localImageUrl(images[0]?.src);
+        if (src) {
+          const link = element('a', 'source-figure-link', '查看原始四选项图 ↗');
+          link.href = src;
+          link.target = '_blank';
+          link.rel = 'noopener';
+          section.append(link);
+        }
+        if (section.childNodes.length) ui.content.append(section);
+        continue;
+      }
       const figure = element('figure', 'content-figure');
       for (const item of images) {
         const src = localImageUrl(item?.src);

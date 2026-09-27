@@ -2372,9 +2372,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 汉语中的",
+              "text": "汉语中的",
               "flags": [
                 false,
                 false,

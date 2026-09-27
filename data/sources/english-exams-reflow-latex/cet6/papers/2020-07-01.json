@@ -307,72 +307,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            48.09736633300781,
-            294.4071960449219,
-            308.2694091796875,
-            320.626708984375
-          ],
-          "font_size": 10.236491203308105,
-          "runs": [
+            },
             {
-              "text": "B) How nutrition helps ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "How nutrition helps athletes’ performance in competitions.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "��������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                149.87557983398438,
-                301.2397766113281,
-                180.40281677246094,
-                311.47625732421875
-              ],
-              "glyph_font_size": 10.236491203308105,
-              "glyph_origin_y": 309.05242919921875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                180.2826385498047,
-                295.4071960449219,
-                182.54490661621094,
-                319.626708984375
-              ],
-              "glyph_font_size": 10.236491203308105,
-              "glyph_origin_y": 309.05242919921875
-            },
-            {
-              "text": " performance in competitions.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "C",
               "runs": [
@@ -499,72 +447,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            48.09735107421875,
-            416.3259582519531,
-            279.9862060546875,
-            442.54547119140625
-          ],
-          "font_size": 10.236491203308105,
-          "runs": [
+            },
             {
-              "text": "B) It may lead to ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It may lead to athletes’ over reliance on equipment.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "��������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                125.93571472167969,
-                423.1585388183594,
-                156.4639434814453,
-                433.39501953125
-              ],
-              "glyph_font_size": 10.236491203308105,
-              "glyph_origin_y": 430.97119140625
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                156.3427734375,
-                417.3259582519531,
-                158.60504150390625,
-                441.54547119140625
-              ],
-              "glyph_font_size": 10.236491203308105,
-              "glyph_origin_y": 430.97119140625
-            },
-            {
-              "text": " over reliance on equipment.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "C",
               "runs": [
@@ -1331,7 +1227,7 @@
         }
       ],
       "source_page": 1,
-      "inline_glyphs": 2
+      "inline_glyphs": 0
     },
     {
       "blocks": [
@@ -1832,88 +1728,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.21368408203125,
-            568.1068725585938,
-            274.4830017089844,
-            594.3170166015625
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
+            },
             {
-              "text": "B) It prevents the ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "It prevents the mice’s fatty tissues from growing.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                131.82400512695312,
-                574.9371948242188,
-                151.31878662109375,
-                585.1697387695312
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 582.746826171875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                151.2265625,
-                569.1068725585938,
-                153.48794555664062,
-                593.3170166015625
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 582.746826171875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                153.44696044921875,
-                574.9371948242188,
-                157.4274139404297,
-                585.1697387695312
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 582.746826171875
-            },
-            {
-              "text": " fatty tissues from growing.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "C",
               "runs": [
@@ -2124,7 +1952,7 @@
         }
       ],
       "source_page": 2,
-      "inline_glyphs": 1
+      "inline_glyphs": 0
     },
     {
       "blocks": [
@@ -2156,88 +1984,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.213592529296875,
-            51.28327941894531,
-            314.6389465332031,
-            77.49340057373047
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
+            },
             {
-              "text": "B) Half of a ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Half of a person’s total weight variation can be controlled.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                109.91146087646484,
-                58.11360168457031,
-                136.94017028808594,
-                68.34611511230469
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 65.9232177734375
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                136.94017028808594,
-                52.28327941894531,
-                139.20155334472656,
-                76.49340057373047
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 65.9232177734375
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                139.1605682373047,
-                58.11360168457031,
-                143.14102172851562,
-                68.34611511230469
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 65.9232177734375
-            },
-            {
-              "text": " total weight variation can be controlled.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "C",
               "runs": [
@@ -2472,6 +2232,19 @@
               ]
             },
             {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "The joy found in each other’s company.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
               "label": "C",
               "runs": [
                 {
@@ -2483,81 +2256,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.213470458984375,
-            371.08868408203125,
-            369.0823059082031,
-            397.298828125
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
-            {
-              "text": "B) The joy found in each ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
             },
             {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                165.51268005371094,
-                377.91900634765625,
-                186.2962646484375,
-                388.1515197753906
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 385.7286376953125
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                186.26718139648438,
-                372.08868408203125,
-                188.528564453125,
-                396.298828125
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 385.7286376953125
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                188.48757934570312,
-                377.91900634765625,
-                192.46803283691406,
-                388.1515197753906
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 385.7286376953125
-            },
-            {
-              "text": " company. D) Emotional factors.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Emotional factors.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -3219,7 +2929,7 @@
         }
       ],
       "source_page": 3,
-      "inline_glyphs": 2
+      "inline_glyphs": 0
     },
     {
       "blocks": [
@@ -23061,6 +22771,19 @@
           "type": "question",
           "runs": [
             {
+              "text": "37. The author and his colleagues’ study shows two-year-olds may be able to predict other people’s feelings.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
               "text": "38. In the latter half of the last century, fewer and fewer people believed the basis for our",
               "flags": [
                 false,
@@ -23259,6 +22982,45 @@
           "type": "question",
           "runs": [
             {
+              "text": "39. Research conducted by Jean Piaget in the last century suggested babies were insensitive to others’ thinking.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "40. Our improved understanding of babies’ intellectual power is attributable to better research tools.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "41. It has been found in recent research that even small babies are sensitive to other people’s points of view.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
               "text": "42. Scientists are still debating what inference can be drawn from certain physical expressions of a",
               "flags": [
                 false,
@@ -23342,10 +23104,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "answer questions.",
+              "text": "43. The newer research methods focus on infants’ simple behaviors instead of requiring them to answer questions.",
               "flags": [
                 false,
                 false,
@@ -23519,10 +23281,10 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "question",
           "runs": [
             {
-              "text": "thinking abilities has become less and less influential.",
+              "text": "44. With the progress in psychology, the traditional view of children’s self-centered nature and limited thinking abilities has become less and less influential.",
               "flags": [
                 false,
                 false,
@@ -23647,6 +23409,19 @@
             },
             {
               "text": " cognitive abilities.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "45. Even though marked advances have been made, it is wrong to dismiss Piaget’s fundamental contributions to the study of kids’ cognitive abilities.",
               "flags": [
                 false,
                 false,
@@ -28239,7 +28014,8 @@
                 false
               ]
             }
-          ]
+          ],
+          "continues_previous_page": true
         },
         {
           "type": "question",
@@ -28465,84 +28241,21 @@
           ]
         },
         {
-          "type": "source_line",
-          "bbox": [
-            53.19963073730469,
-            390.2982177734375,
-            275.6269836425781,
-            416.50836181640625
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
-            {
-              "text": "A) It is harmful to ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                136.05775451660156,
-                397.1285400390625,
-                150.82327270507812,
-                407.3610534667969
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 404.93817138671875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                150.7300567626953,
-                391.2982177734375,
-                152.99143981933594,
-                415.50836181640625
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 404.93817138671875
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                152.95045471191406,
-                397.1285400390625,
-                156.930908203125,
-                407.3610534667969
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 404.93817138671875
-            },
-            {
-              "text": " physical and mental health.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "It is harmful to one’s physical and mental health.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
@@ -28568,81 +28281,18 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.19670104980469,
-            438.659423828125,
-            242.32125854492188,
-            464.86956787109375
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
-            {
-              "text": "D) It does not help build up ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
             },
             {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                177.17686462402344,
-                445.48974609375,
-                191.9423828125,
-                455.7222595214844
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 453.29937744140625
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                191.8491668701172,
-                439.659423828125,
-                194.1105499267578,
-                463.86956787109375
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 453.29937744140625
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                194.06956481933594,
-                445.48974609375,
-                198.05001831054688,
-                455.7222595214844
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 453.29937744140625
-            },
-            {
-              "text": " tolerance.",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "It does not help build up one’s tolerance.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -29053,7 +28703,7 @@
         }
       ],
       "source_page": 10,
-      "inline_glyphs": 2
+      "inline_glyphs": 0
     },
     {
       "blocks": [
@@ -31281,88 +30931,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.213775634765625,
-            599.6727905273438,
-            365.31817626953125,
-            625.8829345703125
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
+            },
             {
-              "text": "C) The species of prey animals continue to vary despite ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The species of prey animals continue to vary despite humans’ hunting.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                293.0303955078125,
-                606.5031127929688,
-                320.6380920410156,
-                616.7356567382812
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 614.312744140625
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                320.6380920410156,
-                606.5031127929688,
-                324.6185302734375,
-                616.7356567382812
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 614.312744140625
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                324.4988098144531,
-                600.6727905273438,
-                326.76019287109375,
-                624.8829345703125
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 614.312744140625
-            },
-            {
-              "text": " hunting.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "D",
               "runs": [
@@ -41238,7 +40820,7 @@
         }
       ],
       "source_page": 11,
-      "inline_glyphs": 6
+      "inline_glyphs": 5
     },
     {
       "blocks": [
@@ -41423,88 +41005,20 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "source_line",
-          "bbox": [
-            53.21357727050781,
-            276.48809814453125,
-            272.5520324707031,
-            302.6982421875
-          ],
-          "font_size": 10.232512474060059,
-          "runs": [
+            },
             {
-              "text": "C) When it is indispensable to ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "When it is indispensable to humans’ subsistence.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                185.5918426513672,
-                283.31842041015625,
-                213.19956970214844,
-                293.5509338378906
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 291.1280517578125
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                213.19956970214844,
-                283.31842041015625,
-                217.18002319335938,
-                293.5509338378906
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 291.1280517578125
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                217.0603485107422,
-                277.48809814453125,
-                219.3217315673828,
-                301.6982421875
-              ],
-              "glyph_font_size": 10.232512474060059,
-              "glyph_origin_y": 291.1280517578125
-            },
-            {
-              "text": " subsistence.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "D",
               "runs": [
@@ -41868,7 +41382,7 @@
         }
       ],
       "source_page": 12,
-      "inline_glyphs": 1
+      "inline_glyphs": 0
     },
     {
       "blocks": [

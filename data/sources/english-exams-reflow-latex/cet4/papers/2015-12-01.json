@@ -2773,7 +2773,21 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "between “information haves” and “information have-nots”, leading to digital divide. According to recent studies, digital divide has been caused by three major",
+              "text": "between “information haves” and “information have-nots”, leading to digital divide.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "According to recent studies, digital divide has been caused by three major",
               "flags": [
                 false,
                 false,
@@ -2836,8 +2850,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -4172,7 +4185,59 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Martha Stewart was charged, tried and competed of a crime in 2004. As she neared the end of her prison sentence, a well-known columnist wrote that she was “ paying her dues,” and that “ there is simply no reason for anyone to attempt to deny her right to start anew.” Surely, the American ideal of second chances should not be reserved only for the rich and powerful. Unfortunately, many federal and state laws impose post-conviction restrictions on a shockingly large number of Americans, who are prevented from ever fully paying their debt to society. At least 65 million people in the United States have a criminal record. This can result in severe penalties that continue long after punishment is completed. Many of these penalties are imposed regardless of the seriousness of the offense or the person’s individual circumstances. Laws can restrict or ban voting, access to public housing, and professional and business licensing. They can affect a person’s ability to get a job and qualification for benefits. In all, more than 45, 000 laws and rules serve to exclude vast numbers of people from fully participating in American life. Some laws make sense. No one advocates letting someone convicted",
+              "text": "Martha Stewart was charged, tried and competed of a crime in 2004. As she neared the end of her prison sentence, a well-known columnist wrote that she was “ paying her dues,” and that “ there is simply no reason for anyone to attempt to deny her right to start anew.”",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Surely, the American ideal of second chances should not be reserved only for the rich and powerful. Unfortunately, many federal and state laws impose post-conviction restrictions on a shockingly large number of Americans, who are prevented from ever fully paying their debt to society.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "At least 65 million people in the United States have a criminal record. This can result in severe penalties that continue long after punishment is completed.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Many of these penalties are imposed regardless of the seriousness of the offense or the person’s individual circumstances. Laws can restrict or ban voting, access to public housing, and professional and business licensing. They can affect a person’s ability to get a job and qualification for benefits.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In all, more than 45, 000 laws and rules serve to exclude vast numbers of people from fully participating in American life. Some laws make sense. No one advocates letting someone convicted",
               "flags": [
                 false,
                 false,
@@ -4204,7 +4269,46 @@
               ]
             },
             {
-              "text": "(附随的）consequences bear no relation to public safety. Should a woman who possessed a small amount of drugs years ago be permanently unable to be licensed as a nurse? These laws are also counterproductive, since they make it harder for people with criminal records to find housing or land a job, two key factors that reduce backsliding. A recent report makes several recommendations, including the abolition of most post-conviction penalties, except for those specifically needed to protect public safety. Where the penalties are not a must, they should be imposed only if the facts of a case support it. The point is not to excuse or forget the crime. Rather, it is to recognize that in America’s vast criminal justice system, second chances are crucial. It is in no one’s interest to keep a large segment of the population on the margins of society.",
+              "text": "(附随的）consequences bear no relation to public safety. Should a woman who possessed a small amount of drugs years ago be permanently unable to be licensed as a nurse?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "These laws are also counterproductive, since they make it harder for people with criminal records to find housing or land a job, two key factors that reduce backsliding.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A recent report makes several recommendations, including the abolition of most post-conviction penalties, except for those specifically needed to protect public safety. Where the penalties are not a must, they should be imposed only if the facts of a case support it.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The point is not to excuse or forget the crime. Rather, it is to recognize that in America’s vast criminal justice system, second chances are crucial. It is in no one’s interest to keep a large segment of the population on the margins of society.",
               "flags": [
                 false,
                 false,

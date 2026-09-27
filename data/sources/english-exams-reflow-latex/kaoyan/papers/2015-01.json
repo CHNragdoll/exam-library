@@ -4740,7 +4740,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members. You should state reasons for your recommendation. You should write neatly on the ANSWER SHEET. ",
+              "text": "You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should state reasons for your recommendation. You should write neatly on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

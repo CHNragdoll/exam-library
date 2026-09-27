@@ -6089,7 +6089,7 @@
               "label": "G",
               "runs": [
                 {
-                  "text": "conceded 0) warrant",
+                  "text": "conceded",
                   "flags": [
                     false,
                     false,
@@ -6102,7 +6102,7 @@
               "label": "H",
               "runs": [
                 {
-                  "text": "consc10usness",
+                  "text": "consciousness",
                   "flags": [
                     false,
                     false,
@@ -6181,6 +6181,19 @@
               "runs": [
                 {
                   "text": "spectacularly",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "O",
+              "runs": [
+                {
+                  "text": "warrant",
                   "flags": [
                     false,
                     false,
@@ -6302,7 +6315,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ A] Though he didn't come from a farming family, from a young age Tim Joseph was fascinated by the idea of living off the land. Reading magazines like ",
+              "text": "[ A] Though he didn't come from a farming family, from a young age Tim Joseph was fascinated by",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "the idea of living off the land. Reading magazines like ",
               "flags": [
                 false,
                 false,
@@ -7503,7 +7529,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ C] His first partnership was with Paul and Phyllis Amburgh, owners of the Dharma Lea farm in New York. The Amburghs, too, were true believers in grass-fed. In addition to supplying milk from their own 85-head herd, they began to help other farmers in the area convert from conventional to certified organic and grass-fed in order to enter the Maple Hill supply chain.",
+              "text": "[ C] His first partnership was with Paul and Phyllis Amburgh, owners of the Dharma Lea farm in",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "New York. The Amburghs, too, were true believers in grass-fed. In addition to supplying milk from their own 85-head herd, they began to help other farmers in the area convert from conventional to certified organic and grass-fed in order to enter the Maple Hill supply chain.",
               "flags": [
                 false,
                 false,
@@ -11492,7 +11531,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ D] All this conversion has helped Maple Hill grow 40-50% every year since it began, with no end in sight. Joseph has learned that a farmer has to have a certain mindset to successfully convert. But convincing open-minded dairy people is actually not that hard, when you look at the economics. Grass-fed milk can fetch up 2.5 times the price of conventional milk. Another factor is the squeeze that conventional dairy farmers have felt as the price of grain they feed their cows has gone up, tightening their profit margins. By replacing expensive grain feed with regenerative management practices, grass-fed farmers are insulated from jumps in the price of feed. These practices include grazing animals on grasses grown from the pastureland's natural seed bank, and fertilized by the cows' own fertilizer.",
+              "text": "[ D] All this conversion has helped Maple Hill grow 40-50% every year since it began, with no end",
               "flags": [
                 false,
                 false,
@@ -11505,7 +11544,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ E] Champions of this type of regenerative grazing also point to its animal welfare, climate and health benefits: Grass-fed animals live longer out of confinement. Grazing herds stimulate ",
+              "text": "in sight. Joseph has learned that a farmer has to have a certain mindset to successfully convert. But convincing open-minded dairy people is actually not that hard, when you look at the economics. Grass-fed milk can fetch up 2.5 times the price of conventional milk. Another factor is the squeeze that conventional dairy farmers have felt as the price of grain they feed their cows has gone up, tightening their profit margins. By replacing expensive grain feed with regenerative management practices, grass-fed farmers are insulated from jumps in the price of feed. These practices include grazing animals on grasses grown from the pastureland's natural seed bank, and fertilized by the cows' own fertilizer.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "[ E] Champions of this type of regenerative grazing also point to its animal welfare, climate and",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "health benefits: Grass-fed animals live longer out of confinement. Grazing herds stimulate ",
               "flags": [
                 false,
                 false,
@@ -11534,7 +11599,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ F ] In the grass fed system, farmers are also not subject to the wildly fluctuating milk prices of the international commodity market. The unpredictability of global demand and the lag-time it takes to add more cows to a herd to meet demand can result in events like the recent cheese surplus. Going grass-fed is a safe refuge, a way for family-scale farms to stay viable. Usually a farmer will get to the point where financially, what they're doing is not working. That's when they call Maple Hill. If the farm is well managed and has enough land, and the desire to convert is sincere, a relationship can begin. Through regular regional educational meetings, a large annual meeting, individual farm visits and thousands of phone calls, the Amburghs pass on the principles of pasture management. Maple Hill signs a contract pledging to buy the farmer's milk at a guaranteed base price, plus quality premiums and incentives for higher protein, butter-fat and other solids.",
+              "text": "[ F ] In the grass fed system, farmers are also not subject to the wildly fluctuating milk prices of the",
               "flags": [
                 false,
                 false,
@@ -11547,7 +11612,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ G] While Maple Hill's conversion program is unusually hands-on and comprehensive, it's just one of a growing number of businesses committed to slowly changing the way America farms. Joseph calls sharing his knowledge network through peer-to-peer learning a core piece of the company's culture. Last summer, Massachusetts grass-fed beef advocate John Smith launched Big Picture Beef, a network of small grass-fed beef farms in New England and New York that is projected to bring to market 2,500 head of cattle from 125 producers this year. Early indications are that Smith will have no shortage of farm members. Since he began to informally announce the network at farming conferences and on social media, he's received a steady stream of inquiries from interested farmers.",
+              "text": "international commodity market. The unpredictability of global demand and the lag-time it takes to add more cows to a herd to meet demand can result in events like the recent cheese surplus. Going grass-fed is a safe refuge, a way for family-scale farms to stay viable. Usually a farmer will get to the point where financially, what they're doing is not working. That's when they call Maple Hill. If the farm is well managed and has enough land, and the desire to convert is sincere, a relationship can begin. Through regular regional educational meetings, a large annual meeting, individual farm visits and thousands of phone calls, the Amburghs pass on the principles of pasture management. Maple Hill signs a contract pledging to buy the farmer's milk at a guaranteed base price, plus quality premiums and incentives for higher protein, butter-fat and other solids.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "[ G] While Maple Hill's conversion program is unusually hands-on and comprehensive, it's just one",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "of a growing number of businesses committed to slowly changing the way America farms. Joseph calls sharing his knowledge network through peer-to-peer learning a core piece of the company's culture. Last summer, Massachusetts grass-fed beef advocate John Smith launched Big Picture Beef, a network of small grass-fed beef farms in New England and New York that is projected to bring to market 2,500 head of cattle from 125 producers this year. Early indications are that Smith will have no shortage of farm members. Since he began to informally announce the network at farming conferences and on social media, he's received a steady stream of inquiries from interested farmers.",
               "flags": [
                 false,
                 false,
@@ -12078,7 +12169,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ I] Though advocates portray grass fed products as a win-win situation for all, they do have downsides. Price, for one, is an issue. Joseph says his products are priced 10-20% above organic versions, but depending on the product chosen, compared to non-organic conventional yogurt, consumers could pay a premium of 30-50% or more for grass-fed. As for the meat, Smith says his grass-fed hamburger will be priced 20-25% over the conventional alternative. But a look at the prices on online grocer Fresh Direct suggests a grass-fed premium of anywhere from 35-60% .",
+              "text": "[ I] Though advocates portray grass fed products as a win-win situation for all, they do have",
               "flags": [
                 false,
                 false,
@@ -12091,7 +12182,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ J] And not every farmer has the option of going grass-fed. For both beef and dairy production it requires, at least in the beginning, more pastureland. Grass-fed beef production tends to be more labor-intensive as well. But Smith counters that if you factor in the hidden cost of government corn subsidies, environment degradation, and decreased human heath and animal welfare, grass­ fed is the more cost-effective model. \" The sun provides the lowest cost of production and the cheapest meat,\" he says.",
+              "text": "downsides. Price, for one, is an issue. Joseph says his products are priced 10-20% above organic versions, but depending on the product chosen, compared to non-organic conventional yogurt, consumers could pay a premium of 30-50% or more for grass-fed. As for the meat, Smith says his grass-fed hamburger will be priced 20-25% over the conventional alternative. But a look at the prices on online grocer Fresh Direct suggests a grass-fed premium of anywhere from 35-60% .",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "[ J] And not every farmer has the option of going grass-fed. For both beef and dairy production it",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "requires, at least in the beginning, more pastureland. Grass-fed beef production tends to be more labor-intensive as well. But Smith counters that if you factor in the hidden cost of government corn subsidies, environment degradation, and decreased human heath and animal welfare, grass­ fed is the more cost-effective model. \" The sun provides the lowest cost of production and the cheapest meat,\" he says.",
               "flags": [
                 false,
                 false,
@@ -12628,7 +12745,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "[ L] But after General Mills bought EPIC in 2016, Collins and Forrest suddenly had the resources they needed to expand their supply chain. So the company teamed up with Wisconsin-based rancher Northstar Bison. EPIC fronted the money for the purchase of $ 2.5 million worth of young bison that will be raised according to its grass-fed protocols, with a guaranteed purchase price. The message to young people who might not otherwise be able to afford to break into the business is,\" ' You can purchase this $ 3 million piece of land here, because I'm guaranteeing you today you'll have 1 ,000 bison on it.' We're bringing new blood into the old, conventional farming ecosystem, which is really cool to see,\" Collins explains.",
+              "text": "[ L] But after General Mills bought EPIC in 2016, Collins and Forrest suddenly had the resources",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "they needed to expand their supply chain. So the company teamed up with Wisconsin-based rancher Northstar Bison. EPIC fronted the money for the purchase of $ 2.5 million worth of young bison that will be raised according to its grass-fed protocols, with a guaranteed purchase price. The message to young people who might not otherwise be able to afford to break into the business is,\" ' You can purchase this $ 3 million piece of land here, because I'm guaranteeing you today you'll have 1 ,000 bison on it.' We're bringing new blood into the old, conventional farming ecosystem, which is really cool to see,\" Collins explains.",
               "flags": [
                 false,
                 false,
@@ -37793,6 +37923,356 @@
               ],
               "glyph_font_size": 10.5,
               "glyph_origin_y": 476.19000244140625
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "51. What will happen by 2100, according to a new study?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "King penguins in the Antarctic will be on the verge of dying out.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Sea water will rise to a much higher level around the Antarctic.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The melting ice cover will destroy the great Antarctic wilderness.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "The pristine waters around the Antarctic will disappear forever.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "52. What do we learn from the findings of a separate study?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Shrinking krill population and rising temperatures could force Antarctic whales to migrate.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Human activities have accelerated climate change in the Antarctic region in recent years.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Industrial fishing and climate change could be fatal to certain Antarctic species.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Krill fishing in the Antarctic has worsened the pollution of the pristine waters.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "53. What does the passage say about king penguins?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "They will turn out to be the second-largest species of birds to become extinct.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Many of them will have to migrate to isolated islands in the Southern Ocean.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "They feed primarily on only a few kinds of krill in the Antarctic Polar Front.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "The majority of them may have to find new breeding grounds in the future.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "54. What happens when sea levels rise in the Antarctic?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Many baby king penguins can't have food in time.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Many king penguins could no longer live on krill.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "Whales will invade king penguins' breeding grounds.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Whales will have to travel long distances to find food.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "55. What do we learn about the Southern Ocean?",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The king penguins there are reluctant to leave for new breeding grounds.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "Its conservation is key to the sustainable propagation of Antarctic species.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "It is most likely to become the ultimate retreat for species like the king penguin.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "Only a few of its islands can serve as huge breeding grounds for king penguins.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
             }
           ]
         },

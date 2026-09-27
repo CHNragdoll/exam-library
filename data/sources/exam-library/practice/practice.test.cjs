@@ -173,7 +173,39 @@ async function main() {
   mathDoc.getElementById('reveal-button').click();
   await waitFor(() => mathDoc.querySelector('#answer-panel mjx-container svg path'), 'local MathJax renders answer');
   mathDom.window.close();
-  console.log('practice: filters, stable-id shuffle, answer status, safe content blocks, local MathJax passed');
+
+  const figureDom = new JSDOM(markup, {url: 'http://127.0.0.1:8765/exam-library/practice/index.htm', runScripts: 'outside-only'});
+  const figureWindow = figureDom.window;
+  const figureDoc = figureWindow.document;
+  const figurePaper = {...paper, id: 'cs408:2009-complete', category: 'cs408', questionCount: 1};
+  const figureId = `${figurePaper.id}:q-4-1`;
+  const figureSrc = '/cs408-latex-2009-2017/assets/figures/2009-complete-p001-b007.svg';
+  const regions = [[0, 0, 72, 86], [72, 0, 84, 86], [156, 0, 73, 86], [229, 0, 72, 86]];
+  const figureOptions = regions.map(([x, y, width, height], index) => ({
+    id: `${figureId}:${'ABCD'[index]}`, label: `${'ABCD'[index]}.`, text: '',
+    image: {src: figureSrc, sourceBlockId: `${figurePaper.id}:b-1-8`, alt: `原卷选项 ${'ABCD'[index]} 图`,
+      crop: {x, y, width, height, sourceWidth: 373, sourceHeight: 86}}
+  }));
+  const figureQuestion = {id: figureId, number: '4', questionType: 'single_choice', stem: '选择平衡二叉树',
+    options: figureOptions, contentBlocks: [{id: `${figurePaper.id}:b-1-8`, role: 'figure',
+      text: 'A、B、C、D 四棵候选树', images: [{src: figureSrc, alt: '原图'}]}]};
+  figureWindow.fetch = async url => ({ok: true, json: async () => {
+    if (url === '/api/v1/papers') return {papers: [figurePaper]};
+    if (String(url).includes('/questions?')) return {paper: figurePaper, questions: [figureQuestion]};
+    return {status: 'explicit', value: 'B', correctOptionIds: [figureOptions[1].id]};
+  }});
+  figureWindow.eval(script);
+  await waitFor(() => figureDoc.querySelectorAll('.option-image').length === 4, 'four figure options render');
+  assert.equal(figureDoc.querySelectorAll('.option-image-frame').length, 4);
+  assert.equal(figureDoc.querySelectorAll('.content-figure img').length, 0, 'combined figure is not duplicated');
+  assert.equal(figureDoc.querySelector('.source-figure-link').getAttribute('href'), figureSrc);
+  assert.equal(figureDoc.querySelector('.source-figure-link').getAttribute('target'), '_blank');
+  assert.equal(item(figureDoc, figureOptions[1].id).querySelector('.option-image').style.left,
+    `${-72 / 84 * 100}%`, 'B choice uses its own source region');
+  item(figureDoc, figureOptions[1].id).querySelector('input').click();
+  assert(item(figureDoc, figureOptions[1].id).querySelector('input').checked);
+  figureDom.window.close();
+  console.log('practice: filters, stable-id shuffle, answer status, safe content blocks, local MathJax, source-clipped image choices passed');
 }
 
 main().catch(error => { console.error(error); process.exitCode = 1; });

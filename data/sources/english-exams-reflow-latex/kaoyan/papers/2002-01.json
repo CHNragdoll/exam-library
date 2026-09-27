@@ -4219,7 +4219,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Study the following picture carefully and write an essay entitled “Cultures — National and International”. In the essay you should",
+              "text": "Study the following picture carefully and write an essay entitled “Cultures — National and International”.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "In the essay you should",
               "flags": [
                 false,
                 false,

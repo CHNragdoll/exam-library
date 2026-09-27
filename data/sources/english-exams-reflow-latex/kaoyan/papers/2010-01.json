@@ -4516,7 +4516,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "You are supposed to write for the Postgraduates’ Association a notice to recruit volunteers for an international conference on globalization. The notice should include the basic qualifications for applicants and other information which you think is relevant. You should write about 100 words on ANSWER SHEET 2. ",
+              "text": "You are supposed to write for the Postgraduates’ Association a notice to recruit volunteers for an international conference on globalization. The notice should include the basic qualifications for applicants and other information which you think is relevant.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write about 100 words on ANSWER SHEET 2. ",
               "flags": [
                 false,
                 false,

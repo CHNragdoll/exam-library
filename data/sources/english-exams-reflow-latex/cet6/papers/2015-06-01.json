@@ -3206,7 +3206,20 @@
               ]
             },
             {
-              "text": ", but there are ever more computer programmers and web designers. Optimism remains the right starting-point, but for workers the dislocating effects of technology may make themselves evident faster than its ",
+              "text": ", but there are ever more computer programmers and web designers.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Optimism remains the right starting-point, but for workers the dislocating effects of technology may make themselves evident faster than its ",
               "flags": [
                 false,
                 false,
@@ -5258,7 +5271,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -5299,15 +5312,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Directions",
               "flags": [

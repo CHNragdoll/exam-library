@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 
 
 DEFAULT_DATABASE = Path(__file__).resolve().parents[1] / "data/question-bank.sqlite3"
-SCHEMA_VERSION = "question-bank.sqlite.v1"
+SCHEMA_VERSION = "question-bank.sqlite.v2"
 
 
 def connect(database: Path = DEFAULT_DATABASE) -> sqlite3.Connection:
@@ -57,28 +57,66 @@ def _paper(connection: sqlite3.Connection, paper_id: str) -> dict:
 
 def _question(connection: sqlite3.Connection, row: sqlite3.Row,
               order: str, seed: str) -> dict:
+    context = json.loads(row["context_json"]) if row["context_json"] else None
+    option_rows = list(connection.execute(
+        """SELECT id, label, source_label, text, default_position, source_position, raw_json
+           FROM options WHERE question_id = ? ORDER BY default_position""",
+        (row["id"],)))
     options = [{"id": option["id"], "label": option["label"],
                 "sourceLabel": option["source_label"], "text": option["text"],
                 "defaultPosition": option["default_position"],
                 "sourcePosition": option["source_position"]}
-               for option in connection.execute(
-                   """SELECT id, label, source_label, text, default_position, source_position
-                      FROM options WHERE question_id = ? ORDER BY default_position""",
-                   (row["id"],))]
+               for option in option_rows]
     if order == "shuffle":
         random.Random(f"{seed}:{row['id']}").shuffle(options)
+    repeated_printed_label = len({option["label"] for option in options}) < len(options)
+    source_letters_are_referenced = bool(
+        context and context.get("kind") in {"ordering_diagram", "matching_table"}
+    )
     for index, option in enumerate(options):
-        option["displayLabel"] = chr(ord("A") + index) + "."
+        if source_letters_are_referenced:
+            option["displayLabel"] = option["label"]
+        elif order == "default":
+            option["displayLabel"] = (option["sourceLabel"] or option["label"]
+                                      if repeated_printed_label else option["label"])
+        else:
+            option["displayLabel"] = chr(ord("A") + index) + "."
     paper = connection.execute("SELECT reader_path FROM papers WHERE id = ?", (row["paper_id"],)).fetchone()
     reader_url = "/exam-library/structured/" + paper["reader_path"]
+    raw_options = {record["id"]: json.loads(record["raw_json"]) for record in option_rows}
+    for option in options:
+        image = raw_options[option["id"]].get("image")
+        if not isinstance(image, dict):
+            continue
+        parsed = urlsplit(image.get("src", ""))
+        if parsed.scheme or parsed.netloc or not parsed.path:
+            continue
+        url = urljoin(reader_url, image["src"])
+        if url.startswith("/"):
+            source_block_id = image.get("sourceBlockId")
+            option["image"] = {**image, "src": url}
+            if source_block_id:
+                option["image"]["sourceBlockId"] = f"{row['paper_id']}:{source_block_id}"
     content_blocks = []
     for block in connection.execute(
-        """SELECT b.id, b.role, b.text, b.content_html FROM question_source_blocks x
+        """SELECT b.id, b.role, b.text, b.content_html, b.raw_json FROM question_source_blocks x
              JOIN source_blocks b ON b.id = x.block_id
             WHERE x.question_id = ? AND b.role IN ('content', 'figure') ORDER BY x.ordinal""",
         (row["id"],),
     ):
         markup = BeautifulSoup(block["content_html"] or "", "html.parser")
+        presentation = json.loads(block["raw_json"]).get("presentation") or {}
+        display_text = presentation.get("displayText")
+        visible_text = display_text if isinstance(display_text, str) else block["text"]
+        paragraphs = []
+        for paragraph in markup.select(".paragraph-group > p"):
+            if paragraph.has_attr("hidden"):
+                continue
+            for hidden in paragraph.select("[hidden]"):
+                hidden.decompose()
+            value = paragraph.get_text(" ", strip=True)
+            if value:
+                paragraphs.append(value)
         code = markup.find("pre")
         images = []
         for image in markup.find_all("img", src=True):
@@ -90,13 +128,13 @@ def _question(connection: sqlite3.Connection, row: sqlite3.Row,
             if url.startswith("/"):
                 images.append({"src": url, "alt": image.get("alt", "")})
         content_blocks.append({"id": block["id"], "role": block["role"],
-                               "text": block["text"],
+                               "text": visible_text, "paragraphs": paragraphs,
                                "code": code.get_text() if code else None,
                                "images": images})
     return {
         "id": row["id"], "number": row["number"], "questionType": row["question_type"],
         "sectionTitle": row["section_title"], "stem": row["stem"],
-        "context": json.loads(row["context_json"]) if row["context_json"] else None,
+        "context": context,
         "options": options, "contentBlocks": content_blocks,
         "status": row["status"], "answerStatus": row["answer_status"],
         "sourcePages": json.loads(row["source_pages_json"] or "[]"),

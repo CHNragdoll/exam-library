@@ -4380,7 +4380,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Yours, Paul Write your answer in about 100 words on the ANSWER SHEET. ",
+              "text": "Yours, Paul",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write your answer in about 100 words on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

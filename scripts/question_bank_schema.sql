@@ -99,7 +99,6 @@ CREATE TABLE options (
     source_position INTEGER NOT NULL CHECK (source_position >= 0),
     is_correct INTEGER CHECK (is_correct IN (0, 1)),
     raw_json TEXT NOT NULL,
-    UNIQUE (question_id, label),
     UNIQUE (question_id, default_position),
     UNIQUE (question_id, source_position)
 );

@@ -18,9 +18,9 @@ python3 scripts/build_question_database.py
 
 ## 关系模型
 
-版本号在 `meta.schema_version`，当前为 `question-bank.sqlite.v1`。`papers` 保存试卷 ID、科目/年份、原版与重排来源路径；`questions` 用 `paperId:q-N-occurrence` 作为稳定 ID，另存卷内 `ordinal`；`source_blocks` 保存原文字、HTML、公式 TeX、图像引用和页/块位置，关联表 `question_source_blocks`、`context_source_blocks` 保留题目及共用阅读材料的顺序。`answers` 分开保存答案值、解答过程、解析、点评、考点和答案卷出处。每个选项有固定 ID `questionId:A` 等、原标记 `source_label`、默认位置 `default_position` 和卷面提取位置 `source_position`。
+版本号在 `meta.schema_version`，当前为 `question-bank.sqlite.v2`。`papers` 保存试卷 ID、科目/年份、原版与重排来源路径；`questions` 用 `paperId:q-N-occurrence` 作为稳定 ID，另存卷内 `ordinal`；`source_blocks` 保存原文字、HTML、公式 TeX、图像引用和页/块位置，关联表 `question_source_blocks`、`context_source_blocks` 保留题目及共用阅读材料的顺序。`answers` 分开保存答案值、解答过程、解析、点评、考点和答案卷出处。选项保存原标记 `source_label`、默认位置 `default_position` 和卷面提取位置 `source_position`；通常使用 `questionId:A` 等固定 ID，原卷重复标号时加上位置后缀以避免覆盖，并禁止该题自动判分。
 
-`options.is_correct` 是三态：`1` 正确、`0` 错误、`NULL` 未核实。只有答案来源状态为 `explicit`，答案值能明确解析为已有选项，而且与单选/多选题型一致时才写入 `1/0`。`missing`、`ambiguous`、仅有解析没有选项答案、或答案与选项不匹配的题，所有选项均保持 `NULL`；原答案文字仍在 `answers.value`。卷面默认 A–D 顺序和原标记永久保存，乱序只在读取时生成显示顺序，正确性始终用固定选项 ID 关联，不能以乱序后的 A/B/C/D 判分。
+`options.is_correct` 是三态：`1` 正确、`0` 错误、`NULL` 未核实。只有答案来源状态为 `explicit`，答案值能明确解析为已有选项，而且与单选/多选题型一致时才写入 `1/0`。`missing`、`ambiguous`、仅有解析没有选项答案、或答案与选项不匹配的题，所有选项均保持 `NULL`；原答案文字仍在 `answers.value`。卷面默认 A–D（少数早年政治卷为 A–E）顺序和原标记永久保存，乱序只在读取时生成显示顺序，正确性始终用固定选项 ID 关联，不能以乱序后的展示字母判分。
 
 这套结构允许后续从同一数据库生成小程序、Anki、PDF 或乱序卷；输出端应读取固定 ID、原始位置、来源及三态正确标记，不应把未知当作错误答案。现有 JSON/JSONL 仍作为可移植的导出和重建源；未来若增加人工核准答案，应设计独立版本化覆写来源，不能直接改生成库后被下次重建覆盖。
 

@@ -1897,7 +1897,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet. Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions. However, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional",
+              "text": "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "However, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional",
               "flags": [
                 false,
                 false,
@@ -2431,9 +2457,27 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 南京长江大桥是长江上首座由中国设计、采用国产材料建造的铁路、公路两用桥，上层的4 车道公路桥长4589米，下层的双轨道铁路桥长6772米。铁路桥连接原来的天津一浦口和上海一南京两条铁路线，使火车过江从过去一个半小时缩短为现在的2 分钟。大桥是南北交通的重要枢纽，也是南京的著名景点之一。 南京长江大桥的建成标志着中国桥梁建设的一个飞跃，大大方便了长江两岸的物资交流和人员来往，对促进经济发展和改善人民生活起到了巨大作用。",
+              "text": "南京长江大桥是长江上首座由中国设计、采用国产材料建造的铁路、公路两用桥，上层的4 车道公路桥长4589米，下层的双轨道铁路桥长6772米。铁路桥连接原来的天津一浦口和上海一南京两条铁路线，使火车过江从过去一个半小时缩短为现在的2 分钟。大桥是南北交通的重要枢纽，也是南京的著名景点之一。",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "南京长江大桥的建成标志着中国桥梁建设的一个飞跃，大大方便了长江两岸的物资交流和人员来往，对促进经济发展和改善人民生活起到了巨大作用。",
               "flags": [
                 false,
                 false,

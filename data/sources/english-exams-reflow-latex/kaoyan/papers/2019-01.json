@@ -4719,7 +4719,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Suppose you are working for the “Aiding Rural Primary School” project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project. You should write about 100 words on the ANSWER SHEET. ",
+              "text": "Suppose you are working for the “Aiding Rural Primary School” project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write about 100 words on the ANSWER SHEET. ",
               "flags": [
                 false,
                 false,

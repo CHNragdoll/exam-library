@@ -4498,7 +4498,20 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Restrictions on the use of plastic bags have not been so successful in some regions. “White Pollution” is still going on. Write a letter to the editor (s) of your local newspaper to",
+              "text": "Restrictions on the use of plastic bags have not been so successful in some regions. “White Pollution” is still going on.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write a letter to the editor (s) of your local newspaper to",
               "flags": [
                 false,
                 false,

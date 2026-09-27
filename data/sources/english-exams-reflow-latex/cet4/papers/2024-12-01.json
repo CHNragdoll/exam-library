@@ -2742,7 +2742,21 @@
               ]
             },
             {
-              "text": " of space to different frequencies. “We don’t know why we are seeing these patterns,” Kanold said. “We ",
+              "text": " of space to different frequencies.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "“We don’t know why we are seeing these patterns,” Kanold said. “We ",
               "flags": [
                 false,
                 false,
@@ -2765,8 +2779,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -4247,7 +4260,33 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "yields, leading to the prices of chocolates skyrocketing. Scientists, however, are trying to find a long-term and eco-friendly solution to this problem! They are trying to modify the species with a gene-editing technology, which will transform the seedlings into a species that survives even in a drier and warmer climate. According to a report by ",
+              "text": "yields, leading to the prices of chocolates skyrocketing.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Scientists, however, are trying to find a long-term and eco-friendly solution to this problem! They are trying to modify the species with a gene-editing technology, which will transform the seedlings into a species that survives even in a drier and warmer climate.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "According to a report by ",
               "flags": [
                 false,
                 false,
@@ -4685,9 +4724,14 @@
                 false,
                 true
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " 中国政府十分重视环境保护。近年来，中国在减少空气、水和土壤污染上取得了显著成效。为了不断改善人们的生活环境，中国采取了一系列有效措施，包括大力发展清洁能源，改善公共交通，推广共享单车，实施垃圾分类。通过这些措施，中国的城市和农村正在绿起来、美起来。中国还积极参与国际合作，为全球环境保护做出了重要贡献。",
+              "text": "中国政府十分重视环境保护。近年来，中国在减少空气、水和土壤污染上取得了显著成效。为了不断改善人们的生活环境，中国采取了一系列有效措施，包括大力发展清洁能源，改善公共交通，推广共享单车，实施垃圾分类。通过这些措施，中国的城市和农村正在绿起来、美起来。中国还积极参与国际合作，为全球环境保护做出了重要贡献。",
               "flags": [
                 false,
                 false,

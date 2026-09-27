@@ -1268,7 +1268,46 @@
                 {
                   "text": "She is a real expert at house decorations.",
                   "flags": [
-                    true,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "runs": [
+                {
+                  "text": "She is really impressed by the man's house.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
+                  "text": "She is well informed about the design business.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "She is attracted by the color of the sitting room.",
+                  "flags": [
+                    false,
                     false,
                     false
                   ]
@@ -1278,333 +1317,211 @@
           ]
         },
         {
-          "type": "source_line",
-          "bbox": [
-            44.6800537109375,
-            350.239990234375,
-            511.2889099121094,
-            542.0175170898438
-          ],
-          "font_size": 12.5,
+          "type": "question",
           "runs": [
             {
-              "text": "B) She is really impressed by the man's house.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "C) She is well informed about the design business.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "D) She is attracted by the color of the sitting room.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "13. A) From a construction businessman.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": " ",
+              "text": "13.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
             {
-              "text": "C) From home design magazines.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "A",
+              "runs": [
+                {
+                  "text": "From a construction businessman.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "B) From his younger brother Greg.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "From his younger brother Greg.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "From home design magazines.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "��",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                307.510009765625,
-                420.989990234375,
-                320.768798828125,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "From a professional interior designer.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
             {
-              "text": "����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                326.010009765625,
-                420.989990234375,
-                352.1937255859375,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                356.1500244140625,
-                420.989990234375,
-                361.53753662109375,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                365.1900329589844,
-                420.989990234375,
-                399.5557556152344,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                399.5690612792969,
-                420.989990234375,
-                423.30975341796875,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "��������",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                426.7900390625,
-                420.989990234375,
-                463.60748291015625,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": " ",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "�����",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                467.2000427246094,
-                420.989990234375,
-                497.3133239746094,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": "n",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "���",
-              "flags": [
-                false,
-                false,
-                false
-              ],
-              "glyph_box": [
-                497.3260192871094,
-                420.989990234375,
-                510.2889099121094,
-                437.8274841308594
-              ],
-              "glyph_font_size": 12.5,
-              "glyph_origin_y": 433.989990234375
-            },
-            {
-              "text": "14. A) The cost was affordable.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": " ",
+              "text": "14.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
             {
-              "text": "C) The effort was worthwhile.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "A",
+              "runs": [
+                {
+                  "text": "The cost was affordable.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "B) The style was fashionable.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "The style was fashionable.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": " ",
+              "label": "C",
+              "runs": [
+                {
+                  "text": "The effort was worthwhile.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "runs": [
+                {
+                  "text": "The effect was unexpected.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "15.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "options",
+          "items": [
             {
-              "text": "D) The effect was unexpected.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "A",
+              "runs": [
+                {
+                  "text": "She'd like him to talk with Jonathan about a new project.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "15. A) She'd like him to talk with Jonathan about a new project.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "B",
+              "runs": [
+                {
+                  "text": "She'd like to show him around her newly-renovated house.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "B) She'd like to show him around her newly-renovated house.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "C",
+              "runs": [
+                {
+                  "text": "She wants to discuss the house decoration budget with him.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             },
             {
-              "text": "C) She wants to discuss the house decoration budget with him.",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "D) She wants him to share his renovation experience with her.",
-              "flags": [
-                true,
-                false,
-                false
+              "label": "D",
+              "runs": [
+                {
+                  "text": "She wants him to share his renovation experience with her.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]
@@ -2864,7 +2781,7 @@
         }
       ],
       "source_page": 2,
-      "inline_glyphs": 1
+      "inline_glyphs": 0
     },
     {
       "blocks": [
@@ -26735,6 +26652,19 @@
           "type": "question",
           "runs": [
             {
+              "text": "40. Whether poor kids in San Jose today still have the chance to move upward is questionable.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
               "text": "41. San Jose's officials are resolved to give poor kids access to the resources necessary for success in life.",
               "flags": [
                 true,
@@ -28264,7 +28194,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "Part of the reason for the increased pressure on . schools is that there are now fewer ' early",
@@ -28273,12 +28203,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "intervention ",
               "flags": [
@@ -37626,15 +37559,13 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "There are already, examples of innovative schools which combine mental health and well being",
               "flags": [
@@ -37691,8 +37622,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "question",
@@ -38173,15 +38103,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "If you're wondering who would buy the medium soda, the answer is almost-no one. In fact, there's a",
               "flags": [
@@ -38253,15 +38180,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "phenomenon extensively after noticing pricing for ",
               "flags": [
@@ -38391,15 +38315,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Brain scientists call this effect\"asymmetric dominance\" and it means that people gravitate toward the",
               "flags": [
@@ -38439,15 +38360,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "The decoy effect works because of the way our brains. assign value when making choices. Value is",
               "flags": [

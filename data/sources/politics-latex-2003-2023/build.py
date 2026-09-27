@@ -12,6 +12,12 @@ from lxml import html as lh
 from formula_style import display_style
 ROOT=Path(__file__).resolve().parent
 MATH=re.compile(r'\\\((.*?)\\\)|\\\[(.*?)\\\]',re.S)
+CONTINUATION_DISPLAY_RE=re.compile(r'^\s*第\s*\d+\s*题\s*[（(]续[）)]\s*[:：]?\s*')
+def visible_question_text(text):
+ return CONTINUATION_DISPLAY_RE.sub('',text,count=1).strip()
+def continuation_marker(text):
+ match=CONTINUATION_DISPLAY_RE.match(text)
+ return match.group(0).strip() if match else ''
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def esc(s):return html.escape(str(s),quote=True)
 def tex_escape(s):
@@ -38,12 +44,16 @@ def cell_tex(s,break_arrows=False):
  for m in MATH.finditer(s):
   parts.extend([plain(s[start:m.start()]),body_tex(m[0])]);start=m.end()
  return ''.join(parts)+plain(s[start:])
-def split_choices(text):
- matches=list(re.finditer(r'(?:(?<!\S)|(?<=[。；：]))([ABCDE])[.．]\s*',text))
+def split_choices(text, printed_duplicate_c=False):
+ # The printed 2020 question 1 uses a bare "A 《...》" label; keep its
+ # transcription while rendering it as the first option alongside B-D.
+ punctuation='[.．、]' if printed_duplicate_c else '[.．]'
+ matches=list(re.finditer(r'(?:(?<!\S)|(?<=[。；：]))([ABCDE])(?:'+punctuation+r'|(?=\s+《))\s*',text))
  labels=[m[1] for m in matches]
  # An A option may end the source page while B-D continue on the next.
  single_a=labels==['A'] and re.match(r'^\s*\d{1,2}[.．、]',text)
- if (len(labels)<2 and not single_a) or len(set(labels))!=len(labels) or ''.join(labels) not in 'ABCDE':return None
+ printed_labels=labels==['A','B','C','C'] if printed_duplicate_c else False
+ if (len(labels)<2 and not single_a) or (len(set(labels))!=len(labels) and not printed_labels) or (''.join(labels) not in 'ABCDE' and not printed_labels):return None
  options=[(m[1],text[m.end():matches[i+1].start() if i+1<len(matches) else len(text)].strip()) for i,m in enumerate(matches)]
  if not all(value for _,value in options):return None
  visible=[re.sub(r'\\[A-Za-z]+|[{}]','',value) for _,value in options]
@@ -104,16 +114,40 @@ def main():
       anchor=f'p{pn}-b{bi}';anchors.append((anchor,text));out.append(f'<h2 id="{anchor}">{prose(text)}</h2>');texparts.append(r'\subsection*{'+body_tex(text)+'}')
      elif kind=='paragraph':
       cls='paragraph question' if re.match(r'^\s*\d{1,2}[．.、]',text) else 'paragraph'
-      choices=split_choices(text) if spec['kind']=='questions' else None
+      paragraphs=b.get('paragraphs')
+      if paragraphs:
+       assert len(paragraphs)>1 and all(isinstance(part,str) and part.strip() for part in paragraphs),(sid,pn,bi)
+       assert re.sub(r'\s+','',text)==re.sub(r'\s+','',''.join(paragraphs)),(sid,pn,bi,'paragraph text mismatch')
+       wrapper='paragraph-group question' if 'question' in cls else 'paragraph-group'
+       visible_parts=[(continuation_marker(raw),visible_question_text(raw)) for raw in paragraphs]
+       out.append(f'<div class="{wrapper}">'+''.join(
+        '<p class="paragraph'+(' material-label' if re.fullmatch(r'材料\s*\d+',part) else '')+'"'+(' hidden' if marker and not part else '')+'>'+
+        (f'<span class="source-continuation-label" hidden>{prose(marker)}</span>' if marker else '')+prose(part)+'</p>'
+        for marker,part in visible_parts)+'</div>')
+       texparts.append('\n\n'.join(body_tex(part) for _,part in visible_parts if part))
+       continue
+      display_text=visible_question_text(text)
+      marker=continuation_marker(text)
+      hidden_label=f'<span class="source-continuation-label" hidden>{prose(marker)}</span>' if marker else ''
+      if not display_text:
+       out.append(f'<p class="{cls}" hidden>{hidden_label}</p>')
+       continue
+      # The 2005 original prints C twice for Q3. Preserve all four printed
+      # alternatives and let the structured record remain partial.
+      printed_duplicate_c=(sid=='2005-questions' and pn==1 and bi==8 and
+                           display_text.startswith('A、认识总是滞后于实战'))
+      choices=split_choices(display_text,printed_duplicate_c) if spec['kind']=='questions' else None
       if choices:
        prefix,options,cols=choices
+       if hidden_label:out.append(f'<p class="{cls}" hidden>{hidden_label}</p>')
        if prefix:out.append(f'<p class="{cls}">{prose(prefix)}</p>');texparts.append(body_tex(prefix)+'\n')
-       out.append(f'<div class="choices choices-{cols}">'+''.join('<div class="choice"><b>'+label+'.</b><span>'+prose(value)+'</span></div>' for label,value in options)+'</div>')
+       separator='、' if printed_duplicate_c else '.'
+       out.append(f'<div class="choices choices-{cols}">'+''.join('<div class="choice"><b>'+label+separator+'</b><span>'+prose(value)+'</span></div>' for label,value in options)+'</div>')
        col=r'>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-'+str(2*cols)+r'\tabcolsep)/'+str(cols)+r'\relax}'
-       cells=[r'\textbf{'+label+'.} '+cell_tex(value) for label,value in options]
+       cells=[r'\textbf{'+label+separator+'} '+cell_tex(value) for label,value in options]
        rows=[' & '.join(cells[i:i+cols]+['']*(cols-len(cells[i:i+cols])))+r'\\[.35em]' for i in range(0,len(cells),cols)]
        texparts.append(r'\begin{center}\begin{tabular}{'+col*cols+'}\n'+'\n'.join(rows)+r'\end{tabular}\end{center}')
-      else:out.append(f'<p class="{cls}">{prose(text)}</p>');texparts.append(body_tex(text)+'\n')
+      else:out.append(f'<p class="{cls}">{hidden_label}{prose(display_text)}</p>');texparts.append(body_tex(display_text)+'\n')
      elif kind=='display':out.append('<div class="display">'+formula(b['tex'],True)+'</div>');texparts.append(r'\[\fitmath{'+display_style(b['tex'])+r'}\]')
      elif kind=='code':
       assert r'\end{Verbatim}' not in text
