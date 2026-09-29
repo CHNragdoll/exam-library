@@ -29,7 +29,8 @@ class PoliticsEssayAnswerTests(unittest.TestCase):
         self.assertNotIn("-8 -", questions["36"]["stem"])
         source = {block["id"]: block for block in paper["blocks"]}
         self.assertIn("二。二O年", source["b-7-1"]["text"])
-        self.assertIn("-8 -", source["b-8-2"]["text"])
+        self.assertTrue(source["b-8-2"]["text"].endswith("摘自《邓小平文选》第二卷"))
+        self.assertNotIn("-8 -", source["b-8-2"]["text"])
 
     def test_2010_to_2020_source_essays_link_without_attached_2020_residue(self):
         documents = {doc["id"]: doc for doc in json.loads(

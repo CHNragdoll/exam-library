@@ -1,0 +1,3568 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2021-06-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+  "sourcePdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+  "paragraphs": [
+    {
+      "id": "cet6:2021-06-03:p:b-1-3",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay based on the chart below. You",
+      "sourceHash": "e32207dc13e288f22a290b8fde9f51e45f6c9cad517889a69ff82654c557733b",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间根据下表写一篇文章。你",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-5",
+      "paperId": "cet6:2021-06-03",
+      "kind": "writing_prompt",
+      "sourceText": "alleviation. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "f885e7613dde87ac0cf99f75ffdb052956086a1cc16991bc17acff39576c880b",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "缓解。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-7",
+      "paperId": "cet6:2021-06-03",
+      "kind": "writing_prompt",
+      "sourceText": "Sources: China's National Bureau of Statistics, China's State Council Leading Group Office of Poverty Alleviation and Development",
+      "sourceHash": "dba43df413e7f2c981617fa6b8be2ab58f9426fba9fb8f92d23ac3a1f89fbdc6",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "资料来源：国家统计局、国务院扶贫开发领导小组办公室",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "heading_prose",
+      "sourceText": "Part ][ Listening Comprehension (30 minutes)",
+      "sourceHash": "0094fabb9669afd7fd2aec410db412fb8817326ecfb269641d31a716e504fbd7",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "部分][ 听力理解（30 分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-10",
+      "paperId": "cet6:2021-06-03",
+      "kind": "heading_prose",
+      "sourceText": "Part ][ Reading Comprehension ( 40 minutes)",
+      "sourceHash": "d1d8a038daac3eb2b7bc2ac1fe8f8d42c199246ae87ffba74c2e3260cd9696dc",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "部分][阅读理解（40分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-12",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section , there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word. bank following the passage. Read the passage through carefully before making your choices; Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with. a. single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "e1d4689ae8ad37de50ef68e4a39fb2e650b5c570228df12806bece8d379147a3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从单词给出的选项列表中为每个空白选择一个单词。银行跟随通道。在做出选择之前仔细阅读本文；银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上标出相应的字母。一个。单线穿过中心。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-13",
+      "paperId": "cet6:2021-06-03",
+      "kind": "cloze",
+      "sourceText": "At 43, I've reached the stage where women are warned to watch out for the creeping sadness of middle age. We're served up an endless stream of advice on \"how to survive your 40s\", as if we're in the endurance stage of a slow limp toward 26 . This is the age women start to become \"invisible\"-our value, attractiveness and power supposedly 27 by the vanishing of youth. But I don't feel like I'm fading into 28 . I feel more seen than I ever have, and for. the first time in my life, I have a clear-eyed view of myself that is 29 , compassionate and accepting.",
+      "sourceHash": "0872d9e9b724955655bf29b851d35f52653b474c5a4cdf9285a4f31605977fe3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-14",
+      "paperId": "cet6:2021-06-03",
+      "kind": "cloze",
+      "sourceText": "When I look in the mirror, I'm proud of who I am-even those \"broken\" parts that for so long seemed impossible to love. So when advertisers try to sell me ways to \"turn back the clock\", I have to",
+      "sourceHash": "8846a929f6196001ce8e2bae4bc1846b936cd05e39a2c67321e3648196673aaa",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-15",
+      "paperId": "cet6:2021-06-03",
+      "kind": "cloze",
+      "sourceText": "30 a laugh. I wouldn't go back to the crippling self-consciousness of my youth if you paid me. This hard-won sense of self-acceptance is one of the joys of being an older woman. But it's a narrative often",
+      "sourceHash": "9aad3bc3af0d92fe616beb1161e1a15e886a49590966554fb182c3507693e3ff",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-1-16",
+      "paperId": "cet6:2021-06-03",
+      "kind": "cloze",
+      "sourceText": "31 out by the shame that marketers rely on to peddle us their diet pills, miracle face creams and breathable yoga pants-as if self-love is a 32 commodity.",
+      "sourceHash": "e0a9a7e791561c297dcc0c4f60faf78a7672f02d1cecf1c26e5e1c7ef8d73145",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-1-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-17"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-1",
+      "paperId": "cet6:2021-06-03",
+      "kind": "cloze",
+      "sourceText": "For some women I know, this sense of trust and self-belief later in life gave them the courage to leave dysfunctional relationships or 33 on new career paths. Others talked about enjoying their own company, of growth through 34 , deepening bonds of friendships, the ability to be more compassionate, less judgmental and to listen more and appreciate the small pleasures. Life past 40 is far from smooth sailing, but it's so much more than the reductive 35 we see in women's magazines and on the Hollywood big screen.",
+      "sourceHash": "784f23791ed285d6229e0645c26f2fdb3023f2081279b8fa262054e1ed5d5b09",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-4",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2 .",
+      "sourceHash": "c8712b56093c3648beb0ad7ce2d1f822a7c0b6f10fa611b2ff01ee87ce5c0b38",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-5",
+      "paperId": "cet6:2021-06-03",
+      "kind": "heading_prose",
+      "sourceText": "What Are the Ethics of CGI Actors-And Will They Replace Real Ones?",
+      "sourceHash": "4f6fbfe0ff52c9ef38d5ef81ce37134523efeff62b3c7de68c8fa79a93b4a5f4",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "CGI演员的道德是什么——他们会取代真人吗？",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-6",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) Digital humans are coming to a screen near you. As computer-generated imagery ( CGI) has become cheaper and more sophisticated, the film industry can now convincingly recreate people on screen­ even actors who have been dead for decades. The technology's ability to effectively keep celebrities alive beyond the grave is raising questions about public legacies and image rights.",
+      "sourceHash": "94201829f63b9bf6a0aaceb2abd1765f1e4505c0c8c99ba39f6417316ce03cf5",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 数字人类即将出现在您附近的屏幕上。随着计算机生成图像（CGI）变得更加便宜和复杂，电影业现在可以令人信服地在银幕上重现人物，甚至是已经去世几十年的演员。该技术能够有效地让名人在死后继续存活，这引发了人们对公共遗产和肖像权的质疑。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-7",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) Late in 2019, it was announced that US actor James Dean, who died in 1955, will star in a Vietnam War film scheduled for release later this year. In the film, which will be called Finding Jack , Dean will be recreated on screen with CGI based on old footage �������� and photographs, with another actor voicing him. The news was met with excitement by those keen to see Dean digitally brought back to life for only his fourth film, but it also drew sharp criticism. \"This is puppeteering the dead for their fame alone,\" actress Zelda Williams wrote on Twitter. \"It sets such an awful precedent for the future of performance.\" Het father, Robin Williams, who·died in 2014, was-keen to avoid the same:fate, Before his death, he filed a deed protecting the use of his image until 2039, preventing others from recreating him using CGI to appear in a film, TV show or as a hologram ����������.",
+      "sourceHash": "c1745cc8af5e3d4c4d26dec7dd82ee5911d592ed169b8d79834d653afed1330c",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) The James Dean film is a way to keep the actor's image relevant for younger generations, says Mark Roesler of CMG Worldwide, the firm that represents Dean's estate. \"I think this is the beginning of an entire wave,\" says Travis Cloyd, CEO of Worldwide XR, one of the companies behind the digital recreation of Dean. \"Moving into the future, we want James Dean to be brought into different gaming environments, or different virtual reality environments, or augmented reality environments,\" he says.",
+      "sourceHash": "2ac08d28f7a98df2b39d1fdf1128fc1e19cdfff03fdbbc6397b4972b3024831e",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 代表迪恩遗产的 CMG Worldwide 公司的马克·罗斯勒 (Mark Roesler) 表示，詹姆斯·迪恩的电影是让演员形象与年轻一代保持联系的一种方式。 Worldwide XR 的首席执行官特拉维斯·克洛伊德 (Travis Cloyd) 表示：“我认为这是整个浪潮的开始。”该公司是迪恩数字娱乐背后的公司之一。 “展望未来，我们希望詹姆斯·迪恩能够进入不同的游戏环境、不同的虚拟现实环境或增强现实环境，”他说。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-2-9",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) Other actors have been revived, with the permission of their estates, for advertising purposes: for example, a 2011 advertisement for Dior featured contemporary actress Charlize Theron alongside iconic 20th-century stars Marilyn Monroe, Grace Kelly and Marlene Dietrich. Later, Audrey Hepburn was digitally recreated for a chocolate commercial in 2013. In the same year, a CGI Bruce Lee appeared in a Chinese-language ad for a whisky brand, which offended many fans because Lee was widely known not to drink alcohol at all. \"In the last five years, it's become more affordable and more achievable in a whole movie,\" says Tim Webber at UK visual effects firm Framestore, the company behind the Hepburn chocolate ad. Framestore used body doubles with resemblance to Hepburn's facial structure and body shape as a framework for manual animation. The process was extremely difficult and expensive, says Webber, but the technology has moved on.",
+      "sourceHash": "d9d133543e385174912660e3430ed0a4d66ac102b0ee60cceb177c70591dab5c",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 其他演员在获得其财产许可后，也出于广告目的而复活：例如，2011 年迪奥 (Dior) 的广告以当代女演员查理兹·塞隆 (Charlize Theron) 为主角，与 20 世纪标志性明星玛丽莲·梦露 (Marilyn Monroe)、格蕾丝·凯利 (Grace Kelly) 和玛琳·黛德丽 (Marlene Dietrich) 一起亮相。后来，奥黛丽·赫本在2013年的巧克力广告中被数字化再现。同年，CGI李小龙出现在一个威士忌品牌的中文广告中，这冒犯了许多粉丝，因为李小龙众所周知不喝酒。英国视觉效果公司 Framestore 的蒂姆·韦伯 (Tim Webber) 表示：“在过去的五年里，整部电影变得更加经济实惠、更容易实现。”该公司是赫本巧克力广告的幕后制作公司。 Framestore 使用与赫本面部结构和体型相似的替身作为手动动画的框架。韦伯说，这个过程极其困难且昂贵，但技术已经发展起来。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-1",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) Now, a person can be animated from scratch. \"If they're alive today, you can put them in scanning rigs, you can get every detail of their body analysed very carefully and that makes it much easier, whereas working from available photographs is tricky,\" says Webber, who won an Academy Award for his visual effects work on the 2013 film Gravity. \"I also see a lot of actors today who will have the desire to take advantage of this technology: to have their likeness captured · and stored for future content,\" says Cloyd. \"They foresee this being something that could give their estates and give their families the ability to make money from their likeness when they're gone.\"",
+      "sourceHash": "28baa7b64ef4f3271dcea713866af5decd5a63460b842b02e0c8edc67342026a",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 现在，一个人可以从头开始制作动画。 “如果他们今天还活着，你可以把他们放在扫描装置中，你可以非常仔细地分析他们身体的每一个细节，这会让事情变得更加容易，而根据现有的照片进行工作是很棘手的，”韦伯说，他因在 2013 年电影《地心引力》中的视觉效果工作而获得了奥斯卡奖。 “我今天还看到很多演员都希望利用这项技术：捕捉他们的肖像并存储起来以供将来使用，”克洛伊德说。 “他们预计这可以让他们拥有遗产，让他们的家人在他们去世后能够通过他们的肖像赚钱。”",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-2",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) A hidden hazard of digitally recreating a deceased ���������� celebrity is the risk of damaging their legacy. \"We have to respect the security and the integrity of rights holders,\" says John Canning at Digital Domain, a US firm that created a hologram rapper (ill,nSt:.AJ·Tupac Shakur, which appeared at the Coachella music festival in 201Z, 15 years after his death.",
+      "sourceHash": "0dbd17ee621bee4d7f0463a26373904f007fda29d0a9cc2f9a0010d404c7af50",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-3",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) Legally, a person's rights to control the commercial use of their name and image beyond their death differ between and even within countries. In certain US states, for example, these rights are treated similarly to property rights, and are transferable to a person's heirs. In California; under the Celebrities Rights Act, the personality rights for a celebrity last for 70 years after their death. \"We've says Lilian Edwards at Newcastle University, UK. Should the public be allowed to use or reproduce images of famous people, given how iconic they are? And what is in. the best interest of a deceased person's legacy may conflict with the desires of their family or the public, says Edwards.",
+      "sourceHash": "1b6e121d190b80e0be25179449082f4b0f5270bfad3b4441e9cf8118298eff80",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-4",
+        "cet6:2021-06-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-3",
+        "cet6:2021-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-4",
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-3",
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-6",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) A recreation, however lifelike, will never be indistinguishable from a real actor, says Webber. \"When we are bringing someone back, representing someone who is no longer alive on the screen, what we are doing is extremely sophisticated digital make\"\".up,\" he says; \"A performance is a lot more than a physical resemblance.\"",
+      "sourceHash": "83df38e10c641bb9b9631b9297414c71e4e230116a52784bca6223fe4949a3b5",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 韦伯说，无论多么逼真，娱乐作品都永远不会与真正的演员没有区别。 “当我们把某个人带回来，代表一个已经不在人世的人出现在银幕上时，我们所做的是极其复杂的数字制作”，他说； “表演不仅仅是外表上的相似。”",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-7",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) As it becomes easier to digitally recreate celebrities and to entirely manufacture on'.\"screen identities, could this kind of technology put actors out of jobs? \"J think actors are worried about this,\" says Edwards. \"But I think it will take a very long time. \" This is partly because of the risk that viewers find virtual humans scary. Edwards cites widespread backlash to the digital recreation of Carrie Fisher as· a young Princess Leia in Rogue One, a trick later repeated in the recent Star Wars: The Rise of Skywalker, which was filmed after Fisher's death in 2016. \"People didn't like it,\" she says. \"They discovered the uncanny valley ��������.\"",
+      "sourceHash": "d8b000085464fce383f3d9f76062e16a955fb80ac5e522ea91fc0b85126739f8",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) This refers to the idea that when objects trying to resemble humans aren't .quite perfect, they can make viewers feel uneasy because they fall somewhere between obviously non-human and fully human. \"That's always a danger when you're doing anything human or human-like,\" says Webber. \"There're a thousand things that could go wrong with a computer-generated facial performance, and any one of those could make it fall into the uncanny valley,\" he says·; \"Your brain j°:st knows there's something wrong.\" The problem often arises around the eyes or mouth, says Webber.. \"They're the areas that you look at when you're talking to someone.\"",
+      "sourceHash": "047536ec9d7208ee7d47083614130735c72f489fd785eecbc4a21f996bd6a5b3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 这是指当试图模仿人类的物体不太完美时，它们会让观众感到不安，因为它们介于明显非人类和完全人类之间。韦伯说：“当你做任何人类或类似人类的事情时，这总是一个危险。” “计算机生成的面部表演可能会出现一千个问题，其中任何一个都可能使其陷入恐怖谷，”他说。 “你的大脑知道出了什么问题。”韦伯说，问题通常出现在眼睛或嘴巴周围。“这些是你与某人交谈时所注视的区域。”",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-9",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) An unfamiliar digital human that has been created through CGI will also face the same challenge as an unknown actor: they don't have the appeal of an established name. \"You have to spend substantial capital in creating awareness around their likeness and making sure people are familiar with who they are,\" says Cloyd. This is now starting to happen. \"The way you pre-sell a movie in a foreign market is based on relevant talent,\" he says. \"I think we're a long way away from having virtual beings that have the ability to pre-sell content.\"",
+      "sourceHash": "786297bc421ed33077847f04c170707d5af9368051c709b1b9b7b36447da06c2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 通过 CGI 创建的陌生数字人也将面临与未知演员相同的挑战：他们没有既定名字的吸引力。克洛伊德说：“你必须花费大量资金来提高人们对他们的相似性的认识，并确保人们熟悉他们是谁。”现在这种情况已经开始发生。 “在国外市场预售电影的方式取决于相关人才，”他说。 “我认为我们距离拥有能够预售内容的虚拟生物还有很长的路要走。”",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-3-10",
+      "paperId": "cet6:2021-06-03",
+      "kind": "passage_option",
+      "sourceText": "L) Webber expects that we will see more digital humans on screen. \"It's happening because it can happen,\" he says. Referring to a line from JurassicPark ������������, he adds: \"People are too busy thinking about what they c·an do to think about whether they should do it.\"",
+      "sourceHash": "6a91bd8d81a7f6ade43e6ed68eac9a55094b01ea347968f203e2ab8ea331d71c",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-1",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36. There is an ongoing debate among the public as to whether the images of deceased celebrities should be recreated.",
+      "sourceHash": "d9808d93ddfc9d58e3bcd70b08c36da7b1f796c74c05892dc82538b5700d5642",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 公众对于是否应该重建已故名人的形象一直存在争论。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-2",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37. The COi technology allows the image of the deceased James Dean to be presented to young people in new settings.",
+      "sourceHash": "868f4be644fdf953877e890f8bb941354243eb8491f22f8e69788c18b56f3222",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. COi 技术使已故詹姆斯·迪恩的形象能够在新的环境中呈现给年轻人。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-3",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38. It is very likely that the COi-recreated image of a deceased celebrity will fail to match the real actor especially in facial expressions.",
+      "sourceHash": "a55a0610d4252e7005a21c2ae5d68c231947756dbfcb3cca9ef69d6f4dd72fbe",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. COi 重现的已故名人形象很可能与真实演员不相符，尤其是面部表情。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-4",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39. The use of digital technology can bring images of deceased celebrities back to the screen.",
+      "sourceHash": "7de76bdac2b2e6628e88f52d6b04087afc89c3df0900194df90fb2358ac538e2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 数字技术的使用可以将已故名人的图像带回到屏幕上。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-5",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Recreating a deceased famous actor or actress may violate their legitimate rights.",
+      "sourceHash": "b69b5d070f4f3a0d3567c694fa18aee0e0334efb9aa4bd16cdbbe449de553406",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 重新塑造已故的著名演员可能会侵犯他们的合法权利。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-6",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41. More COi-recreated images of deceased celebrities are expected to appear on screen.",
+      "sourceHash": "f2147160fb4fd0ec061d314cc41f6e75d47d54994510332d40b46c825023ef87",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 更多 COi 重建的已故名人图像预计将出现在屏幕上。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-7",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42. The image of James Dean will be recreated on screen with his voice dubbed by someone else.",
+      "sourceHash": "e7061945ca7ba69c4e2a4e0e36dccaf2413df94e9f8cf54f9999f405e037630d",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 詹姆斯·迪恩的形象将在屏幕上重现，他的声音由其他人配音。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43. However advanced the COi technology is, the recreated image will differ in a way from the real actor.",
+      "sourceHash": "3c7ff9235eb5fd932dc26dd2524d55d38f7c1f10c7a5729f05c10f0f5a19e5e3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 无论 COi 技术多么先进，重建的图像都会与真实演员有所不同。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-9",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44. A lot of actors today are likely to make use of the COi technology to have their images stored for the benefit of their families.",
+      "sourceHash": "4ccaad8006ef643855733be48b918fb55a48a9d06cf710fb83d3f1069e4a4a67",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 如今，许多演员可能会利用 COi 技术来存储他们的图像，以造福家人。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-10",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Some actors are concerned that they may lose jobs because of the COi technology.",
+      "sourceHash": "1baf4e8189fc3cb0bdee25c8976b2c97fd60e80699ffd33be2c18a010ad6a191",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 一些行为者担心他们可能会因为 COi 技术而失业。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-12",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-14",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the foil owing passage.",
+      "sourceHash": "a31b80d065de9a16971b20370cbdd0afca93e1abf4555199fc9134c5267a954a",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 46 至 50 是基于箔欠段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-15",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "You can't see it, smell it, or hear it, and people disagree on how precisely to define it, or where exactly it comes from. It isn't a school subject or an academic discipline, but it can be learned. It is a quality that is required of artists, but it is also present in the lives of scientists and entrepreneurs. All of us benefit from it and we thrive mentally and spiritually when we are able to wield it. It is a delicate thing, easily stamped out; in fact, it flourishes most fully when people are playful and childlike. Meanwhile, it works best in conjunction with deep knowledge and expertise.",
+      "sourceHash": "c46b10bcd20d89029b3ed3d1f0a120bd167e1aac5eb28efe810722abb88042a8",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "你看不到它，闻不到它，也听不到它，而且人们对于如何精确地定义它，或者它到底来自哪里存在分歧。它不是一门学校科目或一门学科，但它是可以学习的。这是艺术家所需要的品质，但它也存在于科学家和企业家的生活中。我们所有人都能从中受益，当我们能够运用它时，我们的精神和精神都会蓬勃发展。这是一件很微妙的事情，很容易被消灭；事实上，当人们顽皮、天真时，它才能最充分地发挥作用。同时，它与深厚的知识和专业知识结合起来效果最好。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-16",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "This mysterious-but teachable-quality is creativity, the subject of a recently-published report by Durham· Commission on Creativity and Education; The report concludes that· creativity-should not inhabit the school curriculum only as it relates to drama, music, art and other obviously creative subjects, but that creative thinking ought to run through all of school life, infusing (jEr,ffi) the way humanities and natural sciences are learned.",
+      "sourceHash": "0f4f3043d986a457e7f72214f1dfa7bfcef4d3b351ea5ef5539e836caf1422e5",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这种神秘但可传授的品质就是创造力，这是达勒姆创造力与教育委员会最近发布的一份报告的主题；报告的结论是，创造力——不应该仅仅存在于学校课程中，因为它涉及戏剧、音乐、艺术和其他明显具有创造性的科目，而创造性思维应该贯穿整个学校生活，融入(jEr,ffi)人文和自然科学的学习方式。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-17",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "The authors, who focus on education in England, off er a number of sensible recommendations, some of which are an attempt to alleviate the uninspiring and fact-based approach to education that has crept into policy in recent years. When children are regarded as vessels to be filled with facts, creativity does not prosper; nor does it when teachers' sole objective is coaching children towards exams. One suggestion from the commission is a network of teacher-led \"creativity collaboratives\", along the lines of existing maths hubs. (中心) , with the aim of supporting teaching for creativity through the school curriculum.",
+      "sourceHash": "49fb52d88cc67e739c644deefb4cd65247ee70bd8553b26dbe948fbb509550f9",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "专注于英国教育的作者提出了许多明智的建议，其中一些建议试图缓解近年来已渗透到政策中的平庸且基于事实的教育方法。当孩子被视为装满事实的容器时，创造力就不会蓬勃发展；当教师的唯一目标是指导孩子参加考试时，情况也不会如此。该委员会的一项建议是，沿着现有数学中心的路线，建立一个由教师主导的“创造力合作组织”网络。 （中），旨在通过学校课程支持创造力教学。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-18",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Nevertheless, it is arts subjects through which creativity can most obviously be fostered. The value placed on them by the independent education sector is clear. One only has to look at the remarkable arts facilities at Britain's top private schools to comprehend this. But in the state sector the excessive focus on English, maths and science threatens to crush arts subjects; meanwhile, reduced school budgets mean diminishing extracurricular activities. There has been a 28.1 % decline in students taking creative subjects at high schools since 2014, though happily, art and design have seen a recent increase.",
+      "sourceHash": "a3a95a5c0823e890aad6a2c022bebaca49a1e6439ea224536054fd080f63f8d2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，最能明显培养创造力的是艺术学科。独立教育部门对他们的重视是显而易见的。只要看看英国顶级私立学校卓越的艺术设施就可以理解这一点。但在公立部门，过度关注英语、数学和科学可能会压垮艺术科目；与此同时，学校预算的减少意味着课外活动的减少。自 2014 年以来，高中选修创意课程的学生人数下降了 28.1%，但令人高兴的是，艺术和设计课程最近有所增加。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-4-19",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "This discrepancy between state and private education is a matter of social justice. It is simply wrong and unfair that most children have a fraction of the access to choirs, orchestras, art studios and drama that their more privileged peers enjoy. As lives are affected by any number of looming challenges-climate crisis, automation in the workplace-humans are going to need creative thinking more than ever. For all of our sakes, creativity in education, and for all, must become a priority.",
+      "sourceHash": "6e00ff9bc1b75a8050a3ccc87b0156de0e10e778b30747ca2b306a4c236b4167",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-4-19"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-4-19",
+        "cet6:2021-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "公立和私立教育之间的这种差异是一个社会正义问题。大多数孩子只有一小部分机会参加合唱团、管弦乐队、艺术工作室和戏剧，而他们的特权同龄人却享有这些机会，这是完全错误和不公平的。由于生活受到许多迫在眉睫的挑战（气候危机、工作场所自动化）的影响，人类将比以往任何时候都更需要创造性思维。为了我们所有人的利益，教育中的创造力和所有人的创造力必须成为优先事项。",
+      "source": {
+        "blockIds": [
+          "b-4-19"
+        ],
+        "reflowBlockIds": [
+          "b-4-19",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-2",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn from the passage about creativity?",
+      "sourceHash": "4b633d78868205ca7b894d846d2152dc0ec80e289c6729854abe44020384373d",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.我们从关于创造力的文章中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-4",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What is the conclusion of a recently-published report?",
+      "sourceHash": "9b3658f1e1932889587d408599948db4e2474ff000f0cb2abd0bc57a7f076ef2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 最近发表的一份报告的结论是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-6",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does the report say is detrimental to the fostering of creativity?",
+      "sourceHash": "d0074cbcd868db750301a1f45d1c5ce0d3803320d979b117ee0c85e7e906f738",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 报告认为什么不利于创造力的培养？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What do we learn about the private schools in the UK?",
+      "sourceHash": "772e98fb5b3f101dcb6ddfd4c6fa8af9b28fecd6675e756661f7ad160d22cbe3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 关于英国的私立学校，我们了解什么？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-10",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What should be done to meet the future challenges?",
+      "sourceHash": "1a3bc083d7466faaea181d5b503eb0a6f2f4a24ceb4f8904f239e600b4dccac2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 应该怎样应对未来的挑战？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-13",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-14",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Emulating your conversation partner's actions is a common human behavior classified as \"mirroring\" and has been known and studied by psychologists for years. We all tend to subconsciously copy gestures of people we like. But why do we act like this?",
+      "sourceHash": "0888a3f05ae31ef08572d7172671d795f2fef83e2f3f4b9050f258e8b770c6c4",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "模仿对话伙伴的行为是一种常见的人类行为，被归类为“镜像”，心理学家多年来已经了解和研究这一行为。我们都倾向于下意识地模仿我们喜欢的人的手势。但我们为什么要这样做呢？",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-15",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "As a rule, mirroring means that conversationalists enjoy their communication and that there's a certain level of agreement between them. The topic of discussion is equally interesting for both and they know their interests meet.",
+      "sourceHash": "0e9b372d1ca6da5ba9f0309b230a85d3e511e089db142feb94c66c2c8980a86f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "一般来说，镜像意味着健谈者喜欢他们的交流，并且他们之间存在一定程度的一致性。讨论的话题对双方来说同样有趣，而且他们知道自己的兴趣是一致的。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-16",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Repeating someone's behavior is typical of talented communicators, not always because the person is sympathetic, but because there is a goal to be achieved. This way new idols have been brought to the stage: politicians, celebrities, and other big names. Popular culture makes people want to look popular, and act and speak like popular people.",
+      "sourceHash": "b7d842e21e819b27aed58e977e931a4e702d0f5e2b981b21b2f3ba6b47819d9f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "重复某人的行为是有才华的沟通者的典型特征，并不总是因为这个人富有同情心，而是因为有一个要实现的目标。这样，新的偶像就被带到了舞台上：政客、名人和其他大牌人物。流行文化让人们想要看起来很受欢迎，并且像受欢迎的人一样行事和说话。",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-17",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Nowadays celebrities steal lyrics from each other and struggle with copyright violation accusations or straightforwardly claim themselves to be the authors, even though all the work was done by other people . •",
+      "sourceHash": "f5d0ddba386bb5ea0bec29b1f192d4c9864f2242ccce7febe889bf82fc2425e7",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如今，名人互相盗取歌词，并与侵犯版权的指控作斗争，或者直接声称自己是作者，尽管所有工作都是由其他人完成的。 •",
+      "source": {
+        "blockIds": [
+          "b-5-17"
+        ],
+        "reflowBlockIds": [
+          "b-5-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-18",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Among celebrities, it's trendy nowadays to use their own speech writers as politicians do. The so-called \"ghostwriting\" can take various forms: books, articles, autobiographies, and even social media posts.",
+      "sourceHash": "61c4e076191e41b6339d5fc6f1f114ff871e8fda1b953838c172a8eb4d9017b3",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在名人中，像政治家一样使用自己的演讲撰稿人是当今的一种时尚。所谓的“代笔”可以有多种形式：书籍、文章、自传，甚至社交媒体帖子。",
+      "source": {
+        "blockIds": [
+          "b-5-18"
+        ],
+        "reflowBlockIds": [
+          "b-5-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-5-19",
+      "paperId": "cet6:2021-06-03",
+      "kind": "reading",
+      "sourceText": "Who is a true copycat ������� and who gets copycatted? Sometimes, it is a hard nut to crack without an expert's help. But new authorship defending methods based on identifying individual writing patterns are already here. Their aim is to protect intellectual property. Using scientific methods, some of them can",
+      "sourceHash": "dcea968da75c2f69e96f5ae4e384be51c2024f416001b5f460a6310be2ae4c56",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-19"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-5-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-5-19"
+        ],
+        "reflowBlockIds": [
+          "b-5-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-2",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What do people tend to do while engaging in a conversation?",
+      "sourceHash": "342583630272423089467476563abb61df7be420acc07d7b9431f81d602467ea",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.人们在谈话时倾向于做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-4",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52. When does mirroring usually take place in a conversation?",
+      "sourceHash": "9b933491f898d2734104ceda08b4d716ad8da00002b5a68c48f1e6f7e3e656cb",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 谈话中镜像通常发生在什么时候？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-6",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What do we learn about popular culture?",
+      "sourceHash": "c44c5fe2514c03a8c177b1d81ee346db50cf0e7f8882863d5420eea7974018da",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.我们从流行文化中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-8",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. Why is the saying \"copy from two, it's research\" a lesson to learn?",
+      "sourceHash": "a9fd42a510faf8512f34f5d9deb7a7485d0253388101822378754a15975bef79",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.为什么“复制两个，这是研究”这句话值得学习？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-10",
+      "paperId": "cet6:2021-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. Why does the author say imitation is rather paradoxical?",
+      "sourceHash": "e2c04a5f1c3c6ed1397fd00f65be3c6aee80bf3f681d7163a7d41f247fce9178",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.为什么作者说模仿是相当自相矛盾的？",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-06-03:p:b-6-13",
+      "paperId": "cet6:2021-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part , you are allowed 30 minutes to translate a passage from Chinese into English . You should write your answer on Answer Sheet 2 .",
+      "sourceHash": "2841f402178921b2b7bef9d6ef8c24ed2f5ffa452968703abdb6b2e3235b8e8f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-6-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-06-03.json",
+        "pdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2021-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-46-1",
+      "optionId": "cet6:2021-06-03:q-46-1:A",
+      "sourceText": "It develops best when people are spiritually prepared.",
+      "sourceHash": "a403dc9228adeca4a4167900b1af76fd3e472c65682fe1376d9b5851e6bf885f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It develops best when people are spiritually prepared.",
+      "translationEligible": true,
+      "translationZh": "当人们在精神上做好准备时，它会发展得最好。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-46-1",
+      "optionId": "cet6:2021-06-03:q-46-1:B",
+      "sourceText": "It is most often wielded by scientists and entrepreneurs.",
+      "sourceHash": "719b4a6cdbc6724798dab4ec2e953579a162c0df6ff5524ed455585fab556c77",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is most often wielded by scientists and entrepreneurs.",
+      "translationEligible": true,
+      "translationZh": "它最常被科学家和企业家使用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-46-1",
+      "optionId": "cet6:2021-06-03:q-46-1:C",
+      "sourceText": "It is founded on scientific knowledge and analytical skills.",
+      "sourceHash": "40e3d7978a47cc5526d991ca0a136555973b895b7eafa44c1ed63079412197c7",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is founded on scientific knowledge and analytical skills.",
+      "translationEligible": true,
+      "translationZh": "它建立在科学知识和分析技能的基础上。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-46-1",
+      "optionId": "cet6:2021-06-03:q-46-1:D",
+      "sourceText": "It contributes to intellectual growth but can easily be killed.",
+      "sourceHash": "ecc6d781958f2ee9594cf170ed45c5df4add2f1e64332c1dfaddb269df62e986",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It contributes to intellectual growth but can easily be killed.",
+      "translationEligible": true,
+      "translationZh": "它有助于智力发展，但很容易被扼杀。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-47-1",
+      "optionId": "cet6:2021-06-03:q-47-1:A",
+      "sourceText": "Natural sciences should be learned the way humanities courses are.",
+      "sourceHash": "a870401b4512b97f21095a4702e5e6002616993e9b6935df65bc26dde285e202",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Natural sciences should be learned the way humanities courses are.",
+      "translationEligible": true,
+      "translationZh": "自然科学应该像人文课程一样学习。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-47-1",
+      "optionId": "cet6:2021-06-03:q-47-1:B",
+      "sourceText": "Cultivation of creativity should permeate the entire school curriculum.",
+      "sourceHash": "70316ec5aaee6464b0c5468a1b183d07a67a0035a20d199d59fb36accd6e0e1d",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Cultivation of creativity should permeate the entire school curriculum.",
+      "translationEligible": true,
+      "translationZh": "创造力的培养应该渗透到整个学校课程中。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-47-1",
+      "optionId": "cet6:2021-06-03:q-47-1:C",
+      "sourceText": "Art courses should be made compulsory for all students.",
+      "sourceHash": "632a464662dfe3dc99610cf683bfae8c72af886ec98ef9508b98c346b62c67f1",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Art courses should be made compulsory for all students.",
+      "translationEligible": true,
+      "translationZh": "艺术课程应成为所有学生的必修课。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-47-1",
+      "optionId": "cet6:2021-06-03:q-47-1:D",
+      "sourceText": "Students should learn more obviously creative subjects.",
+      "sourceHash": "fd4b075fe8f4ffe726d30ec19f1824482457d02bddcae78474b8cb442e9adfa6",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Students should learn more obviously creative subjects.",
+      "translationEligible": true,
+      "translationZh": "学生应该学习更多明显创造性的科目。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-48-1",
+      "optionId": "cet6:2021-06-03:q-48-1:A",
+      "sourceText": "Alleviation of pressure.",
+      "sourceHash": "7a700fe1a54f91395faea76404593aac787fc727d82327909bd2f50777f048dd",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Alleviation of pressure.",
+      "translationEligible": true,
+      "translationZh": "缓解压力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-48-1",
+      "optionId": "cet6:2021-06-03:q-48-1:B",
+      "sourceText": "Teacher-led school activities.",
+      "sourceHash": "88ea009619bde3be04d3e252a51358d06880bd8121b51389ad53ad73a78c742b",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Teacher-led school activities.",
+      "translationEligible": true,
+      "translationZh": "教师主导的学校活动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-48-1",
+      "optionId": "cet6:2021-06-03:q-48-1:C",
+      "sourceText": "Test-oriented teaching.",
+      "sourceHash": "91f64c812c1c93297ab44ab8ac892ed28456db7e1a8f4f2063ad5d08e5779e16",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Test-oriented teaching.",
+      "translationEligible": true,
+      "translationZh": "应试教学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-48-1",
+      "optionId": "cet6:2021-06-03:q-48-1:D",
+      "sourceText": "Independent learning.",
+      "sourceHash": "1bdef251c1821da41743c3c6a8b729441d0622bedf50c8c83c1b989a02cc062e",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Independent learning.",
+      "translationEligible": true,
+      "translationZh": "自主学习。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-49-1",
+      "optionId": "cet6:2021-06-03:q-49-1:A",
+      "sourceText": "They encourage extracurricular activities.",
+      "sourceHash": "0cfb00f6bd0fbcaa942b3f6069e4a1e0dd0342cf786d647fc524bd6c0b967cd2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They encourage extracurricular activities.",
+      "translationEligible": true,
+      "translationZh": "他们鼓励课外活动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-49-1",
+      "optionId": "cet6:2021-06-03:q-49-1:B",
+      "sourceText": "They attach great importance to arts education.",
+      "sourceHash": "ad5d71f6e14ef05ff0437dc8953ebaaf408a2bbb858fd539d73561826c122813",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They attach great importance to arts education.",
+      "translationEligible": true,
+      "translationZh": "他们非常重视艺术教育。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-49-1",
+      "optionId": "cet6:2021-06-03:q-49-1:C",
+      "sourceText": "They prioritize arts subjects over maths and sciences.",
+      "sourceHash": "ac37f687306f485c8d5e8f2257528b27c1caa41f99c96b5c84ceca0fd3e2bc68",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They prioritize arts subjects over maths and sciences.",
+      "translationEligible": true,
+      "translationZh": "他们优先考虑艺术科目而不是数学和科学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-49-1",
+      "optionId": "cet6:2021-06-03:q-49-1:D",
+      "sourceText": "They cater to students from different family backgrounds.",
+      "sourceHash": "67a3a05da0bf886a2b0f7eaf493291bd9743dcaf5feb0515efba78235f1937cd",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They cater to students from different family backgrounds.",
+      "translationEligible": true,
+      "translationZh": "他们迎合来自不同家庭背景的学生。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-50-1",
+      "optionId": "cet6:2021-06-03:q-50-1:A",
+      "sourceText": "Increasing government investment in school education.",
+      "sourceHash": "148a0225d475b93bfc4f18e4ef030904c31b5df43654c82d4818062696a06eb4",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Increasing government investment in school education.",
+      "translationEligible": true,
+      "translationZh": "加大政府对学校教育的投入。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-50-1",
+      "optionId": "cet6:2021-06-03:q-50-1:B",
+      "sourceText": "Narrowing the existing gap between the rich and the poor.",
+      "sourceHash": "544f85d1e7dee7e22e8cdd57beea661d3909c107420e07a6bcbd63878adda326",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Narrowing the existing gap between the rich and the poor.",
+      "translationEligible": true,
+      "translationZh": "缩小现有的贫富差距。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-50-1",
+      "optionId": "cet6:2021-06-03:q-50-1:C",
+      "sourceText": "Providing all children with equal access to arts education.",
+      "sourceHash": "0efaac3e76352b3d1cc4c4081f2d51e28bffe72dec0e8dfc2e6cab8dad2a493c",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Providing all children with equal access to arts education.",
+      "translationEligible": true,
+      "translationZh": "为所有儿童提供平等接受艺术教育的机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-50-1",
+      "optionId": "cet6:2021-06-03:q-50-1:D",
+      "sourceText": "Focusing on meeting the needs of under-privileged students.",
+      "sourceHash": "12cd379c6553722fff0a706822edfec217cd5914c49517a6015a4cfaa87a7634",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Focusing on meeting the needs of under-privileged students.",
+      "translationEligible": true,
+      "translationZh": "注重满足贫困学生的需求。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-51-1",
+      "optionId": "cet6:2021-06-03:q-51-1:A",
+      "sourceText": "Repeat what their partners say one way or another.",
+      "sourceHash": "0880bce5f13b4849d23c93872a2247173e568e7ae860a19c9dbeca7afc5b8df1",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Repeat what their partners say one way or another.",
+      "translationEligible": true,
+      "translationZh": "以某种方式重复他们的伙伴所说的话。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-51-1",
+      "optionId": "cet6:2021-06-03:q-51-1:B",
+      "sourceText": "Focus as much as possible on topics of mutual interest.",
+      "sourceHash": "904b93d4cc0ccb368880d45af911c1fd34a80824f9256e2dd67a79f1de2280f8",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Focus as much as possible on topics of mutual interest.",
+      "translationEligible": true,
+      "translationZh": "尽可能关注共同感兴趣的话题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-51-1",
+      "optionId": "cet6:2021-06-03:q-51-1:C",
+      "sourceText": "Imitate their partners' gestures without their knowing it.",
+      "sourceHash": "d10c994860638fdadbd36956b20c72f27fe866c684d3885d63b47decf728f939",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Imitate their partners' gestures without their knowing it.",
+      "translationEligible": true,
+      "translationZh": "在对方不知情的情况下模仿对方的手势。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-51-1",
+      "optionId": "cet6:2021-06-03:q-51-1:D",
+      "sourceText": "Observe carefully how their partners make use of gestures.",
+      "sourceHash": "eba41f4a4fe3dec1907c5d7ba0fa12b7afbe05ca4641dc0254e03c6a86905123",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Observe carefully how their partners make use of gestures.",
+      "translationEligible": true,
+      "translationZh": "仔细观察他们的伙伴如何使用手势。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-52-1",
+      "optionId": "cet6:2021-06-03:q-52-1:A",
+      "sourceText": "When both sides are sympathetic with each other.",
+      "sourceHash": "bb563abca61f5986af338e89b7e990d596041cbe1c5c8c219924a31abcb6b63f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "When both sides are sympathetic with each other.",
+      "translationEligible": true,
+      "translationZh": "当双方互相同情时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-52-1",
+      "optionId": "cet6:2021-06-03:q-52-1:B",
+      "sourceText": "When both sides have a lot of things in common.",
+      "sourceHash": "b1dbf090ddf8d7d7afbdb821356756419478057c46542e207ad830d342c9b00c",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "When both sides have a lot of things in common.",
+      "translationEligible": true,
+      "translationZh": "当双方有很多共同点时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-52-1",
+      "optionId": "cet6:2021-06-03:q-52-1:C",
+      "sourceText": "When both sides make interesting contributions.",
+      "sourceHash": "068541081a8085a9d35b15d7211af3a4e7f1d7a7f24403d0f99f8d8c343c80b0",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "When both sides make interesting contributions.",
+      "translationEligible": true,
+      "translationZh": "当双方都做出有趣的贡献时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-52-1",
+      "optionId": "cet6:2021-06-03:q-52-1:D",
+      "sourceText": "When both sides try to seek common ground.",
+      "sourceHash": "80ef89c39f34b60bd82fc18cf70f87e7683cacf03d98f13833fb6bd8544a0ac1",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "When both sides try to seek common ground.",
+      "translationEligible": true,
+      "translationZh": "当双方试图寻求共同点时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-53-1",
+      "optionId": "cet6:2021-06-03:q-53-1:A",
+      "sourceText": "It encourages people to imitate.",
+      "sourceHash": "7b66db40b37d072720d233f14ec8666abd5001ffdfb86d3a33aaae0e0b84693b",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It encourages people to imitate.",
+      "translationEligible": true,
+      "translationZh": "它鼓励人们模仿。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-53-1",
+      "optionId": "cet6:2021-06-03:q-53-1:B",
+      "sourceText": "It appeals mostly to big names.",
+      "sourceHash": "5734c5e56a58cfdccb81e04640de2fe56c7b5087109c716b889bde03a3f11643",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It appeals mostly to big names.",
+      "translationEligible": true,
+      "translationZh": "它主要吸引大牌人士。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-53-1",
+      "optionId": "cet6:2021-06-03:q-53-1:C",
+      "sourceText": "It acquaints young people with their idols.",
+      "sourceHash": "331cb5b53c6484ce0d3f8a1f32e4a0d5d720b10fdf693fabe8c84a9738433f3e",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It acquaints young people with their idols.",
+      "translationEligible": true,
+      "translationZh": "它让年轻人认识他们的偶像。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-53-1",
+      "optionId": "cet6:2021-06-03:q-53-1:D",
+      "sourceText": "It can change people's mode of cognition.",
+      "sourceHash": "d48467921c7e2164ba3ffac2955cd747e597815730f17b00e0e5ef92aeb18939",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It can change people's mode of cognition.",
+      "translationEligible": true,
+      "translationZh": "它可以改变人们的认知方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-54-1",
+      "optionId": "cet6:2021-06-03:q-54-1:A",
+      "sourceText": "It facilitates the creation of one's own writing style.",
+      "sourceHash": "7463e2cc9a499eca50af0e76a6bc0343af66f834fedf80fb176a3aa5b2610496",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It facilitates the creation of one's own writing style.",
+      "translationEligible": true,
+      "translationZh": "它有利于形成自己的写作风格。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-54-1",
+      "optionId": "cet6:2021-06-03:q-54-1:B",
+      "sourceText": "It helps to protect one's intellectual property rights.",
+      "sourceHash": "bf63d08ab8cdfec1ac6aa3982348cd5bcc49b757bab954d85ed244a1de182d86",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It helps to protect one's intellectual property rights.",
+      "translationEligible": true,
+      "translationZh": "它有助于保护一个人的知识产权。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-54-1",
+      "optionId": "cet6:2021-06-03:q-54-1:C",
+      "sourceText": "It fosters correct interpretation of professional writing.",
+      "sourceHash": "ea429b1216107285be7b59b40021b8a44591468773b7dc3fb77594c9fe1defba",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It fosters correct interpretation of professional writing.",
+      "translationEligible": true,
+      "translationZh": "它促进对专业写作的正确解释。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-54-1",
+      "optionId": "cet6:2021-06-03:q-54-1:D",
+      "sourceText": "It enables one to write intriguing sequels to famous stories.",
+      "sourceHash": "c1bd7fe9a3cdccb1f08a89960f7a84f7f709b66c2677082fcba74681b9ed5c47",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It enables one to write intriguing sequels to famous stories.",
+      "translationEligible": true,
+      "translationZh": "它使人们能够为著名故事写出有趣的续集。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-55-1",
+      "optionId": "cet6:2021-06-03:q-55-1:A",
+      "sourceText": "It is liable to different interpretations.",
+      "sourceHash": "a7cf9a85bd69ea924c4d25629342f1f9214c0f38851276a06d25a2ea6dcb978e",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is liable to different interpretations.",
+      "translationEligible": true,
+      "translationZh": "它可能有不同的解释。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-55-1",
+      "optionId": "cet6:2021-06-03:q-55-1:B",
+      "sourceText": "It is by and large a necessary evil.",
+      "sourceHash": "bb4af1002d7633baf261764676e7ed9edb5d269f81dc2e6d3099b29d3f35472d",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is by and large a necessary evil.",
+      "translationEligible": true,
+      "translationZh": "总的来说，这是一种不可避免的罪恶。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-55-1",
+      "optionId": "cet6:2021-06-03:q-55-1:C",
+      "sourceText": "It can give rise to endless disputes.",
+      "sourceHash": "6086dee90b3be35416695ea7c6a9194844aa36b30d6eb04ca91c3ee71a5c5f9a",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It can give rise to endless disputes.",
+      "translationEligible": true,
+      "translationZh": "可能会引发无休无止的争论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-55-1",
+      "optionId": "cet6:2021-06-03:q-55-1:D",
+      "sourceText": "It may do harm as well as good.",
+      "sourceHash": "1566b01a1d57eefebb8c298c340797b36a129404eb071762a947649690162e5f",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-6-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may do harm as well as good.",
+      "translationEligible": true,
+      "translationZh": "它可能有害也可能有益。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:A",
+      "sourceText": "adversity",
+      "sourceHash": "34570d4bdcd7e2bbaa48094aab8bc7db29f0d502cffb934a420fe63b497c9470",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "adversity",
+      "translationEligible": true,
+      "translationZh": "逆境",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:B",
+      "sourceText": "authentic",
+      "sourceHash": "343600e3385c2d55d2f5142781e69d623d86ff1c1f828dd25eba73f8ee0323db",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "authentic",
+      "translationEligible": true,
+      "translationZh": "正宗的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:C",
+      "sourceText": "convey",
+      "sourceHash": "4728b0c37dc84206db31f7c41a16cb7ef9d6cf4fdd97e47a5f1c4d08ada02482",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "convey",
+      "translationEligible": true,
+      "translationZh": "传达",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:D",
+      "sourceText": "depictions",
+      "sourceHash": "4712fe94dbdf5d76e1e9d4d34ccb8003efd76270cb2c334fb28989df89dd1a3e",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "depictions",
+      "translationEligible": true,
+      "translationZh": "描述",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:E",
+      "sourceText": "diminished",
+      "sourceHash": "b7079d02d38e879848a43e7728dd57f995a2153a225962ca59f48649935914ec",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "diminished",
+      "translationEligible": true,
+      "translationZh": "减少了",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:F",
+      "sourceText": "drowned",
+      "sourceHash": "197580558693a4ab0e2391c2d15a3728d4cc98c333caa78c8ad65a9f41bbcdcd",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "drowned",
+      "translationEligible": true,
+      "translationZh": "淹死的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:G",
+      "sourceText": "embark",
+      "sourceHash": "8c941bffd3df4eb0ab65b09d50a2ab213671d633d9ba372ac0f5dce227a31f11",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "embark",
+      "translationEligible": true,
+      "translationZh": "登船",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:H",
+      "sourceText": "fragility",
+      "sourceHash": "23274ac24658567ca3021c9632eb79d9667f718817d67b38ed95abc49e52eda5",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "fragility",
+      "translationEligible": true,
+      "translationZh": "脆弱性",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:I",
+      "sourceText": "neglected",
+      "sourceHash": "d05a8b413d5ce74b44f178073abb6cd73ccd39b613e5c98c65cf686f784e6202",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "neglected",
+      "translationEligible": true,
+      "translationZh": "被忽视的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:J",
+      "sourceText": "obscurity",
+      "sourceHash": "b888890e69dd60c284014978785a265cdd23933d2380f0b9d6d14650ed307cc2",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-06-03:b-2-2"
+      ],
+      "pdfVerifiedSource": {
+        "sourcePdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+        "pdfPage": 2,
+        "anchorKind": "word_bank_option",
+        "reflowBlockIds": [
+          "cet6:2021-06-03:b-2-2"
+        ],
+        "reflowOptionIndex": 9,
+        "sourceOptionId": "cet6:2021-06-03:word-bank:J"
+      },
+      "translationEligible": true,
+      "translationZh": "朦胧",
+      "eligibilityReason": "translate_pdf_verified"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:K",
+      "sourceText": "outlines",
+      "sourceHash": "8bb41e4e5212c724ec59f4ccf44b3ef6dceb36a4469503c4cbe319f3efc4439a",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "outlines",
+      "translationEligible": true,
+      "translationZh": "轮廓",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:L",
+      "sourceText": "prevalent",
+      "sourceHash": "6666c8729e3d222d29fa6df22e488f5102ef2a58ece8e85274e00077a54103d7",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "prevalent",
+      "translationEligible": true,
+      "translationZh": "普遍的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:M",
+      "sourceText": "purchasable",
+      "sourceHash": "5707cc573fe845eda721b069191769434469bbe19ea057d936f0c001ca01d879",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "purchasable",
+      "translationEligible": true,
+      "translationZh": "可购买的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2021-06-03",
+      "questionId": "cet6:2021-06-03:q-26-1",
+      "optionId": "cet6:2021-06-03:word-bank:N",
+      "sourceText": "submit",
+      "sourceHash": "75490bd7b93e6fa7d18cfdea90cc6bcb983d5f3ea326249d2709ca6c94bc07ba",
+      "sourceBlockIds": [
+        "cet6:2021-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet6:2021-06-03:b-2-2",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "submit",
+      "translationEligible": true,
+      "translationZh": "提交",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 54,
+    "reason:translate": 53,
+    "reason:translate_pdf_verified": 1
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-5",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "cet6:2021-06-03:p:b-1-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-7",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "cet6:2021-06-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-8",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-10",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-13",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2021-06-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-14",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2021-06-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-15",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2021-06-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-1-16",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2021-06-03:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-1",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2021-06-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-5",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-2",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-3",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2021-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-5",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2021-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-06-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-3-10",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-13",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-14",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2021-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-5-17"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-06-03:p:b-5-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-5-19",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-5-19"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-06-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-06-03:p:b-6-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-06-03:b-6-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 10,
+    "included": 50,
+    "ineligible": 12
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 1,
+    "heading_prose": 3,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 7,
+    "reading_prose": 10,
+    "section_label": 7,
+    "section_writing": 2,
+    "source_unreadable": 5,
+    "source_unreadable_image_gap": 2,
+    "unresolved_cloze_or_source_mismatch": 5
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 3,
+    "instruction": 7,
+    "passage_option": 12,
+    "question_prompt": 20,
+    "reading": 11,
+    "writing_prompt": 2
+  },
+  "otherSourceBlockCounts": {
+    "figure": 1,
+    "options": 11,
+    "source_line": 3,
+    "structured_image_source_line": 3,
+    "structured_source_notice": 5
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-13",
+        "b-1-14",
+        "b-1-15",
+        "b-1-16",
+        "b-2-1"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-2-7",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-2",
+      "replacementCharacters": 10,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2021-06-03:p:b-3-3",
+      "reflowBlockIds": [
+        "b-3-4"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-7",
+      "replacementCharacters": 8,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-10",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-5-19",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    }
+  ]
+}

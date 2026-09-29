@@ -54,6 +54,7 @@ class CS408InterleavedAnswerTests(unittest.TestCase):
         self.assertEqual(embedded["value"], "B")
         self.assertIn("单缓冲区", embedded["solution"])
         self.assertNotIn("D．2000us", embedded["solution"])
+        self.assertEqual(questions["31"]["options"][3]["text"], "2000us、2000us")
 
         written = questions["41"]["answer"]
         self.assertIsNone(written["value"])
@@ -91,6 +92,25 @@ class CS408InterleavedAnswerTests(unittest.TestCase):
         self.assertEqual([option["sourceLabel"] for option in printed_duplicate["options"]],
                          ["A．", "B．", "B．", "D．"])
         self.assertEqual(printed_duplicate["status"], "partial")
+
+    def test_2009_numbered_prose_is_the_matching_question_explanation(self):
+        paper = self.build_papers((2009,))["cs408:2009-complete"]
+        questions = {question["number"]: question for question in paper["questions"]
+                     if question["recordType"] == "question"}
+        expected = {
+            "12": ("考查符号位的扩展", "b-14-7"),
+            "13": ("考查浮点加法运算", "b-14-8"),
+            "14": ("考查Cache 与主存之间的映射方式", "b-14-9"),
+            "15": ("考查存储器的扩展", "b-15-2"),
+            "16": ("考查相对寻址", "b-15-3"),
+        }
+        for number, (opening, source_block) in expected.items():
+            with self.subTest(number=number):
+                answer = questions[number]["answer"]
+                self.assertTrue(answer["explanation"].startswith(opening))
+                self.assertIn(source_block, answer["sourceBlocks"])
+                self.assertNotIn("考查相对寻址", answer["explanation"] if number != "16" else "")
+        self.assertIn("由于Cache 共有16块", questions["14"]["answer"]["explanation"])
 
     def test_unmarked_or_prompt_text_is_not_an_answer(self):
         question = {"id": "q-1-1", "number": "1", "recordType": "question",

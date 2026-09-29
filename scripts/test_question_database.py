@@ -122,6 +122,72 @@ def _make_fixture(root: Path) -> tuple[Path, Path]:
 
 
 class QuestionDatabaseTests(unittest.TestCase):
+    def test_kaoyan_writing_keeps_numbered_directions_and_email_paragraphs(self) -> None:
+        with tempfile.TemporaryDirectory() as folder:
+            structured, output = _make_fixture(Path(folder))
+            paper_path = structured / "papers/test/2025.json"
+            paper = json.loads(paper_path.read_text(encoding="utf-8"))
+            paper["category"] = "kaoyan"
+            prompt = paper["questions"][0]
+            prompt["questionType"] = "free_response"
+            prompt["stem"] = "1. Directions:"
+            prompt["sourceBlocks"] = ["b-1-1", "b-1-3", "b-1-4", "b-1-5"]
+            paper["blocks"][0].update(
+                role="question", text="1. Directions:", contentHtml="<p>1. Directions:</p>",
+                questionId="q-1-1")
+            paper["blocks"].extend([
+                {"id": "b-1-3", "page": "1", "sourcePageIndex": 1,
+                 "sourceBlockIndex": 3, "role": "question", "text": "1) describe the chart,",
+                 "contentHtml": "<p>1) describe the chart,</p>", "formulas": [], "images": [],
+                 "questionId": "q-1-1"},
+                {"id": "b-1-4", "page": "1", "sourcePageIndex": 1,
+                 "sourceBlockIndex": 4, "role": "content", "text": "Write 100 words. Do not sign.",
+                 "contentHtml": "<p>Write 100 words. <strong>Do not</strong> sign.</p>",
+                 "formulas": [], "images": [], "questionId": "q-1-1", "presentation": {
+                     "layoutKind": "email", "instructions": [
+                         {"text": "Write 100 words.", "strongPrefix": None},
+                         {"text": "Do not sign.", "strongPrefix": "Do not"}],
+                     "privateField": "must stay private"}},
+                {"id": "b-1-5", "page": "1", "sourcePageIndex": 1,
+                 "sourceBlockIndex": 5, "role": "content", "text": "Write 200 words. Do not sign.",
+                 "contentHtml": "<p>Write 200 words. Do not sign.</p>",
+                 "formulas": [], "images": [], "questionId": "q-1-1", "presentation": {
+                     "version": 1, "layoutKind": "writing_instructions", "instructions": [
+                         {"text": "Write 200 words.", "strongPrefix": None},
+                         {"text": "Do not sign.", "strongPrefix": "Do not"}],
+                     "privateField": "must stay private"}},
+            ])
+            _write_json(paper_path, paper)
+            audit_path = structured / "audit.json"
+            audit = json.loads(audit_path.read_text(encoding="utf-8"))
+            audit["categories"] = {"kaoyan": 1}
+            audit["sourceBlocks"] = 5
+            audit["bank"]["single_choice"] = 3
+            audit["bank"]["free_response"] = 1
+            audit["documents"][0].update(category="kaoyan", sourceBlocks=5)
+            _write_json(audit_path, audit)
+            bank_path = structured / "question-bank.jsonl"
+            rows = [json.loads(line) for line in bank_path.read_text(encoding="utf-8").splitlines()]
+            for row in rows:
+                row["category"] = "kaoyan"
+            rows[0].update(questionType="free_response", stem=prompt["stem"],
+                           sourceBlocks=prompt["sourceBlocks"])
+            bank_path.write_text(
+                "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows),
+                encoding="utf-8")
+            build_database(structured, output)
+            with closing(question_database_api.connect(output)) as db:
+                actual = question_database_api.question(db, "test:2025:q-1-1")["question"]
+            self.assertEqual([item["text"] for item in actual["contentBlocks"]],
+                             ["1) describe the chart,", "Write 100 words. Do not sign.",
+                              "Write 200 words. Do not sign."])
+            self.assertEqual(len(actual["contentBlocks"][1]["presentation"]["instructions"]), 2)
+            self.assertNotIn("privateField", actual["contentBlocks"][1]["presentation"])
+            self.assertEqual(actual["contentBlocks"][2]["presentation"]["layoutKind"],
+                             "writing_instructions")
+            self.assertEqual(len(actual["contentBlocks"][2]["presentation"]["instructions"]), 2)
+            self.assertNotIn("privateField", actual["contentBlocks"][2]["presentation"])
+
     def test_diagram_choice_letters_remain_source_letters_when_shuffled(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             structured, output = _make_fixture(Path(folder))

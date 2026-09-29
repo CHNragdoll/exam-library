@@ -1,0 +1,3533 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2025-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+  "sourcePdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+  "paragraphs": [
+    {
+      "id": "cet4:2025-12-03:p:b-1-3",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: Suppose your university is organizing a forum on how students can make the best use of on-campus resources for academic development. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "e0e03cf8c7966319f4408eb454d700970ad1a1354e1294829b36bb73ed260a2e",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：假设您的大学正在组织一个论坛，讨论学生如何充分利用校园资源进行学术发展。你现在要写一篇文章来表达你的观点。你将有 30 分钟的时间来写这篇文章。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-1-8",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-1-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "cloze",
+      "sourceText": "Earth Day is an annual celebration that honors the achievements of the environmental movement and raises awareness of the need to protect Earth’s natural resources for future generations. Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox (春分) occurs throughout the 26 of the world.",
+      "sourceHash": "3abdf6108183558a37c3a9ccf116374fa749e92d83863bbbf8d4e39e34c94f21",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "地球日是一年一度的庆祝活动，旨在表彰环境运动的成就，并提高人们对为子孙后代保护地球自然资源的必要性的认识。美国于 4 月 22 日庆祝地球日，世界其他地区则于 4 月 22 日或春分日庆祝。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-1-10",
+      "paperId": "cet4:2025-12-03",
+      "kind": "cloze",
+      "sourceText": "Environmental activism during the 1960s 27 Wisconsin Senator Gaylord Nelson to create a 28 celebration uniting the environmental movement. With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the 29 of environmental protection. Attended by 20 million people across the United States, the event 30 support for legislation such as the Clean Air Act and the Endangered Species Act.",
+      "sourceHash": "46e43535d6e90f89caf771fff6d2cfe4e380b1c50177041fbe62cc3bc5bfc8ef",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "20 世纪 60 年代的环保活动激发了威斯康星州参议员盖洛德·尼尔森 (Gaylord Nelson) 的灵感，发起了一场联合环保运动的全国性庆祝活动。在哈佛大学研究生丹尼斯·海耶斯的帮助下，纳尔逊于 1970 年 4 月 22 日组织了第一个地球日，教育参与者环境保护的重要性。此次活动有全美 2000 万人参加，加强了对《清洁空气法》和《濒危物种法》等立法的支持。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-1-11",
+      "paperId": "cet4:2025-12-03",
+      "kind": "cloze",
+      "sourceText": "In 1990, Hayes organized a global Earth Day, with more than 200 million participants in 140 countries. Earth Day now brings 31 citizens and activists from around the world to raise awareness and take action regarding such environmental 32 as global warming and renewable energy.",
+      "sourceHash": "4a4264d3fa91b6281f1a0674c9ff2acf252460f8fc228355c71082bddb04c65a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "1990年，海耶斯组织了全球地球日，来自140个国家的2亿多人参加。地球日现在汇集了来自世界各地的公民和活动家，以提高人们对全球变暖和可再生能源等环境问题的认识并采取行动。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-1-12",
+      "paperId": "cet4:2025-12-03",
+      "kind": "cloze",
+      "sourceText": "Today, the Earth Day Network, which rallies more than 20,000 33 and organizations in 190 countries, supports the Earth Day mission year-round. This mission is founded on the proposition that all people, regardless of race, gender, income, or 34 , have a moral right to a healthy, sustainable environment. The Earth Day Network 35 this mission through education, public policy, and activism campaigns.",
+      "sourceHash": "43a8c4432ea8916ae2e6b3d239f5e8c3e4f228e1832d86d455672dfb62050927",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如今，地球日网络聚集了 190 个国家的 20,000 多个合作伙伴和组织，全年支持地球日使命。这一使命的基础是所有人，无论种族、性别、收入或地理位置，都享有健康、可持续环境的道义权利。地球日网络通过教育、公共政策和激进主义运动来追求这一使命。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-2",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-3",
+      "paperId": "cet4:2025-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Looking for a job after 45",
+      "sourceHash": "a82634d269f2c169e74073446651cd2d81279397901190eb6a37242acd920311",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45岁以后找工作",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-4",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) Ageism and long-term unemployment are most damaging for those in the second half of their careers. Changing careers is hard. Getting back into work after you’ve been laid off is even harder. Those over 45 make up the bulk of the long-term unemployed, in America and elsewhere. Hiring managers admit they are reluctant to hire those over 40 or 45, arguing they probably won’t be a good “fit,” their experience won’t be relevant to the workplace, and they’ll be unable or unwilling to learn new skills.",
+      "sourceHash": "77cd460973bb7bb922611c70b143939981f3a81e4711ddc79e91ef4634e24855",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 年龄歧视和长期失业对职业生涯后半段的人造成的损害最大。改变职业很难。被解雇后重返工作岗位更加困难。在美国和其他地方，45 岁以上的人占长期失业者的大部分。招聘经理承认，他们不愿意雇用 40 岁或 45 岁以上的人，认为他们可能不太“适合”，他们的经验与工作场所无关，而且他们无法或不愿意学习新技能。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-5",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) But the one thing that can really make a difference? More education and training. These are the results from a new study by Generation, a nonprofit founded by former McKinsey consultants. They’ve just published a global survey on midcareer employment, based on surveys of over 5,000 workers and managers in seven countries.",
+      "sourceHash": "fe37349700987551e4e19e1ec4dd62c884e95a5d9a3d2f7eccdefa85b7e97f8f",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 但真正能带来改变的一件事是什么？更多的教育和培训。这些是 Generation 的一项新研究的结果，Generation 是一家由前麦肯锡顾问创立的非营利组织。他们刚刚发布了一项关于职业中期就业的全球调查，该调查基于对七个国家 5,000 多名工人和管理人员的调查。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-6",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) “Older midcareer workers ... make up the bulk of the long-term unemployed in many countries,” Generation’s analysts write in their report. Those over 45 comprise over 40% of the long-term unemployed, for example. And if you’re out of work past the age of 45, there’s nearly a two in three chance you’ll be out of work for over a year, they find. “Midcareer individuals are finding it harder to get jobs,” they write. “People age 45+ face persistent and rising pressure in the global job market. They are unemployed for much longer than the average, and their age is indeed one of the greatest barriers to their finding a job.”",
+      "sourceHash": "9afefb86d6ebbd1dab09ed726fbf0151a68f03546335697b386cf49e81ee8516",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) “在许多国家，老年中期职业工人……构成了长期失业人口的主体，”Generation 的分析师在报告中写道。例如，45 岁以上的人占长期失业者的 40% 以上。他们发现，如果您超过 45 岁就失业，那么您有近三分之二的机会会失业一年以上。 “职业中期的人发现找到工作越来越难，”他们写道。 “45岁以上的人在全球就业市场上面临持续且不断上升的压力。他们失业的时间比平均水平长得多，他们的年龄确实是他们找工作的最大障碍之一。”",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-7",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) A substantial part of this, they report, is “widespread ageism” on the part of hiring managers. Although such managers admit that post-45 hires turn out on average to be just as good as or better than younger workers, they still don’t want to hire them. “Hiring managers have a strong perception bias against 45+ job candidates — they believe that members of this age group have poor skills and low adaptability,” Generation’s analysts report.",
+      "sourceHash": "2e4e8a87336775931a43bec6c1870602c79e6f9b88aa411a4cb40874a9bd5724",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）他们报告说，其中很大一部分是招聘经理“普遍存在的年龄歧视”。尽管这些经理承认，45 岁以后的员工平均表现与年轻员工一样好，甚至更好，但他们仍然不想雇用他们。 Generation 的分析师报告称：“招聘经理对 45 岁以上的求职者有强烈的认知偏见，他们认为这个年龄段的员工技能较差，适应性较差。”",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-8",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) The survey results are remarkable. Hiring managers are three times as likely to rate job applicants age 35 – 44 as a better “fit” than those over 45. They rate the post-45 job seekers lower on average on all three measures — even experience — than those ages 18 to 34. This is true even though nearly nine managers in 10 also said their post-45 workers were as good as or better than younger employees in the same jobs.",
+      "sourceHash": "b31aa37a8e13d8355ef0d2586133ed57cc197752cc9a51c3f66c8e13d64a08e3",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 调查结果显着。招聘经理认为 35 至 44 岁的求职者更“适合”的可能性是 45 岁以上求职者的三倍。他们对 45 岁以后求职者的所有三项指标（甚至是经验）的平均评分低于 18 至 34 岁的求职者。事实确实如此，尽管十分之九的经理也表示，他们的 45 岁以后的员工与从事相同工作的年轻员工一样好，甚至更好。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) Their biggest fears about hiring those over 45? Managers said they worry that older hires will be reluctant to try new technologies, and will be unable to learn new skills. Besides, the majority of hiring managers are under 45 — and seem reluctant to hire people older than themselves.",
+      "sourceHash": "8001871c5d05ffd185747df8140c5b699911224d35ee84c26a0ea16755db1510",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 他们对雇用 45 岁以上的人最担心的是？经理们表示，他们担心老员工不愿意尝试新技术，并且无法学习新技能。此外，大多数招聘经理都在 45 岁以下，而且似乎不愿意雇用比自己年长的人。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-10",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) But here’s the good news. Older workers who’ve actively engaged in more education and training relevant to their jobs turn this pretty much on its head. Three-quarters of hiring managers said they’d be more likely to hire an over-45 who had relevant education, training or credentials (文凭). Among those over 45 who’d successfully switched careers, 74% said training helped them get their new job.",
+      "sourceHash": "3b127f877bb0b9a9829cec7f8754ba85043fc3f91fc50762396d825e5950473e",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 但有个好消息。积极参与更多与工作相关的教育和培训的老年工人在很大程度上扭转了这一局面。四分之三的招聘经理表示，他们更有可能雇用 45 岁以上且拥有相关教育、培训或文凭的人。在 45 岁以上成功转行的人中，74% 的人表示培训帮助他们找到了新工作。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-2-11",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) “Midcareer switchers overwhelmingly say that training enabled them to shift to a new career path,” the analysts write. And when they asked over-45 candidates about their attitudes, they found that “those who are excited by training are unemployed for less time, receive more job offers, and are more satisfied by the job offers they receive.”",
+      "sourceHash": "708d1ebd6ca47d526f9e3a764cf4e1d0c3e1a82a37054af636a0a0f692a5a4a6",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H）“绝大多数职业中期转换者表示，培训使他们能够转向新的职业道路，”分析师写道。当他们询问 45 岁以上的求职者的态度时，他们发现“那些对培训感到兴奋的人失业时间更少，收到的工作机会更多，而且对收到的工作机会更满意。”",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-1",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) Hiring managers said training was three times more likely to get them to hire applicants over age 45 than, say, government subsidies (补贴). What training are we talking about? Obviously it depends on the job. And, yes, managers are most likely to be impressed by industry qualifications you get in school. These things cost money, and time. But these aren’t the only things helpful. Those who had successfully changed careers after 45 told Generation that education and training had been a big help — and that included in-person, on-the-job training, “informal learning,” and online courses — with or without certification.",
+      "sourceHash": "213c589ab97f6c29818d2c74839e23f3918c00b652d26d61ffe23fed0523700a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 招聘经理表示，培训让他们雇用 45 岁以上申请人的可能性是政府补贴的三倍。我们在谈论什么培训？显然这取决于工作。是的，经理们最有可能会对你在学校获得的行业资格印象深刻。这些事情需要金钱和时间。但这些并不是唯一有用的东西。那些在 45 岁之后成功转行的人告诉《一代》，教育和培训提供了很大的帮助，其中包括面对面的在职培训、“非正式学习”和在线课程，无论是否有认证。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-2",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) If they think we’re too old to learn new skills after we’re 45, just learning some new skills may have an effect on its own. There’s a downside to this. The people least interested in retraining are more likely to come from historically disadvantaged communities, more likely to have low incomes, and are more likely to have the least schooling after getting their high-school diploma or earlier. On average, post-45 job switchers with higher incomes participate in 2.5 training programs each. Those with lower incomes: 0.9 programs on average.",
+      "sourceHash": "99febd09599d718828dccfe7e8ff3f9d1a14455e740839eb8c0344f767d63556",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 如果他们认为 45 岁之后我们太老了，无法学习新技能，那么仅仅学习一些新技能可能会产生效果。这有一个缺点。对再培训最不感兴趣的人更有可能来自历史上处于不利地位的社区，更有可能收入较低，并且更有可能在获得高中文凭或更早之后受的教育最少。平均而言，45岁以后收入较高的跳槽者每人参加2.5个培训项目。收入较低者：平均 0.9 个项目。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-3",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Many years ago, I wrote about a study which found that employers are much more likely to hire a college graduate who has some work experience in the industry than a college graduate who took the “right” degree. A bank is more likely to hire a literature graduate who spent their summers working in their local bank than a finance or economics graduate who spent their summers surfing or traveling around Italy. They’ve learned through long experience. The person who worked in the bank is more likely ready, willing and able to be part of the team and do the job from day 1.",
+      "sourceHash": "f83aab773a53345e392d449a3243ee3beaaf2cce10350e1a1d596bfd639fd54d",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 许多年前，我写过一项研究，发现雇主更有可能雇用在该行业有一定工作经验的大学毕业生，而不是获得“正确”学位的大学毕业生。银行更有可能雇用暑假在当地银行工作的文学毕业生，而不是暑假在意大利冲浪或旅行的金融或经济学毕业生。他们通过长期的经验学到了东西。在银行工作的人更有可能准备好、愿意并且能够成为团队的一员并从第一天开始完成工作。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-4",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) We can rail against “ageism” all we like. It gets us nowhere. And it’s easy to forget that employers, like everyone else, are under time pressure and are just trying to solve problems. Any and all “training,” including inexpensive and informal training, is going to help resolve their worries about hiring someone over 45. And it has never been easier or cheaper to gain instruction in new skills, thanks to the internet. Online schools like Udemy and Lynda.com offer sweet deals at sign-up. And courses on YouTube are free.",
+      "sourceHash": "ac755cc826067e40abf6f9741f5a3064d6e11074a2779529652f3a7dbfcc4290",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L）我们可以随心所欲地反对“年龄歧视”。它让我们无处可去。人们很容易忘记，雇主和其他人一样，也面临着时间压力，只是想解决问题。任何和所有“培训”，包括廉价和非正式的培训，都将有助于解决他们对雇用 45 岁以上人员的担忧。而且，借助互联网，获得新技能的指导从未如此简单或便宜。 Udemy 和 Lynda.com 等在线学校在注册时提供超值优惠。 YouTube 上的课程是免费的。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-5",
+      "paperId": "cet4:2025-12-03",
+      "kind": "passage_option",
+      "sourceText": "M) Bottom line? Yes, it really can be difficult getting a new job after age 45, let alone changing careers. One of the best things we can do to help ourselves is to go online and learn new, relevant skills. Sadly, the people who most need the help are least likely to take it — which raises a challenge for society as a whole. Not only do we not want to see lives go to waste, but we all benefit if more people are working and fewer are unemployed.",
+      "sourceHash": "b02ecc4b68b171b567611d8404007040c3e06573765b13b836821940d6e641be",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M）底线？是的，45 岁之后找新工作确实很困难，更不用说转行了。我们能做的帮助自己的最好的事情之一就是上网学习新的相关技能。可悲的是，最需要帮助的人却最不可能接受帮助——这给整个社会带来了挑战。我们不仅不想看到生命被浪费，而且如果更多的人工作、更少的失业者，我们都会受益。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-6",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Hiring managers believe unemployed workers over 45 lack good skills and are less adaptable.",
+      "sourceHash": "10b2481d4c806ae47db5b4e87653f3990088c3aea1744e4aa01e76a4e121cd42",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 招聘经理认为，45 岁以上的失业工人缺乏良好的技能，适应性较差。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-7",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Switching to a new career is difficult and getting reemployed after a layoff is even tougher.",
+      "sourceHash": "f3f807dc60261213be21c1932a8dc34a0ba62f3ffbffd89c1e0d7c3ac43fb101",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37、转行难，裁员后再就业更难。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-8",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. People from poor neighborhoods tend to have the least interest in retraining.",
+      "sourceHash": "b933bb8c7c17a5e1d2cf61a3d8dc26cfbdd722843d0f3a275602add903815fe4",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 来自贫困社区的人们往往对再培训最不感兴趣。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Hiring managers who are not yet 45 years old seem unwilling to hire people their senior.",
+      "sourceHash": "aa0f2d1fef9371e866e018e26da4403dba08da7f40fdca3677e1a16019d05ccf",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 45 岁以下的招聘经理似乎不愿意雇用比他们年长的人。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-10",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Some analysts find age 45+ jobless workers are most likely to be unemployed for more than a year.",
+      "sourceHash": "ed3fc9eff8ccea5553abbcf68ef6dd3718dd80692b2c8cb9b2f6d5647d7c623a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 一些分析师发现，45 岁以上的失业工人最有可能失业超过一年。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-11",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. People who had succeeded in career change after 45 told a nonprofit organization they owed a great deal to the education and training they had received.",
+      "sourceHash": "dbf613f1d774644bca6d9f3674f59efeef83033c9fc004415b6630c803fbe81a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 45 岁以后成功转行的人告诉一家非营利组织，他们很大程度上要感谢自己所接受的教育和培训。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-12",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Older workers who actively pursue more education and training have a good chance of being hired.",
+      "sourceHash": "47c177f596dfd7666f3378b8b002973f2c7f446267251ff2b7208d786e735dc7",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 积极接受更多教育和培训的老年工人被雇用的机会很大。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-13",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. A new study finds that more education and training helps midcareer individuals find a new job.",
+      "sourceHash": "99da60cf97f6c2f2e378574f814e5f0bbd9a2067552a0d6be027bb2197bd97bd",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 一项新的研究发现，更多的教育和培训有助于职业中期的人找到新工作。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-14",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Owing to the internet, it is now more convenient than ever to receive training in new skills.",
+      "sourceHash": "f076e0aef35c964f22620ba8eb40a1befde4d3461424c2f19471f5ef7e917340",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 由于有了互联网，现在接受新技能培训比以往任何时候都更加方便。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-3-15",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. People over 45 stimulated by training suffer shorter periods of unemployment, get more job offers and have greater satisfaction in them.",
+      "sourceHash": "68f4438f034fdaa1bc3883f4d8ed413f975abd42e93bea6c4accb30cbe45b78a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 45岁以上的人在培训的刺激下，失业时间更短，获得更多的工作机会，并且对工作的满意度更高。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-2",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A, B, C and D. You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "7897fd42e2851551ad4d5b9042f0f166f4a10b3afdaed1f01c7586d4bffcc4ab",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A、B、C 和 D。您应该决定最佳选项，并在答题纸 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-4",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-5",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "New York’s Eleven Madison Park has become the first vegan (素食主义的) restaurant to be awarded three Michelin stars.",
+      "sourceHash": "3e588b4b34723c321416f4738ea4cee73c0719c4a4b36867158b10bda1d60399",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "纽约的十一麦迪逊公园成为第一家获得米其林三颗星的纯素食餐厅。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-6",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "The fine dining establishment received its first three-star Michelin rating in 2011 when the menu was famed for its fancy animal-based dishes.",
+      "sourceHash": "ac5ff82f415de79ed18777c5dbdb1950f1df93aee1480b50ebb418dc3a52d491",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这家高级餐厅于 2011 年首次获得米其林三星级评级，当时的菜单以其精美的动物菜肴而闻名。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-7",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "However, last year, the restaurant’s co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system. While cow milk is still served for tea and coffee, the menu is almost 100 percent vegan.",
+      "sourceHash": "82e21c7cbf2aec52fe449eba81b359b58d7fbf8c99903b3bbb5fa9d4cf274460",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，去年，该餐厅的合伙人、著名厨师丹尼尔·哈姆 (Daniel Humm) 做出了大胆的决定，将肉类从菜单中删除，理由是我们的食品系统不可持续。虽然茶和咖啡仍然使用牛奶，但菜单几乎是 100% 纯素食。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-8",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "At the time, Humm acknowledged the move was risky, admitting that “it wasn’t clear if guests would come”, but called the gamble “a risk worth taking.”",
+      "sourceHash": "130ef24bcaf5abe0421bd4d3febfbad5e8603690c2b9dc2f18d6ed6503165d87",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当时，胡姆承认此举有风险，并承认“尚不清楚客人是否会来”，但称这次赌博“值得冒险”。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "“In view of the climate crisis, I didn’t want to open the same restaurant,” Humm told the Financial Times in an interview. “If we can show the possibilities of eating plant-based food in this setting, it can open a lot of doors” for others to follow.",
+      "sourceHash": "87b3376d8f9b88484fc7e0a6e55f4a51e40ef653815cd6345717d9ef5f31bb34",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“鉴于气候危机，我不想再开同一家餐厅，”胡姆在接受英国《金融时报》采访时表示。 “如果我们能够展示在这种情况下食用植物性食品的可能性，它可以为其他人效仿打开很多大门”。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-10",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Now, this impressive new accomplishment validates Eleven Madison Park’s decision to take meat off the menu and embrace plant-based foods, with Michelin’s 2022 New York guide branding it ‘a bold vision of luxury dining’.",
+      "sourceHash": "8e4e05806ed3ff05cdec2111542dafff508a18367762685239db973a00f2c64a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "现在，这一令人印象深刻的新成就证实了麦迪逊公园十一号将肉类从菜单上剔除并采用植物性食品的决定，米其林 2022 年纽约指南将其称为“奢华餐饮的大胆愿景”。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-11",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "“We took the jump to transform Eleven Madison Park into a plant-based fine dining restaurant knowing in our hearts this is what we believed in,” stated Humm on Instagram. “Last night, we were honored to be awarded three Michelin stars for the 11th year in a row. I am so grateful to the team members who contributed through its nearly 25-year history. We are also grateful to our guests and partners who believed in our vision and encouraged us to push harder.”",
+      "sourceHash": "3aaeb3931a792f72ceb9fcd91641f1a97064187e71885c2ae3777dcefb2b168f",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Humm 在 Instagram 上表示：“我们决定将麦迪逊公园十一号改造成一家以植物为主的高级餐厅，因为我们心里知道这是我们的信念。” “昨晚，我们很荣幸连续 11 年荣获米其林三颗星。我非常感谢在其近 25 年的历史中做出贡献的团队成员。我们也感谢相信我们愿景并鼓励我们更加努力的客人和合作伙伴。”",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-12",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Three Michelin stars is the highest award, given to chefs who are at the peak of their profession. “Their cooking is elevated to an art form and some of their dishes are destined to become classics,” reads Michelin’s website, in a clear nod to plant-based foods’ growing significance in the culinary (烹饪的) world.",
+      "sourceHash": "6e7d5d30e8aef1346dfe3fc478f23ca22e48af227744a2643a97e983d8ab45d8",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "米其林三颗星是最高奖项，授予处于职业巅峰的厨师。米其林的网站上写道：“他们的烹饪被提升为一种艺术形式，他们的一些菜肴注定会成为经典。”这显然是对植物性食品在烹饪界日益重要的认可。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-13",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "“I think luxury companies have a real role to play and a responsibility,” says Humm. “The more creative we are, the more beautiful and delicious our future will be.”",
+      "sourceHash": "ac3389010363cee662655b2a173a1760c4e390b0181fdc072e5a6d19de9cae71",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“我认为奢侈品公司可以发挥真正的作用并承担责任，”胡姆说。 “我们越有创意，我们的未来就会越美丽、越美味。”",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-14",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn about New York’s Eleven Madison Park?",
+      "sourceHash": "952cabb0a0ebd531569e569a52e4064c8a906880ff081017463352dabf2c2d63",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 我们从纽约麦迪逊公园十一号了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-4-16",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. Why did Daniel Humm decide to remove meat from the menu of his restaurant?",
+      "sourceHash": "c085a6b154929257de04fc2306f3f1ed08229a87c1a78f5555637fbff6e4ea10",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 为什么 Daniel Humm 决定从他的餐厅的菜单中删除肉类？",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-1",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What did Daniel Humm think of his move to a meat-free menu?",
+      "sourceHash": "71c8ba07e3ced8a9da5f228d990f50e72bd83680751c5a82e5761c20770d2dcc",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. Daniel Humm 对转向无肉菜单有何看法？",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-3",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What does Michelin’s 2022 New York guide say about Eleven Madison Park’s decision?",
+      "sourceHash": "dc39cb60827c1fa2f1c3a74312c63b09b23e06ba3f3126fa9fc6bfb16b2900bf",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 米其林 2022 年纽约指南如何评价麦迪逊公园十一号的决定？",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-5",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What does the awarding of three Michelin stars to Eleven Madison Park indicate?",
+      "sourceHash": "0b0155def48797d1a20e29da1606ffddc71c68f730e94ac32f01f09610bac5ba",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 麦迪逊公园十一号荣获三颗米其林星意味着什么？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-8",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "With genetic testing becoming increasingly popular, many people are left wondering exactly how accurate it is. Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn (先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.",
+      "sourceHash": "f3017798ea0c3354d5ed03b811c93c087b51dd68a83f472bec193e70e8a46fcc",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "随着基因测试变得越来越流行，许多人都想知道它的准确性到底有多高。无论您是通过 DNA 测试来构建扩展的 DNA 家谱，还是想要了解先天的健康状况的精确信息，了解基因测试的准确性以及我们可以依赖哪些信息都很重要。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-10",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "How accurate DNA tests are relies greatly upon the kind of test being taken, on the specific question you ask, and on how complex the genetics behind a trait (特征) is. For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present.",
+      "sourceHash": "91f701fb910e1b4596800e6833096e257313d22e52e7c163b634eafb64fd958e",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "DNA 测试的准确性在很大程度上取决于所进行的测试类型、您提出的具体问题以及特征背后的遗传学有多复杂。例如，对依赖于单个基因的性状进行测试可以提供更可靠的结果，因为您可以查看是否存在致病性状。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-11",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Ancestry tests claim to reveal our genetic identities. But saying you are 30 percent East Asian or American hardly reflects your real ancestry.",
+      "sourceHash": "19d45a1b2bc66575a919f6f8c2faa7e8aecc58af64dd56229310ea1b16e54b6a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "祖先测试声称可以揭示我们的遗传身份。但说你有 30% 的东亚人或美国人血统并不能反映你的真实血统。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-12",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "What about using DNA tests to discover distant family members? There are tools to compare one’s DNA with others’ to find distant relatives based on their genetic identification. These kinds of applications are generally accurate. It’s relatively easy to tell whether two DNA samples belong to close relatives. With distant relatives, results become hazier.",
+      "sourceHash": "321d22cdbda05cf21b98b03b9e305e4fb191027514172f6c0f964038265f13f6",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "使用 DNA 测试来发现远方家庭成员怎么样？有一些工具可以将一个人的 DNA 与他人的 DNA 进行比较，以根据基因识别来寻找远亲。这类应用程序通常是准确的。判断两个 DNA 样本是否属于近亲相对容易。对于远房亲戚，结果变得更加模糊。",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-13",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Genetic health tests claim to be able to detect certain hereditary (遗传的) diseases, or other health conditions. While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. The large majority of our traits and diseases also depend upon non-genetic factors, such as lifestyle, the environment, and many others.",
+      "sourceHash": "1b6335675d70bbabffd4a6cc631262f0b73996271f97df5ef0d42207f3cfd353",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "基因健康测试声称能够检测某些遗传性疾病或其他健康状况。虽然某些罕见疾病很容易识别，但大多数潜在的健康状况无法仅通过基因检测来识别。我们的绝大多数特征和疾病也取决于非遗传因素，例如生活方式、环境等。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-14",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Genetic tests for multi-factorial traits are often very tricky to interpret. Height, for example, depends on hundreds of genes, each contributing a little to the outcome, together with a bunch of environmental factors. A test can look at many genes at once, but it’s difficult to predict how they will play together. Then you should also account for non-genetic factors that are not written in the DNA.",
+      "sourceHash": "1bafd89971eeca17119a5b88b9987ee0dd98ad6e800796fee4a9bbbf1e75bbb9",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "多因素性状的基因测试通常很难解释。例如，身高取决于数百个基因，每个基因都对结果有一点贡献，再加上一系列环境因素。测试可以同时检查许多基因，但很难预测它们将如何共同发挥作用。然后，您还应该考虑未写入 DNA 的非遗传因素。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-5-15",
+      "paperId": "cet4:2025-12-03",
+      "kind": "reading",
+      "sourceText": "Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak.",
+      "sourceHash": "7f59b92ee5bd07bc46a9ed86eca82926d19ed9ef5e0b808f616709d84a243cad",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "那些旨在寻找完美爱情伴侣的测试以及那些声称根据 DNA 预测性格或才能的测试纯粹是无稽之谈。目前，这些应用的科学基础不存在或非常薄弱。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-1",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What does the passage say is of importance regarding genetic tests?",
+      "sourceHash": "6044079985d8b626e0de8c854608b14bff356d72d3c69a0f050f32ffddb6cda9",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 这篇文章说基因测试的重要性是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-3",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What kind of genetic tests tend to be comparatively reliable?",
+      "sourceHash": "20962fdea438795d772750de7d0726d3abd705582faec663a3518fb114623793",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 什么样的基因检测相对可靠？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-5",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What do we learn about genetic health tests from the passage?",
+      "sourceHash": "d3aca3a21fa31ae10fb4bc39ffb9b033f9943a282fcf7a83427c4d4a01f23952",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 从本文中我们对基因健康测试了解了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-7",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What makes genetic tests for multi-factorial traits tricky to interpret?",
+      "sourceHash": "30e733fd4fec44b46db9807703807e04ac1dad9811373f71f024e100c9ad6448",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 是什么使得多因素性状的基因测试难以解释？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-9",
+      "paperId": "cet4:2025-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the passage say about DNA tests to predict personality or talents?",
+      "sourceHash": "f483ae0d08973cbf771f9046cae5e739e3e0868534347ef315c83769f2e87243",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 关于用 DNA 测试来预测性格或才能，这段话怎么说？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-12-03:p:b-6-12",
+      "paperId": "cet4:2025-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-12-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-12-03.json",
+        "pdfSha256": "5c05fc9411f7b1fea07cc27ebdc049bb93ea46061b72e3b40e54d4a0f166c7df",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2025-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-46-1",
+      "optionId": "cet4:2025-12-03:q-46-1:A",
+      "sourceText": "It is the first vegan restaurant to receive the highest Michelin rating.",
+      "sourceHash": "abf27d5b6ae0de05b03783476310d6d895873efb8d8dc256d9a25867909446f4",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is the first vegan restaurant to receive the highest Michelin rating.",
+      "translationEligible": true,
+      "translationZh": "这是第一家获得米其林最高评级的纯素餐厅。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-46-1",
+      "optionId": "cet4:2025-12-03:q-46-1:B",
+      "sourceText": "It is the first restaurant in the city to remove meat from its menu.",
+      "sourceHash": "630f92c2f1ab0195dd2c5f504456315324494a76f3d8c8f8c080bacf260d50c5",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is the first restaurant in the city to remove meat from its menu.",
+      "translationEligible": true,
+      "translationZh": "这是该市第一家从菜单中删除肉类的餐厅。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-46-1",
+      "optionId": "cet4:2025-12-03:q-46-1:C",
+      "sourceText": "It was famed throughout the U.S. for its fancy regional dishes.",
+      "sourceHash": "8efe86b0a0a18bd68c6b9b27b4fa002759bb7fa35ffff56f121544a623c2abd7",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It was famed throughout the U.S. for its fancy regional dishes.",
+      "translationEligible": true,
+      "translationZh": "它以其精美的地方菜肴而闻名于美国。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-46-1",
+      "optionId": "cet4:2025-12-03:q-46-1:D",
+      "sourceText": "It was established as a three-star Michelin restaurant in 2011.",
+      "sourceHash": "3e88c9f8bdc16b7f3b4dd5c83a896c76e99841d15f204389bc6c76a77068191d",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It was established as a three-star Michelin restaurant in 2011.",
+      "translationEligible": true,
+      "translationZh": "2011年被评为米其林三星级餐厅。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-47-1",
+      "optionId": "cet4:2025-12-03:q-47-1:A",
+      "sourceText": "To encourage more customers to be vegan.",
+      "sourceHash": "cf2f9384bee0f08363b3f2d76c13dd3ecd2923c71dc426aba3c3b02b27b880f1",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-17",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "To encourage more customers to be vegan.",
+      "translationEligible": true,
+      "translationZh": "鼓励更多顾客成为素食主义者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-47-1",
+      "optionId": "cet4:2025-12-03:q-47-1:B",
+      "sourceText": "To contribute to a sustainable food system.",
+      "sourceHash": "9bccc0b74f6473c7b260afbd7e83d3a94cbd7aa4c243314b4edb9e103202ab68",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-17",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "To contribute to a sustainable food system.",
+      "translationEligible": true,
+      "translationZh": "为可持续的粮食系统做出贡献。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-47-1",
+      "optionId": "cet4:2025-12-03:q-47-1:C",
+      "sourceText": "To show the appeal of a plant-based menu.",
+      "sourceHash": "5d20169c91c40f111b134a1289d07abd5efd03dc0c07a881f589aa1826b5b3d9",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-17",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "To show the appeal of a plant-based menu.",
+      "translationEligible": true,
+      "translationZh": "展示植物性菜单的吸引力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-47-1",
+      "optionId": "cet4:2025-12-03:q-47-1:D",
+      "sourceText": "To strive for the three-star Michelin rating.",
+      "sourceHash": "2bdf76662ad82582892f442ec4fb9a862bc71a82df9e3a502598e139585e44d3",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-4-17",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "To strive for the three-star Michelin rating.",
+      "translationEligible": true,
+      "translationZh": "争取米其林三星级评级。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-48-1",
+      "optionId": "cet4:2025-12-03:q-48-1:A",
+      "sourceText": "It was a worthwhile effort even though he was unsure of its success.",
+      "sourceHash": "c0a18199e77be0a27acbd20a31cb5d44c20908821ca0a01edebb0c95f6ecfb73",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It was a worthwhile effort even though he was unsure of its success.",
+      "translationEligible": true,
+      "translationZh": "尽管他不确定是否成功，但这是一次值得的努力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-48-1",
+      "optionId": "cet4:2025-12-03:q-48-1:B",
+      "sourceText": "It would set a model for many more restaurants to follow.",
+      "sourceHash": "7ef33c756b300c7905dc87ad3ba5c02e008237cc5623b3ba228466f9b5f4ffb7",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It would set a model for many more restaurants to follow.",
+      "translationEligible": true,
+      "translationZh": "这将为更多餐厅树立榜样。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-48-1",
+      "optionId": "cet4:2025-12-03:q-48-1:C",
+      "sourceText": "It was a mad gamble few chefs in the fine dining world would risk taking.",
+      "sourceHash": "906acebf6b25b9d216fe2b9c3b11c24e679e8f37f55e380e261b309031e4b94d",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It was a mad gamble few chefs in the fine dining world would risk taking.",
+      "translationEligible": true,
+      "translationZh": "这是一场疯狂的赌博，在美食界很少有厨师愿意冒险。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-48-1",
+      "optionId": "cet4:2025-12-03:q-48-1:D",
+      "sourceText": "It would prove a right step to take in today’s catering business.",
+      "sourceHash": "2d764053b7612417e641d9f62a4d964c74528eadcd71db525fe0d3d337800daa",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It would prove a right step to take in today’s catering business.",
+      "translationEligible": true,
+      "translationZh": "事实证明，这对于当今的餐饮业来说是正确的一步。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-49-1",
+      "optionId": "cet4:2025-12-03:q-49-1:A",
+      "sourceText": "It elevates the restaurant’s cooking to an art form.",
+      "sourceHash": "19a1ff163858bf2a48ce3629c41f1a1f8750d0bc8b4fa23e7c05b29cd5c6040c",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It elevates the restaurant’s cooking to an art form.",
+      "translationEligible": true,
+      "translationZh": "它将餐厅的烹饪提升为一种艺术形式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-49-1",
+      "optionId": "cet4:2025-12-03:q-49-1:B",
+      "sourceText": "It proves the validity of ratings awarded by Michelin.",
+      "sourceHash": "8bb116f8b8bc4ce881d29d4de63734ac91c02b32cacdbf2c42963d76e097dd7f",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It proves the validity of ratings awarded by Michelin.",
+      "translationEligible": true,
+      "translationZh": "它证明了米其林评级的有效性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-49-1",
+      "optionId": "cet4:2025-12-03:q-49-1:C",
+      "sourceText": "It shows a daring foresight regarding future fine dining.",
+      "sourceHash": "0d0ad6f0d8bbc564d811b230f84bfc21b1bddf84d5c47918e8e4cd238ee004d2",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It shows a daring foresight regarding future fine dining.",
+      "translationEligible": true,
+      "translationZh": "它展现了对未来美食的大胆远见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-49-1",
+      "optionId": "cet4:2025-12-03:q-49-1:D",
+      "sourceText": "It is an effort to transform the restaurant into a luxury one.",
+      "sourceHash": "44b2095a5ef3b3e81f23d01434a786af7d601f828aa0649633b9f7b28c87d73b",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is an effort to transform the restaurant into a luxury one.",
+      "translationEligible": true,
+      "translationZh": "这是将餐厅改造成豪华餐厅的努力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-50-1",
+      "optionId": "cet4:2025-12-03:q-50-1:A",
+      "sourceText": "An optimistic vision of vegan foods becoming mainstream.",
+      "sourceHash": "789e2d45f5b1e26ef9880db20664ac5f0c20d7cab880c58ba8519628a28d9784",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "An optimistic vision of vegan foods becoming mainstream.",
+      "translationEligible": true,
+      "translationZh": "纯素食品成为主流的乐观愿景。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-50-1",
+      "optionId": "cet4:2025-12-03:q-50-1:B",
+      "sourceText": "A greater responsibility for the culinary world to undertake.",
+      "sourceHash": "1ddf9d88f6501cfb7a80f974c0631e10ecb42ce6987541aff1d8fd7b03aecd53",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "A greater responsibility for the culinary world to undertake.",
+      "translationEligible": true,
+      "translationZh": "烹饪界要承担更大的责任。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-50-1",
+      "optionId": "cet4:2025-12-03:q-50-1:C",
+      "sourceText": "A strong incentive for more restaurants to offer healthier foods to their customers.",
+      "sourceHash": "741681e47ad14916d1d598fc9da4c7499b9739c208bb64c288fe8d8410a54463",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "A strong incentive for more restaurants to offer healthier foods to their customers.",
+      "translationEligible": true,
+      "translationZh": "强烈激励更多餐厅为顾客提供更健康的食品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-50-1",
+      "optionId": "cet4:2025-12-03:q-50-1:D",
+      "sourceText": "An explicit recognition of the rising importance of restaurants serving vegan foods.",
+      "sourceHash": "9e1c0e208295f3940b697d0a500e241b91628ad621c773e57df7d29d66c4285c",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "An explicit recognition of the rising importance of restaurants serving vegan foods.",
+      "translationEligible": true,
+      "translationZh": "明确认识到供应纯素食品的餐厅日益重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-51-1",
+      "optionId": "cet4:2025-12-03:q-51-1:A",
+      "sourceText": "Knowing their accuracy.",
+      "sourceHash": "3579f4b6a8be0646edab504aaf593643632aa4ac146d637624968655cd89d8be",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Knowing their accuracy.",
+      "translationEligible": true,
+      "translationZh": "知道它们的准确性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-51-1",
+      "optionId": "cet4:2025-12-03:q-51-1:B",
+      "sourceText": "Evaluating their applicability.",
+      "sourceHash": "46fa8e9f8fe2a1bc11e00876705d066b02b067ed173a3c0645286ddb3c1ef077",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Evaluating their applicability.",
+      "translationEligible": true,
+      "translationZh": "评估它们的适用性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-51-1",
+      "optionId": "cet4:2025-12-03:q-51-1:C",
+      "sourceText": "Utilizing the information they provide.",
+      "sourceHash": "2029fe553eb6f97ed17a9b03909046c0111239da8ce58c95cb0627bfaa07c8e5",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Utilizing the information they provide.",
+      "translationEligible": true,
+      "translationZh": "利用他们提供的信息。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-51-1",
+      "optionId": "cet4:2025-12-03:q-51-1:D",
+      "sourceText": "Weighing the consequences they have.",
+      "sourceHash": "524f17a208e9a66f730546d12b6f63b9875be706cce6cc81ce0dfcf3d5d3bdf1",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Weighing the consequences they have.",
+      "translationEligible": true,
+      "translationZh": "权衡它们所带来的后果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-52-1",
+      "optionId": "cet4:2025-12-03:q-52-1:A",
+      "sourceText": "Those complex enough to reveal the genetics behind a trait.",
+      "sourceHash": "397ac6ea404d982f18d0a9fe4bc73c17f9f1e116fa2db4fcb1751217f1d754b5",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Those complex enough to reveal the genetics behind a trait.",
+      "translationEligible": true,
+      "translationZh": "这些复杂到足以揭示特征背后的遗传学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-52-1",
+      "optionId": "cet4:2025-12-03:q-52-1:B",
+      "sourceText": "Those looking for traits responsible for certain diseases.",
+      "sourceHash": "943745c74b5598ed3e36520839f41d80fad02a1d6225bc496dfe74a2e5a9db3f",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Those looking for traits responsible for certain diseases.",
+      "translationEligible": true,
+      "translationZh": "那些寻找导致某些疾病的特征的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-52-1",
+      "optionId": "cet4:2025-12-03:q-52-1:C",
+      "sourceText": "Those focusing on the specific questions being asked.",
+      "sourceHash": "c54623a17ecd79544cd1be69e09685cb0145c8efab86fb506b72da7367449d68",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Those focusing on the specific questions being asked.",
+      "translationEligible": true,
+      "translationZh": "那些专注于所提出的具体问题的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-52-1",
+      "optionId": "cet4:2025-12-03:q-52-1:D",
+      "sourceText": "Those looking for traits determined by a single gene.",
+      "sourceHash": "8c8847649e390fa08636addab8bfa51aa18e996382f217a08b42693987d9d0eb",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Those looking for traits determined by a single gene.",
+      "translationEligible": true,
+      "translationZh": "那些寻找由单个基因决定的性状的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-53-1",
+      "optionId": "cet4:2025-12-03:q-53-1:A",
+      "sourceText": "They are unable to identify certain hereditary diseases by themselves.",
+      "sourceHash": "0507535f56fbb64c926d078dd8538ce89ab989099e6abb8aa99adfcdebbf8480",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are unable to identify certain hereditary diseases by themselves.",
+      "translationEligible": true,
+      "translationZh": "他们无法自行识别某些遗传性疾病。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-53-1",
+      "optionId": "cet4:2025-12-03:q-53-1:B",
+      "sourceText": "They are generally unable to separate genetic and non-genetic factors.",
+      "sourceHash": "3c8a5b3b4903c53758d72f9fc1be5de4772ef62f05584d1b06979363591be6d7",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are generally unable to separate genetic and non-genetic factors.",
+      "translationEligible": true,
+      "translationZh": "他们通常无法区分遗传因素和非遗传因素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-53-1",
+      "optionId": "cet4:2025-12-03:q-53-1:C",
+      "sourceText": "They cannot independently identify the majority of potential diseases.",
+      "sourceHash": "101c1152ceb0f8272ea009f1737acb4479ed3b5054a184e6c4f7686b270f425a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They cannot independently identify the majority of potential diseases.",
+      "translationEligible": true,
+      "translationZh": "他们无法独立识别大多数潜在疾病。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-53-1",
+      "optionId": "cet4:2025-12-03:q-53-1:D",
+      "sourceText": "They cannot tell apart the impact of lifestyle and that of the environment.",
+      "sourceHash": "5d2dcbc31df9ef69b26845433e175164ff531db198938dabf8555c1e3ff896d2",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They cannot tell apart the impact of lifestyle and that of the environment.",
+      "translationEligible": true,
+      "translationZh": "他们无法区分生活方式和环境的影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-54-1",
+      "optionId": "cet4:2025-12-03:q-54-1:A",
+      "sourceText": "The challenge in determining the role of each individual gene.",
+      "sourceHash": "e294dbcc97eba408aafa4febdcd4050099d6a0094aea5720ce5d6c6d22d4ffc8",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The challenge in determining the role of each individual gene.",
+      "translationEligible": true,
+      "translationZh": "确定每个基因的作用的挑战。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-54-1",
+      "optionId": "cet4:2025-12-03:q-54-1:B",
+      "sourceText": "The difficulty of foretelling how the various genes will interact.",
+      "sourceHash": "8efc9c60f470e526bc1fdf5119f51e7664f41577d99dc9a94b26a040b0d183da",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The difficulty of foretelling how the various genes will interact.",
+      "translationEligible": true,
+      "translationZh": "预测不同基因将如何相互作用的困难。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-54-1",
+      "optionId": "cet4:2025-12-03:q-54-1:C",
+      "sourceText": "The difficulty of telling genetic factors from environmental ones.",
+      "sourceHash": "ad23bb3d0f204e8fa26fc1fba012b231b4297aea632277b7c8307643926903ac",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The difficulty of telling genetic factors from environmental ones.",
+      "translationEligible": true,
+      "translationZh": "区分遗传因素和环境因素的困难。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-54-1",
+      "optionId": "cet4:2025-12-03:q-54-1:D",
+      "sourceText": "The enormous work to identify the hundreds of genes involved.",
+      "sourceHash": "ba33215a182768e97a9dc63149d3acbf6fc12b9c56712dd51a3907149bd19dcb",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The enormous work to identify the hundreds of genes involved.",
+      "translationEligible": true,
+      "translationZh": "鉴定涉及的数百个基因需要付出巨大的工作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-55-1",
+      "optionId": "cet4:2025-12-03:q-55-1:A",
+      "sourceText": "They are solid scientific bases for application.",
+      "sourceHash": "83154b28281278a00649c59ef5297a77eaea8105a109c7841029a1a2cdce4988",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are solid scientific bases for application.",
+      "translationEligible": true,
+      "translationZh": "它们是应用的坚实科学基础。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-55-1",
+      "optionId": "cet4:2025-12-03:q-55-1:B",
+      "sourceText": "They are helpful in finding a romantic match.",
+      "sourceHash": "ae5685672a24ad0170ab2c3d6665ca41e2545f69ca423a374457b8b302701f4e",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are helpful in finding a romantic match.",
+      "translationEligible": true,
+      "translationZh": "他们有助于寻找浪漫的伴侣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-55-1",
+      "optionId": "cet4:2025-12-03:q-55-1:C",
+      "sourceText": "They do not look promising at the moment.",
+      "sourceHash": "4c0043f06ebd9b3492eb93111c79801dee2f2efc1de7d16c7d916e45aff063de",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They do not look promising at the moment.",
+      "translationEligible": true,
+      "translationZh": "目前看来，他们的前景并不乐观。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-55-1",
+      "optionId": "cet4:2025-12-03:q-55-1:D",
+      "sourceText": "They do not make any sense at present.",
+      "sourceHash": "c8e8da6c18726a67ef6f3a285e12cf6134889cc26907a70783879fc427e1b0c2",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They do not make any sense at present.",
+      "translationEligible": true,
+      "translationZh": "它们目前没有任何意义。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:A",
+      "sourceText": "concerns",
+      "sourceHash": "fcfc5fe39fc177d6d978c10bf7927cbb5c76ac21bf643bf299db87bdc2f94df5",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "concerns",
+      "translationEligible": true,
+      "translationZh": "担忧",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:B",
+      "sourceText": "expansion",
+      "sourceHash": "167f448f11f389abcfaa904a1bfc1f05d4ee90bc3ebc7ef5e708a0bf3f50de69",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "expansion",
+      "translationEligible": true,
+      "translationZh": "扩张",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:C",
+      "sourceText": "forth",
+      "sourceHash": "58190a849fa33f10a8d3bcbdc36a817649841f6fe773de084277698c406f4446",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "forth",
+      "translationEligible": true,
+      "translationZh": "向前",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:D",
+      "sourceText": "geography",
+      "sourceHash": "bf8e5ca0b2d5abd3393eb6d13e8bdfc8934628e0110dfb67071d2fb819928f0c",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "geography",
+      "translationEligible": true,
+      "translationZh": "地理",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:E",
+      "sourceText": "importance",
+      "sourceHash": "d1ec49df3bf4c283a28f628b2d5770086702025a8932d72f43f1db527c1082ce",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "importance",
+      "translationEligible": true,
+      "translationZh": "重要性",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:F",
+      "sourceText": "imposed",
+      "sourceHash": "24c8783baf5d4296b8622df1daf778bbab428cb00cf28a1e9d47e00c429b1ae2",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "imposed",
+      "translationEligible": true,
+      "translationZh": "强加的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:G",
+      "sourceText": "inspired",
+      "sourceHash": "5f067754ad0a57929f782612011c01e32a92772e331a8270df89eb2840467776",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "inspired",
+      "translationEligible": true,
+      "translationZh": "受到启发",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:H",
+      "sourceText": "national",
+      "sourceHash": "400464e9e99bb03f0cd9732892d2547ac65073c5d32667c1d5e6639895b6bd6a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "national",
+      "translationEligible": true,
+      "translationZh": "国家的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:I",
+      "sourceText": "partners",
+      "sourceHash": "06cb75f132725b4bb3365dbbe3bed8c53075c49f4fc4b63dc4b91acde5695d3d",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "partners",
+      "translationEligible": true,
+      "translationZh": "合作伙伴",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:J",
+      "sourceText": "potential",
+      "sourceHash": "81b6b2c874b787640efa1419ec2584c3612675594e6de28e904a59416997905a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "potential",
+      "translationEligible": true,
+      "translationZh": "潜力",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:K",
+      "sourceText": "pursues",
+      "sourceHash": "35d9108b14c59c7ba49bf3d19aed1097f6f9fef647557bbd18dafcf2242ba848",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "pursues",
+      "translationEligible": true,
+      "translationZh": "追求",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:L",
+      "sourceText": "rescues",
+      "sourceHash": "6b2340f765de2c7ccf370b0d1b8664497d26b17c6ae1a5cae1d95aa4cb52779b",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "rescues",
+      "translationEligible": true,
+      "translationZh": "营救",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:M",
+      "sourceText": "rest",
+      "sourceHash": "2e09d5210db8417757b0f875c276d0cb877b22514e9a3583d2d8d7445368a027",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "rest",
+      "translationEligible": true,
+      "translationZh": "休息",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:N",
+      "sourceText": "strengthened",
+      "sourceHash": "7b2ba740fd0e769a4e850a9f52f4ee56d4b96ff04cea1f80d404ceaccb76734a",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "strengthened",
+      "translationEligible": true,
+      "translationZh": "加强",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-12-03",
+      "questionId": "cet4:2025-12-03:q-26-1",
+      "optionId": "cet4:2025-12-03:word-bank:O",
+      "sourceText": "together",
+      "sourceHash": "0c24734d7bf5954f08e5bfe4820b0b2f63da8d658df37c9d50080485e034b721",
+      "sourceBlockIds": [
+        "cet4:2025-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2025-12-03:b-1-13",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "together",
+      "translationEligible": true,
+      "translationZh": "在一起",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-1-12",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-3-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-4-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-12-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-12-03:b-6-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 61
+  },
+  "reasonCounts": {
+    "cloze": 4,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 13,
+    "reading_prose": 16,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 13,
+    "question_prompt": 20,
+    "reading": 16
+  },
+  "otherSourceBlockCounts": {
+    "options": 11
+  },
+  "issues": []
+}

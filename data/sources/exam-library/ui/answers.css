@@ -5,14 +5,16 @@
 .exam-answer-field:first-of-type{margin-top:.65rem}
 .exam-answer-field strong{color:#376349}
 .exam-answer-field p,.exam-answer-status{white-space:pre-wrap;overflow-wrap:anywhere;margin:.25rem 0}
-.exam-answer-original-label{margin:.65rem 0 .2rem;font-weight:700;color:#376349}
+.exam-answer-field p,.exam-answer-original p{max-width:100%;overflow-x:auto;overflow-y:hidden}
 .exam-answer-original{margin-top:.65rem;border-top:1px solid #dfece3;padding-top:.35rem;min-width:0}
-.exam-answer-extracted{margin-top:.8rem;padding-top:.55rem;border-top:1px solid #dfece3}
-.exam-answer-extracted summary{font-size:.88rem;color:#4f6f5b}
 .exam-answer-original p{margin:.5rem 0;white-space:normal;overflow-wrap:anywhere}
+.exam-answer-original .table-scroll{max-width:100%;margin:.65rem 0;overflow-x:auto}
+.exam-answer-original table{border-collapse:collapse;min-width:max-content}
+.exam-answer-original th,.exam-answer-original td{border:1px solid #ccd9d0;padding:.3rem .5rem;text-align:left;vertical-align:top}
 .exam-answer-original .formula-source,.exam-answer-original pre.tex-source{display:none}
-.exam-answer-original .formula mjx-container{max-width:100%}
 .exam-answer-original svg{max-width:100%;height:auto}
+.exam-answer-original .formula mjx-container,.exam-answer-original .formula svg{max-width:none}
+.exam-answer-original .formula svg{height:initial}
 .exam-answer-original img{max-width:100%;height:auto}
 .exam-answer-panel pre.code{max-width:100%;margin:.65rem 0;padding:.7rem .85rem;background:#f6f8fa;border:1px solid #d0d7de;border-radius:8px;color:#24292f;text-align:left;font:.88em/1.65 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre;overflow:auto;tab-size:4}
 @media print{.exam-answer-panel:not([open]){display:none}}

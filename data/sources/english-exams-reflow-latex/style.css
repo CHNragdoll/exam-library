@@ -16,3 +16,36 @@ figure.flowchart{max-width:100%;margin:1.4em auto}
 @media(min-width:900px){.paper .options:not(.single):has(>li:nth-child(10)){grid-template-columns:repeat(3,minmax(0,1fr));column-gap:1em}}
 
 @media(max-width:650px){.choice-row{grid-template-columns:2.1em minmax(0,1fr)}.choice-number{grid-row:1 / span 4}.choice-item:nth-child(2){grid-column:2;grid-row:1}.choice-item:nth-child(3){grid-column:2;grid-row:2}.choice-item:nth-child(4){grid-column:2;grid-row:3}.choice-item:nth-child(5){grid-column:2;grid-row:4}}
+
+.source-block-marker{display:none}
+.paragraph-translation[hidden]{display:none!important}
+.paragraph-translation{margin:-.15em 0 1.3em;padding:.65em .9em;border-left:2px solid #9cb7d3;background:#f6f9fc;color:#40536a;font-size:.9em;line-height:1.7;text-align:left}
+.paragraph-translation-label{display:block;margin-bottom:.2em;color:#58718e;font:600 .72em/1.4 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;letter-spacing:.04em}
+.paragraph-translation p{margin:0;text-align:left!important;hyphens:none!important}
+.paragraph-translation-toggle{cursor:pointer}
+.option-translation[hidden]{display:none!important}
+.option-translation{display:block;margin:.25em 0 .1em;padding-left:.6em;border-left:2px solid #b9cce0;color:#40536a;font:normal .88em/1.55 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;text-align:left;hyphens:none;overflow-wrap:anywhere}
+/* Only cloze word choices put the English and Chinese on opposite ends of one row. */
+.paper .options li > span.cloze-inline-option,.paper .choice-item.cloze-inline-option{display:grid;grid-template-columns:minmax(0,1fr) max-content;align-items:baseline;column-gap:.5em;min-width:0;overflow-wrap:anywhere}
+.paper .options li > span.cloze-inline-option{flex:1}
+.paper .cloze-inline-option .cloze-option-original{min-width:0}
+.paper .cloze-inline-option .option-translation{margin:0;padding:0;border:0;font-size:.82em;white-space:nowrap;text-align:right}
+.pdf-option-translation-board[hidden]{display:none!important}
+.pdf-option-translation-board{margin:.5em 0 1.4em;padding:.65em .8em;border-left:2px solid #9cb7d3;background:#f6f9fc;color:#40536a;font:normal .86em/1.5 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+.pdf-option-translation-heading{display:block;margin-bottom:.35em;color:#58718e;font-size:.82em}
+.pdf-option-translation-row{display:grid;grid-template-columns:1.6em minmax(0,1fr) minmax(0,1fr);gap:.5em;padding:.18em 0;align-items:start}
+.pdf-option-translation-label{font-weight:700}
+.pdf-option-translation-source,.pdf-option-translation-text{min-width:0;overflow-wrap:anywhere}
+@media(max-width:700px){.pdf-option-translation-row{grid-template-columns:1.6em minmax(0,1fr)}.pdf-option-translation-text{grid-column:2;color:#58718e}}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row{grid-template-columns:2.1em repeat(2,minmax(0,1fr))}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-number{grid-row:1 / span 2}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-item:nth-child(4){grid-column:2;grid-row:2}
+.exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-item:nth-child(5){grid-column:3;grid-row:2}
+@container (max-width:420px){
+  .exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row{grid-template-columns:2.1em minmax(0,1fr)}
+  .exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-number{grid-row:1 / span 4}
+  .exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-item:nth-child(3){grid-column:2;grid-row:2}
+  .exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-item:nth-child(4){grid-column:2;grid-row:3}
+  .exam-reader.reader-reflow>main .choice-row.reader-four-column.cloze-inline-row .choice-item:nth-child(5){grid-column:2;grid-row:4}
+}
+@media print{.paragraph-translation,.option-translation,.pdf-option-translation-board,.paragraph-translation-toggle{display:none!important}}

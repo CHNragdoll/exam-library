@@ -1,0 +1,3601 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2023-12-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+  "sourcePdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+  "paragraphs": [
+    {
+      "id": "cet6:2023-12-03:p:b-1-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With their valuable skills and experience, elderly people can continue to make significant contributions to society.” You can make comments, cite examples or use your personal observations to develop your essay. You should write at least 150 words but no more than 200 words (not including the sentence given).",
+      "sourceHash": "40b266ff2754acf2404c6ff8912eb2d9c3cd90d492a12a3e03facaaab2d97742",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有 30 分钟的时间写一篇文章，开头是“凭借他们宝贵的技能和经验，老年人可以继续为社会做出重大贡献。”您可以发表评论、引用示例或使用您的个人观察来完善您的论文。您应该写至少 150 个单词，但不超过 200 个单词（不包括给出的句子）。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-1-8",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-1-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "Modern U.S. cities were designed to make exercise unnecessary. Cars and elevators once symbolized urban areas as machines for more efficient living. Now it is clear that these improvements provide great benefits but also 26 health costs. Recent studies show that urban 27 encourages more driving and is associated with heavier weight. This 28 suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is 29 that urban planners bear this in mind.",
+      "sourceHash": "df3076aa7713ee41cf6b6eab87f48f1a0c47d17c209e94eb5b477246a720e404",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "现代美国城市的设计初衷是让锻炼变得不必要。汽车和电梯曾经象征着城市地区，是提高生活效率的机器。现在很明显，这些改进带来了巨大的好处，但也带来了健康成本。最近的研究表明，城市扩张鼓励更多的驾驶，并且与体重增加有关。这种相关性表明，城市的布局和设计可以阻碍或促进更健康的生活方式选择，城市规划者必须牢记这一点。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-1-10",
+      "paperId": "cet6:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "Unfortunately, urban planning still centers in large part on solving the problems of the past. Of course cities still need to 30 standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through 31 residential areas. But it’s also important to create healthier cities — and the discussion is already underway. More and more city planners are paying increasing attention to encouraging physical activity by making it easier and safer for people to recreate, walk, bike and take public transportation. Many studies of 32 show that people live the longest in environments where physical activity is part of everyday life.",
+      "sourceHash": "e8b89e3c209eb7914359fa7277e8f484fba8c1fc2645970b57640b5794e52169",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "不幸的是，城市规划在很大程度上仍然以解决过去的问题为中心。当然，城市仍然需要促进标准的公共卫生实践，例如将有毒设施与住宅分开，以及限制重型卡车通过密集的住宅区。但创建更健康的城市也很重要——讨论已经在进行中。越来越多的城市规划者越来越重视鼓励体育活动，让人们更容易、更安全地休闲、步行、骑自行车和乘坐公共交通工具。许多关于长寿的研究表明，在日常生活中体育活动成为一部分的环境中，人们的寿命最长。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-1-11",
+      "paperId": "cet6:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "Providing more walkable spaces, better protected bike lanes and more 33 spaces are important steps. But even smaller changes can be effective.",
+      "sourceHash": "5b6f41f4bb85839607a8cf5814d16d7bd83d94e082800cdafa8118cd764d5cf4",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "提供更多的步行空间、更好的自行车道保护和更多的休闲空间是重要的步骤。但即使是更小的改变也可能有效。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-1-12",
+      "paperId": "cet6:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "Cities can close off streets on weekends to encourage communities to get out and walk. They also can provide more seating in public places, so that less-fit residents can rest during their journeys. Using public spaces in cities as places where people can exercise promotes 34 , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that 35 less wealthy people from joining.",
+      "sourceHash": "8e0154d1b863e6ab181cefbfa3bde6773fba32cc44c310cc91d1548aabf8126d",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "城市可以在周末关闭街道，以鼓励社区出去散步。他们还可以在公共场所提供更多座位，以便体能较差的居民在旅途中可以休息。利用城市的公共空间作为人们锻炼的场所可以促进公平，而不是让体育活动仅限于私人健身房，而私人健身房的月费往往昂贵，阻碍了不太富裕的人加入。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-4",
+      "paperId": "cet6:2023-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Can Learning a Foreign Language Prevent Dementia?",
+      "sourceHash": "c541695a1a23d029618a183351e67f3eed3fb3b22f2098d6f5a11d06dba94156",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "学习外语可以预防痴呆症吗？",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) You may have heard that learning another language is one method for preventing or at least postponing the onset of dementia. Dementia refers to the loss of cognitive abilities, and one of its most common forms is Alzheimer’s disease (阿尔茨海默氏病). At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it. Nonetheless, some researchers have suggested that learning a foreign language might help delay the onset of dementia.",
+      "sourceHash": "4cb1596462d14401c0e42bd9e9a68ec990e734991c82fc561ab6e2815a8a0e3e",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答）您可能听说过学习另一种语言是预防或至少推迟痴呆症发作的一种方法。痴呆症是指认知能力的丧失，最常见的形式之一是阿尔茨海默氏病（阿尔茨海默氏病）。目前，人们对这种疾病的病因尚不清楚，因此，人们还没有可以采取的行之有效的措施来预防这种疾病。尽管如此，一些研究人员认为学习外语可能有助于延缓痴呆症的发作。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-6",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) To explore this possibility more deeply, let’s look at some of the common misconceptions about dementia and the aging brain. First of all, dementia is not an inevitable part of the normal aging process. Most older adults do not develop Alzheimer’s disease or other forms of dementia. It is also important to remember that dementia is not the same thing as normal forgetfulness. At any age, we might experience difficulty finding the exact word we want or have trouble remembering the name of the person we just met. People with dementia have more serious problems, like feeling confused or getting lost in a familiar place. Think of it this way: If you forget where you parked your car at the mall, that’s normal; if you forget how to drive a car, that may be a signal that something more serious is going on.",
+      "sourceHash": "942c88b19c2e786bd8197f5ad967bb6ae5798e6c1925ed900faa7ab2c4b8423b",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B）为了更深入地探讨这种可能性，让我们看看一些关于痴呆症和大脑老化的常见误解。首先，痴呆症并不是正常衰老过程中不可避免的一部分。大多数老年人不会患阿尔茨海默病或其他形式的痴呆症。同样重要的是要记住，痴呆症与正常的健忘不同。在任何年龄，我们都可能很难找到我们想要的确切单词，或者很难记住我们刚刚遇到的人的名字。痴呆症患者有更严重的问题，例如感到困惑或在熟悉的地方迷路。可以这样想：如果您忘记了在商场里把车停在哪里，这很正常；如果你忘记了如何开车，这可能是一个信号，表明有更严重的事情正在发生。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) The idea that dementia can be prevented is based on the comparison of the brain to a muscle. When people talk about the brain, they sometimes say things like “It is important to exercise your brain” or “To stay mentally fit, you have to give your brain a workout.” Although these are colorful analogies, in reality the brain is not a muscle. Unlike muscles, the brain is always active and works even during periods of rest and sleep. In addition, although some muscle cells have a lifespan of only a few days, brain cells last a lifetime. Not only that, but it has been shown that new brain cells are being created throughout one’s lifespan.",
+      "sourceHash": "114fe7b9629754b5bbcb67c2629a098af637c0a4fee061a86d24daad41ff35e9",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 痴呆症可以预防的想法是基于大脑与肌肉的比较。当人们谈论大脑时，他们有时会说“锻炼你的大脑很重要”或“为了保持精神健康，你必须锻炼你的大脑”。尽管这些都是丰富多彩的类比，但实际上大脑并不是肌肉。与肌肉不同，大脑始终处于活跃状态，即使在休息和睡眠期间也能工作。此外，虽然一些肌肉细胞的寿命只有几天，但脑细胞却可以终生。不仅如此，研究表明，人的一生中都会不断产生新的脑细胞。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-8",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) While it makes for a colorful analogy, comparing the brain to a muscle is inaccurate and misleading. So, if the brain is not a muscle, can it still be exercised? Once again, researchers don’t know for sure. There are now many computer, online, and mobile device applications that claim to be able to “train your brain,” and they typically tap into a variety of cognitive abilities. However, research suggests that although this type of training may improve one’s abilities at the tasks themselves, they don’t seem to improve other abilities. In other words, practicing a letter-detection task will, over time, improve your letter-detection skills, but it will not necessarily enhance your other perceptual abilities.",
+      "sourceHash": "6dda2aa7c836e8e5206fcc45e3eaffe6a4eefede90b39d4a411ed64dd68a4966",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）虽然这是一个丰富多彩的类比，但将大脑与肌肉进行比较是不准确且具有误导性的。那么，如果大脑不是肌肉，还能锻炼吗？研究人员再次不确定。现在有许多计算机、在线和移动设备应用程序声称能够“训练你的大脑”，它们通常会利用各种认知能力。然而，研究表明，虽然这种类型的训练可能会提高一个人完成任务本身的能力，但它们似乎并不能提高其他能力。换句话说，随着时间的推移，练习字母检测任务会提高你的字母检测技能，但不一定会增强你的其他感知能力。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-2-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) However, there is some reason to believe that learning languages might be different. The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already bilingual (双语的). Bilingualism most commonly occurs when children are exposed to two languages, either in the home (mom speaks Dutch, dad speaks Spanish) or more formally in early schooling. But bilingualism certainly occurs in adulthood as well.",
+      "sourceHash": "c51a4baa4cdf01e24da4496ca6c7780fc8fc997c9e499b9496f20499f03a05ad",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-2-9",
+        "cet6:2023-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 然而，有一些理由相信学习语言可能会有所不同。外语学习带来认知益处的最佳证据来自对已经掌握双语的人的研究。当孩子在家里（妈妈说荷兰语，爸爸说西班牙语）或更正式地在早期学校接触两种语言时，双语现象最常见。但双语肯定也会发生在成年期。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-2",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) Bilingualism and multilingualism are actually more common than you might think. In fact, it has been estimated that there are fewer monolingual speakers in the world than bilinguals and multilinguals. Although in many countries most inhabitants share just one language, other countries have several official languages. Switzerland, for example, has four official languages: German, French, Italian, and Romansh. Throughout large parts of Africa, Arabic, Swahili, French, and English are often known and used by individuals who speak a different, native language in their home than they do in the marketplace. So bilingualism and multilingualism are to be found throughout the world. And with regard to cognitive abilities, the research on those who speak more than one language paints an encouraging picture.",
+      "sourceHash": "114ef2a8f6f21ad6583061d03ede1abc042d5f807b1a5662bcce0c1c453bc4a3",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 双语和多语实际上比您想象的更常见。事实上，据估计，世界上讲单语的人比讲双语和多语的人要少。尽管在许多国家大多数居民只使用一种语言，但其他国家却有多种官方语言。例如，瑞士有四种官方语言：德语、法语、意大利语和罗曼什语。在非洲大部分地区，阿拉伯语、斯瓦希里语、法语和英语通常被那些在家里使用与在市场上不同的母语的人所熟知和使用。因此，双语和多语现象在世界各地都存在。就认知能力而言，对说一种以上语言的人的研究描绘了一幅令人鼓舞的画面。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) For one thing, bilinguals are better at multitasking. One explanation of this superiority is that speakers of two languages are continually inhibiting one of their languages, and this process of inhibition confers general cognitive benefits to other activities. In fact, bilingual individuals outperform their monolingual counterparts on a variety of cognitive tasks, such as following complex instructions, and switching to new instructions. For the sake of completeness, it should be noted that the advantages of being bilingual are not universal across all cognitive domains. Bilingual individuals have been shown to have smaller vocabularies and to take longer in retrieving words from memory when compared to monolinguals. In the long run, however, the cognitive and linguistic advantages of being bilingual far outweigh these two drawbacks.",
+      "sourceHash": "f042db76d4ba10130cfaef4d254e5567ed1901ceae55ebf3a50eb73b07b31221",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 一方面，双语者更擅长同时处理多项任务。对这种优越性的一种解释是，两种语言的使用者不断地抑制其中一种语言，而这种抑制过程为其他活动带来了普遍的认知益处。事实上，双语个体在各种认知任务上都优于单语个体，例如遵循复杂的指令以及切换到新的指令。为了完整起见，应该指出的是，双语的优势并不适用于所有认知领域。与单语者相比，双语者的词汇量较小，从记忆中提取单词的时间也更长。然而，从长远来看，双语的认知和语言优势远远超过这两个缺点。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-4",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer’s disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer’s for bilinguals. In fact, there is evidence to support this claim. The psychologist Ellen Bialystok and her colleagues obtained the histories of 184 individuals who had made use of a memory clinic in Toronto. For those who showed signs of dementia, the monolinguals in the sample had an average age of 71.4 years at time of onset. The bilinguals, in contrast, received their diagnosis at 75.5 years, on average. In a study of this sort, a difference of four years is highly significant, and could not be explained by other systematic differences between the two groups. For example, the monolinguals reported, on average, a year and a half more schooling than their bilingual counterparts, so the effect was clearly not due to formal education.",
+      "sourceHash": "2858176a6aa78176635a717f431ce0b23a68ad4f7166deb9e5b67f4386fc30b3",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 如果双语的好处延伸到认知的其他方面，那么我们预计双语者患阿尔茨海默病的发病率会低于单语者，或者至少双语者患阿尔茨海默病的时间会较晚。事实上，有证据支持这一说法。心理学家埃伦·比亚韦斯托克 (Ellen Bialystok) 和她的同事获得了 184 名曾在多伦多记忆诊所就诊的人的历史记录。对于那些表现出痴呆迹象的人，样本中的单语者发病时的平均年龄为 71.4 岁。相比之下，双语者平均在 75.5 岁时得到诊断。在此类研究中，四年的差异非常显着，并且无法用两组之间的其他系统差异来解释。例如，单语者平均比双语者多一年半的受教育时间，因此这种影响显然不是正规教育造成的。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) A separate study, conducted in India, found strikingly similar results: bilingual patients developed symptoms of dementia 4.5 years later than monolinguals, even after other potential factors, such as gender and occupation, were controlled for. In addition, researchers have reported other positive effects of bilingualism for cognitive abilities in later life, even when the person acquired the language in adulthood. Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time.",
+      "sourceHash": "fc14e2df34015e7e05f491f88d79e3901c19e213dea1fdec57cd9da090a7b0ee",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 在印度进行的另一项研究发现了惊人相似的结果：双语患者比单语患者晚 4.5 年出现痴呆症状，即使在控制了性别和职业等其他潜在因素之后也是如此。此外，研究人员还报告了双语对晚年认知能力的其他积极影响，即使一个人在成年后习得了该语言。至关重要的是，比亚韦斯托克认为，双语的积极好处只有那些一直使用两种语言的人才能发现。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-6",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) But encouraging as these kinds of studies are, they still have not established exactly how or why differences between bilinguals and monolinguals exist. Because these studies looked back at the histories of people who were already bilingual, the results can only say that a difference between the two groups was found, but not why that difference occurred. Further research is needed to determine what caused the differences in age of onset between the two groups.",
+      "sourceHash": "74d735f20ea90f57d676fb0a59c4c663b0b25f2d46873551c4c85d6788d94902",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 但是，尽管这类研究令人鼓舞，但它们仍然没有确切地确定双语者和单语者之间如何或为何存在差异。因为这些研究回顾了已经掌握双语的人的历史，所以结果只能说发现了两组之间的差异，但不能说明为什么会出现这种差异。需要进一步的研究来确定是什么导致了两组之间发病年龄的差异。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-3-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Other studies of successful aging suggest that being connected to one’s community and having plenty of social interaction is also important in delaying or even preventing the onset of dementia. Once again, however, the results are far less clear than the popular media might lead you to believe. Older individuals who lead active social lives are, almost by definition, healthier than their counterparts who rarely leave their homes or interact with others. So we can’t really say whether being socially active prevents the onset of dementia, or if people who don’t have dementia are more likely to be socially active.",
+      "sourceHash": "7bf5e67c3305fba1e50c0d7319771a2453d39cb10140547b22d9c30b790734ab",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-3-7",
+        "cet6:2023-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 其他关于成功老龄化的研究表明，与社区保持联系并进行大量的社交互动对于延缓甚至预防痴呆症的发作也很重要。然而，结果再一次远没有大众媒体让你相信的那么清晰。几乎从定义上来说，过着积极社交生活的老年人比很少离开家或与他人互动的老年人更健康。因此，我们无法真正确定社交活跃是否可以预防痴呆症的发作，或者没有患痴呆症的人是否更有可能参与社交活动。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-2",
+      "paperId": "cet6:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) But even if studying a foreign language is not a magical cure-all, there is one thing it will do: It will make you a better speaker of a foreign language. Doing that confers a whole host of advantages we do know about.",
+      "sourceHash": "f0bae04aa924a3161d51132e1fb63e2d248430d8f9048f7c437127921753151f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 但即使学习一门外语并不是灵丹妙药，它也能做到一件事：它会让你更好地讲外语。这样做可以带来我们所知道的一系列优势。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Research indicates that brain training is likely to boost one’s ability at specific tasks, but not one’s other cognitive abilities.",
+      "sourceHash": "7a936fd906dfda1918ae771c6ff8ec1c417ef396b4411daa35a534a2c724d27b",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 研究表明，大脑训练可能会提高一个人执行特定任务的能力，但不会提高一个人的其他认知能力。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-4",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. According to estimates, the number of people who speak two languages or more is greater than those who speak one language only.",
+      "sourceHash": "21bd75a06773299184865a46facc362e8fe03e27b291d5ad318ee9ca724630d6",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 据估计，讲两种或两种以上语言的人数多于只讲一种语言的人数。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. For the time being, we do not know what causes people to lose their cognitive abilities, or what we can do to prevent it.",
+      "sourceHash": "4a3d7148743af24eb620cc79d973558806446a358dc882640c22748c3f583c40",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 目前，我们不知道是什么导致人们失去认知能力，也不知道我们可以采取什么措施来预防这种情况。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-6",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. It is hard to determine whether people who are free from dementia tend to have more social activities, or more social activities keep people away from dementia.",
+      "sourceHash": "e1e63f8d7ad776d4143bdf4567381cb7148bdb0f24cb515f9f6e3c43724efb7c",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 很难确定是否没有患痴呆症的人往往有更多的社交活动，或者更多的社交活动使人们远离痴呆症。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. There is evidence that learning foreign languages might be beneficial to boosting one’s cognitive abilities.",
+      "sourceHash": "1b2855e42b154b4f20aa0dccc27311bc2298eab65aa241f7cf01f687bf604252",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 有证据表明学习外语可能有益于提高一个人的认知能力。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-8",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. It was suggested that only those who always spoke two languages could benefit from bilingualism.",
+      "sourceHash": "15d8312bd39a9c6d55652f2565138ba7ed917d05f9269fea0b46d336b7645804",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 有人建议，只有那些总是讲两种语言的人才能从双语中受益。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. The brain is different from muscles in that it keeps working even when the body is at rest.",
+      "sourceHash": "dc4c7c78862b2c695d5241c05324935c92526bda9665f079c260f996be7bb792",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 大脑与肌肉不同，即使身体处于休息状态，大脑也会继续工作。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-10",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. People who speak two languages do better at a number of cognitive tasks than those who speak only one language.",
+      "sourceHash": "5b516c176c7774e15328b9f7f92b637c9152b4813f42df191acfc47518d6de3a",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 说两种语言的人在许多认知任务上比只说一种语言的人做得更好。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-11",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Dementia is different from being merely forgetful and entails more serious trouble.",
+      "sourceHash": "e571cf3dfa17b0f9df0b05e3cc942fdc5e3e08d7b9ae490ddc10606b555a80f9",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 痴呆症与单纯的健忘不同，它会带来更严重的麻烦。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-12",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. It is claimed that more monolinguals suffer from Alzheimer’s disease than bilinguals.",
+      "sourceHash": "ab2e7bec5fa838a639b26b29750cf72c7a23efdd9af1011133a948cf6671d154",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 据称，患阿尔茨海默病的单语者多于双语者。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-14",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-16",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-17",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Research is meant to benefit society by raising public awareness and creating products and innovations that enhance development. For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.",
+      "sourceHash": "8ae9fa745b1b388150801f2d5a843fc916570009dc436bcbdf97e6b160899eb5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究旨在通过提高公众意识、创造促进发展的产品和创新来造福社会。为了使研究充分发挥其作用，结果必须摆脱研究实验室和学术期刊的限制。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-18",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Findings effectively communicated can go a long way to serve the interests of the public. They can help address social injustices or improve treatments offered to patients.",
+      "sourceHash": "5a6a370d43cb2fb19b7e140ee3c06295c416b4b0f1d448d1606f3234f27213cd",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有效传达调查结果可以大大有助于服务公众的利益。它们可以帮助解决社会不公正问题或改善为患者提供的治疗。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-19",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences. But few journals allow everybody to read the findings. Even articles freely available are usually written in academic language incomprehensible to the average reader.",
+      "sourceHash": "3d0e6e1499ae1432d7f5ff0d1494eaf1ae975dc02e381e5ee42dfd071257f8fb",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多研究人员似乎满足于在学术期刊或会议上分享他们的研究结果。但很少有期刊允许每个人都阅读研究结果。即使是免费提供的文章通常也是用普通读者难以理解的学术语言编写的。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-20",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "For researchers in the tenure-track system, their main goal is winning tenure, which in part can be achieved by getting a number of papers published in prominent journals. Pressures like this mean community-level outreach is not prioritised.",
+      "sourceHash": "eb48b1b9061faf080f8caa2cd95edd5be96caa7546f5e821554e5c547e2a22f5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-19"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "对于终身教授系统的研究人员来说，他们的主要目标是赢得终身教授职位，这在一定程度上可以通过在著名期刊上发表大量论文来实现。像这样的压力意味着社区层面的外展活动没有得到优先考虑。",
+      "source": {
+        "blockIds": [
+          "b-4-19"
+        ],
+        "reflowBlockIds": [
+          "b-4-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-4-21",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Many researchers lack the writing skills to describe their results to a general audience. They may also worry about whether the public will understand their findings, or about findings being used to influence controversial policies. These concerns cause some researchers to shy away from communicating their findings outside the academic community.",
+      "sourceHash": "ca97b461642310852b76b1d75995271b86441746824b8bad9d5811a572db5c1d",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-4-20"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-4-21",
+        "cet6:2023-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多研究人员缺乏向普通受众描述他们的结果的写作技巧。他们还可能担心公众是否会理解他们的研究结果，或者担心研究结果被用来影响有争议的政策。这些担忧导致一些研究人员回避在学术界之外交流他们的发现。",
+      "source": {
+        "blockIds": [
+          "b-4-20"
+        ],
+        "reflowBlockIds": [
+          "b-4-21",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-2",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Propagating research findings beyond academic publications is particularly crucial for addressing certain social discrepancies. It can help families, communities, healthcare providers, policymakers, government agencies and other stakeholders to understand and respond to crises that plague society.",
+      "sourceHash": "e9bf43b3420b567a29009020a467d4fc3d6316d9058eb480c24372e8a6aba387",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在学术出版物之外传播研究成果对于解决某些社会差异尤为重要。它可以帮助家庭、社区、医疗保健提供者、政策制定者、政府机构和其他利益相关者了解和应对困扰社会的危机。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "The benefits of sharing findings flow both ways. Engaging with other researchers and the public can lead to unexpected new connections and new ideas that could suggest fruitful new directions for research.",
+      "sourceHash": "1d0dd834da756755c1d8673af78b9852be5a0cc36b39cd9872cf4d3216579f1f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "分享发现的好处是双向的。与其他研究人员和公众接触可以带来意想不到的新联系和新想法，从而为研究提出富有成效的新方向。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-4",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "To benefit both researchers and the communities, the need to find innovative, accessible ways to share the work cannot be overstated.",
+      "sourceHash": "fc01471c1a0c459c9a8c4af998010af0485ea6a2eb3390e9953eba28114a11e5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为了让研究人员和社区都受益，需要找到创新的、易于理解的方式来分享工作成果，这一点怎么强调也不为过。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Institutions and funding organisations should support more researchers to publish in open access journals so that the public doesn’t have to pay to read them. Institutions and researchers should invest in partnerships that expand capacity for sharing results more broadly.",
+      "sourceHash": "2a838a00cec3d557a78fa81ca2b6ec1549dac95748f63f9c4764ad09f007e876",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "机构和资助组织应该支持更多的研究人员在开放获取期刊上发表文章，这样公众就不必付费阅读它们。机构和研究人员应该投资于伙伴关系，以扩大更广泛地共享成果的能力。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-6",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Furthermore, ethics committees should make it mandatory for researchers to share their results with the public. Every research participant should opt in or out of receiving results, as part of the process of giving informed consent.",
+      "sourceHash": "83a42e28bf1482a9e50c37171d56e0b63dddddea586bf60266e4d235462ee587",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "此外，伦理委员会应强制研究人员与公众分享他们的结果。作为给予知情同意过程的一部分，每个研究参与者都应该选择接受或不接受结果。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "There could be misunderstanding of the findings presented by the researcher because of technical terms. But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+      "sourceHash": "92e5e0aa9f9cb7ce52f938f4aaca15a3aa84997193b25d22f55f00a52fc3b1ec",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "由于技术术语的原因，研究人员提出的研究结果可能会被误解。但这可以通过研究人员聘请专业作家或传播官员的服务来解决，以帮助将他们的研究翻译成更容易理解的语言，并与媒体和公众广泛分享。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-8",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Sharing results with the people who are most affected by them makes us better researchers and ensures that our work can be used to improve people’s lives. Institutions and collaborators must recognise the value of doing so.",
+      "sourceHash": "d98c8e45b2ba0c163c3d8b3f29cb794ce0856a3d3caf9d946d3b45289acfc0f6",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与受其影响最严重的人分享结果可以使我们成为更好的研究人员，并确保我们的工作可以用来改善人们的生活。机构和合作者必须认识到这样做的价值。",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. How can research serve its full purpose according to the author?",
+      "sourceHash": "ca7a4a2a56fa5526064e591ac37407035298b86dcaddbe0b44f28b7c0ec95354",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 作者认为研究如何才能达到其全部目的？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-11",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. Why do ordinary readers find it difficult to access the results of researchers’ studies?",
+      "sourceHash": "2936061698dca62c8b055a314825198f6f188469484f2d5b01a37bd1026af580",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 为什么普通读者很难获得研究人员的研究结果？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-13",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What is one of the reasons some researchers won’t prioritise communicating their findings to the public?",
+      "sourceHash": "b84f845e479dff2f5148d1c385c60d1efe091683088868017c3f9b91142c6829",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 一些研究人员不优先向公众传达他们的发现的原因之一是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-5-15",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. How can sharing findings benefit researchers themselves?",
+      "sourceHash": "c28f59240c37fd03e9666404046563ae1f8e10151a38efe20762c09f5e625c98",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 分享研究结果如何使研究人员自身受益？",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-1",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. Why are researchers advised to engage the services of professional writers or communication officers?",
+      "sourceHash": "83975bce70d72e95b8e76749e8373d3d269f31e83f321c80a0d8571734728703",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 为什么建议研究人员聘请专业作家或传播官员的服务？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-4",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Spiders make their presence felt in late August and through early autumn. This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs.",
+      "sourceHash": "626dd597fe469d94610e08bcb2a09c5158f265b8f27c31da2f59eef315ea9915",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "蜘蛛在八月下旬和初秋期间就会出现。这是一些最常见品种的交配季节，雄性家蜘蛛会从隐蔽的角落出来寻找雌性，而花园蜘蛛则达到成年体型并结出最耀眼的网。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-6",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Yet while the spider is a familiar fixture of nursery poems or songs and Halloween decorations, its relationship with humans is complicated. Fear of spiders is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless. Farmland species perform valuable ecosystem services, by preying on insects that are our competitors for crops. But they are a constant source of human anxieties — with a cultural association with witches and wickedness dating back to the middle ages.",
+      "sourceHash": "4d5dc52139897f960ccc5902689b432828340c3490db098e814820dd2c56ee64",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，虽然蜘蛛是童谣、歌曲和万圣节装饰品中常见的形象，但它与人类的关系却很复杂。对蜘蛛的恐惧很常见，并且严重影响了患者的生活。它的流行似乎与任何合理的风险评估无关。英国的蜘蛛几乎都是无害的。农田物种通过捕食农作物竞争对手的昆虫来提供宝贵的生态系统服务。但它们始终是人类焦虑的根源——它们与女巫和邪恶的文化联系可以追溯到中世纪。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Does this perhaps explain, in part, the lack of data about how spiders are faring in our age of ecological crisis? British butterflies are the most studied group of insects in the world, due to the long tradition of collecting and observing them. But spider conservationists point out that it was only in the 1980s that the classification of house spiders was properly sorted out. And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.",
+      "sourceHash": "d5d4c5c7716af694df639eccebb0bef6a6d7e53678ee2b2400168801db03c431",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这是否可以部分解释为什么我们缺乏有关蜘蛛在生态危机时代的生存状况的数据？由于收集和观察英国蝴蝶的悠久传统，英国蝴蝶是世界上研究最多的昆虫类群。但蜘蛛保护主义者指出，直到20世纪80年代，家蜘蛛的分类才得到妥善整理。虽然有关昆虫数量的信息是通过测量撞击挡风玻璃或陷阱的数量的实验来收集的，但很少有人尝试对蜘蛛进行计数。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-8",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "The huge reductions in the numbers of flying insects can only mean a reduction in spiders’ food supply. A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development. This means the overall picture for spiders is worrying, as it is for most creatures. But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.",
+      "sourceHash": "833d035cc25968cd2a8ad7cfcade78a501803138c1d0c6593b78249e9384332d",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "飞虫数量的大幅减少只能意味着蜘蛛食物供应的减少。最近一项具有里程碑意义的研究发现，1989 年至 2016 年间，昆虫数量下降了 75%，农药的使用以及开发对野生地区的破坏被认为是罪魁祸首。这意味着蜘蛛的整体状况令人担忧，就像大多数生物一样。但自然资源保护主义者最担心的是那些由于栖息地丧失和破碎而受到威胁的品种，这使得它们无法迁徙。",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Of around 650 spider species regularly recorded in the UK, the majority thrive in marshes and wasteland. Conservation efforts, often led by determined individuals, have helped some species to recover by reintroducing them to new areas. With rewilding now firmly on the environmental policy agenda, the hope is that in future, spiders will be enabled to migrate by themselves, adapting to climate change by moving along wildlife corridors.",
+      "sourceHash": "d81971b0e843f0cff8343ad8c2f68a6f98b655740758e8c4b4c7be56321e84be",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在英国经常记录的大约 650 种蜘蛛中，大多数在沼泽和荒地中繁衍生息。保护工作通常由坚定的个人领导，通过将某些物种重新引入新的地区，帮助它们恢复。随着重新野生化现在已被牢牢提上环境政策议程，人们希望未来蜘蛛能够自行迁徙，通过沿着野生动物走廊移动来适应气候变化。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-6-10",
+      "paperId": "cet6:2023-12-03",
+      "kind": "reading",
+      "sourceText": "It seems unlikely that spiders will ever attract the same level of human enthusiasm as bees, birds or butterflies, in spite of their unique status as nature’s spinners. But as they reveal themselves in all their splendour this autumn, it would be a good thing if more animal lovers recognised the ways in which spiders are simply terrific.",
+      "sourceHash": "5f78ad27a770cdeaf3b2f459cc96ff42992a0fac8501642cff13695ee832426c",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "尽管蜘蛛作为大自然的旋转者具有独特的地位，但它们似乎不太可能像蜜蜂、鸟类或蝴蝶那样吸引人类的热情。但当它们在今年秋天展现出它们的辉煌时，如果有更多的动物爱好者认识到蜘蛛的奇妙之处，那将是一件好事。",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-1",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What do we learn about spiders in the UK since the middle ages?",
+      "sourceHash": "9800510415b0e8ebdca8ed0854d5b6609684c8cfb8134f99142eb04c7710f0ca",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 自中世纪以来，我们对英国的蜘蛛了解多少？",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-3",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What have spiders been associated with in the UK for centuries?",
+      "sourceHash": "3a177026ef41a16bf77befbb32ac0d6d005faca4edba41c6a6a77207d1690566",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 几个世纪以来，蜘蛛在英国与什么联系在一起？",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-5",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What partly accounts for the reduction in spiders’ food supply?",
+      "sourceHash": "209f989b97fbacbf3a6b054793cc745a1fcf53686f300dac182014972ca3b991",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 蜘蛛食物供应减少的部分原因是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-7",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What does the passage say is conservationists’ biggest worry?",
+      "sourceHash": "3db84d348a6ac52321186f9f14c0a566b00fd75e8a11a6a304e325324818b949",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 这篇文章说自然资源保护主义者最大的担忧是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-9",
+      "paperId": "cet6:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What wish does the author express close to the end of the passage?",
+      "sourceHash": "d2ebe0b60cdef173110fbad73748ce836d97173f06b584de475b3667be8d883a",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.作者在文章结尾处表达了什么愿望？",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-12-03:p:b-7-12",
+      "paperId": "cet6:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-12-03:b-7-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-12"
+        ],
+        "reflowBlockIds": [
+          "b-7-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-12-03.json",
+        "pdfSha256": "f4d786f50d1184e25fc1b27762db3bb462f9fedf12eb1cf497c7758644962e9c",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2023-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-46-1",
+      "optionId": "cet6:2023-12-03:q-46-1:A",
+      "sourceText": "With researchers being aware of public interests.",
+      "sourceHash": "2accdb1c13ab19ba40f50be2670fd46ae8b1af0cda670e978dc84556b7f1820f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "With researchers being aware of public interests.",
+      "translationEligible": true,
+      "translationZh": "研究人员意识到公共利益。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-46-1",
+      "optionId": "cet6:2023-12-03:q-46-1:B",
+      "sourceText": "With its findings published in prominent journals.",
+      "sourceHash": "a146ed0e19b54a039dad095ed8704e15f0bde7254bd39bf62a95cc45ca67ad17",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "With its findings published in prominent journals.",
+      "translationEligible": true,
+      "translationZh": "其研究结果发表在著名期刊上。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-46-1",
+      "optionId": "cet6:2023-12-03:q-46-1:C",
+      "sourceText": "With researchers creating products that enhance social development.",
+      "sourceHash": "f48b410bab9318015ef5f7053418155fff69b4079ca0eb9ad6fbcfc94deec0d5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "With researchers creating products that enhance social development.",
+      "translationEligible": true,
+      "translationZh": "研究人员创造出促进社会发展的产品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-46-1",
+      "optionId": "cet6:2023-12-03:q-46-1:D",
+      "sourceText": "With its findings properly communicated beyond the academic circle.",
+      "sourceHash": "3ba4a96a088907338ab1c8b31cf4f961cf0d5396a376848850169d5d69a77d10",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "With its findings properly communicated beyond the academic circle.",
+      "translationEligible": true,
+      "translationZh": "其研究结果在学术圈之外得到了适当的传播。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-47-1",
+      "optionId": "cet6:2023-12-03:q-47-1:A",
+      "sourceText": "They cannot understand the academic language used for reporting these results.",
+      "sourceHash": "d5fb84e9660c328ea51895ec0be75919f291f55952db221ecd1d833057bee26d",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They cannot understand the academic language used for reporting these results.",
+      "translationEligible": true,
+      "translationZh": "他们无法理解报告这些结果所使用的学术语言。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-47-1",
+      "optionId": "cet6:2023-12-03:q-47-1:B",
+      "sourceText": "They feel intimidated by the jargon researchers use to describe their findings.",
+      "sourceHash": "28e0b81e66161f87e667c1353e1866f17971fa8a1e23861f8ddccebcbf9f37e5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They feel intimidated by the jargon researchers use to describe their findings.",
+      "translationEligible": true,
+      "translationZh": "他们对研究人员用来描述他们的发现的术语感到害怕。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-47-1",
+      "optionId": "cet6:2023-12-03:q-47-1:C",
+      "sourceText": "They do not attend conferences where these results are freely available.",
+      "sourceHash": "b41a680af47204872c7ff6d9da86c45974720d3e4c91900ba032400f245ff911",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They do not attend conferences where these results are freely available.",
+      "translationEligible": true,
+      "translationZh": "他们不参加可免费获得这些结果的会议。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-47-1",
+      "optionId": "cet6:2023-12-03:q-47-1:D",
+      "sourceText": "They have few chances to locate the journals that publish these findings.",
+      "sourceHash": "7f99414b060ddfc737fdf4ca2693dae03b26fea25a17015575f4c79883ea7ba0",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They have few chances to locate the journals that publish these findings.",
+      "translationEligible": true,
+      "translationZh": "他们几乎没有机会找到发表这些发现的期刊。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-48-1",
+      "optionId": "cet6:2023-12-03:q-48-1:A",
+      "sourceText": "They can thrive on the papers published.",
+      "sourceHash": "b05a82deae283cffd81cdd4ede839cb8a80fd72938a2ccc0cf2a9e0818d46c8f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They can thrive on the papers published.",
+      "translationEligible": true,
+      "translationZh": "他们可以依靠发表的论文而茁壮成长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-48-1",
+      "optionId": "cet6:2023-12-03:q-48-1:B",
+      "sourceText": "Their top consideration is to win tenure.",
+      "sourceHash": "ba46d764538d86fd075ed5e3914e53bcb5a6496d5d552dc1029c6dc8782c5c4b",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Their top consideration is to win tenure.",
+      "translationEligible": true,
+      "translationZh": "他们的首要考虑是赢得终身职位。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-48-1",
+      "optionId": "cet6:2023-12-03:q-48-1:C",
+      "sourceText": "Their main goal is gaining recognition in their field.",
+      "sourceHash": "5e864a61bfca9cdbba7dceda6389965bd0dc3075a2b96b767aefb540cd3a8678",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Their main goal is gaining recognition in their field.",
+      "translationEligible": true,
+      "translationZh": "他们的主要目标是获得所在领域的认可。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-48-1",
+      "optionId": "cet6:2023-12-03:q-48-1:D",
+      "sourceText": "They have to struggle to reach out to the community.",
+      "sourceHash": "de88d6517ddb8d9d4a09c37a29a27cdca6cb219eeedae653ed15d861848df7a1",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They have to struggle to reach out to the community.",
+      "translationEligible": true,
+      "translationZh": "他们必须努力接触社区。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-49-1",
+      "optionId": "cet6:2023-12-03:q-49-1:A",
+      "sourceText": "By helping them to identify new research directions.",
+      "sourceHash": "48ffaa43598012aa2eb3ba1d12a65cd0b17c5a1a7bab35712ab6914793d0d208",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-16",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "By helping them to identify new research directions.",
+      "translationEligible": true,
+      "translationZh": "通过帮助他们确定新的研究方向。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-49-1",
+      "optionId": "cet6:2023-12-03:q-49-1:B",
+      "sourceText": "By enabling them to understand crises plaguing society.",
+      "sourceHash": "927c1cc613a3df038c9f4691daba5b60d3ba86ddf93d4df7ba38fed5c3c5b540",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-16",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "By enabling them to understand crises plaguing society.",
+      "translationEligible": true,
+      "translationZh": "让他们了解困扰社会的危机。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-49-1",
+      "optionId": "cet6:2023-12-03:q-49-1:C",
+      "sourceText": "By enabling them to effectively address social discrepancies.",
+      "sourceHash": "4ba47ebe0cf20119e5ceef9a64d2c1eb825fea675e6a990282fee4f07ea1a1f5",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-16",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "By enabling them to effectively address social discrepancies.",
+      "translationEligible": true,
+      "translationZh": "通过使他们能够有效地解决社会差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-49-1",
+      "optionId": "cet6:2023-12-03:q-49-1:D",
+      "sourceText": "By helping them to forge ties with government agencies.",
+      "sourceHash": "ffb5c277a73ecc086455a15d57c9beffbc5859b802522c1fb98f9cfdf3fcb86f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-5-16",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "By helping them to forge ties with government agencies.",
+      "translationEligible": true,
+      "translationZh": "通过帮助他们与政府机构建立联系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-50-1",
+      "optionId": "cet6:2023-12-03:q-50-1:A",
+      "sourceText": "To satisfy ethics committees’ mandatory requirements of researchers.",
+      "sourceHash": "bb3214741dd9ffb91bcea8f3e6a6e2d53d010362a0f434220ff61c619213eeda",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "To satisfy ethics committees’ mandatory requirements of researchers.",
+      "translationEligible": true,
+      "translationZh": "满足伦理委员会对研究人员的强制性要求。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-50-1",
+      "optionId": "cet6:2023-12-03:q-50-1:B",
+      "sourceText": "To translate their study into languages accessible to readers overseas.",
+      "sourceHash": "709f25373024ebeaa832d9ec32e3b22129c18d5f999c9984696c89d90c10c8c3",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "To translate their study into languages accessible to readers overseas.",
+      "translationEligible": true,
+      "translationZh": "将他们的研究成果翻译成海外读者可以理解的语言。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-50-1",
+      "optionId": "cet6:2023-12-03:q-50-1:C",
+      "sourceText": "To make their publications correctly understood by the public.",
+      "sourceHash": "31603ab434c1c6f372876e60fe90509b5d1113d0ac02fdacf78c0874974aa1bd",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "To make their publications correctly understood by the public.",
+      "translationEligible": true,
+      "translationZh": "让公众正确理解他们的出版物。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-50-1",
+      "optionId": "cet6:2023-12-03:q-50-1:D",
+      "sourceText": "To render their findings acceptable by prominent journals.",
+      "sourceHash": "115a884678d16f4e8d6cfaf94bcb72d810675e206066fc9fe474275c8630845c",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "To render their findings acceptable by prominent journals.",
+      "translationEligible": true,
+      "translationZh": "使他们的研究结果被著名期刊所接受。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-51-1",
+      "optionId": "cet6:2023-12-03:q-51-1:A",
+      "sourceText": "They have been generally misconceived.",
+      "sourceHash": "2ee36d4d4e5743dcf1182f86d5c7647cab92f3511cb9f97c7ef75972a57d4d1f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They have been generally misconceived.",
+      "translationEligible": true,
+      "translationZh": "他们普遍被误解了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-51-1",
+      "optionId": "cet6:2023-12-03:q-51-1:B",
+      "sourceText": "They have adversely impacted crop growth.",
+      "sourceHash": "1c71ff04f5f61bd348642113790aa890fd0f4f4c2585ba27a56cbf55592415f3",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They have adversely impacted crop growth.",
+      "translationEligible": true,
+      "translationZh": "它们对作物生长产生了不利影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-51-1",
+      "optionId": "cet6:2023-12-03:q-51-1:C",
+      "sourceText": "They have been a constant reminder of bad luck.",
+      "sourceHash": "a47dbb95bedf4d17905400f68560f85b2d012e1e698e97f0bbb152469cfc5e41",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They have been a constant reminder of bad luck.",
+      "translationEligible": true,
+      "translationZh": "它们一直在提醒着人们霉运。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-51-1",
+      "optionId": "cet6:2023-12-03:q-51-1:D",
+      "sourceText": "They have made their presence felt when spinning webs.",
+      "sourceHash": "786f3e2fae589a3e858cb5e23aaa1efe6f78d89384dd7415bb3dbb942f72bfc8",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They have made their presence felt when spinning webs.",
+      "translationEligible": true,
+      "translationZh": "当它们织网时，人们就能感受到它们的存在。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-52-1",
+      "optionId": "cet6:2023-12-03:q-52-1:A",
+      "sourceText": "Harm.",
+      "sourceHash": "3efcedbbd59d9e45474429e9bf4b135eb1ee1e5b483b36b5e333629b4f9a252a",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Harm.",
+      "translationEligible": true,
+      "translationZh": "危害。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-52-1",
+      "optionId": "cet6:2023-12-03:q-52-1:B",
+      "sourceText": "Evil.",
+      "sourceHash": "4e29bda5d9101f9d0fc4839d09ba187b1334d5548dde0d2a39eba65f1dfb0462",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Evil.",
+      "translationEligible": true,
+      "translationZh": "邪恶。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-52-1",
+      "optionId": "cet6:2023-12-03:q-52-1:C",
+      "sourceText": "Suffering.",
+      "sourceHash": "6fb06052e71909a7b1cd35f8c071477743eb608bd17f1c1851215aace673be12",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Suffering.",
+      "translationEligible": true,
+      "translationZh": "受苦。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-52-1",
+      "optionId": "cet6:2023-12-03:q-52-1:D",
+      "sourceText": "Aggression.",
+      "sourceHash": "dbad2ba08e40d198e08b303756e2a0e24d988d8e29068b7fced5d7b512260a85",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Aggression.",
+      "translationEligible": true,
+      "translationZh": "侵略性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-53-1",
+      "optionId": "cet6:2023-12-03:q-53-1:A",
+      "sourceText": "The long tradition of collecting insects.",
+      "sourceHash": "c3266044c86e98801c0db9ed2b17871e1c14b1cc9682d3f9cba30cbbeb342d42",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The long tradition of collecting insects.",
+      "translationEligible": true,
+      "translationZh": "采集昆虫的悠久传统。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-53-1",
+      "optionId": "cet6:2023-12-03:q-53-1:B",
+      "sourceText": "Fast reproduction of their competitors.",
+      "sourceHash": "0e128cc524b983b84cf6721861fda78f119b4f93a7247b6db335171ebe2ae45b",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Fast reproduction of their competitors.",
+      "translationEligible": true,
+      "translationZh": "快速复制其竞争对手。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-53-1",
+      "optionId": "cet6:2023-12-03:q-53-1:C",
+      "sourceText": "Chemicals used for killing insects.",
+      "sourceHash": "2641270974822529423687e36c16ef600018adc51e3cb21255bae7789282b561",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Chemicals used for killing insects.",
+      "translationEligible": true,
+      "translationZh": "用于杀死昆虫的化学品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-53-1",
+      "optionId": "cet6:2023-12-03:q-53-1:D",
+      "sourceText": "The extinction of a lot of wildlife.",
+      "sourceHash": "3b2a55b9f7dac9bb6950a85176412e50b4f67238adead967bdfa8a0a5db9db25",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The extinction of a lot of wildlife.",
+      "translationEligible": true,
+      "translationZh": "大量野生动物灭绝。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-54-1",
+      "optionId": "cet6:2023-12-03:q-54-1:A",
+      "sourceText": "A variety of spiders are threatened due to pollution of marshes and wasteland.",
+      "sourceHash": "76e05564c2d49061fd90444047cbb24eb870839d1753eac697894386cd047432",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A variety of spiders are threatened due to pollution of marshes and wasteland.",
+      "translationEligible": true,
+      "translationZh": "由于沼泽和荒地的污染，多种蜘蛛受到威胁。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-54-1",
+      "optionId": "cet6:2023-12-03:q-54-1:B",
+      "sourceText": "Certain species of spiders are endangered due to loss of their natural homes.",
+      "sourceHash": "2615e009e0f5c739c729fc5efabe7be3c042e07d6726c22dc7dbb152143661b4",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Certain species of spiders are endangered due to loss of their natural homes.",
+      "translationEligible": true,
+      "translationZh": "某些种类的蜘蛛由于失去其天然家园而濒临灭绝。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-54-1",
+      "optionId": "cet6:2023-12-03:q-54-1:C",
+      "sourceText": "An increasing number of spiders are being killed by deadly pesticides.",
+      "sourceHash": "7bfc1ddced1e2db913420925d680e59e67f40f5195421770acdcf71862d9e7ba",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "An increasing number of spiders are being killed by deadly pesticides.",
+      "translationEligible": true,
+      "translationZh": "越来越多的蜘蛛被致命的杀虫剂杀死。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-54-1",
+      "optionId": "cet6:2023-12-03:q-54-1:D",
+      "sourceText": "More and more spider species are found losing their ability to migrate.",
+      "sourceHash": "3f4a5cfb828b405ac3b2a5a7b5faba9284e1576244ba58e7ce176fdc4e392123",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "More and more spider species are found losing their ability to migrate.",
+      "translationEligible": true,
+      "translationZh": "人们发现越来越多的蜘蛛物种失去了迁徙的能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-55-1",
+      "optionId": "cet6:2023-12-03:q-55-1:A",
+      "sourceText": "More people would recognise spiders’ unique status in the ecosystem.",
+      "sourceHash": "6e97da36cce539fc2457920396f9f946b5030f2dfd46a82630fb12e70e0a0b5a",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "More people would recognise spiders’ unique status in the ecosystem.",
+      "translationEligible": true,
+      "translationZh": "更多的人会认识到蜘蛛在生态系统中的独特地位。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-55-1",
+      "optionId": "cet6:2023-12-03:q-55-1:B",
+      "sourceText": "People would show greater enthusiasm for spiders than for butterflies.",
+      "sourceHash": "94fd91a3c63d22a5a5c8810fac68b31657dece9ab2bf0017f6db93aad7efcd42",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "People would show greater enthusiasm for spiders than for butterflies.",
+      "translationEligible": true,
+      "translationZh": "人们对蜘蛛的热情比对蝴蝶的热情要大。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-55-1",
+      "optionId": "cet6:2023-12-03:q-55-1:C",
+      "sourceText": "There would be sufficient corridors for spiders to move along.",
+      "sourceHash": "fc43339375e686118948601ca14a28775d9ce3a480446faf3dbb5763c51b8ecf",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "There would be sufficient corridors for spiders to move along.",
+      "translationEligible": true,
+      "translationZh": "会有足够的走廊供蜘蛛移动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-55-1",
+      "optionId": "cet6:2023-12-03:q-55-1:D",
+      "sourceText": "There would be more people appreciating spiders’ splendour.",
+      "sourceHash": "12bf2651331880b9732b3017530036a21c398bb6903494f3d85396b8b3312129",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-7-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "There would be more people appreciating spiders’ splendour.",
+      "translationEligible": true,
+      "translationZh": "将会有更多的人欣赏蜘蛛的辉煌。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:A",
+      "sourceText": "correlation",
+      "sourceHash": "577bf0c4f4ee4f887ec975d9f5356309244babf9fad24797025228a2092d78fd",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "correlation",
+      "translationEligible": true,
+      "translationZh": "相关性",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:B",
+      "sourceText": "dense",
+      "sourceHash": "d6a98598212ed729f5b9a4d1b7ff4dcc1341bbfc740993325b9107298521422f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "dense",
+      "translationEligible": true,
+      "translationZh": "稠密的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:C",
+      "sourceText": "deter",
+      "sourceHash": "f46dc62af3171f09b0989daadc18e7b5a38fcdfe48913bb2b5db8db96a1265a1",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "deter",
+      "translationEligible": true,
+      "translationZh": "威慑",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:D",
+      "sourceText": "equity",
+      "sourceHash": "30703a5c0fcb28e886e06f6769f4cdf59c4e2e7cbe8d944b8e38ff4d11fb2887",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "equity",
+      "translationEligible": true,
+      "translationZh": "股权",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:E",
+      "sourceText": "foster",
+      "sourceHash": "17c3a324486be8f84436b3835df56de14c8928f73504319e93c018e6fbd0205b",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "foster",
+      "translationEligible": true,
+      "translationZh": "寄养",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:F",
+      "sourceText": "imperative",
+      "sourceHash": "e7735f86642e2f00514b5ce61fb9fbc2a687455b142a6e41af46498aa9ad7844",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "imperative",
+      "translationEligible": true,
+      "translationZh": "势在必行",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:G",
+      "sourceText": "impose",
+      "sourceHash": "0734bf93ed06c9169956bc5181ad511cc7bd9b6afd67e6c6bcc0bf19a1ba6986",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "impose",
+      "translationEligible": true,
+      "translationZh": "强加",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:H",
+      "sourceText": "irrespective",
+      "sourceHash": "27a02f3e46f9be313d77354746fe915f06a3e1a129288c38e117c16343fd5a47",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "irrespective",
+      "translationEligible": true,
+      "translationZh": "不顾一切",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:I",
+      "sourceText": "longevity",
+      "sourceHash": "0e6609817466dcc418ad82d5e26fb95713b68f0b31941af6717f183d372ee5a7",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "longevity",
+      "translationEligible": true,
+      "translationZh": "长寿",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:J",
+      "sourceText": "navigate",
+      "sourceHash": "d0cda6559bb347db706f6fa92a5b2491658e0c1e5bda98bb14e3c8a711b8fa33",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "navigate",
+      "translationEligible": true,
+      "translationZh": "导航",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:K",
+      "sourceText": "recreational",
+      "sourceHash": "8575e43e52cfebdcf89f5f0fd05d8291b5aa3847836edde2705b86b4ca9f524f",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "recreational",
+      "translationEligible": true,
+      "translationZh": "休闲的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:L",
+      "sourceText": "rotten",
+      "sourceHash": "eda565a9067e4049556890611dca70670d0b5a298722ecd6a40bf14b1bb0acf0",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "rotten",
+      "translationEligible": true,
+      "translationZh": "腐烂的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:M",
+      "sourceText": "sprawl",
+      "sourceHash": "0da049d51751a885cf61fd7ff9f871f6a9f832e4d091570936fa61700cedbf4d",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "sprawl",
+      "translationEligible": true,
+      "translationZh": "蔓延",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:N",
+      "sourceText": "vibrate",
+      "sourceHash": "3f3b4341e51c371706b7c6e381947f5d1f3897898680cead088bbef81daba875",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "vibrate",
+      "translationEligible": true,
+      "translationZh": "振动",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-12-03",
+      "questionId": "cet6:2023-12-03:q-26-1",
+      "optionId": "cet6:2023-12-03:word-bank:O",
+      "sourceText": "vicinity",
+      "sourceHash": "5d0f434b79f423afb4863a63e84629a82a168bb6a4eb37940c5f063fbd85cf29",
+      "sourceBlockIds": [
+        "cet6:2023-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-12-03:b-2-1",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "vicinity",
+      "translationEligible": true,
+      "translationZh": "附近",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-1-12",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-13",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-14",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-15",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-16",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-20",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-4-20"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-4-21",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-4-21"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-12-03:p:b-4-21"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-5-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-6-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-7-1"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-12-03:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-12-03:p:b-7-12"
+    },
+    {
+      "sourceBlockId": "cet6:2023-12-03:b-7-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 65
+  },
+  "reasonCounts": {
+    "cloze": 4,
+    "cross_page_continuation": 3,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 12,
+    "reading_prose": 18,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 12,
+    "question_prompt": 20,
+    "reading": 18
+  },
+  "otherSourceBlockCounts": {
+    "options": 11
+  },
+  "issues": []
+}

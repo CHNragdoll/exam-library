@@ -1,5 +1,6 @@
-"""PDF-checked image fallback questions must become individual English records."""
+"""PDF-checked image questions retain a crop or verified searchable source text."""
 
+import importlib.util
 import json
 from pathlib import Path
 import re
@@ -11,9 +12,16 @@ from scripts import build_structured_exams as builder
 
 
 REFLOW = Path(__file__).resolve().parents[1] / "data/sources/english-exams-reflow-latex"
+ORIGINAL = Path(__file__).resolve().parents[1] / "data/sources/english-exams-web-2026-09-26"
+RECOVERY_MODULE = REFLOW / "tools/recover_image_questions.py"
+SPEC = importlib.util.spec_from_file_location("english_image_recovery", RECOVERY_MODULE)
+assert SPEC and SPEC.loader
+recovery = importlib.util.module_from_spec(SPEC)
+SPEC.loader.exec_module(recovery)
 
 # Each number is visibly printed as a separate question on the physical PDF page.
-# The original crop must remain beside the recovered, searchable source text.
+# Retain a crop where text is unreadable; otherwise verify searchable text
+# against the original reader's PDF-derived SVG layer.
 EXPECTED = {
     ("cet4", "2020-09-01", 8): (51, 52, 53, 54, 55),
     ("cet4", "2020-12-01", 6): (40,),
@@ -52,16 +60,30 @@ def question_number(block):
 
 
 class EnglishImageQuestionRecoveryTests(unittest.TestCase):
-    def test_all_82_questions_have_individual_reflow_blocks_and_source_crops(self):
+    def test_all_82_questions_have_individual_reflow_blocks_and_source_evidence(self):
         self.assertEqual(sum(map(len, EXPECTED.values())), 82)
         for (category, stem, page_number), numbers in EXPECTED.items():
             with self.subTest(category=category, stem=stem, page=page_number):
                 paper = json.loads((REFLOW / category / "papers" / f"{stem}.json").read_text())
                 blocks = paper["pages"][page_number - 1]["blocks"]
-                self.assertTrue(any(block["type"] == "source_line" for block in blocks))
                 actual = [question_number(block) for block in blocks]
                 for number in numbers:
                     self.assertEqual(actual.count(number), 1, (category, stem, page_number, number))
+                if not any(block["type"] == "source_line" for block in blocks):
+                    # A repaired text layer no longer needs an image fallback.
+                    # Require every stem and A–D choice to match the original
+                    # SVG text layer before accepting that replacement.
+                    case = (category, stem, page_number)
+                    source = ORIGINAL / category / "papers" / f"{stem}.htm"
+                    self.assertTrue(source.is_file())
+                    rows = recovery._svg_rows(source, page_number)
+                    extracted = recovery._existing_questions(blocks, set(numbers), case)
+                    self.assertEqual(set(extracted), set(numbers))
+                    for number in numbers:
+                        index, options = extracted[number]
+                        self.assertEqual([option["label"] for option in options], list("ABCD"))
+                        recovery._verify_extracted_question(
+                            number, blocks[index], options, rows, case)
 
     def test_all_82_questions_survive_targeted_structured_build(self):
         self.assertEqual(sum(len(numbers) for key, numbers in EXPECTED.items()

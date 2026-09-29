@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>整卷练习 · 真题库</title>
+  <link rel="stylesheet" href="../ui/tokens.css">
+  <link rel="stylesheet" href="../ui/code-highlight.css">
+  <link rel="stylesheet" href="practice.css">
+  <link rel="stylesheet" href="../ui/material.css">
+  <link rel="stylesheet" href="full-paper.css?v=20260929-cloze-answer-quiet">
+  <script>
+    window.MathJax = {
+      startup: {typeset: false},
+      tex: {
+        inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']],
+        packages: ['base', 'ams', 'newcommand', 'noundefined', 'boldsymbol']
+      },
+      options: {skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'mjx-container']}
+    };
+  </script>
+  <script defer src="../ui/vendor/mathjax-3.2.2-tex-svg-full.js"></script>
+  <script defer src="../ui/code-highlight.js"></script>
+  <script defer src="practice-shared.js"></script>
+  <script defer src="full-paper.js?v=20260929-cloze-answer-top"></script>
+  <script defer src="practice-version-nav.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#question-list">跳转到试卷</a>
+  <header class="site-header">
+    <a class="brand" href="../index.htm"><span class="brand-mark">题</span><span>真题库<small>本地刷题</small></span></a>
+    <div class="full-paper-header-actions">
+      <nav id="paper-versions" class="full-paper-versions" aria-label="试卷版本" hidden></nav>
+    </div>
+  </header>
+  <main class="practice-shell full-paper-shell">
+    <div class="page-heading">
+      <p class="eyebrow">FULL PAPER PRACTICE</p>
+      <h1>整卷练习</h1>
+      <p>按原卷顺序作答；每题可在原位查看参考答案。</p>
+    </div>
+    <p id="page-status" class="page-status" role="status" aria-live="polite">正在加载试卷…</p>
+    <section id="paper-panel" class="practice-panel" aria-label="整卷练习" hidden>
+      <div class="paper-heading">
+        <div><p id="paper-category" class="eyebrow"></p><h2 id="paper-title"></h2></div>
+        <span id="paper-count" class="full-paper-count"></span>
+      </div>
+      <nav class="full-paper-toc" aria-label="试卷目录">
+        <span id="immersive-paper-title" class="immersive-paper-title" hidden></span>
+        <label for="paper-toc-select">目录</label>
+        <select id="paper-toc-select" aria-label="选择章节或题目"></select>
+        <button id="paragraph-translation-toggle" type="button" aria-pressed="false" hidden>显示段落译文</button>
+        <button id="immersive-toggle" type="button" aria-pressed="false">沉浸模式</button>
+      </nav>
+      <div id="question-list" class="full-paper-list"></div>
+      <div id="immersive-workspace" class="immersive-workspace" hidden>
+        <nav id="immersive-directory" class="immersive-directory" aria-label="大题目录"></nav>
+        <section id="immersive-reading" class="immersive-reading" aria-label="原文与材料">
+          <div id="immersive-reading-page" class="immersive-reading-page">
+            <div id="immersive-translation-overlay" class="immersive-translation-overlay" role="button" tabindex="0" aria-label="点击返回英文原文" hidden>
+              <p class="immersive-translation-hint">本段译文 · 点击返回英文</p>
+              <p id="immersive-translation-text" class="immersive-translation-text" lang="zh-CN"></p>
+            </div>
+          </div>
+        </section>
+        <section id="immersive-questions" class="immersive-questions" aria-label="题目与作答">
+          <div class="immersive-group-bar">
+            <p id="immersive-question-context" class="immersive-question-context"></p>
+            <button id="immersive-group-check" type="button" hidden>核对本组</button>
+          </div>
+          <nav id="immersive-question-tabs" class="immersive-question-tabs" aria-label="本组题目"></nav>
+        </section>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

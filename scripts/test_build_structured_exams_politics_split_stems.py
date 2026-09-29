@@ -1,4 +1,4 @@
-"""Regression checks for 2022 politics essay text split mid-word by PDF pages."""
+"""Regression checks for 2022 politics page seams and essay/answer boundaries."""
 
 import json
 from pathlib import Path
@@ -32,8 +32,32 @@ class PoliticsSplitStemsTests(unittest.TestCase):
                 question = next(q for q in paper["questions"] if q["number"] == number)
                 self.assertEqual(question["sourcePages"], pages)
                 self.assertTrue(set(block_ids).issubset(question["sourceBlocks"]))
-                self.assertEqual(question["stem"], "".join(blocks[bid]["text"] for bid in block_ids))
                 self.assertIn(seam, question["stem"])
+                if number == "27":
+                    self.assertEqual(question["stem"], "".join(blocks[bid]["text"] for bid in block_ids))
+                    continue
+
+                # Source blocks retain the printed answer hint, but the stem
+                # shown before reveal must end after both actual prompts.
+                source_text = "".join(blocks[bid]["text"] for bid in block_ids)
+                display_text = "".join(
+                    blocks[bid].get("presentation", {}).get("displayText", blocks[bid]["text"])
+                    for bid in block_ids
+                )
+                self.assertEqual(question["stem"], display_text)
+                self.assertIn("答题思路", source_text)
+                self.assertNotIn("答题思路", question["stem"])
+                self.assertEqual([subquestion["number"] for subquestion in question["subquestions"]],
+                                 ["1", "2"])
+                for subquestion in question["subquestions"]:
+                    self.assertIn(subquestion["text"], question["stem"])
+
+                note = question["embeddedAnswerNote"]
+                self.assertEqual(note["kind"], "printed_answer_hint")
+                self.assertEqual(note["sourceDocumentId"], document["id"])
+                self.assertTrue(set(note["sourceBlocks"]).issubset(question["sourceBlocks"]))
+                self.assertEqual(note["text"], question["answer"]["solution"])
+                self.assertEqual(note["sourceBlocks"], question["answer"]["sourceBlocks"])
         for number in (4, 8, 20, 27):
             question = next(q for q in paper["questions"] if q["number"] == str(number))
             self.assertEqual(question["status"], "complete")

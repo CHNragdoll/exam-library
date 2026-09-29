@@ -24,6 +24,18 @@ def block_text(block: dict) -> str:
 
 
 class ImageQuestionRecoveryTests(unittest.TestCase):
+    def test_selectable_question_requires_source_faithful_options(self):
+        category, stem, page_number = "cet4", "2020-09-01", 8
+        pdf = SOURCES / "english-exams-web-2026-09-26" / ".firecrawl" / category / f"{stem}.pdf"
+        original = SOURCES / "english-exams-web-2026-09-26" / category / "papers" / f"{stem}.htm"
+        with fitz.open(pdf) as document:
+            page = document[page_number - 1]
+            blocks = prepare(extract(page, unknown_glyphs=get_unknown_glyphs(page))["blocks"], page)
+        first_options = next(block for block in blocks if block["type"] == "options")
+        first_options["items"][0]["runs"][0]["text"] = "An unsupported answer."
+        with self.assertRaisesRegex(ValueError, "extracted option differs from original SVG"):
+            recover_image_questions(category, stem, page_number, blocks, original)
+
     def test_all_confirmed_questions_keep_crops_and_printed_option_groups(self):
         self.assertEqual(len(RECOVERY_CASES), 18)
         self.assertEqual(sum(map(len, RECOVERY_CASES.values())), 82)

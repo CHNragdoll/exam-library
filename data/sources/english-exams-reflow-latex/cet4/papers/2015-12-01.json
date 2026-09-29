@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2015 年12 月大学英语四级考试真题（第1 套)",
@@ -673,7 +673,7 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "The rate for parking in Lot",
+                  "text": "The rate for parking in Lot C.",
                   "flags": [
                     false,
                     false,
@@ -694,12 +694,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
+            },
             {
               "label": "D",
               "runs": [
@@ -1456,20 +1451,7 @@
               ]
             },
             {
-              "text": " with a",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "single line through the centre.",
+              "text": " with a single line through the centre.",
               "flags": [
                 false,
                 false,
@@ -1505,7 +1487,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "16, A) No one knows for sure when they came into being.",
@@ -3069,46 +3051,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Directions ：In this section, you are going to read a passage with ten statements attached to it. Each statement contains",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "information given in one of the paragraphs. Identify the paragraph from which the information is derived. You",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "may choose a paragraph more than once. Each paragraph is marked' with a letter. Answer the questions by",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "marking the corresponding letter on",
+              "text": "Directions ：In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked' with a letter. Answer the questions by marking the corresponding letter on",
               "flags": [
                 false,
                 false,
@@ -3122,15 +3065,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Joy",
               "flags": [
@@ -3154,9 +3094,14 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
-              "text": " Becoming educated should not require giving up pleasure.",
+              "text": "Becoming educated should not require giving up pleasure.",
               "flags": [
                 false,
                 false,
@@ -3602,20 +3547,7 @@
               ]
             },
             {
-              "text": "：There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "of them there are four choices marked A), B), C) and D)",
+              "text": "：There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D)",
               "flags": [
                 false,
                 false,
@@ -3631,20 +3563,7 @@
               ]
             },
             {
-              "text": " You should decide on the best choice and mark the",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "corresponding letter on",
+              "text": " You should decide on the best choice and mark the corresponding letter on",
               "flags": [
                 false,
                 false,

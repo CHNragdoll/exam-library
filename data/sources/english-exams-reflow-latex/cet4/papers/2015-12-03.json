@@ -118,34 +118,36 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
-              "text": "Part",
+              "text": "Part Ⅱ Listening Comprehension ( 30 minutes)",
               "flags": [
                 true,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "instruction",
+          "runs": [
             {
-              "text": " Ⅱ",
+              "text": "Sheet 1 with a single line through the centre.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
             {
-              "text": "Listening Comprehension ( 30 minutes)",
-              "flags": [
-                true,
-                false,
-                false
-              ]
-            },
-            {
-              "text": " Sheet 1 with a single line through the centre. 1 A. Children should be taught to be more careful.",
+              "text": "1.",
               "flags": [
                 false,
                 false,
@@ -157,6 +159,19 @@
         {
           "type": "options",
           "items": [
+            {
+              "label": "A",
+              "runs": [
+                {
+                  "text": "Children should be taught to be more careful.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
             {
               "label": "B",
               "runs": [
@@ -2939,12 +2954,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "perfect essay.",
               "flags": [

@@ -1,0 +1,3401 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2022-06-02",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+  "sourcePdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+  "paragraphs": [
+    {
+      "id": "cet4:2022-06-02:p:b-1-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: Suppose you are going to write a proposal to your student union for enriching students' extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "8744e2a909d0112d8b111b15b8b2c88deb584f5d80dbc38bdcb1e50c5b4a63e7",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明： 假设您要向学生会写一份关于丰富学生课外活动的提案。您要写下要组织哪些活动以及原因。您将有 30 分钟的时间来撰写提案。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-8",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list o f choices given in a word bank following the passage. Read the",
+      "sourceHash": "87640a5f01a8846b83e74fe6b69fcf82030306d568712041e4b10ed78753dc21",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。阅读",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-9",
+      "paperId": "cet4:2022-06-02",
+      "kind": "heading_prose",
+      "sourceText": "passage through carefully before making your choices, Each choice in the bank is identified",
+      "sourceHash": "3f8dce7c37ca5855d10806c0c54254665517e7024b6a2862f34f02386627cb4e",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "做出选择之前要仔细过一遍，银行里的每一个选择都是有标识的",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-10",
+      "paperId": "cet4:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any o f the words in the bank more than once.",
+      "sourceHash": "9e75387536ed25862ea01d741d295a488928942d062fe02f45dd5e6e8851ed4a",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-11",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Questions 26 to 35 are based on the following passage.",
+      "sourceHash": "d81a9979810985d6d593fb77874c1bf30a863e90a59a3f32445681614c762907",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 26 至 35 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-12",
+      "paperId": "cet4:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a 26 to consider what these natural flavors actually are?",
+      "sourceHash": "4ace7d47a7ffa4f2da407bc55433ef2c19d67d59911226db237acb9ab9823752",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-13",
+      "paperId": "cet4:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "Most of us might think that \"natural flavors\" are, well, naturally good for us. A recent study in the journal Appetite found that when the word \"natural“ appears on packaging, people 27 that the food within is indeed healthier. In truth, natural flavors do not 28 much, at least chemically speaking, from their flavor-boosting 29 : artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a 30 smell or taste.",
+      "sourceHash": "4ef2f4f75c4abbe1090eb759707fbc9728db6b8412dea566e1bb1429d582b4f1",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-14",
+      "paperId": "cet4:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "Natural flavors come from plant or animal 31 like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are 32 from plants and animals to create specific flavors for processed foods. But that does not 33 make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not 34 the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn't require companies to reveal what additional chemicals a specific item 35 .",
+      "sourceHash": "759a1bffbff243f0b8ca0343f32a1984f2813dda7c8119973bddadd0bb77ee5c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-1-15",
+      "paperId": "cet4:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "So if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer^ market.",
+      "sourceHash": "a4fcaa37e3b45235791405353c8fc7bdbca70b9d2f60a01ac4a3e01dd5e93563",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one o f the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "4411ef6cdd3294d36f27366426e1566791a11fbc51f011fe0429fa812b8ade28",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-4",
+      "paperId": "cet4:2022-06-02",
+      "kind": "heading_prose",
+      "sourceText": "Fake holiday villa websites prompt warning",
+      "sourceHash": "859d0d037f74c8bba04a0928d6f9ef8b40af7e19db04f9cad0bfb479deec26ca",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "假冒度假别墅网站提示警告",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "A) During the British winter, the thought of two weeks in a coastal villa ( 另U 型) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset (*氐消)the labor until the holidays start. For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared.",
+      "sourceHash": "391870b6c8b0d1e24e51ecf8c694e99ad52faf6336c29b83a565221be772be86",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 在英国的冬天，一想到要在海边别墅（另U型）住上两周，一边欣赏令人心旷神怡的海景，一边享受巨大的泳池，就足以抵消（*氐消）假期开始之前的劳累。然而，对于越来越多的人来说，他们的年假正变成一场噩梦，因为他们发现他们花费数千美元购买的房产并不存在，而且他们预订房产的网站也消失了。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-6",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "B) Consumers have been warned to be aware of the potential for deception in this market, which is far from uncommon. In 2017 there were 1,632 cases of reported \"\"villa fraud ( 诈骗)“，with victims losing an average of £ 2,052, according to Action Fraud, the national center for reporting such frauds. \"'Millions of pounds are lost each year by defrauded holidaym akers,says Sean Tipton of the Association of British Travel Agents (ABTA).",
+      "sourceHash": "03b37a5d99a3415f860c1d5dbfe9df963883c3fe8d21319857e6c5cd171d9837",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 消费者已被警告要注意这个市场中潜在的欺骗行为，这种情况并不罕见。根据举报此类欺诈行为的国家中心 Action Fraud 的数据，2017 年共报告了 1,632 起“别墅诈骗”案件，受害者平均损失 2,052 英镑。“英国旅行社协会 (ABTA) 的肖恩·蒂普顿 (Sean Tipton) 表示，“度假者每年因受骗而损失数百万英镑。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "C) The problem has ballooned in the last 10 years, with frauds becoming more and more sophisticated. The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name,“summer\", \"villas\" or \"rentals”. Details of legitimate (合法的)villas are often stolen from other sites. \"When the fraudsters first started it was unsophisticated一the websites looked amateur and there wasn't a lot of effort J says Tipton. \"Now they are clever. They extensively rip off legitimate websites and use a different website name. They911 have pictures of a sales team and it might be a poor actor in New York that is down as their head of sales.”",
+      "sourceHash": "5c65573185bfa01004c849a3af1eb878b695f70b26700b740bce036cfaba529a",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 在过去 10 年里，随着欺诈行为变得越来越复杂，这个问题日益严重。这些假冒网站的名称听起来很真实，涉及多种关键字，通常包括地名、“夏天”、“别墅”或“出租”。合法别墅的详细信息经常从其他网站被盗。 “当欺诈者刚开始时，他们的做法并不成熟——网站看起来很业余，而且没有付出太多努力，J 说。“现在他们很聪明了。他们广泛盗用合法网站并使用不同的网站名称。他们911有销售团队的照片，可能是纽约的一个糟糕的演员担任他们的销售主管。”",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-2-8",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "D) Fraudsters target popular seaside destinations for British tourists visiting Spain where prices can soar if demand exceeds supply. Prices are kept within reasonable ranges to avoid arousing suspicion. CCA villa might cost £ 5,000 elsewhere and they will offer it at say £ 3,500. But a bit of a giveaway is that the villa will be cheaper than on other websites and there9s unlimited availability,says Tipton. Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as “Spanish seaside villas”.",
+      "sourceHash": "b16526b2dc7de2b212d9097c5aa760c0135429c094ca64e85ee7190dce60451b",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-2-8",
+        "cet4:2022-06-02:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 诈骗者瞄准了英国游客前往西班牙的热门海滨目的地，如果供不应求，那里的价格可能会飙升。价格保持在合理范围内，以避免引起怀疑。 CCA 别墅在其他地方可能要花费 5,000 英镑，但他们会以 3,500 英镑的价格出售。但提普顿说，有一点值得一提的是，别墅会比其他网站上便宜，而且可以无限量供应。欺诈者还投资点击付费广告，当人们输入“西班牙海滨别墅”等短语时，这些广告就会出现在搜索引擎的顶部。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-2",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "E) With such a degree of professionalism, how can consumers find out if the website they're looking to book with is trustworthy? ”When people book holiday villas they are doing so through rose-colored glasses/9 says Tony Neate, chief executive of Get Safe Online, “They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there. Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.^^ He also suggests asking someone not going on the holiday to have a look at the website. <cThey might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer. \"The problem is that when the money leaves your account it's in theirs straightaway and it's very hard to track it,\" says Barclays Bank head of digital safety, Jodie Gilbert. \"We generally recommend other forms of payment, like credit card.^^",
+      "sourceHash": "84df4c21a5f29bbf0c0a618269f3b72143a7d4a653f527bf29b8f7ac9f424fbb",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 如此专业，消费者如何才能知道他们想要预订的网站是否值得信赖？ ”Get Safe Online 首席执行官托尼·尼特 (Tony Neate) 表示，当人们预订度假别墅时，他们都是抱着乐观的态度/9 进行预订的，“他们应该在谷歌上搜索该房产，并在谷歌地图和街景等网站上查看是否有该房产。另外，请通过固定电话与您预订别墅的人交谈，因为诈骗者往往只使用手机。^^ 他还建议让不去度假的人查看该网站。 <c他们可能会发现你没有发现的问题。”另一个潜在的危险信号是被要求通过银行转账付款。巴克莱银行数字安全主管朱迪·吉尔伯特表示：“问题在于，当钱离开你的账户时，它会立即进入他们的账户，而且很难追踪。” “我们通常建议其他付款方式，例如信用卡。^^",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "F) Little seems to be known about these fraudsters, ctThere is no way to definitely know who they are,^^ says Neate. ccIt could be anyone. It could be your next-door neighbor or organized crime in Russia.^^ Action Fraud says people should ensure the company renting the villa is a member of a recognized trade body such as ABTA.",
+      "sourceHash": "6afa28fe0147c0f69f0153b4b8a2a18971d8acc51bcddf520dcfdfec17171639",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 人们似乎对这些欺诈者知之甚少，没有办法确切地知道他们是谁，^^ Neate 说。 cc 可以是任何人。它可能是您的隔壁邻居或俄罗斯的有组织犯罪。^^ Action Fraud 表示，人们应该确保租赁别墅的公司是 ABTA 等公认贸易机构的成员。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-4",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "G) “By working with industry partners such as ABTA and Get Safe Online, we are able to issue alerts about the latest threats they should be aware of. If you believe you have fallen victim to fraud or cyber-crime, please report it to Action F rau d,it adds. ABTA says it is trying to combat the issue by running public awareness campaigns. \"It's a growing problem and people can't stop fraudsters being dishonest/9 says Tipton. “They're still going to do it. It's not impossible to stop but as it's internet-based it's harder to pursue.^^",
+      "sourceHash": "2bf55597c10711e02111854877bde417c0760b762d1b65e2708877b40d9f86d9",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) “通过与 ABTA 和 Get Safe Online 等行业合作伙伴合作，我们能够针对他们应该注意的最新威胁发出警报。如果您认为自己已成为欺诈或网络犯罪的受害者，请向 Action Frau d 报告。”ABTA 表示，它正在尝试通过开展公众宣传活动来解决这个问题。“这是一个日益严重的问题，人们无法阻止欺诈者的不诚实行为/9”Tipton 说道。 “他们仍然会这样做。阻止并不是不可能的，但由于它是基于互联网的，所以更难追求。^^",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "H) Nick Cooper, the founder and co-owner of villa booking company Villa Plus, estimates his company has uncovered more than 200 fake villa websites over the past two years, and doesn't believe enough is being done. \"It is hopeless to report fake villa websites to the internet giants who host them,^^ he says. \"I found it impossible to speak to anyone. Also, once one bank account gets reported, they simply use another.^^",
+      "sourceHash": "9cdd952f0802a0bba0d8d4a7fea88f873d88c7118d71ef5767553801fcee4af8",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 尼克·库珀 (Nick Cooper) 是别墅预订公司 Villa Plus 的创始人兼共同所有人，他估计他的公司在过去两年里已经发现了 200 多个假别墅网站，但他认为做得还不够。 “向托管虚假别墅网站的互联网巨头举报是没有希望的，^^ 他说。“我发现不可能与任何人交谈。此外，一旦一个银行账户被举报，他们就会使用另一个银行账户。^^",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-6",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "I) For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer. \"When people book their holidays they get so emotionally involved, and when they find that villa at a good price with availability in peak season, they are an easy target/9 says Cooper. ccThe public has to learn to be far more aware they are a target for these sort of frauds.^^ But it's not just the financial cost. \"A family will turn up at a villa and find out it doesn't exist or the owner doesn't know who you are,^^ says Tipton. \"The problem then is you have to find accommodation at short notice. It can be incredibly expensive but it's the emotional cost, too.”",
+      "sourceHash": "684f92cce25893e18a32d35b7c1f40ddd2534b57c5103c49bbe2b7a6d9dc2cb4",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 目前，阻止欺诈者的唯一方法似乎最终掌握在消费者手中。库珀说：“当人们预订假期时，他们会情绪激动，当他们发现别墅价格合理且在旺季可用时，他们很容易成为目标/9。cc公众必须学会更多地意识到他们是此类欺诈的目标。^^但这不仅仅是财务成本。“一个家庭出现在别墅时会发现它不存在，或者业主不知道你是谁，^^蒂普顿说。 “那么问题是你必须在短时间内找到住宿。这可能非常昂贵，但也是情感成本。”",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "J) Carla O9 Shaughnessy from Sydenham was searching last year for a good deal to book a villa in Majorca for a summer break for the family. was comparing prices online and found one that came in a bit cheaper than others,says O9Shaughnessy. She emailed the company via its website, asking how far the villa was from the airport and about local restaurants. \"They came back with believable answers; it was all very friendly and professional,she says. Happy with the responses, O9Shaughnessy paid the full amount of £ 3,000 via bank transfer into the travel agent's account and then forgot about it until a month before the booking.",
+      "sourceHash": "466eeefe024f225ac639dcd2896a29208efe2e354db6b55c363727711571901c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 来自西德纳姆 (Sydenham) 的卡拉·O9·肖内西 (Carla O9 Shaughnessy) 去年正在寻找划算的价格，为家人在马略卡岛预订一栋别墅，以便度过暑假。 O9Shaughnessy 说，他在网上比较了价格，发现其中一款比其他的便宜一点。她通过网站向该公司发送电子邮件，询问别墅距离机场有多远以及当地的餐馆。 “他们带着可信的答案回来了；她说，一切都非常友好和专业。 O9Shaughnessy 对答复感到满意，通过银行转帐将 3,000 英镑全额支付到旅行社的账户中，然后直到预订前一个月才忘记这件事。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-3-8",
+      "paperId": "cet4:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "K) “I tried logging on to the website and couldn't,\" she recalls. \"I Googled the agent's name and there were lots of complaints about him being a fraudster. If only I'd Googled before but I never thought of it.\" Although she found another villa in time for their holiday, she admits she was much more cautious. <CI paid through a secure third-party site and had phone conversations with the agent. But I wasn't able to relax until we turned up and I had the keys.”",
+      "sourceHash": "b3769c68f15f5b949fc97cc2f4c165997473ea178a35951aece0909e8ba28918",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-3-8",
+        "cet4:2022-06-02:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) “我尝试登录该网站，但无法登录，”她回忆道。 “我在谷歌上搜索了这名代理人的名字，有很多关于他是骗子的投诉。如果我以前在谷歌上搜索过就好了，但我从来没有想到过。”尽管她在度假时及时找到了另一栋别墅，但她承认自己更加谨慎。 <CI 通过安全的第三方网站付款并与代理进行了电话交谈。但直到我们到达并拿到钥匙之前我才得以放松。”",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-8",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-2",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "36. Fraudsters often steal villa-booking information from authentic holiday websites.",
+      "sourceHash": "5ae27c49a9cbfee476600a7c153a4c615550d09d9689b16cb7e6e64c7f5f456b",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 欺诈者经常从真实的度假网站窃取别墅预订信息。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "37. Fraudsters keep changing their bank accounts to avoid being tracked.",
+      "sourceHash": "f5f94c4982a25c520873d5135ebe7795e22860a3c0ccbf22241619a067db28bc",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 欺诈者不断更改他们的银行账户以避免被追踪。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-4",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "38. It is suggested that people not going on the holiday might help detect website frauds.",
+      "sourceHash": "6594152eff55a924481f8808b1b6121e695bd7e6cb03a4cd886ddb891c1bbba6",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 建议不去度假的人可能有助于发现网站欺诈行为。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "39. More and more British holidaymakers find the seaside villas they booked online actually nonexistent.",
+      "sourceHash": "b356213e5d6f68c480494f40cdbc52737de4b73e63f4251e9ba6f26877efeabe",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 越来越多的英国度假者发现他们在网上预订的海滨别墅实际上并不存在。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-6",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "40. By checking an agent's name online before booking a villa, holidaymakers can avoid falling into traps.",
+      "sourceHash": "ff0d771a2a9a576181487d81c94800de7ca05db3c46db3269717afa6cb85839f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 在预订别墅之前，通过在网上检查代理人的名字，度假者可以避免落入陷阱。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "41. Fraudsters are difficult to identify, according to an online safety expert.",
+      "sourceHash": "d77774088ad2bc975201b561fb63456c387252495194917d88c8aed7caafd91d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 一位在线安全专家表示，欺诈者很难识别。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-8",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "42. Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds.",
+      "sourceHash": "001ee8beb4beb43b3d77a94fa457ca60a664cc0f91b6a1b2a47fda54ba6f4c97",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 已提醒度假者注意网上别墅预订欺诈行为的频繁发生。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-9",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "43. It is holidaymakers that can protect themselves from falling victim to frauds.",
+      "sourceHash": "5ba1b58129498128a4148ae4bf8dd0aab71b69bc0a82cebe71c8238f76ccba34",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 度假者可以保护自己免遭诈骗。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-10",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "44. Holidaymakers are advised not to make payments by bank transfer.",
+      "sourceHash": "96f93312a079c9cb74aa7b23285427dabd4c8be0315326e7144e67983d3f98e3",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 建议度假者不要通过银行转账付款。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-11",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "45. Fraudsters advertise their villas at reasonable prices so as not to be suspected.",
+      "sourceHash": "96e02dd5ed5e308183b9c6dfaea66dc67537b0b3288393341ec6fe47f4e3e5e1",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 诈骗者以合理的价格宣传他们的别墅，以免被怀疑。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-13",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-15",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-16",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours.",
+      "sourceHash": "9d457520aa179cba3c2dfabb4330375256138298b9d5dd05fd1cc3d3c5f1999e",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "社交媒体可以成为员工强大的沟通工具，帮助他们协作、分享想法和解决问题。研究表明，82% 的员工认为社交媒体可以改善工作关系，60% 的员工认为社交媒体可以支持决策过程。这些信念有助于大多数员工在社交媒体上与同事联系，甚至在工作时间也是如此。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-17",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Employers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention.",
+      "sourceHash": "ef6ca9e4e267e23fc8441fc749fd7b5faa686e61d8acaf5771d6f4bc80129144",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "雇主通常担心社交媒体是生产力杀手；据报道，超过一半的美国雇主在工作中禁止使用社交媒体。在对一家医疗机构的 277 名员工进行的研究中，我发现这些担忧是错误的。社交媒体对生产力的降低远不如它对员工保留率的影响。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-4-18",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "In the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or Linkedln. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative.",
+      "sourceHash": "f488fac9c00d5bbff1574b99879e52850fe7b90c23b898750239fd13a7337854",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-4-18",
+        "cet4:2022-06-02:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在研究的第一部分中，我对员工进行了调查，了解他们使用 Facebook、Twitter 或 Linkedln 等平台的原因和方式。然后，受访者被问及他们的工作行为，包括他们是否感到工作有动力并在工作中表现出主动性。我发现通过社交媒体博客与同事进行在线社交互动的员工往往会更有动力并提出创新想法。但当员工与组织外部的个人互动时，他们的积极性就会降低，主动性也会降低。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-2",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections.",
+      "sourceHash": "76a828b3bff7c6f6bbde3a4ce07286ebf2a220984404a90eb5b70c52829b5c3d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在研究的第二部分中，我发现 76% 使用社交媒体工作的员工对他们在社交媒体上找到的其他组织感兴趣。当我研究受访者如何表达对新职业和雇主的开放态度时，我发现他们参与了一些关键活动，包括研究新组织和建立新的工作联系。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "These findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company. Managers should implement solutions that neutralize the retention risk caused by social media.",
+      "sourceHash": "5f6a3b8543eacc69df9c623f9fced4027ef5e53a82f6d2fdf48acc4e3591e37c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些发现给管理者带来了一个困境：在工作中使用社交媒体的员工更加投入、更加高效，但他们也更有可能离开你的公司。管理者应该实施能够消除社交媒体造成的保留风险的解决方案。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-4",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use social media to directly reduce turnover (跳槽) intentions, by recognizing employees9 accomplishments and giving visibility to employees9 success stories.",
+      "sourceHash": "7159bdcd164af2eb8d3d1c9fd17ef203af649053bd217458b89feea1722bf2fe",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "他们可以创建社交媒体群组，让员工更有可能进行协作，而不太可能分享退出意图或讨论外部工作机会。管理者还可以利用社交媒体认可员工9的成就并让员工了解他们的成功故事，从而直接减少跳槽意图。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "46. What does previous research about social media reveal?",
+      "sourceHash": "2874dd417cac0c41016dea0750028ce86228b55518002ceba430e3f851946833",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 先前关于社交媒体的研究揭示了什么？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "47. What did the author's own research find about social media?",
+      "sourceHash": "088a264521dd06ad9b4d366bfb1cc42e3abe1c0ba529864259abbb18db334406",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 作者自己的研究对社交媒体有什么发现？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-9",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "48. What did the author find in his study about the effect of online social interactions?",
+      "sourceHash": "c344f4a2f13dbd1543517488cc8fa84e6d97b74abb0ecec97b3d01f552199273",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 作者在研究中发现了什么关于在线社交互动的影响？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-11",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "49. What problem was found with employees using social media for work?",
+      "sourceHash": "0d4323fa71cc109ae5d982c74b9862223a57fed0894d1e0c3e9a8bfb5f476395",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 员工在工作中使用社交媒体存在什么问题？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-5-13",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "50. What does the author suggest managers do to neutralize the retention risk?",
+      "sourceHash": "600e79c8793638e7a5e3ce7cb96ed4ef1824464c6e32f90de0339529791748c5",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 作者建议管理者采取什么措施来消除保留风险？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-4",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "In the coming era of budget cuts to education, distance learning could become the norm.",
+      "sourceHash": "2fed79596c27e7ea5506e39629e64823b84a8a9a1ab99f9cbb19a0f966c6523d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在即将到来的教育预算削减时代，远程学习可能成为常态。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "The temptation for those in charge of education budgets to trade teachers for technology could be so strong that they ignore the disadvantages of distance learning. School facilities are expensive to build and maintain, and teachers are expensive to employ. Online classes do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutions of traditional learning. They are now places that provide meals. They are places where students receive counseling and other support.",
+      "sourceHash": "d266b67a34ec466d3fd0f4c5d869a401e065268eca9a3a6e299291ef153abab6",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "对于那些负责教育预算的人来说，用教师换技术的诱惑可能非常大，以至于他们忽视了远程学习的缺点。学校设施的建造和维护成本很高，聘用教师的成本也很高。在线课程不需要建筑物，每个班级可以同时容纳数百人，从而节省更多费用，从而增加了远程教育对那些更关心预算而不是学习的人的诱惑。但是，离开一个有生命、会呼吸的人每天与学生进行教学和互动的传统教室将是一场灾难。亲自上学有隐藏的好处：每天早上起床、与同龄人互动以及与老师建立关系是年轻人需要培养的基本技能。此外，学校不应只是简单的传统学习机构。他们现在是提供膳食的地方。它们是学生接受咨询和其他支持的地方。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-6",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Those policy-makers are often fascinated by the latest technology in education and its potential to “transform“ education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educational videos may deliver academic content, but they are unable to make eye contact or assess a student's level of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 years of life, American children spend only 9% of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. Given these expectations, schools should not become permanently “remote”.",
+      "sourceHash": "b21d3795e18900f5657ee7aeae572696fea6e2a41ee027f640166b193a28fc5d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些政策制定者往往对最新的教育技术及其在一夜之间“改变”教育的潜力着迷。但在线教育不允许老师在课后留下有困难的学生并提供帮助。教育视频可以提供学术内容，但无法进行眼神交流或评估学生的参与程度。远程教育永远无法与传统课堂的个人教学相媲美。在生命的前 18 年里，美国儿童只有 9% 的时间在学校度过。然而，教师应该帮助他们成为负责任的公民，培养他们的社交技能，鼓励成功的时间管理，并增强他们在日益严峻的劳动力市场中蓬勃发展的能力。考虑到这些期望，学校不应该永远变得“偏远”。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "reading",
+      "sourceText": "The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higher path, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher.",
+      "sourceHash": "9bb0349b328e39118338d4869bd482b9265e8bdfa8f3187e3770c61a939d4925",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "课堂的力量植根于同一时间聚集在同一地点的人们的人性。个人教学是老师给学生指明更高的道路，也是年轻人一起走过这个过程。技术，无论多么先进，都应该只是好老师的工具。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-6-8",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "51. What mainly accounts for the possibility that distance learning could become the norm?",
+      "sourceHash": "fa1987599d6b7256b5d6ed227f0046fe429823d396994d03020cef74741e63bd",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 远程学习可能成为常态的主要原因是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-7-1",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "52. What does the author say is one possible benefit of students attending school physically?",
+      "sourceHash": "80222e14d9245c1b2d5b77c0007601fac65a6aa5a1d8fd244b3cfed52ef76145",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 作者认为学生亲自上学可能带来的好处是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-7-3",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "53. What does the author think of the latest technology in education?",
+      "sourceHash": "0936b9df6dbb4d01eefd58c7e9c429df232c80272730fe5be6d302487687ee4c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.作者如何看待教育领域的最新技术？",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-7-5",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "54. What does the author say teachers are expected to do?",
+      "sourceHash": "3445c4c6384c6d79eeb24ca8c0b78abdedb58157cfbb3aaf2e50903d35c7f7b4",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 作者认为教师应该做什么？",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-7-7",
+      "paperId": "cet4:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "55. Why couldn't technology replace a good teacher?",
+      "sourceHash": "a7ad3096a9e6f29240720f739d9c7501bab7429551b71d4f04f3455e6c69c14c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.为什么技术不能取代好老师？",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-06-02:p:b-7-10",
+      "paperId": "cet4:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-06-02:b-7-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-10"
+        ],
+        "reflowBlockIds": [
+          "b-7-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-06-02.json",
+        "pdfSha256": "5f1bbb11eb59e4fbf47cbfeba97b9b47800eca00896fd7b3ce3bc2e304dc1400",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-06-02.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2022-06-02:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-46-1",
+      "optionId": "cet4:2022-06-02:q-46-1:A",
+      "sourceText": "Most employees think positively of it.",
+      "sourceHash": "7d6f54708753c8d246e551c3d9a5881994abf28052ee51c10ac50640fdc58238",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Most employees think positively of it.",
+      "translationEligible": true,
+      "translationZh": "大多数员工对此持积极态度。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-46-1",
+      "optionId": "cet4:2022-06-02:q-46-1:B",
+      "sourceText": "It improves employees9 work efficiency.",
+      "sourceHash": "e0cb22c69c3610f968b05a914acc22e0ec94d21bffaae1ee262865d2d7f0be3f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It improves employees9 work efficiency.",
+      "translationEligible": true,
+      "translationZh": "它提高了员工9的工作效率。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-46-1",
+      "optionId": "cet4:2022-06-02:q-46-1:C",
+      "sourceText": "It enables employees to form connections.",
+      "sourceHash": "3b59301045701f8c44886c21f3796a7e0337525766cdc328917d47b8f6a6bb1c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It enables employees to form connections.",
+      "translationEligible": true,
+      "translationZh": "它使员工能够建立联系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-46-1",
+      "optionId": "cet4:2022-06-02:q-46-1:D",
+      "sourceText": "Employees spend much of their work time on it.",
+      "sourceHash": "66cff7ca20465d3126b7711d4eff8b1b88679737d2b55a2e2eff4f7c0e848ea2",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Employees spend much of their work time on it.",
+      "translationEligible": true,
+      "translationZh": "员工的大部分工作时间都花在这上面。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-47-1",
+      "optionId": "cet4:2022-06-02:q-47-1:A",
+      "sourceText": "It influences employees9 work negatively.",
+      "sourceHash": "7fb68dfc113961a5b97ad65d223ae1afad363d3bdce7bbabb338b71de64cc987",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It influences employees9 work negatively.",
+      "translationEligible": true,
+      "translationZh": "它对员工9的工作产生负面影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-47-1",
+      "optionId": "cet4:2022-06-02:q-47-1:B",
+      "sourceText": "It does much harm to employee loyalty.",
+      "sourceHash": "d48dd03ab0da9cd2963417313e9ab102c2f30ecf665126e893657b7bec524550",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It does much harm to employee loyalty.",
+      "translationEligible": true,
+      "translationZh": "这对员工的忠诚度造成很大损害。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-47-1",
+      "optionId": "cet4:2022-06-02:q-47-1:C",
+      "sourceText": "It kills employees9 motivation for work.",
+      "sourceHash": "9af9ce5616bc004715da4b5c02f398440c6afa7bda6fbcfc29a458e7b0212599",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It kills employees9 motivation for work.",
+      "translationEligible": true,
+      "translationZh": "它扼杀了员工的工作动力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-47-1",
+      "optionId": "cet4:2022-06-02:q-47-1:D",
+      "sourceText": "It affects employers9 decision-making.",
+      "sourceHash": "066f923a7218f12fac316068d935a1756113d63e219df285343d5cf34a6510e7",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It affects employers9 decision-making.",
+      "translationEligible": true,
+      "translationZh": "它影响雇主9的决策。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-48-1",
+      "optionId": "cet4:2022-06-02:q-48-1:A",
+      "sourceText": "It differs from employee to employee.",
+      "sourceHash": "2630a6d42af0e4330d241d798989bcc13d53c6e3a434a3924500ea2d7006c264",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It differs from employee to employee.",
+      "translationEligible": true,
+      "translationZh": "每个员工的情况都不同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-48-1",
+      "optionId": "cet4:2022-06-02:q-48-1:B",
+      "sourceText": "It tends to vary with the platform used.",
+      "sourceHash": "5fb1ad3046af9af682fbd8cbe57588ae6c2cda90d6608656d7dc61c1f753fc1d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It tends to vary with the platform used.",
+      "translationEligible": true,
+      "translationZh": "它往往随所使用的平台而变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-48-1",
+      "optionId": "cet4:2022-06-02:q-48-1:C",
+      "sourceText": "It has much to do with whom employees interact with.",
+      "sourceHash": "0f494407c7234a04dcdcb59917723c9c3d4fa102c7320a2c22e91c85344cc3fd",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It has much to do with whom employees interact with.",
+      "translationEligible": true,
+      "translationZh": "这与员工与谁互动有很大关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-48-1",
+      "optionId": "cet4:2022-06-02:q-48-1:D",
+      "sourceText": "It is hard to measure when employees interact with outsiders.",
+      "sourceHash": "38a7550b4283d603be8bf6cfbc3f1b443d06eb939d9ec0cc0801c0af96b793bc",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is hard to measure when employees interact with outsiders.",
+      "translationEligible": true,
+      "translationZh": "员工与外界互动的时间很难衡量。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-49-1",
+      "optionId": "cet4:2022-06-02:q-49-1:A",
+      "sourceText": "They seldom expressed their inner thoughts.",
+      "sourceHash": "bb6f58413026e7860c7c4bdf1eca79376474d7bec23b3ca19d30691e052db307",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They seldom expressed their inner thoughts.",
+      "translationEligible": true,
+      "translationZh": "他们很少表达自己的内心想法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-49-1",
+      "optionId": "cet4:2022-06-02:q-49-1:B",
+      "sourceText": "Most of them explored new job opportunities.",
+      "sourceHash": "620b1379d573900ad9477268174e2c4685ef104d6226a1cccf51843fffbaa950",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Most of them explored new job opportunities.",
+      "translationEligible": true,
+      "translationZh": "他们中的大多数人探索了新的工作机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-49-1",
+      "optionId": "cet4:2022-06-02:q-49-1:C",
+      "sourceText": "They were reluctant to collaborate with others.",
+      "sourceHash": "859c6d0aa3de5d0f43112b967e6cfe9de016e7c170e8855907cb254eb17455bc",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They were reluctant to collaborate with others.",
+      "translationEligible": true,
+      "translationZh": "他们不愿意与他人合作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-49-1",
+      "optionId": "cet4:2022-06-02:q-49-1:D",
+      "sourceText": "Many of them ended with lower productivity.",
+      "sourceHash": "60dd7019eac1a5ee5817c13ee61fb810efb09491af3ff82eaca2c54fa15ee63b",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Many of them ended with lower productivity.",
+      "translationEligible": true,
+      "translationZh": "其中许多都以生产力下降而告终。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-50-1",
+      "optionId": "cet4:2022-06-02:q-50-1:A",
+      "sourceText": "Give promotions to employees for their accomplishments.",
+      "sourceHash": "634d00fbdef51f47eb978dbdb570d83aefe5b92a8dc5d8057db46a98886a481e",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-5-13"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-5-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Give promotions to employees for their accomplishments.",
+      "translationEligible": true,
+      "translationZh": "根据员工的成就给予晋升。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-50-1",
+      "optionId": "cet4:2022-06-02:q-50-1:B",
+      "sourceText": "Create opportunities for employees to share success stories.",
+      "sourceHash": "3ba822191f53a71dad425389825d67300a9a7bc908e8ae988edca23ce20f6ba6",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Create opportunities for employees to share success stories.",
+      "translationEligible": true,
+      "translationZh": "为员工创造分享成功故事的机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-50-1",
+      "optionId": "cet4:2022-06-02:q-50-1:C",
+      "sourceText": "Acknowledge employees9 achievements through social media.",
+      "sourceHash": "85ada68899b21e249768bb935929f19ca5f67dafb542e1b09334df65aad74a74",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Acknowledge employees9 achievements through social media.",
+      "translationEligible": true,
+      "translationZh": "通过社交媒体认可员工9的成就。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-50-1",
+      "optionId": "cet4:2022-06-02:q-50-1:D",
+      "sourceText": "Encourage employees to increase their visibility on social media.",
+      "sourceHash": "205d0d817856e7912b17904bef8d17c8d24982c48a63ac209104338053e41f8d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Encourage employees to increase their visibility on social media.",
+      "translationEligible": true,
+      "translationZh": "鼓励员工提高在社交媒体上的知名度。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-51-1",
+      "optionId": "cet4:2022-06-02:q-51-1:A",
+      "sourceText": "Advances in education technology.",
+      "sourceHash": "5413f4e2a123c7ff07f84e9b0765b55e2c4a249d5a1d702dc1747c4239a320fe",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Advances in education technology.",
+      "translationEligible": true,
+      "translationZh": "教育技术的进步。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-51-1",
+      "optionId": "cet4:2022-06-02:q-51-1:B",
+      "sourceText": "Shrinking financial resources.",
+      "sourceHash": "dc2f2f96451b15c94d01a7a6ca14b000be0672cd63338e854ea37f78ad99b9bb",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Shrinking financial resources.",
+      "translationEligible": true,
+      "translationZh": "财政资源萎缩。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-51-1",
+      "optionId": "cet4:2022-06-02:q-51-1:C",
+      "sourceText": "Shortage of school facilities.",
+      "sourceHash": "7c9b5ad4ab18b4cdf401b4ba174b7559aa136c01e23be500927e54307de3eae3",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Shortage of school facilities.",
+      "translationEligible": true,
+      "translationZh": "学校设施短缺。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-51-1",
+      "optionId": "cet4:2022-06-02:q-51-1:D",
+      "sourceText": "Lack of qualified teachers.",
+      "sourceHash": "d49ccb1ec478e1d95ea60690d6197ec40f8fa17b000500b048191905c48e9f50",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Lack of qualified teachers.",
+      "translationEligible": true,
+      "translationZh": "缺乏合格的教师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-52-1",
+      "optionId": "cet4:2022-06-02:q-52-1:A",
+      "sourceText": "Developing the habit of getting up early.",
+      "sourceHash": "4b938c81978d76e1e31a661335a983fbdf6b63dd2da792d8e7d1dfd924c2bc93",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-2"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Developing the habit of getting up early.",
+      "translationEligible": true,
+      "translationZh": "养成早起的习惯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-52-1",
+      "optionId": "cet4:2022-06-02:q-52-1:B",
+      "sourceText": "Eating nutritionally well-balanced meals.",
+      "sourceHash": "ef548f3d6699da9d18cb7cac805d49769ea6934f676c20f162e8448dd0495a71",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-2"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Eating nutritionally well-balanced meals.",
+      "translationEligible": true,
+      "translationZh": "吃营养均衡的膳食。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-52-1",
+      "optionId": "cet4:2022-06-02:q-52-1:C",
+      "sourceText": "Growing into living and breathing human beings.",
+      "sourceHash": "0ad628b60ffaece08acd57b7415c15d1b0d1b604ee229222d130b86b740672d8",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-2"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Growing into living and breathing human beings.",
+      "translationEligible": true,
+      "translationZh": "成长为有生命、有呼吸的人类。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-52-1",
+      "optionId": "cet4:2022-06-02:q-52-1:D",
+      "sourceText": "Cultivating relationships with peers and teachers.",
+      "sourceHash": "08275abbc14d93a96f88483a5c5538b60e1a82edc780453cca7ab96f96f8fb38",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-2"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Cultivating relationships with peers and teachers.",
+      "translationEligible": true,
+      "translationZh": "培养与同学和老师的关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-53-1",
+      "optionId": "cet4:2022-06-02:q-53-1:A",
+      "sourceText": "It may have potential disadvantages.",
+      "sourceHash": "055c9a3a4177900799ffb324ac7d453ec245bc73bbf1a4c77372d7b428604330",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-4"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It may have potential disadvantages.",
+      "translationEligible": true,
+      "translationZh": "它可能有潜在的缺点。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-53-1",
+      "optionId": "cet4:2022-06-02:q-53-1:B",
+      "sourceText": "It may render many teachers jobless.",
+      "sourceHash": "a9d75984d066399fc5a596c8645839e7552e88703b74e4acd806c6e23fdfba5b",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-4"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It may render many teachers jobless.",
+      "translationEligible": true,
+      "translationZh": "这可能导致许多教师失业。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-53-1",
+      "optionId": "cet4:2022-06-02:q-53-1:C",
+      "sourceText": "It may add to students9 financial burden.",
+      "sourceHash": "16a7683582820daaedb12e6cb219e4dbcefacfd7574cf4871fd02f78d23ec29d",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-4"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It may add to students9 financial burden.",
+      "translationEligible": true,
+      "translationZh": "这可能会增加学生9的经济负担。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-53-1",
+      "optionId": "cet4:2022-06-02:q-53-1:D",
+      "sourceText": "It may revolutionize classroom teaching.",
+      "sourceHash": "b3aea46db34e5406dff20bd7514f52aa28bc98f2870ec7b69caecb5604269e12",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-4"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may revolutionize classroom teaching.",
+      "translationEligible": true,
+      "translationZh": "它可能会彻底改变课堂教学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-54-1",
+      "optionId": "cet4:2022-06-02:q-54-1:A",
+      "sourceText": "Enhance students9 leadership capacity.",
+      "sourceHash": "c25603911e83783801cb8f8a34bb5972b2e9fe92bd01b2551ee07ec5f294ee3e",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Enhance students9 leadership capacity.",
+      "translationEligible": true,
+      "translationZh": "增强学生9的领导能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-54-1",
+      "optionId": "cet4:2022-06-02:q-54-1:B",
+      "sourceText": "Elevate students to managerial positions.",
+      "sourceHash": "76b91882b7429e0b8549c336b414e7aca559913dea4a248520bed8b41c1301ae",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Elevate students to managerial positions.",
+      "translationEligible": true,
+      "translationZh": "将学生提升至管理职位。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-54-1",
+      "optionId": "cet4:2022-06-02:q-54-1:C",
+      "sourceText": "Enable students to adapt to the changes in life.",
+      "sourceHash": "ad077a1c2bd7012b6984fec6eb3a1bc90771b8dc9a95fc0619dce037fba9c03f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Enable students to adapt to the changes in life.",
+      "translationEligible": true,
+      "translationZh": "让学生能够适应生活的变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-54-1",
+      "optionId": "cet4:2022-06-02:q-54-1:D",
+      "sourceText": "Prepare students to be competitive in the future.",
+      "sourceHash": "3e6dab17fac2cb9ec7f5f3afd342e99da0575a254d9d4dc62326b2154f6ab68f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Prepare students to be competitive in the future.",
+      "translationEligible": true,
+      "translationZh": "让学生为未来的竞争做好准备。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-55-1",
+      "optionId": "cet4:2022-06-02:q-55-1:A",
+      "sourceText": "It lacks humanity.",
+      "sourceHash": "952a61960f6769f175ca64a21a2bfc300327ef6e801c845ec518886a166644d9",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It lacks humanity.",
+      "translationEligible": true,
+      "translationZh": "它缺乏人性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-55-1",
+      "optionId": "cet4:2022-06-02:q-55-1:B",
+      "sourceText": "It is still immature.",
+      "sourceHash": "fdcfba9ae1be2d49f3930e7d0031d95decfe6f507643df93567fc821e6d0a567",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is still immature.",
+      "translationEligible": true,
+      "translationZh": "它仍然不成熟。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-55-1",
+      "optionId": "cet4:2022-06-02:q-55-1:C",
+      "sourceText": "It cannot track students9 growth.",
+      "sourceHash": "9611a00de92647ae04c152d39883e31b4533d628460f5ec495cff6fd9977dcd6",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It cannot track students9 growth.",
+      "translationEligible": true,
+      "translationZh": "它无法跟踪学生9的成长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-55-1",
+      "optionId": "cet4:2022-06-02:q-55-1:D",
+      "sourceText": "It cannot cater to personal needs.",
+      "sourceHash": "779a33082fdfa48064013f8fc00c57805d938dd8bf62402f28d98a8ac4b6143f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-7-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It cannot cater to personal needs.",
+      "translationEligible": true,
+      "translationZh": "它无法满足个人需求。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:A",
+      "sourceText": "acknowledge",
+      "sourceHash": "085afa73a88616efa8226d102c96ad5a549a3c046ddc83acb2342bbfabcd7f4b",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "acknowledge",
+      "translationEligible": true,
+      "translationZh": "承认",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:B",
+      "sourceText": "chance",
+      "sourceHash": "6cb09fe72a3471a776f9dbb8509fa5befe73e878f23dd71be79d24ec90c1b9db",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "chance",
+      "translationEligible": true,
+      "translationZh": "机会",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:C",
+      "sourceText": "contains",
+      "sourceHash": "beeb20fbd67695085c26c5dfa7b5ece4d1985d201cb6f0dd9aa66a36ed987ce5",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "contains",
+      "translationEligible": true,
+      "translationZh": "包含",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:D",
+      "sourceText": "counterparts",
+      "sourceHash": "3031be2980f2e485cec4fe2e2a4149d883c7b5e90bdbcd6dcf0619e9b045aff6",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "counterparts",
+      "translationEligible": true,
+      "translationZh": "同行",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:E",
+      "sourceText": "defined",
+      "sourceHash": "c3657998722524e9f92fbe7832bd57777a3bbbb2c22eca3ca201ce5e0499947c",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "defined",
+      "translationEligible": true,
+      "translationZh": "定义的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:F",
+      "sourceText": "differ",
+      "sourceHash": "599fc58fd0f76984b4a8f4bca271e888b49e402c5b812f4af150a08abba2717f",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "differ",
+      "translationEligible": true,
+      "translationZh": "不同",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:G",
+      "sourceText": "especially",
+      "sourceHash": "b109a53288ba6ef3ffa8f204d28c80e49e7253c3d3e2e99a789005a228fcf5c8",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "especially",
+      "translationEligible": true,
+      "translationZh": "尤其是",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:H",
+      "sourceText": "extracted",
+      "sourceHash": "7c375be828a16923f65095998609312a73318a1c01d89d3699e69e53a0883fac",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "extracted",
+      "translationEligible": true,
+      "translationZh": "提取的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:I",
+      "sourceText": "implies",
+      "sourceHash": "0762224abb8c8ee326236613ed6576567ec48153801c2310d1c6abbdf1c90418",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "implies",
+      "translationEligible": true,
+      "translationZh": "意味着",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:J",
+      "sourceText": "necessarily",
+      "sourceHash": "9f140604aa41f0ce2509c351e7ff1fe7cb438b0a052e272a9bf9d3186ce20bd5",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "necessarily",
+      "translationEligible": true,
+      "translationZh": "必然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:K",
+      "sourceText": "particular",
+      "sourceHash": "32182951b85a244a9bf6d9080d8cbe9d0bd94f229d6a6135b78f70b8b14cf9cc",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "particular",
+      "translationEligible": true,
+      "translationZh": "特别的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:L",
+      "sourceText": "perceive",
+      "sourceHash": "d27d1573bfd9ca9151157b0dd8962ebb0b5a4bcd36595025a5f86ec6a1af0330",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "perceive",
+      "translationEligible": true,
+      "translationZh": "感知",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:M",
+      "sourceText": "second",
+      "sourceHash": "16367aacb67a4a017c8da8ab95682ccb390863780f7114dda0a0e0c55644c7c4",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "second",
+      "translationEligible": true,
+      "translationZh": "第二",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:N",
+      "sourceText": "sources",
+      "sourceHash": "878a52fc5ff6a57d50b7b870aa51637a3dfd38fc22352a39f95a3c292eb976d5",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "sources",
+      "translationEligible": true,
+      "translationZh": "来源",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-06-02:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-06-02",
+      "questionId": "cet4:2022-06-02:q-26-1",
+      "optionId": "cet4:2022-06-02:word-bank:O",
+      "sourceText": "strange",
+      "sourceHash": "41b3ab146fd067194352ee20901347a73366adfdf94122d428c3260a1b689ee2",
+      "sourceBlockIds": [
+        "cet4:2022-06-02:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-06-02:b-2-1",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "strange",
+      "translationEligible": true,
+      "translationZh": "奇怪的",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-10",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2022-06-02:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-11",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2022-06-02:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-13",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2022-06-02:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-14",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2022-06-02:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-1-15",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2022-06-02:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-06-02:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-06-02:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-06-02:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-06-02:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-5-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-06-02:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-7-1"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-06-02:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-9",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-10",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-06-02:p:b-7-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-12",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-06-02:b-7-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 15,
+    "included": 54,
+    "ineligible": 5
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 3,
+    "heading_prose": 2,
+    "instruction": 8,
+    "non_english_or_fragment": 6,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 10,
+    "section_label": 9,
+    "unparsed_cloze_region": 1,
+    "unresolved_cloze_or_source_mismatch": 4
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 2,
+    "instruction": 8,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 10
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-1-15"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2022 年12 月大学英语四级考试真题（第3 套）",
@@ -862,15 +862,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Evil Genius",
               "flags": [
@@ -1090,7 +1087,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "heroes, lest they disappoint us when we find out how normal they are. But this should be liberating,",
+              "text": "heroes, lest they disappoint us when we find out how normal they are. But this should be liberating, not disappointing. We are all capable of behaving like outliers. It's time for us to understand deviance, and realize its potential for good as well as for harm.",
               "flags": [
                 false,
                 false,
@@ -1099,32 +1096,6 @@
             }
           ],
           "continues_previous_page": true
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "not disappointing. We are all capable of behaving like outliers. It's time for us to understand",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "deviance, and realize its potential for good as well as for harm.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
         },
         {
           "type": "question",
@@ -1149,12 +1120,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "creativity test.",
               "flags": [
@@ -1188,12 +1162,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "dishonesty and creativity.",
               "flags": [
@@ -1240,12 +1217,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "society.",
               "flags": [

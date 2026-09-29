@@ -1,7 +1,7 @@
-"""Create a dual-version catalog using the existing SVG catalog design."""
+"""Create the exam catalog and its available reading and practice links."""
 from pathlib import Path
 import os,html,json,subprocess,sys
-from urllib.parse import urlsplit
+from urllib.parse import quote,urlsplit
 from lxml import html as lh,etree
 ROOT=Path(__file__).resolve().parent
 SOURCES=ROOT.parent
@@ -51,7 +51,11 @@ def document(title,body,page):
     return '<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+e(title)+'</title><link rel="stylesheet" href="'+e(link(ROOT/'ui/tokens.css',page))+'"><link rel="stylesheet" href="'+e(link(ROOT/'catalog.css',page))+'"><script defer src="'+e(link(ROOT/'ui/catalog.js',page))+'"></script></head><body>'+body+'</body></html>'
 def versions(d,page):
     title=d['title']
-    return '<div class="versions" aria-label="'+e(title)+' 版本选择"><a href="'+e(link(d['svg'],page))+'" aria-label="'+e(title)+' · SVG 原版">SVG 原版</a><a class="reflow" href="'+e(link(d['reflow'],page))+'" aria-label="'+e(title)+' · LaTeX 重排版">LaTeX 重排</a></div>'
+    links='<a href="'+e(link(d['svg'],page))+'" aria-label="'+e(title)+' · SVG 原版">SVG 原版</a><a class="reflow" href="'+e(link(d['reflow'],page))+'" aria-label="'+e(title)+' · LaTeX 重排版">LaTeX 重排</a>'
+    if d['kind'] in ('questions','complete'):
+        href=link(ROOT/'practice/full-paper.htm',page)+'?paper='+quote(d['id'],safe='')
+        links+='<a class="full-paper" href="'+e(href)+'" aria-label="'+e(title)+' · 整卷刷题版">整卷刷题</a>'
+    return '<div class="versions" aria-label="'+e(title)+' 版本选择">'+links+'</div>'
 def card(d,page,mode):
     target=d['reflow'] if mode=='latex' else d['svg']
     attrs=' '.join('data-'+k+'="'+e(d[k])+'"' for k in ['id','year','category','kind'])
@@ -66,8 +70,8 @@ def render(docs,all_docs,page,active='',mode=''):
     for code,label,*_ in CATEGORIES:
         nav+='<a class="subject-link" href="'+e(link(ROOT/code/'index.htm',page))+'"'+(' aria-current="page"' if active==code else '')+'><span>'+label+'</span><span>'+str(counts[code])+'</span></a>'
     header='<a class="skip-link" href="#catalog-main">跳到资料列表</a><header class="site-header"><a class="brand" href="'+e(link(ROOT/'index.htm',page))+'"><span class="brand-mark" aria-hidden="true">卷</span><span>考研真题大全<small>本地学习资料库</small></span></a><span class="offline-label"><span aria-hidden="true">●</span> 离线可读</span></header>'
-    aside='<aside class="sidebar"><p class="nav-label">资料分类</p><nav aria-label="资料分类">'+nav+'</nav><div class="sidebar-note"><strong>选择适合的阅读方式</strong><p>SVG 原版保留卷面排版。<br>LaTeX 重排随窗口宽度换行。</p><a href="'+e(link(ROOT/'practice/index.htm',page))+'">数据库刷题 →</a><a href="'+e(link(ROOT/'structured/index.htm',page))+'">结构化试卷与题目审阅 →</a><a href="'+e(link(ROOT/'image-review.htm',page))+'">插图重绘对照审计 →</a><a href="'+e(link(ROOT/'crop-review.htm',page))+'">原图裁框位置审查 →</a></div></aside>'
-    heading='<div class="page-heading"><div><p class="eyebrow">'+('按科目查阅' if active else '你的备考书架')+'</p><h1>'+e(title)+'</h1><p>'+str(len(docs))+' 份资料 · '+str(min(years))+'—'+str(max(years))+' 年 · 两种阅读版本</p></div></div>'
+    aside='<aside class="sidebar"><p class="nav-label">资料分类</p><nav aria-label="资料分类">'+nav+'</nav><div class="sidebar-note"><strong>选择适合的使用方式</strong><p>SVG 原版保留卷面排版。<br>LaTeX 重排随窗口宽度换行。<br>题目卷可整卷刷题。</p><a href="'+e(link(ROOT/'structured/index.htm',page))+'">结构化试卷与题目审阅 →</a><a href="'+e(link(ROOT/'image-review.htm',page))+'">插图重绘对照审计 →</a><a href="'+e(link(ROOT/'crop-review.htm',page))+'">原图裁框位置审查 →</a></div></aside>'
+    heading='<div class="page-heading"><div><p class="eyebrow">'+('按科目查阅' if active else '你的备考书架')+'</p><h1>'+e(title)+'</h1><p>'+str(len(docs))+' 份资料 · '+str(min(years))+'—'+str(max(years))+' 年 · 原版、重排与整卷刷题</p></div></div>'
     recent='<section class="recent-panel" aria-labelledby="recent-title"><div class="section-line"><h2 id="recent-title">继续阅读</h2><button type="button" id="clear-recent" class="text-button" hidden>清除记录</button></div><p id="recent-empty" class="subtle">读过的试卷会显示在这里，方便接着读。</p><div id="recent-list" class="recent-list"></div></section>'
     subject='<label>科目<select id="filter-category" name="category"><option value="">全部科目</option>'+''.join('<option value="'+c+'">'+e(n)+'</option>' for c,n,*_ in CATEGORIES)+'</select></label>' if not active else ''
     filters='<form id="catalog-filters" class="filters" role="search" aria-label="筛选真题"><label class="search-field"><span>搜索资料</span><input id="catalog-search" name="q" type="search" placeholder="搜索年份、科目或试卷名称" autocomplete="off"></label><div class="filter-controls">'+subject+'<label>年份<select id="filter-year" name="year"><option value="">全部年份</option>'+''.join('<option value="'+str(y)+'">'+str(y)+' 年</option>' for y in years)+'</select></label><label>类型<select id="filter-kind" name="kind"><option value="">全部类型</option>'+''.join('<option value="'+k+'">'+v+'</option>' for k,v in KINDS.items() if any(d['kind']==k for d in docs))+'</select></label><button class="reset-button" type="reset">清除筛选</button></div></form>'
@@ -97,9 +101,10 @@ def main():
             parsed=urlsplit(value)
             if parsed.scheme or parsed.netloc:continue
             assert (p.parent/parsed.path).is_file(),(p,value);checks+=1
-        cards=t.xpath('//article[@class="paper"]');assert all(len(c.xpath('./div[@class="versions"]/a'))==2 for c in cards)
+        cards=t.xpath('//article[@class="paper"]');assert all(len(c.xpath('./div[@class="versions"]/a'))==(2 if c.get('data-kind')=='answers' else 3) for c in cards)
     counts={c[0]:sum(d['category']==c[0] for d in docs) for c in CATEGORIES}
-    (ROOT/'verification.json').write_text(json.dumps({'categories':counts,'paper_cards':len(docs),'version_links':len(docs)*2,'local_links_checked':checks,'browser_tested':False},ensure_ascii=False,indent=2))
+    version_links=sum(2 if d['kind']=='answers' else 3 for d in docs)
+    (ROOT/'verification.json').write_text(json.dumps({'categories':counts,'paper_cards':len(docs),'version_links':version_links,'local_links_checked':checks,'browser_tested':False},ensure_ascii=False,indent=2))
     print(counts,checks,'local links verified')
     if (ROOT/'enhance_readers.py').is_file():
         from enhance_readers import enhance_all

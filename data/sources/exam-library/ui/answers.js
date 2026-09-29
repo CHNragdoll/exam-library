@@ -25,6 +25,9 @@
   const svgAttributes = new Set(['d', 'transform', 'fill', 'stroke', 'stroke-width',
     'viewBox', 'width', 'height', 'focusable', 'role', 'xmlns', 'data-c',
     'data-mml-node', 'x', 'y', 'cx', 'cy', 'r', 'rx', 'ry', 'points']);
+  // MathJax uses SVG <text> for glyphs absent from its path font (notably
+  // Chinese). Dropping its font-size makes those glyphs effectively invisible.
+  const svgTextAttributes = new Set(['font-size', 'font-family', 'data-variant']);
   const sourceUrl = (href, base = location.href) => {
     if (typeof href !== 'string' || !href.trim()) return null;
     try {
@@ -55,6 +58,18 @@
       for (const name of svgAttributes) {
         if (node.hasAttribute(name)) copy.setAttribute(name, node.getAttribute(name));
       }
+      if (tag === 'text') {
+        for (const name of svgTextAttributes) {
+          const value = node.getAttribute(name);
+          if (name === 'font-size' && /^\d+(?:\.\d+)?px$/.test(value || '')) {
+            copy.setAttribute(name, value);
+          } else if (name === 'font-family' && value === 'serif') {
+            copy.setAttribute(name, value);
+          } else if (name === 'data-variant' && /^[a-z-]+$/.test(value || '')) {
+            copy.setAttribute(name, value);
+          }
+        }
+      }
       const alignment = node.getAttribute('style');
       if (tag === 'svg' && /^vertical-align:\s*-?[\d.]+ex;?$/.test(alignment || '')) {
         copy.style.verticalAlign = alignment.match(/-?[\d.]+ex/)[0];
@@ -84,8 +99,8 @@
     }
     return copy;
   };
-  const richAnswer = async answer => {
-    if (!answer.sourceQuestionIds?.length || !answer.sourceBlocks?.length) return null;
+  const richAnswer = async (answer, selectedBlocks) => {
+    if (!selectedBlocks.length) return null;
     const url = sourceUrl(answer.sourceHref);
     if (!url) return null;
     if (!sourceCache.has(url.href)) {
@@ -99,7 +114,7 @@
     const pages = [...source.querySelectorAll('main section[data-source-page]')];
     const content = document.createElement('div');
     content.className = 'exam-answer-original';
-    for (const id of answer.sourceBlocks) {
+    for (const id of selectedBlocks) {
       const match = /^b-(\d+)-(\d+)$/.exec(id);
       const block = match && pages[Number(match[1]) - 1]?.children[Number(match[2]) - 1];
       if (!block) return null;
@@ -114,6 +129,46 @@
   };
   const candidates = config.structuredAnswers.map(item =>
     Array.isArray(item.sourceBlocks) ? item.sourceBlocks.map(resolveBlock).filter(Boolean) : []);
+  const sourceOwners = new Map();
+  const questionOwners = new Map();
+  for (const [index, item] of config.structuredAnswers.entries()) {
+    for (const id of new Set(item.answer?.sourceBlocks || [])) {
+      const key = `${item.answer.sourceHref}\n${id}`;
+      if (!sourceOwners.has(key)) sourceOwners.set(key, new Set());
+      sourceOwners.get(key).add(index);
+    }
+    for (const id of new Set(item.answer?.sourceQuestionIds || [])) {
+      const key = `${item.answer.sourceHref}\n${id}`;
+      if (!questionOwners.has(key)) questionOwners.set(key, new Set());
+      questionOwners.get(key).add(index);
+    }
+  }
+  const exclusiveBlocks = (answer, index) => {
+    // A shared answer heading or key can cover a whole section. Require both a
+    // question-specific answer ID and blocks unused by every other question.
+    if (!(answer.sourceQuestionIds || []).some(id =>
+      questionOwners.get(`${answer.sourceHref}\n${id}`)?.size === 1)) return [];
+    return (answer.sourceBlocks || []).filter(id =>
+      sourceOwners.get(`${answer.sourceHref}\n${id}`)?.size === 1 &&
+      sourceOwners.get(`${answer.sourceHref}\n${id}`)?.has(index));
+  };
+
+  const appendFields = (target, answer, keys = labels) => {
+    let count = 0;
+    for (const [key, label] of keys) {
+      if (!answer[key]) continue;
+      const field = document.createElement('div');
+      field.className = 'exam-answer-field';
+      const heading = document.createElement('strong');
+      heading.textContent = label;
+      const value = document.createElement('p');
+      value.textContent = answer[key];
+      field.append(heading, value);
+      target.append(field);
+      count++;
+    }
+    return count;
+  };
 
   const visible = node => node.isConnected && !node.closest('[hidden]') &&
     !node.matches('.tex-source') && getComputedStyle(node).display !== 'none';
@@ -129,20 +184,34 @@
       details.append(summary);
       const answer = item.answer;
       if (answer.status === 'explicit') {
-        let count = 0;
-        for (const [key, label] of labels) {
-          if (!answer[key]) continue;
-          const field = document.createElement('div');
-          field.className = 'exam-answer-field';
-          const heading = document.createElement('strong');
-          heading.textContent = label;
-          const value = document.createElement('p');
-          value.textContent = answer[key];
-          field.append(heading, value);
-          details.append(field);
-          count++;
-        }
-        if (!count) {
+        const selectedBlocks = answer.sourceQuestionIds?.length && sourceUrl(answer.sourceHref)
+          ? exclusiveBlocks(answer, index) : [];
+        if (selectedBlocks.length) {
+          appendFields(details, answer, labels.slice(0, 1));
+          const loading = document.createElement('p');
+          loading.className = 'exam-answer-status';
+          loading.textContent = '正在读取本题原卷答案…';
+          details.append(loading);
+          let requested = false;
+          details.addEventListener('toggle', async () => {
+            if (!details.open || requested) return;
+            requested = true;
+            try {
+              const content = await richAnswer(answer, selectedBlocks);
+              if (content) {
+                loading.replaceWith(content);
+                window.ExamCodeHighlight?.apply(content);
+                return;
+              }
+            } catch (_) { /* Fall back to embedded fields below. */ }
+            const fallback = document.createElement('div');
+            fallback.className = 'exam-answer-fallback';
+            if (!appendFields(fallback, answer, labels.slice(1)) && !answer.value) {
+              fallback.textContent = '此题暂无可展示的答案内容。';
+            }
+            loading.replaceWith(fallback);
+          });
+        } else if (!appendFields(details, answer)) {
           const message = document.createElement('p');
           message.textContent = '此题暂无可展示的答案内容。';
           details.append(message);
@@ -158,30 +227,6 @@
       summary.addEventListener('click', () => {
         // The native details element changes state after the click event.
         summary.textContent = details.open ? '点击查看答案' : '收起答案';
-      });
-      let upgraded = false;
-      details.addEventListener('toggle', async () => {
-        if (!details.open || upgraded || answer.status !== 'explicit') return;
-        try {
-          const content = await richAnswer(answer);
-          if (!content) return;
-          const originalLabel = document.createElement('p');
-          originalLabel.className = 'exam-answer-original-label';
-          originalLabel.textContent = '原卷答案排版';
-          const fields = [...details.querySelectorAll(':scope > .exam-answer-field')];
-          if (fields.length) {
-            const extracted = document.createElement('details');
-            extracted.className = 'exam-answer-extracted';
-            const extractedSummary = document.createElement('summary');
-            extractedSummary.textContent = '查看答案字段摘录';
-            extracted.append(extractedSummary, ...fields);
-            details.append(originalLabel, content, extracted);
-          } else {
-            details.append(originalLabel, content);
-          }
-          window.ExamCodeHighlight?.apply(content);
-          upgraded = true;
-        } catch (_) { /* Keep safe text when the local source cannot load. */ }
       });
       position.after(details);
     });

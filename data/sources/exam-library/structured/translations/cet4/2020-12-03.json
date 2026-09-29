@@ -1,0 +1,3540 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2020-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+  "sourcePdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+  "paragraphs": [
+    {
+      "id": "cet4:2020-12-03:p:b-1-2",
+      "paperId": "cet4:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, )OU are allowed 80 minutes to write on the topic Olanges in the Way of Communication. You should write at least 120 words but no more than 180. words.",
+      "sourceHash": "6344aaaeeab08cbbe53301f3501f8d373d285e7c5dbedb912636657cb5952f60",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，)OU 有 80 分钟的时间以沟通方式中的 Olanges 为主题撰写文章。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-3",
+      "paperId": "cet4:2020-12-03",
+      "kind": "writing_prompt",
+      "sourceText": "Part ll Listening Comprehension (25 minutes)",
+      "sourceHash": "bffbd6d69356930a871fcfa0b3651ba7c45cbd23ba935f52a4cab071e0dacc9e",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第二部分听力理解（25 分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Part][ Reading Comprehension ( 40 minutes)",
+      "sourceHash": "d588c69c1fd6abe0963c39127e5b7d7f65fd882ea632cbdd9346ee8f5cb4fa9a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "部分][阅读理解（40分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-7",
+      "paperId": "cet4:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one K/{7;d for each blank from a list of choices given in a word bank following the ptmage. Read the 'passage through carefully 'before making )OUT choices. E:ach choice in the bank is identified by a letter. Please mark the oorresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the",
+      "sourceHash": "3f8f1b5a91ee64b0968beff74e7885dfda710321737af6a6ba5dc9a620aeb8bf",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从 ptmage 后面的单词库中给出的选项列表中为每个空格选择一个 K/{7;d。在做出选择之前，请仔细阅读“这段文字”。 E：银行中的每个选择都由字母标识。请在答题纸 2 上的每一个项目上用一条穿过中心的单线标记相应的字母。您不得使用任何",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-9",
+      "paperId": "cet4:2020-12-03",
+      "kind": "cloze",
+      "sourceText": "The things people make, and the way they make them, determine how cities grow and decline, and",
+      "sourceHash": "5745b7fbd39ecd4264e149ea2f5769e32398084520121fd52d249707eb844371",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "cloze",
+      "sourceText": "disruption is surely coming. Factories are being digitised, filled • with new sensors and new computers to make them quicker, more 27 , and more efficient.",
+      "sourceHash": "45cd2e35c45cb20a8c254466d8913d69b88c5c390c10c44cebafcfb5e829bf13",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-12",
+      "paperId": "cet4:2020-12-03",
+      "kind": "cloze",
+      "sourceText": "Robots are breaking free· from the cages that surround them, learning new skills and new ways of working. And 3D printers have long 28 a world where you can make anything, anywhere, from a computerised design. That vision is 29 closer to reality. These forces will lead to cleaner factories, producing better goods at lower prices, personalised to our individual needs and desires . - Humans will be",
+      "sourceHash": "42a944a6156906f6cd59c6c7793b61ee8a281ac6615a80659e08d328d90ca36a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-15",
+      "paperId": "cet4:2020-12-03",
+      "kind": "cloze",
+      "sourceText": "Greater efficiency 32 means fewer people can do the same work. Yet faciory bosses in many",
+      "sourceHash": "7fe57be43a9d38ec7fade9711c6a0e0048b9c4a2d03bcbe9b953e8689f3aff5e",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-1-17",
+      "paperId": "cet4:2020-12-03",
+      "kind": "cloze",
+      "sourceText": "opportunity to make the world a better place. \"Manufacturing is the one system where you have got the biggest source of innovation, the biggest source of economic growth, and the biggest source of great jobs in the past. You can see it changing. That's an opportunity to 35 that system differently, and if we can, it will hdve tremendous significance.\"",
+      "sourceHash": "7359d0fa200be110c5594a45152fdf04f3bcea9119e7fae2d3732b4d7e136acc",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-1-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-1-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-18"
+        ],
+        "reflowBlockIds": [
+          "b-1-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-3",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": ". . statement contains information given in one of the paragraphs . Identify the paragraph from which the informatio.n is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter; Answer the questions by marking the corresJUlding letter on Answer Sheet 2.",
+      "sourceHash": "9dffa413c982e04407f9d31e471917317817924b80e1d803776ba2948216cdea",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "。 。声明包含其中一个段落中给出的信息。确定从中导出信息的段落。您可以多次选择一个段落。每个段落都标有一个字母；通过在答题纸 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-4",
+      "paperId": "cet4:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "The History of the Lwich Box",
+      "sourceHash": "8f53168ad7eca9e8d6c317c37967639f25b20ae45e2ec9a57ad8dee385ab6fbd",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "利维奇盒子的历史",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) It was made of shiny, bright pink plastic with a Little Mermaid sticker oo the front, and I carried it with me nearly every single day. My lunch box was one of my first prized possessions, .a proud statement to every:one in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\" ·B) That bulky container served me well through my first and second grades, until the live-action version of 101 Dalmatians hit theaters, and I needed the newest red plastic box with characters like Pongo and",
+      "sourceHash": "c0e17d9b9bb87c082ed6f568cbf557f408575dcde99c2d4e6fef92ca10a6a04a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-6",
+        "cet4:2020-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-5",
+        "cet4:2020-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A）它由闪亮的亮粉色塑料制成，正面贴有小美人鱼贴纸，我几乎每天都带着它。我的午餐盒是我最珍贵的财产之一，我对幼儿园里的每个人都自豪地说：“我喜欢我午餐盒上的美人鱼爱丽儿。” ·B) 那个笨重的容器在我一年级和二年级的时候一直很好用，直到真人版《101 斑点狗》上映，我需要最新的红色塑料盒，里面有像 Pongo 和 Pongo 这样的角色",
+      "source": {
+        "blockIds": [
+          "b-2-6",
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-5",
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-7",
+      "paperId": "cet4:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Perdita on the front. I know I'm not alone here-I bet you loved your first lunch box, too.",
+      "sourceHash": "afc6f43508591927d09aa41fbc66780e07c66b31ecb7a4f36bd485537f2fac5c",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "佩迪塔在前面。我知道我并不孤单——我打赌你也喜欢你的第一个午餐盒。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-8",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) Lunch boxes have been connecting kids to cartoons and TV shows and super-heroes for decades. But it wasn't always that way. Once upon a time, they weren't even boxes. As schools have changed in the past century, the midday meal container has evolved right along with them.",
+      "sourceHash": "d8ce9a415316f67d068921ef8efada29e5dc47b3ec31e3156f2636480eca7def",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 几十年来，午餐盒一直将孩子们与卡通片、电视节目和超级英雄联系起来。但情况并非总是如此。曾几何时，它们甚至都不是盒子。随着学校在过去一个世纪的变化，午餐容器也随之发展。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": ". . While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas. As grandparents have been saying for generations, kids would travel miles to school in the countryside (often on foot).",
+      "sourceHash": "337b50d5a17dcfd3897fea6567589fdb82b1a4882b6a5a620b1e2a1877095f98",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "。 。虽然城市和郊区都有邻里学校，但一室校舍在农村地区很常见。正如祖父母世代相传的那样，孩子们会长途跋涉去乡村上学（通常是步行）。",
+      "source": {
+        "blockIds": [
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-12",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) \"You had kids in rural areas who couldn't go home from school for lunch', so bringing your lunch wrapped in a cloth, in oiled paper, in a little wooden box or something like that was a very long­ standing rural tradition,\" says Paula Johnson, ·head of food history section at the Smithsonian National Museum of American History in Washington, D. C.",
+      "sourceHash": "f392384d79d41b2a4d7897e615abcbbda0a8cae6438b84a4bca92ff0fb0a00b3",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) “农村地区的孩子无法放学回家吃午饭”，所以用布、油纸、小木盒或类似的东西包着午餐是一个非常悠久的农村传统，”华盛顿特区史密森美国历史国家博物馆食品历史部主任保拉·约翰逊 (Paula Johnson) 说。",
+      "source": {
+        "blockIds": [
+          "b-2-13"
+        ],
+        "reflowBlockIds": [
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-13",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) City kids, on the other hand, went home for lunch and came back. Since they rarely carried a-meal, the few metal lunch buckets on the market were mainly for tradesmen and factory workers.",
+      "sourceHash": "3153ec16748c8c8c93d1cdee0b9633610191d820b1d5a91942651186430d566a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 另一方面，城里的孩子回家吃午饭然后回来。由于很少携带饭菜，市场上为数不多的金属午餐桶主要是供商人和工厂工人使用的。",
+      "source": {
+        "blockIds": [
+          "b-2-14"
+        ],
+        "reflowBlockIds": [
+          "b-2-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-14",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) After World War II, a bunch of changes reshaped schoolS,--:--and lunches. More women joined the workforce: Small schools consolidated into larger ones, meaning more students were farther away from home.\" And the National School Lunch Act in 1946 made cafeterias much ·more common. Still, there wasn't much of a market for lunch containers-yet. Students who carried their lunch often did so thanks in ·large part to a genius move by a Nashville-based manufacturer, Aladdin Industries. The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids.",
+      "sourceHash": "34c0e1b082c4204b24d37b78d8475ee45e33d0ef1cada02fc9a0e961d229dccc",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-15",
+        "cet4:2020-12-03:b-2-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-14",
+        "cet4:2020-12-03:b-2-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-15",
+          "b-2-17"
+        ],
+        "reflowBlockIds": [
+          "b-2-14",
+          "b-2-16"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-17",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) But these containers were really durable, lasting years on end. That was great for the consumer, not so much for the manufacturer. So executives at Aladdin hit on an idea that would harness the newf ound popularity of television. They covered lunch boxes with· striking red paint and added a picture of TV and radio cowboy Hopalong Cassidy on the front.",
+      "sourceHash": "39d2dca1d0a7360068b2c5832e9b9c1cf9c20a370846511b9a454fad2e087c26",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 但这些容器非常耐用，可以连续使用很多年。这对消费者来说是件好事，但对制造商来说却不是那么好。因此，阿拉丁的高管们想到了一个利用电视新流行的想法。他们在午餐盒上涂上醒目的红色油漆，并在正面添加了电视和广播牛仔霍帕隆·卡西迪的照片。",
+      "source": {
+        "blockIds": [
+          "b-2-18"
+        ],
+        "reflowBlockIds": [
+          "b-2-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-2-18",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) The company sold 600,000 units the first year. It was a major\" Ah-ha!\" moment, and a wave of other manufacturers jumped on board to capitalize on new TV shows and movies. \"The Partridge Family, the Addams Family, the Six Million Dollar Man, the Bionic Woman-everything that was on television ended up on a lunch box,\" says Allen W,oodall. He's the founder of the Lunch Box Museum in Columbus, Georgia. \"It was a great marketing tool because kids were taking that TV show to school",
+      "sourceHash": "2c842d86bfee211944c753793136da00911a7a401c3d11003c27819d98fcfc33",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-2-19",
+        "cet4:2020-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-2-18",
+        "cet4:2020-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 公司第一年售出 600,000 台。那是一声重大的“啊哈！”在那一刻，一波其他制造商纷纷加入进来，利用新的电视节目和电影。 “帕特里奇家族、亚当斯家族、六百万美元的男人、仿生女人——电视上出现的一切最终都出现在午餐盒上，”艾伦·伍德尔说。他是佐治亚州哥伦布午餐盒博物馆的创始人。 “这是一个很棒的营销工具，因为孩子们会把这个电视节目带到学校",
+      "source": {
+        "blockIds": [
+          "b-2-19",
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-18",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-2",
+      "paperId": "cet4:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "with them, and then when they got home they had them captured back on TV,\" he says.",
+      "sourceHash": "500e128ad1fa2670389b03f065d1887fe4f6fbf1cb100b6c57e3851a8b183bc8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "和他们在一起，然后当他们回到家时，他们把他们拍回电视上，”他说。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-4",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Woodall has more than 2,000 items on display. His favorite? The Green.Hornet lunch box, because he used to listen to the radio show back in the 1940s.",
+      "sourceHash": "2ce14a28ce003d39b177c821ef29b7a0694cceb62e0ee4e7dd178295d0a75ad4",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Woodall 展出了 2,000 多件物品。他最喜欢的？ Green.Hornet 午餐盒，因为他在 20 世纪 40 年代经常听广播节目。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) The new trend was also a great example of planned obsolescence, that is, to design a product so that it will soon become unfashionable or impossible to use and will need replacing. Kids would beg for a new lunch box every year to keep up with the newest characters, even if their old lunch box was perfectly_ . usable.",
+      "sourceHash": "5bb52a215195b58abd7f972a42cb25292944b0184af47a4a8d9e0b541884b03a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 新趋势也是计划报废的一个很好的例子，即设计一种产品，使其很快变得不时尚或无法使用，并且需要更换。孩子们每年都会乞求一个新的午餐盒来跟上最新的角色，即使他们的旧午餐盒非常完美。可用。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-6",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "M) The metal lunch box craze lasted until the mid-1980s, when plastic took over. l\\vo theories exist as to why. The first-and most likely-is that plastic had simply become cheaper. The second theory­ possibly an urban myth-is that concerned parents in several states proposed bans on metal lunch boxes, claiming kids were using them as \"weapons\" to hit one another. There's a lot on the internet about a state-wide ban in Florida, but a few days worth of digging by a historian at the Florida State Historical Society found no such legislation. Either way, the metal lunch box was out.",
+      "sourceHash": "1754342b6c04d990d5e647382a6cbd3e64fea055480c3a0c4b28af4800f8457b",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M) 金属午餐盒热潮一直持续到 20 世纪 80 年代中期，随后塑料占据了主导地位。关于原因存在多种理论。第一个也是最有可能的是塑料变得更便宜了。第二种理论可能是一个都市神话，即几个州的有关家长提议禁止使用金属午餐盒，声称孩子们用它们作为互相攻击的“武器”。互联网上有很多关于佛罗里达州范围内的禁令的信息，但佛罗里达州历史学会的一位历史学家经过几天的挖掘，发现没有这样的立法。不管怎样，金属饭盒已经过时了。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-7",
+      "paperId": "cet4:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "N) The last few decades have brought a new lunch box revolution, of sorts. Plastic boxes changed to lined cloth sacks, and eventually, globalism brought ti.ffin containers from India and bento boxes from Japan. Even the old metal lunch boxes have regained popularity. \"I don't think the heyday (dJ;Jle,J-JIJJ) -has passed,\" says D. J. Jayasekara, owner and founder of lunchbox. corn, a retailer in Pasadena, California. \"I think it has evolved. The days of the ready-made, 'you stick it in a lunch box and carry it to school' are kind of done.\"",
+      "sourceHash": "b0348ebd258f54c4a055f1f14e04c8520952fda7cc36ec53b4105398f8c37b8c",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N) 过去几十年带来了一场新的午餐盒革命。塑料盒变成了有内衬的布袋，最终，全球化带来了印度的午餐盒和日本的便当盒。就连老式的金属饭盒也重新流行起来。 “我不认为全盛时期 (dJ;Jle,J-JIJJ) 已经过去，”午餐盒的所有者兼创始人 D. J. Jayasekara 说道。 corn，加利福尼亚州帕萨迪纳市的一家零售商。 “我认为它已经进化了。‘你把它放在午餐盒里然后带到学校’的现成产品的时代已经结束了。”",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-8",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "0) The introduction of backpacks changed the lunch box scene a bit, he adds. Once kids started carrying",
+      "sourceHash": "3b5e37cb78ba4c9678d4ffc80d3fce1a7627b68d204216c390a0f2ae916849f8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "0) 他补充道，背包的出现稍微改变了午餐盒的场景。一旦孩子们开始携带",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-10",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "in a backpack,\" Jayasekara says. \"It still has to go into a container.\" That is, in part, why smaller and softer containers have taken off-they fit into backpacks. P) And don't worry-whether it's a plastic bento box or a cloth bag, lunch containers can still easily be covered with popular culture. \"We keep pace with the movie industries so we can predict which characters are going to be popular for the coming months,\" Jayasekara says. \"You know, kids are kids.\"",
+      "sourceHash": "7aaf8c19bb1e471a47625541f91b821e1c8354787fa03723682920cc2087a34a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "放在背包里，”贾亚塞卡拉说。“它仍然需要装进容器里。”这就是为什么更小、更软的容器流行起来的部分原因——它们可以装进背包里。P）而且不用担心——无论是塑料便当盒还是布袋，午餐容器仍然可以很容易地被流行文化覆盖。“我们与电影行业保持同步，这样我们就可以预测哪些角色将在未来几个月流行，”贾亚塞卡拉说。“你知道，孩子就是孩子。”",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Lunch containers were not necessary for school kids in cities.",
+      "sourceHash": "83bb0181bff3961b90fc379bc5a2663f0399b251613a0f932c29cf4f781a4d16",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 城市里的学童不需要午餐盒。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-12",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Putting TV characters on lunch boxes proved an effective marketing strategy.",
+      "sourceHash": "548a19f833cbe2ad341565fbf9aac8aced62670ee0134353953a0e3478c55488",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 将电视人物放在午餐盒上被证明是一种有效的营销策略。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-13",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. Smaller lunch boxes are preferred because they fit easily. into backpacks.",
+      "sourceHash": "65de3cbf7ba56ded88dbe635a136870221650978857809402f599c9b333ab9c0",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 较小的午餐盒是首选，因为它们容易装下。装进背包里。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-14",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Lunch boxes have evolved along with the transformation of schools.",
+      "sourceHash": "5db3579108f8109afa4a614fc3076399b75b2319ab329297b754917ddfd933cc",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 午餐盒随着学校的转型而演变。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-15",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Around the beginning of the nineteen fifties, some school kids started to use metal meal containers.",
+      "sourceHash": "aa3fead92dec2a8495a93086abf7f1086f9eca9633adf18ee0f6e79873e963a4",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 大约十九世纪五十年代初，一些学生开始使用金属餐盒。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-16",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. School kids are eager to get a new lunch box every year to stay in fashion.",
+      "sourceHash": "dc4cbe80133e90f1f3c63dda19327961ead2a8f7122fce761c79a5cd284ab820",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 小学生每年都渴望得到一个新的午餐盒，以保持时尚。",
+      "source": {
+        "blockIds": [
+          "b-3-17"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-17",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Rural kids used to walk a long way to school in the old days.",
+      "sourceHash": "dc3c7a7337be3d374fb8cfcbbfe9b9571e1be73d5a0cbbdb693ccddf626e31fa",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 过去，农村的孩子要走很长的路去上学。",
+      "source": {
+        "blockIds": [
+          "b-3-18"
+        ],
+        "reflowBlockIds": [
+          "b-3-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-18",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. The author was proud of using a lunch box in her childhood.",
+      "sourceHash": "590845d7bc10e40b483f6e029ea8bed6cb36dd3c2fc70ebb793803d182d3c161",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 作者为童年时使用午餐盒感到自豪。",
+      "source": {
+        "blockIds": [
+          "b-3-19"
+        ],
+        "reflowBlockIds": [
+          "b-3-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-19",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. The most probable reason for the popularity of plastic lunch boxes is that they are less expensive.",
+      "sourceHash": "9a31d3502e78c56c14f0172ae751f25f32f20e321711f2668292d051c8db57b2",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 塑料饭盒流行的最可能的原因是它们比较便宜。",
+      "source": {
+        "blockIds": [
+          "b-3-20"
+        ],
+        "reflowBlockIds": [
+          "b-3-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-3-20",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. The durability of metal meal containers benefited consumers.",
+      "sourceHash": "af63b0b9470a1102da572dbe17aaa92a0ca222e3a2e223c3608ce4f42a24048f",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-3-21"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-3-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 金属餐盒的耐用性使消费者受益。",
+      "source": {
+        "blockIds": [
+          "b-3-21"
+        ],
+        "reflowBlockIds": [
+          "b-3-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-2",
+      "paperId": "cet4:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the beJ't choice and mark the co\"esponding letter on Answer Sheet 2 with a single line through the centre. Pas,ageOne",
+      "sourceHash": "afa624ef6b9835568b59c4da58c2aa47cfe342b47602ac92acbd24e7cc2d1c2d",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定正确的选项，并在答题卡 2 上用一条穿过中心的线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-3",
+      "paperId": "cet4:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based m the following pmage.",
+      "sourceHash": "5f595604fd2ddef1460b5835462752391c2967bffaf46d393bf7fb302ca15969",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 46 至 50 基于以下内容。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-4",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "A growing number of U.S. bike riders are attracted to electric- bikes for convenience, health benefits and their fun factor. Although ebikes first appeared in the 90s, cheaper options and longer-lasting batteries are breathing new life into the concept.",
+      "sourceHash": "d615c5b6b3b29e09d2ecba34938ffc2dde51164d9f1f6d258405ab63252a05d0",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "越来越多的美国自行车骑手被电动自行车所吸引，因为电动自行车的便利性、健康益处和乐趣。尽管电动自行车首次出现于 20 世纪 90 年代，但更便宜的选择和更耐用的电池为这一概念注入了新的活力。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Established bike • companies and startups are embracing ebikes to meet demand. About 34 million ebikes were sold worldwide last year, according to data from eCycleElectric Consultants. Most were sold in Europe and China, where the bikes already have exploded in popularity. Recently, the U.S. market has grown to 263,000 bikes, a 25% gain from the prior year.",
+      "sourceHash": "0a3f2ed0cc23df34df391e7d9bec6a71f6b6ad37ca785c0cdab40c597fbfe8e6",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "• 成熟的自行车公司和初创公司正在采用电动自行车来满足需求。根据 eCycleElectric Consultants 的数据，去年全球售出约 3400 万辆电动自行车。大部分销往欧洲和中国，这些自行车已经在这些国家大受欢迎。最近，美国市场的自行车数量已增至 263,000 辆，比上年增长 25%。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-6",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "The industry is benefiting from improved batteries as suppliers over the years developed technology for laptops, smartphones and electric cars. In 2004, the price of batteries used on ebikes fell, spurring European sales.",
+      "sourceHash": "5934f4ac3b3ca7584880f1d9b499cddd82b0b90a5fb85bcda4a9e14f1f1b7fcd",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "随着供应商多年来开发笔记本电脑、智能手机和电动汽车技术，该行业正受益于电池的改进。 2004年，电动自行车所用电池的价格下降，刺激了欧洲的销售。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-7",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "But lower cost options are emerging, too. This month, three U.S. bikeshare companies, Motivate, LimeBike and Spin, announced electric bicycles will be added to their fleets. New York-based Jump Bikes is already operating an electric bikeshare in Washington, D. C., and is launching in San Francisco Thursday. Rides cost $ 2 for 30 minutes.",
+      "sourceHash": "830c5a3a4e2e3d4e0daf7c609ff33d6842bc5725958d2f0e5d7b216dae9825e8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但成本更低的选择也在出现。本月，三个美国自行车共享公司 Motivate、LimeBike 和 Spin 宣布将在其车队中增加电动自行车。总部位于纽约的 Jump Bikes 已在华盛顿特区运营电动共享自行车，并将于周四在旧金山推出。乘车费用为 2 美元 30 分钟。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-8",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "The system works like existing dockless bikeshare systems, where riders unlock bikes through a smartphone app. \"This is the beginning of a long-term shift away from regular pedal ����� to electric bikes,\" said Jump Bikes CEO Ryan Rzepecki. \"When people first jump on an ebike, their face lights up. It's exciting and joyful in a way that you don't get from a regular bike.\"",
+      "sourceHash": "841b27d15a8ffcf9a9ee908b49d00f192f9c9f392376594a9647996ef31f1d73",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-9",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Two years ago, CEO Chris Cocalis of Pivot Cycles, which sells high-end mountain bikes, found that U.S. bike shops weren't interested in stocking ebikes. Some retailers warned Cocalis that they'd drop the brand if it came out with an electric bike.",
+      "sourceHash": "cc435d833ccd38a6a2519e1a6185a1bc02138bdc02132397a4a4516a5b9a9495",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "两年前，销售高端山地自行车的 Pivot Cycles 首席执行官 Chris Cocalis 发现美国自行车商店对库存电动自行车不感兴趣。一些零售商警告 Cocalis，如果推出电动自行车，他们将放弃该品牌。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-10",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available. •\"There's tremendous opportunity to get a generation of people for· whom suffering. isn't their thing,\" Cocalis said. \"Ebike riders get the enjoyable part of cycling without the massive suffering of climbing huge hills. \"",
+      "sourceHash": "aa8465c14f6c6c8a0a7fb68153431067d08b9df7a95ce07ab323ad94ed64fd10",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "现在销量正在起飞，绝大多数自行车经销商都在询问 Cocalis 何时推出电动自行车。 •“对于一代人来说，受苦不是他们的事，这是一个巨大的机会，”科卡利斯说。 “电动自行车骑手可以享受骑自行车的乐趣，而无需经历爬山的巨大痛苦。”",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn from the passage about ebikes?",
+      "sourceHash": "2b79ecc744a8d378a4660edd3bc460326fc59fb18088ba955e87f8bf121fd92e",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.我们从有关电动自行车的文章中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-4-13",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What brought about the boost in ebike sales in Europe at the beginning of the century?",
+      "sourceHash": "f54a713ee3a359ae938c3686d7f1c6e343820935e95d2bf52ea5737c4b2a4af8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 是什么导致了本世纪初欧洲电动自行车销量的增长？",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-1",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What is the prospect of the bike industry according to Ryan Rzepecki?",
+      "sourceHash": "3fb049a9e9cdee087bc6c6a999bb0ad6136c29a386ec4b33ffdd1f5c94db7071",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. Ryan Rzepecki 认为自行车行业的前景如何？",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-3",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What prevented Chris Cocalis from developing ebikes sooner?",
+      "sourceHash": "8a2a518998e1024f4626cb57db0fa8a86917214afa456d8d3c46f8c9945d2be2",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 是什么阻止 Chris Cocalis 更快地开发电动自行车？",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What makes Chris Cocalis believe there is a greater opportunity for ebike sales?",
+      "sourceHash": "b9ca500f6feec48d955dee512528f55da8f4dd263bf720169061f29e32a4a5fe",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 是什么让 Chris Cocalis 相信电动自行车销售有更大的机会？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-8",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Questions Sl to SS are based on the following pas.,age.",
+      "sourceHash": "6643f28ecdfbbd3aea791c0a5cc69ec8c2c725dbdcaeeaf14cfb94183f2f6ea3",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 Sl 到 SS 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-9",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "The terms \"global warming\" and \"climate change\" are used by many, seemingly interchangeably. But do they really mean the same thing?",
+      "sourceHash": "78fb7e639013edff32a2816f521ccaf38a5229acbb51f0caf15f4e693115e060",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“全球变暖”和“气候变化”这两个术语被许多人使用，似乎可以互换使用。但它们真的意味着同一件事吗？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-10",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Scientists shaped the history of the terms while attempting • to accurately describe how humans continue to alter the planet. Later, political strategists adopted the terms to influence public opinion.",
+      "sourceHash": "1070ca6824e9f6db1dd94d10fd386bb8b359d05f99491148ef52e559699c3b60",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "科学家们在试图准确描述人类如何继续改变地球的同时，塑造了这些术语的历史。后来，政治战略家采用这些术语来影响公众舆论。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "In 1975, geochemist Wallace Broecker introduced the term \"climate change\"· in an article published by Science. In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification (酸化).",
+      "sourceHash": "aeb249c4b0914899b93f9620eda771fb84710a2488b0f26236d0d72df0779cb3",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "1975年，地球化学家华莱士·布罗克（Wallace Broecker）在《科学》杂志发表的一篇文章中引入了“气候变化”一词。 1979 年，美国国家科学院的一份报告使用“全球变暖”一词来定义地球平均表面温度的升高，而“气候变化”更广泛地指的是这种升高带来的众多影响，例如海平面上升和海洋酸化。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-12",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "During the following decades, some industrialists and politicians launched a campaign to sow doubt in the minds of the American public about the ability of fossil-fuel use, deforestation and other human activities to influence the planet's climate.",
+      "sourceHash": "135e59f984af20e1f903c121095357aa4ec926e98d9842e4c5b2cac870171ac8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在接下来的几十年里，一些实业家和政客发起了一场运动，让美国公众对化石燃料的使用、森林砍伐和其他人类活动影响地球气候的能力产生怀疑。",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-13",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "Word use played a critical role in developing that doubt. For example, the language and polls expert Frank Luntz wrote a memo encouraging the use of \"climate change\" because the phrase sounded less scary than \"global warming,\" reported the Guardian.",
+      "sourceHash": "89b4912d3eb6bf23622ad268d1d7e5ea5c252a971f6e2488e73cf0206cb8ff81",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "词语的使用在产生这种怀疑方面发挥了关键作用。例如，据《卫报》报道，语言和民意调查专家弗兰克·伦茨写了一份备忘录，鼓励使用“气候变化”，因为这个词听起来没有“全球变暖”那么可怕。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-14",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "However, Luntz's recommendation wasn't necessary. A Google Ngram Viewer chart shows that by 1993 climate change was already more commonly used in books than global warming. By the end of the next decade both words were used more frequently, and climate change was used nearly twice as of ten as global warming.",
+      "sourceHash": "a680419f518e69713a7325f6a3dff549b5e986e6ac072fbac1be5342fdd04783",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，伦茨的建议是没有必要的。谷歌 Ngram Viewer 的图表显示，到 1993 年，书籍中提到的气候变化已经比全球变暖更常见。到下一个十年末，这两个词的使用频率更高，气候变化的使用频率几乎是全球变暖的两倍。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-15",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "NASA used the term \"climate change\" because it more accurately reflects the wide range of changes to the planet caused by increasing amounts of greenhouse gases in the atmosphere.",
+      "sourceHash": "4ada86195db8f4706af7a7fa25da3223e636445b431551a98c5336673b4ddd0f",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "美国宇航局使用“气候变化”一词，因为它更准确地反映了大气中温室气体含量增加对地球造成的广泛变化。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-5-16",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "The debate isn't new. A century ago, chemist Svante Arrhenius started one of the first debates over the potential for humans to influence the planet's climate. Arrhenius calculated the capability of carbon dioxide to trap heat in the Earth's atmosphere, but other chemists disagreed. Some argued that humans weren't producing enough greenhouse gases, while others claimed the effects would be tiny. Now, of",
+      "sourceHash": "69590345da45a0cb7960065b5af56c58b6479327f30cbec6643304a4fd96d105",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这种争论并不新鲜。一个世纪前，化学家斯万特·阿伦尼乌斯（Svante Arrenius）发起了关于人类影响地球气候的潜力的最早争论之一。阿累尼乌斯计算了二氧化碳在地球大气层中捕获热量的能力，但其他化学家不同意。一些人认为人类没有产生足够的温室气体，而另一些人则声称影响很小。现在，的",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-1",
+      "paperId": "cet4:2020-12-03",
+      "kind": "reading",
+      "sourceText": "course, we know that whatever you call it, human behavior is warming the planet, with grave consequences ahead.",
+      "sourceHash": "f6e5ced7b000bd091d7f6960a5c4322d1d0bec45215f12c79e3f14c8538cce5c",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当然，我们知道，无论你怎么称呼它，人类的行为正在使地球变暖，并带来严重后果。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-3",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. Why did politicians use the two terms \"global warming'' and \"climate change\"?",
+      "sourceHash": "3767da96650994771c94ffefcde4915478cae6fd4e37faaad003d3b0cacc3c1e",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.为什么政客们使用“全球变暖”和“气候变化”这两个术语？",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-5",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. As used in a National Academy of Sciences report, the term \"climate change\" differs from \"global warming'' in that __ _",
+      "sourceHash": "6551612720c55de0b2f802143c0647d6be4cb56fd7a63b5c984bbaf3ae6ef000",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 美国国家科学院报告中使用的术语“气候变化”与“全球变暖”的不同之处在于__ _",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-7",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What did industrialists of the late 20th century resort to in order to mislead Americans?",
+      "sourceHash": "86270b72c410827098f0b5ed3f4d9948932c2e643b3668625d59f37404a984f7",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 20世纪末的实业家用什么手段来误导美国人？",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-9",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. Why did NASA choose the term \"climate change\"?",
+      "sourceHash": "01773274ec1f538467d95ca09b4f52d24665131753ce35bc80d3731204523be1",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.为什么NASA选择“气候变化”这个词？",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-11",
+      "paperId": "cet4:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What is the author's final conclusion?",
+      "sourceHash": "d5e0f66144c5f62b179a542ce90bca0ac87963abbd6ac94773bcf0322117bd4a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.作者的最终结论是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2020-12-03:p:b-6-14",
+      "paperId": "cet4:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part , yo.u are allowed 80 minutes to translate a passage from Chinese into English. You should write yo.ur answer on .Answer Sheet 2 .",
+      "sourceHash": "4c90e5a2dfff5888074263cf3e995c9ca2665ba3215637a03aa989fcbe5aeb05",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2020-12-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 80 分钟的时间将一段中文翻译成英文。您应该将您的答案写在答题纸 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-15"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2020-12-03.json",
+        "pdfSha256": "c26d6684c93b02ec013bbf20b297cb21fc4131407c0e7a49cad745d776c24e9b",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2020-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2020-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-46-1",
+      "optionId": "cet4:2020-12-03:q-46-1:A",
+      "sourceText": "Their health benefits and fun values outweigh their cost.",
+      "sourceHash": "cfeecca9e5d6a6959560db1e3c0d31e327391ee908158e1e09d0d737f8cdb5d1",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Their health benefits and fun values outweigh their cost.",
+      "translationEligible": true,
+      "translationZh": "它们的健康益处和乐趣价值超过了它们的成本。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-46-1",
+      "optionId": "cet4:2020-12-03:q-46-1:B",
+      "sourceText": "They did not catch public attention in the United States until the 1990s.",
+      "sourceHash": "063174d513c73260eb2a07759d5f063dd9eb6e6f55565bc814d5acfc2b746a1f",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They did not catch public attention in the United States until the 1990s.",
+      "translationEligible": true,
+      "translationZh": "直到 20 世纪 90 年代，它们才引起美国公众的关注。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-46-1",
+      "optionId": "cet4:2020-12-03:q-46-1:C",
+      "sourceText": "They did not become popular until the emergence of improved batteries.",
+      "sourceHash": "35bbc709d9ce6936b2a1f237d7bc33c99a0fad9ed8d5e0ffbaf8f4f1633a5b7d",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They did not become popular until the emergence of improved batteries.",
+      "translationEligible": true,
+      "translationZh": "直到改进的电池出现后，它们才开始流行。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-46-1",
+      "optionId": "cet4:2020-12-03:q-46-1:D",
+      "sourceText": "Their widespread use is attributable to people's environmental awareness.",
+      "sourceHash": "75050001e6ba2b3da16f07a8cdfbadf58254bed7dc1ba0af2686a05e2228ddbf",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Their widespread use is attributable to people's environmental awareness.",
+      "translationEligible": true,
+      "translationZh": "它们的广泛使用归因于人们的环保意识。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-47-1",
+      "optionId": "cet4:2020-12-03:q-47-1:A",
+      "sourceText": "Updated technology of bike manufacture.",
+      "sourceHash": "ab9fbf11c09b2f3fd6b2fb40df10e1142439c28e838cf08fba6493f5cf862e5b",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Updated technology of bike manufacture.",
+      "translationEligible": true,
+      "translationZh": "更新自行车制造技术。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-47-1",
+      "optionId": "cet4:2020-12-03:q-47-1:B",
+      "sourceText": "The falling prices of ebike batteries.",
+      "sourceHash": "f93777377543b41a6d32eced4b886af2908c71620037f00eac9e007e27f41a97",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The falling prices of ebike batteries.",
+      "translationEligible": true,
+      "translationZh": "电动自行车电池的价格下降。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-47-1",
+      "optionId": "cet4:2020-12-03:q-47-1:C",
+      "sourceText": "Changed fashion in short-distance travel.",
+      "sourceHash": "3b9f03543580aa3b39025d7e6979aaba2d3209bb5ba707e24da74b80142777bf",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Changed fashion in short-distance travel.",
+      "translationEligible": true,
+      "translationZh": "短途旅行改变时尚。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-47-1",
+      "optionId": "cet4:2020-12-03:q-47-1:D",
+      "sourceText": "The rising costs for making electric cars.",
+      "sourceHash": "4d3c5728405ca04064f2bb1eec9c8a90d3b5a5c8dd80313329806bd89ed45706",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-4-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The rising costs for making electric cars.",
+      "translationEligible": true,
+      "translationZh": "制造电动汽车的成本不断上升。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-48-1",
+      "optionId": "cet4:2020-12-03:q-48-1:A",
+      "sourceText": "More will be invested in bike battery research.",
+      "sourceHash": "dce64ce8b4b301e2887773ecb29be6cbd8b5db570d765eab04b9a6683a24f055",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "More will be invested in bike battery research.",
+      "translationEligible": true,
+      "translationZh": "将加大对自行车电池研究的投资。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-48-1",
+      "optionId": "cet4:2020-12-03:q-48-1:B",
+      "sourceText": "The sales of ebikes will increase.",
+      "sourceHash": "6def6ee0a0743e0d94af85b6d12571d1288412289456baa7dc49145e4d995e57",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The sales of ebikes will increase.",
+      "translationEligible": true,
+      "translationZh": "电动自行车的销量将会增加。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-48-1",
+      "optionId": "cet4:2020-12-03:q-48-1:C",
+      "sourceText": "It will profit from ebike sharing.",
+      "sourceHash": "6e917f09c310b484f82d32dd2ad4f89e0c25ccff80781e60a2a0a2a21b9f87f1",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will profit from ebike sharing.",
+      "translationEligible": true,
+      "translationZh": "它将从电动自行车共享中获利。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-48-1",
+      "optionId": "cet4:2020-12-03:q-48-1:D",
+      "sourceText": "It will make a difference in people's daily lives.",
+      "sourceHash": "36c629f7429b8c9230b149fe092b3f14d9440d40da025b950335426d7aa17c15",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It will make a difference in people's daily lives.",
+      "translationEligible": true,
+      "translationZh": "它将改变人们的日常生活。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-49-1",
+      "optionId": "cet4:2020-12-03:q-49-1:A",
+      "sourceText": "Retailers' refusal to deal in ebikes.",
+      "sourceHash": "b83f713d74609e79a7e4990eda00b393e68b109ffb1975d7d021c22b2f3e5fea",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Retailers' refusal to deal in ebikes.",
+      "translationEligible": true,
+      "translationZh": "零售商拒绝经营电动自行车。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-49-1",
+      "optionId": "cet4:2020-12-03:q-49-1:B",
+      "sourceText": "High profits from conventional bikes.",
+      "sourceHash": "68cb4162b949d3ba1aafa03cd5f2f41be10809175d3aefa53271b648392d26b3",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "High profits from conventional bikes.",
+      "translationEligible": true,
+      "translationZh": "传统自行车的高利润。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-49-1",
+      "optionId": "cet4:2020-12-03:q-49-1:C",
+      "sourceText": "Users' concern about risks of ebike riding.",
+      "sourceHash": "a7c2b75e4b034093276dff121970eaa317c24ea4b8f2b967e4101fe364b45666",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Users' concern about risks of ebike riding.",
+      "translationEligible": true,
+      "translationZh": "用户对电动自行车骑行风险的担忧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-49-1",
+      "optionId": "cet4:2020-12-03:q-49-1:D",
+      "sourceText": "His focus on selling costly mountain bikes.",
+      "sourceHash": "2291b200bb3ef9e3c86ac2be8990523309e3ce44f9873da955a3e20a8c66e323",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "His focus on selling costly mountain bikes.",
+      "translationEligible": true,
+      "translationZh": "他专注于销售昂贵的山地自行车。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-50-1",
+      "optionId": "cet4:2020-12-03:q-50-1:A",
+      "sourceText": "The further lowering of ebike prices.",
+      "sourceHash": "840f4e8c7d80d423a83fc002c8ed801e227e49eddebb9b810cb876d173293aa8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The further lowering of ebike prices.",
+      "translationEligible": true,
+      "translationZh": "电动自行车价格进一步降低。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-50-1",
+      "optionId": "cet4:2020-12-03:q-50-1:B",
+      "sourceText": "The public's concern for their health.",
+      "sourceHash": "afa3a96678bce32d06e9c162a400b14199bdd90560adc5f615ffe4b49ba5d08a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The public's concern for their health.",
+      "translationEligible": true,
+      "translationZh": "公众对自身健康的关注。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-50-1",
+      "optionId": "cet4:2020-12-03:q-50-1:C",
+      "sourceText": "The increasing interest in mountain climbing.",
+      "sourceHash": "0cf3f6be080677cc7afd6e8040c7a0d5cceaa1e6652e7296a969868e97c13a32",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The increasing interest in mountain climbing.",
+      "translationEligible": true,
+      "translationZh": "对登山的兴趣日益浓厚。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-50-1",
+      "optionId": "cet4:2020-12-03:q-50-1:D",
+      "sourceText": "The younger generation's pursuit of comfortable riding.",
+      "sourceHash": "0ff98747491ce5070ba95153b1e6b7a8811349161b5c44caab55bf7201cd7109",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The younger generation's pursuit of comfortable riding.",
+      "translationEligible": true,
+      "translationZh": "年轻一代追求舒适的乘坐体验。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-51-1",
+      "optionId": "cet4:2020-12-03:q-51-1:A",
+      "sourceText": "To sway public opinion of the impact of human activities on Earth.",
+      "sourceHash": "a2c8a713e115df4ca3a56573a0878932ec8d31193164f1e6a7b2b3eb05a991b1",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "To sway public opinion of the impact of human activities on Earth.",
+      "translationEligible": true,
+      "translationZh": "影响公众对人类活动对地球影响的看法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-51-1",
+      "optionId": "cet4:2020-12-03:q-51-1:B",
+      "sourceText": "To more accurately describe the consequences of human activities.",
+      "sourceHash": "a311564d1f2a4101cd54fe1fba06b148115bd7c1092dc3a0b522d21aaca34084",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "To more accurately describe the consequences of human activities.",
+      "translationEligible": true,
+      "translationZh": "更准确地描述人类活动的后果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-51-1",
+      "optionId": "cet4:2020-12-03:q-51-1:C",
+      "sourceText": "To win more popular votes in their campaign activities.",
+      "sourceHash": "2b86e2a4862643cd4d18cd07f49a699c6a12b96f0f08db50324bee3b0393c313",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "To win more popular votes in their campaign activities.",
+      "translationEligible": true,
+      "translationZh": "在竞选活动中赢得更多民众选票。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-51-1",
+      "optionId": "cet4:2020-12-03:q-51-1:D",
+      "sourceText": "To assure the public of the safety of existing industries.",
+      "sourceHash": "16d7a1f313a23209345641dc3f4d2c85978bd751c210e034445156860d5ad121",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "To assure the public of the safety of existing industries.",
+      "translationEligible": true,
+      "translationZh": "确保公众现有产业的安全。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-52-1",
+      "optionId": "cet4:2020-12-03:q-52-1:A",
+      "sourceText": "it sounds less vague",
+      "sourceHash": "df4a13795cb729950ef2dbad167d96bce86b555b4e419d373783a935685378ea",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "it sounds less vague",
+      "translationEligible": true,
+      "translationZh": "听起来不太模糊",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-52-1",
+      "optionId": "cet4:2020-12-03:q-52-1:B",
+      "sourceText": "it looks more scientific",
+      "sourceHash": "cefbe81a839c0762a83e575bba4b9578bda297a10da836d910f52755dd90a9d2",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "it looks more scientific",
+      "translationEligible": true,
+      "translationZh": "看起来更科学",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-52-1",
+      "optionId": "cet4:2020-12-03:q-52-1:C",
+      "sourceText": "it covers more phenomena",
+      "sourceHash": "49667a12eca61ae5c4b7677443125b7e2384aeaf7c37bf501b4438955bffd66d",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "it covers more phenomena",
+      "translationEligible": true,
+      "translationZh": "它涵盖了更多的现象",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-52-1",
+      "optionId": "cet4:2020-12-03:q-52-1:D",
+      "sourceText": "it is much closer to reality",
+      "sourceHash": "e8d2c20d6dd9acfe4a0a042af694d63932090ad5d5c96e6b914d0ec294706dc8",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "it is much closer to reality",
+      "translationEligible": true,
+      "translationZh": "它更接近现实",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-53-1",
+      "optionId": "cet4:2020-12-03:q-53-1:A",
+      "sourceText": "Made-up survey results.",
+      "sourceHash": "63aca46278d4f2f89927bb3c694c02bf5775c48f1cc8e4d72dda54be0df2df7f",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Made-up survey results.",
+      "translationEligible": true,
+      "translationZh": "编造的调查结果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-53-1",
+      "optionId": "cet4:2020-12-03:q-53-1:B",
+      "sourceText": "Hired climate experts.",
+      "sourceHash": "12971b7fe90fc21e54a04b540bf417d94fba6da10629ce6340c52e73c91398d3",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Hired climate experts.",
+      "translationEligible": true,
+      "translationZh": "聘请气候专家。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-53-1",
+      "optionId": "cet4:2020-12-03:q-53-1:C",
+      "sourceText": "False research findings.",
+      "sourceHash": "33479b293ed7ce8bc195dfe90f4d759fd4b49f1adbc224c91d5aeffe4ac553e2",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "False research findings.",
+      "translationEligible": true,
+      "translationZh": "错误的研究结果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-53-1",
+      "optionId": "cet4:2020-12-03:q-53-1:D",
+      "sourceText": "Deliberate choice of words.",
+      "sourceHash": "e2758b15d201ac4df7501e14b69093a6f972524d932dfd37c6abe8ce694f061a",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Deliberate choice of words.",
+      "translationEligible": true,
+      "translationZh": "刻意选择词语。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-54-1",
+      "optionId": "cet4:2020-12-03:q-54-1:A",
+      "sourceText": "To obtain more funds.",
+      "sourceHash": "efd848a5ad7bba7c52c18f39d9b36be645f314a5f97ce6973a00cb3f310c8be6",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "To obtain more funds.",
+      "translationEligible": true,
+      "translationZh": "以获得更多的资金。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-54-1",
+      "optionId": "cet4:2020-12-03:q-54-1:B",
+      "sourceText": "For greater precision.",
+      "sourceHash": "94cdb68168ade010c2748dc9d3780a153c93c41999e3c06624c31ce052d66a49",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "For greater precision.",
+      "translationEligible": true,
+      "translationZh": "为了获得更高的精度。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-54-1",
+      "optionId": "cet4:2020-12-03:q-54-1:C",
+      "sourceText": "For political needs.",
+      "sourceHash": "d533739bfd7da0c8fd760e698b6297bd2583be9619ee4c3e7b997d75e683c664",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "For political needs.",
+      "translationEligible": true,
+      "translationZh": "出于政治需要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-54-1",
+      "optionId": "cet4:2020-12-03:q-54-1:D",
+      "sourceText": "To avoid .debate.",
+      "sourceHash": "608c909b100db524fe335e6e2b024ed20da8fbb144c8327439b09c237ce2b7ca",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "To avoid .debate.",
+      "translationEligible": true,
+      "translationZh": "为了避免争论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-55-1",
+      "optionId": "cet4:2020-12-03:q-55-1:A",
+      "sourceText": "Global warming is the more accurate term.",
+      "sourceHash": "332ec5a157eba923ce84facd6573e88e0be84f6a53a23a478b1c07455b2ccedf",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Global warming is the more accurate term.",
+      "translationEligible": true,
+      "translationZh": "全球变暖是更准确的术语。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-55-1",
+      "optionId": "cet4:2020-12-03:q-55-1:B",
+      "sourceText": "Accuracy of terminology matters in science.",
+      "sourceHash": "0dc2f8f419486bb3b1a8100aed3c43f76c7d62a676e0d32cfccaaff47b6016ed",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Accuracy of terminology matters in science.",
+      "translationEligible": true,
+      "translationZh": "术语的准确性在科学中很重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-55-1",
+      "optionId": "cet4:2020-12-03:q-55-1:C",
+      "sourceText": "Human activities have serious effects on Earth.",
+      "sourceHash": "e470e63cb3d6a5edf9267587290e6756c8e5f8c11eacaefb5ea784f2ac141ea6",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Human activities have serious effects on Earth.",
+      "translationEligible": true,
+      "translationZh": "人类活动对地球产生严重影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2020-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2020-12-03",
+      "questionId": "cet4:2020-12-03:q-55-1",
+      "optionId": "cet4:2020-12-03:q-55-1:D",
+      "sourceText": "Politics interferes with serious scientific debate.",
+      "sourceHash": "41f2fd18864fea2ae86af8b891e77c6d0774885578fe38cd439471d38805ced0",
+      "sourceBlockIds": [
+        "cet4:2020-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2020-12-03:b-6-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Politics interferes with serious scientific debate.",
+      "translationEligible": true,
+      "translationZh": "政治干扰严肃的科学辩论。",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 40,
+    "reason:translate": 40
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2020-12-03:p:b-1-2"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-3",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "cet4:2020-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-5",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-1-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2020-12-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-9",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2020-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-11",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2020-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-12",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2020-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-15",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2020-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-1-17",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2020-12-03:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2020-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-7",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-13",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-13"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-14",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet4:2020-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-16",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet4:2020-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-2-18",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-2-18"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2020-12-03:p:b-2-18"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-2",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2020-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-17"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-18",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-18"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-19",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-19"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-3-20",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-3-20"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2020-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2020-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-8",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet4:2020-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-5-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2020-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2020-12-03:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-13",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2020-12-03:b-6-14",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2020-12-03:p:b-6-14"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 8,
+    "included": 62,
+    "ineligible": 8
+  },
+  "reasonCounts": {
+    "heading_prose": 4,
+    "instruction": 5,
+    "non_english_or_fragment": 2,
+    "question_prompt": 21,
+    "reading_choice_continuation": 2,
+    "reading_choice_paragraph": 9,
+    "reading_prose": 20,
+    "section_label": 6,
+    "section_writing": 1,
+    "source_unreadable": 1,
+    "source_unreadable_image_gap": 2,
+    "unparsed_cloze_region": 5
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 4,
+    "instruction": 5,
+    "passage_option": 10,
+    "question_prompt": 21,
+    "reading": 21,
+    "writing_prompt": 1
+  },
+  "otherSourceBlockCounts": {
+    "options": 11,
+    "source_line": 12,
+    "structured_image_source_line": 12,
+    "structured_source_notice": 5
+  },
+  "issues": [
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-12-03:p:b-2-14",
+      "reflowBlockIds": [
+        "b-2-15"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-03:p:b-4-8",
+      "replacementCharacters": 5,
+      "sourceRenderMismatch": true
+    }
+  ]
+}

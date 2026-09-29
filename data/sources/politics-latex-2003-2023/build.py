@@ -18,6 +18,20 @@ def visible_question_text(text):
 def continuation_marker(text):
  match=CONTINUATION_DISPLAY_RE.match(text)
  return match.group(0).strip() if match else ''
+def material_paragraph_class(text):
+ classes=['paragraph']
+ if re.fullmatch(r'材料\s*\d+',text.strip()):classes.append('material-label')
+ elif re.match(r'^摘(?:编)?自.{0,18}《',text.strip()):classes.append('material-source')
+ return ' '.join(classes)
+def visible_material_parts(paragraphs):
+ parts=[]
+ for raw in paragraphs:
+  marker=continuation_marker(raw);text=visible_question_text(raw)
+  inline_label=re.match(r'^(材料\s*[1-9]\d?)\s+(\S.*)$',text)
+  if inline_label:
+   parts.extend([(marker,inline_label.group(1)),('',inline_label.group(2))])
+  else:parts.append((marker,text))
+ return parts
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def esc(s):return html.escape(str(s),quote=True)
 def tex_escape(s):
@@ -119,9 +133,9 @@ def main():
        assert len(paragraphs)>1 and all(isinstance(part,str) and part.strip() for part in paragraphs),(sid,pn,bi)
        assert re.sub(r'\s+','',text)==re.sub(r'\s+','',''.join(paragraphs)),(sid,pn,bi,'paragraph text mismatch')
        wrapper='paragraph-group question' if 'question' in cls else 'paragraph-group'
-       visible_parts=[(continuation_marker(raw),visible_question_text(raw)) for raw in paragraphs]
+       visible_parts=visible_material_parts(paragraphs)
        out.append(f'<div class="{wrapper}">'+''.join(
-        '<p class="paragraph'+(' material-label' if re.fullmatch(r'材料\s*\d+',part) else '')+'"'+(' hidden' if marker and not part else '')+'>'+
+        '<p class="'+material_paragraph_class(part)+'"'+(' hidden' if marker and not part else '')+'>'+
         (f'<span class="source-continuation-label" hidden>{prose(marker)}</span>' if marker else '')+prose(part)+'</p>'
         for marker,part in visible_parts)+'</div>')
        texparts.append('\n\n'.join(body_tex(part) for _,part in visible_parts if part))

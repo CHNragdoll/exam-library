@@ -1,0 +1,3631 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2020-12-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+  "sourcePdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+  "paragraphs": [
+    {
+      "id": "cet6:2020-12-03:p:b-1-3",
+      "paperId": "cet6:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part , you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "509f3fed47ed8f1c053183358ca2ba8756333cbb993d1767968587424fbfb931",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇文章，说明为什么应该鼓励学生发展创造力。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-6",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Part l[ Reading Comprehension ( 40 minutes)",
+      "sourceHash": "811dc558bc6e260b5eaa65265f1a03d6f3ea0629be79934f75d7971d0870eb21",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第l部分[阅读理解（40分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-8",
+      "paperId": "cet6:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the co\"esponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "536205aabdda89cedc75990b6992afa7851faddd5aca0284d6c0e6070eb907af",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目的对应字母上用一条穿过中心的单线标记。您不得多次使用库中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-9",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Social distancing is putting people out of work, canceling school and tanking the stock market. It has been 26 by fear, and it is creating even more fear as money problems and uncertainty grow.",
+      "sourceHash": "443c10711413002d979de9adc273a89e85fa5167815311cae494b604d73649ab",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "社交距离导致人们失业、学校停课、股市暴跌。恐惧已经持续了 26 个月，而且随着资金问题和不确定性的增加，恐惧正在加剧。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-11",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "would be used up by a 28 epidemic.",
+      "sourceHash": "9360ae9c0b6cbf17c4f34ea3fe2bf3bf58e5920c8c8c6bbb0ea60f59bd8e2145",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "会被28次流行病用完。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-12",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Americans make life-saving decisions every day as a matter of course. We cut food into bite-sized pieces, we wear seatbelts, and we take care not to exceed the speed limit. But social distancing is",
+      "sourceHash": "b03c24084a56cc6fe9ee6c08ca2a9d9fd88f35787871acf158c823a782740f06",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "美国人每天都会做出挽救生命的决定，这是理所当然的。我们把食物切成一口大小的块，系上安全带，并且注意不要超过速度限制。但社交距离是",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-13",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "29 in that it is completely self-sacrificing. Those who will benefit may be the elderly relatives of the 30 person we didn't pass in Starbucks, on the subway, or in the elevator.",
+      "sourceHash": "813e308d29e75797b8effb142459c89b0fbfd99df39dad85f0828957671e0d53",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "29 因为它是完全自我牺牲的。受益者可能是我们在星巴克、地铁、电梯里没有经过的30个人的年长亲戚。",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-14",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Social distancing is millions of people making hundreds of sacrifices to keep the elderly alive. It doesn't include the - 31-- to run from . society or make an excuse to avoid one's obligations-such as life-saving medical work or the parental obligation to buy groceries. What it does include is applying love through caution. And in doing so, it offers an 32 opportunity for those who care about the elderly to find new ways· to love them.",
+      "sourceHash": "a3dae600c79d31e31502594c15a69a1fce9ea4cd67a3706994de4bab3bb02012",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "保持社交距离意味着数百万人做出数百万人的牺牲来维持老年人的生存。它不包括运行的 - 31-- 。社会或找借口逃避自己的义务——例如救生医疗工作或父母购买杂货的义务。它所包含的是谨慎地运用爱。这样做，它为那些关心老年人的人提供了 32 个找到爱他们的新方式的机会。",
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-1-15",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "If we're not 33 as much in our normal work or school, we have extra time to call parents and",
+      "sourceHash": "44929e2de0c1b63b1ddcf43d70c677dd86c51526cacfe147b373d812abe69d93",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如果我们正常工作或上学的时间没有那么多，我们就有额外的时间给父母打电话，",
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-3",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "statement contains information given in one of the paragraphs. Identify the paragraph from . which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "55ee4c1d5931f6fd8cb08344a60d1b5d06f7c9bec2ddab4adb15b5f5cd576807",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "声明包含其中一个段落中给出的信息。识别来自 的段落。信息是由此得出的。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-4",
+      "paperId": "cet6:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Why lifelong learning is the international imsport to success",
+      "sourceHash": "3e533f2382d89d0a87329bf3ba5faf44abfa22c2500631b51946b8a2d7920d83",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为什么终身学习是国际成功的秘诀",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-5",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) Picture yourself at a college graduation day, with a fresh cohort (一群) of students about to set sail for new horizons. What are they thinking while they. throw their caps in the air? What is it with this thin sheet of paper that makes it so precious? It's not only the proof of acquired knowledge but plays into the reputation game of where you were trained. Being a graduate from Harvard Law School carries that extra glamour, doesn't it? Yet take a closer look, and the diploma is the perfect ending to the modem tragedy of education. tragedy: time, action, and place. Students meet at the university campus (unity of place) for classes ( unity of action) during their 20s ( unity of time). This classical model has traditionally produced prestigious universities, but it is now challenged by the digitalisation of society-which allows everybody who is connected to the internet to access learning-and by the need to acquire skills in step with a fast-changing world. Universities must realise that learning in your 20s won't be enough; If technological diffusion and implementation develop faster, workers will have to constantly· refresh their skills.",
+      "sourceHash": "89b044818cd6f181a86adba9657a47192a9716d292773226a3eec700c4f366c5",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-6",
+        "cet6:2020-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-5",
+        "cet6:2020-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-6",
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-5",
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-8",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) The university model needs to evolve. It must equip students with the right skills and knowledge to compete in a world 'where value will be derived largely from human interaction and the ability to invent and interpret things that machines cannot' , as the English futurist Richard Watson puts it. By teaching foundational knowledge and up-to-date skills, universities wiH provide students. with the future-proof skills of.lifelong learning, not just get them 'job-ready'.",
+      "sourceHash": "fbb86e363796dc705da54df9c9e185e4a1c2cd9d71f5395f35515493413e74b7",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 大学模式需要发展。正如英国未来学家理查德·沃森（Richard Watson）所说，它必须让学生具备正确的技能和知识，以便在一个“价值主要来自人类互动以及发明和解释机器无法解释的事物的能力”的世界中竞争。通过教授基础知识和最新技能，大学为学生提供。拥有面向未来的终身学习技能，而不仅仅是让他们“为工作做好准备”。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-9",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) Some universities already play a critical role in lifelong learning as they want to keep the value of their way to start this transformation process could be to go beyond the 'five-year diploma model' to adapt curricula to lifelong learning. We call this model the lifelong passport.",
+      "sourceHash": "da230fa70d3ff982c87d11cf48805b0909ddabe0d50df5ac79dbcfea52aa1323",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-10",
+        "cet6:2020-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-9",
+        "cet6:2020-12-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-10",
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-9",
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-12",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) The Bachelor's degree could be your passport to lifelong learning. For the first few years, students would 'learn to learn' and get endowed with reasoning skills that remain with them for the rest of their lives. For instance, physics allows you to observe and rationalise the world, but also to integrate predictions. Mathematics is the language used to formulate the laws of physics or economy, and to make rigorous computations that tum into predictions. These two disciplines natur'ally form the foundational pillars of education in technical universities.",
+      "sourceHash": "a810c99adb660768c8080a80ee139cc77345c884c599374a886d2ae45bc714fb",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-13",
+        "cet6:2020-12-03:b-2-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-12",
+        "cet6:2020-12-03:b-2-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-13",
+          "b-2-15"
+        ],
+        "reflowBlockIds": [
+          "b-2-12",
+          "b-2-14"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-15",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) Recent advances in computational methods and data science push us into rethinking science and engineering. Computers increasingly become principal actors in leveraging data to formulate questions, which requires radically new ways of reasoning. Therefore, a new discipline blending computer science, programming, statistics and machine learning should be added to the traditional foundational topics of mathematics and physics. These three pillars would allow you to keep learning complex technical subjects all your life because numeracy (计算) is the foundation upon which everything else is eventually built.",
+      "sourceHash": "05c68c6769fdd8a795ccc62b34b8e4a7cdd9a2f3bf272f8005d3485803b44999",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 计算方法和数据科学的最新进展推动我们重新思考科学和工程。计算机日益成为利用数据提出问题的主要参与者，这需要全新的推理方式。因此，应该在传统的数学和物理基础主题中添加一门融合计算机科学、编程、统计学和机器学习的新学科。这三个支柱将使您能够一生不断学习复杂的技术科目，因为计算能力是其他一切最终建立的基础。",
+      "source": {
+        "blockIds": [
+          "b-2-16"
+        ],
+        "reflowBlockIds": [
+          "b-2-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-16",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) According to this new model, the Master of Science ( MSc) would become the first stamp in the lifelong learning journey. The MSc curriculum should prepare students for their professional career by allowing them to focus on acquiring practical skills through projects.",
+      "sourceHash": "b1196300d08f6c49854457ac1c69459992a559db778fdf4e1bdd8f857715e0e0",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 根据这一新模式，理学硕士（MSc）将成为终身学习旅程的第一枚印章。理学硕士课程应该让学生专注于通过项目获得实践技能，为他们的职业生涯做好准备。",
+      "source": {
+        "blockIds": [
+          "b-2-17"
+        ],
+        "reflowBlockIds": [
+          "b-2-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-2-17",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) Those projects are then interwoven with fast-paced technical modules (模块) learned 'on-the-fly' and 'at will' depending on the nature of the project. If, for instance, your project is developing an integrated circuit, you will have to take a module on advanced concepts in microelectronics. The most",
+      "sourceHash": "b98641327d7eb848414e13d2ef5a064a852315bb28c27874f5dbd9d1deb2e860",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-2-18",
+        "cet6:2020-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-2-17",
+        "cet6:2020-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 然后，根据项目的性质，这些项目与“即时”和“随意”学习的快节奏技术模块（模块）交织在一起。例如，如果您的项目正在开发集成电路，您将必须学习微电子学先进概念的模块。最",
+      "source": {
+        "blockIds": [
+          "b-2-18",
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-17",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-3",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) In addition to technical capabilities, the very nature of projects develops social and entrepreneurial skills, such as design thinking, initiative taking, team leading, activity reporting or resource planning. Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate.",
+      "sourceHash": "ebe7b5323dba0f05336d415d6b87b372067f718dcb8f32fa323b5632d186026b",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 除了技术能力之外，项目的本质还培养社会和创业技能，例如设计思维、主动性、团队领导、活动报告或资源规划。这些技能不仅会真正融入到课程中，而且在未来将非常重要，因为它们很难自动化。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-4",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) After the MSc diploma is earned, there would be many more stamps of lifelong learning over the years. If universities decide to engage in this learning model, they will have to cope with many organisational challenges that might shake their unity of place and action. First, the number of students would be unpredictable. If all of a university's alumni ��������������� were to become students again, the student body would be much bigger than it is now, and it could become unsustainable for the campus in terms of both size and resources. Second, freshly graduated students would mix with professionally experienced ones. This would change the classroom dynamics, perhaps for the best. Project-based learning with a mixed team reflects the reality of the professional world and could therefore be a better preparation for it.",
+      "sourceHash": "2beab8b9e6e78674a940e5f2e6a49b732bed85eb5df4842790a88647a4352a48",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-5",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Sound like science fiction? In many countries, part-time studying is not exceptional: on average across OECD countries, part-time students in 2016 represented 20 per cent of enrolment in tertiary education. In many countries, this share is higher and can exceed 40 per cent in Australia, New Zealand and Sweden.",
+      "sourceHash": "d0ab4354d509eaa673dee19845c8c994a4d188467fa9e46b326463b7aa72c3ac",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 听起来像科幻小说吗？在许多国家，非全日制学习并不例外：平均而言，在 OECD 国家中，2016 年非全日制学生占高等教育入学人数的 20%。在许多国家，这一比例更高，在澳大利亚、新西兰和瑞典可以超过 40%。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-6",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) If lifelong learning were to become a priority and the new norm, diplomas, just like passports, could be revalidated periodically. A time-determined revalidation would ease administration for everybody. Universities as well as employers and employees would know when they have to retrain. For instance, graduates from the year 2000 would have to come back in 2005.",
+      "sourceHash": "cfc3e01858809c98d62fb53eb28a2904d9f3c3198021735b1a36373cd01d05c5",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 如果终身学习成为优先事项和新常态，文凭就像护照一样可以定期重新生效。确定时间的重新验证将简化每个人的管理。大学以及雇主和雇员都会知道他们何时需要再培训。例如，2000年的毕业生必须在2005年回国。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-7",
+      "paperId": "cet6:2020-12-03",
+      "kind": "passage_option",
+      "sourceText": "M) This could fix the main organisational challenges for the university, but not for the learners, due to you to save your 'travel time', but it has its limits. So far, none of the major employers associated with online learning platforms such as Coursera and Udacity has committed to hire or even interview graduates of their new online programmes. be the learner's responsibility, that of his employer, or of the state? For example, in Massachusetts, the healthcare professions require continuing education credits, which are carefully evidenced and documented. Yet the same state's lawyers don't require continuing legal education, although most lawyers do participate in it informally. One explanation is that technology is less of a factor in law than it is in healthcare.",
+      "sourceHash": "0ade2580f1a595134544c828c391fb3ab64cce93fb5a1aeceb333d4c91c8226b",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-8",
+        "cet6:2020-12-03:b-3-10",
+        "cet6:2020-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-7",
+        "cet6:2020-12-03:b-3-9",
+        "cet6:2020-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-8",
+          "b-3-10",
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-7",
+          "b-3-9",
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-12",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "0) Europe has many scenarios, but the French and Swiss ones are interesting to compare .. In France,",
+      "sourceHash": "0e7d6b2aba70d3de1af137df25e45bc513df0004335255b84b1a2044f445fa58",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "0）欧洲有很多场景，但比较法国和瑞士的场景很有趣..在法国，",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-14",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "credited as you work. In Switzerland, lifelong learning is a personal responsibility and not a government one. However, employers and the state encourage continuing education either by funding parts of it or by allowing employees to attend it. P) Universities have a fundamental role to play in this journey, and higher education is in for a change.",
+      "sourceHash": "f57620a495d2e42a42f96668773f0d1f2cf54286639089a797b63f4664f7304c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当你工作时记入。在瑞士，终身学习是个人的责任，而不是政府的责任。然而，雇主和国家通过资助部分教育或允许员工参加继续教育来鼓励继续教育。 P) 大学在这一过程中发挥着基础性作用，高等教育正在发生变化。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-15",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Just like classical theatre, the old university model produced talent and value for society. We are not advocating its abolition but rather calling for the adaptation of its characteristics to meet the needs of today.",
+      "sourceHash": "9691171a8d08b0c654a6cbfbc01e634700192768d8a4604a27c10ee898b2ed26",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "就像古典戏剧一样，旧的大学模式为社会创造人才和价值。我们并不是主张废除它，而是呼吁适应它的特点，以满足当今的需要。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-3-16",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Students should develop the key skills before they start a project.",
+      "sourceHash": "8306289ca53cced54ebe3c93e01ea8f4f7a7d09abcc4fa90f327d91b34b2a121",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-3-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 学生应该在开始项目之前培养关键技能。",
+      "source": {
+        "blockIds": [
+          "b-3-17"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-1",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. By acquiring reasoning skills in the first few years of college, students can lay a foundation for lifelong learning.",
+      "sourceHash": "3398d25a66c59ab2ad08fe768b689759f51dc36f6f0bd2282f4c4a17cfec9ee3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 通过在大学最初几年获得推理技能，学生可以为终身学习奠定基础。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-2",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. The easy access to learning and rapid technological changes have brought the traditional model of education under challenge.",
+      "sourceHash": "7810192dfde8ca0d54ceebe7f324986876075a3f143ce65921d9f31626d4ec9e",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 学习的便捷性和技术的快速变革使传统的教育模式受到挑战。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-3",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Unbelievable as it may seem, part-time students constitute a considerable portion of the student body in many universities across the world.",
+      "sourceHash": "5925bed28b985c423040c2f0c3629b4f61fd03bc51ae2b5a86d34228028a2959",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 尽管看起来令人难以置信，但在世界各地许多大学的学生群体中，非全日制学生占了相当大的比例。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-4",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Some social and managerial skills, which are not easily automated, will be of great importance to students' future careers.",
+      "sourceHash": "8f89efd0ce0fe03ebebb9622a057bd1004cc6d7018e828814f6a75dc9a12fb36",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 一些不易自动化的社交和管理技能对学生未来的职业生涯非常重要。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-5",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. A new model of college education should provide students with the knowledge and skills that will make them more inventive and capable of lifelong learning.",
+      "sourceHash": "0ec403370701c31360686b32f3db0a716c31943e6c1eec2ac6d48a7a3b4331ae",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 新的大学教育模式应该为学生提供知识和技能，使他们更具创造力和终身学习的能力。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-6",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. A mixed student body may change the classroom dynamics and benefit learning.",
+      "sourceHash": "6a8061e1c64c6ba01863d449de08506019c3b57764673e1bd123227e24a21148",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 混合的学生群体可能会改变课堂动态并有利于学习。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-7",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. The question of who will bear the cost of lifelong learning is a topic of constant debate.",
+      "sourceHash": "d341484072a15115a52892069678c524bf583d83ed74ec90b60cf8b9ca273063",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 谁将承担终身学习的费用的问题是一个不断争论的话题。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-8",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. To the traditional subjects of math and physics should be added a new discipline which combines computer science with statistics and other components.",
+      "sourceHash": "3aeabf93e6c4ed45620d21c7f0ea080d2a3abae56123a0ec1978a5374b1d244f",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 在传统的数学和物理学科中，应增加一门将计算机科学与统计学和其他组成部分结合起来的新学科。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-9",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Students who are burdened with family duties might choose to take online courses.",
+      "sourceHash": "1e68b36636700f38a148f16a3b71db9a24285b6553f7d8ed280d588f6a7dbf30",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 有家庭责任的学生可以选择参加在线课程。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-11",
+      "paperId": "cet6:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark ihe corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "7e2248763db3627396d421bd598c71eaadfabaae7faf33d8a20263735f05ef0a",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上的相应字母上用一条穿过中心的线标记。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-13",
+      "paperId": "cet6:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to SO are based on the r ollowing passage.",
+      "sourceHash": "53f5ae2e27594b6e18c839afb56e36b472a80a02bf7e4a76fa4b6784c25c911b",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 46 至 SO 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-14",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Why does social media trigger feelings of loneliness and inadequacy? Because instead of being real life, it is, for the most part, impression management, a way of marketing yourself, carefully choosing and filtering the pictures and words to put your best face forward.",
+      "sourceHash": "a5914d8bbc6f5c7cec7465050556aa63b2389bc134944c68fd412aa49f51656f",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为什么社交媒体会引发孤独感和无力感？因为它不是现实生活，在很大程度上，它是印象管理，一种营销自己的方式，仔细选择和过滤图片和文字，以展现你最好的一面。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-15",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "• Online \"friends\" made through social ·media do not follow the normal psychological progression of an interpersonal relationship. You share neither physical time nor emotional conversations over the Internet. You simply communicate photographs and catchy posts to a diverse· group of people whom you have \"friended\" or \"followed\" based on an accidental interaction. This is not to say that your social inedia friends can't be real friends. They absolutely can, but the two are not synonymous. Generally speaking, there are no unfiltered comments or casually taken photos on our social media pages. And, rightfully so, because it wouldn't feel safe to be completely authentic and vulnerable with some of our \"friends\" whom we don't actually know or with whom trust has yet to be built.",
+      "sourceHash": "d434b8d99d675cbb6c89b3f4cee7f12ef4c172cda97e9d198c6d41a17cee0b38",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "• 通过社交媒体结交的在线“朋友”并不遵循人际关系的正常心理发展过程。你们既不共享物理时间，也不通过互联网共享情感对话。您只需将照片和吸引人的帖子传达给您基于偶然互动而“加为好友”或“关注”的不同群体。这并不是说你的社交朋友不能成为真正的朋友。它们绝对可以，但两者不是同义词。一般来说，我们的社交媒体页面上不存在未经过滤的评论或随意拍摄的照片。而且，这是理所当然的，因为与我们实际上不认识或尚未建立信任的一些“朋友”保持完全真实和脆弱的态度是不安全的。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-16",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Social media can certainly be an escape from the daily grind, but we must be cautioned against the",
+      "sourceHash": "20f51eda3d6bcac5514d5e8cf8c4ea3552bdffd27476442a0d713b94435428ea",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "社交媒体当然可以让我们摆脱日常琐事，但我们必须警惕",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-18",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "As humans, we yearn for social connection. Scrolling O$.#J) through pages of pictures and comments, however, does not provide the same degree of fulfillment as face to face interactions do. Also, we tend to idealize others' lives and compare our downfalls to their greatest accomplishments, ending in feelings of loneliness and inadequacy.",
+      "sourceHash": "a3f264843717cf5f7aadc15def3351923cbe1c40d1dcc7a105035b82a2a201b8",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-19"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "作为人类，我们渴望社会联系。然而，滚动浏览图片和评论页面并不能提供与面对面互动相同程度的满足感。此外，我们倾向于将他人的生活理想化，并将自己的失败与他们最伟大的成就进行比较，最终导致孤独和无能的感觉。",
+      "source": {
+        "blockIds": [
+          "b-4-19"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-19",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Social media can lead people on the unhealthy quest for perfection. Some people begin to attend certain events or travel to different places so that they can snap that \"perfect\" photo. They begin to seek validation through the number of people who \"like\" their posts. In order for it to play a psychologically healthy role in your social life, social media should supplement an already healthy social network. Pictures and posts should be byproducts of life's treasured moments and fun times, not the planned and calculated",
+      "sourceHash": "60a4199f672e6b6c738ea58c755dbc05cbbeded004434f210d20597e453cbcb4",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-20"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "社交媒体可能会引导人们不健康地追求完美。有些人开始参加某些活动或去不同的地方旅行，以便拍摄“完美”的照片。他们开始通过“喜欢”他们的帖子的人数来寻求验证。为了让它在你的社交生活中发挥心理健康的作用，社交媒体应该补充已经健康的社交网络。图片和帖子应该是生活中珍贵时刻和欢乐时光的副产品，而不是计划和计算的",
+      "source": {
+        "blockIds": [
+          "b-4-20"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-20",
+      "paperId": "cet6:2020-12-03",
+      "kind": "heading_prose",
+      "sourceText": "image that one is putting out into cyberspace in an attempt to fill insecurities or unmet needs.",
+      "sourceHash": "95e7d5d073b2c4e13dc0ea6cc8f0e79dc6ccdd942757c4ffc3dbeebadb75ae59",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-21"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "人们为了填补不安全感或未满足的需求而将其投入网络空间的形象。",
+      "source": {
+        "blockIds": [
+          "b-4-21"
+        ],
+        "reflowBlockIds": [
+          "b-4-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-4-21",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Ultimately, social media has increased our ability to connect with various types of people all over the globe. It has opened doors for businesses and allowed us to stay connected to people whom we may not otherwise get to follow. However, social media should feel like a fun experience, not one that contributes",
+      "sourceHash": "47e31d93ebebb1606a132e43d0c0f92a83e9999e279dcf2118d746bbfa36cd5c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-4-22"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-4-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "最终，社交媒体增强了我们与全球各种类型的人联系的能力。它为企业打开了大门，让我们能够与原本无法关注的人保持联系。然而，社交媒体应该让人感觉是一种有趣的体验，而不是一种贡献的体验。",
+      "source": {
+        "blockIds": [
+          "b-4-22"
+        ],
+        "reflowBlockIds": [
+          "b-4-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-1",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "to negative thoughts and feelings. If the latter is the case, increasing face to face time with trusted friends, and minimizing time scrolling online, will prove to be a reminder that your social network is much more rewarding than any \"like,\" \"follow\" or \"share\" can be.",
+      "sourceHash": "b416681aa76a6b38b9af5882883cc95247c98f3aaaae468d0527be900b8dabb3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "消极的想法和感受。如果是后者，增加与值得信赖的朋友面对面的时间，并尽量减少上网的时间，将提醒你，你的社交网络比任何“喜欢”、“关注”或“分享”更有价值。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-2",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What does the author imply social media may do to our life?",
+      "sourceHash": "0edbe648fe719a9e45e977e2c4f3772e8a9e5f87ea89ffb53825427962bb9ac4",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 作者暗示社交媒体可能对我们的生活产生什么影响？",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-4",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. Why do people post comments selectively on social media?",
+      "sourceHash": "776b550022214e1f2f0b85c0dd3a531eb8bc5f1043c0e518f39504a4f69ccfcc",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 为什么人们有选择地在社交媒体上发表评论？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-6",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What are humans inclined to do according to the passage?",
+      "sourceHash": "a79139e497dab7408a909916d2616b91b36fde6f163055098503e0e98ff85d21",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48.根据这段文字，人类倾向于做什么？",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-8",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What is the author's view of pictures and posts on social media?",
+      "sourceHash": "7393a7a3410eb75d4eac629b60d5ab495ef203974652345182be054e0fae406c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 作者对社交媒体上的图片和帖子有何看法？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-10",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What does the author advise people to do when they find their online experience unconstructive?",
+      "sourceHash": "af85aa7d74eba3d3c9e33b53a810579afbff6d8f74e47d07cfdea4489ac9fad2",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 当人们发现自己的在线体验没有建设性时，作者建议人们做什么？",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-13",
+      "paperId": "cet6:2020-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-14",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Imagine that an alien species landed on Earth and, through their mere presence, those aliens caused our art to vanish, our music to homogenize, and our technological know-how to disappear. That is effectively what humans have been doing to our closest relatives-chimps (大猩猩).",
+      "sourceHash": "0084779514612c370fad45bb422b4d06218526191493d3e5c057d3f947167888",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "想象一下，一个外星物种登陆地球，仅仅因为他们的存在，这些外星人就导致我们的艺术消失，我们的音乐同质化，我们的技术知识消失。这实际上就是人类对我们最近的亲戚——大猩猩所做的事情。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-15",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Back in 1999, a team of scientists led by Andrew Whiten showed that chimps from different parts of Africa behave very differently from one another. Some groups would get each other's attention by rapping",
+      "sourceHash": "6d10895631160b5d9592efcdb839128e7adb6111cc6ac78f0a72c893bea07228",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "早在 1999 年，安德鲁·怀特领导的一组科学家就表明，来自非洲不同地区的黑猩猩的行为差异很大。有些团体会通过说唱来吸引彼此的注意力",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-17",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "team identified 39 of these traditions that are practiced by some communities but not others-a pattern that, at the time, hadn't been seen in any animal except humans. It was evidence, the team said, that chimps have their own cultures.",
+      "sourceHash": "1b27d70848d8e14932dead90e440b2dbda2d5b4ef0f88002aa8df6016105b02c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究小组发现了其中 39 种传统，这些传统被一些社区所践行，而另一些社区却没有——这种模式当时在除人类以外的任何动物中都没有发现过。研究小组表示，这证明黑猩猩拥有自己的文化。",
+      "source": {
+        "blockIds": [
+          "b-5-18"
+        ],
+        "reflowBlockIds": [
+          "b-5-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-18",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "It took a long time to convince skeptics that such cultures exist, but now we have plenty of examples of animals learning local traditions from one another.",
+      "sourceHash": "c4469b6c167fc7bd031ad47001c9491ba9b73d4bfa70a11a1fd0049adbe520d2",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-19"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们花了很长时间才让怀疑论者相信这种文化的存在，但现在我们有很多动物互相学习当地传统的例子。",
+      "source": {
+        "blockIds": [
+          "b-5-19"
+        ],
+        "reflowBlockIds": [
+          "b-5-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-19",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "But just when many scientists have come to accept the existence of animal cultures, many of those cultures might vanish. Ammie Kalan and her colleagues have shown, through years of intensive fieldwork, that the very presence of humans has eroded the diversity of chimp behavior. Where we flourish, their cultures. wither. It is a bitterly ironic thing to learn on the 20th anniversary of Whiten's classic study.",
+      "sourceHash": "d51a7c9f272d98e324c8a9aabfe58e22af9deef89e181e15b37eeb66c7e47585",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-20"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但正当许多科学家开始接受动物文化的存在时，其中许多文化可能会消失。艾米·卡兰和她的同事通过多年的深入实地考察表明，人类的存在已经侵蚀了黑猩猩行为的多样性。我们繁荣的地方，就是他们的文化。枯萎。在怀顿经典研究20周年之际得知这是一件极其讽刺的事情。",
+      "source": {
+        "blockIds": [
+          "b-5-20"
+        ],
+        "reflowBlockIds": [
+          "b-5-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-5-20",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "\"It's amazing to think that just 60 years ago, we knew next to notJ.ting of the behavior of our sister",
+      "sourceHash": "d8904d51c30a4a7ce37ade18dd802df70b3af5b501e040f6c7d0dbef2c5f212f",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-21"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-5-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“令人惊讶的是，就在 60 年前，我们几乎不知道我们姐姐的行为",
+      "source": {
+        "blockIds": [
+          "b-5-21"
+        ],
+        "reflowBlockIds": [
+          "b-5-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-1",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "cousins, the actions of humans are closing the window on all we have discovered.\"",
+      "sourceHash": "559165e3c7889d29e2e5abcbad61ba8270917b5242b466bd32d1f4be4aaff5a1",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "兄弟们，人类的行为正在关闭我们所发现的一切的窗口。”",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-2",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "\"Sometimes in the rush to conserve the species, I think we forget about the individuals,'' says Cat Hobaiter, a professor at the University of St. Andrews. \"Each population, each community, even each generation of chimps is unique. An event might only have a small impact on the total population of chimps, but it may wipe out an entire community-an entire culture. No matter what we do to restore habitat or support population growth, we may never be able to restore that culture. \"",
+      "sourceHash": "c12a21e807328b1424728b8f69d2f625fd3a531dce46da6a51c2a26be0b114f1",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "圣安德鲁斯大学教授卡特·霍拜特 (Cat Hobaiter) 表示：“有时，在急于保护物种的过程中，我们会忘记个体。每个种群、每个群落，甚至每一代黑猩猩都是独一无二的。”一个事件可能只会对黑猩猩的总种群产生很小的影响，但它可能会消灭整个群体——整个文化。无论我们采取什么措施来恢复栖息地或支持人口增长，我们可能永远无法恢复这种文化。 ”",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-3",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "No one knows whether the destruction of chimp culture is getting worse. Few places have tracked chimp behavior over long periods, and those that have are also more likely to have protected their animals from human influence.",
+      "sourceHash": "f89dd19bfc599651fea69711229419b57b07163f6e40c03e1e6963ce279b1afc",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "没有人知道黑猩猩文化的破坏是否正在恶化。很少有地方能够长期追踪黑猩猩的行为，而那些长期追踪黑猩猩行为的地方也更有可能保护它们的动物免受人类的影响。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-4",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Obviously conservationists need to think about saving species in a completely new way-by preserving animal traditions as well as bodies and genes. \"Instead of focusing only on the conservation of genetically based entities like species, we now need to also consider culturally based entities,\" says Andrew Whiten.",
+      "sourceHash": "6aa77d178d93a4e5db64874b0b59a1437bc547ac6385d282e6c21adef0c1080b",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "显然，自然资源保护主义者需要考虑以全新的方式拯救物种——保护动物传统以及身体和基因。 “我们现在不再只关注物种等基于遗传的实体的保护，我们现在还需要考虑基于文化的实体，”安德鲁·怀特恩说。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-5",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What does the author say we humans have been doing to chimps?",
+      "sourceHash": "9e73afaa5c79575460584728a02c88cab07c3ce870f507f2af1094227d4b1c2c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.作者说我们人类对黑猩猩做了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-8",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What is the finding of Andrew Whiten's team?",
+      "sourceHash": "c9187c70bc22f386cef3519924ae13afa43a7c8c222dce88ac48368284748289",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 安德鲁·怀特恩团队的发现是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-10",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What did Ammie Kalan and her colleagues find through their intensive fieldwork?",
+      "sourceHash": "90f420694aef4046fe0888efb7484ac7266267fee2ce45050b9a3c3d3c88a84a",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. Ammie Kalan 和她的同事通过密集的实地考察发现了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-12",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What does Cat Hobaiter think we should do for chimp conservation?",
+      "sourceHash": "539868e0b1437457176a028517fba064eed0a9b6beefa55edb180af452263ac1",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. Cat Hobaiter 认为我们应该为黑猩猩保护做些什么？",
+      "source": {
+        "blockIds": [
+          "b-6-13"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-14",
+      "paperId": "cet6:2020-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the author suggest conservationists do?",
+      "sourceHash": "955642d2af58e9243216bcdb4f0fcc29dbe2cc5c3356acac8b9fd7d0cfeb7d6d",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 作者建议自然资源保护主义者做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-15"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-12-03:p:b-6-16",
+      "paperId": "cet6:2020-12-03",
+      "kind": "listening_text",
+      "sourceText": "Part 1V Translation ( 30 minutes)",
+      "sourceHash": "89753e0a563b155be2a38c0aa392b0ca6061af3641aa00553dd3820e201e9761",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-12-03:b-6-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 1V 部分翻译（30 分钟）",
+      "source": {
+        "blockIds": [
+          "b-6-17"
+        ],
+        "reflowBlockIds": [
+          "b-6-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-12-03.json",
+        "pdfSha256": "55f19d43468e22cc1425eff7771dd6d556f018d10a0ef997e0ba214d85fce433",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2020-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-46-1",
+      "optionId": "cet6:2020-12-03:q-46-1:A",
+      "sourceText": "It may facilitate our interpersonal relationships.",
+      "sourceHash": "ed628962ce90a1fa1bd7761090e1d8c97c73d8c86c29d2686eebbb4ea311caf3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It may facilitate our interpersonal relationships.",
+      "translationEligible": true,
+      "translationZh": "它可能会促进我们的人际关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-46-1",
+      "optionId": "cet6:2020-12-03:q-46-1:B",
+      "sourceText": "It may filter our negative impressions of others.",
+      "sourceHash": "6cb970494ed373c7e26e1e9a1f4e61b050bd393288c11a09a622cb6610a590f4",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It may filter our negative impressions of others.",
+      "translationEligible": true,
+      "translationZh": "它可以过滤我们对他人的负面印象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-46-1",
+      "optionId": "cet6:2020-12-03:q-46-1:C",
+      "sourceText": "It may make us feel isolated and incompetent.",
+      "sourceHash": "1a431fd1ad0efcd6eb79cb32bdae90d4bff92790ed1d519994d82d34f4b9c6ff",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It may make us feel isolated and incompetent.",
+      "translationEligible": true,
+      "translationZh": "这可能会让我们感到孤立和无能。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-46-1",
+      "optionId": "cet6:2020-12-03:q-46-1:D",
+      "sourceText": "It may render us vulnerable and inauthentic.",
+      "sourceHash": "b56d08de7b5d69852d7fae40b0249936fa571ed107b074dca960a07898986f9e",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-4"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may render us vulnerable and inauthentic.",
+      "translationEligible": true,
+      "translationZh": "它可能会让我们变得脆弱和不真实。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-47-1",
+      "optionId": "cet6:2020-12-03:q-47-1:A",
+      "sourceText": "They do not find all their online friends trustworthy.",
+      "sourceHash": "19da4a9977775b08118175d00ca709aedf9fa39b0172af10ae2035b58a160be3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They do not find all their online friends trustworthy.",
+      "translationEligible": true,
+      "translationZh": "他们并不认为所有的网上朋友都是值得信赖的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-47-1",
+      "optionId": "cet6:2020-12-03:q-47-1:B",
+      "sourceText": "They want to avoid offending any of their audience.",
+      "sourceHash": "346278c681cb488cb2f94ec5f5918362308410db7a455f9b6bc221b063352fb3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They want to avoid offending any of their audience.",
+      "translationEligible": true,
+      "translationZh": "他们希望避免冒犯任何观众。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-47-1",
+      "optionId": "cet6:2020-12-03:q-47-1:C",
+      "sourceText": "They do not want to lose their followers.",
+      "sourceHash": "aa2041b107e9d0417f3f77482e722cb698b8b2672881c791ab0f9c422c19f9ba",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They do not want to lose their followers.",
+      "translationEligible": true,
+      "translationZh": "他们不想失去追随者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-47-1",
+      "optionId": "cet6:2020-12-03:q-47-1:D",
+      "sourceText": "They are eager to boost their popularity.",
+      "sourceHash": "0832fa9ed45b6f90a107fe719fa6b735f7b84bc3ec92de6612f4388f79aa0431",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are eager to boost their popularity.",
+      "translationEligible": true,
+      "translationZh": "他们渴望提高自己的知名度。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-48-1",
+      "optionId": "cet6:2020-12-03:q-48-1:A",
+      "sourceText": "Exaggerate their life's accomplishments.",
+      "sourceHash": "3322c96912807cbe7a55d168132da3823387778ac9ad277569ff2f6a287e39f0",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Exaggerate their life's accomplishments.",
+      "translationEligible": true,
+      "translationZh": "夸大他们一生的成就。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-48-1",
+      "optionId": "cet6:2020-12-03:q-48-1:B",
+      "sourceText": "Strive for perfection regardless of the cost.",
+      "sourceHash": "b167a0a7958a151427b6e962bbf0d7811e2ca26906c9a762698020f0c300cb58",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Strive for perfection regardless of the cost.",
+      "translationEligible": true,
+      "translationZh": "不计成本，力求完美。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-48-1",
+      "optionId": "cet6:2020-12-03:q-48-1:C",
+      "sourceText": "Paint a rosy picture of other people's lives.",
+      "sourceHash": "358b0d5c8081f15acf058a52deff2fb371b8f05068200e1f934f930308f4da01",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Paint a rosy picture of other people's lives.",
+      "translationEligible": true,
+      "translationZh": "为他人的生活描绘一幅美好的图画。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-48-1",
+      "optionId": "cet6:2020-12-03:q-48-1:D",
+      "sourceText": "Learn lessons from other people's downfalls.",
+      "sourceHash": "cb6b63950cb97a44354b8fb01be1857411ef10a36b7f2a80d39e5947e708b0cf",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Learn lessons from other people's downfalls.",
+      "translationEligible": true,
+      "translationZh": "从别人的失败中吸取教训。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-49-1",
+      "optionId": "cet6:2020-12-03:q-49-1:A",
+      "sourceText": "They should record the memorable moments in people's lives.",
+      "sourceHash": "2bf02450ba2dc2fb986bcb72d447430767a8dc5f65225e070309ac12b28f94da",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They should record the memorable moments in people's lives.",
+      "translationEligible": true,
+      "translationZh": "他们应该记录人们生活中难忘的时刻。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-49-1",
+      "optionId": "cet6:2020-12-03:q-49-1:B",
+      "sourceText": "They should be carefully edited so as to present the best image.",
+      "sourceHash": "48c2396038ad1bc5e7fee408d5221f9807dfa55188890da8d2ac7e463cdde15c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They should be carefully edited so as to present the best image.",
+      "translationEligible": true,
+      "translationZh": "应仔细编辑它们，以呈现最佳图像。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-49-1",
+      "optionId": "cet6:2020-12-03:q-49-1:C",
+      "sourceText": "They should be shown in a way that meets one's security needs.",
+      "sourceHash": "743d1b05dc11b442e08821671f974304f6b4dd5e400dc23ad09ed7e3df8874b7",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They should be shown in a way that meets one's security needs.",
+      "translationEligible": true,
+      "translationZh": "它们应该以满足个人安全需求的方式显示。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-49-1",
+      "optionId": "cet6:2020-12-03:q-49-1:D",
+      "sourceText": "They should keep people from the unhealthy quest for perfection.",
+      "sourceHash": "575aff111a8a9dd8921a08122d25d7b7a4cb9d1150db5452b2b4efaa445d40f5",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They should keep people from the unhealthy quest for perfection.",
+      "translationEligible": true,
+      "translationZh": "它们应该阻止人们不健康地追求完美。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-50-1",
+      "optionId": "cet6:2020-12-03:q-50-1:A",
+      "sourceText": "Use social media to increase their ability to connect with various types of people.",
+      "sourceHash": "7a5c0c38112b9363c16d62397aaed75b093063df5091551ce089be885839872d",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Use social media to increase their ability to connect with various types of people.",
+      "translationEligible": true,
+      "translationZh": "使用社交媒体来提高他们与各种类型的人联系的能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-50-1",
+      "optionId": "cet6:2020-12-03:q-50-1:B",
+      "sourceText": "Stay connected to those whom they may not otherwise get to know and befriend.",
+      "sourceHash": "1057e0fb4495cbd58f8b0cc7ddf34ff489d81b00ba259c1a82b8661269d117e3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Stay connected to those whom they may not otherwise get to know and befriend.",
+      "translationEligible": true,
+      "translationZh": "与那些他们可能无法认识并成为朋友的人保持联系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-50-1",
+      "optionId": "cet6:2020-12-03:q-50-1:C",
+      "sourceText": "Try to prevent negative thoughts and feelings from getting into the online pages.",
+      "sourceHash": "53e4f06157eaec959a2dcdf6d8104209193ce5828b84938096586d3208e3cb5c",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Try to prevent negative thoughts and feelings from getting into the online pages.",
+      "translationEligible": true,
+      "translationZh": "尽量防止负面想法和感受进入在线页面。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-50-1",
+      "optionId": "cet6:2020-12-03:q-50-1:D",
+      "sourceText": "Strengthen ties with real-life friends instead of caring about their online image.",
+      "sourceHash": "6e842c409724f03e100ccdd1e961d30f97f2bc4092e08a44d35c1da095cc7711",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Strengthen ties with real-life friends instead of caring about their online image.",
+      "translationEligible": true,
+      "translationZh": "加强与现实生活中的朋友的联系，而不是关心他们的在线形象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-51-1",
+      "optionId": "cet6:2020-12-03:q-51-1:A",
+      "sourceText": "Ruining their culture.",
+      "sourceHash": "f1b69c2dbf6ac20ec4fda6fdc4317bc5406d0edd785887e1d5239993df90e799",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Ruining their culture.",
+      "translationEligible": true,
+      "translationZh": "毁掉他们的文化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-51-1",
+      "optionId": "cet6:2020-12-03:q-51-1:B",
+      "sourceText": "Accelerating their extinction.",
+      "sourceHash": "3729e7fa9b557834753c0830fc0e11d3ebc1742f3d1fe2ed8cf1832014f76b91",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Accelerating their extinction.",
+      "translationEligible": true,
+      "translationZh": "加速它们的灭绝。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-51-1",
+      "optionId": "cet6:2020-12-03:q-51-1:C",
+      "sourceText": "Treating them as alien species.",
+      "sourceHash": "fb57b453354111be7beb37c25341433cfc4e64b926f44590226081ce064308cf",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Treating them as alien species.",
+      "translationEligible": true,
+      "translationZh": "将他们视为外来物种。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-51-1",
+      "optionId": "cet6:2020-12-03:q-51-1:D",
+      "sourceText": "Homogenizing their living habits.",
+      "sourceHash": "ec56f0112dd6926f71238bc5ca374351a8ae9eea149def05f0433171c95d2bc3",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Homogenizing their living habits.",
+      "translationEligible": true,
+      "translationZh": "生活习惯同质化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-52-1",
+      "optionId": "cet6:2020-12-03:q-52-1:A",
+      "sourceText": "Chimps demonstrate highly developed skills of communication.",
+      "sourceHash": "e878731b1f500cfaece495816e0a5b12db0aae12cc0715202445fd3b6add79f2",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Chimps demonstrate highly developed skills of communication.",
+      "translationEligible": true,
+      "translationZh": "黑猩猩表现出高度发达的沟通技巧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-52-1",
+      "optionId": "cet6:2020-12-03:q-52-1:B",
+      "sourceText": "Chimps rely heavily upon their body language to communicate.",
+      "sourceHash": "5b8f50ef3466909e22a204a52f682a9d47921e632847935502efc1f5fd58f5d8",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Chimps rely heavily upon their body language to communicate.",
+      "translationEligible": true,
+      "translationZh": "黑猩猩严重依赖肢体语言进行交流。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-52-1",
+      "optionId": "cet6:2020-12-03:q-52-1:C",
+      "sourceText": "Chimps behave in ways quite similar to those of human beings.",
+      "sourceHash": "04adb6e67a73758acf0265c1d9ca2c6f6da0110337c9220a096b77a7b2bdbb3d",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Chimps behave in ways quite similar to those of human beings.",
+      "translationEligible": true,
+      "translationZh": "黑猩猩的行为方式与人类非常相似。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-52-1",
+      "optionId": "cet6:2020-12-03:q-52-1:D",
+      "sourceText": "Different chimp groups differ in their way of communication.",
+      "sourceHash": "317a5f5e876392d2bb7e653628921c49d7393ca8540310bcd94e23390b60df06",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Different chimp groups differ in their way of communication.",
+      "translationEligible": true,
+      "translationZh": "不同的黑猩猩群体的交流方式有所不同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-53-1",
+      "optionId": "cet6:2020-12-03:q-53-1:A",
+      "sourceText": "Whiten's classic study has little impact on the diversity of chimp behavior.",
+      "sourceHash": "00b514fdd553152203e829a3a693b1430136cd600301c59bc40176a0d5e69761",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Whiten's classic study has little impact on the diversity of chimp behavior.",
+      "translationEligible": true,
+      "translationZh": "怀特恩的经典研究对黑猩猩行为的多样性影响不大。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-53-1",
+      "optionId": "cet6:2020-12-03:q-53-1:B",
+      "sourceText": "Chimp behavior becomes less varied with the increase of human activity.",
+      "sourceHash": "ee1d4642068e949ffe316dc2b9f6469b61fce0c3fd142d4f925d93b344b22387",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Chimp behavior becomes less varied with the increase of human activity.",
+      "translationEligible": true,
+      "translationZh": "随着人类活动的增加，黑猩猩的行为变得越来越少。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-53-1",
+      "optionId": "cet6:2020-12-03:q-53-1:C",
+      "sourceText": "Chimps alter their cµlture to quickly adapt to the changed environment.",
+      "sourceHash": "6b62ddece20f8c004c6fb48679fe45d35be87ce5b3907a793577314d4e06edd8",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Chimps alter their cµlture to quickly adapt to the changed environment.",
+      "translationEligible": true,
+      "translationZh": "黑猩猩改变它们的文化以快速适应变化的环境。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-53-1",
+      "optionId": "cet6:2020-12-03:q-53-1:D",
+      "sourceText": "It might already be too late to prevent animal cultures from extinction.",
+      "sourceHash": "e7e15372ffd4af0ca898486cfd1bc34de29e113e1a898913e4afb8c4d1ce39e0",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It might already be too late to prevent animal cultures from extinction.",
+      "translationEligible": true,
+      "translationZh": "现在阻止动物文化灭绝可能已经太晚了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-54-1",
+      "optionId": "cet6:2020-12-03:q-54-1:A",
+      "sourceText": "Try to understand our sister species' behavior in the wild.",
+      "sourceHash": "3c31ecaaaaa6203c5b2ebee1f6c3e6042f0dbffdafb2cbf85f135758509b6698",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-14"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Try to understand our sister species' behavior in the wild.",
+      "translationEligible": true,
+      "translationZh": "尝试了解我们的姐妹物种在野外的行为。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-54-1",
+      "optionId": "cet6:2020-12-03:q-54-1:B",
+      "sourceText": "Make efforts to preserve each individual chimp community.",
+      "sourceHash": "83abf9772e99faaefee3a82631e797b591f778cbcb810b17b353f3167ddfaf31",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-14"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Make efforts to preserve each individual chimp community.",
+      "translationEligible": true,
+      "translationZh": "努力保护每个黑猩猩群落。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-54-1",
+      "optionId": "cet6:2020-12-03:q-54-1:C",
+      "sourceText": "Study the unique characteristics· of each generation of chimps.",
+      "sourceHash": "eb003ec1cb471bcd34c5dd5734169f2c83eb7b690e214f7aac07d3a88d970d7d",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-14"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Study the unique characteristics· of each generation of chimps.",
+      "translationEligible": true,
+      "translationZh": "研究每一代黑猩猩的独特特征。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-54-1",
+      "optionId": "cet6:2020-12-03:q-54-1:D",
+      "sourceText": "Endeavor to restore chimp habitats to expand its total population.",
+      "sourceHash": "c24135c1e01a12357ec61032634aa6fa5bd5c4c5a2d6f6a0e74b34e4e2abf92a",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-14"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Endeavor to restore chimp habitats to expand its total population.",
+      "translationEligible": true,
+      "translationZh": "努力恢复黑猩猩栖息地以扩大其总种群。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-55-1",
+      "optionId": "cet6:2020-12-03:q-55-1:A",
+      "sourceText": "Focus entirely on culturally-based.entities rather than genetically-based ones.",
+      "sourceHash": "1c9e8fd67578e8d0e36e91676cd316d8707c11cf7d611ff35080a496da506579",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-16"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Focus entirely on culturally-based.entities rather than genetically-based ones.",
+      "translationEligible": true,
+      "translationZh": "完全关注基于文化的实体，而不是基于基因的实体。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-55-1",
+      "optionId": "cet6:2020-12-03:q-55-1:B",
+      "sourceText": "Place more stress on animal traditions than on their physical conservation.",
+      "sourceHash": "ad501fdbd4b84e7f69ffe83dccb61f2af478119f3bc330317be7bbc20e0eca30",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-16"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Place more stress on animal traditions than on their physical conservation.",
+      "translationEligible": true,
+      "translationZh": "更加重视动物传统而不是它们的物理保护。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-55-1",
+      "optionId": "cet6:2020-12-03:q-55-1:C",
+      "sourceText": "Conserve animal species in a novel and all-round way.",
+      "sourceHash": "f521eac2d6ee0ac016078992e07c05b79a6de35d44c46d1cea0179447811f1b2",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-16"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Conserve animal species in a novel and all-round way.",
+      "translationEligible": true,
+      "translationZh": "以新颖、全面的方式保护动物物种。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-12-03",
+      "questionId": "cet6:2020-12-03:q-55-1",
+      "optionId": "cet6:2020-12-03:q-55-1:D",
+      "sourceText": "Explore the cultures of species.before they vanish.",
+      "sourceHash": "c59d97ae85594dcedf5cfa3ed8df28093e0dc6e91f0d6e401c92522f00303f84",
+      "sourceBlockIds": [
+        "cet6:2020-12-03:b-6-16"
+      ],
+      "reflowBlockId": "cet6:2020-12-03:b-6-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Explore the cultures of species.before they vanish.",
+      "translationEligible": true,
+      "translationZh": "在物种消失之前探索它们的文化。",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 40,
+    "reason:translate": 40
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-6",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-9",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-11",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-12",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-13",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-14",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-1-15",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-3",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2020-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-5",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-9",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-11",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-12",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-14",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-15",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-2-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-16",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-2-16"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-2-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2020-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-4",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-9",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-11",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-14",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-15",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-3-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-10",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-11",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-14",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-15",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-16",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-18",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-19",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-20",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2020-12-03:p:b-4-20"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-4-21",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-4-21"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-1",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-14",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-15",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-17",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-17"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-18",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-18"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-19",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-19"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-5-20",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-5-20"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-1",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-2",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-3",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-4",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-12-03:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-12-03:b-6-16",
+      "classification": "included",
+      "reason": "section_listening",
+      "paragraphId": "cet6:2020-12-03:p:b-6-16"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 8,
+    "included": 64,
+    "ineligible": 10
+  },
+  "reasonCounts": {
+    "heading_prose": 2,
+    "instruction": 5,
+    "non_english_or_fragment": 1,
+    "question_prompt": 21,
+    "reading_choice_continuation": 1,
+    "reading_choice_paragraph": 7,
+    "section_label": 7,
+    "section_listening": 28,
+    "source_unreadable": 1,
+    "source_unreadable_image_gap": 9
+  },
+  "kindCounts": {
+    "heading_prose": 2,
+    "instruction": 5,
+    "listening_text": 28,
+    "passage_option": 12,
+    "question_prompt": 21
+  },
+  "otherSourceBlockCounts": {
+    "options": 11,
+    "source_line": 17,
+    "structured_image_source_line": 17,
+    "structured_source_notice": 6
+  },
+  "issues": [
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-5",
+      "reflowBlockIds": [
+        "b-2-6"
+      ]
+    },
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-9",
+      "reflowBlockIds": [
+        "b-2-10"
+      ]
+    },
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-12",
+      "reflowBlockIds": [
+        "b-2-13"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-03:p:b-3-4",
+      "replacementCharacters": 15,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-3-7",
+      "reflowBlockIds": [
+        "b-3-8",
+        "b-3-10"
+      ]
+    }
+  ]
+}

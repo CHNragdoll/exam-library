@@ -13,13 +13,17 @@ const files = [
  ['english-exams-reflow-latex/cet6/papers/2015-12-02.htm','reflow'],
  ['math3-latex-2009-2019/papers/2019-answers.htm','reflow'],
  ['politics-answers-latex-2009-2023/papers/2019-answers.htm','reflow'],
- ['cs408-original/papers/2023-questions.htm','svg']
+ ['cs408-original/papers/2023-questions.htm','svg'],
+ ['cs408-original/papers/2009-complete.htm','svg'],
+ ['cs408-latex-2009-2017/papers/2023-questions.htm','reflow'],
+ ['politics-original/papers/2023-questions.htm','svg'],
+ ['politics-latex-2003-2023/papers/2023-questions.htm','reflow']
 ];
 const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
-async function fixture(relative, mode, {denied=false,resume=false,previous=false,badUrl=false,embedded=false,compare=false}={}) {
+async function fixture(relative, mode, {denied=false,resume=false,previous=false,badUrl=false,badFullPaperUrl=false,embedded=false,compare=false,deepCompare=false}={}) {
  const file = path.join(base, relative);
  const url = new URL(`file://${file}`).href;
- const dom = new JSDOM(fs.readFileSync(file,'utf8'), {url:url+(embedded?'?exam-embed=1':'')+(resume?'#resume':''),runScripts:'outside-only',pretendToBeVisual:true});
+ const dom = new JSDOM(fs.readFileSync(file,'utf8'), {url:url+(embedded?'?exam-embed=1':deepCompare?'?exam-compare=1':'')+(resume?'#resume':''),runScripts:'outside-only',pretendToBeVisual:true});
  const w=dom.window,d=w.document,m=d.querySelector('main');
  const generatedConfig=JSON.parse(d.getElementById('exam-reader-config')?.textContent||'{}');
  const map = new Map();
@@ -36,7 +40,8 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
    }) : undefined;
  const translationParagraphStarts=relative.includes('cet6/papers/2015-12-02.htm')
   ? ['最近，中国政府决定将其工','中国造产品越来越受欢迎。'] : undefined;
- c.textContent=JSON.stringify({title:'试卷测试',category:relative.includes('/cet6/')?'cet6':'kaoyan',documentId:relative.includes('2015-12-02.htm')?'cet6:2015-12-02':'test',categoryLabel:'考研英语',mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm',structuredToc,translationParagraphStarts,readingParagraphStarts:generatedConfig.readingParagraphStarts});
+ const fullPaperHref=`${path.relative(path.dirname(file),path.join(base,'exam-library/practice/full-paper.htm'))}?paper=${encodeURIComponent(generatedConfig.documentId)}`;
+ c.textContent=JSON.stringify({title:'试卷测试',category:generatedConfig.category,kind:generatedConfig.kind,documentId:generatedConfig.documentId,categoryLabel:generatedConfig.categoryLabel,mode,libraryHref:'../../exam-library/index.htm',categoryHref:'../index.htm',alternateHref:badUrl?'javascript:alert(1)':'other.htm',fullPaperHref:badFullPaperUrl?'javascript:alert(1)':fullPaperHref,structuredToc,translationParagraphStarts,readingParagraphStarts:generatedConfig.readingParagraphStarts});
  d.body.append(c);
  const sourcePageNodes=[...m.querySelectorAll(':scope > section[data-source-page]')];
  const tocSourceTargets=structuredToc && new Map(structuredToc.map(entry=>
@@ -125,7 +130,22 @@ async function fixture(relative, mode, {denied=false,resume=false,previous=false
   assert([...select.options].find(o=>o.textContent.trim()==='Section A').textContent.startsWith('　'));
   assert([...select.options].find(o=>o.textContent.trim()==='第 2 题').textContent.startsWith('　　'));
  }
- if(badUrl){assert.equal(d.querySelectorAll('.reader-versions a').length,0,'reject unsafe scheme');assert(![...d.querySelectorAll('.reader-version')].some(x=>x.textContent==='并排对比'),'unsafe alternate cannot enable comparison');}else assert.equal(d.querySelector('.reader-versions a').href,new URL('other.htm',url).href);
+ const fullPaperLink=d.querySelector('.reader-version-full-paper');
+ if(['questions','complete'].includes(generatedConfig.kind)&&!badFullPaperUrl){
+  assert(fullPaperLink,'question reader has a full-paper entry');
+  assert.equal(fullPaperLink.textContent,'整卷版');
+  assert.equal(fullPaperLink.getAttribute('href'),fullPaperHref,'entry keeps a relative href');
+  assert.equal(fullPaperLink.href,new URL(fullPaperHref,url).href,'entry reaches this document ID');
+  assert.equal(d.querySelector('.reader-versions').lastElementChild,fullPaperLink,'full-paper entry is rightmost');
+ }else assert.equal(fullPaperLink,null,'answer reader or unsafe URL has no full-paper entry');
+ if(badUrl){assert(![...d.querySelectorAll('.reader-versions a')].some(x=>x.textContent==='LaTeX 重排'||x.textContent==='SVG 原版'),'reject unsafe alternate scheme');assert(![...d.querySelectorAll('.reader-version')].some(x=>x.textContent==='并排对比'),'unsafe alternate cannot enable comparison');}
+ else assert.equal(d.querySelector('.reader-versions a').href,new URL('other.htm',url).href);
+ if(deepCompare){
+  assert(d.body.classList.contains('reader-comparing'),'comparison deep link opens both versions');
+  assert.equal(d.querySelectorAll('.reader-compare-frame').length,2);
+  assert([...d.querySelectorAll('.reader-compare-frame')].every(frame=>!frame.src.includes('exam-compare')),'child readers do not reopen comparison');
+  dom.window.close();return relative;
+ }
  if(resume&&previous)assert(scroll>4000,'explicitly resume');else assert.equal(scroll,0,'never silently resume');
  if(compare) {
   w.scrollTo({top:2500});await wait(30);
@@ -342,6 +362,21 @@ function compactChoiceFixture() {
  assert(longRow && !longRow.classList.contains('reader-four-column'),'prose alternatives retain wrapping layout');
  longDom.window.close();
 }
+function renumberedFigureFixture(category, stem) {
+ const file=path.join(base,`english-exams-reflow-latex/${category}/papers/${stem}.htm`);
+ const dom=new JSDOM(fs.readFileSync(file,'utf8'),{url:new URL(`file://${file}`).href+'?exam-embed=1',runScripts:'outside-only'});
+ const w=dom.window,d=w.document;
+ Object.defineProperty(w,'localStorage',{value:{getItem(){return null},setItem(){}}});
+ const figure=d.querySelector('main figure img');
+ const config=JSON.parse(d.getElementById('exam-reader-config').textContent);
+ const redraw=config.imageRedraws.find(item=>item.id===`${category}:${stem}:figure-001-004`);
+ assert(figure && redraw,'renumbered source figure remains configured for redraw');
+ assert.equal(redraw.originalHref,figure.getAttribute('src'),'redraw tracks the displayed source figure after block renumbering');
+ w.eval(script);
+ assert.equal(figure.nextElementSibling?.classList.contains('reader-redraw-image'),true,'redraw control attaches to the renumbered figure');
+ assert.equal(figure.parentElement.querySelectorAll('.reader-redraw-control').length,1);
+ dom.window.close();
+}
 (async()=>{
  assert.match(readerCss,/figure\.reader-sized-figure\s*>\s*img\.reader-figure-image/,'sized figure rule applies to both images');
  assert.match(readerCss,/object-fit:\s*contain/,'figure scaling does not crop content');
@@ -354,7 +389,9 @@ function compactChoiceFixture() {
  console.log('PASS explicit resume',await fixture(files[0][0],'reflow',{resume:true,previous:true}));
  console.log('PASS no implicit resume',await fixture(files[0][0],'reflow',{previous:true}));
  console.log('PASS reject unsafe URL',await fixture(files[0][0],'reflow',{badUrl:true}));
+ console.log('PASS reject unsafe full-paper URL',await fixture(files[0][0],'reflow',{badFullPaperUrl:true}));
  console.log('PASS compare from reflow',await fixture(files[0][0],'reflow',{compare:true}));
+ console.log('PASS comparison deep link from whole paper',await fixture(files[0][0],'reflow',{deepCompare:true}));
 	console.log('PASS compare from SVG',await fixture(files[5][0],'svg',{compare:true}));
  console.log('PASS compare without storage',await fixture(files[0][0],'reflow',{compare:true,denied:true}));
  console.log('PASS embedded reflow no recursion',await fixture(files[0][0],'reflow',{embedded:true}));
@@ -365,4 +402,6 @@ function compactChoiceFixture() {
  redrawFixture({originalSize:[900,400],expectedWidth:'600px'});console.log('PASS wide figure cap');
  redrawFixture({originalSize:[78,80],expectedWidth:'280px'});console.log('PASS small SVG diagram legibility');
  redrawFixture({originalSize:[90,400],expectedWidth:'126px',delayedSize:true});console.log('PASS tall figure cap and delayed source load');
+ renumberedFigureFixture('cet6','2014-12-02');console.log('PASS CET6 renumbered figure redraw');
+ renumberedFigureFixture('cet4','2015-06-02');console.log('PASS CET4 renumbered figure redraw');
 })().catch(error=>{console.error(error);process.exitCode=1});

@@ -1,0 +1,3915 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2014-12-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+  "sourcePdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+  "paragraphs": [
+    {
+      "id": "cet6:2014-12-03:p:b-1-2",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay based on the picture below. You should start your essay with a brief description of the picture and then discuss what qualities an employer should look for in job applicants. You should give sound arguments to support your views and write at least 150 words but no more than 200 words.",
+      "sourceHash": "aa8751043412e8a7e348bea28fc19948212d042903dc5ec3bd95fbdafded031c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-1-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-1-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间根据下图写一篇文章。你应该以图片的简短描述开始你的文章，然后讨论雇主应该在求职者身上寻找哪些品质。你应该提出合理的论据来支持你的观点，并写出至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-2"
+        ],
+        "reflowBlockIds": [
+          "b-1-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-1-7",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you will hear a passage three times. When the passage is read for the first time,you should listen carefully for its general idea. When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard. Finally, when the passage is read for the third time, you should check what you have written. 注意：此部分试题请在答题卡1 上作答。",
+      "sourceHash": "fbc38413c69ef2af8f5142ce792a64cee6ba2df98920d3fcb4ba88c74f74d8a3",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将听到一段段落三遍。第一次读这篇文章时，应该仔细听其大意。当第二次阅读这篇文章时，你需要用你刚刚听到的单词填空。最后，当第三次阅读这篇文章时，你应该检查你所写的内容。",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-1-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "general_prose",
+      "sourceText": "If you're like most people, you've indulged in fake listening many times. You go to history class, sit in the third row, and look squarely at the instructor as she speaks. But your mind is far away,26inthe clouds of pleasant daydreams. Occasionally you come back to earth: The instructor writes an important term on the chalkboard, and you 27copy it in your notebook. Every once in a while the instructor makes a 28remark, causing others in the class to laugh. You smile politely, pretending that you've heard the remark and found it mildly humorous. You have a vague sense of 29that you aren't paying close attention, but you tell yourself that any material you miss can 30from a friend's notes. Besides, the instructor's talking about road 31in ancient Rome, and nothing could be more boring. So back you go into your private little world. Only later do you realize you've missed important information for a test.",
+      "sourceHash": "0ec847fa89535ff4ad237882ffbc7aa393d610a65fdd80d67b1d533fd400c4f9",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-1-9",
+      "paperId": "cet6:2014-12-03",
+      "kind": "general_prose",
+      "sourceText": "Fake listening may be easily exposed, since many speakers 32facial cues and can tell if you're merely pretending to listen. Your blank expression and the faraway look in your eyes are the cues that33your inattentiveness. Even if you're not exposed, there's another reason to avoid fakery: It's easy for this34tobecome a habit. For some people, the habit is so deeply rooted that they automatically start day dreaming when a speaker begins talking on something35or uninteresting. As a result, they miss lots of valuable information.",
+      "sourceHash": "363709531b3fbfb9c8651efd3649f37225eb67d2e620994b36f417615f73bdfe",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-1-9",
+        "cet6:2014-12-03:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9",
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1",
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-4",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the center. You may not use any of the words in the bank more than once.",
+      "sourceHash": "dac919de0d77f0a4f21f258a5cfe08d39eda25e06b4399f47845b3ddd02c2e39",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-5",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 36 to 45 are based on the following passage.",
+      "sourceHash": "c97fbd7d678b54eebef8bb5f7563d542d893f8b9ace5180dca58c8a4818e8773",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 36 至 45 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-6",
+      "paperId": "cet6:2014-12-03",
+      "kind": "cloze",
+      "sourceText": "It was 10 years ago, on a warm July night, that a newborn lamb took her first breath in a small shed in Scotland. From the outside, she looked no different from thousands of other sheep born on 36farms. But Dolly, as the world soon came to realize, was no 37lamb. She was cloned from a single cell of an adult female sheep,38long-held scientific dogma that had declared such a thing biologically impossible.",
+      "sourceHash": "357ebdb458538a03403e22774067190f85af9276065f81a0380baa2fd6126eab",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-7",
+      "paperId": "cet6:2014-12-03",
+      "kind": "cloze",
+      "sourceText": "A decade later, scientists are starting to come to grips with just how different Dolly was. Dozens of animals have been cloned since that first lamb_mice, cats, cows and, most recently, a dog--and it's becoming 39clear that they are all, in one way or another, defective.",
+      "sourceHash": "de6c7d47dfbd91c6d5def805203ebe2aafa3d68938682fd0b04d36b6f733741c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "cloze",
+      "sourceText": "It's 40to think of clones as perfect carbon copies of the original. It turns out, though, that there are various degrees of genetic41. That may come as a shock to people who have paid thousands of dollars to clone a pet cat only to discover that the baby cat looks and behaves 42liketheir beloved pet--with a different-color coat of fur, perhaps, or a 43different attitude toward its human hosts.",
+      "sourceHash": "0d175dfd83f2c4752cda80c0f60b7bbd0ed4bbd15d7e423dc9a9bb03be8bd734",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-9",
+      "paperId": "cet6:2014-12-03",
+      "kind": "cloze",
+      "sourceText": "And these are just the obvious differences. Not only are clones 44from the original template(模板) by time, but they are also the product of an unnatural molecular mechanism that turns out not to be very good at making 45copies. In fact, the process can embed small flaws in the genes of clones that scientists are only now discovering 注意：此部分试题请在答题卡2 上作答。",
+      "sourceHash": "5be2d74b3c70a76c12e039481289f7eea52ad528233092effbf253ebf5f2d05b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-12",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-13",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Should Single-Sex Education Be Eliminated?",
+      "sourceHash": "06393f500298c45a0501f9f81c2f9aa641965af95051e42120479818c4203dd4",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "单性别教育应该被取消吗？",
+      "source": {
+        "blockIds": [
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-14",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "A. Why is a neuroscientist here debating single-sex schooling? Honestly, I had no fixed ideas on the topic when I started researching it for my book, Pink Brain, Blue Brain. But any discussion of gender differences in children inevitably leads to this debate, so I felt compelled to dive into the research data on single-sex schooling. I read every study I could, weighed the existing evidence, and ultimately concluded that single-sex education is not the answer to gender gaps in achievement--or the best way forward for today's young people. After my book was published, I met several developmental and cognitive psychologists whose work was addressing gender and education from different angles, and we published a peer-reviewed Education Forum piece in Science magazine with the provocative title, \"The Pseudoscience of Single-Sex Education.\"",
+      "sourceHash": "fb0af8f006f88e192c119d9b0241e2b34e19e412df62f2982eaaf77fa7c4e204",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-13",
+        "cet6:2014-12-03:b-2-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-14",
+        "cet6:2014-12-03:b-2-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答：为什么一位神经科学家在这里争论单一性别学校教育？老实说，当我开始为我的书《粉红大脑，蓝脑》研究这个主题时，我对这个主题没有固定的想法。但任何关于儿童性别差异的讨论都不可避免地会导致这场争论，所以我觉得有必要深入研究单性别学校教育的研究数据。我阅读了我能读到的每一项研究，权衡了现有的证据，最终得出结论：单性别教育并不是解决性别成就差距的答案，也不是当今年轻人前进的最佳途径。我的书出版后，我遇到了几位发展和认知心理学家，他们的工作是从不同角度解决性别和教育问题，我们在《科学》杂志上发表了一篇经过同行评审的教育论坛文章，标题颇具挑衅性：“单性别教育的伪科学”。",
+      "source": {
+        "blockIds": [
+          "b-2-13",
+          "b-2-14"
+        ],
+        "reflowBlockIds": [
+          "b-2-14",
+          "b-2-15"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-2-16",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "B. We showed that three lines of research used to justify single-sex schooling--educational, neuroscience, and social psychology--all fail to support its alleged benefits, and so the widely-held view that gender separation is somehow better for boys, girls, or both is nothing more than a myth. The Research on Academic Outcomes.",
+      "sourceHash": "5d78e9505b84adafe6d90082f755f265ee4baf67b10e9f2c31c6b137033ee0d1",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-15",
+        "cet6:2014-12-03:b-2-16",
+        "cet6:2014-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-2-16",
+        "cet6:2014-12-03:b-2-17",
+        "cet6:2014-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B. 我们表明，用于证明单性别学校教育合理性的三项研究——教育、神经科学和社会心理学——都未能支持其所谓的好处，因此，普遍认为性别隔离在某种程度上对男孩、女孩或两者都更好的观点只不过是一个神话。学术成果研究。",
+      "source": {
+        "blockIds": [
+          "b-2-15",
+          "b-2-16",
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-16",
+          "b-2-17",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0,
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-2",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "C. First, we reviewed the extensive educational research that has compared academic outcomes in students attending single-sex versus coeducational schools. The overwhelming conclusion when you put this enormous literature together is that there is no clear academic advantage of sitting in all-female or all-male classes, in spite of much popular belief to the contrary. I base this conclusion not on any individual study, but on large-scale and systematic reviews of thousands of studies conducted in every major English-speaking country. D ）Of course, there’re many excellent single-sex schools out there, but as these careful research reviews have demonstrated, it's not their single-sex composition that makes them excellent. It's all the other advantages that are typically packed into such schools, such as financial resources, quality of the faculty, and pro-academic culture, along with the family background and pre-selected ability of the students themselves that determine their outcomes.",
+      "sourceHash": "91d78f5efa4aba29788b7b192b24e9cc75e4d6fae3051cbc3180b5b30b66d06e",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-2",
+        "cet6:2014-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-2",
+        "cet6:2014-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C. 首先，我们回顾了广泛的教育研究，这些研究比较了单性别学校和男女同校学生的学业成绩。当你把这些大量的文献放在一起时，你会得出压倒性的结论：尽管人们普遍认为，参加全女性或全男性班级并没有明显的学术优势。我得出这个结论的依据不是任何一项单独的研究，而是基于对每个主要英语国家进行的数千项研究的大规模和系统的回顾。 D）当然，有很多优秀的单一性别学校，但正如这些仔细的研究评论所表明的那样，并不是它们的单一性别构成使它们变得优秀。这些学校通常具有的所有其他优势，例如财政资源、师资质量和亲学术文化，以及家庭背景和学生本身预先选择的能力决定了他们的成绩。",
+      "source": {
+        "blockIds": [
+          "b-3-2",
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-2",
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-4",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "E. A case in point is the study by Linda Sax at UCLA, who used data from a large national survey of college freshmen to evaluate the effect of single-sex versus coeducational high schools. Commissioned by the National Coalition of Girls' Schools, the raw findings look pretty good for the funders--higher SAT scores and a stronger academic orientation among women who had attended all girls' high schools (men weren't studied). However, once the researchers controlled for both student and school attributes--measures such as family income, parents' education, and school resources--most of these effects were erased or diminished.",
+      "sourceHash": "1f92e81f8a11f674102493423e7aa11271aae314a2e0606eeef553915bf6f60c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-4",
+        "cet6:2014-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-4",
+        "cet6:2014-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E. 一个典型的例子是加州大学洛杉矶分校的琳达·萨克斯 (Linda Sax) 进行的研究，她使用了一项针对大学新生的大型全国调查数据来评估单性别高中与男女同校高中的效果。受全国女子学校联盟委托，原始调查结果对资助者来说看起来相当不错——就读过所有女子高中的女性的 SAT 分数更高，学术倾向更强（男性没有被研究）。然而，一旦研究人员控制了学生和学校的属性——例如家庭收入、父母的教育和学校资源等衡量标准——大多数影响都被消除或减少。",
+      "source": {
+        "blockIds": [
+          "b-3-4",
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-4",
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-6",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "F. When it comes to boys in particular, the data show that single-sex education is distinctly unhelpful for them. Among the minority of studies that have reported advantages of single-sex schooling, virtually all of them were studies of girls. There're no rigorous studies in the United States that find single-sexschooling is better for boys, and in fact, a separate line of research by economists has shown both boys and girls exhibit greater cognitive growth over the school year based on the \"dose\" of girls in a classroom. In fact, boys benefit even more than girls from having larger numbers of female classmates. So single-sex schooling is really not the answer to the current \"boy crisis\" in education. Brain and Cognitive Development",
+      "sourceHash": "43a7ceb255e6f76ee6f2012c3c898ed8da1ff8d249da9050083f8367668b097b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-6",
+        "cet6:2014-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-6",
+        "cet6:2014-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F. 特别是对于男孩来说，数据表明单性别教育对他们显然没有帮助。在少数报告单性别学校教育优势的研究中，几乎所有研究都是针对女孩的。在美国，没有严谨的研究发现单性别学校教育对男孩更好，事实上，经济学家的另一项研究表明，根据教室中女孩的“剂量”，男孩和女孩在整个学年中表现出更大的认知增长。事实上，男孩比女孩从拥有更多的女同学中受益更多。因此，单性别学校教育确实不是解决当前教育“男孩危机”的答案。大脑和认知发展",
+      "source": {
+        "blockIds": [
+          "b-3-6",
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6",
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "G. The second line of research often used to justify single-sex education falls squarely within my area of expertise: brain and cognitive development. It's been more than a decade now since the \"brain sex movement\" began infiltrating ( 渗入) our schools, and there are literally hundreds of schools caught up in the fad ( 新潮). Public schools in Wisconsin, Indiana, Florida and many other states now proudly declare on their websites that they separate boys and girls because \"research solidly indicates that boys and girls learn differently,\" due to \"hard-wired\" differences in their brains, eyes, ears, autonomic nervous systems, and more.",
+      "sourceHash": "a153b207df8f68e6250689e986ca9c6d7ab4149fbcfdbe623010d4bc581f69dc",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-8",
+        "cet6:2014-12-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-8",
+        "cet6:2014-12-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G. 经常用来证明单性别教育合理性的第二条研究完全属于我的专业领域：大脑和认知发展。自从“脑性运动”开始渗透到我们的学校以来，已经有十多年了，实际上有数百所学校陷入了这种时尚之中。威斯康星州、印第安纳州、佛罗里达州和许多其他州的公立学校现在自豪地在其网站上宣称，他们将男孩和女孩分开，因为“研究明确表明男孩和女孩的学习方式不同”，这是由于他们的大脑、眼睛、耳朵、自主神经系统等方面的“硬连线”差异。",
+      "source": {
+        "blockIds": [
+          "b-3-8",
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-8",
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-10",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "H. All of these statements can be traced to just a few would-be neuroscientists, especially physician Leonard Sax and therapist Michael Gurian. Each gives lectures, runs conferences, and does a lot of professional development on so-called \"gender-specific learning.\" [ analyzed their various claims about sex difference sin hearing, vision, language, math, stress responses, and \"learning styles\" in my book and a long peer-reviewed paper. Other neuroscientists and psychologists have similarly exposed their work. In short, the mechanisms by which our brains learn language, math, physics, and every other subject don't differ between boys and girls. Of course, learning does vary a lot between individual students, but research reliably shows that this variance is far greater within populations of boys or girls than between the two sexes.",
+      "sourceHash": "f1bef34298ef8195e088bbc267d1bf9d6a752c0ea531949b4271ce8d65f2a833",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-10",
+        "cet6:2014-12-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-10",
+        "cet6:2014-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H. 所有这些陈述都可以追溯到少数未来的神经科学家，尤其是医生伦纳德·萨克斯和治疗师迈克尔·古里安。每个人都进行讲座、举办会议，并在所谓的“针对特定性别的学习”方面进行大量的专业发展。 [在我的书和一篇长篇同行评审论文中分析了他们关于听力、视觉、语言、数学、压力反应和“学习风格”方面的性别差异的各种说法。其他神经科学家和心理学家也同样曝光了他们的工作。简而言之，我们的大脑学习语言、数学、物理和其他学科的机制在男孩和女孩之间并没有什么不同。当然，学生个体之间的学习差异确实很大，但研究可靠地表明，男孩或女孩群体中的这种差异远大于两性之间的差异。",
+      "source": {
+        "blockIds": [
+          "b-3-10",
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-10",
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-12",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) The equal protection clause of the US Constitution prohibits separation of students by sex in public education that's based on precisely this kind of \"over broad generalizations about the different talents, capacities, or preferences of males and females.\" And the reason it is prohibited is because it leads far too easily to stereotyping and sex discrimination. Social Developmental Psychology",
+      "sourceHash": "676deb6888ef3a8a3ad2adb78fe1f33a98765dc10e3e65f0b0fadc83c2bb49ac",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 美国宪法的平等保护条款禁止在公共教育中按性别对学生进行隔离，而这正是基于这种“对男女不同才能、能力或偏好的过分概括”。它被禁止的原因是它太容易导致刻板印象和性别歧视。社会发展心理学",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-13",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) That brings me to the third area of research which fails to support single-sex schooling and indeed suggests the practice is actually harmful: social developmental psychology.",
+      "sourceHash": "39840628506fa3af7e2079be8175ad45cae29cb7e84397fe43bb23ea927d8a68",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-13",
+        "cet6:2014-12-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-13",
+        "cet6:2014-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J）这让我想到了第三个研究领域，它不支持单一性别学校教育，而且实际上表明这种做法实际上是有害的：社会发展心理学。",
+      "source": {
+        "blockIds": [
+          "b-3-13",
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-13",
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-3-15",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "K. It's a well-proven finding in social psychology that segregation promotes stereotyping and prejudice, whereas inter group contact reduces them--and the results are the same whether you divide groups by race, age, gender, body mass index, sexual orientation, or any other category. What's more, children are especially vulnerable to this kind of bias, because they are dependent on adults for learning which social categories are important and why we divide people into different groups.",
+      "sourceHash": "b8f9912f96de1ff2bd856f4b37563e6d752324d1b0873bb37208958d872c860b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-3-15",
+        "cet6:2014-12-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-3-15",
+        "cet6:2014-12-03:b-3-16",
+        "cet6:2014-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K. 社会心理学中已得到充分证明的发现是，种族隔离会促进刻板印象和偏见，而群体间接触则会减少它们——无论你按种族、年龄、性别、体重指数、性取向或任何其他类别来划分群体，结果都是一样的。更重要的是，儿童特别容易受到这种偏见的影响，因为他们依赖成人来了解哪些社会类别是重要的以及为什么我们将人们分为不同的群体。",
+      "source": {
+        "blockIds": [
+          "b-3-15",
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-15",
+          "b-3-16",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-2",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "L. You don't have to look far to find evidence of stereotyping and sex discrimination in single-sex schools. There was the failed single-sex experiment in California, where six school districts used generous state grants to set up separate boys' and girls' academics in the late 1990s. Once boys and girls were segregated, teachers resorted to traditional gender stereotypes to run their classes, and within just three years, five of the six districts had gone back to coeducation.",
+      "sourceHash": "dc5b6c8a6c875f1c221a7d41a211d5e15e66daf53ac0f8da4e8793d79853db7f",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-1",
+        "cet6:2014-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-2",
+        "cet6:2014-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L. 你不必费力寻找单性别学校中陈规定型观念和性别歧视的证据。加利福尼亚州的单一性别实验失败了，该州的六个学区在 20 世纪 90 年代末利用慷慨的州拨款设立了男女分开的学院。一旦男孩和女孩被隔离，老师们就会诉诸传统的性别陈规定型观念来授课，在短短三年内，六个学区中有五个学区恢复了男女同校。",
+      "source": {
+        "blockIds": [
+          "b-4-1",
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2",
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-4",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "M. At the same time, researchers are increasingly discovering benefits of gender interaction in youth. A large British study found that children with other-sex older siblings (兄弟姐妹) exhibit less stereotypical play than children with same-sex older siblings, such as girls who like sports and building toys and boys who like art and dramatic play. Another study of high school social networks found less bullying and aggression the higher the density of mixed-sex friendships within a given adolescent network. Then there is the finding we cited in our Science paper of higher divorce and depression rates among a large group of British men who attended single-sex schools as teenagers, which might be explained by the lack of opportunity to learn about relationships during their formative years.",
+      "sourceHash": "bf44b9d06f9ca363f5c18596635580f7975ef23624037e4e4125de597fa8a156",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-3",
+        "cet6:2014-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-4",
+        "cet6:2014-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M. 与此同时，研究人员越来越多地发现性别互动对青少年的好处。英国一项大型研究发现，兄弟姐妹的孩子比同性兄弟姐妹的孩子表现出更少的刻板游戏，例如喜欢运动和拼搭玩具的女孩和喜欢艺术和戏剧游戏的男孩。另一项针对高中社交网络的研究发现，特定青少年网络中的混合性别友谊密度越高，欺凌和攻击行为就越少。然后，我们在《科学》论文中引用了一项发现，即一大群青少年时期就读于单性别学校的英国男性离婚率和抑郁率较高，这可能是由于他们在成长过程中缺乏了解人际关系的机会。",
+      "source": {
+        "blockIds": [
+          "b-4-3",
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4",
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-6",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "N. Whether in nursery school, high school, or the business world, gender segregation narrows our perceptions of each other, facilitating stereotyping and sexist attitudes. It's very simple: the more we structure children and adolescents' environment around gender distinctions and separation, the more they will use these categories as the primary basis for understanding themselves and others.",
+      "sourceHash": "90727ca51897c3c7f00d8afad0d8e93ee4de95db998265b6f34afae97dfcb032",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-5",
+        "cet6:2014-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-6",
+        "cet6:2014-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N. 无论是在幼儿园、高中还是在商界，性别隔离都会缩小我们对彼此的看法，助长陈规定型观念和性别歧视态度。很简单：我们越是围绕性别差异和分离来构建儿童和青少年的环境，他们就越会使用这些类别作为理解自己和他人的主要基础。",
+      "source": {
+        "blockIds": [
+          "b-4-5",
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6",
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "passage_option",
+      "sourceText": "O. Gender is an important issue in education. There are gaps in reading, writing, and science achievement that should be narrower. There are gaps in career choice that should be narrower--if we really want to maximize human potential and American economic growth. But stereotyping boys and girls them in the name of fictitious ( 虚拟的) brain differences is never going to close these gaps. 注意：此部分试题请在答题卡2 上作答。",
+      "sourceHash": "526b033ff69df55ce239d6e7b1720d3c74627dae9c2c81c39fd55c9e2b2a45ba",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-7",
+        "cet6:2014-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-8",
+        "cet6:2014-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "O. 性别是教育中的一个重要问题。阅读、写作和科学成就方面的差距应该缩小。如果我们真的想最大限度地发挥人类潜力和美国经济增长，那么职业选择上的差距就应该缩小。但以虚构的大脑差异为名对男孩和女孩进行刻板印象永远无法弥合这些差距。",
+      "source": {
+        "blockIds": [
+          "b-4-7",
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8",
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-10",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. Hundreds of schools separate boys from girls in class on the alleged brain and cognitive differences.",
+      "sourceHash": "9664da24955e4bdbc2413e76f442c9cbaa08b4f9bc8e5ae1c3515c31e16de2bd",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 数百所学校因所谓的大脑和认知差异而将男孩和女孩分开上课。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-11",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. A review of extensive educational research shows no obvious academic advantage of single-sex schooling.",
+      "sourceHash": "5b5f09f1c3feffea1e2ac14efd38544125864f02fc56d125bae66a6ec3cfee6c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 对广泛的教育研究的审查表明，单一性别学校教育没有明显的学术优势。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-12",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. The author did not have any fixed ideas on single-sex education when she began her research on the subject.",
+      "sourceHash": "05c070fd6a41363c309fe8af7b65ee300b251f0419e684f79bb6fd43e9a345b3",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 提交人在开始研究这一课题时，对单性别教育并没有任何固定的想法。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-13",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. Research found men who attended single-sex schools in their teens were more likely to suffer from depression.",
+      "sourceHash": "00d6a8801c15a305f1ce7f35b25a5c1b6c6c3c5d17a1e841de0e6f158626f027",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 研究发现，十几岁时就读于单一性别学校的男性更容易患抑郁症。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-14",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. Studies in social psychology have shown segregation in school education has a negative impact on children.",
+      "sourceHash": "b3fe347e6189a66f57ee81ac7341c0a7611fe61a3503652a4a05af140bdfacbd",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 社会心理学研究表明，学校教育中的隔离对儿童产生负面影响。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-15",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. Reviews of research indicate there are more differences in brain and cognitive development within the same sex than between different sexes.",
+      "sourceHash": "07e9fbfa0cec5f08a03c07adbc292df6224b83398882aff4d2ea718e2f7c34b2",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 研究回顾表明，同性别之间的大脑和认知发展差异比不同性别之间更大。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-16",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. The findings of the national survey of college freshmen about the impact of single-sex schooling fail to take into account student and school attributes.",
+      "sourceHash": "2b4fe0f6ea652d9e3675e3cf65c9904c2ed940d3125350ca86e543e040e88b6b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 全国大学新生关于单一性别学校教育影响的调查结果没有考虑到学生和学校的特点。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-17",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. It wasn't long before most of the school districts that experimented with single-sex education abandoned the practice.",
+      "sourceHash": "43c78d91713e0f58964858c2787bc5c991496e170e378e89dc00829f159b300c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 不久之后，大多数尝试单一性别教育的学区就放弃了这种做法。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-18",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. Boys from coeducational classes demonstrate greater cognitive abilities according to the economists' research.",
+      "sourceHash": "aeb846179d9f3ca400403adf37f8641aa00e36448b0ebd9b7d36aaf9ae5a411b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 根据经济学家的研究，男女同校的男孩表现出更强的认知能力。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-19",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. As careful research reviews show, academic excellence in some single-sex schools is attributed to other factors than single-sex education.",
+      "sourceHash": "be19a0084cc6a215e4637397f5828b32dec22c544d3a3b3aed211baea78c91f0",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 仔细的研究审查显示，一些单一性别学校的学业成绩优异归因于单一性别教育以外的其他因素。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-21",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A,B, C, and D．. You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the center .Passage One",
+      "sourceHash": "663c81ff0a2a475b2c4c4dac5a3deef76d01320433585cd8a6ea8025ddfcb37b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-20"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A、B、C 和 D。您应该决定最佳选择，并在答题纸 2 上用一条穿过中心的单线标记相应的字母。 第一篇",
+      "source": {
+        "blockIds": [
+          "b-4-20"
+        ],
+        "reflowBlockIds": [
+          "b-4-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-22",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 56 to 60 are based on the following passage.",
+      "sourceHash": "f6f547b1d2fc78eb9560d25fb547c7b41e4e8813dfd2e2a5a61100077ba5bba1",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-21"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-22"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 56 至 60 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-21"
+        ],
+        "reflowBlockIds": [
+          "b-4-22"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-23",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "International governments' inaction concerning sustainable development is clearly worrying but the proactive (主动出击的) approaches of some leading-edge companies are encouraging. Toyota, Wal-Mart, DuPont, M&S and General Electric have made tackling environmental wastes a key economic driver.",
+      "sourceHash": "7b3055849d13e234e1f357ea331d3c77edb1d71ea00b0a870989375f77d2566b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-22"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-23"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "国际政府在可持续发展方面的不作为显然令人担忧，但一些领先企业主动出击的做法令人鼓舞。丰田、沃尔玛、杜邦、玛莎百货和通用电气已将解决环境废物问题作为关键的经济驱动力。",
+      "source": {
+        "blockIds": [
+          "b-4-22"
+        ],
+        "reflowBlockIds": [
+          "b-4-23"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-4-24",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "DuPont committed itself to a 65% reduction in greenhouse gas emissions in the 10 years prior to 2010.By 2007, DuPont was saving $2.2 billion a year through energy efficiency, the same as its total declared profits that year. General Electric aims to reduce the energy intensity of its operations by 50% by 2015.They have invested heavily in projects designed to change the way of using and conserving energy.",
+      "sourceHash": "52e0dfa296a3ee46c2712d3c0ed3d35c5657b5c3238a7b8b73ad9f76575b4bee",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-4-23"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-4-24"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "杜邦承诺在 2010 年之前的 10 年内将温室气体排放量减少 65%。到 2007 年，杜邦通过能源效率每年节省 22 亿美元，与其当年申报的利润总额相同。通用电气的目标是到 2015 年将其运营能源强度降低 50%。他们在旨在改变能源使用和节约方式的项目上投入了大量资金。",
+      "source": {
+        "blockIds": [
+          "b-4-23"
+        ],
+        "reflowBlockIds": [
+          "b-4-24"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-1",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Companies like Toyota and Wal-Mart are not committing to environmental goals out of the goodness of their hearts. The reason for their actions is a simple yet powerful realisation that the environmental and economic footprints fit well together. When M&S launched its \"Plan A\" sustainability program me in 2007,it was believed that it would cost over ~200 million in the first five years. However, the initiative had generated ~105 million by 2011/12.",
+      "sourceHash": "0ad286d348fb96f29972d5bfdc6d8f0b6e2855015790ed9a15bee22311da02fc",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "像丰田和沃尔玛这样的公司并不是出于善意而致力于环境目标。他们采取行动的原因是一个简单而有力的认识，即环境足迹和经济足迹完美契合。当玛莎百货于 2007 年推出“A 计划”可持续发展计划时，据信前五年的成本将超过 2 亿美元。然而，到 2011/2012 年，该举措已创收约 1.05 亿美元。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-2",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "When we prevent physical waste, increase energy efficiency or improve resource productivity, we save money, improve profitability and enhance competitiveness. In fact, there are often huge \"quick win\" opportunities, thanks to years of neglect.",
+      "sourceHash": "a92c62de91587e315bfb5c48b2f5c2dfefbd745b67a0c09f6161fcdf6fbe80f6",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当我们防止物理浪费、提高能源效率或提高资源生产率时，我们就能节省资金、提高盈利能力并增强竞争力。事实上，由于多年的忽视，往往存在巨大的“快速获胜”机会。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-3",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "However, there is a considerable gap between leading-edge companies and the rest of the pack. There are far too many companies still delaying creating a lean and green business system, arguing that it will cost money or require sizable capital investments. They remain stuck in the \"environment is cost\" mentality. Being environmentally friendly does not have to cost money. In fact, going beyond compliancesaves cost at the same time that it generates cash, provided that management adopts the new lean and green model.",
+      "sourceHash": "c8a7435e29047cfc307532a344f9fe5dca09e0160159b0eb17f03571ffca76d6",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，领先企业与其他企业之间存在相当大的差距。有太多的公司仍在推迟创建精益和绿色业务系统，认为这将花费金钱或需要大量资本投资。他们仍然停留在“环境就是成本”的心态中。环保并不一定要花钱。事实上，只要管理层采用新的精益和绿色模式，超越合规性就可以在产生现金的同时节省成本。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-4",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Lean means doing more with less. Nonetheless, in most companies, economic and environmental continuous improvement is viewed as being in conflict with each other. This is one of the biggest opportunities missed across most industries. The size of the opportunity is enormous, The 3% Reportrecently published by World Wildlife Fund and CDP shows that the economic prize for curbing carbonemissions in the US economy is $780 billion between now and 2020. It suggests that one of the biggest levers for delivering this opportunity is \"increased efficiency through management and behavioural change\"--in other words, lean and green management.",
+      "sourceHash": "ee70d0d4228231e2aabe279080c7bba574279228c6a0b0b626d13bee340729a2",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "精益意味着用更少的资源做更多的事情。尽管如此，在大多数公司中，经济和环境的持续改进被认为是相互冲突的。这是大多数行业错失的最大机会之一。这个机会的规模是巨大的，世界自然基金会和CDP最近发布的《3%报告》显示，从现在到2020年，美国经济遏制碳排放的经济回报为7800亿美元。它表明，实现这一机会的最大杠杆之一是“通过管理和行为改变提高效率”——换句话说，精益和绿色管理。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-5",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Some 50 studies show that companies that commit to such a spirational goals as zero waste, zero harmful emissions, and zero use of non-renewable resources are financially outperforming their competitors. Conversely, it was found that climate disruption is already costing $1.2 trillion annually, cutting global GDP by 1.6%. Unaddressed, this will double by 2030. 注意：此部分试题请在答题卡2 上作答。",
+      "sourceHash": "3b27fd850e9fd9c1130c1efe316b5883adb7f9d933079b83f82912f7285b5b9c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "大约 50 项研究表明，致力于实现零废物、零有害排放和零使用不可再生资源等理想目标的公司在财务上优于竞争对手。相反，人们发现气候破坏每年造成的损失已经达到 1.2 万亿美元，使全球 GDP 减少 1.6%。如果不加以解决，到 2030 年这一数字将翻倍。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-6",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "56. What does the author say about some leading-edge companies?",
+      "sourceHash": "5c91eb205f899a6a36d9200e3d95ae5cc2336768ca1d03a453fc038cb18e8e89",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "56. 作者对一些领先企业有何评价？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "57. What motivates Toyota and Wal-Mart to make commitments to environmental protection?",
+      "sourceHash": "be83e51868a7a379515b221d4f27576a6821d9663fb2bee6513beb1d1610ed5b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "57. 是什么促使丰田和沃尔玛做出环境保护承诺？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-10",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "58. Why are so many companies reluctant to create an environment-friendly business system?",
+      "sourceHash": "d703a248e00553c01e5f28207696462198c2204f4d1c060fbee56fede17d95b2",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "58. 为什么这么多公司不愿意创建环境友好型的商业体系？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-12",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "59. What is said about the lean and green model of business?",
+      "sourceHash": "1c56874929cc3184d69017517fd5590728d4858ddc430ef4e9ff4952b3df71d5",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "59. 关于精益和绿色商业模式是怎样说的？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-5-14",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "60. What is the finding of the studies about companies committed to environmental goals?",
+      "sourceHash": "90ca9971eaae2d51294fd6804eceac1eb45ec8dcda1857be33d8fcb872d0dc8e",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "60. 关于致力于环境目标的公司的研究结果是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-1",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 61 to 65 are based on the following passage.",
+      "sourceHash": "f89999cca546454539cf46518a4835ec859489ef62601b261434360f3bc64b24",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 61 至 65 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-2",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "If you asked me to describe the rising philosophy of the day, I'd say it is data-ism. We now have the ability to gather huge amounts of data. This ability seems to carry with it certain cultural assumptions--that everything that can be measured should be measured; that data is a transparent and reliable lens that allows us to filter out emotionalism and ideology; that data will help us do remarkable things--like foretell the future.",
+      "sourceHash": "2ff31a75678db083657c02b6d95c969cde804b7a5bab7a4085c13bbf5ac86dd0",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如果你让我描述一下当今兴起的哲学，我会说它是数据主义。我们现在有能力收集大量数据。这种能力似乎带有一定的文化假设——一切可以测量的东西都应该被测量；数据是一个透明且可靠的镜头，使我们能够过滤掉情感主义和意识形态；这些数据将帮助我们做出非凡的事情——比如预测未来。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-3",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Over the next years, I'm hoping to get a better grip on some of the questions raised by the datarevolution: In what situations should we rely on intuitive pattern recognition and in which situations should we ignore intuition and follow the data? What kinds of events are predictable using statistical analysis and what sorts of events are not?",
+      "sourceHash": "0cdc40e4f6310d208dc48b98e5b09cfcbb63a9ee5140a7b4d89a860bc317bd81",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在接下来的几年里，我希望能够更好地理解数据革命提出的一些问题：在什么情况下我们应该依赖直觉模式识别，在什么情况下我们应该忽略直觉并遵循数据？哪些类型的事件可以通过统计分析进行预测，哪些类型的事件不能？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-4",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "I confess I enter this in a skeptical frame of mind, believing that we tend to get carried away in our desire to reduce everything to the quantifiable. But at the outset let me celebrate two things data does really well.",
+      "sourceHash": "2bb00da4274e5b608980dbfb2b2e7e352ab2ca5f876a9511dc094abc30ea8474",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我承认我是抱着怀疑的心态进入这个话题的，相信我们往往会沉迷于将一切都简化为可量化的愿望中。但首先让我庆祝一下数据确实做得很好的两件事。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-5",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "First, it's really good at exposing when our intuitive view of reality is wrong. For example, nearly every person who runs for political office has an intuitive sense that they can powerfully influence their odds of winning the election if they can just raise and spend more money. But this is largely wrong.",
+      "sourceHash": "cf268dbe3eda99ad3130ceed6f30d63c438eda15d64c6cfcab0f6d656405e17d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "首先，它非常擅长揭露我们对现实的直觉看法是错误的。例如，几乎每个竞选政治职位的人都有一种直觉，如果他们能够筹集和花更多的钱，他们就能有力地影响自己赢得选举的几率。但这在很大程度上是错误的。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-6",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "After the 2006 election, Sean Trende constructed a graph comparing the incumbent (在任者的) campaign spending advantages with their eventual margins of victory. There was barely any relationship between more spending and a bigger victory.",
+      "sourceHash": "0e2d16cebc3d21aec507c313467769999f8626417d6223841080fac6f17870b3",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "2006 年大选后，肖恩·特伦德 (Sean Trende) 制作了一个图表，将现任者的竞选支出优势与最终的胜利优势进行比较。更多的支出和更大的胜利之间几乎没有任何关系。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-7",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Likewise, many teachers have an intuitive sense that different students have different learning styles: some are verbal and some are visual; some are linear, some are holistic ( 整体的). Teachers imagine they will improve outcomes if they tailor their presentations to each student. But there's no evidence to support this either.",
+      "sourceHash": "4f4f6e412a87fc3dfb500e64540746b1007d5ddd3c0b37672e786b42a7df0182",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "同样，许多老师直观地感觉到不同的学生有不同的学习方式：有些是口头的，有些是视觉的；有些是口头的，有些是视觉的；有些是线性的，有些是整体的。教师们认为，如果他们为每个学生量身定制演示文稿，他们的教学成果将会得到改善。但也没有证据支持这一点。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-8",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Second, data can illuminate patterns of behavior we haven't yet noticed. For example, I've always assumed people who frequently use words like \"I,\" \"me,\" and \"mine\" are probably more self-centered than people who don't. But as James Pennebaker of the University of Texas notes in his book, The Secret Life of Pronouns, when people are feeling confident, they are focused on the task at hand, not on themselves. High-status, confident people use fewer \"I\" words, not more.",
+      "sourceHash": "a3af5cfae97a0e9a9bd0b555f897e850872909fbdd7b5faf703aff2c4491ab37",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "其次，数据可以阐明我们尚未注意到的行为模式。例如，我一直认为经常使用“我”、“我的”和“我的”等词的人可能比不使用“我”、“我的”等词的人更以自我为中心。但正如德克萨斯大学的詹姆斯·彭尼贝克在他的《代词的秘密生活》一书中指出的那样，当人们感到自信时，他们会专注于手头的任务，而不是自己。地位高、自信的人很少使用“我”字，而不是更多。",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-9",
+      "paperId": "cet6:2014-12-03",
+      "kind": "reading",
+      "sourceText": "Our brains often don't notice subtle verbal patterns, but Pennebaker's computers can. Younger writers use more negative and past-tense words than older writers who use more positive and future tense words. In sum, the data revolution is giving us wonderful ways to understand the present and the past. Will it transform our ability to predict and make decisions about the future? We'll see. 注意：此部分试题请在答题卡2 上作答。",
+      "sourceHash": "8acf13f86385722d9bf99872453a24188c0812fbec0787aea17c489817e57d0c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们的大脑通常不会注意到微妙的言语模式，但彭尼贝克的计算机可以。年轻的作家比年长的作家使用更多的消极和过去时的词语，而年长的作家使用更多的积极和将来时的词语。总之，数据革命为我们提供了理解现在和过去的绝佳方式。它会改变我们对未来的预测和决策的能力吗？我们拭目以待。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-10",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "61. What do data-ists assume they can do?",
+      "sourceHash": "0d004de0a84dc5b86e1b1c45dac724574b1885a36939388febea3772b29f2d89",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "61. 数据主义者认为他们能做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-12",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "62. What do people running for political office think they can do?",
+      "sourceHash": "fa730cde2ea91243d7d2ab05db7a6483f1929d99e857d1e1e32427484213df59",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "62. 竞选政治职务的人认为他们能做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-14",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "63. Why do many teachers favor the idea of tailoring their presentations to different students?",
+      "sourceHash": "50a7ebbc0e0919ac9c1c4dcb099a5e2b05a738092f35f7136ff37cb0682da881",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "63. 为什么许多老师赞成为不同的学生量身定制演讲的想法？",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-6-16",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "64. What does James Pennebaker reveal in The Secret Life of Pronouns?",
+      "sourceHash": "1a7cafd03cc18ce6889b0571d2eab7ab071de44cc1c93ec21de99bc6bd20038e",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-6-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "64. 詹姆斯·彭尼贝克在《代词的秘密生活》中揭示了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-16"
+        ],
+        "reflowBlockIds": [
+          "b-6-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-7-1",
+      "paperId": "cet6:2014-12-03",
+      "kind": "question_prompt",
+      "sourceText": "65. Why is the author skeptical of the data revolution?",
+      "sourceHash": "88e87a630bfe856fd7d059fc5cdb4d5a8c2bb8e74fb3d632061238b1743a5a75",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "65. 为什么作者对数据革命持怀疑态度？",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2014-12-03:p:b-7-3",
+      "paperId": "cet6:2014-12-03",
+      "kind": "instruction",
+      "sourceText": "PartⅣ Translation (30 minutes) Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on ,Answer Sheet 2. 中国将努力确保到2015 年就业者接受过平均13.3 年的教育。如果这一目标得以实现，今后大部分进入劳动力市场的人都须获得大学文凭。 在未来几年，中国将着力增加职业学院的招生人数；除了关注高等教育之外，还将寻找新的突破以确保教育制度更加公平。中国正在努力最佳地利用教育资源，这样农村和欠发达地区将获得更多的支持。教育部还决定改善欠发达地区学生的营养，并为外来务工人员的子女提供在城市接受教育的同等机会。 注意：此部分试题请在答题卡2 上作答。",
+      "sourceHash": "c08525bec11bebc29b291b16869bc3d771ff7003ed9d52cff03b56d72cf53bc6",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2014-12-03:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第四部分翻译（30分钟） 说明：这部分，你有30分钟的时间将一段中文翻译成英文。您应该将答案写在答题纸 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2014-12-03.json",
+        "pdfSha256": "62d39b9e52dc0cc218dbb2bd8d4b85ee79ff2d10dca3b09eb9747bd06ecaaa0e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2014-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2014-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2014-12-03:q-56-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-56-1",
+      "optionId": "cet6:2014-12-03:q-56-1:A",
+      "sourceText": "They operate in accordance with government policies.",
+      "sourceHash": "9f5115e09682adb146eb9f78f121e57953a0fb00837376315eb8caf1d166ef9d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They operate in accordance with government policies.",
+      "translationEligible": true,
+      "translationZh": "他们按照政府政策运作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-56-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-56-1",
+      "optionId": "cet6:2014-12-03:q-56-1:B",
+      "sourceText": "They take initiatives in handling environmental wastes.",
+      "sourceHash": "76557f08cab07db34605fefbb3406c555d71e40da5e5b73a1ab8c3163600160d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They take initiatives in handling environmental wastes.",
+      "translationEligible": true,
+      "translationZh": "他们积极主动地处理环境废物。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-56-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-56-1",
+      "optionId": "cet6:2014-12-03:q-56-1:C",
+      "sourceText": "They are key drivers in their nations' economic growth.",
+      "sourceHash": "f79cc38f3f199a7da49bc5416fcad0882a5302e645d92af1ceaed535a68cb99a",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are key drivers in their nations' economic growth.",
+      "translationEligible": true,
+      "translationZh": "他们是本国经济增长的关键驱动力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-56-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-56-1",
+      "optionId": "cet6:2014-12-03:q-56-1:D",
+      "sourceText": "They are major contributors to environmental problems.",
+      "sourceHash": "be1de1128aed7f08eae7ca6d393340e5625b747034fc7dbe33fac1660590e99b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are major contributors to environmental problems.",
+      "translationEligible": true,
+      "translationZh": "他们是造成环境问题的主要因素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-57-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-57-1",
+      "optionId": "cet6:2014-12-03:q-57-1:A",
+      "sourceText": "The goodness of their hearts.",
+      "sourceHash": "2e14be44624a059d552fb27f6e38747b27c48d1ece29d29d7a044ec24759ffd0",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The goodness of their hearts.",
+      "translationEligible": true,
+      "translationZh": "他们内心的善良。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-57-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-57-1",
+      "optionId": "cet6:2014-12-03:q-57-1:B",
+      "sourceText": "A strong sense of responsibility.",
+      "sourceHash": "6cc18d82ea1253198468eba92b6cc80ab58556cf25bb16048f3708b21419d6d2",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "A strong sense of responsibility.",
+      "translationEligible": true,
+      "translationZh": "强烈的责任感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-57-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-57-1",
+      "optionId": "cet6:2014-12-03:q-57-1:C",
+      "sourceText": "The desire to generate profits.",
+      "sourceHash": "52894a9a09b621e8905b04103d29d1f5246cf82dc0bb94cc704d8af49369e6dc",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The desire to generate profits.",
+      "translationEligible": true,
+      "translationZh": "产生利润的愿望。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-57-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-57-1",
+      "optionId": "cet6:2014-12-03:q-57-1:D",
+      "sourceText": "Pressure from environmentalists.",
+      "sourceHash": "90a57fc25bea732a269fa5fac98f6ebe4f04a3ce88f0e85f2c0721b6d681bce2",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Pressure from environmentalists.",
+      "translationEligible": true,
+      "translationZh": "来自环保人士的压力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-58-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-58-1",
+      "optionId": "cet6:2014-12-03:q-58-1:A",
+      "sourceText": "They are bent on making quick money.",
+      "sourceHash": "1fdf8915d1ec77f5e3d99cff53315a39b777c13b22f63b9abacdc39fd9b6cb99",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are bent on making quick money.",
+      "translationEligible": true,
+      "translationZh": "他们一心想赚快钱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-58-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-58-1",
+      "optionId": "cet6:2014-12-03:q-58-1:B",
+      "sourceText": "They do not have the capital for the investment.",
+      "sourceHash": "e54ed1a1c151fe6f6402955f5aefa58adb0485b29ca6c0aad61f53ee311de8a8",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They do not have the capital for the investment.",
+      "translationEligible": true,
+      "translationZh": "他们没有投资资金。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-58-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-58-1",
+      "optionId": "cet6:2014-12-03:q-58-1:C",
+      "sourceText": "They believe building such a system is too costly.",
+      "sourceHash": "4435a4ad9a039217ce060127bd51bb84ee31eeed276072954e8fda2f5f0d3447",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They believe building such a system is too costly.",
+      "translationEligible": true,
+      "translationZh": "他们认为建立这样一个系统成本太高。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-58-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-58-1",
+      "optionId": "cet6:2014-12-03:q-58-1:D",
+      "sourceText": "They lack the incentive to change business practices.",
+      "sourceHash": "9daeacc8dcacdc0ed49bf9a633c5439134d2d3cebfd781995f0374a872296196",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They lack the incentive to change business practices.",
+      "translationEligible": true,
+      "translationZh": "他们缺乏改变商业惯例的动力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-59-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-59-1",
+      "optionId": "cet6:2014-12-03:q-59-1:A",
+      "sourceText": "It helps businesses to save and gain at the same time.",
+      "sourceHash": "fe12abb42833f00a847512e7f521efb34bd632ff7ddba50c3c279984550120eb",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It helps businesses to save and gain at the same time.",
+      "translationEligible": true,
+      "translationZh": "它可以帮助企业同时节省和收益。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-59-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-59-1",
+      "optionId": "cet6:2014-12-03:q-59-1:B",
+      "sourceText": "It is affordable only for a few leading-edge companies.",
+      "sourceHash": "e19e07875521dcd95ae97c3395b5c78eadc06a087681f823e8814bc5e23a3412",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is affordable only for a few leading-edge companies.",
+      "translationEligible": true,
+      "translationZh": "只有少数领先的公司才能负担得起。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-59-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-59-1",
+      "optionId": "cet6:2014-12-03:q-59-1:C",
+      "sourceText": "It is likely to start a new round of intense competition.",
+      "sourceHash": "dd085d7f13c09dd37e5ac91383e00438a60aa65c0d689d3258b46afa7db7f7a5",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is likely to start a new round of intense competition.",
+      "translationEligible": true,
+      "translationZh": "很可能会开始新一轮的激烈竞争。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-59-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-59-1",
+      "optionId": "cet6:2014-12-03:q-59-1:D",
+      "sourceText": "It will take a long time for all companies to embrace it.",
+      "sourceHash": "fe34c4e2bf250223addb1a8bed085a5a50910c7bc3c66c230fdd9a18cee24cce",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It will take a long time for all companies to embrace it.",
+      "translationEligible": true,
+      "translationZh": "所有公司都需要很长时间才能接受它。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-60-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-60-1",
+      "optionId": "cet6:2014-12-03:q-60-1:A",
+      "sourceText": "They have greatly enhanced their sense of social responsibility.",
+      "sourceHash": "f8739b58fcac097fdf7c639e0315d3809f0bbf09f368ab9df91212c934e125b9",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They have greatly enhanced their sense of social responsibility.",
+      "translationEligible": true,
+      "translationZh": "他们的社会责任感大大增强。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-60-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-60-1",
+      "optionId": "cet6:2014-12-03:q-60-1:B",
+      "sourceText": "They do much better than their counterparts in terms of revenues.",
+      "sourceHash": "5775870aaae7fc10b7e218c4cd56b3fad91d23a16b08a54f8d87f7ac96cd4a3d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They do much better than their counterparts in terms of revenues.",
+      "translationEligible": true,
+      "translationZh": "就收入而言，他们的表现比同行要好得多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-60-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-60-1",
+      "optionId": "cet6:2014-12-03:q-60-1:C",
+      "sourceText": "They have abandoned all the outdated equipment and technology.",
+      "sourceHash": "a67a76108d1626b1fd7a2394c0c3ce61356839762580243db1c0e0adca681865",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They have abandoned all the outdated equipment and technology.",
+      "translationEligible": true,
+      "translationZh": "他们放弃了所有过时的设备和技术。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-60-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-60-1",
+      "optionId": "cet6:2014-12-03:q-60-1:D",
+      "sourceText": "They make greater contributions to human progress than their rivals.",
+      "sourceHash": "8093c8f8e1a2da5fe7ab9bb064d4015e40be63fc6530475ddace7f27a3f28bb5",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-5-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They make greater contributions to human progress than their rivals.",
+      "translationEligible": true,
+      "translationZh": "他们为人类进步做出的贡献比他们的对手更大。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-61-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-61-1",
+      "optionId": "cet6:2014-12-03:q-61-1:A",
+      "sourceText": "Transform people's cultural identity.",
+      "sourceHash": "cfd710c7122421b6db866090109ad65417de45b1c7ea5aaf83ced5c1a65c4767",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Transform people's cultural identity.",
+      "translationEligible": true,
+      "translationZh": "转变人们的文化认同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-61-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-61-1",
+      "optionId": "cet6:2014-12-03:q-61-1:B",
+      "sourceText": "Change the way future events unfold.",
+      "sourceHash": "63a4d68b6101c746586794b4a443580480506111a28796c462f3ee7fa8d43120",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Change the way future events unfold.",
+      "translationEligible": true,
+      "translationZh": "改变未来事件的展开方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-61-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-61-1",
+      "optionId": "cet6:2014-12-03:q-61-1:C",
+      "sourceText": "Get a firm grip on the most important issues.",
+      "sourceHash": "82164b97df1a1c6293fd4018d5bc69614d8a4857d3f2b62780cf919d7d63c3f7",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Get a firm grip on the most important issues.",
+      "translationEligible": true,
+      "translationZh": "牢牢把握最重要的问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-61-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-61-1",
+      "optionId": "cet6:2014-12-03:q-61-1:D",
+      "sourceText": "Eliminate emotional and ideological bias.",
+      "sourceHash": "2a1f2f3f37491c1f740c027242238cfd0eea2f82b3212a19bdcf23f116a2b9d9",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Eliminate emotional and ideological bias.",
+      "translationEligible": true,
+      "translationZh": "消除情感和意识形态偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-62-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-62-1",
+      "optionId": "cet6:2014-12-03:q-62-1:A",
+      "sourceText": "Use data analysis to predict the election result.",
+      "sourceHash": "b77d66cd36a4fb087daad759f3bb639102ff7693d1d727c8ee78c3e88caa73d1",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Use data analysis to predict the election result.",
+      "translationEligible": true,
+      "translationZh": "利用数据分析来预测选举结果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-62-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-62-1",
+      "optionId": "cet6:2014-12-03:q-62-1:B",
+      "sourceText": "Win the election if they can raise enough funds.",
+      "sourceHash": "95ca38b0373097c7801db34b9729930d5466587ee525846212f9a1b6e0ff126a",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Win the election if they can raise enough funds.",
+      "translationEligible": true,
+      "translationZh": "如果他们能筹集到足够的资金，就能赢得选举。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-62-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-62-1",
+      "optionId": "cet6:2014-12-03:q-62-1:C",
+      "sourceText": "Manipulate public opinion with favorable data.",
+      "sourceHash": "7526eb43a0ce5f73716b4ae16c9be7ef9b32568f316baa4c948a684db971a051",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Manipulate public opinion with favorable data.",
+      "translationEligible": true,
+      "translationZh": "用有利的数据操纵舆论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-62-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-62-1",
+      "optionId": "cet6:2014-12-03:q-62-1:D",
+      "sourceText": "Increase the chances of winning by foul means.",
+      "sourceHash": "176d75adb2d67986d753327b22beb52d4e811165d32476b13bd7004dff112e4e",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Increase the chances of winning by foul means.",
+      "translationEligible": true,
+      "translationZh": "增加以犯规手段获胜的机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-63-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-63-1",
+      "optionId": "cet6:2014-12-03:q-63-1:A",
+      "sourceText": "They think students prefer flexible teaching methods.",
+      "sourceHash": "6e8eb0ed5d3ad17c24d95a42a309fe306192d7669e093146de92eaf18f6815c3",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They think students prefer flexible teaching methods.",
+      "translationEligible": true,
+      "translationZh": "他们认为学生更喜欢灵活的教学方法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-63-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-63-1",
+      "optionId": "cet6:2014-12-03:q-63-1:B",
+      "sourceText": "They will be able to try different approaches.",
+      "sourceHash": "184a95e7ce40b89f8807bbee3cf22b558c4ae0e6c2bd45a40756a49cc2d8d53f",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They will be able to try different approaches.",
+      "translationEligible": true,
+      "translationZh": "他们将能够尝试不同的方法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-63-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-63-1",
+      "optionId": "cet6:2014-12-03:q-63-1:C",
+      "sourceText": "They believe students' learning styles vary.",
+      "sourceHash": "180298237beb42cb74ea35a3ca80b77e0c5a426ffd821e19771cd9540384305d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They believe students' learning styles vary.",
+      "translationEligible": true,
+      "translationZh": "他们相信学生的学习方式各不相同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-63-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-63-1",
+      "optionId": "cet6:2014-12-03:q-63-1:D",
+      "sourceText": "They can accommodate students with special needs.",
+      "sourceHash": "dca40897dc1902488f51793827e94828d362ea2b578957dad6c5cd70529e14a8",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-15"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They can accommodate students with special needs.",
+      "translationEligible": true,
+      "translationZh": "他们可以容纳有特殊需要的学生。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-64-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-64-1",
+      "optionId": "cet6:2014-12-03:q-64-1:A",
+      "sourceText": "The importance of using pronouns properly.",
+      "sourceHash": "041c3f445202854a5f999adf60511755cf8a339f39394574c6191e711b5e92e8",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-17"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-17",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The importance of using pronouns properly.",
+      "translationEligible": true,
+      "translationZh": "正确使用代词的重要性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-64-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-64-1",
+      "optionId": "cet6:2014-12-03:q-64-1:B",
+      "sourceText": "Repeated use of first-person pronouns by self-centered people.",
+      "sourceHash": "28c1b0287942792fe535dadce50cafb248a6d4653f44834c82e4d83cd433789a",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-17"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-17",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Repeated use of first-person pronouns by self-centered people.",
+      "translationEligible": true,
+      "translationZh": "以自我为中心的人反复使用第一人称代词。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-64-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-64-1",
+      "optionId": "cet6:2014-12-03:q-64-1:C",
+      "sourceText": "Frequent use of pronouns and future tense by young people.",
+      "sourceHash": "79de3e9470141658baec6c3bbbf0f4187fb418082ebc208874fe72e58f81bbda",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-17"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-17",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Frequent use of pronouns and future tense by young people.",
+      "translationEligible": true,
+      "translationZh": "年轻人经常使用代词和将来时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-64-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-64-1",
+      "optionId": "cet6:2014-12-03:q-64-1:D",
+      "sourceText": "A pattern in confident people's use of pronouns.",
+      "sourceHash": "4638da6f37cbfa53e898e44423f7a3fb219014ad8f8cffa1a05272aed3e9bb5d",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-6-17"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-6-17",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "A pattern in confident people's use of pronouns.",
+      "translationEligible": true,
+      "translationZh": "自信的人使用代词的模式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-65-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-65-1",
+      "optionId": "cet6:2014-12-03:q-65-1:A",
+      "sourceText": "Data may not be easily accessible.",
+      "sourceHash": "1f6f687150b9402930d2bb236d8542e182e939d1b7fe5f4f51123cb035c15f7a",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-7-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Data may not be easily accessible.",
+      "translationEligible": true,
+      "translationZh": "数据可能不容易访问。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-65-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-65-1",
+      "optionId": "cet6:2014-12-03:q-65-1:B",
+      "sourceText": "Errors may occur with large data samples.",
+      "sourceHash": "28f7f66a00717ffdd75979b8dc8579059daa2fa421b8a2b257ae6c5ad750e09c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-7-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Errors may occur with large data samples.",
+      "translationEligible": true,
+      "translationZh": "大数据样本可能会出现错误。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-65-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-65-1",
+      "optionId": "cet6:2014-12-03:q-65-1:C",
+      "sourceText": "Data cannot always do what we imagine it can.",
+      "sourceHash": "1e1bfc2a89a2b693de175d19fe659754aeb67ed1cfacded4a81805fc817a5c69",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-7-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Data cannot always do what we imagine it can.",
+      "translationEligible": true,
+      "translationZh": "数据并不总是像我们想象的那样。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:q-65-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-65-1",
+      "optionId": "cet6:2014-12-03:q-65-1:D",
+      "sourceText": "Some data may turn out to be outdated.",
+      "sourceHash": "9af0966cfb3cd6c9132b3fa86499837a7c2e9c3139769557807bec7c5166d88e",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-7-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Some data may turn out to be outdated.",
+      "translationEligible": true,
+      "translationZh": "有些数据可能已经过时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:A",
+      "sourceText": "abstract",
+      "sourceHash": "c59ddd3f7ba697a4b82003cd37637cd7fc3aac92cb9c6e4b308809dd9409e65c",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "abstract",
+      "translationEligible": true,
+      "translationZh": "摘要",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:B",
+      "sourceText": "completely.",
+      "sourceHash": "66c7442d0a1a3a94b90f834b87ba12fc9f1c391fe4ef0cac7308ed8e331ab8db",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "completely.",
+      "translationEligible": true,
+      "translationZh": "完全。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:C",
+      "sourceText": "deserted",
+      "sourceHash": "24b9d2a66c9c7cb864993e66ab5e7eef41ce3d2075fe14f0de5467f1058322c6",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "deserted",
+      "translationEligible": true,
+      "translationZh": "荒凉的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:D",
+      "sourceText": "duplication",
+      "sourceHash": "ec421c6d3decf7a4a9b6989c0f4d02f557dc5787165029131c4b77d1f79c0e63",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "duplication",
+      "translationEligible": true,
+      "translationZh": "重复",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:E",
+      "sourceText": "everything",
+      "sourceHash": "a0a44ed8cfc32b7e61befeb99bbff7706808c3fe4dcdf4750a8addb3ffcd4008",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "everything",
+      "translationEligible": true,
+      "translationZh": "一切",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:F",
+      "sourceText": "identical",
+      "sourceHash": "319e2ba078f51cfad133ae161e413fb38dcfdd3b5348907aa82d909f8d86d800",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "identical",
+      "translationEligible": true,
+      "translationZh": "相同的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:G",
+      "sourceText": "increasingly",
+      "sourceHash": "d759e5ec6eb705dd348400941218cca18053b36a9dc142a429a19de663be1e6a",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "increasingly",
+      "translationEligible": true,
+      "translationZh": "越来越多地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:H",
+      "sourceText": "miniature",
+      "sourceHash": "409664d46246de830632b4d1ad3be24c83ac3e5fcad859d0a3a05548680c650b",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "miniature",
+      "translationEligible": true,
+      "translationZh": "微型的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:I",
+      "sourceText": "Nothing",
+      "sourceHash": "67e1bca0889ba21ce995cb2e05f0a0f19aad003a39ddcd8a336eaadb9c8a1b4f",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "Nothing",
+      "translationEligible": true,
+      "translationZh": "什么都没有",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:J",
+      "sourceText": "ordinary",
+      "sourceHash": "03822375f2aca5e53d66838a3e803183e0c1a7921da8e4056d3341ea95777cd9",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "ordinary",
+      "translationEligible": true,
+      "translationZh": "普通的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:K",
+      "sourceText": "overturning",
+      "sourceHash": "ba431b9d32d1236abe877c9dd20a525d72ff3dfa03c9e76e9d8c01c93dd42acb",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "overturning",
+      "translationEligible": true,
+      "translationZh": "倾覆",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:L",
+      "sourceText": "separated",
+      "sourceHash": "f57a92d2eb7bc6c05d2d29d9b9d9ef9a27ea5292bdc8a9bc3051a2de1c46dd00",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "separated",
+      "translationEligible": true,
+      "translationZh": "分开",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:M",
+      "sourceText": "surrounding",
+      "sourceHash": "e4db4217a27336b45ca740f5c54b130dda62e863666a4a7c798a93840328fd78",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "surrounding",
+      "translationEligible": true,
+      "translationZh": "周围",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:N",
+      "sourceText": "systematically.",
+      "sourceHash": "4180e735bd115a54597c52a7f3d63425d2407f67d736f90d124c073e632c0fb4",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "systematically.",
+      "translationEligible": true,
+      "translationZh": "系统地。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2014-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2014-12-03",
+      "questionId": "cet6:2014-12-03:q-36-1",
+      "optionId": "cet6:2014-12-03:word-bank:O",
+      "sourceText": "tempting",
+      "sourceHash": "f77ec97ec2b702ed2e9d50727c5d1968b56f431080efdf245c4afa5f01f3d9eb",
+      "sourceBlockIds": [
+        "cet6:2014-12-03:b-2-9"
+      ],
+      "reflowBlockId": "cet6:2014-12-03:b-2-10",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "tempting",
+      "translationEligible": true,
+      "translationZh": "诱人的",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-1-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-7",
+      "classification": "included",
+      "reason": "mixed_language_instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-8",
+      "classification": "ineligible",
+      "reason": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-1-9",
+      "classification": "ineligible",
+      "reason": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-1",
+      "classification": "ineligible",
+      "reason": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-6",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2014-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-7",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2014-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-8",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2014-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-9",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2014-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-2-13"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-14",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-15",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-16",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-2-16"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-2-17",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-2-16"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-2-16"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-9",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-11",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-12",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-13",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-14",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-15",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-3-16",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-7",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2014-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2014-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-18",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-19",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-20",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-21",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-4-21"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-22",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-4-22"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-23",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-4-23"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-4-24",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-4-24"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-5-16",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-1",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2014-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-6-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-6-16"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-7-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2014-12-03:p:b-7-1"
+    },
+    {
+      "sourceBlockId": "cet6:2014-12-03:b-7-3",
+      "classification": "included",
+      "reason": "mixed_language_instruction",
+      "paragraphId": "cet6:2014-12-03:p:b-7-3"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 9,
+    "included": 74,
+    "ineligible": 7
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 1,
+    "instruction": 7,
+    "mixed_language_instruction": 2,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_continuation": 14,
+    "reading_choice_paragraph": 14,
+    "reading_prose": 16,
+    "section_label": 6,
+    "unresolved_cloze_or_source_mismatch": 4,
+    "unverified_listening_dictation": 3
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "general_prose": 2,
+    "instruction": 9,
+    "passage_option": 14,
+    "question_prompt": 20,
+    "reading": 16
+  },
+  "otherSourceBlockCounts": {
+    "figure": 1,
+    "options": 11
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-2-6",
+        "b-2-7",
+        "b-2-8",
+        "b-2-9"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-8",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    {
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-9",
+      "blankNumbers": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-4-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-5-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-6-9",
+      "removedFromTranslationInput": true
+    }
+  ]
+}

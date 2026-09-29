@@ -8,7 +8,78 @@ OPTION=re.compile(r'(?<![A-Za-z])(?:\[([A-O])\]|([A-O])[.．)）])\s*')
 QUESTION=re.compile(r'^\s*(\d{1,3})\s*[.．)）]\s*')
 HEADING=re.compile(r'^(?:Section\s+(?:[IVXⅠⅡⅢⅣⅤ]+|[A-Z])(?=\s|$|[:：])|Part\s+(?:[IVXⅠⅡⅢⅣⅤ]+|[A-Z])(?=\s|$|[:：])|Text\s+\d+|Passage\s+(?:[A-Z\d]+|One|Two|Three)|TEST FOR|TIME LIMIT|Conversation\s+(?:One|Two)|Questions?\s+\d+)',re.I)
 
+def bold_fraction(chars):
+    letters=[c for c in chars if c['c'].isalpha()]
+    return sum(bool(c.get('b')) for c in letters)/len(letters) if letters else 0
+
+def centered_bold_title(row,page):
+    """Recognize a printed reading title from its alignment and typeface."""
+    rect=row['rect'];text=row['text'].strip()
+    return (4<len(text)<120 and rect.width<page.rect.width*.8
+            and abs((rect.x0+rect.x1)/2-(page.rect.x0+page.rect.x1)/2)<page.rect.width*.08
+            and bold_fraction(row['chars'])>.75
+            and not QUESTION.match(text) and not text.lower().startswith('directions'))
+
+def option_matches(row,base):
+    """Keep genuine same-row choices while rejecting initials inside prose."""
+    candidates=list(OPTION.finditer(row['text']))
+    if not candidates:return []
+    accepted=[candidates[0]]
+    for candidate in candidates[1:]:
+        previous=accepted[-1]
+        label=candidate[1] or candidate[2]
+        previous_label=previous[1] or previous[2]
+        prior=next((c for c in reversed(row['chars'][:candidate.start()])
+                    if not c['c'].isspace() and 'x1' in c),None)
+        current=row['chars'][candidate.start()]
+        gap=current.get('x0',0)-prior['x1'] if prior and 'x0' in current else 0
+        mark=lambda match: ')' if ')' in match[0] or '）' in match[0] else '.'
+        has_value=bool(row['text'][previous.end():candidate.start()].strip())
+        same_style=has_value and mark(candidate)==mark(previous)
+        choice_sequence=(label in 'ABCD' and previous_label in 'ABCD'
+                         and ord(label)>ord(previous_label))
+        sequential=ord(label)==ord(previous_label)+1
+        if gap>base*1.15 or same_style and (choice_sequence or sequential):
+            accepted.append(candidate)
+    return accepted
+
 def plain(chars):return ''.join(c['c'] for c in chars)
+
+def continues_wrapped_line(previous, current, pending, base):
+    """A close lower-case/CJK line after unfinished prose is not a paragraph.
+
+    PDF line starts may be indented by their text-map bbox even when the
+    printed baseline continues the same paragraph.  Require the preceding
+    line to be unfinished and the baselines to have normal line spacing;
+    headings, numbered questions and option banks are handled separately.
+    """
+    if previous is None or not pending:
+        return False
+    prior = plain(pending).rstrip()
+    following = current['text'].lstrip()
+    if not prior or not following or re.search(r'[.!?。！？:：;；]\s*$', prior):
+        return False
+    if not 0 < current['y'] - previous['y'] <= base * 2.25:
+        return False
+    if not (re.match(r'[a-z]', following) or
+            '\u4e00' <= prior[-1] <= '\u9fff' and '\u4e00' <= following[0] <= '\u9fff'):
+        return False
+    return not (QUESTION.match(following) or HEADING.match(following))
+
+def glyphs_in_short_parentheses(chars):
+    """A damaged Chinese gloss can use an inline crop without hiding its English line."""
+    marked={i for i,c in enumerate(chars) if c.get('glyph_box')}
+    if not marked:return False
+    source=''.join(c.get('source_c',c['c']) for c in chars)
+    stack=[];covered=set()
+    for i,char in enumerate(source):
+        if char in '(（':stack.append(i)
+        elif char in ')）' and stack:
+            start=stack.pop()
+            if i-start<=35 and any(start<=j<=i for j in marked):
+                covered.update(range(start,i+1))
+    return marked<=covered
+
 def normalize(chars):
     out=[]
     for c in chars:
@@ -166,7 +237,7 @@ def figures(page,draws):
             result.append(rect)
     return result
 
-def extract(page,font_maps=None,unknown_glyphs=None):
+def extract(page,font_maps=None,unknown_glyphs=None,broad_source_blocks=True):
     font_maps=font_maps or {};under,draws=line_rects(page);figure_boxes=figures(page,draws)
     unknown={(round(g['origin'][0],3),round(g['origin'][1],3)):g for g in (unknown_glyphs or [])}
     entries=[];removed=[];uncertain=[];source_chars=[];figure_text=[]
@@ -185,7 +256,7 @@ def extract(page,font_maps=None,unknown_glyphs=None):
                     if any(ord(v)<32 and not v.isspace() or 0x80<=ord(v)<=0x9f or v=='\ufffd' for v in letter):uncertain.append({'text':letter,'font':s['font'],'bbox':list(rect)})
                     if chars and not is_unknown and letter[:1].isascii() and letter[:1].isalnum() and chars[-1]['c'].isascii() and not chars[-1]['c'].isspace() and rect.x0-chars[-1].get('x1',rect.x0)>space_gap:
                         chars.append({'c':' ','x1':rect.x0})
-                    chars.extend({'c':v,'b':bool(s['flags']&16),'i':bool(s['flags']&2),'u':u,'x0':rect.x0,'x1':rect.x1,**({'glyph_box':list(glyph_rect),'glyph_font_size':s['size'],'glyph_origin_y':c['origin'][1]} if is_unknown else {})} for v in letter)
+                    chars.extend({'c':v,'b':bool(s['flags']&16),'i':bool(s['flags']&2),'u':u,'x0':rect.x0,'x1':rect.x1,**({'glyph_box':list(glyph_rect),'glyph_font_size':s['size'],'glyph_origin_y':c['origin'][1],'source_c':c['c']} if is_unknown else {})} for v in letter)
             chars=normalize(chars);text=plain(chars)
             if not text:continue
             rect=fitz.Rect(line['bbox']);source_chars.append(text)
@@ -193,7 +264,9 @@ def extract(page,font_maps=None,unknown_glyphs=None):
                 removed.append(text);continue
             if any((rect & f).get_area()>.75*rect.get_area() for f in figure_boxes):figure_text.append(text);continue
             entries.append({'block_id':block_id,'chars':chars,'rect':rect,'y':statistics.median(s['origin'][1] for s in line['spans']),'size':max(s['size'] for s in line['spans'])})
-    unreliable_blocks={entry['block_id'] for entry in entries if any(c.get('glyph_box') for c in entry['chars'])}
+    unreliable_blocks=({entry['block_id'] for entry in entries
+                        if any(c.get('glyph_box') for c in entry['chars'])}
+                       if broad_source_blocks else set())
     rows=[]
     for line in sorted(entries,key=lambda x:(x['y'],x['rect'].x0)):
         if rows and abs(line['y']-rows[-1]['y'])<max(2,min(line['size'],rows[-1]['size'])*.27):
@@ -208,7 +281,7 @@ def extract(page,font_maps=None,unknown_glyphs=None):
     left=Counter(round(r['rect'].x0/3)*3 for r in rows if len(r['text'])>50).most_common(1)
     margin=left[0][0] if left else 0
     sizes=[r['size'] for r in rows];base=statistics.median(sizes) if sizes else 12
-    blocks=[];pending=[];prev=None;options=[];option_content_x=None
+    blocks=[];pending=[];pending_first=None;prev=None;question_row=None;options=[];option_content_x=None
     def flush_options():
         nonlocal options,option_content_x
         if options:
@@ -222,13 +295,28 @@ def extract(page,font_maps=None,unknown_glyphs=None):
                 blocks.append({'type':'options','items':[{'label':a,'runs':runs(cs)} for a,cs in sorted(options,key=lambda x:x[0])]})
             options=[];option_content_x=None
     def flush():
-        nonlocal pending
-        if pending:blocks.append({'type':'paragraph','runs':runs(pending)});pending=[]
+        nonlocal pending,pending_first
+        if pending:
+            continuation=plain(pending).lstrip()
+            prior=''.join(run['text'] for run in blocks[-1]['runs']) if blocks and blocks[-1]['type']=='question' else ''
+            wrapped=(question_row is not None and pending_first is not None and
+                     len(prior)>25 and not re.search(r'[.!?。！？:：;；]\s*$',prior) and
+                     bool(re.match(r'[a-z]',continuation)) and
+                     not re.search(r'\b[1-5]\s+[0-9]\s*[.．]',continuation) and
+                     not re.search(r'\b(?:Section\s+[A-C]\b|Directions:)',continuation) and
+                     0<pending_first['y']-question_row['y']<=base*2.1 and
+                     -base*4<=pending_first['rect'].x0-question_row['rect'].x0<=base*4)
+            if wrapped:
+                if not prior.endswith('-'):blocks[-1]['runs'].append({'text':' ','flags':(False,False,False)})
+                blocks[-1]['runs'].extend(runs(pending))
+            else:blocks.append({'type':'paragraph','runs':runs(pending)})
+            pending=[];pending_first=None
     events=sorted([(r['rect'].y0,'row',r) for r in rows]+[(r.y0,'figure',r) for r in figure_boxes],key=lambda x:x[0])
     for y,kind,row in events:
         if kind=='figure':flush();flush_options();blocks.append({'type':'figure','bbox':list(row)});prev=None;continue
         text=row['text'];cs=row['chars']
-        if any(part['block_id'] in unreliable_blocks for part in row['parts']):
+        if (any(part['block_id'] in unreliable_blocks for part in row['parts'])
+                or any(c.get('glyph_box') for c in cs) and not glyphs_in_short_parentheses(cs)):
             flush();flush_options();blocks.append({'type':'source_line','bbox':list((row['rect']+(-1,-1,1,1))&page.rect),'font_size':row['size'],'runs':runs(cs)});prev=None;continue
         caption_prefix=re.match(r'^\s*(?:Directions\b|Part\s*[ⅠⅡⅢⅣⅤIVX0-9]|Section\b|注意|注[：:])',text,re.I)
         is_caption=(len(plain(pending))<70 and not options and blocks and blocks[-1]['type'] in ('figure','caption')
@@ -236,7 +324,7 @@ def extract(page,font_maps=None,unknown_glyphs=None):
             and len(text)<180 and not QUESTION.match(text) and not HEADING.match(text) and not caption_prefix)
         if is_caption:
             flush();flush_options();blocks.append({'type':'caption','runs':runs(cs)});prev=None;continue
-        q=QUESTION.match(text);matches=list(OPTION.finditer(text))
+        q=QUESTION.match(text);matches=option_matches(row,base)
         # A question/option label must be at the row start, not A/B/C in prose.
         valid_options=bool(matches and (matches[0].start()==0 or q and matches[0].start()<=q.end()+2))
         # A wrapped enumeration in prose (A, B, C or / D.) is not an answer bank.
@@ -268,18 +356,21 @@ def extract(page,font_maps=None,unknown_glyphs=None):
                 ):item_chars.append({'c':' '})
                 item_chars.extend(cs);prev=row;continue
             flush_options()
-        heading=bool(HEADING.match(text) or row['size']>base*1.28 or len(text)<90 and text.rstrip(':：').lower()=='directions')
+        heading=bool(HEADING.match(text) or centered_bold_title(row,page)
+                     or row['size']>base*1.28 and (bold_fraction(cs)>.5 or q)
+                     or len(text)<90 and text.rstrip(':：').lower()=='directions')
         if heading:
             flush();blocks.append({'type':'heading' if not text.lower().startswith('questions') else 'instruction','runs':runs(cs)});prev=None;continue
         if q:
-            flush();blocks.append({'type':'question','runs':runs(cs)});prev=row;continue
+            flush();blocks.append({'type':'question','runs':runs(cs)});question_row=row;prev=row;continue
         new=(prev is None or row['y']-prev['y']>base*2.25
              or margin+base*.9<row['rect'].x0<margin+base*5
              or prev is not None and base*.85<row['rect'].x0-prev['rect'].x0<base*5)
-        if new:flush()
+        if new and not continues_wrapped_line(prev,row,pending,base):flush()
         if pending:
             before=plain(pending)[-1:];after=text[:1]
             if before!='-' and not ('\u4e00'<=before<='\u9fff' and '\u4e00'<=after<='\u9fff'):pending.append({'c':' '})
+        if not pending:pending_first=row
         pending.extend(cs);prev=row
     flush();flush_options()
     consolidated=[]

@@ -31,7 +31,8 @@ class EnglishTailChoiceTriageTests(unittest.TestCase):
                 "B) More people driving safely.", "D_) More self-driving trucks on the road.")),
             ("cet6", "2018-06-02", 8, ("53. What does the author say about the value",
                 "E) It is underestimated by profit-seeking employers.")),
-            ("cet6", "2015-12-01", 7, ("56. Reflect on the responsibilities",
+            ("cet6", "2015-12-01", 7, ("What do some most influential medical groups recommend doctors do?",
+                "56. Reflect on the responsibilities",
                 "C)\nReadjust their practice")),
             ("cet6", "2014-12-01", 7, ("61. What was the University of Kent famous for?",
                 "C) Its distinguished teaching staff.", "C) Its up-to-date course offerings.")),
@@ -76,18 +77,26 @@ class EnglishTailChoiceTriageTests(unittest.TestCase):
         blocks = paper("cet6", "2015-12-01")["pages"][6]["blocks"]
         index = next(i for i, block in enumerate(blocks) if block["type"] == "question" and
                      run_text(block).startswith("56."))
-        self.assertEqual([item["label"] for item in blocks[index + 1]["items"]], list("ABC"))
+        self.assertEqual(run_text(blocks[index]),
+                         "56. What do some most influential medical groups recommend doctors do?")
+        self.assertEqual([item["label"] for item in blocks[index + 1]["items"]], list("ABCD"))
+        self.assertEqual([item.get("source_label") for item in blocks[index + 1]["items"]],
+                         ["56.", "A)", "B)", "C)"])
+        self.assertEqual(run_text(blocks[index + 1]["items"][0]),
+                         "Reflect on the responsibilities they are supposed to take.")
 
-    def test_q61_and_q45_have_printed_line_boundaries_without_invented_options(self):
+    def test_q61_and_q45_preserve_printed_text_and_section_boundary(self):
         blocks = paper("cet4", "2014-12-01")["pages"][6]["blocks"]
         index = next(i for i, block in enumerate(blocks) if block["type"] == "question" and
                      run_text(block).startswith("61."))
-        self.assertEqual([item["label"] for item in blocks[index + 1]["items"]], list("ABC"))
+        self.assertEqual([item["label"] for item in blocks[index + 1]["items"]], list("ABCD"))
         self.assertEqual(run_text(blocks[index + 1]["items"][2]),
                          "are fearful about using the cellphone or computer")
-        self.assertEqual(blocks[index + 2]["type"], "paragraph")
-        self.assertEqual(run_text(blocks[index + 2]),
-                         "AD) can hardly tear themselves away from the Internet")
+        self.assertEqual(blocks[index + 1]["items"][3]["source_label"], "AD)")
+        self.assertEqual(run_text(blocks[index + 1]["items"][3]),
+                         "can hardly tear themselves away from the Internet")
+        self.assertEqual(blocks[index + 2]["type"], "question")
+        self.assertTrue(run_text(blocks[index + 2]).startswith("62."))
 
         blocks = paper("cet4", "2018-06-01")["pages"][6]["blocks"]
         index = next(i for i, block in enumerate(blocks) if block["type"] == "question" and
@@ -122,12 +131,19 @@ class EnglishTailChoiceTriageTests(unittest.TestCase):
                          ["A.", "B.", "C.", "D."])
         self.assertEqual([o["label"] for o in question("cet6:2018-06-02", 53, 8, 1)["options"]],
                          ["B.", "C.", "D.", "E."])
-        self.assertEqual([o["label"] for o in question("cet6:2015-12-01", 56, 7)["options"]],
-                         ["A.", "B.", "C."])
+        cet6_q56 = question("cet6:2015-12-01", 56, 7)
+        self.assertEqual([o["label"] for o in cet6_q56["options"]],
+                         ["A.", "B.", "C.", "D."])
+        self.assertEqual([o["sourceLabel"] for o in cet6_q56["options"]],
+                         ["56.", "A)", "B)", "C)"])
+        self.assertEqual(cet6_q56["status"], "partial")
         self.assertEqual([o["label"] for o in question("cet6:2014-12-01", 61, 7)["options"]],
                          ["A.", "C.", "C.", "D."])
-        self.assertEqual([o["label"] for o in question("cet4:2014-12-01", 61, 7)["options"]],
-                         ["A.", "B.", "C."])
+        cet4_q61 = question("cet4:2014-12-01", 61, 7)
+        self.assertEqual([o["label"] for o in cet4_q61["options"]],
+                         ["A.", "B.", "C.", "D."])
+        self.assertEqual(cet4_q61["options"][3]["sourceLabel"], "AD)")
+        self.assertEqual(cet4_q61["status"], "partial")
         self.assertEqual(question("cet4:2018-06-01", 45, 7)["options"], [])
         writing = question("kaoyan:2000-01", 36, 13)
         self.assertEqual(writing["sectionKind"], "free_response")

@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2022 年12 月大学英语六级考试真题（第2 套）",
@@ -3030,7 +3030,7 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Fear of Nature: An Emerging Threat to Conservation",
@@ -3474,12 +3474,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "diminished.",
               "flags": [

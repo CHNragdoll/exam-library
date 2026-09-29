@@ -2833,7 +2833,7 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "No one in fashion is surprised that Burberry burnt £28 million of stock",
@@ -2878,7 +2878,15 @@
               ]
             },
             {
-              "text": "( jf- /- ) . \" She stated she had heard rumors of stock burning but not specific cases until this week.",
+              "text": "(资产)",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
+            {
+              "text": " . \" She stated she had heard rumors of stock burning but not specific cases until this week.",
               "flags": [
                 false,
                 false,
@@ -3017,7 +3025,7 @@
               ]
             },
             {
-              "text": "( ",
+              "text": "(炒作)",
               "flags": [
                 false,
                 false,
@@ -3025,15 +3033,7 @@
               ]
             },
             {
-              "text": ";1:j,- 11 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ") slows across the season. In February they made adjustments to the format, dropping some catwalk items immediately and promising that others would launch in the coming months.",
+              "text": " slows across the season. In February they made adjustments to the format, dropping some catwalk items immediately and promising that others would launch in the coming months.",
               "flags": [
                 false,
                 false,
@@ -3100,7 +3100,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "latest figures. Fifteen years ago, Burberry was at crisis point as their signature check",
+              "text": "latest figures. Fifteen years ago, Burberry was at crisis point as their signature check pattern was widely imitated by cheap, imitation brands. It deterred luxury consumers who found their expensive clothing more closely associated with working-class youth culture than a prestigious heritage fashion house. In the year 2004, at the height of over-exposure of the Burberry check, the brand's turnover was £715.5 million.",
               "flags": [
                 false,
                 false,
@@ -3114,72 +3114,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "pattern was widely imitated by cheap, imitation brands. It deterred luxury consumers",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "who found their expensive clothing more closely associated with working-class youth",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "culture than a prestigious heritage fashion house. In the year 2004, at the height",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "of over-exposure of the Burberry check, the brand's turnover was £715.5 million.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Under Christopher Bailey as creative director they turned the brand around and this past",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "year revenue hit £2.73 billion.",
+              "text": "Under Christopher Bailey as creative director they turned the brand around and this past year revenue hit £2.73 billion.",
               "flags": [
                 false,
                 false,
@@ -3211,12 +3146,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "products to miscalculated production.",
               "flags": [
@@ -3237,12 +3175,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "them.",
               "flags": [
@@ -3263,12 +3204,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "products.",
               "flags": [
@@ -3289,12 +3233,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "not allowed to resell them.",
               "flags": [
@@ -3315,12 +3262,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "changing concepts of luxury.",
               "flags": [
@@ -3341,12 +3291,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "destruction of unsold products.",
               "flags": [
@@ -3367,12 +3320,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "fashion brands.",
               "flags": [
@@ -3406,12 +3362,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "indignation.",
               "flags": [
@@ -3432,12 +3391,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "consumers see it on the fashion show did not tum out to be as effective as expected.",
               "flags": [
@@ -3892,12 +3854,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "unnecessary risks?",
               "flags": [
@@ -4081,7 +4046,7 @@
               ]
             },
             {
-              "text": "( .:II:- # .£ ffil ",
+              "text": "(非转基因的)",
               "flags": [
                 false,
                 false,
@@ -4089,15 +4054,7 @@
               ]
             },
             {
-              "text": "a{i ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ") ' or 'no sugar,' or 'zero carbohydrates', consumers are increasingly demanding more information about what's in their food. One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information. Food manufacturers are responding to the report with new labels to meet that demand, and they 're doing so with an eye towards giving their products an advantage over the competition, and bolstering profits.",
+              "text": " ' or 'no sugar,' or 'zero carbohydrates', consumers are increasingly demanding more information about what's in their food. One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information. Food manufacturers are responding to the report with new labels to meet that demand, and they 're doing so with an eye towards giving their products an advantage over the competition, and bolstering profits.",
               "flags": [
                 false,
                 false,
@@ -4674,182 +4631,10 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
-              "text": "tOOA?~ J-~½OO~*k½½hl~r~~*~$ 76 ½, ¼-~~~~~~Aft~ ,",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "J!r1920ij:-;;fko 192147 ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "JJ ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "23 El, tOOA?~J- ,k½001\\*k½-tf.i1:t,g-ff-, k½ifil..i:t.T",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "tOOA?~~--+~~~- -+~~. ~~?±Tt~~*~ ¼, ~½TtOOA?~ ~ M",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "± o 1%2 4 9Jl, tA-k½hl*1, Jt~~~~*~~-ff-~o~~~~T¼m• ~-k~",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "1\\ iZ -Z. ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ">'r ' .i£ ¼ tg ~ 6{; ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": ")3j k ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~ ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "Jl ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ".iztA1-, Jt ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "e., ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "n'U9 ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "T M ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~ ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "k' ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "riidf ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "$ ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~ 7t f,il_ ~ ~ 00 _i. :,(_ ;;ft if £ J~ 0",
+              "text": "中国共产党第一次全国代表大会会址位于上海兴业路76号，是一栋典型的上海式住宅，建于1920年秋。1921年7月23日，中国共产党第一次全国代表大会在此召开，大会通过了中国共产党的第一个纲领和第一个决议，选举产生了中央领导机构，宣告了中国共产党的诞生。1952年9月，中共一大会址修复，建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外，还介绍党的历史发展进程，现已成为了解党史，缅怀革命先烈的爱国主义教育基地。",
               "flags": [
                 false,
                 false,

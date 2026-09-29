@@ -1,0 +1,6423 @@
+{
+  "schema": "english-paragraph-manifest.v1",
+  "source": "data/sources/english-exams-reflow-latex/manifest.json",
+  "papers": [
+    {
+      "paperId": "cet4:2014-06-01",
+      "path": "translations/cet4/2014-06-01.json",
+      "paragraphs": 67,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 150,
+        "reason:translate_verified_spacing": 5
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2014-06-02",
+      "path": "translations/cet4/2014-06-02.json",
+      "paragraphs": 70,
+      "options": 147,
+      "optionReconciliation": {
+        "eligible": 147,
+        "reason:translate": 147
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 68,
+        "ineligible": 3
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2014-06-03",
+      "path": "translations/cet4/2014-06-03.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 75
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2014-12-01",
+      "path": "translations/cet4/2014-12-01.json",
+      "paragraphs": 69,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 68,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2014-12-02",
+      "path": "translations/cet4/2014-12-02.json",
+      "paragraphs": 76,
+      "options": 143,
+      "optionReconciliation": {
+        "eligible": 143,
+        "reason:translate": 143
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 75,
+        "ineligible": 2
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2014-12-03",
+      "path": "translations/cet4/2014-12-03.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 66,
+        "ineligible": 6
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet4:2015-06-01",
+      "path": "translations/cet4/2015-06-01.json",
+      "paragraphs": 69,
+      "options": 139,
+      "optionReconciliation": {
+        "eligible": 139,
+        "reason:translate": 139
+      },
+      "reconciliation": {
+        "excluded": 241,
+        "included": 66,
+        "ineligible": 3
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "path": "translations/cet4/2015-06-02.json",
+      "paragraphs": 73,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 69,
+        "ineligible": 6
+      },
+      "issues": 5
+    },
+    {
+      "paperId": "cet4:2015-06-03",
+      "path": "translations/cet4/2015-06-03.json",
+      "paragraphs": 79,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 46,
+        "included": 74,
+        "ineligible": 5
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "path": "translations/cet4/2015-12-01.json",
+      "paragraphs": 75,
+      "options": 151,
+      "optionReconciliation": {
+        "eligible": 151,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 69,
+        "ineligible": 8
+      },
+      "issues": 5
+    },
+    {
+      "paperId": "cet4:2015-12-02",
+      "path": "translations/cet4/2015-12-02.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 67,
+        "ineligible": 7
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet4:2015-12-03",
+      "path": "translations/cet4/2015-12-03.json",
+      "paragraphs": 66,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 76,
+        "ineligible": 3
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2016-06-01",
+      "path": "translations/cet4/2016-06-01.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 86
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2016-06-02",
+      "path": "translations/cet4/2016-06-02.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 42,
+        "included": 78
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2016-06-03",
+      "path": "translations/cet4/2016-06-03.json",
+      "paragraphs": 56,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 9,
+        "included": 70
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2016-12-01",
+      "path": "translations/cet4/2016-12-01.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 86
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2016-12-02",
+      "path": "translations/cet4/2016-12-02.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 79
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2016-12-03",
+      "path": "translations/cet4/2016-12-03.json",
+      "paragraphs": 56,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 10,
+        "included": 67
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2017-06-01",
+      "path": "translations/cet4/2017-06-01.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 45,
+        "included": 91
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "path": "translations/cet4/2017-06-02.json",
+      "paragraphs": 64,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 151,
+        "ineligible": 4,
+        "reason:no_english_option_text": 4,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 44,
+        "included": 75,
+        "ineligible": 1
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet4:2017-06-03",
+      "path": "translations/cet4/2017-06-03.json",
+      "paragraphs": 69,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 84
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet4:2017-12-01",
+      "path": "translations/cet4/2017-12-01.json",
+      "paragraphs": 64,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 76
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2017-12-02",
+      "path": "translations/cet4/2017-12-02.json",
+      "paragraphs": 69,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 81
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2017-12-03",
+      "path": "translations/cet4/2017-12-03.json",
+      "paragraphs": 62,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 72,
+        "ineligible": 3
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2018-06-01",
+      "path": "translations/cet4/2018-06-01.json",
+      "paragraphs": 74,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 45,
+        "included": 73,
+        "ineligible": 1
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2018-06-02",
+      "path": "translations/cet4/2018-06-02.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 47,
+        "included": 83,
+        "ineligible": 1
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2018-06-03",
+      "path": "translations/cet4/2018-06-03.json",
+      "paragraphs": 55,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 26,
+        "included": 60
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2018-12-01",
+      "path": "translations/cet4/2018-12-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 79
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2018-12-02",
+      "path": "translations/cet4/2018-12-02.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 81,
+        "ineligible": 3
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2018-12-03",
+      "path": "translations/cet4/2018-12-03.json",
+      "paragraphs": 58,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 71
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2019-06-01",
+      "path": "translations/cet4/2019-06-01.json",
+      "paragraphs": 71,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 72
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2019-06-02",
+      "path": "translations/cet4/2019-06-02.json",
+      "paragraphs": 65,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 32,
+        "included": 67
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2019-06-03",
+      "path": "translations/cet4/2019-06-03.json",
+      "paragraphs": 60,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 11,
+        "included": 62
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "path": "translations/cet4/2020-07-01.json",
+      "paragraphs": 73,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 60,
+        "ineligible": 15
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet4:2020-09-01",
+      "path": "translations/cet4/2020-09-01.json",
+      "paragraphs": 73,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 32,
+        "included": 67,
+        "ineligible": 7
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2020-09-02",
+      "path": "translations/cet4/2020-09-02.json",
+      "paragraphs": 56,
+      "options": 54,
+      "optionReconciliation": {
+        "eligible": 54,
+        "reason:translate": 53,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 52,
+        "ineligible": 5
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "path": "translations/cet4/2020-12-01.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 58,
+        "ineligible": 14
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet4:2020-12-02",
+      "path": "translations/cet4/2020-12-02.json",
+      "paragraphs": 79,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 75,
+        "ineligible": 9
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet4:2020-12-03",
+      "path": "translations/cet4/2020-12-03.json",
+      "paragraphs": 67,
+      "options": 40,
+      "optionReconciliation": {
+        "eligible": 40,
+        "reason:translate": 40
+      },
+      "reconciliation": {
+        "excluded": 8,
+        "included": 62,
+        "ineligible": 8
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet4:2021-06-01",
+      "path": "translations/cet4/2021-06-01.json",
+      "paragraphs": 74,
+      "options": 136,
+      "optionReconciliation": {
+        "eligible": 136,
+        "reason:translate": 136
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2021-06-02",
+      "path": "translations/cet4/2021-06-02.json",
+      "paragraphs": 78,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 73,
+        "ineligible": 7
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2021-06-03",
+      "path": "translations/cet4/2021-06-03.json",
+      "paragraphs": 58,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 54,
+        "ineligible": 11
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet4:2021-12-01",
+      "path": "translations/cet4/2021-12-01.json",
+      "paragraphs": 73,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 73,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2021-12-02",
+      "path": "translations/cet4/2021-12-02.json",
+      "paragraphs": 105,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 86,
+        "ineligible": 19
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2021-12-03",
+      "path": "translations/cet4/2021-12-03.json",
+      "paragraphs": 95,
+      "options": 53,
+      "optionReconciliation": {
+        "eligible": 53,
+        "reason:translate": 52,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 14,
+        "included": 90,
+        "ineligible": 8
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2022-06-01",
+      "path": "translations/cet4/2022-06-01.json",
+      "paragraphs": 74,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 2
+      },
+      "reconciliation": {
+        "excluded": 40,
+        "included": 71,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2022-06-02",
+      "path": "translations/cet4/2022-06-02.json",
+      "paragraphs": 56,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 15,
+        "included": 54,
+        "ineligible": 5
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2022-06-03",
+      "path": "translations/cet4/2022-06-03.json",
+      "paragraphs": 2,
+      "options": 0,
+      "optionReconciliation": {},
+      "reconciliation": {
+        "excluded": 5,
+        "included": 2
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2022-12-01",
+      "path": "translations/cet4/2022-12-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2022-12-02",
+      "path": "translations/cet4/2022-12-02.json",
+      "paragraphs": 65,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 66
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2022-12-03",
+      "path": "translations/cet4/2022-12-03.json",
+      "paragraphs": 60,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 14,
+        "included": 63
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-06-01",
+      "path": "translations/cet4/2023-06-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-06-02",
+      "path": "translations/cet4/2023-06-02.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-06-03",
+      "path": "translations/cet4/2023-06-03.json",
+      "paragraphs": 58,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 59
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-12-01",
+      "path": "translations/cet4/2023-12-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 69
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-12-02",
+      "path": "translations/cet4/2023-12-02.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 69
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2023-12-03",
+      "path": "translations/cet4/2023-12-03.json",
+      "paragraphs": 59,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 60
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2024-06-01",
+      "path": "translations/cet4/2024-06-01.json",
+      "paragraphs": 65,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 66
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2024-06-02",
+      "path": "translations/cet4/2024-06-02.json",
+      "paragraphs": 66,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 67
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2024-06-03",
+      "path": "translations/cet4/2024-06-03.json",
+      "paragraphs": 53,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 54
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2024-12-01",
+      "path": "translations/cet4/2024-12-01.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 74
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2024-12-02",
+      "path": "translations/cet4/2024-12-02.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 69,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet4:2024-12-03",
+      "path": "translations/cet4/2024-12-03.json",
+      "paragraphs": 62,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 62
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-06-01",
+      "path": "translations/cet4/2025-06-01.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-06-02",
+      "path": "translations/cet4/2025-06-02.json",
+      "paragraphs": 64,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 65
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-06-03",
+      "path": "translations/cet4/2025-06-03.json",
+      "paragraphs": 59,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 60
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-12-01",
+      "path": "translations/cet4/2025-12-01.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-12-02",
+      "path": "translations/cet4/2025-12-02.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2025-12-03",
+      "path": "translations/cet4/2025-12-03.json",
+      "paragraphs": 61,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 61
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2026-06-02",
+      "path": "translations/cet4/2026-06-02.json",
+      "paragraphs": 71,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 71
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet4:2026-06-03",
+      "path": "translations/cet4/2026-06-03.json",
+      "paragraphs": 57,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 57
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "path": "translations/cet6/2012-06-01.json",
+      "paragraphs": 102,
+      "options": 248,
+      "optionReconciliation": {
+        "eligible": 248,
+        "reason:translate": 248
+      },
+      "reconciliation": {
+        "excluded": 388,
+        "included": 100,
+        "ineligible": 9
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2012-12-01",
+      "path": "translations/cet6/2012-12-01.json",
+      "paragraphs": 116,
+      "options": 176,
+      "optionReconciliation": {
+        "eligible": 176,
+        "reason:translate": 176
+      },
+      "reconciliation": {
+        "excluded": 333,
+        "included": 113,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "path": "translations/cet6/2012-12-02.json",
+      "paragraphs": 79,
+      "options": 248,
+      "optionReconciliation": {
+        "eligible": 248,
+        "reason:translate": 248
+      },
+      "reconciliation": {
+        "excluded": 327,
+        "included": 76,
+        "ineligible": 8
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2012-12-03",
+      "path": "translations/cet6/2012-12-03.json",
+      "paragraphs": 62,
+      "options": 248,
+      "optionReconciliation": {
+        "eligible": 248,
+        "reason:translate": 248
+      },
+      "reconciliation": {
+        "excluded": 329,
+        "included": 61,
+        "ineligible": 2
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet6:2013-06-01",
+      "path": "translations/cet6/2013-06-01.json",
+      "paragraphs": 80,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 48,
+        "included": 73,
+        "ineligible": 7
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet6:2013-06-02",
+      "path": "translations/cet6/2013-06-02.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 49,
+        "included": 66,
+        "ineligible": 6
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet6:2013-12-01",
+      "path": "translations/cet6/2013-12-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 47,
+        "included": 63,
+        "ineligible": 5
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet6:2013-12-02",
+      "path": "translations/cet6/2013-12-02.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 72,
+        "ineligible": 2
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2013-12-03",
+      "path": "translations/cet6/2013-12-03.json",
+      "paragraphs": 61,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 17,
+        "included": 58,
+        "ineligible": 3
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "path": "translations/cet6/2014-06-01.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 41,
+        "included": 71,
+        "ineligible": 8
+      },
+      "issues": 9
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "path": "translations/cet6/2014-06-02.json",
+      "paragraphs": 71,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 42,
+        "included": 67,
+        "ineligible": 6
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "path": "translations/cet6/2014-06-03.json",
+      "paragraphs": 75,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 69,
+        "ineligible": 7
+      },
+      "issues": 5
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "path": "translations/cet6/2014-12-01.json",
+      "paragraphs": 77,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 150,
+        "ineligible": 5,
+        "reason:covered_by_paragraph": 1,
+        "reason:no_english_option_text": 4,
+        "reason:translate": 150
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 70,
+        "ineligible": 8
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "path": "translations/cet6/2014-12-02.json",
+      "paragraphs": 75,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 45,
+        "included": 67,
+        "ineligible": 8
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "path": "translations/cet6/2014-12-03.json",
+      "paragraphs": 65,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 9,
+        "included": 74,
+        "ineligible": 7
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "path": "translations/cet6/2015-06-01.json",
+      "paragraphs": 70,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 43,
+        "included": 66,
+        "ineligible": 6
+      },
+      "issues": 9
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "path": "translations/cet6/2015-06-02.json",
+      "paragraphs": 74,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 72,
+        "ineligible": 9
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "path": "translations/cet6/2015-06-03.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 151,
+        "ineligible": 4,
+        "reason:no_english_option_text": 4,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 44,
+        "included": 66,
+        "ineligible": 6
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "path": "translations/cet6/2015-12-01.json",
+      "paragraphs": 85,
+      "options": 151,
+      "optionReconciliation": {
+        "eligible": 151,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 42,
+        "included": 80,
+        "ineligible": 8
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "path": "translations/cet6/2015-12-02.json",
+      "paragraphs": 71,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 42,
+        "included": 65,
+        "ineligible": 9
+      },
+      "issues": 9
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "path": "translations/cet6/2015-12-03.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 48,
+        "included": 72,
+        "ineligible": 4
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2016-06-01",
+      "path": "translations/cet6/2016-06-01.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 86
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2016-06-02",
+      "path": "translations/cet6/2016-06-02.json",
+      "paragraphs": 72,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 88,
+        "ineligible": 4
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2016-06-03",
+      "path": "translations/cet6/2016-06-03.json",
+      "paragraphs": 75,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 40,
+        "included": 89
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2016-12-01",
+      "path": "translations/cet6/2016-12-01.json",
+      "paragraphs": 74,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 88
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2016-12-02",
+      "path": "translations/cet6/2016-12-02.json",
+      "paragraphs": 67,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 84
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2016-12-03",
+      "path": "translations/cet6/2016-12-03.json",
+      "paragraphs": 60,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 11,
+        "included": 70,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "path": "translations/cet6/2017-06-01.json",
+      "paragraphs": 69,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 151,
+        "ineligible": 4,
+        "reason:no_english_option_text": 4,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 41,
+        "included": 87
+      },
+      "issues": 6
+    },
+    {
+      "paperId": "cet6:2017-06-02",
+      "path": "translations/cet6/2017-06-02.json",
+      "paragraphs": 69,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 85
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2017-06-03",
+      "path": "translations/cet6/2017-06-03.json",
+      "paragraphs": 62,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 16,
+        "included": 77
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2017-12-01",
+      "path": "translations/cet6/2017-12-01.json",
+      "paragraphs": 70,
+      "options": 151,
+      "optionReconciliation": {
+        "eligible": 151,
+        "reason:translate": 151
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 78
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2017-12-02",
+      "path": "translations/cet6/2017-12-02.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 85,
+        "ineligible": 6
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet6:2017-12-03",
+      "path": "translations/cet6/2017-12-03.json",
+      "paragraphs": 60,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 78
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2018-06-01",
+      "path": "translations/cet6/2018-06-01.json",
+      "paragraphs": 68,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 152,
+        "ineligible": 3,
+        "reason:no_english_option_text": 3,
+        "reason:translate": 152
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 81
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2018-06-02",
+      "path": "translations/cet6/2018-06-02.json",
+      "paragraphs": 75,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 46,
+        "included": 70,
+        "ineligible": 6
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet6:2018-06-03",
+      "path": "translations/cet6/2018-06-03.json",
+      "paragraphs": 64,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 17,
+        "included": 61,
+        "ineligible": 5
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet6:2018-12-01",
+      "path": "translations/cet6/2018-12-01.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 89
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2018-12-02",
+      "path": "translations/cet6/2018-12-02.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 88,
+        "ineligible": 5
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2018-12-03",
+      "path": "translations/cet6/2018-12-03.json",
+      "paragraphs": 65,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 74,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2019-06-01",
+      "path": "translations/cet6/2019-06-01.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 77
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2019-06-02",
+      "path": "translations/cet6/2019-06-02.json",
+      "paragraphs": 73,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2019-06-03",
+      "path": "translations/cet6/2019-06-03.json",
+      "paragraphs": 58,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 59
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2019-12-01",
+      "path": "translations/cet6/2019-12-01.json",
+      "paragraphs": 74,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 48,
+        "included": 68,
+        "ineligible": 7
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet6:2019-12-02",
+      "path": "translations/cet6/2019-12-02.json",
+      "paragraphs": 78,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 47,
+        "included": 70,
+        "ineligible": 8
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "path": "translations/cet6/2019-12-03.json",
+      "paragraphs": 63,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 52,
+        "ineligible": 11
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "path": "translations/cet6/2020-07-01.json",
+      "paragraphs": 75,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 63,
+        "ineligible": 33
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2020-09-01",
+      "path": "translations/cet6/2020-09-01.json",
+      "paragraphs": 84,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 51,
+        "included": 76,
+        "ineligible": 9
+      },
+      "issues": 3
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "path": "translations/cet6/2020-09-02.json",
+      "paragraphs": 75,
+      "options": 40,
+      "optionReconciliation": {
+        "eligible": 40,
+        "reason:translate": 40
+      },
+      "reconciliation": {
+        "excluded": 16,
+        "included": 60,
+        "ineligible": 18
+      },
+      "issues": 8
+    },
+    {
+      "paperId": "cet6:2020-12-01",
+      "path": "translations/cet6/2020-12-01.json",
+      "paragraphs": 71,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "path": "translations/cet6/2020-12-02.json",
+      "paragraphs": 73,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 61,
+        "ineligible": 18
+      },
+      "issues": 9
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "path": "translations/cet6/2020-12-03.json",
+      "paragraphs": 68,
+      "options": 40,
+      "optionReconciliation": {
+        "eligible": 40,
+        "reason:translate": 40
+      },
+      "reconciliation": {
+        "excluded": 8,
+        "included": 64,
+        "ineligible": 10
+      },
+      "issues": 5
+    },
+    {
+      "paperId": "cet6:2021-06-01",
+      "path": "translations/cet6/2021-06-01.json",
+      "paragraphs": 65,
+      "options": 150,
+      "optionReconciliation": {
+        "eligible": 150,
+        "reason:translate": 148,
+        "reason:translate_pdf_verified": 2
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 61,
+        "ineligible": 7
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "cet6:2021-06-02",
+      "path": "translations/cet6/2021-06-02.json",
+      "paragraphs": 62,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 57,
+        "ineligible": 9
+      },
+      "issues": 4
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "path": "translations/cet6/2021-06-03.json",
+      "paragraphs": 60,
+      "options": 54,
+      "optionReconciliation": {
+        "eligible": 54,
+        "reason:translate": 53,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 10,
+        "included": 50,
+        "ineligible": 12
+      },
+      "issues": 7
+    },
+    {
+      "paperId": "cet6:2021-12-01",
+      "path": "translations/cet6/2021-12-01.json",
+      "paragraphs": 69,
+      "options": 140,
+      "optionReconciliation": {
+        "eligible": 140,
+        "reason:translate": 140
+      },
+      "reconciliation": {
+        "excluded": 34,
+        "included": 71,
+        "ineligible": 2
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2021-12-02",
+      "path": "translations/cet6/2021-12-02.json",
+      "paragraphs": 71,
+      "options": 154,
+      "optionReconciliation": {
+        "eligible": 154,
+        "reason:translate": 153,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 69,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2021-12-03",
+      "path": "translations/cet6/2021-12-03.json",
+      "paragraphs": 62,
+      "options": 40,
+      "optionReconciliation": {
+        "eligible": 40,
+        "reason:translate": 40
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 66
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2022-06-01",
+      "path": "translations/cet6/2022-06-01.json",
+      "paragraphs": 71,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 68,
+        "ineligible": 7
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2022-06-02",
+      "path": "translations/cet6/2022-06-02.json",
+      "paragraphs": 57,
+      "options": 54,
+      "optionReconciliation": {
+        "eligible": 54,
+        "reason:translate": 53,
+        "reason:translate_pdf_verified": 1
+      },
+      "reconciliation": {
+        "excluded": 13,
+        "included": 53,
+        "ineligible": 7
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2022-06-03",
+      "path": "translations/cet6/2022-06-03.json",
+      "paragraphs": 2,
+      "options": 0,
+      "optionReconciliation": {},
+      "reconciliation": {
+        "excluded": 6,
+        "included": 2
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2022-12-01",
+      "path": "translations/cet6/2022-12-01.json",
+      "paragraphs": 66,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 41,
+        "included": 68
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2022-12-02",
+      "path": "translations/cet6/2022-12-02.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2022-12-03",
+      "path": "translations/cet6/2022-12-03.json",
+      "paragraphs": 67,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 13,
+        "included": 68
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-06-01",
+      "path": "translations/cet6/2023-06-01.json",
+      "paragraphs": 69,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 71
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-06-02",
+      "path": "translations/cet6/2023-06-02.json",
+      "paragraphs": 70,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-06-03",
+      "path": "translations/cet6/2023-06-03.json",
+      "paragraphs": 57,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 60
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-12-01",
+      "path": "translations/cet6/2023-12-01.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 42,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-12-02",
+      "path": "translations/cet6/2023-12-02.json",
+      "paragraphs": 67,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 40,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2023-12-03",
+      "path": "translations/cet6/2023-12-03.json",
+      "paragraphs": 62,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 65
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2024-06-01",
+      "path": "translations/cet6/2024-06-01.json",
+      "paragraphs": 77,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 154,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 73,
+        "ineligible": 5
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "cet6:2024-06-02",
+      "path": "translations/cet6/2024-06-02.json",
+      "paragraphs": 77,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2024-06-03",
+      "path": "translations/cet6/2024-06-03.json",
+      "paragraphs": 62,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 63
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2024-12-01",
+      "path": "translations/cet6/2024-12-01.json",
+      "paragraphs": 78,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 80
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2024-12-02",
+      "path": "translations/cet6/2024-12-02.json",
+      "paragraphs": 77,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 37,
+        "included": 80
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2024-12-03",
+      "path": "translations/cet6/2024-12-03.json",
+      "paragraphs": 61,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 62
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-06-01",
+      "path": "translations/cet6/2025-06-01.json",
+      "paragraphs": 82,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 82
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-06-02",
+      "path": "translations/cet6/2025-06-02.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 77
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-06-03",
+      "path": "translations/cet6/2025-06-03.json",
+      "paragraphs": 68,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 70
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-12-01",
+      "path": "translations/cet6/2025-12-01.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-12-02",
+      "path": "translations/cet6/2025-12-02.json",
+      "paragraphs": 76,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 80
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2025-12-03",
+      "path": "translations/cet6/2025-12-03.json",
+      "paragraphs": 64,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 65
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2026-06-02",
+      "path": "translations/cet6/2026-06-02.json",
+      "paragraphs": 72,
+      "options": 155,
+      "optionReconciliation": {
+        "eligible": 155,
+        "reason:translate": 155
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "cet6:2026-06-03",
+      "path": "translations/cet6/2026-06-03.json",
+      "paragraphs": 67,
+      "options": 55,
+      "optionReconciliation": {
+        "eligible": 55,
+        "reason:translate": 55
+      },
+      "reconciliation": {
+        "excluded": 12,
+        "included": 69
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2000-01",
+      "path": "translations/kaoyan/2000-01.json",
+      "paragraphs": 46,
+      "options": 120,
+      "optionReconciliation": {
+        "eligible": 120,
+        "reason:translate": 120
+      },
+      "reconciliation": {
+        "excluded": 17,
+        "included": 45,
+        "ineligible": 1
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2001-01",
+      "path": "translations/kaoyan/2001-01.json",
+      "paragraphs": 68,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 17,
+        "included": 67,
+        "ineligible": 1
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2002-01",
+      "path": "translations/kaoyan/2002-01.json",
+      "paragraphs": 57,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 16,
+        "included": 53,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "kaoyan:2003-01",
+      "path": "translations/kaoyan/2003-01.json",
+      "paragraphs": 55,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 15,
+        "included": 55
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2004-01",
+      "path": "translations/kaoyan/2004-01.json",
+      "paragraphs": 55,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 15,
+        "included": 55
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2005-01",
+      "path": "translations/kaoyan/2005-01.json",
+      "paragraphs": 75,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 26,
+        "included": 77
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "kaoyan:2006-01",
+      "path": "translations/kaoyan/2006-01.json",
+      "paragraphs": 78,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 23,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2007-01",
+      "path": "translations/kaoyan/2007-01.json",
+      "paragraphs": 64,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 62,
+        "ineligible": 4
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "kaoyan:2008-01",
+      "path": "translations/kaoyan/2008-01.json",
+      "paragraphs": 76,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 77
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2009-01",
+      "path": "translations/kaoyan/2009-01.json",
+      "paragraphs": 77,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 21,
+        "included": 79
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2010-01",
+      "path": "translations/kaoyan/2010-01.json",
+      "paragraphs": 70,
+      "options": 190,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 30,
+        "reason:covered_by_paragraph": 30,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 74
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2010-02",
+      "path": "translations/kaoyan/2010-02.json",
+      "paragraphs": 77,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 21,
+        "included": 80
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2011-01",
+      "path": "translations/kaoyan/2011-01.json",
+      "paragraphs": 71,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 72
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2011-02",
+      "path": "translations/kaoyan/2011-02.json",
+      "paragraphs": 82,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 84
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2012-01",
+      "path": "translations/kaoyan/2012-01.json",
+      "paragraphs": 85,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 90
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2012-02",
+      "path": "translations/kaoyan/2012-02.json",
+      "paragraphs": 68,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 21,
+        "included": 69
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2013-01",
+      "path": "translations/kaoyan/2013-01.json",
+      "paragraphs": 82,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 82
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2013-02",
+      "path": "translations/kaoyan/2013-02.json",
+      "paragraphs": 70,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 71
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2014-01",
+      "path": "translations/kaoyan/2014-01.json",
+      "paragraphs": 69,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 64,
+        "ineligible": 5
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "kaoyan:2014-02",
+      "path": "translations/kaoyan/2014-02.json",
+      "paragraphs": 72,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 72
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2015-01",
+      "path": "translations/kaoyan/2015-01.json",
+      "paragraphs": 79,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 158,
+        "reason:translate_verified_spacing": 2
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 79
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2015-02",
+      "path": "translations/kaoyan/2015-02.json",
+      "paragraphs": 76,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 68,
+        "ineligible": 8
+      },
+      "issues": 1
+    },
+    {
+      "paperId": "kaoyan:2016-01",
+      "path": "translations/kaoyan/2016-01.json",
+      "paragraphs": 72,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 72
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2016-02",
+      "path": "translations/kaoyan/2016-02.json",
+      "paragraphs": 68,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 68
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2017-01",
+      "path": "translations/kaoyan/2017-01.json",
+      "paragraphs": 76,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2017-02",
+      "path": "translations/kaoyan/2017-02.json",
+      "paragraphs": 72,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2018-01",
+      "path": "translations/kaoyan/2018-01.json",
+      "paragraphs": 66,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 66
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2018-02",
+      "path": "translations/kaoyan/2018-02.json",
+      "paragraphs": 86,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 25,
+        "included": 91
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2019-01",
+      "path": "translations/kaoyan/2019-01.json",
+      "paragraphs": 78,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 159,
+        "reason:translate_verified_spacing": 1
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2019-02",
+      "path": "translations/kaoyan/2019-02.json",
+      "paragraphs": 87,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 91
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2020-01",
+      "path": "translations/kaoyan/2020-01.json",
+      "paragraphs": 73,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2020-02",
+      "path": "translations/kaoyan/2020-02.json",
+      "paragraphs": 72,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 72
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2021-01",
+      "path": "translations/kaoyan/2021-01.json",
+      "paragraphs": 82,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 35,
+        "reason:covered_by_paragraph": 35,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 83
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2021-02",
+      "path": "translations/kaoyan/2021-02.json",
+      "paragraphs": 71,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 71
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2022-01",
+      "path": "translations/kaoyan/2022-01.json",
+      "paragraphs": 82,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 167
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 82
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2022-02",
+      "path": "translations/kaoyan/2022-02.json",
+      "paragraphs": 72,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 74
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2023-01",
+      "path": "translations/kaoyan/2023-01.json",
+      "paragraphs": 75,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 78
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2023-02",
+      "path": "translations/kaoyan/2023-02.json",
+      "paragraphs": 80,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 82
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2024-01",
+      "path": "translations/kaoyan/2024-01.json",
+      "paragraphs": 76,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 167
+      },
+      "reconciliation": {
+        "excluded": 21,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2024-02",
+      "path": "translations/kaoyan/2024-02.json",
+      "paragraphs": 77,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 77
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2025-01",
+      "path": "translations/kaoyan/2025-01.json",
+      "paragraphs": 73,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 20,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2025-02",
+      "path": "translations/kaoyan/2025-02.json",
+      "paragraphs": 76,
+      "options": 160,
+      "optionReconciliation": {
+        "eligible": 160,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 24,
+        "included": 76
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2026-01",
+      "path": "translations/kaoyan/2026-01.json",
+      "paragraphs": 75,
+      "options": 185,
+      "optionReconciliation": {
+        "eligible": 160,
+        "ineligible": 25,
+        "reason:covered_by_paragraph": 25,
+        "reason:translate": 160
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 75
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "kaoyan:2026-02",
+      "path": "translations/kaoyan/2026-02.json",
+      "paragraphs": 73,
+      "options": 195,
+      "optionReconciliation": {
+        "eligible": 167,
+        "ineligible": 28,
+        "reason:covered_by_option": 28,
+        "reason:translate": 160,
+        "reason:translate_pdf_verified": 7
+      },
+      "reconciliation": {
+        "excluded": 19,
+        "included": 73
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "tem4:2022",
+      "path": "translations/tem4/2022.json",
+      "paragraphs": 118,
+      "options": 218,
+      "optionReconciliation": {
+        "eligible": 218,
+        "reason:translate": 214,
+        "reason:translate_verified_spacing": 4
+      },
+      "reconciliation": {
+        "excluded": 36,
+        "included": 111,
+        "ineligible": 9
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "tem4:2023",
+      "path": "translations/tem4/2023.json",
+      "paragraphs": 114,
+      "options": 230,
+      "optionReconciliation": {
+        "eligible": 230,
+        "reason:translate": 227,
+        "reason:translate_verified_spacing": 3
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 108,
+        "ineligible": 8
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "tem4:2024",
+      "path": "translations/tem4/2024.json",
+      "paragraphs": 100,
+      "options": 175,
+      "optionReconciliation": {
+        "eligible": 174,
+        "ineligible": 1,
+        "reason:no_english_option_text": 1,
+        "reason:translate": 174
+      },
+      "reconciliation": {
+        "excluded": 38,
+        "included": 100,
+        "ineligible": 1
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "tem4:2025",
+      "path": "translations/tem4/2025.json",
+      "paragraphs": 104,
+      "options": 218,
+      "optionReconciliation": {
+        "eligible": 218,
+        "reason:translate": 218
+      },
+      "reconciliation": {
+        "excluded": 33,
+        "included": 101,
+        "ineligible": 6
+      },
+      "issues": 2
+    },
+    {
+      "paperId": "tem8:2022",
+      "path": "translations/tem8/2022.json",
+      "paragraphs": 100,
+      "options": 96,
+      "optionReconciliation": {
+        "eligible": 96,
+        "reason:translate": 96
+      },
+      "reconciliation": {
+        "excluded": 40,
+        "included": 98,
+        "ineligible": 4
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "tem8:2023",
+      "path": "translations/tem8/2023.json",
+      "paragraphs": 115,
+      "options": 96,
+      "optionReconciliation": {
+        "eligible": 96,
+        "reason:translate": 96
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 117
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "tem8:2024",
+      "path": "translations/tem8/2024.json",
+      "paragraphs": 79,
+      "options": 96,
+      "optionReconciliation": {
+        "eligible": 96,
+        "reason:translate": 94,
+        "reason:translate_verified_spacing": 2
+      },
+      "reconciliation": {
+        "excluded": 35,
+        "included": 80
+      },
+      "issues": 0
+    },
+    {
+      "paperId": "tem8:2025",
+      "path": "translations/tem8/2025.json",
+      "paragraphs": 90,
+      "options": 96,
+      "optionReconciliation": {
+        "eligible": 96,
+        "reason:translate": 96
+      },
+      "reconciliation": {
+        "excluded": 39,
+        "included": 89,
+        "ineligible": 2
+      },
+      "issues": 0
+    }
+  ],
+  "reconciliation": {
+    "excluded": 7372,
+    "included": 14875,
+    "ineligible": 562
+  },
+  "reasonCounts": {
+    "answer_side": 1287,
+    "cloze": 535,
+    "cloze_non_prose": 20,
+    "cross_page_continuation": 239,
+    "heading_continuation": 1,
+    "heading_prose": 300,
+    "instruction": 2336,
+    "mixed_language_instruction": 39,
+    "non_english_or_fragment": 3495,
+    "pdf_verified_bilingual_continuation": 5,
+    "pdf_verified_bilingual_prompt": 5,
+    "pdf_verified_cover_metadata": 8,
+    "pdf_verified_cross_page_continuation": 17,
+    "pdf_verified_damaged_cloze": 19,
+    "pdf_verified_option_continuation": 1,
+    "pdf_verified_page_furniture": 1,
+    "pdf_verified_split_option": 1,
+    "pdf_verified_unfilled_cloze": 9,
+    "question_prompt": 4389,
+    "reading_choice_continuation": 477,
+    "reading_choice_paragraph": 1989,
+    "reading_prose": 3689,
+    "recovered_direction_option": 4,
+    "section_cloze": 3,
+    "section_front_matter": 60,
+    "section_label": 2566,
+    "section_language_usage": 47,
+    "section_listening": 308,
+    "section_translation": 12,
+    "section_writing": 371,
+    "source_unreadable": 46,
+    "source_unreadable_image_gap": 68,
+    "translation_passage": 57,
+    "unparsed_cloze_region": 71,
+    "unparsed_tem4_cloze": 7,
+    "unresolved_cloze_or_source_mismatch": 262,
+    "unverified_listening_dictation": 65
+  },
+  "kindCounts": {
+    "cloze": 910,
+    "general_prose": 72,
+    "heading_prose": 301,
+    "instruction": 2379,
+    "language_prompt": 47,
+    "listening_text": 330,
+    "passage_option": 2041,
+    "question_prompt": 4395,
+    "reading": 3702,
+    "translation_passage": 57,
+    "translation_prompt": 12,
+    "writing_prompt": 404
+  },
+  "optionReconciliation": {
+    "eligible": 27670,
+    "ineligible": 811,
+    "reason:covered_by_option": 280,
+    "reason:covered_by_paragraph": 511,
+    "reason:no_english_option_text": 20,
+    "reason:translate": 27576,
+    "reason:translate_pdf_verified": 71,
+    "reason:translate_verified_spacing": 23
+  },
+  "otherSourceBlockCounts": {
+    "caption": 23,
+    "choice_row": 1279,
+    "figure": 69,
+    "flowchart": 7,
+    "options": 5694,
+    "source_line": 211,
+    "structured_image_source_line": 211,
+    "structured_source_notice": 111
+  },
+  "issueCounts": {
+    "incomplete_cloze": 66,
+    "source_unreadable": 45,
+    "stale_translation": 1,
+    "unreadable_intervening_source_line": 24,
+    "unverified_listening_dictation": 63,
+    "verified_cross_page_footer": 17,
+    "verified_direction_notice": 53,
+    "verified_page_footer": 7
+  },
+  "issues": [
+    {
+      "paperId": "cet4:2014-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-21",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-2:9"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-21",
+        "b-3-22",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-2:9",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-15",
+        "b-3-16"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-11",
+        "b-3-12",
+        "b-3-13"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2014-12-03:p:b-3-4",
+      "blankNumbers": [
+        "26"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2014-12-03:p:b-3-5",
+      "blankNumbers": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet4:2014-12-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2014-12-03:p:b-3-6",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-01:p:b-3-19",
+      "blankNumbers": [
+        "28"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-01:p:b-3-20",
+      "blankNumbers": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-01:p:b-3-21",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-02:p:b-3-17",
+      "blankNumbers": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-02:p:b-3-18",
+      "blankNumbers": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-02:p:b-3-19",
+      "blankNumbers": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2015-06-02:p:b-4-7",
+      "reflowBlockIds": [
+        "b-4-8"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2015-06-02:p:b-4-10",
+      "replacementCharacters": 4,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2015-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-5",
+        "b-4-6",
+        "b-4-7"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-7:7",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-03:p:b-3-19",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-06-03:p:b-3-20",
+      "blankNumbers": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-21",
+        "b-3-22",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "blank_marker_count:45:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-4-2:7",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-01:p:b-3-13",
+      "blankNumbers": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-01:p:b-3-14",
+      "blankNumbers": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-01:p:b-3-15",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-01:p:b-3-16",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-12",
+        "b-3-13",
+        "b-3-14"
+      ],
+      "reasons": [
+        "blank_marker_count:43:0",
+        "printed_blank_sequence_mismatch",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-02:p:b-3-5",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-02:p:b-3-6",
+      "blankNumbers": [
+        "30",
+        "31"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet4:2015-12-02:p:b-3-7",
+      "blankNumbers": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet4:2015-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-14",
+        "b-3-15",
+        "b-3-16"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet4:2016-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2016-06-02:p:b-7-18",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2016-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2016-06-03:p:b-2-22",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2017-06-01:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-01",
+      "code": "verified_page_footer",
+      "paragraphId": "cet4:2017-06-01:p:b-7-12",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-01",
+      "code": "verified_page_footer",
+      "paragraphId": "cet4:2017-06-01:p:b-10-15",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-5-7"
+      ],
+      "reasons": [
+        "blank_marker_count:28:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2017-06-02:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "verified_page_footer",
+      "paragraphId": "cet4:2017-06-02:p:b-7-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2017-06-02:p:b-8-4",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet4:2017-06-02:p:b-8-17",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-02",
+      "code": "verified_page_footer",
+      "paragraphId": "cet4:2017-06-02:p:b-10-13",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2017-06-03:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-03",
+      "code": "verified_page_footer",
+      "paragraphId": "cet4:2017-06-03:p:b-3-12",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-06-03",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet4:2017-06-03:p:b-6-15",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet4:2017-12-01:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet4:2017-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12"
+      ],
+      "reasons": [
+        "blank_marker_count:30:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-1-11:3"
+      ]
+    },
+    {
+      "paperId": "cet4:2018-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-4-3"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-17",
+        "b-3-18",
+        "b-3-19",
+        "b-3-20",
+        "b-3-21",
+        "b-3-22",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:30:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-07-01:p:b-4-9",
+      "replacementCharacters": 9,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-07-01:p:b-4-10",
+      "reflowBlockIds": [
+        "b-4-11"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-07-01:p:b-5-1",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-07-01:p:b-5-4",
+      "reflowBlockIds": [
+        "b-5-5"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-07-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-07-01:p:b-6-15",
+      "replacementCharacters": 11,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-09-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-19",
+        "b-3-20",
+        "b-3-21",
+        "b-3-22",
+        "b-3-23",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "blank_marker_count:29:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-09-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-9",
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-23",
+        "b-3-24",
+        "b-3-25",
+        "b-3-26",
+        "b-3-27",
+        "b-4-1",
+        "b-4-3"
+      ],
+      "reasons": [
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:33:0",
+        "image_source_line:b-4-2",
+        "nonparagraph_source_block:b-3-24",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:33"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-01:p:b-4-10",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-12-01:p:b-4-13",
+      "reflowBlockIds": [
+        "b-4-14"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-01:p:b-5-1",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-01:p:b-5-4",
+      "replacementCharacters": 20,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-01:p:b-5-6",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-02:p:b-4-9",
+      "replacementCharacters": 6,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2020-12-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-12-02:p:b-5-8",
+      "reflowBlockIds": [
+        "b-5-9"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-12-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2020-12-03:p:b-2-14",
+      "reflowBlockIds": [
+        "b-2-15"
+      ]
+    },
+    {
+      "paperId": "cet4:2020-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet4:2020-12-03:p:b-4-8",
+      "replacementCharacters": 5,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet4:2021-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-23",
+        "b-3-24",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3",
+        "b-4-5",
+        "b-4-6"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "image_source_line:b-4-4",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:31"
+      ]
+    },
+    {
+      "paperId": "cet4:2021-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-1-15",
+        "b-1-17"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "image_source_line:b-1-16",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:33"
+      ]
+    },
+    {
+      "paperId": "cet4:2021-06-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet4:2021-06-03:p:b-3-4",
+      "reflowBlockIds": [
+        "b-3-5",
+        "b-3-7",
+        "b-3-9",
+        "b-3-11",
+        "b-3-13"
+      ]
+    },
+    {
+      "paperId": "cet4:2021-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-7",
+        "b-4-8",
+        "b-4-9"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2021-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-11",
+        "b-4-15",
+        "b-4-19",
+        "b-4-27"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:26",
+        "unverified_source_number:27",
+        "unverified_source_number:28",
+        "unverified_source_number:29",
+        "unverified_source_number:30",
+        "unverified_source_number:31",
+        "unverified_source_number:32",
+        "unverified_source_number:33",
+        "unverified_source_number:34",
+        "unverified_source_number:35"
+      ]
+    },
+    {
+      "paperId": "cet4:2021-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-1-15",
+        "b-1-16",
+        "b-1-17",
+        "b-1-18"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2022-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-12",
+        "b-4-13",
+        "b-4-14"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2022-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-1-15"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet4:2024-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-21",
+        "b-3-22",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-3-22"
+      ]
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-06-01:p:b-1-4",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-06-01:p:b-4-7",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-06-01:p:b-8-15",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-06-01:p:b-10-15",
+      "removedFromTranslationInput": false
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-06-01:p:b-13-12",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-06-01:p:b-15-11",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-12-01:p:b-2-13",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-02:p:b-1-10",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-02:p:b-3-2",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-02:p:b-4-16",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-12-02:p:b-7-23",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-12-02:p:b-9-15",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-02",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-12-02:p:b-13-9",
+      "removedFromTranslationInput": false
+    },
+    {
+      "paperId": "cet6:2012-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-03:p:b-3-2",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-03:p:b-10-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-03",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2012-12-03:p:b-11-14",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2012-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2012-12-03:p:b-11-14",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2013-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-11",
+        "b-3-12",
+        "b-3-13",
+        "b-3-14",
+        "b-4-1"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-06-01:p:b-3-4",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-06-01:p:b-3-5",
+      "blankNumbers": [
+        "34"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-06-01:p:b-3-6",
+      "blankNumbers": [
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-3",
+        "b-4-4",
+        "b-4-5"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-5:9",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-06-02:p:b-3-14",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-06-02:p:b-3-15",
+      "blankNumbers": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-5",
+        "b-4-6",
+        "b-4-7"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-12-01:p:b-3-22",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2013-12-01:p:b-3-23",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2013-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-3",
+        "b-4-4",
+        "b-4-5",
+        "b-4-6"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-6:0",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-01:p:b-1-7",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-01:p:b-3-16",
+      "blankNumbers": [
+        "26"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-01:p:b-3-17",
+      "blankNumbers": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-01:p:b-3-18",
+      "blankNumbers": [
+        "31",
+        "32"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-01:p:b-3-19",
+      "blankNumbers": [
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-01:p:b-3-20",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-01:p:b-7-4",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-01:p:b-8-6",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-19",
+        "b-3-20",
+        "b-4-1"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-1:5",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-02:p:b-1-6",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-02:p:b-3-12",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-02:p:b-3-13",
+      "blankNumbers": [
+        "33",
+        "34"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-02:p:b-3-14",
+      "blankNumbers": [
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-02:p:b-6-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-02:p:b-7-9",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-12",
+        "b-3-13",
+        "b-3-14",
+        "b-3-15"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-03:p:b-3-6",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-03:p:b-3-7",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-06-03:p:b-3-8",
+      "blankNumbers": [
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-06-03:p:b-6-12",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-23",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "blank_marker_count:45:2",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-4-3:7",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-01:p:b-3-15",
+      "blankNumbers": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-01:p:b-3-16",
+      "blankNumbers": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-01:p:b-3-17",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-01:p:b-6-12",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-01:p:b-7-14",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-21",
+        "b-3-22",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3",
+        "b-4-4"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-4:7",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-02:p:b-3-14",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-02:p:b-3-15",
+      "blankNumbers": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-02:p:b-3-16",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-02:p:b-6-20",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-02:p:b-8-2",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-2-6",
+        "b-2-7",
+        "b-2-8",
+        "b-2-9"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-8",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2014-12-03:p:b-1-9",
+      "blankNumbers": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-4-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-5-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2014-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2014-12-03:p:b-6-9",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-13",
+      "blankNumbers": [
+        "26"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-14",
+      "blankNumbers": [
+        "27",
+        "28"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-15",
+      "blankNumbers": [
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-16",
+      "blankNumbers": [
+        "32"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-17",
+      "blankNumbers": [
+        "33",
+        "34"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-01:p:b-3-18",
+      "blankNumbers": [
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-01:p:b-4-2",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-01:p:b-6-22",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-01:p:b-7-13",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-2",
+        "b-4-3",
+        "b-4-4",
+        "b-4-5"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-5:9",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-02:p:b-3-17",
+      "blankNumbers": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-02:p:b-3-18",
+      "blankNumbers": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-02:p:b-3-19",
+      "blankNumbers": [
+        "30",
+        "31"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-02:p:b-3-20",
+      "blankNumbers": [
+        "32"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-02:p:b-3-21",
+      "blankNumbers": [
+        "33",
+        "34"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-02:p:b-7-19",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-14",
+        "b-3-15",
+        "b-3-16",
+        "b-3-17",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-03:p:b-2-19",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-03:p:b-3-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-06-03:p:b-3-9",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-03:p:b-6-10",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-06-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-06-03:p:b-7-8",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-3",
+        "b-4-4",
+        "b-4-5",
+        "b-4-6",
+        "b-4-7"
+      ],
+      "reasons": [
+        "unreadable_blank_run:b-4-7:5",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-01:p:b-2-18",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-01:p:b-3-18",
+      "blankNumbers": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-01:p:b-3-19",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-01:p:b-3-20",
+      "blankNumbers": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-01:p:b-7-7",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-01:p:b-8-10",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-8",
+        "b-4-9",
+        "b-4-10",
+        "b-4-11",
+        "b-4-12"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-4-9",
+        "unreadable_blank_run:b-4-12:3",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-02:p:b-1-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-02:p:b-2-25",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-02:p:b-3-24",
+      "blankNumbers": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-02:p:b-3-25",
+      "blankNumbers": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-02:p:b-4-2",
+      "blankNumbers": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "unverified_listening_dictation",
+      "paragraphId": "cet6:2015-12-02:p:b-4-3",
+      "blankNumbers": [
+        "34",
+        "33",
+        "35"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-02:p:b-7-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-02:p:b-8-4",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-19",
+        "b-3-20",
+        "b-3-21",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40",
+        "unresolved_answer:41",
+        "unresolved_answer:42",
+        "unresolved_answer:43",
+        "unresolved_answer:44",
+        "unresolved_answer:45"
+      ]
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-03:p:b-1-5",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-03:p:b-2-22",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-03:p:b-6-1",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-03:p:b-7-1",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2015-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2015-12-03:p:b-8-2",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2016-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-8",
+        "b-1-9",
+        "b-1-10",
+        "b-1-11"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2017-06-01:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_page_footer",
+      "paragraphId": "cet6:2017-06-01:p:b-4-16",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_page_footer",
+      "paragraphId": "cet6:2017-06-01:p:b-5-13",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2017-06-01:p:b-6-19",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2017-06-01:p:b-7-21",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-06-01",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2017-06-01:p:b-8-17",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-12-01",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2017-12-01:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-23",
+        "b-3-24",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:32:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-4-2:1"
+      ]
+    },
+    {
+      "paperId": "cet6:2017-12-02",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2017-12-02:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2017-12-03",
+      "code": "verified_direction_notice",
+      "paragraphId": "cet6:2017-12-03:p:b-1-3",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2018-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-23",
+        "b-3-24",
+        "b-3-25",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "blank_marker_count:30:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-3-24:3"
+      ]
+    },
+    {
+      "paperId": "cet6:2018-06-02",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2018-06-02:p:b-6-21",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2018-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13",
+        "b-1-14"
+      ],
+      "reasons": [
+        "blank_marker_count:34:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-1-14:3"
+      ]
+    },
+    {
+      "paperId": "cet6:2018-06-03",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2018-06-03:p:b-4-19",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2018-06-03",
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2018-06-03:p:b-5-17",
+      "removedFromTranslationInput": true
+    },
+    {
+      "paperId": "cet6:2018-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-17",
+        "b-3-18",
+        "b-3-19",
+        "b-3-20",
+        "b-4-1"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-3-19"
+      ]
+    },
+    {
+      "paperId": "cet6:2018-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2019-12-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-19",
+        "b-5-1",
+        "b-5-2",
+        "b-5-3",
+        "b-5-4"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:31"
+      ]
+    },
+    {
+      "paperId": "cet6:2019-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-01:p:b-9-6",
+      "replacementCharacters": 27,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-01:p:b-10-13",
+      "replacementCharacters": 10,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-19",
+        "b-5-1",
+        "b-5-2",
+        "b-5-3",
+        "b-5-4"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:31"
+      ]
+    },
+    {
+      "paperId": "cet6:2019-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-02:p:b-6-5",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-02:p:b-8-1",
+      "replacementCharacters": 11,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-02:p:b-9-10",
+      "replacementCharacters": 17,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-9",
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:31"
+      ]
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-2",
+      "replacementCharacters": 13,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-5",
+      "replacementCharacters": 13,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-5-14",
+      "replacementCharacters": 8,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-6-1",
+      "replacementCharacters": 6,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-6",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2019-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-7",
+      "replacementCharacters": 4,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-17",
+        "b-5-1",
+        "b-5-3",
+        "b-5-5",
+        "b-5-7",
+        "b-5-9"
+      ],
+      "reasons": [
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:35:0",
+        "image_source_line:b-4-18",
+        "image_source_line:b-5-2",
+        "image_source_line:b-5-4",
+        "image_source_line:b-5-6",
+        "image_source_line:b-5-8",
+        "nonparagraph_source_block:b-5-7",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:27",
+        "unverified_source_number:28",
+        "unverified_source_number:35"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-5-14",
+      "reflowBlockIds": [
+        "b-5-15",
+        "b-6-2",
+        "b-6-4",
+        "b-6-6",
+        "b-6-8"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-6-11",
+      "reflowBlockIds": [
+        "b-6-12",
+        "b-6-14",
+        "b-6-16"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-7-2",
+      "reflowBlockIds": [
+        "b-7-3"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-7-5",
+      "reflowBlockIds": [
+        "b-7-6",
+        "b-7-8"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-7-10",
+      "reflowBlockIds": [
+        "b-7-11"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-07-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-07-01:p:b-7-13",
+      "reflowBlockIds": [
+        "b-7-14",
+        "b-7-16",
+        "b-7-18",
+        "b-8-2",
+        "b-8-4",
+        "b-8-6"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-09-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-01:p:b-5-9",
+      "replacementCharacters": 26,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-01:p:b-6-3",
+      "replacementCharacters": 11,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-01",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-01:p:b-6-4",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-09-02:p:b-2-4",
+      "reflowBlockIds": [
+        "b-2-5"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-7",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-9",
+      "replacementCharacters": 17,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-2",
+      "replacementCharacters": 16,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-3",
+      "replacementCharacters": 6,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-4",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-5",
+      "replacementCharacters": 14,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-09-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-7",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-3-17",
+      "replacementCharacters": 11,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-3-20",
+      "replacementCharacters": 14,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-02:p:b-4-10",
+      "reflowBlockIds": [
+        "b-4-11"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-02:p:b-4-14",
+      "reflowBlockIds": [
+        "b-4-15",
+        "b-4-17"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-02:p:b-5-5",
+      "reflowBlockIds": [
+        "b-5-6"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-5-8",
+      "replacementCharacters": 15,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-5-12",
+      "replacementCharacters": 20,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-6-15",
+      "replacementCharacters": 5,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-02:p:b-7-15",
+      "replacementCharacters": 23,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-5",
+      "reflowBlockIds": [
+        "b-2-6"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-9",
+      "reflowBlockIds": [
+        "b-2-10"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-2-12",
+      "reflowBlockIds": [
+        "b-2-13"
+      ]
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-12-03:p:b-3-4",
+      "replacementCharacters": 15,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2020-12-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-12-03:p:b-3-7",
+      "reflowBlockIds": [
+        "b-3-8",
+        "b-3-10"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-24",
+        "b-3-25",
+        "b-4-1",
+        "b-4-3"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "image_source_line:b-3-23",
+        "image_source_line:b-4-2",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:28",
+        "unverified_source_number:32"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-01",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2021-06-01:p:b-5-3",
+      "reflowBlockIds": [
+        "b-5-4"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-22",
+        "b-3-23",
+        "b-3-24",
+        "b-4-1",
+        "b-4-2",
+        "b-4-4"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "image_source_line:b-4-3",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-02",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2021-06-02:p:b-4-10",
+      "reflowBlockIds": [
+        "b-4-11"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-02:p:b-5-2",
+      "replacementCharacters": 4,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-02",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-02:p:b-5-5",
+      "replacementCharacters": 15,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-13",
+        "b-1-14",
+        "b-1-15",
+        "b-1-16",
+        "b-2-1"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-2-7",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-2",
+      "replacementCharacters": 10,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2021-06-03:p:b-3-3",
+      "reflowBlockIds": [
+        "b-3-4"
+      ]
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-7",
+      "replacementCharacters": 8,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-3-10",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-06-03",
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2021-06-03:p:b-5-19",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    },
+    {
+      "paperId": "cet6:2021-12-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-6",
+        "b-4-7",
+        "b-4-8"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2022-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-6",
+        "b-4-7",
+        "b-4-8",
+        "b-4-9",
+        "b-4-10",
+        "b-4-11"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "nonparagraph_source_block:b-4-9",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2022-06-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-11",
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-2-1"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    },
+    {
+      "paperId": "cet6:2024-06-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-20",
+        "b-3-21",
+        "b-4-1",
+        "b-4-2",
+        "b-4-3"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-4-2"
+      ]
+    },
+    {
+      "paperId": "kaoyan:2002-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-5",
+        "b-1-6",
+        "b-1-7",
+        "b-1-8"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-1-7"
+      ]
+    },
+    {
+      "paperId": "kaoyan:2005-01",
+      "code": "stale_translation",
+      "paragraphId": "kaoyan:2005-01:p:b-12-3"
+    },
+    {
+      "paperId": "kaoyan:2007-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-5",
+        "b-1-6",
+        "b-1-7",
+        "b-1-8"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-1-8"
+      ]
+    },
+    {
+      "paperId": "kaoyan:2014-01",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-5",
+        "b-1-6",
+        "b-1-7",
+        "b-1-8",
+        "b-1-9"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-1-8"
+      ]
+    },
+    {
+      "paperId": "kaoyan:2015-02",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-5",
+        "b-1-6",
+        "b-1-7",
+        "b-1-8",
+        "b-1-9",
+        "b-1-10",
+        "b-1-11",
+        "b-2-1"
+      ],
+      "reasons": [
+        "nonparagraph_source_block:b-1-9"
+      ]
+    },
+    {
+      "paperId": "tem4:2022",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-2"
+      ],
+      "reasons": [
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    },
+    {
+      "paperId": "tem4:2022",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-10-22",
+        "b-10-23",
+        "b-11-1",
+        "b-11-2",
+        "b-11-3",
+        "b-11-4"
+      ],
+      "reasons": [
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    },
+    {
+      "paperId": "tem4:2023",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-3-27",
+        "b-3-28",
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    },
+    {
+      "paperId": "tem4:2023",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-11-1",
+        "b-11-2"
+      ],
+      "reasons": [
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:36",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    },
+    {
+      "paperId": "tem4:2025",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-4-1",
+        "b-4-2"
+      ],
+      "reasons": [
+        "blank_marker_count:36:0",
+        "printed_blank_sequence_mismatch",
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    },
+    {
+      "paperId": "tem4:2025",
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-11-1",
+        "b-11-2"
+      ],
+      "reasons": [
+        "blank_marker_count:36:0",
+        "printed_blank_sequence_mismatch",
+        "unresolved_answer:31",
+        "unresolved_answer:32",
+        "unresolved_answer:33",
+        "unresolved_answer:34",
+        "unresolved_answer:35",
+        "unresolved_answer:37",
+        "unresolved_answer:38",
+        "unresolved_answer:39",
+        "unresolved_answer:40"
+      ]
+    }
+  ],
+  "staleTranslationCount": 1,
+  "structuralIssueCount": 0
+}

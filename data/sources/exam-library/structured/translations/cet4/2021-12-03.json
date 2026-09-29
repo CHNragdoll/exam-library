@@ -1,0 +1,4942 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2021-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+  "sourcePdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+  "paragraphs": [
+    {
+      "id": "cet4:2021-12-03:p:b-1-3",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: Suppose you have丿ust participated in a school project of collecting used books on campus. You are now to write a report about the project, which may include its aim, organizers, participants and activities. You will have 30 minutes to write the report. ou should write at least 120 words but no more than 180 words.",
+      "sourceHash": "23dee64632e3ab9098c82bd6b4c46b88a08ffbd33e118fb7b31df393bf294867",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：假设您刚刚参加了一个在校园收集旧书的学校项目。现在你要写一份关于该项目的报告，其中可能包括其目标、组织者、参与者和活动。您将有 30 分钟的时间来撰写报告。你应该写至少120字但不超过180字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-8",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the",
+      "sourceHash": "c3b2bd0b74ce1ee6099fa09425265907a78c45dce59e92f9f3d7a8b5720f6f1c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。阅读",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "passage through carefully before making your choices, Each choice in the bank is identfied by",
+      "sourceHash": "81c87844a8f8d6ece2f89ffd07b54096a89ab482244a177d6882570c7eb8b1bb",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在做出选择之前仔细浏览，银行中的每个选择都由",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-10",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "f7ace552f5f1bac70c3277953f165a64ff3bd811917e68455180d5f5faed86a4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-11",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 26 to 35 are based on the ollowing passage.",
+      "sourceHash": "f760fe7dc1ff6e19bb02db35f1be06d0c56e0c178ef1eb04731ca19a75ff6625",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 26 至 35 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-12",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "The sheets are damp with sweat. You're cold, but your heart is racing as if a killer just chased you down a dark street. It was just a nightmare, you tell yourself; there's nothing to be araid o. But you're still illed withL.26",
+      "sourceHash": "eec9ccfa698ac5f2a1b00aefbd21c2f9fde24b6d21bdaf3cb59728df6b545aa7",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-13",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "Given how unsettling and haunting nightmares can be, is there a way or dreamers to D_, or even n of, these bad dreams as they happen?27",
+      "sourceHash": "1d328532cee9ea9ec7e50bcb12bbaaca2d4ef95388a751b4477f678fe9475e51",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-14",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "Research is_, but some studies suggest that people who can master lucid28 dreaming-that is, the ab山ty to be_that a nightmare is happening and possibly even29 control it without waking up—may hold the _.30",
+      "sourceHash": "f06a63d66b6c8e6d1f61e23fc40840c71f3a03b0f4d76baa5027d535980d6217",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-15",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "Nightmares are part of the human experience, especially or kids. Doctors_don't31 consider occasional nightmares a problem. They can just be symptoms of a sleep disorder that can L rom an unpleasant experience, stress, or certain drugs.32",
+      "sourceHash": "637bea829ebbbf8def7ae12630a5f7100f9015fcf6dc90941ff39bd4b69079f9",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-16",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "To treat the disorder, there are a number of medicines and therapies that are backed by _research, according to the American Academy of Sleep Medicine,33 which analyzed the available research on the treatment of nightmare disorder in a recent",
+      "sourceHash": "a2bb15272045166d00abd4e04c329f4bde9e904e7ba0092ded2ffcdd92851c92",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-17",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "_published in the Journal of Clinical Sleep Medicine34",
+      "sourceHash": "ca249ec4b09d5d48dc334d7fd8e520b90173224c1d757c57c464bbb426a5649e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-17"
+        ],
+        "reflowBlockIds": [
+          "b-1-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-1-18",
+      "paperId": "cet4:2021-12-03",
+      "kind": "cloze",
+      "sourceText": "However, nightmares are complicated, and researchers are still struggling to understand them, said Dr. Rachel Salas, an expert on sleep disorders and an associate proessor at Johns Hopkins Medicine in Baltimore. What we do know is that people_lL to have diferent kinds of nightmares at diferent points during the35 sleep cycle.",
+      "sourceHash": "ca66b7a7c4d6700e33f37eb0bc8b394df65fa10c1b01e86a41af11ce88feeb66",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-1-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-1-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-18"
+        ],
+        "reflowBlockIds": [
+          "b-1-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-4",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it.",
+      "sourceHash": "f1379a4c615ce82526a89f80e0eb2b731f9dabd46eda438339387fac25923362",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Each statement contains information given in one of the paragraphs. Identy the paragraph",
+      "sourceHash": "c6cf84b50a37fcd7ebac0589e227ac17dee752af209e405161122fecc480c729",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "每条陈述都包含其中一个段落中给出的信息。识别段落",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-6",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "from which the information is derive. You may choose a paragrph more than once. Each",
+      "sourceHash": "b305c23183d0bd26be53d625dd4916537e490c50c80cf98c692e535efd6419d4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "信息是从中得出的。您可以多次选择一个段落。每个",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-7",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "paragraph is marked with a lette. Answer the questions by marking the corresponding letter on",
+      "sourceHash": "1eab3ea17d0e1b942fd33947185853c53a58fbbf5c3197f35ab120503cefad94",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "段落标有字母。回答问题，标记相应的字母",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Why it matters that teens are reading less",
+      "sourceHash": "c61a867b3a34c759e84d1b7a1a359539056ffa1ae48c1594143628ccfb57a21a",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为什么青少年阅读减少很重要",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-10",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) Most of us spend much more time with digital media than we did a decade ago. But today's teens have grown up with smartphones. Compared with teens a couple of decades ago, the way they interact with traditional media like books and movies is undamentally diferent.",
+      "sourceHash": "482d81b905456bcf4158bb618f320c2b6cdcb37eab82e38b490f7e504a1dafb8",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A）我们大多数人花在数字媒体上的时间比十年前要多得多。但今天的青少年是伴随着智能手机长大的。与几十年前的青少年相比，他们与书籍和电影等传统媒体的互动方式有着根本的不同。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-11",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) Analysis of surveys of over one million teens in the United States collected since 1976 reveals a major shift in how teens are spending their leisure time. Paper books are being ignored, in avor of screens. D屯ital devices are changing other behaviors, too. More and more, young people choose spending time on their electronic devices over engaging in other activities, regardless of the type. Indeed, by 2016, the average American high school senior said they spent six hours a day writing text messages, on social med团， and online during their ree time. And that covers just three activities, and if other digital media activities were included, that estimate would no doubt rise.",
+      "sourceHash": "d7d527c181b1af10cbc858dd5652f3a628f4833d2805f05931a4ae6f84b3ad9c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 自 1976 年以来对美国超过 100 万青少年进行的调查分析显示，青少年度过闲暇时间的方式发生了重大转变。纸质书籍正在被屏幕所忽视。 Dtunital 设备也正在改变其他行为。越来越多的年轻人选择花时间在电子设备上，而不是参与其他活动，无论何种类型。事实上，到 2016 年，美国高中生平均每天花六个小时在业余时间写短信、上社交媒体和上网。这仅涵盖三项活动，如果包括其他数字媒体活动，这一估计无疑会上升。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-2-12",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) Teens did not always spend that much time with digital media. Online time has doubled since 2006, and social media use has moved rom a periodic activity to a daily one in the same period. By 2016, nearly nine out of ten young women in the 12th grade said they visited social media sites every day. Meanwhile, time spent playing video games rose rom under an hour a day to an hour and a half on average. One out of ten American 8th grade students in 2016 spent 40 hours a week or more playing video games. Let me emphasize that this is equal to the time most adults spend per week at work.",
+      "sourceHash": "a0640f5bf1f212967691365c961ccee94bdcc37dda52b55f3f1c578a06eee338",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 青少年并不总是花那么多时间在数字媒体上。自 2006 年以来，上网时间增加了一倍，社交媒体的使用也从周期性活动转变为同一时期的日常活动。到 2016 年，12 年级的年轻女性中近十分之九表示她们每天都会访问社交媒体网站。与此同时，玩电子游戏的时间从每天不到一个小时增加到平均一个半小时。 2016 年，十分之一的美国八年级学生每周花 40 个小时或更多时间玩电子游戏。我要强调的是，这相当于大多数成年人每周工作的时间。",
+      "source": {
+        "blockIds": [
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-1",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) If teens are spending so much time using electronic devices, does that mean they have to give up some other activities? Maybe not. Over the years, many scholars have 画sted that time online does not necessarily take away time spent engaging with traditional media or on other activities. Some people, they argue, are just more interested in certain kinds of media and entertainment. Thus, using more of one type of media does not necessarily mean less of the other.",
+      "sourceHash": "a51d37315a89f52486e841aad5514abb3d4b12e61fe1193ec75064615a30e6da",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 如果青少年花费如此多的时间使用电子设备，这是否意味着他们必须放弃一些其他活动？也许不是。多年来，许多学者认为上网时间并不一定会占用花在传统媒体或其他活动上的时间。他们认为，有些人只是对某些类型的媒体和娱乐更感兴趣。因此，更多地使用一种媒体并不一定意味着更少地使用另一种媒体。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-2",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) That may be true, but that still does not tell us much about what happens across a whole generation of people when time spent on digital media grows. Large surveys conducted over the course of many years tell us that American youth are not going to the cinema nearly as oten as they did in the past. While 70 percent of 8th and 10th grade students used to go to the movies once a month or more, now only about half do this. More and more, watching a movie is something teens choose to do on their electronic devices. Why is this a problem? One reason is that going to the cinema is generally a social activity. Now, watching movies is something that most teens do alone. This its a larger patten. In another analysis, researchers ound that today's teens go out with their 扣ends much less oten than previous generations did.",
+      "sourceHash": "a580c3c989016d5927f4e5fc1dde43d3e0d26dae1b2bf61bfc5c30a63d1cfafd",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 这可能是真的，但这仍然不能告诉我们当花在数字媒体上的时间增加时，整整一代人会发生什么。多年来进行的大型调查告诉我们，美国年轻人不再像过去那样经常去看电影。过去，70% 的 8 年级和 10 年级学生每月去看一次或以上电影，但现在只有大约一半这样做。越来越多的青少年选择在电子设备上观看电影。为什么这是一个问题？原因之一是看电影通常是一种社交活动。现在，看电影是大多数青少年独自做的事情。这是一个更大的图案。在另一项分析中，研究人员发现，如今的青少年带扣子外出的频率比前几代人要少得多。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-3",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) But the trends related to movies are less disturbing compared with the change in how teens spend their time. Research has revealed an eno皿s decline in reading. In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned or school. By 2016, only 16 percent did. This is a huge drop and it is important to note that this was not merely a decline in reading paper books, newspapers or magazines. The survey allowed or reading materials on a digital device.",
+      "sourceHash": "7da439c86e9f05157dcec31aa1ca569deb45442d2b30fb3c53b8fc83cb6dc15b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 但与青少年如何度过时间的变化相比，与电影相关的趋势并不那么令人不安。研究表明，人们的阅读能力正在下降。 1980年，大约60%的高中生表示，他们每天都会读一本没有布置或学校没有安排的书、报纸或杂志。到 2016 年，只有 16% 的人这样做了。这是一个巨大的下降，值得注意的是，这不仅仅是纸质书籍、报纸或杂志阅读量的下降。该调查允许在数字设备上阅读材料。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-4",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) Indeed, the number of senior high school students who said they had not read any books or pleasure in the last year was one out of three by 2016. That is triple the number rom two decades ago. For today's youth, books, newspapers and magazines have less and less of a presence in their daily lives. Of course, teens are still reading But they are generally reading short texts. Most of them are not reading long articles or books that explore deep themes and require critical thinking and relection. Perhaps not accidentally, in 2016 reading scores were the lowest they have ever been since 1972.",
+      "sourceHash": "251adfe3fdbe1562d5cf2fa1c5a0ade8e51dd6af56ea8b95ab95bc250f82dfdb",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 事实上，到 2016 年，表示去年没有读过任何书或没有享受过任何乐趣的高中生人数达到三分之一。这个数字是二十年前的三倍。对于今天的年轻人来说，书籍、报纸和杂志在他们的日常生活中的存在越来越少。当然，青少年仍在阅读，但他们通常阅读短文。他们中的大多数人不会阅读探讨深层主题并需要批判性思考和反思的长篇文章或书籍。也许并非偶然，2016 年的阅读成绩是 1972 年以来的最低水平。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) This might present problems or young people later on. When high school students go on to college, their past and current reading habits will inluence their academic perormance. Imagine going rom reading texts as short as one or two sentences to trying to read entire books written in complex language and containing sophisticated ideas. Reading and comprehending longer books and chapters takes practice, and American teens are no longer getting that practice.",
+      "sourceHash": "de1cf5d788e6fb62c6001f482705c726744d726d086ac84189afa88590bca11a",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 这可能会给以后的年轻人带来问题。当高中生进入大学时，他们过去和现在的阅读习惯将影响他们的学业表现。想象一下，从阅读短短一两句话的文本，到尝试阅读用复杂语言写成并包含复杂思想的整本书。阅读和理解较长的书籍和章节需要练习，而美国青少年不再进行这种练习。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-3-6",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) So how can this problem be solved? Should parents and teachers take away teens' smartphones and replace them with paper books? Probably not. Research has shown that smartphones are currently American teens' main orm of social communication. This means that, without a smartphone, teens are likely to eel isolated rom their peers However, that does not mean teens need to use electronic devices as oten as they do now. Data connecting excessive digital media time to mental health issues suggests a limit of two hours a day of ree time spent with screens, a restriction that will also allow time or other activities—like going to the movies with riends or reading longer, more complicated texts.",
+      "sourceHash": "c09a8d9821bbccc2e0f78e58010706319d3d560b9dda1e65f5cc293a810bde63",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-3-6",
+        "cet4:2021-12-03:b-4-1",
+        "cet4:2021-12-03:b-4-2",
+        "cet4:2021-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-3-6",
+        "cet4:2021-12-03:b-4-1",
+        "cet4:2021-12-03:b-4-2",
+        "cet4:2021-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 那么这个问题该如何解决呢？家长和老师是否应该拿走青少年的智能手机并用纸质书代替？可能不会。研究表明，智能手机是目前美国青少年社交交流的主要方式。这意味着，如果没有智能手机，青少年可能会与同龄人隔绝。但这并不意味着青少年需要像现在一样经常使用电子设备。将过多的数字媒体时间与心理健康问题联系起来的数据表明，每天花在屏幕上的时间不得超过两个小时，这一限制也将允许时间或其他活动，例如与朋友一起去看电影或阅读更长、更复杂的文本。",
+      "source": {
+        "blockIds": [
+          "b-3-6",
+          "b-4-1",
+          "b-4-2",
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-6",
+          "b-4-1",
+          "b-4-2",
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-4",
+      "paperId": "cet4:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) The latter is especially important. I would argue that of all the changes brought about by the widespread use of digital devices, the huge decline in reading is likely to have the biggest negative impact on today's teens because reading books and longer articles is one of the best ways to lean critical thinking. It helps people to understand complex issues and to separate act rom iction. Thus, deep reading is crucial or being a good citizen, a successul college student nd a productive employee. If serious reading d比s, a lot will go with it.",
+      "sourceHash": "98984213bde52ae792f972e22c01971bc400e6ac83dc523a89e92f15045af07c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 后者尤其重要。我认为，在数字设备的广泛使用带来的所有变化中，阅读量的大幅下降可能对当今的青少年产生最大的负面影响，因为阅读书籍和较长的文章是培养批判性思维的最佳方法之一。它帮助人们理解复杂的问题并将行为与行为分开。因此，深度阅读对于成为一名好公民、一名成功的大学生和一名高效的员工至关重要。如果认真阅读，很多东西都会随之而来。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Many years'surveys reveal that young people in America are going to the cinema much less oten than they used to.",
+      "sourceHash": "01ce5a7e016edb142682c1b7dea7f0828bc895a578ed2c00e8c730d21b91cfe7",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36.多年的调查显示，美国的年轻人去电影院的次数比以前少得多。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-6",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Survey analysis shows American teens now spend their leisure time on digital devices rather than reading printed books.",
+      "sourceHash": "ab6895fe46f1601dc6e50a7e39df03ea7b92900bb5baaf960b03a9dd9dab3dc1",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 调查分析显示，美国青少年现在将闲暇时间花在数字设备上，而不是阅读印刷书籍。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-7",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. The number of senior high schoolers not reading books or pleasure in a year increased three times over 20 years.",
+      "sourceHash": "8499d5617993887e33d32b5afe23833a0803cceda9904b393220dcf4a7d433f9",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 一年内不读书或不娱乐的高中生人数在 20 年间增加了三倍。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-8",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Many scholars claim that spending time on electronic devices doesn't necessarily mean a decrease of time or other activities.",
+      "sourceHash": "3f7823704e75697fbc5072d6cc6b182b1ed427b2259c2c41ca10d65381dc6547",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 许多学者声称，花时间在电子设备上并不一定意味着时间或其他活动的减少。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Most people spend much more time interacting with digital media than they did ten years ago.",
+      "sourceHash": "b4e42c0b0cf6a7f0c6429513c8df720fdee72ba4900970c41cc8d240ea97c300",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 与十年前相比，大多数人花在数字媒体互动上的时间要多得多。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-10",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. The auhor claims that it will be a great loss if we no longer read books and longer articles.",
+      "sourceHash": "da325416cfa0cfd96ddeb19cb86dcf1c2c4370c2683cddeaf9fe071b9ff64592",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 作者声称，如果我们不再阅读书籍和较长的文章，那将是巨大的损失。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-11",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Over a decade or so, American teens' social media use shifted rom an occasional activity to a routine one.",
+      "sourceHash": "0561ed149a95bf1b3242ef7258326bcbe56afcfbc313fb1ae8a9be30521c0232",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 十多年来，美国青少年对社交媒体的使用从偶尔的活动转变为例行活动。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-12",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. A more disturbing trend in America today is that teens are spending ar less time reading than around our decades ago.",
+      "sourceHash": "4638f7e23e0425dd356456a2d58fbd526229bb05c04c2abbb6749662df9c1222",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 当今美国一个更令人不安的趋势是，青少年花在阅读上的时间比几十年前要少。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-13",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Some ive years ago, high school seniors in America generally spent more than six hours a day on electronic devices.",
+      "sourceHash": "0b0715fed7f590ec82c39c3972abe9bcaf339ab34376fc5680ca91ab42f601fb",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 大约五年前，美国的高中生一般每天花在电子设备上的时间超过六个小时。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-4-14",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. It was ound that American youngsters today don't socialize nearly as much as the earlier generations.",
+      "sourceHash": "bee9ca6a8defe02d5b9a4a5cfec3c8ffa1e3427d32a04526faf5771e221c2f59",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 事实证明，今天的美国年轻人的社交活动不如前几代人那么多。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-2",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions",
+      "sourceHash": "a4eb5d22a2cd40f5e5f8279cf507a464a5cbb51bf5848c48ab0160ac2a3248bb",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每一段文章后面都会有一些问题",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-3",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "or unfinished statements. For each of them there are four choices marked AJ, BJ, J and DJ",
+      "sourceHash": "5a356d2de3ab3dc363975e85cf38c11b650ab2dd81aadef5959857ee8efcc3c3",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "或未完成的陈述。每个都有四个选项，标记为 AJ、BJ、J 和 DJ",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-4",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "You should decide on the best choice and mark the corresponding letter on Answer Sheet 2",
+      "sourceHash": "942709349cbe767c75e9fbc72a9c6ebe079eef90914860152da2d1b354e8edee",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "您应该决定最佳选择并在答题纸 2 上标记相应的字母",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "with a single line through the centre.",
+      "sourceHash": "e0c3ed561c4c0829b2a39ec55fd0f45c7027fabf449978fa5466b2d3ba6d00d6",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有一条线穿过中心。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-7",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the ollowing passage.",
+      "sourceHash": "ce5858e144d3015311aa794223b22427abe3a29491636f51dce3d15ed92946f9",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-8",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Have you ever wondered how acceptable it is to hug or touch someone? While it may",
+      "sourceHash": "c2ef2db3d7b3081d49337e27ec0abc7de6372ca65613ced1cc184986d1b8980d",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "您是否想过拥抱或触摸某人是否可以接受？虽然它可能",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "sound sae to avoid all physical contact so as not to ofend anyone, the lack of touching",
+      "sourceHash": "b53cde2e17bb3905a123bf3f1c523f34d0348eeac45c2abfbceec6b70e8dacff",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "声音sae避免所有身体接触以免冒犯任何人，缺乏触摸",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-10",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "血ght imply cold attitudes or indiference in interpersonal relationships.",
+      "sourceHash": "b1e63f7d90378ae566f0b6dc6011caf51d191792116dcac5e84f1432bb334648",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "血腥意味着人际关系中的冷漠态度或冷漠。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-11",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "So, what should we do? The simple answer is to thoroughly len unique cultural",
+      "sourceHash": "ded5a1b6b76d129691ebbf65c8266e58900ac35dc9c8c434dad7bbdb495f6aa3",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "那么，我们应该做什么呢？简单的答案就是充分借鉴独特的文化",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-12",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "norms or physical contact. In nonverbal communication terminoloy (术语），physical",
+      "sourceHash": "b9fcc773f988e850c14d05eeb5317f4f7b119ba4fa3cab67f685373f0bb8cc2d",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "规范或身体接触。非语言交流中的术语（术语），物理",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-13",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "contact and the study of touching are generally reerred to as haptics",
+      "sourceHash": "57b511ba93701162a972403b4f0a74ba05c370300ca9f9ff059fdddb07bea82b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "接触和触摸的研究通常被称为触觉",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-14",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Haptics in communication often suggest the level of intimacy. They are usually",
+      "sourceHash": "a4aae95a6c58c715dfd591cc7f646e92cc93c129d64ac008dde5ef9de17e3d41",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "沟通中的触觉通常表明亲密程度。他们通常是",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-15",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "classiied into two groups: high-contact and low-contact.",
+      "sourceHash": "627a455d09ef8b5326557361878621dba1fb9245e9f97d7e469027ee124ea73e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "分为两类：高接触和低接触。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-16",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Asia and quite surprisingly the United States, Canada and Britain belong to",
+      "sourceHash": "e4b1ecb907dbffd18a7a96337b911b1a179a4e5d2ba6eb16cf29bad73301e221",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "亚洲，令人惊讶的是美国、加拿大和英国都属于其中",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-17",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "low-contact cultures.People rom the rest of the world, such as Latin America, are",
+      "sourceHash": "94db702ae9f4dee40e978f074adb6fe928f02fd002bbc88c198333548f44db41",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "低接触文化。来自世界其他地区（例如拉丁美洲）的人们",
+      "source": {
+        "blockIds": [
+          "b-5-17"
+        ],
+        "reflowBlockIds": [
+          "b-5-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-18",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "considered to be in high-contact cultures, where they tend to expect touching in social",
+      "sourceHash": "78791844424a6a5ef8d50a3f94906c8ae90743b2a9c4ede7b6796ed0afdb6e0d",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "被认为处于高接触文化中，他们倾向于期望在社交中进行接触",
+      "source": {
+        "blockIds": [
+          "b-5-18"
+        ],
+        "reflowBlockIds": [
+          "b-5-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-19",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "interactions and eel more comortable with physical closeness. Despite the classiication,",
+      "sourceHash": "5c75c450d305d013772c62ccaf7b93ac447ef69aa6a862de2ed9d098fbda7e9a",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与鳗鱼的互动和身体上的亲密接触更让人感到舒适。尽管有分类，",
+      "source": {
+        "blockIds": [
+          "b-5-19"
+        ],
+        "reflowBlockIds": [
+          "b-5-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-20",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "there are more complex actors such as relational closeness, gender, age, and context that",
+      "sourceHash": "d1b7a836cb3488e85df94aac7959fdd4b91149317136baaa68d93ebad25976f8",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "还有更复杂的因素，例如关系亲密程度、性别、年龄和背景",
+      "source": {
+        "blockIds": [
+          "b-5-20"
+        ],
+        "reflowBlockIds": [
+          "b-5-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-21",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "can afect how someone views physical contact.",
+      "sourceHash": "7e055ed8a0734bda08ea02187364f27aa3b0de3f8a6be7ddbca72f0703ae66d4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-21"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "会影响某人如何看待身体接触。",
+      "source": {
+        "blockIds": [
+          "b-5-21"
+        ],
+        "reflowBlockIds": [
+          "b-5-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-22",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "One common French custom of greetings is cheek-kissing, but it is mostly restricted to",
+      "sourceHash": "c1e83708e7667f0eeb29a03d1c2221f2813e861a5a6d99880ddd1dda10a2b983",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-22"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-22"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "法国人问候的一种常见习俗是亲吻脸颊，但它主要限于",
+      "source": {
+        "blockIds": [
+          "b-5-22"
+        ],
+        "reflowBlockIds": [
+          "b-5-22"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-23",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "扣ends, close acquaintances and amily members. While cheek-kissing or Latin Americans",
+      "sourceHash": "40814131ed37742c7017a906a692f61e5f012c419eea95c98fc5319602bc1b25",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-23"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-23"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "扣完，熟人，亲人。当亲吻脸颊或拉丁美洲人时",
+      "source": {
+        "blockIds": [
+          "b-5-23"
+        ],
+        "reflowBlockIds": [
+          "b-5-23"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-24",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "is also a universal greeting orm, it does not require such a high degree of relational",
+      "sourceHash": "c5994b9dbe97848e36f7e951ec87705c39bc7248a8e14ddf14719809035949e3",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-24"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-24"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "也是一种通用的问候语，不需要那么高的关系度",
+      "source": {
+        "blockIds": [
+          "b-5-24"
+        ],
+        "reflowBlockIds": [
+          "b-5-24"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-25",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "closeness. However, gender matters more or them because check如ssing oten only",
+      "sourceHash": "cb6133138bce8dcfc8e07d2e505b7c230e0df75e02a28cacc34e4cdaded9b4cc",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-25"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-25"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "亲密程度。然而，性别更重要，因为通常只检查",
+      "source": {
+        "blockIds": [
+          "b-5-25"
+        ],
+        "reflowBlockIds": [
+          "b-5-25"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-26",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "happens between women or a man and a woman but not two men.",
+      "sourceHash": "898170d65afcb4b5caf36f081bae1a49926e339e68d3a9a9d5358c78bb68fb72",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-26"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-26"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "发生在女人之间或男人和女人之间，但不会发生在两个男人之间。",
+      "source": {
+        "blockIds": [
+          "b-5-26"
+        ],
+        "reflowBlockIds": [
+          "b-5-26"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-27",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "In contrast, in certain Arabian, Arican, and Asian countries, men can publicly hold",
+      "sourceHash": "df50a82fe4a9bcf614abaf6a3332ff68641bc836474d80682d00c5f59c6b7837",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-27"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-27"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "相比之下，在某些阿拉伯、阿里加和亚洲国家，男性可以公开举行",
+      "source": {
+        "blockIds": [
+          "b-5-27"
+        ],
+        "reflowBlockIds": [
+          "b-5-27"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-28",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "hands or show physical afection as signs of brotherhood or riendship while these",
+      "sourceHash": "4e9b06fdc760107b3da33fcbed31d6d2a7f031f69f00a2a48f81e21689b63e1e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-28"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-28"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "握手或表现出身体上的感情作为兄弟情谊或朋友关系的标志，而这些",
+      "source": {
+        "blockIds": [
+          "b-5-28"
+        ],
+        "reflowBlockIds": [
+          "b-5-28"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-29",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "behaviors may suggest a romantic relationship in other parts of the world. Although men's",
+      "sourceHash": "b6f39aba8ecdbf3e54b622894e9207bed0174e179060768e049689534124421c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-29"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-29"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "行为可能暗示着世界其他地方的浪漫关系。虽然是男装",
+      "source": {
+        "blockIds": [
+          "b-5-29"
+        ],
+        "reflowBlockIds": [
+          "b-5-29"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-30",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "touching is more normal in these cultures, physical contact between persons of opposite",
+      "sourceHash": "66e7d76f680f382b52f24c63b873dffc49fd63673f2cb51eec40ca35b4b33b98",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-30"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-30"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在这些文化中，接触更为正常，异性之间的身体接触",
+      "source": {
+        "blockIds": [
+          "b-5-30"
+        ],
+        "reflowBlockIds": [
+          "b-5-30"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-31",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "sexes who are not amily members is negatively perceived in Arabian countries.",
+      "sourceHash": "1d12eff8355a61509c42433ec9da6863b6d38029da78e39e389d23531d183df9",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-31"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-31"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在阿拉伯国家，非家庭成员的性别受到负面看法。",
+      "source": {
+        "blockIds": [
+          "b-5-31"
+        ],
+        "reflowBlockIds": [
+          "b-5-31"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-32",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "These actors could deinitely afect the degree to which someone is comortable with",
+      "sourceHash": "c3ed5b10f92bdd2baf2931ba7680a387c3b447ea4de0883eaea7415c7deda49e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-32"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-32"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些演员肯定会影响某人与他人相处的程度",
+      "source": {
+        "blockIds": [
+          "b-5-32"
+        ],
+        "reflowBlockIds": [
+          "b-5-32"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-33",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "tactile （触觉的）communication and physical intimacy. Thereore, if you are someone who",
+      "sourceHash": "bd4a78647cbc5a9d0b1ad9af1a20e962b1fce544d8b454f453c3a33217bba640",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-33"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-33"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "触觉交流和身体上的亲密。因此，如果你是这样的人",
+      "source": {
+        "blockIds": [
+          "b-5-33"
+        ],
+        "reflowBlockIds": [
+          "b-5-33"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-34",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "loves to show physical afection, you should not be araid to show it or drastically change",
+      "sourceHash": "65e849b895cbda96a0f79db46ef4b0ab2c3725c69d317bf0898f84325a125e1f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-34"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-34"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "喜欢表现出身体上的爱意，你不应该害怕表现出来或彻底改变",
+      "source": {
+        "blockIds": [
+          "b-5-34"
+        ],
+        "reflowBlockIds": [
+          "b-5-34"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-5-35",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "your behaviors—just ask or consent beorehand!",
+      "sourceHash": "ed67c84ac9a2482e4a667ec5d462e309d69ee896a2b15949b5621dd9304c1b61",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-5-35"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-5-35"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "您的行为——只需事先询问或同意即可！",
+      "source": {
+        "blockIds": [
+          "b-5-35"
+        ],
+        "reflowBlockIds": [
+          "b-5-35"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-1",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What does the author say in the irst paragraph about physical contact?",
+      "sourceHash": "6c1092a4a35fbe4fa37141e53b625ec064821624d8fcc80c445fa5eb8a3dc89f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 关于身体接触，作者在第一段中说了些什么？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-3",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What does physical contact in communication suggest?",
+      "sourceHash": "77060df8a0d3ada5b818276f9fa14334caee85be1c27924eda88d62779434637",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 沟通中的身体接触意味着什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What do we len about people in high-contact cultures?",
+      "sourceHash": "c7e7dfc43f40708c25d0a29109d61cc4439e3b10cf8752b6aff3ab6d0dd3fbc3",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 我们对高接触文化中的人们有何看法？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-7",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What do we lean about social customs in Arabian countries?",
+      "sourceHash": "bca772b17577ae23435d95921457f1d0dd9276f9c85e130c593528919a472f6b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 阿拉伯国家的社会习俗有哪些特点？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What does the author tell us to do concening tactile communication?",
+      "sourceHash": "811fb703897ba3f0a82d793bf265146fa83ae7169a4c8519d85e5e71a1fbdeb0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 关于触觉交流，作者告诉我们要做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-12",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the ollowing passage.",
+      "sourceHash": "b286e40673bdd690ac3347ade17b9374cd6334ea10503513481edb12eef3c214",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-13",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "From climate change to the ongoing pandemic (大流行病） and beyond, the issues",
+      "sourceHash": "c2a243f38485e0bdb404960e0e132f75d40a936a879ee79a9e82eaf7bda66f04",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "从气候变化到持续的流行病等，这些问题",
+      "source": {
+        "blockIds": [
+          "b-6-13"
+        ],
+        "reflowBlockIds": [
+          "b-6-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-14",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "acing today's world are increasingly complex and dynamic. Yet solving problems like",
+      "sourceHash": "6be62c9663fbae8f505a95c50df654c1ff6995546207297d035ecf8a7f74fcb5",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当今世界日益复杂和动态。然而解决像这样的问题",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-15",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "these requires new approaches that extend beyond traditional ways of thinking. A study led",
+      "sourceHash": "62c03a9dbe2842e7a7b89e852850c6a70b94f4da92519c0dbeb47073e4f74f67",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些需要超越传统思维方式的新方法。一项研究导致",
+      "source": {
+        "blockIds": [
+          "b-6-15"
+        ],
+        "reflowBlockIds": [
+          "b-6-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-16",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "by Yale Proessor of Psychology, Paul O'Keee, ound that having a growth mindset（思维",
+      "sourceHash": "db33dc63dabe74e60232a6d08913b28ebcd1abb8d5943100b69c8d293e95098b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "作者：耶鲁大学心理学教授 Paul O'Keee，发现拥有成长型思维（思维）",
+      "source": {
+        "blockIds": [
+          "b-6-16"
+        ],
+        "reflowBlockIds": [
+          "b-6-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-17",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "倾向） of interest may spark this type of innovation",
+      "sourceHash": "a6c7e3257d86728651b2e6b1fd39c9ebaf8013efa88cf3ca2013de99dad830a2",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "兴趣）可能会引发此类创新",
+      "source": {
+        "blockIds": [
+          "b-6-17"
+        ],
+        "reflowBlockIds": [
+          "b-6-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-18",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Proessor O'Keee established in earlier stud比s that people hold diferent beliefs about",
+      "sourceHash": "94806558b1531686c0c8517e295e7d7e55e4507f6144b403ab6038fdffc78c44",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "奥基教授在早期的研究中证实，人们对",
+      "source": {
+        "blockIds": [
+          "b-6-18"
+        ],
+        "reflowBlockIds": [
+          "b-6-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-19",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "the nature of interest. Those with a growth mindset of interest tend to believe that interests",
+      "sourceHash": "011dd3b9a5530cfaa6d314c52332d2e27e53f32ce9d2a9512c2c8e1d7a2604b0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "兴趣的性质。具有兴趣成长心态的人倾向于相信兴趣",
+      "source": {
+        "blockIds": [
+          "b-6-19"
+        ],
+        "reflowBlockIds": [
+          "b-6-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-20",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "can be developed and cultivated, while those with a ixed mindset of interest tend to believe",
+      "sourceHash": "7481a9261bd850ad6f6f6de8fab36e7f0b0fcd568c99bf8f213e38122ac7b009",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "是可以发展和培养的，而具有固定兴趣思维的人往往认为",
+      "source": {
+        "blockIds": [
+          "b-6-20"
+        ],
+        "reflowBlockIds": [
+          "b-6-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-6-21",
+      "paperId": "cet4:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "that interests are inherent （与生俱有的） and simply need to be 'ound.'Building on these",
+      "sourceHash": "1df5d392ea6c4c2953be3ae5dcbb82fc859d2dad5e871312524d7c1540874b5e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-21"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-6-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "兴趣是与生俱来的，并且只需要“健全”。在此基础上",
+      "source": {
+        "blockIds": [
+          "b-6-21"
+        ],
+        "reflowBlockIds": [
+          "b-6-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-1",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "indings, the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences.",
+      "sourceHash": "135dd2082d1d660dc9768c8fdc982a5bdf7716c6accf93f69f44be7103e38ef0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "最新的研究探讨了兴趣的成长心态如何促进跨越艺术和科学传统学科界限的综合思维。",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-2",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "For example, in one task, research participants were instructed to create new college majors by combining two or more existing academic Arts or Science programs at the订 university. Ater coding and analyzing the ideas they generated, the team ound that people with a growth mindset of interest were more likely to bridge programs across the arts and sciences to create new majors like computational economics rather than creating majors that drew rom only one of those areas, like computational chemistry",
+      "sourceHash": "330ff25165c93ffe8521e745f6bc0d586c4895824c1c90fc9647c4f1be5f154f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "例如，在一项任务中，研究参与者被要求通过结合美容大学现有的两个或多个学术艺术或科学课程来创建新的大学专业。在对他们产生的想法进行编码和分析后，该团队发现，具有兴趣的成长心态的人更有可能将艺术和科学之间的课程联系起来，以创建计算经济学等新专业，而不是创建仅涉及其中一个领域的专业，如计算化学",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-3",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "As Proessor O'Keee pointed out, \"This research provides a useul direction or organizations whose products and services call or integrated and creative solutions. Take smarphones or example. You need not only computer science and engineering knowledge, but also an understanding of psychology and visual design to create a better product Employees with a growth mindset may be more likely to devise innovative ideas that bridge multiple areas of knowledge to achieve better solutions.\"",
+      "sourceHash": "0b7052548980249d72dafa7c8868c31d3114f157ddad9dd6ea4ff5cd161bd482",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "正如 O'Keee 教授指出的那样，“这项研究提供了一个有用的方向或组织，其产品和服务称为集成和创造性的解决方案。以智能手机为例。你不仅需要计算机科学和工程知识，还需要了解心理学和视觉设计来创造更好的产品。具有成长心态的员工可能更有可能设计出创新的想法，连接多个知识领域，以实现更好的解决方案。”",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-4",
+      "paperId": "cet4:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The beneits of a growth mindset of interest may also extend to those seeking employment. This is a pressing issue because many people are becoming unemployed due to the COVID-19 pandemic. Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to diferent ields, and take the initiative to lean new skills.",
+      "sourceHash": "cbf52252eb0eb1aea5eeaf59eadc7cb8f0fcd6a20bbf887b8cfcd9a08971d7a6",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "兴趣成长心态的好处也可能延伸到那些寻求就业的人。这是一个紧迫的问题，因为许多人因 COVID-19 大流行而失业。拥有兴趣成长心态可以帮助求职者拓展兴趣、增强对不同领域的适应能力，主动学习新技能。",
+      "source": {
+        "blockIds": [
+          "b-7-4"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What does the author say about the world today?",
+      "sourceHash": "1d3d926f76c5c52965cc49188b019d7a6cab682a5703e780cc50e0fbeae42eae",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.作者对当今世界有何评价？",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-7",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What did Proessor O'Keee ind in his earlier studies?",
+      "sourceHash": "c396891433bef3c658f0080d9b92c71c66cee077cb7dcc6263912ef6234ff39c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 奥基教授在他早期的研究中发现了什么？",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-9",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What is the ocus of Proessor O'Keee's recent research?",
+      "sourceHash": "d7e9ee5f4e4058e5c34f9c7194b21f12d805e98e021b9744c8ebf30e9152b500",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 奥基教授最近的研究重点是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-7-11",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What does the author want to illustrate with the example of smartphones?",
+      "sourceHash": "8278c4f444402bef57fddec7671393423d300b872e2f72b881a6346820a40c0c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-7-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.作者想用智能手机的例子来说明什么？",
+      "source": {
+        "blockIds": [
+          "b-7-11"
+        ],
+        "reflowBlockIds": [
+          "b-7-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-8-2",
+      "paperId": "cet4:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What is the author's suggestion to those who are seeking employment?",
+      "sourceHash": "a67e54b33836719d66bfea73d1fda0ce743017e1ebf538f313bfb419df3dcce6",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-8-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 作者对求职者有何建议？",
+      "source": {
+        "blockIds": [
+          "b-8-2"
+        ],
+        "reflowBlockIds": [
+          "b-8-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2021-12-03:p:b-8-5",
+      "paperId": "cet4:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-8-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-8-5"
+        ],
+        "reflowBlockIds": [
+          "b-8-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2021-12-03.json",
+        "pdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2021-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2021-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-46-1",
+      "optionId": "cet4:2021-12-03:q-46-1:A",
+      "sourceText": "Its role in interpersonal relationships is getting increasingly important",
+      "sourceHash": "866cb1b83cfb1fdee9cf003095a51b57308875b069e6de0f581e9e7bae4a076e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Its role in interpersonal relationships is getting increasingly important",
+      "translationEligible": true,
+      "translationZh": "它在人际关系中的作用越来越重要",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-46-1",
+      "optionId": "cet4:2021-12-03:q-46-1:B",
+      "sourceText": "It is becoming more acceptable to many who used to think it ofensive.",
+      "sourceHash": "60c3ee0ff7a8edb180d0add923e7f08bfb3221c9bbc1da3e91c78bb770c9191b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is becoming more acceptable to many who used to think it ofensive.",
+      "translationEligible": true,
+      "translationZh": "对于许多曾经认为它具有冒犯性的人来说，它变得越来越容易接受。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-46-1",
+      "optionId": "cet4:2021-12-03:q-46-1:C",
+      "sourceText": "Its absence might suggest a lack of warmth in interpersonal relationships",
+      "sourceHash": "32c1092da6ebaba8308ce03be005877859d84b6844b4b6201a52eac5eb80cefd",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Its absence might suggest a lack of warmth in interpersonal relationships",
+      "translationEligible": true,
+      "translationZh": "它的缺失可能表明人际关系缺乏温暖",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-46-1",
+      "optionId": "cet4:2021-12-03:q-46-1:D",
+      "sourceText": "It might prompt diferent responses rom people of diferent social backgrounds",
+      "sourceHash": "9f06ec570a1d404fc129275ab07e31c9ab36243ed51be38033b23a239120270b",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It might prompt diferent responses rom people of diferent social backgrounds",
+      "translationEligible": true,
+      "translationZh": "它可能会引起不同社会背景的人的不同反应",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-47-1",
+      "optionId": "cet4:2021-12-03:q-47-1:A",
+      "sourceText": "What social class people belong to",
+      "sourceHash": "f2c3305f4d2fcff953e830c617d3b8e8d6625f33874a41816121477e72702786",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "What social class people belong to",
+      "translationEligible": true,
+      "translationZh": "人们属于什么社会阶层",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-47-1",
+      "optionId": "cet4:2021-12-03:q-47-1:B",
+      "sourceText": "How civilized the communicators are.",
+      "sourceHash": "8037f4593c0764f0f8d0c66be91c5532c2b164da818bb4a3686e2c01035ecfa4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "How civilized the communicators are.",
+      "translationEligible": true,
+      "translationZh": "沟通者多么文明。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-47-1",
+      "optionId": "cet4:2021-12-03:q-47-1:C",
+      "sourceText": "What amily background people come rom",
+      "sourceHash": "e18fba4311ccd580131b60bbd0489a797c311aa59836fe0f2a8dd96c2e4824aa",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "What amily background people come rom",
+      "translationEligible": true,
+      "translationZh": "什么家庭背景的人来ROM",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-47-1",
+      "optionId": "cet4:2021-12-03:q-47-1:D",
+      "sourceText": "How close the communicators' relationships are.",
+      "sourceHash": "2b4a05d91f320c7e8ac6158289f6a8bdc6f5b6869eacf10aa9f62895aab68cf0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "How close the communicators' relationships are.",
+      "translationEligible": true,
+      "translationZh": "沟通者的关系有多密切。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-48-1",
+      "optionId": "cet4:2021-12-03:q-48-1:A",
+      "sourceText": "They are sensitive to the way people express their emotions",
+      "sourceHash": "183858299af3c62e134448bc2126f229baba648317af2ab0f528330670c0b603",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are sensitive to the way people express their emotions",
+      "translationEligible": true,
+      "translationZh": "他们对人们表达情感的方式很敏感",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-48-1",
+      "optionId": "cet4:2021-12-03:q-48-1:B",
+      "sourceText": "They take touching as a cultural norm in social interactions.",
+      "sourceHash": "906e7d8816138cc915e6ff74aa14e2a38490f0476bac22361fae884fcf231a5a",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They take touching as a cultural norm in social interactions.",
+      "translationEligible": true,
+      "translationZh": "他们将触摸视为社交互动中的文化规范。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-48-1",
+      "optionId": "cet4:2021-12-03:q-48-1:C",
+      "sourceText": "They attach great importance to close ties among people",
+      "sourceHash": "840f7c594cd8c806816c3265cdfccbb0a184887fb611837c37dc9a77fde74fe3",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They attach great importance to close ties among people",
+      "translationEligible": true,
+      "translationZh": "他们非常重视人与人之间的密切联系",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-48-1",
+      "optionId": "cet4:2021-12-03:q-48-1:D",
+      "sourceText": "They tend to be more open in interpersonal relationships",
+      "sourceHash": "693fe3e0ae24aabddfc46ba6e1a2cf112dc771a7f07be7ddcc3d1681c318e453",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They tend to be more open in interpersonal relationships",
+      "translationEligible": true,
+      "translationZh": "他们在人际关系中往往更加开放",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-49-1",
+      "optionId": "cet4:2021-12-03:q-49-1:A",
+      "sourceText": "Men can show riendship in public through physical afection",
+      "sourceHash": "1923940e5980c9d460f9950ea6a1fe20f67854759fa6827d437bea1f7eed76b0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Men can show riendship in public through physical afection",
+      "translationEligible": true,
+      "translationZh": "男人可以通过身体上的感情在公共场合表达友谊",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-49-1",
+      "optionId": "cet4:2021-12-03:q-49-1:B",
+      "sourceText": "Non-trad山onal romantic relationships are simply unacceptable",
+      "sourceHash": "a090f718adfbf61bb61e9a88e403f5073e8d10c885d2f5c847490e01d53714b4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Non-trad山onal romantic relationships are simply unacceptable",
+      "translationEligible": true,
+      "translationZh": "非传统的浪漫关系根本不可接受",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-49-1",
+      "optionId": "cet4:2021-12-03:q-49-1:C",
+      "sourceText": "Physical contact between unamiliar people is negatively perceived",
+      "sourceHash": "91a2e2a710ac57a230b1e6a6cc395f15782803401895e6c8522568f056765a1c",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Physical contact between unamiliar people is negatively perceived",
+      "translationEligible": true,
+      "translationZh": "不熟悉的人之间的身体接触会受到负面影响",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-49-1",
+      "optionId": "cet4:2021-12-03:q-49-1:D",
+      "sourceText": "People of diferent ages and genders show afection in diferent ways",
+      "sourceHash": "9513b8fc5814e609b1d4a48d348102f18a470cb26a8e07abd2629548a09481d6",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "People of diferent ages and genders show afection in diferent ways",
+      "translationEligible": true,
+      "translationZh": "不同年龄、不同性别的人表达感情的方式不同",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-50-1",
+      "optionId": "cet4:2021-12-03:q-50-1:A",
+      "sourceText": "Lay emphasis on nonverbal communication.",
+      "sourceHash": "3407e2f40a5059976d9bcceb225e80278b311d0691cc23620ff664fc77dd2414",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Lay emphasis on nonverbal communication.",
+      "translationEligible": true,
+      "translationZh": "重视非语言交流。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-50-1",
+      "optionId": "cet4:2021-12-03:q-50-1:B",
+      "sourceText": "Lean to use appropriate body language irst",
+      "sourceHash": "e57cf1d6865f0713b458ce7aec6f7dba46666fcb21301fd6c87105f0e4b5f140",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Lean to use appropriate body language irst",
+      "translationEligible": true,
+      "translationZh": "首先倾向于使用适当的肢体语言",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-50-1",
+      "optionId": "cet4:2021-12-03:q-50-1:C",
+      "sourceText": "Pay attention to the diferences between genders.",
+      "sourceHash": "f70044f6d6fe116d71bfa8c4daea35613652b042a409b751f753d576d46958fe",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Pay attention to the diferences between genders.",
+      "translationEligible": true,
+      "translationZh": "注意性别之间的差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-50-1",
+      "optionId": "cet4:2021-12-03:q-50-1:D",
+      "sourceText": "Take other people's preerence into consideration.",
+      "sourceHash": "774a4b7afadee8fe591b24784e1701ce875b179819b47ecf057f56ff2c832c35",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Take other people's preerence into consideration.",
+      "translationEligible": true,
+      "translationZh": "考虑其他人的偏好。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-51-1",
+      "optionId": "cet4:2021-12-03:q-51-1:A",
+      "sourceText": "It aces problems that are getting more varied and complicated.",
+      "sourceHash": "97a1c7592a069a5baf9b114ad546d32fc8c112469a6072ba913fbcfa0e4d788f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It aces problems that are getting more varied and complicated.",
+      "translationEligible": true,
+      "translationZh": "它解决的问题变得越来越多样化和复杂。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-51-1",
+      "optionId": "cet4:2021-12-03:q-51-1:B",
+      "sourceText": "It has done away with many of the traditional ways of thinking",
+      "sourceHash": "9f90b3990965ed22af37e523edd6c118b0090b1cd350c4d7c01c85e311bb4dc8",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It has done away with many of the traditional ways of thinking",
+      "translationEligible": true,
+      "translationZh": "它废除了许多传统的思维方式",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-51-1",
+      "optionId": "cet4:2021-12-03:q-51-1:C",
+      "sourceText": "It is undergoing radical and proound changes",
+      "sourceHash": "9b98e2f08c8b550e1fae502bc9184556fb26374d8b20ab299f1e6499d6831203",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is undergoing radical and proound changes",
+      "translationEligible": true,
+      "translationZh": "它正在发生彻底而深刻的变化",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-51-1",
+      "optionId": "cet4:2021-12-03:q-51-1:D",
+      "sourceText": "It is witnessing various types of innovations.",
+      "sourceHash": "9e159e0919a734717187be5e1ebc769cf218adec3a0d0174c8e2e24de292c335",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is witnessing various types of innovations.",
+      "translationEligible": true,
+      "translationZh": "它正在见证各种类型的创新。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-52-1",
+      "optionId": "cet4:2021-12-03:q-52-1:A",
+      "sourceText": "People's interests tend to change with age.",
+      "sourceHash": "595e452622fa2d35940b2fc81b4c1392a6988059912ca2c032367d93c07f4ce1",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "People's interests tend to change with age.",
+      "translationEligible": true,
+      "translationZh": "人们的兴趣往往会随着年龄的增长而改变。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-52-1",
+      "optionId": "cet4:2021-12-03:q-52-1:B",
+      "sourceText": "People's interests dete血e their mindsets.",
+      "sourceHash": "1f318c9bdd9bc1b82c8cd27b81d77179b76ec6c43e97e8f9c366112a4d540b46",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "People's interests dete血e their mindsets.",
+      "translationEligible": true,
+      "translationZh": "人们的利益决定他们的心态。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-52-1",
+      "optionId": "cet4:2021-12-03:q-52-1:C",
+      "sourceText": "People are divided about the nature of interest.",
+      "sourceHash": "5b4be59e6714deed219d481b668191c7c44b388f4c58dc53b853269507e459e1",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "People are divided about the nature of interest.",
+      "translationEligible": true,
+      "translationZh": "人们对于兴趣的性质存在分歧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-52-1",
+      "optionId": "cet4:2021-12-03:q-52-1:D",
+      "sourceText": "People of diferent ages have diferent mindsets.",
+      "sourceHash": "21d326c1f7eb3d0f1502cfae4cd1db2973aabf7550c180415208a207f465a135",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "People of diferent ages have diferent mindsets.",
+      "translationEligible": true,
+      "translationZh": "不同年龄段的人有不同的心态。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-53-1",
+      "optionId": "cet4:2021-12-03:q-53-1:A",
+      "sourceText": "How boundaries can be removed between arts and science disciplines.",
+      "sourceHash": "3020dd87bb561c9324db0674e650257f172f6b7a5960f2a4deaf2e004849cf72",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "How boundaries can be removed between arts and science disciplines.",
+      "translationEligible": true,
+      "translationZh": "如何消除艺术和科学学科之间的界限。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-53-1",
+      "optionId": "cet4:2021-12-03:q-53-1:B",
+      "sourceText": "How easible it is to create new disciplines like computational economics",
+      "sourceHash": "8374b4d65f52b6c294965f126ea3150195443f25b313b510b376f7c616373353",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "How easible it is to create new disciplines like computational economics",
+      "translationEligible": true,
+      "translationZh": "创建计算经济学等新学科是多么容易",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-53-1",
+      "optionId": "cet4:2021-12-03:q-53-1:C",
+      "sourceText": "How students in arts and sciences view the two types of mindset of interest.",
+      "sourceHash": "0642d5e5ad524225916c6157bf180d572bd3d7990f2badbb318d4ae6aee8328f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "How students in arts and sciences view the two types of mindset of interest.",
+      "translationEligible": true,
+      "translationZh": "艺术和科学学生如何看待两种感兴趣的心态。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-53-1",
+      "optionId": "cet4:2021-12-03:q-53-1:D",
+      "sourceText": "How a growth mindset of interest can contribute to cross-disciplinary thinking.",
+      "sourceHash": "7a2a87c1fc2559ec2991f0ee52a396cf5e74290059138df7ec13b388ffae0ca0",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "How a growth mindset of interest can contribute to cross-disciplinary thinking.",
+      "translationEligible": true,
+      "translationZh": "兴趣的成长心态如何有助于跨学科思维。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-54-1",
+      "optionId": "cet4:2021-12-03:q-54-1:A",
+      "sourceText": "Hi-tech products are needed in interdisciplinary research.",
+      "sourceHash": "58aeebef08de34533b2b14d57ab15cdec2ad5a368eee3454b0d115d40eea3b39",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-12"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Hi-tech products are needed in interdisciplinary research.",
+      "translationEligible": true,
+      "translationZh": "跨学科研究需要高科技产品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-54-1",
+      "optionId": "cet4:2021-12-03:q-54-1:B",
+      "sourceText": "Improved technology gives birth to highly popular products",
+      "sourceHash": "278278d14eb486b4cb99146fdf40ef7661876147432ece387768d03fdb409553",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-7-12"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-7-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Improved technology gives birth to highly popular products",
+      "translationEligible": true,
+      "translationZh": "技术的进步催生了广受欢迎的产品",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-54-1",
+      "optionId": "cet4:2021-12-03:q-54-1:C",
+      "sourceText": "Making innovative products needs multidisciplinary knowledge",
+      "sourceHash": "e6fe0296a3b0cd15b9af6a3e493d0c66f6976bee9234bbcec69a40835f71bf25",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Making innovative products needs multidisciplinary knowledge",
+      "translationEligible": true,
+      "translationZh": "制造创新产品需要多学科知识",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-54-1",
+      "optionId": "cet4:2021-12-03:q-54-1:D",
+      "sourceText": "Hi-tech products can boost people's integrative thinking",
+      "sourceHash": "ef031dc607f2929d2327340023a60243a738bdeee287d1e1bfdb88be236b3eb7",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Hi-tech products can boost people's integrative thinking",
+      "translationEligible": true,
+      "translationZh": "高科技产品可以提升人们的综合思维",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-55-1",
+      "optionId": "cet4:2021-12-03:q-55-1:A",
+      "sourceText": "Leaming practical skills.",
+      "sourceHash": "44187a25845d833cb131d53bca6958c6f2397e5e48c575f53a0a1dcd8309edbf",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-3"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Leaming practical skills.",
+      "translationEligible": true,
+      "translationZh": "学习实用技能。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-55-1",
+      "optionId": "cet4:2021-12-03:q-55-1:B",
+      "sourceText": "Broadening their interests.",
+      "sourceHash": "f55b2363ee78cd0b97bc83b5887a85fe4c33b282dd1a57f89f42019a64871cb4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-3"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Broadening their interests.",
+      "translationEligible": true,
+      "translationZh": "拓宽他们的兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-55-1",
+      "optionId": "cet4:2021-12-03:q-55-1:C",
+      "sourceText": "Staying sae in the pandemic.",
+      "sourceHash": "8532dd10a272e56cf575ba9d197be31dbc525cc8c35f5ef1360efffc6cb25529",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-3"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Staying sae in the pandemic.",
+      "translationEligible": true,
+      "translationZh": "疫情期间保持健康。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-55-1",
+      "optionId": "cet4:2021-12-03:q-55-1:D",
+      "sourceText": "Knowing their pressing issues",
+      "sourceHash": "e160cff9f938e0f0d08acd44669283920a4dab01b2942ecb3b2d2de59e31f167",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-8-3"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-8-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Knowing their pressing issues",
+      "translationEligible": true,
+      "translationZh": "了解他们的紧迫问题",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:A",
+      "sourceText": "amount",
+      "sourceHash": "cf38d95c9c6b1d9d5125c04d41a54df57727ef4cfb3f5116a602fe2b25115c13",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "amount",
+      "translationEligible": true,
+      "translationZh": "金额",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:B",
+      "sourceText": "answer",
+      "sourceHash": "0db52f4076c082518412afd3dd3576e2cb0c63703fd7fed5e23ade60efef31d9",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "answer",
+      "translationEligible": true,
+      "translationZh": "回答",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:C",
+      "sourceText": "avoid",
+      "sourceHash": "3270f7fe8acead1d13ab1302994ea2732f3bd98081995e5a454dea82501197e4",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "avoid",
+      "translationEligible": true,
+      "translationZh": "避免",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:D",
+      "sourceText": "aware",
+      "sourceHash": "8bf9fd4be091a1baa7d3947484c1b90a1ce69f0df2facb671c8658ea9f4704d8",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "aware",
+      "translationEligible": true,
+      "translationZh": "意识到",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:E",
+      "sourceText": "depart",
+      "sourceHash": "a43ac7b069a33fe30bf308b54f6e8d8ec7d516f7d1875de65e2257d07761a909",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "depart",
+      "translationEligible": true,
+      "translationZh": "离开",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:F",
+      "sourceText": "drastically",
+      "sourceHash": "0c036570429a0dbfe7a52ac9666f0f36a449586c0e96c01c92e9eba90c25e91a",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "drastically",
+      "translationEligible": true,
+      "translationZh": "彻底地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:G",
+      "sourceText": "ear",
+      "sourceHash": "3c6a36b640fceaa873f040d65c13e1a8c3e82b635174c78f7d2fbe83a5a0bc64",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "pdfVerifiedSource": {
+        "sourcePdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+        "pdfPage": 2,
+        "anchorKind": "word_bank_option",
+        "reflowBlockIds": [
+          "cet4:2021-12-03:b-2-1"
+        ],
+        "reflowOptionIndex": 6,
+        "sourceOptionId": "cet4:2021-12-03:word-bank:G"
+      },
+      "translationEligible": true,
+      "translationZh": "耳朵",
+      "eligibilityReason": "translate_pdf_verified"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:I",
+      "sourceText": "mechanical",
+      "sourceHash": "96ae0f875bd9062d5e263473590877f82d65b160571e0d4385c65d9a3e3c081f",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "mechanical",
+      "translationEligible": true,
+      "translationZh": "机械的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:J",
+      "sourceText": "result",
+      "sourceHash": "f6a214f7a5fcda0c2cee9660b7fc29f5649e3c68aad48e20e950137c98913a68",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "result",
+      "translationEligible": true,
+      "translationZh": "结果",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:K",
+      "sourceText": "review",
+      "sourceHash": "c97ace4c8fef2cee8fa0f3c9f52aab18dbd4f42438afe362ffb8f75ce4c04b84",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "review",
+      "translationEligible": true,
+      "translationZh": "评论",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:L",
+      "sourceText": "rigorous",
+      "sourceHash": "cecef1fbdc4663a756829f70bc3e80cbb737fcc2b5d30a9b33e0336ca1d8cb0e",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "rigorous",
+      "translationEligible": true,
+      "translationZh": "严谨",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:M",
+      "sourceText": "tend",
+      "sourceHash": "4f0a1f5aef53e953cc28e5086b98eca5d40c8820325fce6a33f34b22c84bbefd",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "tend",
+      "translationEligible": true,
+      "translationZh": "倾向于",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2021-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2021-12-03",
+      "questionId": "cet4:2021-12-03:q-26-1",
+      "optionId": "cet4:2021-12-03:word-bank:N",
+      "sourceText": "timidity",
+      "sourceHash": "0e4649ce3051339b8b7ed80769466eb9e7438dc45abb1c9966f0f375ed4140b8",
+      "sourceBlockIds": [
+        "cet4:2021-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2021-12-03:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "timidity",
+      "translationEligible": true,
+      "translationZh": "胆怯",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 53,
+    "reason:translate": 52,
+    "reason:translate_pdf_verified": 1
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-10",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet4:2021-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-11",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-13",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-14",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-15",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-16",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-17",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-1-18",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2021-12-03:p:b-1-18"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-2",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-5",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-6",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-7",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2021-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2021-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2021-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2021-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-8",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-10",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-11",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-12",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-14",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-16",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-17",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-17"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-18",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-18"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-19",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-19"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-20",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-20"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-21",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-21"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-22",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-22"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-23",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-23"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-24",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-24"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-25",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-25"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-26",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-26"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-27",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-27"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-28",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-28"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-29",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-29"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-30",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-30"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-31",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-31"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-32",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-32"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-33",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-33"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-34",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-34"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-5-35",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-5-35"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-13",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-13"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-14",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-15",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-15"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-16",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-16"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-17"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-18",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-18"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-19",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-19"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-20",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-20"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-6-21",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-6-21"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-7-1"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2021-12-03:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-7-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-7-11"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-8-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2021-12-03:p:b-8-2"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-8-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-8-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2021-12-03:p:b-8-5"
+    },
+    {
+      "sourceBlockId": "cet4:2021-12-03:b-8-6",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 14,
+    "included": 90,
+    "ineligible": 8
+  },
+  "reasonCounts": {
+    "heading_prose": 37,
+    "instruction": 9,
+    "non_english_or_fragment": 5,
+    "question_prompt": 20,
+    "reading_choice_continuation": 3,
+    "reading_choice_paragraph": 10,
+    "reading_prose": 11,
+    "section_label": 9,
+    "unparsed_cloze_region": 1,
+    "unresolved_cloze_or_source_mismatch": 7
+  },
+  "kindCounts": {
+    "cloze": 8,
+    "heading_prose": 37,
+    "instruction": 9,
+    "passage_option": 10,
+    "question_prompt": 20,
+    "reading": 11
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-1-15",
+        "b-1-16",
+        "b-1-17",
+        "b-1-18"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    }
+  ]
+}

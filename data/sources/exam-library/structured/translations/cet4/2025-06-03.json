@@ -1,0 +1,3463 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2025-06-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+  "sourcePdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+  "paragraphs": [
+    {
+      "id": "cet4:2025-06-03:p:b-1-3",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: Suppose your university is conducting a survey to collect students’ opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "7ea478cda28f7e69cf256275a0d463521cffc8fbae5dca02a6916937a275214f",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：假设您的大学正在进行一项调查，以收集学生对适当使用人工智能技术辅助学习的意见。你现在要写一篇文章来表达你的观点。你将有 30 分钟的时间来写这篇文章。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-1-8",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-1-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "cloze",
+      "sourceText": "The human brain has the ability to constantly form new networks and connections between brain cells. This means the brain has an almost magical ability to change. This characteristic is 26 apparent in a new study, focusing on people who underwent a hemispherectomy, a surgical procedure in which half of the brain is removed to treat illness.",
+      "sourceHash": "85e01f0d8dca0a2eba15ea00c7e9c4772b9d321f2cad467f5e18032bfdfdd1e7",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "人脑有能力在脑细胞之间不断形成新的网络和连接。这意味着大脑具有近乎神奇的改变能力。这一特征在一项新研究中尤为明显，该研究重点关注接受大脑半球切除术的人，这是一种切除一半大脑以治疗疾病的外科手术。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-1-10",
+      "paperId": "cet4:2025-06-03",
+      "kind": "cloze",
+      "sourceText": "The findings showed that, despite missing half of this critical 27 , participants could function well. This was because the 28 half of their brain strengthened. In fact, researchers found that connections — and thus communication — between parts of different brain networks are actually stronger in people who had hemispherectomies than in people with intact brains. This 29 that the brain is able to compensate for loss of certain brain structure.",
+      "sourceHash": "71e016b474aa94988bc428041d399dd1e5eed87e54dc5928d442d524d4d0cd6a",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究结果表明，尽管参与者缺失了这个关键器官的一半，但其功能仍能良好。这是因为剩下的一半大脑得到了强化。事实上，研究人员发现，与大脑完整的人相比，接受半球切除术的人不同大脑网络部分之间的联系和沟通实际上更强。这表明大脑能够补偿某些大脑结构的损失。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-1-11",
+      "paperId": "cet4:2025-06-03",
+      "kind": "cloze",
+      "sourceText": "There are many other cases in the medical 30 that document the brain’s amazing ability to 31 . For example, a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain 32 for sight. But a few years after his surgery, scientists found that he could 33 see. They determined that this was because other parts of his brain took over the missing part’s 34 tasks. Another study involved people who could smell, despite missing the region in the brain that processes information about smells. Though they are not sure how these individuals 35 the ability to smell, scientists believe it is possible that another part of the brain took on that task.",
+      "sourceHash": "335591d6f7b09111855d1a7f50d18c27ed2c7039edbdfc5d8d2ab35418f2fb29",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "医学文献中还有许多其他案例证明了大脑惊人的适应能力。例如，一个小男孩因医疗原因被切除了很大一部分大脑，其中包括负责视力的大脑部分。但手术几年后，科学家发现他仍然可以看见东西。他们确定这是因为他大脑的其他部分接管了缺失部分的视觉任务。另一项研究涉及那些有嗅觉的人，尽管他们大脑中处理气味信息的区域被忽略了。尽管他们不确定这些人是如何保留嗅觉能力的，但科学家们相信大脑的另一部分可能承担了这项任务。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-2",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-3",
+      "paperId": "cet4:2025-06-03",
+      "kind": "heading_prose",
+      "sourceText": "“Phantom” Traffic Jams Are Real — And Scientists Know How to Stop Them",
+      "sourceHash": "e4a7a6296230f9fd286b1d7f2a4eac1d06ad12e9599f5ec98f17d6cc3edc6ec6",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“幽灵”交通堵塞是真实存在的——科学家们知道如何阻止它们",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-4",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) Traffic jams are a common problem of most big cities, either in developed or in developing countries, but one kind of traffic jams in particular can be especially frustrating. These are generally known as “phantom” traffic jams, in which dense traffic crawls to a halt for no apparent reason at all.",
+      "sourceHash": "6d2512bba2cc61d72406338e505ac8085bfd8d36d86d500b726a1249f167a687",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 交通拥堵是大多数大城市的普遍问题，无论是在发达国家还是在发展中国家，但特别是一种交通拥堵可能会特别令人沮丧。这些通常被称为“幽灵”交通拥堵，即密集的交通毫无明显原因地慢慢停下来。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-5",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) “When caught in such a traffic jam, it is common for drivers to assume that there must be an accident, or construction or something,” said Massachusetts Institute of Technology (MIT) computer science professor Berthold Horn. “And then you drive and drive and drive... and there isn’t anything there.”",
+      "sourceHash": "577cec7bb5208e8abcfebd8c60f1f34caea0bb8adb67aa1ad866d8b674fdc00b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 麻省理工学院 (MIT) 计算机科学教授伯特霍尔德·霍恩 (Berthold Horn) 表示：“当遇到这样的交通拥堵时，司机通常会认为一定是发生了事故、施工或其他什么事情。” “然后你一直开啊开……然后什么也没有。”",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-6",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) The exact cause of these phantom traffic jams has long remained a mystery. But now, new research has found the cause and researchers may have come up with a solution for this frustrating traffic pattern: maintaining equal spacing between cars on the road, rather than driving so closely behind another vehicle that a collision (碰撞) is likely if that vehicle brakes suddenly.",
+      "sourceHash": "0f86c7b95cd7edbab18d3b947bcf58cbfd26f08f2ca3bdcb73686e8c3646f152",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 这些幻觉交通拥堵的确切原因长期以来一直是个谜。但现在，新的研究已经找到了原因，研究人员可能已经针对这种令人沮丧的交通模式提出了解决方案：保持道路上汽车之间的间距相等，而不是紧跟另一辆车行驶，以免该车辆突然制动时可能发生碰撞。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-7",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) Horn said phantom traffic jams are an emergent property of the flow of vehicles down a highway. A phantom jam begins when a car in dense traffic slows down even slightly, which causes the car behind that vehicle to slow even more — and the slowing action spreads backward through the lane of traffic like a wave, getting worse the farther it spreads. Eventually, the cars far behind are forced to stop completely or risk hitting the slower vehicles ahead — and so the traffic grinds to a halt over nothing, Horn said.",
+      "sourceHash": "1535c8a4114ae08c961e621d78de025d5076f7b9c0f14761463710e88563a6c8",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 霍恩说，虚拟交通拥堵是高速公路上车辆流动的一个紧急特性。当密集交通中的汽车稍微减速时，幻影堵塞就开始了，这会导致该车后面的汽车减速得更快，并且减速动作像波浪一样向后传播到交通车道，传播得越远，情况就越严重。霍恩说，最终，远远落后的汽车被迫完全停下来，否则就有可能撞到前方速度较慢的车辆，因此交通就会无缘无故地陷入停顿。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-8",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) Horn has been working on the problem of phantom traffic jams for years, and he has come up with a solution: By splitting the difference between the cars in front and the cars behind, the spacing of cars in a stream of traffic can act as a damper (抑制) on phantom traffic jams. That is, it can prevent the slow-down effect from being amplified（增强）by the cars that follow behind, he said. In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind.",
+      "sourceHash": "0ad93b682cd7de6b0edaa689733b072cdae2448101a3eb6251c968aa40fc0f4b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 霍恩多年来一直致力于研究虚拟交通拥堵问题，他提出了一个解决方案：通过区分前面的汽车和后面的汽车之间的差异，车流中汽车的间距可以充当虚拟交通拥堵的阻尼器（阻尼器）。他说，也就是说，它可以防止减速效果被后面的汽车放大。本质上，每个驾驶员都会不断地进行调整，以使自己的车辆保持在前车和后车之间的大致中间位置。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) Horn calls this method of vehicle spacing bilateral (双边的) control, and he said it could be achieved with relatively simple modifications to the adaptive cruise control that many new cars already have. Adaptive cruise control is a driver assistance technology that sets a maximum speed for vehicles and automatically slows the speed of the car when traffic is sensed in front of the vehicle. The technology is also known as autonomous cruise control. Such modifications, Horn said, could help fight phantom jams within a few years, maybe decades before an alternative solution, such as networked self-driving cars, becomes a reality on the roads.",
+      "sourceHash": "a5720d9faaf441a60419c2d71af9e67aebccff03b765cdecd3f0a1e7dca8545e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 霍恩将这种车辆间距称为双边控制方法，他表示，这可以通过对许多新车已有的自适应巡航控制系统进行相对简单的修改来实现。自适应巡航控制是一种驾驶员辅助技术，可设置车辆的最大速度，并在检测到车辆前方有交通时自动降低车速。该技术也称为自动巡航控制。霍恩说，这样的修改可以帮助在几年内，甚至几十年内，在替代解决方案（例如联网自动驾驶汽车）成为道路上的现实之前解决幻象拥堵问题。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-10",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) Traffic jams are caused by a number of factors, such as roads that are poorly designed or over-capacity, localized factors like city traffic-lighting patterns, and events like accidents and construction. But phantom traffic jams can make all those problems worse, Horn said. And the researchers in the new study have calculated that solving phantom jams could save at least some of the estimated $121 billion per year that traffic jams are estimated to cost the U.S. economy, Horn told Live Science.",
+      "sourceHash": "48df6dd592dcd1fdc422439ea7a600bdc9acd863f1e7ae45062311785bd45b0e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 交通拥堵是由多种因素造成的，例如道路设计不当或通行能力过剩、城市交通照明模式等局部因素以及事故和施工等事件。但霍恩说，虚拟交通堵塞会让所有这些问题变得更糟。霍恩告诉《Live Science》，这项新研究的研究人员计算出，解决“幻象拥堵”至少可以节省每年因交通拥堵给美国经济造成的 1210 亿美元的损失。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-2-11",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) New research by Horn and MIT postdoctoral associate Liang Wang, published in the journal IEEE Transactions on Intelligent Transportation Systems, shows how bilateral control can fight the problem. The researchers made computer models of real-world traffic conditions, showing how a typical U.S. freeway could benefit from cars using bilateral control. That would be in place when human drivers fail to slow down, thus avoiding tailgating (紧跟) the car in front, Horn said. “Under reasonable conditions today, you might get 1,800 cars per lane per hour throughput (the volume of traffic passing through),” he added. “But with bilateral control, you could almost double that.”",
+      "sourceHash": "2804309f169d39c52c06da41efd539f226971afc19f520294d65664cc5c98d38",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-2-11",
+        "cet4:2025-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H）霍恩和麻省理工学院博士后助理梁王发表在《IEEE智能交通系统汇刊》杂志上的新研究展示了双边控制如何解决这个问题。研究人员制作了现实世界交通状况的计算机模型，展示了典型的美国高速公路如何从使用双边控制的汽车中受益。霍恩说，当人类驾驶员无法减速时，就会出现这种情况，从而避免紧跟前面的汽车。 “在今天合理的条件下，每条车道每小时的吞吐量（通过的交通量）可能达到 1,800 辆汽车，”他补充道。 “但通过双边控制，这个数字几乎可以翻倍。”",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-11",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-2",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) The main alternative to increasing traffic throughput per lane has been to build more lanes and more highways, and putting in new roads is very expensive, he said. “If we can increase the throughput on major highways, even if it’s only by 50 percent, that would be a big deal,” Horn said.",
+      "sourceHash": "d263a51c79c75e39c525fe3e7dbd2846e590dabd3b23da4308920eedecd886d0",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 他说，增加每条车道的交通吞吐量的主要替代方案是修建更多车道和更多高速公路，而修建新道路的成本非常昂贵。 “如果我们能够增加主要高速公路的吞吐量，即使只增加 50%，那也将是一件大事，”霍恩说。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-3",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) With the help of engineering students at high schools in Maine, Horn and Wang have also built a robot simulation (模拟) that shows how bilateral control can suppress phantom traffic jams. Increasing the spacing of vehicles dampens the effect of slowdowns by cars in front of a given car, so that the slowing is not worsened until it becomes a phantom jam, the researchers said.",
+      "sourceHash": "d265c92c26f2930aecb5d3d051faa9fcdeac897f4575984f44dc9144230e1358",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 在缅因州高中工程系学生的帮助下，霍恩和王还建立了一个机器人模拟（模拟），展示双边控制如何抑制虚拟交通拥堵。研究人员表示，增加车辆间距可以抑制前方车辆减速的影响，这样减速就不会恶化，直到变成幻象堵塞。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-4",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) A video from the project shows a train of autonomous robots running along a track without bilateral control; they eventually back up in phantom jams. But when the robots are switched over to bilateral control (by flashing the lights in the room), each autonomous robot tries to keep itself halfway between the robot in front and the one behind; the phantom jams disappear as a result, Horn said.",
+      "sourceHash": "170feb7e57ba15cbd9402175ce7c14215582edaed47fd5e2409fb20c0b3fe57b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 该项目的视频显示一列自主机器人沿着轨道运行，没有双边控制；他们最终在幻象堵塞中倒车。但是，当机器人切换到双边控制（通过闪烁房间内的灯光）时，每个自主机器人都会试图将自己保持在前面的机器人和后面的机器人之间；霍恩说，幻影堵塞因此消失了。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-5",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "L) Since starting his research on phantom traffic jams, Horn has learned that schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups. In particular, studies of millions of bats emerging at dusk from caves in Southeast Asia showed that each bat used a form of bilateral control to reduce the likelihood of collisions with other bats in the densely packed swarm (一大群), Horn said.",
+      "sourceHash": "52133005d6784020248a971589a9346bc5d92af845b8db626f1af9cb6e02c63d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 自从开始研究虚拟交通堵塞以来，霍恩了解到，鱼群、鸟群和蝙蝠在密集的群体中游泳或飞行时，会使用类似的间距策略来避免互相碰撞。霍恩说，特别是，对黄昏时分从东南亚洞穴中出现的数百万只蝙蝠进行的研究表明，每只蝙蝠都使用某种形式的双边控制来减少与密集的群体中其他蝙蝠发生碰撞的可能性。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-6",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "M) Unlike bats, birds and fish, however, humans have difficulty judging distances behind them. To address that weakness, Horn is now working with the car company Toyota to enable a form of bilateral control via modifications to existing adaptive cruise control systems, which use forward-facing sensors to judge the distance to the vehicle ahead. The bilateral control approach would include adding rear-facing sensors to determine the distance to the vehicle following a car.",
+      "sourceHash": "dcd9975c060de06c0978f0873e67ceb6970f58acf7f4164c955d43aeafbfbc1d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M) 然而，与蝙蝠、鸟类和鱼类不同，人类很难判断身后的距离。为了解决这个弱点，霍恩现在正在与汽车公司丰田合作，通过修改现有的自适应巡航控制系统来实现某种形式的双边控制，该系统使用前向传感器来判断与前方车辆的距离。双边控制方法将包括添加后向传感器来确定与跟随汽车的车辆的距离。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-7",
+      "paperId": "cet4:2025-06-03",
+      "kind": "passage_option",
+      "sourceText": "N) But until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely. As Horn argues, “There’s absolutely no advantage of tailgating the car in front of you.”",
+      "sourceHash": "7a760b1123e1a156640c116b394aaedd1363e40f412a7291d22564aa55fc8689",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N）但在这些系统成为标准之前，人类驾驶员只需不那么紧密地跟随前面的汽车就可以帮助减少虚拟交通拥堵。正如霍恩所说，“跟在你前面的车后面绝对没有任何优势。”",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-8",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36. The age-long mystery has now been resolved as to how phantom traffic jams are caused.",
+      "sourceHash": "1b5f1fe3376f1410c218dbf1fc189d1848b8f0764c2cceeee93288ec5f6374a4",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 神秘交通堵塞是如何造成的，这个长期以来的谜团现已得到解决。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37. It is possible to nearly double the hourly throughput per lane by adopting bilateral control.",
+      "sourceHash": "779cc2ad72dc86e86ed54334eb0568cdd800c0135099bb97455ea98ed67bf2d6",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 通过采用双边控制，可以将每条车道每小时的吞吐量增加近一倍。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-10",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38. According to Horn, drivers making constant adjustments for equal spacing between cars in a flow of traffic can help reduce phantom traffic jams.",
+      "sourceHash": "6ad551c6478e3f33179d4331f5e94cd03cea5d7817ec184bcf0600837445ab10",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. Horn 表示，驾驶员不断调整车流中车辆之间的间距，有助于减少虚拟交通拥堵。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-11",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Before systems for bilateral control are installed, drivers should not follow the car in front too closely so as to reduce phantom traffic jams.",
+      "sourceHash": "9e5ba215db9dcef6e68ea62104f8bd451e93479b76763a2ba7b88a7a7a040d52",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 在安装双边控制系统之前，驾驶员不应太靠近前车，以减少假想的交通拥堵。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-12",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Horn said with some simple modifications to the existing equipment in new vehicles, their spacing bilateral control could be accomplished.",
+      "sourceHash": "1d46a7a8d9cd0ba9d7360a9397bcaa1295ec2f40a6988ab2eb2c0a14998daa3b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 霍恩说，通过对新车现有设备进行一些简单的修改，就可以实现它们的间距双边控制。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-13",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41. Drivers caught up in phantom traffic jams are likely to think an accident has happened or some construction is going on.",
+      "sourceHash": "2f7fb9f9a41a9712be2c85ab51d7a68c2a27486264a2bd6940da9d850a964f0c",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 陷入幻觉交通拥堵的司机可能会认为发生了事故或正在进行施工。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-14",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Two sets of sensors would be used to help drivers determine the distances between cars.",
+      "sourceHash": "67e181e03850489477ed0414ffd2b278091b0f8c75ffb56d555b3ff2c1298fcf",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 将使用两组传感器来帮助驾驶员确定汽车之间的距离。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-15",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Solving the problem of phantom jams could save America billions of dollars every year.",
+      "sourceHash": "d14cb480db0b87a8ded1f3f3169bae09fd40f72498db5844eb487b94d940b7b4",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 解决幻象堵塞问题每年可以为美国节省数十亿美元。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-16",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44. In a phantom traffic jam, the cars in the same lane slow down one after another, creating a wave-like effect.",
+      "sourceHash": "7fd57a60c6c4452a2e742d5bc8727de1c5bfe9e7dce8065c2d53aaec3308070c",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 在虚拟交通拥堵中，同车道上的汽车纷纷减速，产生波浪般的效果。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-3-17",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Horn has found that certain creatures use strategies similar to bilateral control to avoid hitting each other while moving in dense crowds.",
+      "sourceHash": "34c892a8276a7f166003efa7bb582fe626c560f3db91f6e50a185c4a375ffd7b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-3-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 霍恩发现某些生物使用类似于双边控制的策略来避免在密集人群中移动时互相碰撞。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-2",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-4",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-5",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Our society places a high value on physical beauty. Americans spend an average of over $722 each year on their appearance. One in ten Americans has tried to look like a star.",
+      "sourceHash": "8a5e23c540a21aef04f12ed21d472fbbacdc58fa9a0a2b4376967efc3a124134",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们的社会非常重视外表美。美国人每年平均在外表上花费超过 722 美元。十分之一的美国人曾试图让自己看起来像明星。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-6",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "There’s nothing wrong with trying to look our best, but excessive focus on physical appearance misses the soulful aspects of what it means to be beautiful. Trying to look like the magazine pictures can take us on a long ride away from what beauty is really about.",
+      "sourceHash": "738eddcacff40dab8ae0fda7a471db686a0460df1a3c87c5ca31fd5dd11b0fa2",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "努力让自己看起来最好并没有什么错，但过度关注外表却忽视了美丽的灵魂层面。试图让自己看起来像杂志上的照片可能会让我们远离美的真正含义。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-7",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Many of us spend far too much time, energy, and money trying to polish an image of what we think will bring attention, love, and connection. In the process, we may fail to attend to ourselves in a way that would move us toward deeper intimacy, fulfillment, and meaning.",
+      "sourceHash": "c89f83778642d423f77f388acf60de070d881f70b077569cf70ed8e0bbe52e00",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们中的许多人花费了太多的时间、精力和金钱来试图塑造一个我们认为会带来关注、爱和联系的形象。在这个过程中，我们可能无法以一种能够让我们走向更深的亲密感、满足感和意义的方式关注自己。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-8",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "It may sound trite (老生常谈的), but beauty is only skin deep; it’s not what brings love toward us. Just read about the latest Hollywood starlets whose seeming love turns into resentment and bitter court battles.",
+      "sourceHash": "06811e28da2a5fd61452faad031e16214d009b4f93b1773a732e6e8c984ede14",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这听起来可能有些老生常谈，但美丽只是肤浅的。这并不是给我们带来爱的原因。只需阅读最新的好莱坞明星的故事，他们表面上的爱变成了怨恨和激烈的法庭斗争。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Outer beauty can be as much of a curse as a blessing. We may develop a habit of being so focused on maintaining a perfect appearance that we never cultivate the inner qualities necessary to sustain and deepen intimacy and connection. As I describe in my book, The Authentic Heart, it is the courage to be authentic that connects us in a deeper way.",
+      "sourceHash": "aa06440eedaf90a088d8d4b575e31ef914d87ab563faa1b3faf10f35f1bfbe6d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "外在的美可能是一种诅咒，也可能是一种祝福。我们可能会养成一种习惯，过分注重保持完美的外表，却从未培养维持和加深亲密关系和联系所必需的内在品质。正如我在《真实的心》一书中所描述的那样，真诚的勇气将我们以更深的方式联系在一起。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-10",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "While our initial attraction may be based, in part, on physical chemistry, it is the meeting of our inner worlds that creates the lasting intimacy and spiritual connection for which we long. If we redirect our attention toward cultivating inner qualities, we might find a magnetic attraction that moves us from something superficial to something that connects us to our depths.",
+      "sourceHash": "f9bf25ad61f7ae050d74b03227f1db242ddd2019ff23afed86255ee0a9df87df",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "虽然我们最初的吸引力可能部分基于物理化学，但正是我们内心世界的相遇创造了我们渴望的持久的亲密关系和精神联系。如果我们将注意力转向培养内在品质，我们可能会发现一种磁力吸引力，将我们从肤浅的事物转移到将我们与内心深处联系起来的事物。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-11",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "The path toward cultivating inner beauty is really simple. But what is simple is not always easy. Not everyone will see us and appreciate us as we take the courageous risk to allow ourselves to be seen as we really are. But if they don’t, it is their loss, not ours. Eventually we’ll find those compatible souls who appreciate us as we are.",
+      "sourceHash": "e8e23abf99a5b2a8219339b26f5c15abbe96579eeb912cf866c1946657988d10",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "培养内在美的道路其实很简单。但简单的事情并不总是容易的。当我们勇敢地冒险让自己被看到真实的自己时，并不是每个人都会看到我们并欣赏我们。但如果他们不这样做，那是他们的损失，而不是我们的损失。最终我们会找到那些兼容的灵魂，他们欣赏我们本来的样子。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-12",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn about American society from the first paragraph?",
+      "sourceHash": "984f79a2b2de28a9c33b76d5d69d92cd7a8d5935103b3b7967170a1007f2e5e4",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.我们从第一段中了解到美国社会的哪些内容？",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-4-14",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What happens when people strive to look better?",
+      "sourceHash": "5c1dc88ad0ba45ffffa53cf7beca761ab399db8f0aaa96796706fe091bdccfe1",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 当人们努力让自己看起来更好时会发生什么？",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-1",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does the author say about outer beauty?",
+      "sourceHash": "70eb5abaf0d2ec570ecf5ce823a518f2b0a2ecf4c49bd8130312d1bcd1befbf2",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48.作者如何评价外在美？",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-3",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What brings about spiritual connection?",
+      "sourceHash": "ce05cb58a6d7304b1f2034d5899500f56987ea6b8a41cc81c39aa52908d8d6ed",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49.什么带来了精神上的联系？",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-5",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What happens when we take the path toward cultivating inner beauty?",
+      "sourceHash": "b97b28819f42e7e8a183bec61fd4a29d149a6e7ad8adbb0ece1ef19abbd97df0",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.当我们走上培养内在美的道路时会发生什么？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-8",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Plant-based meats are coming soon to a dinner table near you, but do they deserve a spot on your plate? If you tried a vegetable burger years ago and dismissed it as rubbery and flavorless. It’s a good time to give meatless meat another chance. Newer varieties imitate the look, flavor, and texture of meat. Analysts don’t expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to $74 billion by 2030 — a 957 percent surge.",
+      "sourceHash": "4fa47d4b86c8d13a3a864943eb536a17ffe3546adb4b8adbfeb661800937fd04",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "植物性肉类即将出现在您附近的餐桌上，但它们值得在您的盘子上占有一席之地吗？如果你几年前尝试过蔬菜汉堡，并认为它有弹性且无味，就不予考虑。现在是再给无肉肉一次机会的好时机。新品种模仿肉的外观、味道和质地。分析师预计无肉运动不会很快放缓。 2021 年的一份报告预测，到 2030 年，该市场规模将飙升至 740 亿美元，增幅达 957%。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-10",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Plant-based meats are no longer just for vegetarians. Companies such as Impossible Foods and Beyond Meat — the current superstars of the alternative protein sector — are pursuing consumers who enjoy meat but want to reduce their meat consumption for animal rights, health, or environmental reasons. So far, it’s a winning strategy: More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat.",
+      "sourceHash": "3bd2e8e72229a1e6d22f047b4520a3e34ca7fd0b1ad0d1c1263e50866de2404e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "植物性肉类不再只适合素食者。 Impossible Foods 和 Beyond Meat 等公司（目前替代蛋白质领域的超级明星）正在寻找那些喜欢吃肉但出于动物权利、健康或环境原因希望减少肉类消费的消费者。到目前为止，这是一个成功的策略：购买 Beyond Burger 和 Impossible Foods 产品的消费者中，十分之九以上也吃肉。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-11",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Many vegetarians don’t actually care for food that resembles meat. When reporter Joan Solsman, a longtime vegetarian, tried a dish from Impossible Foods, she felt so sick that she couldn’t finish it. “Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn’t stand to take another bite,” she wrote.",
+      "sourceHash": "36de721ea7d007231c8a7969233ba930958582c7094bbacb6df4e36800764bfc",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多素食者实际上并不喜欢类似肉类的食物。当长期素食主义者琼·索尔斯曼 (Joan Solsman) 记者尝试 Impossible Foods 的一道菜肴时，她感到很恶心，根本吃不完。 “也许 Impossible Foods 破解了真实假肉密码的最好迹象就是我无法忍受再咬一口，”她写道。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-12",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "Meatless meats are generally a healthier choice than beef because they are cholesterol-free, plus they’re a good source of vitamins, minerals, protein, and fiber.",
+      "sourceHash": "31419838634ac2a58cb083cae984ab88058d8819dde161552914dc5621b3a99f",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "无肉肉类通常比牛肉更健康，因为它们不含胆固醇，而且是维生素、矿物质、蛋白质和纤维的良好来源。",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-13",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "If meatless meat can help you stick to a plant-based diet, that in itself can lead to better health. Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels.",
+      "sourceHash": "f08c1ad1266e2d202bf0b3c47181982555476a8185c5a5731d66d7c06a88d928",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如果无肉肉类可以帮助您坚持植物性饮食，那么这本身就可以带来更好的健康。红肉不仅与癌症有关，而且研究表明，不吃肉的人血压、平均血糖和胆固醇水平都较低。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-14",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "However, just because it’s plant-based doesn’t mean it’s health food. Most imitation meats are highly processed and contain high amounts of sodium (钠) compared to traditional beef.",
+      "sourceHash": "ae24e0eb69aff7df47cb9c0a20add08ed9eb63b56a20dc273f8563c2f37c84c2",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，仅仅因为它是植物性的并不意味着它是健康食品。与传统牛肉相比，大多数人造肉都经过高度加工，并且含有大量钠 (Na)。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-5-15",
+      "paperId": "cet4:2025-06-03",
+      "kind": "reading",
+      "sourceText": "These new generations of alternate meat get all the attention, but don’t forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They’re nutritious, inexpensive, and far more sustainable than any of the processed meatless substitutes on the market today.",
+      "sourceHash": "c6639e3ddf47c05a35d489de988092d3b57b62d9f59ada51799ff4bccb982c00",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些新一代的替代肉类受到了所有人的关注，但也不要忘记全谷物和蔬菜。豆类是一种特别优秀的蛋白质替代品。它们营养丰富、价格低廉，而且比当今市场上任何加工过的无肉替代品更具可持续性。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-1",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What can we expect of plant-based meats?",
+      "sourceHash": "51fbd9ec8b41f9f732b91a4d19a3cdf8301f73836f6eea74cd163de16b300531",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 我们对植物性肉类有何期待？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-3",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What do we learn about consumers buying Beyond Burger and Impossible Foods products?",
+      "sourceHash": "e1c31284de5906884062972582aa28e8026cdd9f8182ba340a444fd9d0aa217b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 关于消费者购买 Beyond Burger 和 Impossible Foods 产品，我们了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-5",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What can we conclude about Impossible Foods’ products from Joan Solsman’s remark?",
+      "sourceHash": "1d21d122cc0a5a4252a832a1867e201929e106afac15d9542947ad610c7407e7",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 从 Joan Solsman 的言论中我们可以对 Impossible Foods 的产品得出什么结论？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-7",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. Why can the habit of eating a plant-based diet lead to better health?",
+      "sourceHash": "04206a92f0e183fd08f60a8681211a4e259fed26a0fd47bdceec4e59f22c5873",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 为什么植物性饮食的习惯可以带来更好的健康？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-9",
+      "paperId": "cet4:2025-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the author recommend we eat at the end of the passage?",
+      "sourceHash": "86fdf1ee4938db01cd6d3e1890494925a04cb36323f8c9bbba60b0934e3f33a5",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.作者在文章的最后建议我们吃什么？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2025-06-03:p:b-6-12",
+      "paperId": "cet4:2025-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2025-06-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2025-06-03.json",
+        "pdfSha256": "6b99aa2ad5805c2f2ce9ee7da494145bc536be301068714f4f8c5fa8da7167b3",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2025-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2025-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2025-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-46-1",
+      "optionId": "cet4:2025-06-03:q-46-1:A",
+      "sourceText": "It sees lots of personal income wasted on beauty products.",
+      "sourceHash": "2100101ca13cc470ab8030b756dc30f6615e978fcbdbd11e72a19c1437b76988",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It sees lots of personal income wasted on beauty products.",
+      "translationEligible": true,
+      "translationZh": "它看到大量个人收入浪费在美容产品上。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-46-1",
+      "optionId": "cet4:2025-06-03:q-46-1:B",
+      "sourceText": "It considers one’s physical appearance very important.",
+      "sourceHash": "7099ffe3340637cff38ff5de90c2c3072fcd3d7d4fd02552ee9ef037eed9b3f9",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It considers one’s physical appearance very important.",
+      "translationEligible": true,
+      "translationZh": "它认为一个人的外表非常重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-46-1",
+      "optionId": "cet4:2025-06-03:q-46-1:C",
+      "sourceText": "It places a high value on the physical fitness of stars.",
+      "sourceHash": "05c1dff686a103b2d084bb95b0f006cdd53e4775cfcd9400a9a8b2b017ac574a",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It places a high value on the physical fitness of stars.",
+      "translationEligible": true,
+      "translationZh": "它非常看重明星的身体素质。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-46-1",
+      "optionId": "cet4:2025-06-03:q-46-1:D",
+      "sourceText": "It expects every individual to look their very best.",
+      "sourceHash": "70586c2777132cbe3aedcb487e596ac09a7837d4be205b6dcd48657a160fc255",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It expects every individual to look their very best.",
+      "translationEligible": true,
+      "translationZh": "它期望每个人都能展现出最好的一面。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-47-1",
+      "optionId": "cet4:2025-06-03:q-47-1:A",
+      "sourceText": "They have to get prepared for resentment and bitter court battles.",
+      "sourceHash": "7e43b3adb265dbb3b151eb6d71989c79a0dfd0ae15cccfa1f25b7b07d6accaf2",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They have to get prepared for resentment and bitter court battles.",
+      "translationEligible": true,
+      "translationZh": "他们必须为怨恨和激烈的法庭斗争做好准备。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-47-1",
+      "optionId": "cet4:2025-06-03:q-47-1:B",
+      "sourceText": "They are better able to gain attention, love, and personal connection.",
+      "sourceHash": "be99a03346e28044bc84d7647fa8092b6f80e328f069f3e0be65480148a2e9c3",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are better able to gain attention, love, and personal connection.",
+      "translationEligible": true,
+      "translationZh": "他们能够更好地获得关注、爱和个人联系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-47-1",
+      "optionId": "cet4:2025-06-03:q-47-1:C",
+      "sourceText": "They may neglect to cultivate the inner qualities that matter more.",
+      "sourceHash": "e6713e6f112f305af519ea05f4ab8a7001b5e2aa59c6edb4a68e43fa90b4ee78",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They may neglect to cultivate the inner qualities that matter more.",
+      "translationEligible": true,
+      "translationZh": "他们可能忽视培养更重要的内在品质。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-47-1",
+      "optionId": "cet4:2025-06-03:q-47-1:D",
+      "sourceText": "They feel much of their precious time, energy and resources is wasted.",
+      "sourceHash": "bb8475f79f27c218d886010afc8c9c32adefe9e3808b2ebccc18ca45d0633e81",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-4-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They feel much of their precious time, energy and resources is wasted.",
+      "translationEligible": true,
+      "translationZh": "他们觉得自己的大部分宝贵时间、精力和资源都被浪费了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-48-1",
+      "optionId": "cet4:2025-06-03:q-48-1:A",
+      "sourceText": "It may be inherited or cultivated",
+      "sourceHash": "5a25a79d1d6c7bfef50d97586b3236331997c49c57f6aff84ab58e8b45174956",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It may be inherited or cultivated",
+      "translationEligible": true,
+      "translationZh": "它可能是遗传的，也可能是后天培养的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-48-1",
+      "optionId": "cet4:2025-06-03:q-48-1:B",
+      "sourceText": "It may lead to bad as well as good habits.",
+      "sourceHash": "743e1ac03e9d670d66523b8ad51b03a2118d02cd5ac23f47a64198aff70a06f7",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It may lead to bad as well as good habits.",
+      "translationEligible": true,
+      "translationZh": "它可能会导致坏习惯，也可能导致好习惯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-48-1",
+      "optionId": "cet4:2025-06-03:q-48-1:C",
+      "sourceText": "It may create connection or isolation.",
+      "sourceHash": "b389122f94aaf9f9c4d24e2de9ca7f68cf4fcf4a64c5b330910789c94bab46b6",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It may create connection or isolation.",
+      "translationEligible": true,
+      "translationZh": "它可能会产生联系或隔离。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-48-1",
+      "optionId": "cet4:2025-06-03:q-48-1:D",
+      "sourceText": "It may do as much harm as good.",
+      "sourceHash": "4840214a7463a0e47084ec6f64d03e974163d414bc730a139416ef94d6b10c83",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may do as much harm as good.",
+      "translationEligible": true,
+      "translationZh": "它可能弊大于利。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-49-1",
+      "optionId": "cet4:2025-06-03:q-49-1:A",
+      "sourceText": "Meeting of minds.",
+      "sourceHash": "1a675341793f316063aae6cd48fcba4862c1598d92bd8dcab5ee6e1af37c3233",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Meeting of minds.",
+      "translationEligible": true,
+      "translationZh": "思想的交汇。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-49-1",
+      "optionId": "cet4:2025-06-03:q-49-1:B",
+      "sourceText": "Attraction at first sight.",
+      "sourceHash": "ab8c5f86b718c7d632cc5aa3b5370e1a954421206d692dfd8ee878b8364fd745",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Attraction at first sight.",
+      "translationEligible": true,
+      "translationZh": "第一眼就被吸引。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-49-1",
+      "optionId": "cet4:2025-06-03:q-49-1:C",
+      "sourceText": "Physical chemistry.",
+      "sourceHash": "a9b9ebaccbab2092a75f2f332d2772c5ba357c89b0630310f9ee21a100840b25",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Physical chemistry.",
+      "translationEligible": true,
+      "translationZh": "物理化学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-49-1",
+      "optionId": "cet4:2025-06-03:q-49-1:D",
+      "sourceText": "Frequent interaction.",
+      "sourceHash": "106119d73d36308cb8c5cad7ddf05efd9bce39bab831b52e175908c67ec36626",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Frequent interaction.",
+      "translationEligible": true,
+      "translationZh": "互动频繁。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-50-1",
+      "optionId": "cet4:2025-06-03:q-50-1:A",
+      "sourceText": "We may find a route toward other people’s souls.",
+      "sourceHash": "6bfe57e44f359c8fb9075c883312649ab9922955d26c89a4f08065607cac513e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "We may find a route toward other people’s souls.",
+      "translationEligible": true,
+      "translationZh": "我们可能会找到一条通往他人灵魂的道路。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-50-1",
+      "optionId": "cet4:2025-06-03:q-50-1:B",
+      "sourceText": "We may be appreciated more by people around us.",
+      "sourceHash": "4170d9675297386aed95b5917d8c9e47030d3d10daa3b29c4152ec63650c9949",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "We may be appreciated more by people around us.",
+      "translationEligible": true,
+      "translationZh": "我们可能会受到周围人更多的赞赏。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-50-1",
+      "optionId": "cet4:2025-06-03:q-50-1:C",
+      "sourceText": "We will meet people who value us for who we are.",
+      "sourceHash": "78ea40e8121e9fb2c85a644d9861f9420511b7eb0578221dc11c5a1c3d8358ec",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "We will meet people who value us for who we are.",
+      "translationEligible": true,
+      "translationZh": "我们会遇到那些重视我们本质的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-50-1",
+      "optionId": "cet4:2025-06-03:q-50-1:D",
+      "sourceText": "We will be discouraged from revealing our true selves.",
+      "sourceHash": "7082f1a5e02046d9ee38fc64950cbf973082e7037112980dcd7a529508784ee3",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "We will be discouraged from revealing our true selves.",
+      "translationEligible": true,
+      "translationZh": "我们会因暴露真实的自我而感到沮丧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-51-1",
+      "optionId": "cet4:2025-06-03:q-51-1:A",
+      "sourceText": "An increasing interest in their analyses.",
+      "sourceHash": "cdac0f1ae0edcf8c8c9e21278421e4888d534740ef34f4903dafb444ec1e8e48",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "An increasing interest in their analyses.",
+      "translationEligible": true,
+      "translationZh": "人们对他们的分析越来越感兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-51-1",
+      "optionId": "cet4:2025-06-03:q-51-1:B",
+      "sourceText": "An enormous effort in their promotion.",
+      "sourceHash": "fbf6ba0192526ff0f3cf85e269f0100fa1bd8943009c7a720849a92ec82c6bd9",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "An enormous effort in their promotion.",
+      "translationEligible": true,
+      "translationZh": "他们在推广方面付出了巨大的努力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-51-1",
+      "optionId": "cet4:2025-06-03:q-51-1:C",
+      "sourceText": "A huge boost in their consumption.",
+      "sourceHash": "759789f4910cee822245011bf8888fc46ee27eed525eabf6e2adb857c2ad6d75",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "A huge boost in their consumption.",
+      "translationEligible": true,
+      "translationZh": "他们的消费大幅增长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-51-1",
+      "optionId": "cet4:2025-06-03:q-51-1:D",
+      "sourceText": "A noticeable surge in their varieties.",
+      "sourceHash": "b879b79b494c8f40115d6137012bf9ba8421419bebb6316742c0130998efe157",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "A noticeable surge in their varieties.",
+      "translationEligible": true,
+      "translationZh": "他们的品种显着增加。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-52-1",
+      "optionId": "cet4:2025-06-03:q-52-1:A",
+      "sourceText": "They are mostly non-vegetarians.",
+      "sourceHash": "841c306e670f09e986495b0c6b7d87a67b25ecb46756b85c6dc0fd8b04464f9e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are mostly non-vegetarians.",
+      "translationEligible": true,
+      "translationZh": "他们大多是非素食者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-52-1",
+      "optionId": "cet4:2025-06-03:q-52-1:B",
+      "sourceText": "They are mostly animal-rights advocates.",
+      "sourceHash": "82029e3a320463851455a3507b3f0dde0e964a831615c04733594be579a446d9",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are mostly animal-rights advocates.",
+      "translationEligible": true,
+      "translationZh": "他们大多是动物权利倡导者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-52-1",
+      "optionId": "cet4:2025-06-03:q-52-1:C",
+      "sourceText": "Most of them refrain from eating meat for health reasons.",
+      "sourceHash": "768cfbf2defc590ecdbc232522e22f472f39a5d802ed328514a2484a71b1c388",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Most of them refrain from eating meat for health reasons.",
+      "translationEligible": true,
+      "translationZh": "他们中的大多数人出于健康原因不吃肉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-52-1",
+      "optionId": "cet4:2025-06-03:q-52-1:D",
+      "sourceText": "Most of them eat meatless meat to protect the environment.",
+      "sourceHash": "ce235f9a54588c0551705ca2110779906dd873c75f09e4a1ce76b69dd6e2f07d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Most of them eat meatless meat to protect the environment.",
+      "translationEligible": true,
+      "translationZh": "他们中的大多数人为了保护环境而吃素肉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-53-1",
+      "optionId": "cet4:2025-06-03:q-53-1:A",
+      "sourceText": "They more often appeal to meat-eaters.",
+      "sourceHash": "ee96a4bbd2a5059b4a345f27efed736f1400355f3a9da85828dd54860cbaa2e1",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They more often appeal to meat-eaters.",
+      "translationEligible": true,
+      "translationZh": "它们更容易吸引肉食者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-53-1",
+      "optionId": "cet4:2025-06-03:q-53-1:B",
+      "sourceText": "They very much resemble animal meat.",
+      "sourceHash": "de605cf1ab899c7edea9e6c9ecaa83df6344d63687c7779f82bfca77199b595c",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They very much resemble animal meat.",
+      "translationEligible": true,
+      "translationZh": "它们非常类似于动物肉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-53-1",
+      "optionId": "cet4:2025-06-03:q-53-1:C",
+      "sourceText": "Some have become its signature dishes.",
+      "sourceHash": "93a95102bb61a1dc4685ce6df84d9cfe24538bbf7df3bc828c2ecbfb36736a3e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Some have become its signature dishes.",
+      "translationEligible": true,
+      "translationZh": "有些已成为其招牌菜。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-53-1",
+      "optionId": "cet4:2025-06-03:q-53-1:D",
+      "sourceText": "Most of them are sold as true fake meat.",
+      "sourceHash": "ef18e571fb82e8b2809ac05d03b872d249d6a5de2a017d98ae236599a18b9265",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Most of them are sold as true fake meat.",
+      "translationEligible": true,
+      "translationZh": "大多数都是作为真假肉出售的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-54-1",
+      "optionId": "cet4:2025-06-03:q-54-1:A",
+      "sourceText": "It frees people from any known link to cancer.",
+      "sourceHash": "bb50dcdd06468e2e5effb5f3d7c9438719c06a68046f94f687c45a4520da079b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It frees people from any known link to cancer.",
+      "translationEligible": true,
+      "translationZh": "它使人们摆脱任何已知的与癌症的联系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-54-1",
+      "optionId": "cet4:2025-06-03:q-54-1:B",
+      "sourceText": "It provides all the nutrients for staying healthy.",
+      "sourceHash": "f210aaacc852b43088c9490ee9bc329a38f72baf3a7735a76922a52dbb7ff0a1",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It provides all the nutrients for staying healthy.",
+      "translationEligible": true,
+      "translationZh": "它提供保持健康的所有营养素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-54-1",
+      "optionId": "cet4:2025-06-03:q-54-1:C",
+      "sourceText": "It helps maintain normal blood pressure and blood sugar.",
+      "sourceHash": "a45b558e5dfc62bd54aa7589b57f071b1cf7a552b86f3372be0406891ac1a634",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It helps maintain normal blood pressure and blood sugar.",
+      "translationEligible": true,
+      "translationZh": "它有助于维持正常的血压和血糖。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-54-1",
+      "optionId": "cet4:2025-06-03:q-54-1:D",
+      "sourceText": "It reduces various health risks posed by meat consumption.",
+      "sourceHash": "18c3a3e74e6ed8f7063918f742d65bde8e328d23724599c07910ea79d8b18a39",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It reduces various health risks posed by meat consumption.",
+      "translationEligible": true,
+      "translationZh": "它减少了肉类消费带来的各种健康风险。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-55-1",
+      "optionId": "cet4:2025-06-03:q-55-1:A",
+      "sourceText": "Naturally produced foods.",
+      "sourceHash": "721a51dec83669e94f983de279996da2fe684d9004c3c6f876d24774b9ab9073",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Naturally produced foods.",
+      "translationEligible": true,
+      "translationZh": "天然食品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-55-1",
+      "optionId": "cet4:2025-06-03:q-55-1:B",
+      "sourceText": "Processed protein substitutes.",
+      "sourceHash": "12f883cee312437ea21ac0b3f662aa80c93cfce6a86b02fca39cc6d7bf18c756",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Processed protein substitutes.",
+      "translationEligible": true,
+      "translationZh": "加工蛋白质替代品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-55-1",
+      "optionId": "cet4:2025-06-03:q-55-1:C",
+      "sourceText": "Red meats like traditional beef.",
+      "sourceHash": "63d7204b4960cba77673c47fc7a458fc0f0be9b16e26ac1d178642f4d0367f8d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Red meats like traditional beef.",
+      "translationEligible": true,
+      "translationZh": "红肉如传统牛肉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-55-1",
+      "optionId": "cet4:2025-06-03:q-55-1:D",
+      "sourceText": "New generations of alternate meat.",
+      "sourceHash": "e5caf5d51a6359761bd8fc5587b81e9db476c568054b66fe0d436a53251c027b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "New generations of alternate meat.",
+      "translationEligible": true,
+      "translationZh": "新一代的替代肉类。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:A",
+      "sourceText": "adapt",
+      "sourceHash": "f1f61cc7216e18012d97bcfc33ae7a69995846c612b317073bff4e4cd52fd353",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "adapt",
+      "translationEligible": true,
+      "translationZh": "适应",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:B",
+      "sourceText": "hardly",
+      "sourceHash": "626c0884ac7ef99a8d862d0a9f046f3521c28f4178157ebe18273df9a6a114a6",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "hardly",
+      "translationEligible": true,
+      "translationZh": "几乎不",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:C",
+      "sourceText": "indicates",
+      "sourceHash": "b4a4d44648cd8578bb09d9f60abceb670d174fd478c369695be9a5b17a365e9d",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "indicates",
+      "translationEligible": true,
+      "translationZh": "表示",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:D",
+      "sourceText": "insist",
+      "sourceHash": "509c40394c0eaa8580dc2af5c7d5b426edf8ac721200474d514d425175653e48",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "insist",
+      "translationEligible": true,
+      "translationZh": "坚持",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:E",
+      "sourceText": "literature",
+      "sourceHash": "ac9fa2503ffea8a35ed642c34fc916018709359066d7956958eb96c8804de49c",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "literature",
+      "translationEligible": true,
+      "translationZh": "文学",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:F",
+      "sourceText": "organ",
+      "sourceHash": "e0fb6e6c6305332dbd13cc4d4ee1f9782b60609b633b26510df200e9c311ea23",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "organ",
+      "translationEligible": true,
+      "translationZh": "器官",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:G",
+      "sourceText": "particularly",
+      "sourceHash": "5c9473495c88cc1d825a98cf6aa82149e73b694c262c3a303dce9431a28cb56e",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "particularly",
+      "translationEligible": true,
+      "translationZh": "特别是",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:H",
+      "sourceText": "remaining",
+      "sourceHash": "43e3ece73ff8f4eb23096122eaa99c8a8e84945a0b214662f2123bd6b6f0e692",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "remaining",
+      "translationEligible": true,
+      "translationZh": "剩余",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:I",
+      "sourceText": "responsible",
+      "sourceHash": "c9195f0946897bd7094ab4dc0ffbfade1a43544fed9ea93a5b448971952feed3",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "responsible",
+      "translationEligible": true,
+      "translationZh": "负责的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:J",
+      "sourceText": "retained",
+      "sourceHash": "ca67bd59cc4116ac80db5f64cbf4747f26ba929c85e8cc689a6123368d08719b",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "retained",
+      "translationEligible": true,
+      "translationZh": "保留",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:K",
+      "sourceText": "still",
+      "sourceHash": "94e8566ddfc123edf115fcbb35a16973409d95e05e3deb7dc4a15a7af325a885",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "still",
+      "translationEligible": true,
+      "translationZh": "仍然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:L",
+      "sourceText": "strategy",
+      "sourceHash": "73dff70e25ad51ca765a584eef93a1cd909527e2ef4860e0b12f0a7e7ae1979a",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "strategy",
+      "translationEligible": true,
+      "translationZh": "策略",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:M",
+      "sourceText": "transformed",
+      "sourceHash": "6517eaddaaeaf31a1de9b77c3a284e5862f4c75ae7bc2ce261c10cbeafdc5fa5",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "transformed",
+      "translationEligible": true,
+      "translationZh": "转变的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:N",
+      "sourceText": "underlines",
+      "sourceHash": "ed76186176403e4223b19deb482b13cd71842075a302a989cdfa75a5448e8cbe",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "underlines",
+      "translationEligible": true,
+      "translationZh": "下划线",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2025-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2025-06-03",
+      "questionId": "cet4:2025-06-03:q-26-1",
+      "optionId": "cet4:2025-06-03:word-bank:O",
+      "sourceText": "visual",
+      "sourceHash": "a5961f3f5ac8a594d1c084d5948a7fa0b44d181b67ede0973c6641216ec06920",
+      "sourceBlockIds": [
+        "cet4:2025-06-03:b-1-12"
+      ],
+      "reflowBlockId": "cet4:2025-06-03:b-1-12",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "visual",
+      "translationEligible": true,
+      "translationZh": "视觉的",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-06-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2025-06-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2025-06-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2025-06-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-3-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-3-17"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2025-06-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2025-06-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2025-06-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet4:2025-06-03:b-6-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 60
+  },
+  "reasonCounts": {
+    "cloze": 3,
+    "cross_page_continuation": 1,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 14,
+    "reading_prose": 14,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 3,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 14,
+    "question_prompt": 20,
+    "reading": 14
+  },
+  "otherSourceBlockCounts": {
+    "options": 11
+  },
+  "issues": []
+}

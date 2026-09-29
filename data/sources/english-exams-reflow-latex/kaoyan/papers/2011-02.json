@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2011 年全国硕士研究生招生考试英语（二）",
@@ -2153,12 +2153,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "departure, the firm is likely to ____",
               "flags": [
@@ -2518,12 +2521,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "newspapers ____",
               "flags": [
@@ -2671,12 +2677,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "because they ____",
               "flags": [
@@ -4405,7 +4414,108 @@
       "inline_glyphs": 0
     },
     {
-      "blocks": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "runs": [
+            {
+              "text": "Part B",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "48. Directions:",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write an essay based on the following chart. In your writing, you should",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "1) interpret the chart, and",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "2) give your comments.",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write at least 150 words.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write your essay on the ANSWER SHEET. (15 points)",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            140,
+            249,
+            480,
+            480
+          ]
+        }
+      ],
       "removed_marginal_text": [],
       "figure_text": [],
       "encoding_uncertain": [],

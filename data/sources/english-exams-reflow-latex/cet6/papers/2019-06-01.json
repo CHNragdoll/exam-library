@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2019",
@@ -275,7 +275,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -2958,10 +2958,10 @@
               ]
             },
             {
-              "label": "I",
+              "label": "C",
               "runs": [
                 {
-                  "text": "minimum",
+                  "text": "clinical",
                   "flags": [
                     false,
                     false,
@@ -2970,37 +2970,6 @@
                 }
               ]
             },
-            {
-              "label": "J",
-              "runs": [
-                {
-                  "text": "radiating",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "C clinical K) ration",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
             {
               "label": "D",
               "runs": [
@@ -3058,6 +3027,45 @@
               "runs": [
                 {
                   "text": "magnified",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "I",
+              "runs": [
+                {
+                  "text": "minimum",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "J",
+              "runs": [
+                {
+                  "text": "radiating",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "K",
+              "runs": [
+                {
+                  "text": "ration",
                   "flags": [
                     false,
                     false,
@@ -3232,7 +3240,7 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "The Best Retailers Combine Bricks and Clicks",
@@ -3312,12 +3320,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "when a tiny number grows by a large percentage terms, it is often still tiny.",
               "flags": [
@@ -3597,12 +3608,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "receive satisfactory feedback from consumers, according to a recent survey．",
               "flags": [
@@ -3675,12 +3689,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "traditional retailers.",
               "flags": [
@@ -3714,12 +3731,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "some time.",
               "flags": [

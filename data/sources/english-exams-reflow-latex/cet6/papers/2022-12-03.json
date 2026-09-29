@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2022 年12 月大学英语六级考试真题（第3 套）",
@@ -932,15 +932,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Classical music aims to evolve, build audiences without alienating old guard",
               "flags": [
@@ -1198,46 +1195,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "P. Vulgamore seems to understand this. She thinks an organization can have it both ways, claiming the new while",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "keeping the old. And as she reorganizes the Philadelphia Orchestra, she will attempt to do just that. “The",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "world’s most respected musicians brought together as an orchestra will always exist,” she said. “But it’s",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "essential that we be willing to experiment and fail.”",
+              "text": "P. Vulgamore seems to understand this. She thinks an organization can have it both ways, claiming the new while keeping the old. And as she reorganizes the Philadelphia Orchestra, she will attempt to do just that. “The world’s most respected musicians brought together as an orchestra will always exist,” she said. “But it’s essential that we be willing to experiment and fail.”",
               "flags": [
                 false,
                 false,
@@ -1334,12 +1292,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "performance.",
               "flags": [
@@ -1360,12 +1321,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "to the television medium.",
               "flags": [

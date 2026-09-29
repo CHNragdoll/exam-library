@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -143,12 +143,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "building trust between teachers and students.",
               "flags": [
@@ -164,12 +167,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "should write at least",
               "flags": [
@@ -336,12 +342,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "hear four questions. Both the conversation and the questions will be spoken only once. After you",
               "flags": [
@@ -349,12 +358,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
               "flags": [
@@ -446,53 +458,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". She advocates animal protection.",
+                  "text": "She advocates animal protection.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". She sells a special kind of coffee.",
+                  "text": "She sells a special kind of coffee.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". She is going to start a cafe chain.",
+                  "text": "She is going to start a cafe chain.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". She is the owner of a special cafe.",
+                  "text": "She is the owner of a special cafe.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -516,53 +532,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". They bear a lot of similarities.",
+                  "text": "They bear a lot of similarities.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They are a profitable business sector.",
+                  "text": "They are a profitable business sector.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". They cater to different customers.",
+                  "text": "They cater to different customers.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". They help take care of customers' pets.",
+                  "text": "They help take care of customers' pets.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -586,53 +606,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". By giving them regular cleaning and injections.",
+                  "text": "By giving them regular cleaning and injections.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". By selecting breeds that are tame and peaceful.",
+                  "text": "By selecting breeds that are tame and peaceful.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". By placing them at a safe distance from customers.",
+                  "text": "By placing them at a safe distance from customers.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". By briefing customers on how to get along with them.",
+                  "text": "By briefing customers on how to get along with them.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -656,53 +680,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". They want to learn about rabbits.",
+                  "text": "They want to learn about rabbits.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They like to bring in their children.",
+                  "text": "They like to bring in their children.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". They love the animals in her cafe.",
+                  "text": "They love the animals in her cafe.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". They give her cafe favorite reviews.",
+                  "text": "They give her cafe favorite reviews.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -739,53 +767,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". It contains too many additives.",
+                  "text": "It contains too many additives.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". It lacks the essential vitamins.",
+                  "text": "It lacks the essential vitamins.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". It can cause obesity.",
+                  "text": "It can cause obesity.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". It is mostly garbage.",
+                  "text": "It is mostly garbage.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -806,53 +838,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Its fancy design.",
+                  "text": "Its fancy design.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". TV commercials.",
+                  "text": "TV commercials.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Its taste and texture.",
+                  "text": "Its taste and texture.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Peer influence.",
+                  "text": "Peer influence.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -876,53 +912,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Investing heavily in the production of sweet foods.",
+                  "text": "Investing heavily in the production of sweet foods.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Marketing their products with ordinary ingredients.",
+                  "text": "Marketing their products with ordinary ingredients.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Trying to trick children into buying their products.",
+                  "text": "Trying to trick children into buying their products.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Offering children more variable to choose from.",
+                  "text": "Offering children more variable to choose from.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -946,53 +986,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". They hardly ate vegetables.",
+                  "text": "They hardly ate vegetables.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They seldom had junk food.",
+                  "text": "They seldom had junk food.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". They favored chocolate-coated sweets.",
+                  "text": "They favored chocolate-coated sweets.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". They like the food advertised on TV.",
+                  "text": "They like the food advertised on TV.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1145,53 +1189,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Stretches of farmland.",
+                  "text": "Stretches of farmland.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Typical Egyptian animal farms.",
+                  "text": "Typical Egyptian animal farms.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Tombs of ancient rulers.",
+                  "text": "Tombs of ancient rulers.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Ruins left by devastating floods.",
+                  "text": "Ruins left by devastating floods.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1215,53 +1263,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". It provides habitats for more primitive tribes.",
+                  "text": "It provides habitats for more primitive tribes.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". It is hardly associated with great civilizations.",
+                  "text": "It is hardly associated with great civilizations.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". It has not yet been fully explored and exploited.",
+                  "text": "It has not yet been fully explored and exploited.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". It gathers water from many tropical rain forests.",
+                  "text": "It gathers water from many tropical rain forests.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1285,53 +1337,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". It carries about one fifth of the word' fresh water.",
+                  "text": "It carries about one fifth of the word' fresh water.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". It has numerous human settlements along its banks.",
+                  "text": "It has numerous human settlements along its banks.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". It is second only to the Mississippi River in width.",
+                  "text": "It is second only to the Mississippi River in width.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". It is as long as the Nile and the Yangtze combined.",
+                  "text": "It is as long as the Nile and the Yangtze combined.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1368,53 +1424,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Living a life in the fast lane leads to success.",
+                  "text": "Living a life in the fast lane leads to success.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". We are always in a rush to do various things.",
+                  "text": "We are always in a rush to do various things.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". The search for tranquility has become a trend.",
+                  "text": "The search for tranquility has become a trend.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". All of us actually yearn for a slow and calm life .",
+                  "text": "All of us actually yearn for a slow and calm life .",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1438,53 +1498,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". She had trouble balancing family and work.",
+                  "text": "She had trouble balancing family and work.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". She enjoyed the various social events.",
+                  "text": "She enjoyed the various social events.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". She was accustomed to tight schedules.",
+                  "text": "She was accustomed to tight schedules.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". She spent all her leisure time writing books.",
+                  "text": "She spent all her leisure time writing books.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1508,53 +1572,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". The possibility of ruining her family.",
+                  "text": "The possibility of ruining her family.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Becoming aware of her declining health.",
+                  "text": "Becoming aware of her declining health.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". The fatigue from living a fast-paced life.",
+                  "text": "The fatigue from living a fast-paced life.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Reading a book about slowing down.",
+                  "text": "Reading a book about slowing down.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1578,53 +1646,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". She started to follow the cultural norms.",
+                  "text": "She started to follow the cultural norms.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". She came to enjoy doing everyday tasks.",
+                  "text": "She came to enjoy doing everyday tasks.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". She learn to use more polite expressions.",
+                  "text": "She learn to use more polite expressions.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". She stopped using to-do lists and calendars.",
+                  "text": "She stopped using to-do lists and calendars.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1759,53 +1831,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". They will root out native species altogether.",
+                  "text": "They will root out native species altogether.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They contribute to a region's biodiversity.",
+                  "text": "They contribute to a region's biodiversity.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". They pose a threat to the local ecosystem.",
+                  "text": "They pose a threat to the local ecosystem.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". They will crossbreed with native species.",
+                  "text": "They will crossbreed with native species.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1829,53 +1905,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Their classifications are meaningful.",
+                  "text": "Their classifications are meaningful.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Their interactions are hard to define.",
+                  "text": "Their interactions are hard to define.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Their definitions are changeable.",
+                  "text": "Their definitions are changeable.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Their distinctions are artificial.",
+                  "text": "Their distinctions are artificial.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -1899,40 +1979,43 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Only a few of them cause problems to native i",
+                  "text": "Only a few of them cause problems to native i",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They may turn to benefit the local environment",
+                  "text": "They may turn to benefit the local environment",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Few of them can survive in their new habitats.",
+                  "text": "Few of them can survive in their new habitats.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             }
           ]
         },
@@ -1969,14 +2052,15 @@
               "label": "D",
               "runs": [
                 {
-                  "text": ". Only 10 percent of them can be naturalized.",
+                  "text": "Only 10 percent of them can be naturalized.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2013,53 +2097,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Respect their traditional culture.",
+                  "text": "Respect their traditional culture.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Attend their business seminars.",
+                  "text": "Attend their business seminars.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Research their specific demands.",
+                  "text": "Research their specific demands.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Adopt the right business strategies.",
+                  "text": "Adopt the right business strategies.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2083,53 +2171,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". Showing them your palm.",
+                  "text": "Showing them your palm.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Giving them gifts of great value.",
+                  "text": "Giving them gifts of great value.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Drinking alcohol on certain days of a month.",
+                  "text": "Drinking alcohol on certain days of a month.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Clicking your fingers loudly in their presence.",
+                  "text": "Clicking your fingers loudly in their presence.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2153,53 +2245,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". They are very easy to satisfy.",
+                  "text": "They are very easy to satisfy.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". They have a strong sense of worth.",
+                  "text": "They have a strong sense of worth.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". They trend to friendly and enthusiastic.",
+                  "text": "They trend to friendly and enthusiastic.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". They have a break from 2:00 to 5:30 p.m.",
+                  "text": "They have a break from 2:00 to 5:30 p.m.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2236,53 +2332,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". He completely changed the company's culture.",
+                  "text": "He completely changed the company's culture.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". He collected paintings by world-famous artists.",
+                  "text": "He collected paintings by world-famous artists.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". He took over the sales department of Reader's Digest.",
+                  "text": "He took over the sales department of Reader's Digest.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". He had the company’s boardroom extensively renovated.",
+                  "text": "He had the company’s boardroom extensively renovated.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2306,53 +2406,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". It should be sold at a reasonable price.",
+                  "text": "It should be sold at a reasonable price.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". Its articles should be short and inspiring.",
+                  "text": "Its articles should be short and inspiring.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". It should be published in the world's leading languages.",
+                  "text": "It should be published in the world's leading languages.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Its articles should entertain blue-and pink-collar workers.",
+                  "text": "Its articles should entertain blue-and pink-collar workers.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2376,53 +2480,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". He knew how to make the magazine profitable.",
+                  "text": "He knew how to make the magazine profitable.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". He served as a church minster for many years.",
+                  "text": "He served as a church minster for many years.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". He suffered many setbacks and misfortunes in his life.",
+                  "text": "He suffered many setbacks and misfortunes in his life.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". He treated the employees like members of his family.",
+                  "text": "He treated the employees like members of his family.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2446,53 +2554,57 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". It carried many more advertisements.",
+                  "text": "It carried many more advertisements.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". George Grune joined it as an ad salesman.",
+                  "text": "George Grune joined it as an ad salesman.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". Several hundred of its employees got fired.",
+                  "text": "Several hundred of its employees got fired.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". Its subscriptions increased considerably.",
+                  "text": "Its subscriptions increased considerably.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             }
           ]
         },
@@ -2939,196 +3051,211 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". campaign",
+                  "text": "campaign",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". career",
+                  "text": "career",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". characters",
+                  "text": "characters",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". features",
+                  "text": "features",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             },
             {
               "label": "E",
               "runs": [
                 {
-                  "text": ". fierce",
+                  "text": "fierce",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "E)."
             },
             {
               "label": "F",
               "runs": [
                 {
-                  "text": ". inspired",
+                  "text": "inspired",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "F)."
             },
             {
               "label": "G",
               "runs": [
                 {
-                  "text": ". latter",
+                  "text": "latter",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "G)."
             },
             {
               "label": "H",
               "runs": [
                 {
-                  "text": ". obsessed",
+                  "text": "obsessed",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "H)."
             },
             {
               "label": "I",
               "runs": [
                 {
-                  "text": ". proclamation",
+                  "text": "proclamation",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "I)."
             },
             {
               "label": "J",
               "runs": [
                 {
-                  "text": ". rectified",
+                  "text": "rectified",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "J)."
             },
             {
               "label": "K",
               "runs": [
                 {
-                  "text": ". reputed",
+                  "text": "reputed",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "K)."
             },
             {
               "label": "L",
               "runs": [
                 {
-                  "text": ". rest",
+                  "text": "rest",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "L)."
             },
             {
               "label": "M",
               "runs": [
                 {
-                  "text": ". supposed",
+                  "text": "supposed",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "M)."
             },
             {
               "label": "N",
               "runs": [
                 {
-                  "text": ". traditional",
+                  "text": "traditional",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "N)."
             },
             {
               "label": "O",
               "runs": [
                 {
-                  "text": ". versatile",
+                  "text": "versatile",
                   "flags": [
                     false,
                     true,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "O)."
             }
           ]
         },
@@ -3227,15 +3354,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Grow Plants Without Water",
               "flags": [
@@ -3447,33 +3571,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "H) . After completing her Ph.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "D) on seeds, Farrant began investigating whether it might be possible to",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "isolate the properties that make most seeds so",
+              "text": "H) . After completing her Ph. D. on seeds, Farrant began investigating whether it might be possible to isolate the properties that make most seeds so",
               "flags": [
                 false,
                 false,
@@ -3583,33 +3681,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "out of high-yield fields, but subsistence farmers who need help to survive a drought like the present",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "one in South Africa.\"My vision is for the subsistence farmer,\" Farrant says.\"I'm targeting crops that are",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "of African value. \".",
+              "text": "out of high-yield fields, but subsistence farmers who need help to survive a drought like the present one in South Africa.\"My vision is for the subsistence farmer,\" Farrant says.\"I'm targeting crops that are of African value. \".",
               "flags": [
                 false,
                 false,
@@ -3680,12 +3752,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "survive a prolonged drought.",
               "flags": [
@@ -3719,12 +3794,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "process starts, it cannot be held back.",
               "flags": [
@@ -3745,12 +3823,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "traits of rare wild plants.",
               "flags": [
@@ -5052,12 +5133,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "should write your answer on",
               "flags": [
@@ -5088,59 +5172,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "中国目前拥有世界上最大最快的高速铁路网。高铁列车的运行速度还将继续提升，更多的城市将",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "修建高铁站。高铁大大缩短了人们出行的时间。相对飞机而言，高铁列车的突出优势在于准时，因为",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "基本不受天气或交通管制的影响。高铁极大地改变了中国人的生活方式。如今，它已经成了很多人商",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "务旅行的首选交通工具。越来越多的人也在假日乘高铁外出旅游。还有不少年轻人选择在一个城市工",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "作而在邻近城市居住，每天乘高铁上下班。",
+              "text": "中国目前拥有世界上最大最快的高速铁路网。高铁列车的运行速度还将继续提升，更多的城市将修建高铁站。高铁大大缩短了人们出行的时间。相对飞机而言，高铁列车的突出优势在于准时，因为基本不受天气或交通管制的影响。高铁极大地改变了中国人的生活方式。如今，它已经成了很多人商务旅行的首选交通工具。越来越多的人也在假日乘高铁外出旅游。还有不少年轻人选择在一个城市工作而在邻近城市居住，每天乘高铁上下班。",
               "flags": [
                 false,
                 false,

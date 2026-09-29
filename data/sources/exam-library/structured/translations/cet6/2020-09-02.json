@@ -1,0 +1,3931 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2020-09-02",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+  "sourcePdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+  "paragraphs": [
+    {
+      "id": "cet6:2020-09-02:p:b-1-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : In this section , there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the",
+      "sourceHash": "06d8a3f982498d9d2266af12e69d1675f02177ee0fa83e4ab953a9df97aa4507",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明： 在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。阅读",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "heading_prose",
+      "sourceText": "passage through carefully before making your choices. Each choice in the bank is identified",
+      "sourceHash": "094df5e15bb3fa56af306a84150d7565db7bd470b98b6c80b6c87db07b70c41d",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在做出选择之前仔细阅读。银行中的每个选择都已确定",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "883e5962af35590824cfd57eb6c0a2fd78fd46e0854791bab0d70c9a854d5627",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-11",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "It was perhaps when my parents-who also happen to be my housemates-left to go travelling for a couple of months recently that it 26 on me why I had not yet left the family home.",
+      "sourceHash": "c8ffdc550ceccecb0309cac840d94fda891a0cd691f35b59fcbd40e0b29959be",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "It wasn't that I relied on them for 27 reasons, or to keep my life in order, or to ease the chaos of the home. These days, I rely on them for their company.",
+      "sourceHash": "df4079f6bb70e43e8e497adf20b7b0d8fcb33296197f87856260722efd85ecc6",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-13",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "I missed coming home and talking about my day at work, and I missed being able to read their faces and sense how their day was. I missed having unique 28 into tiny details that make a life.",
+      "sourceHash": "ab958f52db19d55f64b86917bcb59ba5f771a1c12d108fa51ebc918ca0b3216b",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-14",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "While the conversation about young adults staying longer at home is 29 by talk of laziness, of dependence, of an inability for young people to pull themselves together, 30 do we talk of the way, in my case at least, my relationship with my parents has 3 1 strengthened the longer we have lived together.",
+      "sourceHash": "96b466350a5cfddaa77eaf1ce0323023e75f7ac42bbb93776011fc9705198ac7",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-15",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "Over the years the power dynamic has changed and is no longer defined by one being the giver and another, the taker. So, what does this say for our relationships within the family home?",
+      "sourceHash": "11319b6f119c72d1cb0500841010e72bb8b9407fba1d9622f8060d073fd77e19",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-16",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "According to psychologist Sabina Read, there are \" some very positive possible 32 when adult children share the family home\" , noting the \" parent-child relationship may indeed strengthen and mature\" in the process.",
+      "sourceHash": "fbf54c55fa9fd5233c10097139bf87e42789dd0fad90e96df286a7b2d6923e34",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-17"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-1-17",
+      "paperId": "cet6:2020-09-02",
+      "kind": "cloze",
+      "sourceText": "But, she notes, a strong 33 doesn't simply come with time. \" The many changing factors of the relationship need to be acknowledged, rather than hoping that the mere passage of time will 34 connect parents to their adult children. It's important to acknowledge that the relationship parameters have changed to avoid falling back into 35 from the teen years.\"",
+      "sourceHash": "86dab81b54768b09ce790a08fb9b68c3166d1cfec6d5918abdee485c41252981",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-1-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-1-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-18"
+        ],
+        "reflowBlockIds": [
+          "b-1-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-2",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : In this section , you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "19201f05019c30c9c5ada3e7ce3acec29f29982ec2431ab258dcee98fe806206",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "heading_prose",
+      "sourceText": "How Telemedicine Is Transforming Healthcare",
+      "sourceHash": "13e6b46435055b7be7f537546a226cb49044611893fce093fe0ba59b4429b2ef",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "远程医疗如何改变医疗保健",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-4",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "A. After years of big promises, telemedicine is finally living up to its potential. Driven by faster more health providers are turning to electronic communications to do their jobs-and it's dramatically changing the delivery of healthcare.",
+      "sourceHash": "27f23acfb68e2a76bf5125846dc23acfbdedb94e59c0e2227120b1f410ab57dd",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-5",
+        "cet6:2020-09-02:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-4",
+        "cet6:2020-09-02:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-5",
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-4",
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-7",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "B) Doctors are linking up with patients by phone, email and webcam ������������������ . They're also consulting with each other electronically-sometimes to make split-second decisions on heart attacks and strokes. Patients, meanwhile, are using new devices to relay their blood pressure, heart rate and other vital signs to their doctors so they can manage chronic conditions at home. Telemedicine also allows for better care in places where medical expertise is hard to come by. Five to 10 times a day, Doctors Without Borders relays questions about tough cases from its physicians in Niger, South Sudan and elsewhere to its network of 280 experts around the world, and back again via internet.",
+      "sourceHash": "3c8e868a4acc7e5ac03fdd3999e28e039710cd52a5744857ef6ee3cb67c53eee",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "C) As a measure of how rapidly telemedicine is spreading, consider: More than 1 5 million Americans received some kind of medical care remotely last year, according to the American Telemedicine Association, a trade group, which expects those numbers to grow by 30% this year.",
+      "sourceHash": "bf836b6fb0dd3065ec3b4f40adf7bd17e7ae977d8328033f412a9857c86119ac",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 作为衡量远程医疗传播速度的指标，请考虑一下：据行业组织美国远程医疗协会称，去年有超过 1500 万美国人远程接受了某种医疗护理，预计今年这一数字将增长 30%。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "D) None of this is to say that telemedicine has found its way into all comers of medicine. A recent survey of 500 tech-savvy����������������� consumers found that 39% hadn't heard of telemedicine, and of those who haven't used it, 42% said they preferred in-person doctor visits. In a poll of 1 ,500 family physicians, only 15% had used it in their practices-but 90% said they would if it were appropriately reimbursed (补偿) .",
+      "sourceHash": "92424daf4964c47f1bb5872e6acd55a0c57f48ace4661e1053a8e59b01bb7fc4",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "E) What's more, for all the rapid growth, significant questions and challenges remain. Rules defining and regulating telemedicine differ widely from state to state. Physicians groups are issuing different guidelines about what care they consider appropriate to deliver and in what form.",
+      "sourceHash": "7d5602c2e9c378b46988f9fa8effd083cb93c3efb6ec01a536241f340dcabafb",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 此外，尽管实现了快速增长，但重大问题和挑战仍然存在。各州定义和监管远程医疗的规则差异很大。医生团体正在发布不同的指南，说明他们认为适合提供哪些护理以及以何种形式提供护理。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-11",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "F) Some critics also question whether the quality of care is keeping up with the rapid expansion of telemedicine. And there's the question of what services physicians should be paid for: Insurance coverage varies from health plan to health plan, and a big federal plan covers only a narrow range of services. Telemedicine's future will depend on how-and whether-regulators, providers, payers and patients can address these challenges. Here's a closer look at some of these issues:",
+      "sourceHash": "2313920e24bdf945705d14cfb0102714785ac35d54781ac810bc930da4ec2787",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 一些批评者还质疑护理质量是否跟上远程医疗的快速扩张。还有一个问题是医生应该为哪些服务付费：保险范围因健康计划而异，而大型联邦计划仅涵盖一小部分服务。远程医疗的未来将取决于监管机构、提供者、付款人和患者如何以及是否能够应对这些挑战。以下是对其中一些问题的仔细研究：",
+      "source": {
+        "blockIds": [
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-2-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "G) Do patients trade quality for convenience? The fastest-growing services in telemedicine connect consumers with clinicians they've never met for a phone, video or email visit-on-demand, 24/7. Typically, these are for nonemergency issues such as colds, flu, ear-aches and skin rashes, and they cost around $ 45, compared with approximately $ 1 00 at a doctor's office, $ 1 60 at an urgent-care clinic or $ 750 and up at an emergency room.",
+      "sourceHash": "e9c7f9a45101e50837371a835ec193ee2ee56b11759dc0c3bbb44b35c665e674",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-2-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 患者是否会为了方便而牺牲质量？远程医疗领域增长最快的服务将消费者与他们从未见过的临床医生联系起来，通过电话、视频或电子邮件按需就诊，24/7。通常，这些药物用于治疗感冒、流感、耳痛和皮疹等非紧急问题，费用约为 45 美元，而医生办公室的费用约为 1 00 美元，紧急护理诊所的费用为 1 - 60 美元，急诊室的费用为 750 美元以上。",
+      "source": {
+        "blockIds": [
+          "b-2-13"
+        ],
+        "reflowBlockIds": [
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-1",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "H) Many health plans and employers have rushed to offer the services and promote them as a convenient way for plan members to get medical care without leaving home or work. Nearly three-quarters of large employers will offer virtual doctor visits as a benefit to employees this year, up from 48% last year. Web companies such as Teladoc and American Well are expected to host some 1 .2 million such virtual doctor visits this year, up 20% from last year, according to the American Telemedicine Association.",
+      "sourceHash": "d37a1395a3272ee73f806f8f5a1ef2ac187dfc88e1be40c68613bdf638a21795",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 许多健康计划和雇主都争先恐后地提供服务并进行推广，将其作为计划成员无需离开家或工作即可获得医疗护理的便捷方式。今年，近四分之三的大型雇主将为员工提供虚拟就诊服务，这一比例高于去年的 48%。据美国远程医疗协会称，Teladoc 和 American Well 等网络公司预计今年将接待约 120 万人次此类虚拟医生就诊，比去年增长 20%。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-2",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "I) But critics worry that such services may be sacrificing quality for convenience. Consulting a random doctor patients will never meet, they say, further fragments the health-care system, and even minor issues such as upper respiratory ���������������� infections can't be thoroughly evaluated by a doctor who can't listen to your heart or feel your swollen glands. In a recent study, researchers posing as patients with skin problems sought help from 1 6 telemedicine sites-with unsettling results. In 62 encounters, fewer than one-third disclosed clinicians' credential or let patients choose; only 32% discussed potential side effects of prescribed medications. Several sites misdiagnosed serious conditions, largely because they failed to ask basic follow-up questions, the researchers said. \" Telemedicine holds enormous promise, but these sites are just not ready for prime time,\" says Jack Resneck, the study's lead author.",
+      "sourceHash": "685ffad48d94989ee44b50bc5ac44ea552069e667dff2c69ef88d0a7eea2a4c9",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "J) The American Telemedicine Association and other organizations have started accreditation ������ programs to identify top-quality telemedicine sites. The American Medical Association this month approved new ethical guidelines for telemedicine, calling for participating doctors to recognize the limitations of such services and ensure that they have sufficient information to make clinical recommendations.",
+      "sourceHash": "8143d0c3570fa85000bc8e28f9673807a8ad6e7fa67ef5ad097aa4c5f2440be8",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-4",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "K) Who pays for the services? While employers and health plans have been eager to cover virtual urgent­ care visits, insurers have been far less willing to pay for telemedicine when doctors use phone, email or video to consult with existing patients about continuing issues. \" It's very hard to get paid unless you physically see the patient,\" says Peter Rasmussen, medical director of distance health at the Cleveland Clinic. Some 32 states have passed \"parity\" ������� laws requiring private insurers to reimburse doctors for services delivered remotely if the same service would be covered in person, though not necessarily at the same rate or frequency. Medicare lags further behind. The federal health plan for the elderly covers a small number of telemedicine services-only for beneficiaries in rural areas and only when the services are received in a hospital, doctor's office or clinic.",
+      "sourceHash": "b404c7db13089e850c60657c2d623badb030e4e50ad6ac257df5c089614e94c8",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-5",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "L) Bills to expand Medicare coverage of telemedicine have bipartisan�������������� support in Congress. Opponents worry that such expansion would be costly for taxpayers, but advocates say it would save money in the long run.",
+      "sourceHash": "d428e0c22ba86dd972a07a7680a0076f57ba3eebc1c3ef8e3e656609f6eda2a1",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-6",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "M) Experts say more hospitals are likely to invest in telemedicine systems as they move away from fee-for-service payments and into managed-care-type contracts that give them a set fee to provide care for patients and allow them to keep any savings they achieve.",
+      "sourceHash": "47bc2e23eccdcaae9d3fc4cc5e8724fcc92d63b464158ddc804d8cc40fc61b03",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M) 专家表示，更多的医院可能会投资远程医疗系统，因为他们不再按服务收费转而采用管理式医疗合同，这些合同规定医院收取固定费用来为患者提供护理，并允许他们保留所节省的费用。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-3-7",
+      "paperId": "cet6:2020-09-02",
+      "kind": "passage_option",
+      "sourceText": "N) Is the state-by-state regulatory system outdated? Historically, regulation of medicine has been left to individual states. But some industry members contend that having 50 different sets of rules, licensing fees and even definitions of \" medical practice \" makes less sense in the era of telemedicine and is hampering its growth. Currently, doctors must have a valid license in the state where the patient is located to provide medical care, which means virtual-visit companies can match users only with locally licensed clinicians. It also causes administrative hassles ������������ for world-class medical centers that attract patients from across the country. At the Mayo Clinic, doctors who treat out-of-state patients can follow up with them via phone, email or web chats when they return home, but they can only discuss the conditions they treated in person. \" If the patient wants to talk about a new problem, the doctor has to be licensed in that state to discuss it. If not, the patient should talk to his primary-care physician about it,\" says Steve Ommen, who runs Mayo's Connected Care program.",
+      "sourceHash": "f618be03c28ff319539c9dc6427da30b8527b3b09cf00cfa9b7717445da3d41c",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-3-7",
+        "cet6:2020-09-02:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-7",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-2",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "0) To date, 1 7 states have joined a compact that will allow a doctor licensed in one member state to quickly obtain a license in another. While welcoming the move, some telemedicine advocates would prefer states to automatically honor one another's licenses, as they do with drivers' licenses. But states aren't likely to surrender control of medical practice, and most are considering new regulations. This year, more than 200 telemedicine-related bills have been introduced in 42 states, many regarding what services Medicaid will cover and whether payers should reimburse for remote patient monitoring. \" A lot of states are still trying to define telemedicine,\" says Lisa Robbin, chief advocacy officer for the Federation of State Medical Boards.",
+      "sourceHash": "382745535600bb5af48d85e35d6018e3ed2d4961159c2eb82f8f4d946dd388c7",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "0) 迄今为止，1-7 个州已加入一项契约，允许在一个成员国获得执照的医生快速在另一个成员国获得执照。在欢迎这一举措的同时，一些远程医疗倡导者希望各州自动尊重彼此的执照，就像对待驾驶执照一样。但各州不太可能放弃对医疗实践的控制，大多数州都在考虑新的法规。今年，42 个州推出了 200 多项与远程医疗相关的法案，其中许多法案涉及医疗补助将涵盖哪些服务以及付款人是否应报销远程患者监护费用。 “许多州仍在尝试定义远程医疗，”州医疗委员会联合会首席倡导官丽莎罗宾说。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "36. An overwhehning majority of family physicians are willing to use telemedicine if they are duly paid.",
+      "sourceHash": "387e171ccf1f4874e71106f01c2b135a1d6d2d28779780fa7362204182283733",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 如果有适当报酬，绝大多数家庭医生愿意使用远程医疗。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-4",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "37. Many employers are eager to provide telemedicine service as a benefit to their employees because of its convenience.",
+      "sourceHash": "d7c5255e060cfba1753b030e953b2efabbb769011761011371490c16f2c18ca5",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 许多雇主渴望提供远程医疗服务作为其雇员的福利，因为它很方便。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-5",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "38. Different states have markedly different regulations for telemedicine.",
+      "sourceHash": "bcec7be81ff0b8289d3cfb0d7483fe7d35a6a2447fbd40726e8af7a813e7f4d2",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 不同州对远程医疗的规定明显不同。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-6",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "39. With telemedicine, patients in regions short of professional medical service are able to receive better medical care.",
+      "sourceHash": "c154f97149d6a1f716e92e732881960e45c5041ae7a1adf648c60663115b7259",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 通过远程医疗，缺乏专业医疗服务地区的患者能够获得更好的医疗服务。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-7",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "40. Unlike employers and health plans, insurers have been rather reluctant to pay for some",
+      "sourceHash": "8d3374a5c089edd3fe89c29a5775365cadae5f3b8c2d276ef7b037b8f6b0eebe",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 与雇主和健康计划不同，保险公司相当不愿意支付某些费用。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "41. Some supporters of telemedicine hope states will accept each other's medical practice licenses as valid.",
+      "sourceHash": "854cddd535bc34e089aaf46cac4cd5bcdeca6e9c3dbeb4fcbf48721f9b6fec32",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 一些远程医疗的支持者希望各国能够接受彼此的医疗执业许可证的有效性。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "42. The fastest growing area for telemedicine services is for lesser health problems.",
+      "sourceHash": "5422491bb18416d426860da16b544e46e2c40a69359b8924e463cad61f93461e",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 远程医疗服务增长最快的领域是针对较少的健康问题。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-11",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "43. As telemedicine spreads quickly, some of its opponents doubt whether its service quality can be guaranteed.",
+      "sourceHash": "0c0feddad7b87d691a48186b68b2e09ffc793c062473a6faa15f3f0e86c8b918",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 随着远程医疗的迅速普及，一些反对者怀疑其服务质量能否得到保证。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "44. The results obtained by researchers who pretended to be patients seeking help from telemedicine providers are disturbing.",
+      "sourceHash": "793b9482c3b30e19813c6237827f8c25ad0e6601fcda196df9523975f0420d67",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 假装是向远程医疗提供者寻求帮助的患者的研究人员获得的结果令人不安。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-13",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "45. Some people argue that the fact that different states have different regulations concerning medical services hinders the development of telemedicine.",
+      "sourceHash": "3b91aece82aa050c999e0d8c933414ea023ed092469436bce3204c8385cf51d9",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 有人认为，不同州对医疗服务的规定不同，阻碍了远程医疗的发展。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-15",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A ) , B ) , C) and",
+      "sourceHash": "14a20e9a66647af15194e92ac0072570d1908ccfb9a69bb76ac0f5e9fb4a6a54",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。对于每个选项，有四个选项，标记为 A ) 、 B ) 、 C) 和",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-16",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "D ) . You should decide on the best choice and mark the corresponding letter on Answer",
+      "sourceHash": "388e733d65f70827c30074dddcf0a3782486290b07237d955c890eda94ac82a0",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D).您应该决定最佳选择并在答案上标记相应的字母",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-4-17",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Sheet 2 with a single line through the centre.",
+      "sourceHash": "8a13d5fa2538c18b30e41345914032d1b55ea75020d3a0c499e68940ebce360e",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 2 页有一条线穿过中心。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-2",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Danielle Steel, the 71-year-old romance novelist is notoriously productive, having published 179 books at a rate of up to seven a year. But a passing reference in a recent profile by Glamour magazine to her 20-hour workdays prompted an outpouring of admiration.",
+      "sourceHash": "20d3c8ebaaedf1c0ea50e90c7b80545656e6ba4f69754916022637bd24adb3e0",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "71 岁的爱情小说家丹妮尔·斯蒂尔 (Danielle Steel) 是出了名的多产，她以每年七本的速度出版了 179 本书。但《魅力》杂志最近在一篇简介中提到她每天工作 20 小时，引发了人们的钦佩。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-4",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Steel has given that 20-hour figure when describing her \" exhausting\" process in the past: \" I start the book and don't leave my desk until the first draft is finished.\" She goes from bed, to desk, to bath, to bed, avoiding all contact aside from phone calls with her nine children. \" I don't comb my hair for weeks,\" she says. Meals are brought to her desk, where she types until her fingers swell and her nails bleed.",
+      "sourceHash": "4eb0e268760c142b7169ed9f1a48b13a0e540f65b6f88d14c49b70049e945cf2",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "斯蒂尔在描述她过去“筋疲力尽”的过程时给出了20小时的数字：“我开始写这本书，直到初稿完成才离开我的办公桌。”她从床上爬到办公桌前，再洗澡，再上床，除了和九个孩子打电话外，她避免了所有接触。 “我已经好几个星期没有梳理头发了，”她说。饭菜被送到她的办公桌上，她在那里打字，直到手指肿胀、指甲流血。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-5",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "The business news website Quartz held Steel up as an inspiration, writing that if only we all followed her \" actually extremely liberating\" example of industrious sleeplessness, we would be quick to see results.",
+      "sourceHash": "e90c7d6726438bd9b8a30b342f2f84daf48ce403232962a747a54ab08e3d5412",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "商业新闻网站 Quartz 将斯蒂尔视为一种灵感，写道，只要我们都效仿她“实际上极其解放”的勤劳、不眠不休的榜样，我们很快就会看到结果。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-6",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Well, indeed. With research results showing the cumulative effects of sleep loss and its impact on productivity, doubt has been voiced about the accuracy of Steel's self-assessment. Her output may be undeniable, but sceptics have suggested that she is guilty of erasing the role of ghostwriters (代笔人) at worst, gross exaggeration at best.",
+      "sourceHash": "6e13f8530b0a8365efcebc0f375bed7f323ea7a5c45c52a6150db0f1110aa28f",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "嗯，确实如此。研究结果显示睡眠不足的累积影响及其对生产力的影响，人们对斯蒂尔自我评估的准确性表示怀疑。她的作品也许是不可否认的，但怀疑论者认为，往坏了说，她抹去了代笔人的作用，往好了说，她犯了严重夸张的错误。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-7",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Steel says working 20 hours a day is \" pretty brutal physically.\" But is it even possible? \" No,\" says Maryanne Taylor of the Sleep Works. While you could work that long, the impact on productivity would make it hardly worthwhile. If Steel was routinely sleeping for four hours a night, she would be drastically underestimating the negative impact, says Alison Gardiner, founder of the sleep improvement programme Sleepstation. \" It's akin to being drunk.\"",
+      "sourceHash": "4bf727348faef54e5039f7572052f1d4277f03a77bc97e0c2712ee10cac32f82",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "斯蒂尔表示，每天工作 20 个小时“对体力来说是相当残酷的”。但这有可能吗？ “不，”睡眠工作组织的玛丽安·泰勒说。虽然你可以工作那么长时间，但对生产力的影响会让你觉得不值得。睡眠改善计划 Sleepstation 的创始人艾莉森·加德纳 (Alison Gardiner) 表示，如果斯蒂尔经常每晚睡四个小时，她就会大大低估负面影响。 “这就像喝醉了一样。”",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "It's possible that Steel is exaggerating the demands of her schedule. Self-imposed sleeplessness has \" become a bit of a status symbol\" , says Taylor, a misguided measure to prove how powerful and productive you are. Margaret Thatcher was also said to get by on four hours a night, while the 1 30-hour work weeks endured by tech heads has been held up as key to their success.",
+      "sourceHash": "9f6970dd83382bc7214cc5f6d66387e002298c23d375974111ea62449ecc1e21",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "斯蒂尔可能夸大了她的日程安排的要求。泰勒说，自我强加的失眠已经“成为一种地位的象征”，这是一种误导性的衡量方式，用来证明你有多强大和多产。据说玛格丽特·撒切尔每晚只需要 4 个小时就能过日子，而技术主管们每周工作 1、30 个小时也被认为是他们成功的关键。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "That is starting to change with increased awareness of the importance of sleep for mental health. \" People are starting to realise that sleep should not be something that you fit in between everything else,\" says Taylor.",
+      "sourceHash": "e3f3e9cd09f8599f4a73b9654b36ce8f2692d6d1485a93716498de07d3d7e848",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "随着人们越来越认识到睡眠对心理健康的重要性，这种情况开始发生变化。 “人们开始意识到睡眠不应该被置于其他事情之间，”泰勒说。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "But it is possible-if statistically extremely unlikely-that Steel could be born a \" short sleeper\" with an unusual body clock, says sleep expert Dr. Sophie Bostock. \" It's probably present in fewer than 1 % of the population.\"",
+      "sourceHash": "35927f4fab74409c9456bef7888c3791186b9bad21f211c469960b319c8de493",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但睡眠专家索菲·博斯托克博士表示，斯蒂尔可能天生就是一个“睡眠时间短”且生物钟不寻常的人，尽管从统计角度来看可能性极小。 “它可能只存在于不到 1% 的人口中。”",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-11",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Even if Steel does happen to be among that tiny minority, says Bostock, it's \" pretty irresponsible\" to suggest that 20-hour days are simply a question of discipline for the rest of us.",
+      "sourceHash": "4e2a3313d1b7a8c70762aed2bee6cabaa3ebd3ea46de1be015498ab4c13e38f1",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "博斯托克表示，即使 Steel 确实属于极少数，但如果认为每天工作 20 小时只是我们其他人的纪律问题，那是“相当不负责任的”。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn from the passage about Glamour magazine readers?",
+      "sourceHash": "6e2bf8f4a547f898ebfab3ab1ed7d7486ee9524f07d7d5e75a27c48d41a14e12",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.我们从关于《魅力》杂志读者的文章中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-5-14",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "47. What did the business news website Quartz say about Danielle Steel?",
+      "sourceHash": "0373d304abc287ce26b2a6cc33f1aad3f6ed8721ee889f10f27b45a591cc49ee",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 商业新闻网站 Quartz 对 Danielle Steel 有何评价？",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-1",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "48. What do sceptics think of Danielle Steel's work schedule claims?",
+      "sourceHash": "59b4ae8738202e5523791b44e186caab01d773e95a4e2f8030dbdda96cca690b",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 怀疑者如何看待 Danielle Steel 的工作时间表主张？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "49. What does Maryanne Taylor think of self-imposed sleeplessness?",
+      "sourceHash": "c157118346ef132125dfe064907ea6f89faecdcdb1051bf77bc4cf690bc42e00",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 玛丽安娜·泰勒 (Maryanne Taylor) 对自我强迫性失眠有何看法？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-5",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "50. How does Dr. Sophie Bostock look at the 20-hour daily work schedule?",
+      "sourceHash": "b533b826d3e119092a02490f93b3809d2c7566526fd91026c8d14f0c0dcf084b",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. Sophie Bostock博士如何看待每天20小时的工作安排？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Organic agriculture is a relatively untapped resource for feeding the Earth's population, especially in the face of climate change and other global challenges. That's the conclusion I reached in reviewing 40 years of science comparing the long-term prospects of organic and conventional farming.",
+      "sourceHash": "6988e96b3da1790a19cf9a39d8cd5ce30e8568ae7fc75afd94b713e2c9cb1a58",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有机农业是一种相对尚未开发的资源，可用于养活地球人口，特别是在面临气候变化和其他全球挑战的情况下。这是我在回顾 40 年来的科学、比较有机农业和传统农业的长期前景时得出的结论。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "The review study, \" Organic Agriculture in the 21 st Century,\" is featured as the cover story for the February issue of the journal Nature Plants. It is the first to compare organic and conventional agriculture across the main goals of sustainability identified by the National Academy of Sciences: productivity, economics and environment.",
+      "sourceHash": "042c316d882cd65e719122ab732d44881a7de1a07d82130c059b7916c8311989",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这篇题为“21 世纪的有机农业”的综述研究成为《自然植物》杂志二月号的封面故事。它是第一个比较有机农业和传统农业的国家科学院确定的可持续发展主要目标：生产力、经济和环境。",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-11",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Critics have long argued that organic agriculture is inefficient, requiring more land to yield the same amount of food. It's true that organic farming produces lower yields, averaging 10 to 20 percent less than conventional. Advocates contend that the environmental advantages of organic agriculture far outweigh the lower yields, and that increasing research and breeding resources for organic systems would reduce the yield gap. Sometimes excluded from these arguments is the fact that we already produce enough food to more than feed the world's 7.4 billion people but do not provide adequate access to all individuals.",
+      "sourceHash": "371403bbfb585457d536142fe56cea28d48f23963865c29cca95c8d3798072fa",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "批评者长期以来一直认为有机农业效率低下，需要更多的土地才能生产相同数量的粮食。确实，有机农业的产量较低，平均比传统农业低 10% 至 20%。支持者认为，有机农业的环境优势远远超过其较低的产量，增加有机系统的研究和育种资源将缩小产量差距。有时，这些论点被排除在外的事实是，我们已经生产出足够的粮食来养活世界上 74 亿人，但并没有为所有人提供足够的机会。",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "In some cases, organic yields can be higher than conventional. For example, in severe drought conditions, which are expected to increase with climate change in many areas, organic farms can produce as good, if not better, yields because of the higher water-holding capacity of organically farmed soils.",
+      "sourceHash": "5b75eabab44ef361712de92a23e6aa6ef8ebe4634192dfa70df550fe5e943b42",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在某些情况下，有机产量可能高于常规产量。例如，在严重干旱的情况下（预计许多地区的气候变化会加剧这种情况），由于有机耕作土壤具有更高的持水能力，有机农场可以产生同样好的甚至更好的产量。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-13",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "What science does tell us is that mainstream conventional farming systems have provided growing supplies of food and other products but often at the expense of other sustainability goals.",
+      "sourceHash": "92571dc0f72ae5607129c1cb92932f3e077a7e0e94e0adc4ba42f3ad0cb4815b",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "科学告诉我们的是，主流传统农业系统提供了不断增长的食品和其他产品供应，但往往以牺牲其他可持续发展目标为代价。",
+      "source": {
+        "blockIds": [
+          "b-6-13"
+        ],
+        "reflowBlockIds": [
+          "b-6-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-14",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Conventional agriculture may produce more food, but it often comes at a cost to the environment. Biodiversity loss, environmental degradation, and severe impacts on ecosystem services have not only accompanied conventional farming systems but have often extended well beyond their field boundaries. With organic agriculture, environmental costs tend to be lower and the benefits greater.",
+      "sourceHash": "2fc5cf3ff4ccd7cfe9f18255893ba36926a02d54a94d45bef11ca5d85908eeb5",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "传统农业可能会生产更多粮食，但往往会以环境为代价。生物多样性丧失、环境退化以及对生态系统服务的严重影响不仅伴随着传统农业系统，而且往往远远超出其农田范围。有机农业的环境成本往往更低，效益更大。",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-6-15",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Overall, organic farms tend to store more soil carbon, have better soil quality and reduce soil erosion compared to their conventional counterparts. Organic agriculture also creates less soil and water pollution and lower greenhouse gas emissions. And it's more energy-efficient because it doesn't rely on synthetic fertilizers or pesticides.",
+      "sourceHash": "a09e410a285e3f791e52b6a58c54200ba3d0c263c3cc8cef3f676d486c1c40e3",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-6-15",
+        "cet6:2020-09-02:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "总体而言，与传统农场相比，有机农场往往能储存更多的土壤碳，具有更好的土壤质量并减少水土流失。有机农业还减少了土壤和水污染，并降低了温室气体排放。而且它更节能，因为它不依赖合成肥料或农药。",
+      "source": {
+        "blockIds": [
+          "b-6-15"
+        ],
+        "reflowBlockIds": [
+          "b-6-15",
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6",
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-2",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Organic agriculture is also associated with greater biodiversity of plants, animals, insects and microorganisms as well as genetic diversity. Biodiversity increases the services that nature provides and improves the ability of farming systems to adapt to changing conditions.",
+      "sourceHash": "e4ab3c70c815609f9c0acd024f8962ef580b1911d425c2a1b5b21318ce3ef408",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有机农业还与植物、动物、昆虫和微生物的生物多样性以及遗传多样性有关。生物多样性增加了大自然提供的服务，并提高了农业系统适应不断变化的条件的能力。",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "reading",
+      "sourceText": "Despite lower yields, organic agriculture is more profitable for farmers because consumers are willing to pay more. Higher prices, called price premiums, can be justified as a way to compensate farmers for providing ecosystem services and avoiding environmental damage or external costs.",
+      "sourceHash": "b1d82258233d0aded994134e903486ccf4a56b1e737bad05e5b836f9aba95bae",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "尽管产量较低，但有机农业对农民来说更有利可图，因为消费者愿意支付更多费用。较高的价格（称为价格溢价）可以作为补偿农民提供生态系统服务并避免环境破坏或外部成本的一种方式。",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-4",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "51. What do we learn from the conclusion of the author's review study?",
+      "sourceHash": "673c7c0802c6765fea36baec954ba727f665e274c1875da8963d800ab83e30cd",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.我们从作者的综述研究的结论中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-6",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "52. What is the critics' argument against organic farming?",
+      "sourceHash": "d24b7ccdf609723692781934a9be6c0025bf8c3fe5a1e0d383fcccfbdb78c267",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 批评者反对有机农业的论点是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "53. What does the author think should be taken into account in arguing about organic farming?",
+      "sourceHash": "ad8499b6a188532bd733c0119a4c961334e7be90895e613b2caf44818b0a09b4",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 作者认为在争论有机农业时应该考虑什么？",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-10",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "54. What does science tell us about conventional farming?",
+      "sourceHash": "010f8d1d8bbd4de2f8dc2119d9a122f165d546ad144c7aa428ece62f196bc024",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 关于传统农业，科学告诉我们什么？",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-12",
+      "paperId": "cet6:2020-09-02",
+      "kind": "question_prompt",
+      "sourceText": "55. Why does the author think higher prices of organic farm produce are justifiable?",
+      "sourceHash": "8eeaa29113ba5eba273477515266977d51d696a987028b609e620d6216e98bc5",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 为什么作者认为有机农产品价格上涨是合理的？",
+      "source": {
+        "blockIds": [
+          "b-7-11"
+        ],
+        "reflowBlockIds": [
+          "b-7-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-7-15",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "dd3663f133a573f7c722ea4547b41b2c11e7d7bc69d6c84cd99612b251cb0052",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-7-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-14"
+        ],
+        "reflowBlockIds": [
+          "b-7-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-8-3",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to write an essay on the saying \" What is worth doing is worth doing well. \" You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "fee208c549dd7b6e8ab04e48fcb7f2275169d93a589533ed078745755a037008",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-8-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-8-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有30分钟的时间写一篇关于“值得做的事情值得做好”的文章。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-8-4"
+        ],
+        "reflowBlockIds": [
+          "b-8-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-8-6",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to write an essay on the saying \" Wealth of the mind is the only true wealth. \" You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "6c61aff5119c3ed3a82315524b99f0d6bad3a024b6535a2b864bf8bbc285edac",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-8-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-8-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有30分钟的时间写一篇关于“心灵的财富是唯一真正的财富”这句话的文章。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-8-7"
+        ],
+        "reflowBlockIds": [
+          "b-8-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-8-8",
+      "paperId": "cet6:2020-09-02",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to translate a passage from Chinese into",
+      "sourceHash": "6dfbc65ddc4b0326994cd9cc3d9e7e064a7c9c09534dd928bd6538af49d0a802",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-8-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-8-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有30分钟的时间将一段中文翻译成中文。",
+      "source": {
+        "blockIds": [
+          "b-8-9"
+        ],
+        "reflowBlockIds": [
+          "b-8-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2020-09-02:p:b-8-9",
+      "paperId": "cet6:2020-09-02",
+      "kind": "translation_prompt",
+      "sourceText": "English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "0411547e19e15c505dc20460c1cd89d4d692911a42d6b7a6847452da38464e5e",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-8-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2020-09-02:b-8-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "英语。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-8-10"
+        ],
+        "reflowBlockIds": [
+          "b-8-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2020-09-02.json",
+        "pdfSha256": "fde98c8992a01266d22b1de144ea27e4b8f4a9b25d7c7b9dd52f336941ba1871",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2020-09-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2020-09-02.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2020-09-02:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-46-1",
+      "optionId": "cet6:2020-09-02:q-46-1:A",
+      "sourceText": "They are intrigued by the exotic romance in Danielle Steel's novels.",
+      "sourceHash": "167486d72fd090fd337380d11e5bbf6d17117f6e038acd85cd01d0b3200cbb97",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are intrigued by the exotic romance in Danielle Steel's novels.",
+      "translationEligible": true,
+      "translationZh": "他们对丹妮尔·斯蒂尔小说中的异国浪漫情调很感兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-46-1",
+      "optionId": "cet6:2020-09-02:q-46-1:B",
+      "sourceText": "They are amazed by the number of books written by Danielle Steel.",
+      "sourceHash": "d68d7b29499665983c349d479ba1420c95e7a56a5da7e27203db37d4fc53e97f",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are amazed by the number of books written by Danielle Steel.",
+      "translationEligible": true,
+      "translationZh": "他们对丹妮尔·斯蒂尔写的书的数量感到惊讶。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-46-1",
+      "optionId": "cet6:2020-09-02:q-46-1:C",
+      "sourceText": "They are deeply impressed by Danielle Steel's daily work schedule.",
+      "sourceHash": "969dfd46f643755ba37f2db6c4c375ed7e455173eb214e4ba30567ef4feac38b",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are deeply impressed by Danielle Steel's daily work schedule.",
+      "translationEligible": true,
+      "translationZh": "Danielle Steel 的日常工作安排给他们留下了深刻的印象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-46-1",
+      "optionId": "cet6:2020-09-02:q-46-1:D",
+      "sourceText": "They are highly motivated by Danielle Steel's unusual productivity.",
+      "sourceHash": "46db8157f1088b119549609ade06244425068dace1c524af1dae9227b4388657",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are highly motivated by Danielle Steel's unusual productivity.",
+      "translationEligible": true,
+      "translationZh": "Danielle Steel 非凡的生产力让他们深受鼓舞。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-47-1",
+      "optionId": "cet6:2020-09-02:q-47-1:A",
+      "sourceText": "She could serve as an example of industriousness.",
+      "sourceHash": "e89c63b8c18d0e6efa9537b3bb5584d8aa119c71cc2e0d53b1ae7ddbf487bd04",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "She could serve as an example of industriousness.",
+      "translationEligible": true,
+      "translationZh": "她可以成为勤奋的榜样。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-47-1",
+      "optionId": "cet6:2020-09-02:q-47-1:B",
+      "sourceText": "She proved we could liberate ourselves from sleep.",
+      "sourceHash": "dce27fb7fe06bb59e96d4ee09a778abfb562623684fd32164dd4f8c99f80f166",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "She proved we could liberate ourselves from sleep.",
+      "translationEligible": true,
+      "translationZh": "她证明我们可以把自己从睡眠中解放出来。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-47-1",
+      "optionId": "cet6:2020-09-02:q-47-1:C",
+      "sourceText": "She could be an inspiration to novelists all over the world.",
+      "sourceHash": "39ac83c86b91d9e666dee599ec141cb092504a17f1d131a41a766b6d18adab4f",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "She could be an inspiration to novelists all over the world.",
+      "translationEligible": true,
+      "translationZh": "她可能会成为全世界小说家的灵感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-47-1",
+      "optionId": "cet6:2020-09-02:q-47-1:D",
+      "sourceText": "She showed we could get all our work done without sleep.",
+      "sourceHash": "7a9e684eba0b43250c7db6033dc69380211c344d659c1b5689e53cb79eea0fe7",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-5-15"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-5-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "She showed we could get all our work done without sleep.",
+      "translationEligible": true,
+      "translationZh": "她向我们展示了我们可以在不睡觉的情况下完成所有工作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-48-1",
+      "optionId": "cet6:2020-09-02:q-48-1:A",
+      "sourceText": "They are questionable.",
+      "sourceHash": "f595d9c591165d7c1eee8b34c02c0e55e310d761d9734a7df36c91b2c03e4e81",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are questionable.",
+      "translationEligible": true,
+      "translationZh": "他们是值得怀疑的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-48-1",
+      "optionId": "cet6:2020-09-02:q-48-1:B",
+      "sourceText": "They are alterable.",
+      "sourceHash": "7c1eb15af64087d7a0185b14fe0f7c65d7cfeadf3496abf9f865ff5ba41322b0",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are alterable.",
+      "translationEligible": true,
+      "translationZh": "它们是可变的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-48-1",
+      "optionId": "cet6:2020-09-02:q-48-1:C",
+      "sourceText": "They are irresistible.",
+      "sourceHash": "c000a2216ef7a86e16fcfd9866c40e6d3dc1b91780ffea43e3e9a0f0f1d39e49",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are irresistible.",
+      "translationEligible": true,
+      "translationZh": "它们是不可抗拒的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-48-1",
+      "optionId": "cet6:2020-09-02:q-48-1:D",
+      "sourceText": "They are verifiable.",
+      "sourceHash": "38b236d9bd380229184307944eaa0ea5e06c25eb75a8dd6009261422d6d12c40",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are verifiable.",
+      "translationEligible": true,
+      "translationZh": "它们是可验证的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-49-1",
+      "optionId": "cet6:2020-09-02:q-49-1:A",
+      "sourceText": "It may turn out to be key to a successful career.",
+      "sourceHash": "2a02a4685cec94a5f7246942c1b7c5f221f378d8a9360cc4d7e478c479f6329f",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It may turn out to be key to a successful career.",
+      "translationEligible": true,
+      "translationZh": "这可能是职业生涯成功的关键。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-49-1",
+      "optionId": "cet6:2020-09-02:q-49-1:B",
+      "sourceText": "It may be practiced only by certain tech heads.",
+      "sourceHash": "80dbea34b72381a1d598408222b2b192cec0de8b19c32ab4156ef5ab3712eadc",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It may be practiced only by certain tech heads.",
+      "translationEligible": true,
+      "translationZh": "它可能只有某些技术主管才能实践。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-49-1",
+      "optionId": "cet6:2020-09-02:q-49-1:C",
+      "sourceText": "It may symbolise one's importance and success.",
+      "sourceHash": "7617e7cdbb55acc45ceeddd6d6a5e08abefd5e2106d2a1fc85089eb525b66023",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It may symbolise one's importance and success.",
+      "translationEligible": true,
+      "translationZh": "它可能象征着一个人的重要性和成功。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-49-1",
+      "optionId": "cet6:2020-09-02:q-49-1:D",
+      "sourceText": "It may well serve as a measure of self-discipline.",
+      "sourceHash": "2612ce1b256827982515bb96b3627bfae1f1a91787a5af49eb3177338b64da04",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may well serve as a measure of self-discipline.",
+      "translationEligible": true,
+      "translationZh": "它很可能作为一种自律措施。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-50-1",
+      "optionId": "cet6:2020-09-02:q-50-1:A",
+      "sourceText": "One should not adopt it without consulting a sleep expert.",
+      "sourceHash": "c8b3434107876f307977e7576022e98f472e62a6855db082012feecc105d3ad9",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "One should not adopt it without consulting a sleep expert.",
+      "translationEligible": true,
+      "translationZh": "在没有咨询睡眠专家的情况下，不应采用它。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-50-1",
+      "optionId": "cet6:2020-09-02:q-50-1:B",
+      "sourceText": "The general public should not be encouraged to follow it.",
+      "sourceHash": "8c26bfd71a9eb4fd3a96f920f6ea96b8afefbc83011191982f7a5177d00ff081",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The general public should not be encouraged to follow it.",
+      "translationEligible": true,
+      "translationZh": "不应鼓励公众遵循它。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-50-1",
+      "optionId": "cet6:2020-09-02:q-50-1:C",
+      "sourceText": "One must be duly self-disciplined to adhere to it.",
+      "sourceHash": "0c8df6548bb1263186bf0d07ded262f4bb89eca5b5777ae19e10f1cb56e2e9b5",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "One must be duly self-disciplined to adhere to it.",
+      "translationEligible": true,
+      "translationZh": "一个人必须适当自律才能遵守它。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-50-1",
+      "optionId": "cet6:2020-09-02:q-50-1:D",
+      "sourceText": "The majority must adjust their body clock for it.",
+      "sourceHash": "9f63e016de6b2fc229d8f2a8e7258cf05f77f5bc020e11e25cf58ddbd393050c",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The majority must adjust their body clock for it.",
+      "translationEligible": true,
+      "translationZh": "大多数人必须为此调整自己的生物钟。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-51-1",
+      "optionId": "cet6:2020-09-02:q-51-1:A",
+      "sourceText": "More resources should be tapped for feeding the world's population.",
+      "sourceHash": "c4c3a5da1f87830d8e8b0b0713b34b4ea667682b0b16c284ab89f895b0f975f7",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "More resources should be tapped for feeding the world's population.",
+      "translationEligible": true,
+      "translationZh": "应利用更多资源来养活世界人口。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-51-1",
+      "optionId": "cet6:2020-09-02:q-51-1:B",
+      "sourceText": "Organic farming may be exploited to solve the global food problem.",
+      "sourceHash": "413c54a9c33c94726f709f4308ada687289e367bd048641bddc1e4c2f1da1896",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Organic farming may be exploited to solve the global food problem.",
+      "translationEligible": true,
+      "translationZh": "有机农业可以用来解决全球粮食问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-51-1",
+      "optionId": "cet6:2020-09-02:q-51-1:C",
+      "sourceText": "The long-term prospects of organic farming are yet to be explored.",
+      "sourceHash": "984f753ada3b3ce166465638baae1068f1ec61ea3b3ae99efd77c71c97f5ea1a",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The long-term prospects of organic farming are yet to be explored.",
+      "translationEligible": true,
+      "translationZh": "有机农业的长期前景仍有待探索。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-51-1",
+      "optionId": "cet6:2020-09-02:q-51-1:D",
+      "sourceText": "Organic farming is at least as promising as conventional farming.",
+      "sourceHash": "94424c308fe3b14b8b39b6461ed278c33bd4b2bbd4bb7a187d949a14c8e9ee9c",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Organic farming is at least as promising as conventional farming.",
+      "translationEligible": true,
+      "translationZh": "有机农业至少与传统农业一样有前景。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-52-1",
+      "optionId": "cet6:2020-09-02:q-52-1:A",
+      "sourceText": "It cannot meet the need for food.",
+      "sourceHash": "101a4c47cab1925df4682ff6a763b68ee44b98b693be02f87b49fb060f994759",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It cannot meet the need for food.",
+      "translationEligible": true,
+      "translationZh": "它不能满足食物的需要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-52-1",
+      "optionId": "cet6:2020-09-02:q-52-1:B",
+      "sourceText": "It cannot increase farm yields.",
+      "sourceHash": "db2a0f8faa103c36a2fc2844095a78d28d75f5c515b702a1539b8d0df40d57eb",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It cannot increase farm yields.",
+      "translationEligible": true,
+      "translationZh": "它不能提高农业产量。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-52-1",
+      "optionId": "cet6:2020-09-02:q-52-1:C",
+      "sourceText": "It is not really practical.",
+      "sourceHash": "dc03c1ca9d3de08cbed63b0152535ede9d6408f36e4d2136da7594130d449b9a",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is not really practical.",
+      "translationEligible": true,
+      "translationZh": "这不太实用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-52-1",
+      "optionId": "cet6:2020-09-02:q-52-1:D",
+      "sourceText": "It is not that productive.",
+      "sourceHash": "2a46d49eadd515e902bbb639c8fbbb0a7811b18a881c95e87d0a68d344152df7",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is not that productive.",
+      "translationEligible": true,
+      "translationZh": "它的生产力并不高。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-53-1",
+      "optionId": "cet6:2020-09-02:q-53-1:A",
+      "sourceText": "Growth in world population.",
+      "sourceHash": "7e1eaa298c2d1dc8a154ae4a82eccf16bda44ad3a69e96a1d90c2257ea95fe18",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Growth in world population.",
+      "translationEligible": true,
+      "translationZh": "世界人口的增长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-53-1",
+      "optionId": "cet6:2020-09-02:q-53-1:B",
+      "sourceText": "Deterioration in soil fertility.",
+      "sourceHash": "670b145364201383be0acec7a431c65fe7c4ccd45512a6beafb928434d51f77d",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Deterioration in soil fertility.",
+      "translationEligible": true,
+      "translationZh": "土壤肥力恶化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-53-1",
+      "optionId": "cet6:2020-09-02:q-53-1:C",
+      "sourceText": "Inequality in food distribution.",
+      "sourceHash": "fca5ae10d885d53893b0d0a386c2720d0b079b0cf4dd235f8721dd514ca2edcb",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Inequality in food distribution.",
+      "translationEligible": true,
+      "translationZh": "粮食分配不平等。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-53-1",
+      "optionId": "cet6:2020-09-02:q-53-1:D",
+      "sourceText": "Advance in farming technology.",
+      "sourceHash": "5329c64e2ff97b5bf5385e4b96296c69b13ea7370e0707b7c7698a2ee95891a9",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Advance in farming technology.",
+      "translationEligible": true,
+      "translationZh": "农业技术进步。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-54-1",
+      "optionId": "cet6:2020-09-02:q-54-1:A",
+      "sourceText": "It will not be able to meet global food demand.",
+      "sourceHash": "c1b020afcbf061b542b54c9bac6dabf53da8167bd91cf65bfbad2ed9e56f1ecd",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It will not be able to meet global food demand.",
+      "translationEligible": true,
+      "translationZh": "它将无法满足全球粮食需求。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-54-1",
+      "optionId": "cet6:2020-09-02:q-54-1:B",
+      "sourceText": "It is not conducive to sustainable development.",
+      "sourceHash": "776ab6d0e27ac102759aeea9a4782092f2102f16e2d621d26b547b78f16cbeca",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is not conducive to sustainable development.",
+      "translationEligible": true,
+      "translationZh": "不利于可持续发展。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-54-1",
+      "optionId": "cet6:2020-09-02:q-54-1:C",
+      "sourceText": "It will eventually give way to organic farming.",
+      "sourceHash": "9ecffb312ccf545aa5c5641706dc3d9abd56beb011046c823c9f1c285964be6a",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will eventually give way to organic farming.",
+      "translationEligible": true,
+      "translationZh": "它最终将让位于有机农业。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-54-1",
+      "optionId": "cet6:2020-09-02:q-54-1:D",
+      "sourceText": "It is going mainstream throughout the world.",
+      "sourceHash": "4714d059b08d90931c3ffee113dbeb5266382260cacf6a6f7235cef119083864",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is going mainstream throughout the world.",
+      "translationEligible": true,
+      "translationZh": "它正在成为全世界的主流。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-55-1",
+      "optionId": "cet6:2020-09-02:q-55-1:A",
+      "sourceText": "They give farmers going organic a big competitive edge.",
+      "sourceHash": "aae41ce70d3f69c80d82cd887c6e315fb68921e33d46d314a2390e72c2958cc2",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-12"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They give farmers going organic a big competitive edge.",
+      "translationEligible": true,
+      "translationZh": "它们为农民提供有机食品巨大的竞争优势。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-55-1",
+      "optionId": "cet6:2020-09-02:q-55-1:B",
+      "sourceText": "They motivate farmers to upgrade farming technology.",
+      "sourceHash": "7837f473890eab1a65cde92167b6af2fb0993581572145ba39e9c14eef9818b4",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-12"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They motivate farmers to upgrade farming technology.",
+      "translationEligible": true,
+      "translationZh": "他们激励农民升级农业技术。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-55-1",
+      "optionId": "cet6:2020-09-02:q-55-1:C",
+      "sourceText": "Organic farming costs more than conventional farming.",
+      "sourceHash": "81de4d3554639204b01e2f53c053c03a477b578f6abef517d5fda5c4ac401a88",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-12"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Organic farming costs more than conventional farming.",
+      "translationEligible": true,
+      "translationZh": "有机农业的成本高于传统农业。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2020-09-02:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2020-09-02",
+      "questionId": "cet6:2020-09-02:q-55-1",
+      "optionId": "cet6:2020-09-02:q-55-1:D",
+      "sourceText": "Organic farming does long-term good to the ecosystem.",
+      "sourceHash": "2c05a3cea5c1ee5061ff35da395bfef802b85207f68691562552404d489daac6",
+      "sourceBlockIds": [
+        "cet6:2020-09-02:b-7-12"
+      ],
+      "reflowBlockId": "cet6:2020-09-02:b-7-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Organic farming does long-term good to the ecosystem.",
+      "translationEligible": true,
+      "translationZh": "有机农业对生态系统有长期的好处。",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 40,
+    "reason:translate": 40
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-10",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-11",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-12",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-13",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-14",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-15",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-16",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-1-17",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2020-09-02:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-4",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-09-02:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-6",
+      "classification": "ineligible",
+      "reason": "source_unreadable_image_gap",
+      "paragraphId": "cet6:2020-09-02:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-9",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-2",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-3",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-4",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-5",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2020-09-02:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-3-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-1",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-5-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-13"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-6-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-6-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2020-09-02:p:b-6-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2020-09-02:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-7-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-7-10"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2020-09-02:p:b-7-12"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-7-15"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-16",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-7-17",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-8-3"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-6",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-8-6"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2020-09-02:p:b-8-8"
+    },
+    {
+      "sourceBlockId": "cet6:2020-09-02:b-8-9",
+      "classification": "included",
+      "reason": "section_translation",
+      "paragraphId": "cet6:2020-09-02:p:b-8-9"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 16,
+    "included": 60,
+    "ineligible": 18
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 1,
+    "heading_prose": 2,
+    "instruction": 9,
+    "non_english_or_fragment": 5,
+    "question_prompt": 21,
+    "reading_choice_paragraph": 6,
+    "reading_prose": 20,
+    "section_label": 11,
+    "section_translation": 1,
+    "source_unreadable": 8,
+    "source_unreadable_image_gap": 2,
+    "unparsed_cloze_region": 8
+  },
+  "kindCounts": {
+    "cloze": 8,
+    "heading_prose": 2,
+    "instruction": 9,
+    "passage_option": 14,
+    "question_prompt": 21,
+    "reading": 20,
+    "translation_prompt": 1
+  },
+  "otherSourceBlockCounts": {
+    "options": 11,
+    "source_line": 6,
+    "structured_image_source_line": 6,
+    "structured_source_notice": 5
+  },
+  "issues": [
+    {
+      "code": "unreadable_intervening_source_line",
+      "paragraphId": "cet6:2020-09-02:p:b-2-4",
+      "reflowBlockIds": [
+        "b-2-5"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-7",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-2-9",
+      "replacementCharacters": 17,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-2",
+      "replacementCharacters": 16,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-3",
+      "replacementCharacters": 6,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-4",
+      "replacementCharacters": 7,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-5",
+      "replacementCharacters": 14,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2020-09-02:p:b-3-7",
+      "replacementCharacters": 12,
+      "sourceRenderMismatch": true
+    }
+  ]
+}

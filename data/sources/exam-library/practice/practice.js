@@ -22,40 +22,9 @@
     papers: [], questions: [], paper: null, index: 0, request: 0,
     selected: new Map(), written: new Map(), answers: new Map(), revealed: new Set()
   };
-  let mathQueue = Promise.resolve();
-
-  function element(tag, className, value) {
-    const node = document.createElement(tag);
-    if (className) node.className = className;
-    if (value !== undefined && value !== null) node.textContent = String(value);
-    return node;
-  }
-
-  function valueText(value) {
-    if (value === null || value === undefined) return '';
-    if (typeof value === 'string') return value;
-    if (Array.isArray(value)) return value.map(valueText).filter(Boolean).join('\n');
-    if (typeof value === 'object') return JSON.stringify(value, null, 2);
-    return String(value);
-  }
-
-  function contextText(context) {
-    if (context && typeof context === 'object' && !Array.isArray(context) &&
-        typeof context.text === 'string') return context.text;
-    return valueText(context);
-  }
-
-  function localImageUrl(src) {
-    if (typeof src !== 'string' || !src.trim()) return null;
-    try {
-      const url = new URL(src, document.baseURI);
-      if (url.origin !== location.origin || !/^https?:$/.test(url.protocol) ||
-          url.pathname.startsWith('/api/')) return null;
-      return url.pathname + url.search;
-    } catch (_) {
-      return null;
-    }
-  }
+  const {element, contextText, renderMath, renderStem,
+    renderOptions: renderSharedOptions, renderContent, renderAnswer: renderSharedAnswer} =
+    window.ExamPracticeRender;
 
   function setStatus(message, error = false) {
     ui.status.textContent = message;
@@ -67,16 +36,6 @@
     const response = await fetch(path, {headers: {Accept: 'application/json'}});
     if (!response.ok) throw new Error(`请求失败（HTTP ${response.status}）`);
     return response.json();
-  }
-
-  function renderMath(node) {
-    if (!/\\(?:\(|\[)/.test(node.textContent)) return;
-    mathQueue = mathQueue.catch(() => {}).then(async () => {
-      const math = window.MathJax;
-      if (!math) return;
-      await math.startup?.promise;
-      if (math.typesetPromise && node.isConnected) await math.typesetPromise([node]);
-    }).catch(() => { /* The safely inserted TeX text remains readable. */ });
   }
 
   function optionText(paper) {
@@ -160,220 +119,18 @@
     }
   }
 
-  function optionLabel(option, index) {
-    return option.displayLabel || option.label || option.sourceLabel || `${String.fromCharCode(65 + index)}.`;
-  }
-
-  function renderOptionImage(option) {
-    const image = option.image;
-    const src = localImageUrl(image?.src);
-    const crop = image?.crop;
-    if (!src || !crop || !['x', 'y', 'width', 'height', 'sourceWidth', 'sourceHeight']
-        .every(key => Number.isInteger(crop[key])) ||
-        crop.x < 0 || crop.y < 0 || crop.width <= 0 || crop.height <= 0 ||
-        crop.x + crop.width > crop.sourceWidth || crop.y + crop.height > crop.sourceHeight) return null;
-    const frame = element('span', 'option-image-frame');
-    frame.style.width = `min(100%, ${crop.width * 2}px)`;
-    frame.style.aspectRatio = `${crop.width} / ${crop.height}`;
-    const picture = element('img', 'option-image');
-    picture.alt = valueText(image.alt) || `原卷选项 ${option.label || ''} 图`;
-    picture.loading = 'lazy';
-    picture.decoding = 'async';
-    picture.style.width = `${crop.sourceWidth / crop.width * 100}%`;
-    picture.style.height = `${crop.sourceHeight / crop.height * 100}%`;
-    picture.style.left = `${-crop.x / crop.width * 100}%`;
-    picture.style.top = `${-crop.y / crop.height * 100}%`;
-    picture.src = src;
-    const failure = element('span', 'image-error', '选项图无法加载，请查看原始选项图。');
-    failure.hidden = true;
-    picture.addEventListener('error', () => { picture.hidden = true; failure.hidden = false; });
-    frame.append(picture, failure);
-    return frame;
-  }
-
   function renderOptions(question) {
     const options = Array.isArray(question.options) ? question.options : [];
-    ui.options.replaceChildren();
     ui.optionsFieldset.hidden = options.length === 0;
     ui.writtenWrap.hidden = options.length > 0;
     ui.written.value = state.written.get(question.id) || '';
-    const multiple = /multi|multiple/i.test(question.questionType || '');
-    const selected = state.selected.get(question.id) || new Set();
-    for (const [index, option] of options.entries()) {
-      const label = element('label', 'option');
-      label.dataset.optionId = String(option.id);
-      const input = element('input');
-      input.type = multiple ? 'checkbox' : 'radio';
-      input.name = 'choice';
-      input.value = String(option.id);
-      input.checked = selected.has(String(option.id));
-      const content = element('span', 'option-body');
-      if (valueText(option.text)) content.append(element('span', 'option-text', valueText(option.text)));
-      const image = renderOptionImage(option);
-      if (image) content.append(image);
-      label.append(input, element('span', 'option-label', optionLabel(option, index)), content);
-      ui.options.append(label);
-    }
-  }
-
-  function numberedSubquestions(text) {
-    const markers = [...text.matchAll(/[（(]([1-9１-９])[)）]/g)].map(match => ({
-      index: match.index,
-      length: match[0].length,
-      number: Number(match[1].replace(/[１-９]/g, digit => String(digit.charCodeAt(0) - 0xff10)))
-    }));
-    const startsItem = marker => {
-      const before = text.slice(0, marker.index).trimEnd();
-      return !before || /[。！？；：.!?;:)）]$/.test(before);
-    };
-    const firstIndex = markers.findIndex(marker => marker.number === 1 && startsItem(marker));
-    const first = markers[firstIndex];
-    const second = markers[firstIndex + 1];
-    if (!first || !second || second.number !== 2 || !startsItem(second) ||
-        text.slice(first.index + first.length, second.index).trim().length < 2) return null;
-    const sequence = [first, second];
-    for (const marker of markers.slice(firstIndex + 2)) {
-      if (marker.number !== sequence.length + 1 || !startsItem(marker)) break;
-      sequence.push(marker);
-    }
-    return {prefix: text.slice(0, first.index), items: sequence.map((marker, index) =>
-      text.slice(marker.index, sequence[index + 1]?.index ?? text.length))};
-  }
-
-  function contentText(text) {
-    const paragraph = element('div', 'content-text');
-    const parts = numberedSubquestions(text);
-    if (!parts) {
-      paragraph.textContent = text;
-      return paragraph;
-    }
-    if (parts.prefix) paragraph.append(document.createTextNode(parts.prefix));
-    for (const item of parts.items) paragraph.append(element('span', 'content-subquestion', item));
-    return paragraph;
-  }
-
-  function renderContentBlocks(question) {
-    ui.content.replaceChildren();
-    const blocks = Array.isArray(question.contentBlocks) ? question.contentBlocks : [];
-    const optionFigureIds = new Set((question.options || []).map(option => option.image?.sourceBlockId).filter(Boolean));
-    for (const block of blocks) {
-      if (!block || (block.role !== 'content' && block.role !== 'figure')) continue;
-      const section = element('section', `content-block content-${block.role}`);
-      const body = valueText(block.text);
-      const codeText = valueText(block.code);
-      const repeatedCode = codeText.trim() &&
-        body.replace(/\s+/g, '') === codeText.replace(/\s+/g, '');
-      if (body.trim() && !repeatedCode && block.role !== 'figure') {
-        const paragraphs = Array.isArray(block.paragraphs) ? block.paragraphs.filter(part =>
-          typeof part === 'string' && part.trim()) : [];
-        if (paragraphs.length) {
-          const group = element('div', 'content-paragraphs');
-          for (const part of paragraphs) group.append(contentText(part));
-          section.append(group);
-        } else {
-          section.append(contentText(body));
-        }
-      }
-      if (codeText.trim()) {
-        const pre = element('pre', 'content-code code');
-        pre.append(element('code', '', codeText));
-        section.append(pre);
-      }
-      const images = Array.isArray(block.images) ? block.images : [];
-      if (block.role === 'figure' && optionFigureIds.has(block.id)) {
-        const src = localImageUrl(images[0]?.src);
-        if (src) {
-          const link = element('a', 'source-figure-link', '查看原始四选项图 ↗');
-          link.href = src;
-          link.target = '_blank';
-          link.rel = 'noopener';
-          section.append(link);
-        }
-        if (section.childNodes.length) ui.content.append(section);
-        continue;
-      }
-      const figure = element('figure', 'content-figure');
-      for (const item of images) {
-        const src = localImageUrl(item?.src);
-        if (!src) continue;
-        const image = element('img');
-        image.alt = valueText(item.alt) || body || '题目附图';
-        image.loading = 'lazy';
-        image.decoding = 'async';
-        const failure = element('p', 'image-error', '附图暂时无法加载，请查看原卷。');
-        failure.hidden = true;
-        image.addEventListener('error', () => { image.hidden = true; failure.hidden = false; });
-        image.src = src;
-        figure.append(image, failure);
-      }
-      if (figure.querySelector('img')) {
-        if (body.trim() && block.role === 'figure') figure.append(element('figcaption', '', body));
-        section.append(figure);
-      } else if (body.trim() && block.role === 'figure') {
-        section.append(element('p', 'content-text', body));
-      }
-      if (section.childNodes.length) ui.content.append(section);
-    }
-    ui.content.hidden = !ui.content.childNodes.length;
-    window.ExamCodeHighlight?.apply(ui.content);
-  }
-
-  function appendAnswerField(label, value) {
-    const text = valueText(value);
-    if (!text.trim()) return;
-    const row = element('p');
-    row.append(element('strong', '', `${label}：`), document.createTextNode(text));
-    ui.answer.append(row);
+    renderSharedOptions(ui.options, question, 'choice', state.selected.get(question.id) || new Set());
   }
 
   function renderAnswer(question) {
-    ui.answer.replaceChildren();
-    const answer = state.answers.get(question.id);
-    const status = answer?.status || question.answerStatus || 'missing';
-    const ids = Array.isArray(answer?.correctOptionIds) ? answer.correctOptionIds.map(String) : [];
-    const optionIds = new Set((question.options || []).map(option => String(option.id)));
-    const mapped = status === 'explicit' && ids.length > 0 && ids.every(id => optionIds.has(id));
-    const selected = state.selected.get(question.id) || new Set();
-
-    ui.answer.append(element('h3', '', '参考答案'));
-    const statusNode = element('p', 'answer-status');
-    if (status === 'missing' || status === 'unknown') statusNode.textContent = '暂无可用答案；本题不判对错。';
-    else if (status === 'ambiguous') statusNode.textContent = '答案存在歧义，待核对；本题不判对错。';
-    else if (status !== 'explicit') statusNode.textContent = '答案状态待核对；本题不判对错。';
-    else if (mapped && selected.size) {
-      const correct = selected.size === ids.length && ids.every(id => selected.has(id));
-      statusNode.textContent = correct ? '回答正确。' : '回答与参考答案不同。';
-      statusNode.classList.add(correct ? 'is-known' : 'is-uncertain');
-    } else if (mapped) statusNode.textContent = '尚未作答；已标出正确选项。';
-    else if ((question.options || []).length) statusNode.textContent = '已收录参考答案，但无法可靠对应选项；本题不判对错。';
-    else statusNode.textContent = '已收录参考答案；请自行对照作答。';
-    if (status !== 'explicit') statusNode.classList.add('is-uncertain');
-    ui.answer.append(statusNode);
-
-    appendAnswerField(status === 'explicit' && ui.order.value !== 'shuffle' ? '答案' : '原卷答案记录', answer?.value);
-    appendAnswerField('解答', answer?.solution);
-    appendAnswerField('解析', answer?.explanation);
-    appendAnswerField('评注', answer?.commentary);
-    appendAnswerField('知识点', answer?.knowledge);
-    for (const label of ui.options.querySelectorAll('.option')) {
-      const id = label.dataset.optionId;
-      if (mapped && ids.includes(id)) {
-        label.classList.add('is-correct');
-        const original = (question.options || []).find(option => String(option.id) === id);
-        const source = original?.sourceLabel || original?.label;
-        const tag = ui.order.value === 'shuffle' && source ? `正确答案 · 原卷 ${source}` : '正确答案';
-        label.append(element('span', 'option-tag', tag));
-      } else if (mapped && selected.has(id)) {
-        label.classList.add('is-wrong');
-        label.append(element('span', 'option-tag', '我的选择'));
-      }
-    }
-    ui.options.querySelectorAll('input').forEach(input => { input.disabled = true; });
-    ui.written.disabled = true;
-    ui.answer.hidden = false;
-    ui.reveal.hidden = true;
-    ui.redo.hidden = false;
-    renderMath(ui.answer);
+    renderSharedAnswer({panel: ui.answer, question, answer: state.answers.get(question.id),
+      options: ui.options, written: ui.written, reveal: ui.reveal, redo: ui.redo,
+      selected: state.selected.get(question.id) || new Set(), order: ui.order.value});
   }
 
   function renderQuestion() {
@@ -391,8 +148,8 @@
     const context = contextText(question.context);
     ui.context.textContent = context;
     ui.context.hidden = !context.trim();
-    ui.stem.textContent = valueText(question.stem) || '题干暂缺，请以原卷核对。';
-    renderContentBlocks(question);
+    renderStem(ui.stem, question);
+    renderContent(ui.content, question);
     renderOptions(question);
     ui.answer.hidden = true;
     ui.answer.replaceChildren();

@@ -1,0 +1,3446 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2016-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+  "sourcePdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+  "paragraphs": [
+    {
+      "id": "cet4:2016-12-03:p:b-1-3",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay. Suppose you have two options upon graduation: one is to find a job somewhere and the other to start a business of your own. You are to make a decision. Write an essay to explain the reasons for your choice. You should write at least 120 words but no more than 180words. 说明：由于2016 年12 月四级考试全国共考了2 套听力，本套真题听力与前2 套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。",
+      "sourceHash": "2fca7dedc08234219deedf974480b68c13842d2253476f374c39b3e7e827884d",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇文章。假设你毕业时有两种选择：一是找工作，二是自己创业。你要做出决定。写一篇文章来解释你选择的原因。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-6",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-7",
+      "paperId": "cet4:2016-12-03",
+      "kind": "cloze",
+      "sourceText": "When someone commits a criminal act, we always hope the punishment will match the offense. But when it comes to one of the crudest crimes—animal fighting—things __26__ work out that way. Dog-fighting victims are __27__ and killed for profit and “sport,” yet their criminal abusers often receive a __28__ sentence for causing a lifetime of pain. Roughly half of all federally-convicted animal fighters only get probation （缓刑）.",
+      "sourceHash": "ce78f107c56f889f4be538e8b914410e05a76d803084af9bc79ff1d3708f3910",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当有人犯下罪行时，我们总是希望受到与罪行相称的惩罚。但当涉及到最残酷的犯罪行为之一——斗兽行为时，事情很少会以这种方式解决。斗狗的受害者为了利益和“运动”而遭受酷刑和杀害，但施虐者往往会因造成终生痛苦而被判处最低限度的刑罚。大约一半被联邦定罪的动物斗士只得到缓刑。",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-8",
+      "paperId": "cet4:2016-12-03",
+      "kind": "cloze",
+      "sourceText": "Some progress has been made in the prosecution（起诉）of animal fighters. But federal judges often rely heavily on the U.S. Sentencing Guidelines when they __29__ penalties, and in the case of animal fighting, those guidelines are outdated and extremely __30__ .",
+      "sourceHash": "e119bd4f1c3e8e065897290a6d91c5fc0e9aedac642f6fbf489214a2c4044a4b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在起诉动物斗士方面已经取得了一些进展。但联邦法官在确定处罚时往往严重依赖美国量刑指南，而在动物打斗案件中，这些指南已经过时且极其不充分。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-9",
+      "paperId": "cet4:2016-12-03",
+      "kind": "cloze",
+      "sourceText": "The U.S. Sentencing Commission, which __31__ these sentencing guidelines, is revisiting them, proposing to raise the minimum sentence from 6-12 to 21-27 months. This is a step in the right __32__ , but we’d like to see the U.S. Sentencing Commission make further changes to the guidelines.",
+      "sourceHash": "835434d5e4b3d20ada13b0be24592eaff9d3af1e1379c2777e69421bb81bd189",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "制定这些量刑指南的美国量刑委员会正在重新审查这些指南，建议将最低刑期从 6-12 个月提高到 21-27 个月。这是朝着正确方向迈出的一步，但我们希望看到美国量刑委员会对指南做出进一步的修改。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-10",
+      "paperId": "cet4:2016-12-03",
+      "kind": "cloze",
+      "sourceText": "Along with this effort, we’re working with animal advocates and state and federal lawmakers to __33__ anti-cruelty laws across the country, as well as supporting laws and policies that assist overburdened animal __34__ that care for animal fighting victims. This help is__35__ important because the high cost of caring for animal victims is a major factor that prevents people from getting involved in cruelty cases in the first place.",
+      "sourceHash": "de296a316cbfa958f69b562b266143af7be92d6ee6a9a6a3d05f00d1def79de2",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与此同时，我们还与动物权益倡导者以及州和联邦立法者合作，加强全国范围内的反虐待法律，并支持法律和政策，帮助负担过重的动物收容所照顾与动物打架的受害者。这种帮助至关重要，因为照顾动物受害者的高昂费用是阻止人们卷入虐待案件的主要因素。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-13",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-14",
+      "paperId": "cet4:2016-12-03",
+      "kind": "heading_prose",
+      "sourceText": "When Work Becomes a Game",
+      "sourceHash": "9c88c4312fc1027f30378ca22c74b5c821c1078936e21e158a8403757b37d320",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当工作变成游戏",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-15",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "A. What motivates employees to do their jobs well? Competition with coworkers, for some. The promise of rewards, for others. Pure enjoyment of problem-solving, for a lucky few.",
+      "sourceHash": "8bfae8150d39a6366dfe6be3cec36862ebdd5314ab98e6f595b034a9da6b01dd",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-15",
+        "cet4:2016-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-15",
+        "cet4:2016-12-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A. 是什么激励员工做好工作？对于某些人来说，与同事的竞争。对他人奖励的承诺。对于少数幸运者来说，纯粹享受解决问题的乐趣。",
+      "source": {
+        "blockIds": [
+          "b-1-15",
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-15",
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-1-17",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "B. Increasingly, companies are tapping into these desires directly through what has come to be known as “gamification”: essentially, turning work into a game. “Gamification is about understanding what it is that makes games engaging and what game designers do to create a great experience in games, and taking those learnings and applying them to other contexts such as the workplace and education,” explains Kevin Werbach, a gamification expert who teaches at the Wharton School of Business at the University of Pennsylvania in the United States.",
+      "sourceHash": "41247812a3aaf548e1ddff192c0ed7682a4eb88f1e9df600f2266c9c5652d22f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-17",
+        "cet4:2016-12-03:b-1-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-1-17",
+        "cet4:2016-12-03:b-1-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B. 越来越多的公司通过所谓的“游戏化”直接利用这些愿望：本质上是将工作变成游戏。美国宾夕法尼亚大学沃顿商学院任教的游戏化专家凯文·韦巴赫 (Kevin Werbach) 解释道：“游戏化就是要了解是什么让游戏变得有吸引力，以及游戏设计师如何在游戏中创造出色的体验，并将这些知识应用到工作场所和教育等其他环境中。”",
+      "source": {
+        "blockIds": [
+          "b-1-17",
+          "b-1-18"
+        ],
+        "reflowBlockIds": [
+          "b-1-17",
+          "b-1-18"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-1",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "C. It might mean monitoring employee productivity on a digital leaderboard and offering prizes to the winners, or giving employees digital badges or stars for completing certain activities. It could also mean training employees how to do their jobs through video game platforms. Companies from Google to L’Oreal to IBM to Wells Fargo are known to use some degree of gamification in their workplaces. And more and more companies are joining them. A recent report suggests that the global gamification market will grow from $1.65 billion in 2015 to $11.1 billion by 2020.",
+      "sourceHash": "dc1abf2b38fddaa47aaddaab9db4c5d61214ad5ea5830656afa4cdb8ec7d410c",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-1",
+        "cet4:2016-12-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-1",
+        "cet4:2016-12-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C. 这可能意味着在数字排行榜上监控员工的工作效率并向获胜者提供奖品，或者为完成某些活动的员工提供数字徽章或星星。它还可能意味着培训员工如何通过视频游戏平台完成工作。众所周知，谷歌、欧莱雅、IBM、富国银行等公司都在工作场所使用了某种程度的游戏化。并且越来越多的公司正在加入其中。最近的一份报告显示，全球游戏化市场将从 2015 年的 16.5 亿美元增长到 2020 年的 111 亿美元。",
+      "source": {
+        "blockIds": [
+          "b-2-1",
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-1",
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-3",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "D. The concept of gamification is not entirely new, Werbach says. Companies, marketers and teachers have long looked for fun ways to engage people’s reward-seeking or competitive spirits. Cracker Jacks has been “gamifying” its snack food by putting a small prize inside for more than 100 years, he adds, and the turn-of- the-century steel magnate（巨头）Charles Schwab is said to have often come into his factory and written the number of tons of steel produced on the past shift on the factory floor, thus motivating the next shift of workers to beat the previous one.",
+      "sourceHash": "35c7c27142755dd529decbe12a163392b9310eb56ed47f9d6fc00c03ab3c0e85",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-3",
+        "cet4:2016-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-3",
+        "cet4:2016-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D. 韦巴赫说，游戏化的概念并不是全新的。长期以来，公司、营销人员和教师一直在寻找有趣的方式来激发人们追求奖励或竞争的精神。他补充说，100多年来，Cracker Jacks一直通过在里面放一个小奖品来“游戏化”其休闲食品，据说世纪之交的钢铁巨头查尔斯·施瓦布(Charles Schwab)经常来到他的工厂，在工厂车间写下上一班生产的钢铁吨数，从而激励下一班的工人击败上一班。",
+      "source": {
+        "blockIds": [
+          "b-2-3",
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3",
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-5",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "E. But the word “gamification” and the widespread, conscious application of the concept only began in earnest about five years ago, Werbach says. Thanks in part to video games, the generation now entering the workforce is especially open to the idea of having their work gamified. “ We are at a point where in much of the developed world the vast majority of young people grew up playing video games, and an increasingly high percentage of adults play these video games too，” Werbach says.",
+      "sourceHash": "0a268b181ee2b10ad7024696454f9f0e7be4099b4cc1918a63a47acb176eecd6",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-5",
+        "cet4:2016-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-5",
+        "cet4:2016-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E. 但韦巴赫说，“游戏化”这个词以及这个概念的广泛、有意识的应用直到大约五年前才真正开始。部分归功于电子游戏，现在进入职场的一代人对将工作游戏化的想法特别开放。 “我们现在所处的阶段是，在许多发达国家，绝大多数年轻人都是玩电子游戏长大的，而且越来越多的成年人也玩这些电子游戏，”韦巴赫说。",
+      "source": {
+        "blockIds": [
+          "b-2-5",
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-5",
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-7",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "F. A number of companies have sprung up—GamEffective, Bunchball and Badgeville, to name a few—in recent years offering gamification platforms for businesses. The platforms that are most effective turn employees’ ordinary job tasks into part of a rich adventure narrative. “What makes a game game-like is that the player actually cares about the outcome,” Werbach says. “The principle is about understanding what is motivating to this group of players, which requires some understanding of psychology.”",
+      "sourceHash": "8bad71642414bda1ed372040c2990ce9feb88032995333598776996b9fb69cb3",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-7",
+        "cet4:2016-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-7",
+        "cet4:2016-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F. 近年来，许多公司如雨后春笋般涌现，例如 GamEffective、Bunchball 和 Badgeville 等，为企业提供游戏化平台。最有效的平台将员工的日常工作任务转变为丰富的冒险故事的一部分。 “游戏之所以像游戏，是因为玩家真正关心结果，”韦巴赫说。 “原则是了解这群玩家的动机是什么，这需要对心理学有所了解。”",
+      "source": {
+        "blockIds": [
+          "b-2-7",
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7",
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-9",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "G. Some people, Werbach says, are motivated by competition. Sales people often fall into this category. For them, the right kind of gamification might be turning their sales pitches into a competition with other team members, complete with a digital leaderboard showing who is winning at all times. Others are more motivated by collaboration and social experiences. One company Werbach has studied uses gamification to create a sense of community and boost employees’ morale （士气）.When employees log in to their computers, they’re shown a picture of one of their coworkers and asked to guess that person’s name.",
+      "sourceHash": "cf70c9cee0a149a80a90a7b841a046667b9f0f49d57b470e5eb746969fd3eda3",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-9",
+        "cet4:2016-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-9",
+        "cet4:2016-12-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G. 韦巴赫说，有些人是受到竞争的激励。销售人员通常属于这一类。对他们来说，正确的游戏化可能是将他们的销售宣传转变为与其他团队成员的竞争，并通过数字排行榜随时显示谁是胜利者。其他人则更受协作和社交体验的激励。韦巴赫研究的一家公司利用游戏化来营造社区意识并提高员工士气。当员工登录电脑时，他们会看到其中一位同事的照片，并被要求猜测那个人的名字。",
+      "source": {
+        "blockIds": [
+          "b-2-9",
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-9",
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-11",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "H. Gamification does not have to be digital. Monica Cometti runs a company that gamifies employee trainings. Sometimes this involves technology, but often it does not. She recently designed a gamification strategy for a sales training company with a storm-chasing theme. Employees formed “storm chaser teams” and competed in storm-themed educational exercises to earn various rewards. “Rewards do not have to be stuff,” Cometti says. “Rewards can be flexible working hours.” Another training, this one for pay roll law, used a Snow White and the Seven Dwarfs theme. “Snow White” is available for everyone to use, but the “dwarfs” are still under copyright, so Cometti invented sound-alike characters (Grumpy Gus, Dopey Dan) to illustrate specific pay roll law principles.",
+      "sourceHash": "4c646db98bfe3bc2dc0cff6e1b64e5f7dfc1fa4c34122f8e6a9e0150be7b4ade",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-11",
+        "cet4:2016-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-11",
+        "cet4:2016-12-03:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H. 游戏化不一定是数字化的。莫妮卡·科梅蒂经营着一家将员工培训游戏化的公司。有时这涉及技术，但通常不涉及技术。她最近为一家销售培训公司设计了一个以追逐风暴为主题的游戏化策略。员工们组成“风暴追逐者队”，进行风暴主题的教育练习，以获得各种奖励。 “奖励不一定是物质，”科梅蒂说。 “奖励可以是灵活的工作时间。”另一项培训，即薪资法培训，使用了白雪公主和七个小矮人的主题。 “白雪公主”可供所有人使用，但“小矮人”仍然受版权保护，因此科梅蒂发明了声音相似的角色（脾气暴躁的格斯、傻瓜丹）来说明具体的工资法原则。",
+      "source": {
+        "blockIds": [
+          "b-2-11",
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-11",
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-13",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "I. Some people do not take naturally to gamified work environments, Cometti says. In her experience, people in positions of power or people in finance or engineering do not tend to like the sound of the word. “If we are designing for engineers, I’m not talking about a ‘game’at all,” Cometti says. “I’m talking about a ‘simulation’（模拟），I’m talking about ‘ being able to solve this problem. ’ ”",
+      "sourceHash": "73d060c038bd8fc1f3496f267fbd4dbee2bbc715a981509264f3d1b3742ee82d",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-13",
+        "cet4:2016-12-03:b-2-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-13",
+        "cet4:2016-12-03:b-2-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I. 科梅蒂说，有些人并不自然地适应游戏化的工作环境。根据她的经验，掌握权力的人或者金融或工程领域的人往往不喜欢这个词的发音。 “如果我们是为工程师设计，我根本不是在谈论‘游戏’，”科梅蒂说。 “我说的是‘模拟’（模拟），我说的是‘能够解决这个问题。’”",
+      "source": {
+        "blockIds": [
+          "b-2-13",
+          "b-2-14"
+        ],
+        "reflowBlockIds": [
+          "b-2-13",
+          "b-2-14"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-15",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "J. Gamification is “not a magic bullet,” Werbach warns. A gamification strategy that is not sufficiently thought through or well tailored to its players may engage people for a little while, but it will not motivate people in the long term. It can also be exploitative, especially when used with vulnerable populations. For workers, especially low-paid workers, who desperately need their jobs yet know they can be easily replaced, gamification may feel more like the Hunger Games. Werbach gives the example of several Disneyland hotels in Anaheim, California, which used large digital leaderboards to display how efficiently laundry workers were working compared to one another. Some employees found the board motivating. To others, it was the opposite of fun. Some began to stop taking bathroom breaks, worried that if their productivity fell they would be fired. Pregnant employees struggled to keep up. In a Los Angeles Times article, one employee referred to the board as a “digital whip.” “It actually had a very negative effect on morale and performance, ” Werbach says.",
+      "sourceHash": "935c9323661e69844a5ad357c733432b08dace40c3e00eb6de96d46a11b0afff",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-15",
+        "cet4:2016-12-03:b-2-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-15",
+        "cet4:2016-12-03:b-2-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J. 韦巴赫警告说，游戏化“不是灵丹妙药”。没有经过充分考虑或没有针对玩家量身定制的游戏化策略可能会暂时吸引人们的注意力，但从长远来看，它不会激励人们。它也可能具有剥削性，特别是在针对弱势群体时。对于工人来说，尤其是低薪工人，他们迫切需要工作，但又知道自己很容易被取代，游戏化可能感觉更像是饥饿游戏。韦巴赫举了加利福尼亚州阿纳海姆的几家迪士尼乐园酒店的例子，这些酒店使用大型数字排行榜来显示洗衣工之间的工作效率。一些员工认为董事会具有激励作用。对于其他人来说，这与乐趣相反。有些人开始停止上厕所，担心如果他们的工作效率下降，他们就会被解雇。怀孕的员工很难跟上。在《洛杉矶时报》的一篇文章中，一名员工将董事会称为“数字鞭子”。 “这实际上对士气和绩效产生了非常负面的影响，”韦巴赫说。",
+      "source": {
+        "blockIds": [
+          "b-2-15",
+          "b-2-16"
+        ],
+        "reflowBlockIds": [
+          "b-2-15",
+          "b-2-16"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-17",
+      "paperId": "cet4:2016-12-03",
+      "kind": "passage_option",
+      "sourceText": "K. Still, gamification only stands to become more popular, he says, “as more and more people come into the workforce who are familiar with the structures and expressions of digital games.” “We are far from reaching the peak,” Cometti agrees. “There is no reason this will go away.”",
+      "sourceHash": "47feefdbb862168a7c50824f9bc3c07305f8526bea5e1c8a55a2acc470cc9e14",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-17",
+        "cet4:2016-12-03:b-2-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-17",
+        "cet4:2016-12-03:b-2-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K. 尽管如此，他表示，“随着越来越多的人进入职场，熟悉数字游戏的结构和表现形式，游戏化只会变得更加流行。” “我们还远未达到顶峰，”科梅蒂表示同意。 “这种情况没有理由会消失。”",
+      "source": {
+        "blockIds": [
+          "b-2-17",
+          "b-2-18"
+        ],
+        "reflowBlockIds": [
+          "b-2-17",
+          "b-2-18"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-19",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36.Some famous companies are already using gamification and more are trying to do the same.",
+      "sourceHash": "c1084d6ea3e1727ac352f359f573a147e4ff7d5de712ae13a9dfcd5d666e4f67",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36.一些著名的公司已经在使用游戏化，而且更多的公司正在尝试这样做。",
+      "source": {
+        "blockIds": [
+          "b-2-19"
+        ],
+        "reflowBlockIds": [
+          "b-2-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-2-20",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37.Gamification is not a miracle cure for all workplaces as it may have negative results.",
+      "sourceHash": "a96848e01ab61c7d0e7f528bb99e490ff3a6569e68370cac906cae3c79d5cc23",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-2-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-2-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37.游戏化并不是适用于所有工作场所的灵丹妙药，因为它可能会产生负面结果。",
+      "source": {
+        "blockIds": [
+          "b-2-20"
+        ],
+        "reflowBlockIds": [
+          "b-2-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-1",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38.To enhance morale, one company asks its employees to identify their fellow workers when starting their computers.",
+      "sourceHash": "a601f4b429be98b1ae49c7f126a8deee1b819a3ec95670bd273d18e159cdfdc8",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38.为了提高士气，一家公司要求员工在启动计算机时识别同事的身份。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-2",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39.The idea of gamification was practiced by some businesses more than a century ago.",
+      "sourceHash": "5ba8ac7d2fdefe1ed3904f65c412cd31066a6503ca8a26c6e05d9c1b2363042d",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39.一个多世纪前，一些企业就已经实践了游戏化的想法。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-3",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40.There is reason to believe that gamification will be here to stay.",
+      "sourceHash": "980fef66d5c6cef28d233b8e0718d2bd1abb5a4c8842712e5cbca2f256f1bfcd",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40.我们有理由相信游戏化将会持续下去。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-4",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41.Video games contributed in some ways to the wide application of gamification.",
+      "sourceHash": "8eb493591803d220e2e77b1e6f8cee0077777f18278332614b8de1e5b4717e98",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41.视频游戏在某些方面促进了游戏化的广泛应用。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-5",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42.When turning work into a game, it is necessary to understand what makes games interesting.",
+      "sourceHash": "1dcc54b5c9048154b5900e05494125c35b96cfe17ea882f76292bfc2053ecb19",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42.当把工作变成游戏时，有必要了解是什么让游戏变得有趣。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-6",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43.Gamification in employee training does not always need technology.",
+      "sourceHash": "bbe8d4173dfa835467932cdd91e2063fbf4acc57ac2dbb55c747a1f3ed183029",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43.员工培训中的游戏化并不总是需要技术。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-7",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44.The most successful gamification platforms transform daily work assignments into fun experiences.",
+      "sourceHash": "6da15fa96c78fd7e5af06596ebc18e17dc34bf8c32f15492055fe1b7e02b555c",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44.最成功的游戏化平台将日常工作任务转变为有趣的体验。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-8",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45.It is necessary to use terms other than “gamification” for some professions.",
+      "sourceHash": "36461ddfe0962fde3c3edefaafca8d5b9e3da8bf65cd67097e9aeaf311492287",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45.对于某些职业，有必要使用“游戏化”以外的术语。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-10",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-12",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-13",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "Recently I attended several meetings where we talked about ways to retain students and keep younger faculty members from going elsewhere.",
+      "sourceHash": "0788607b946661c5049a060078c20a8b208947c5a367a3274b75b7f78bb6737f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "最近，我参加了几次会议，我们在会上讨论了留住学生和防止年轻教师去其他地方的方法。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-14",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "It seems higher education has become an industry of meeting-holders whose task it is to “solve” problems— real or imagined. And in my position as a professor at three different colleges, the actual problems in educating our young people and older students have deepened, while the number of people hired—not to teach but to hold meetings—has increased significantly. Every new problem creates a new job for an administrative fixer. Take our Center for Teaching Excellence. Contrary to its title, the center is a clearing house（信息交流中心）for using technology in classrooms and in online courses. It’s an administrative sham（欺诈）of the kind that has multiplied over the last 30 years.",
+      "sourceHash": "a48da98ba8241edbb11444f8f08b3298fefafbc90a0703fcce02e8d156139dae",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "高等教育似乎已经成为一个会议召开者的行业，其任务是“解决”问题——无论是真实的还是想象的。在我担任三所不同学院的教授时，教育年轻人和年长学生的实际问题已经加深，而雇用的人数（不是教书而是开会）却大幅增加。每个新问题都会为管理解决者创造新的工作。以我们的卓越教学中心为例。与其名称相反，该中心是一个在课堂和在线课程中使用技术的信息交流中心。这是过去 30 年来不断增加的行政骗局。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-15",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "I offer a simple proposition in response: Many of our problems—class attendance, educational success, student happiness and well-being—might be improved by cutting down the bureaucratic（官僚的）mechanisms and meetings and instead hiring an army of good teachers. If we replaced half of our administrative staff with classroom teachers, we might actually get a majority of our classes back to 20 or fewer students per teacher. This would be an environment in which teachers and students actually knew each other.",
+      "sourceHash": "842d216157d3db7069ee6d77193bd973bf28359a829467749cdd3decfd25ecff",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "作为回应，我提出一个简单的主张：我们的许多问题——上课出勤、教育成功、学生幸福和福祉——可以通过减少官僚机制和会议并聘请一批优秀教师来改善。如果我们用任课教师替换一半的行政人员，我们实际上可能会将大部分班级的学生人数恢复到每名教师 20 名或更少。这将是一个老师和学生真正相互了解的环境。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-16",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "The teachers must be free to teach in their own way—the curriculum should be flexible enough so that they can use their individual talents to achieve the goals of the course. Additionally, they should be allowed to teach, and be rewarded for doing it well. Teachers are not people who are great at and consumed by research and happen to appear in a classroom. Good teaching and research are not exclusive, but they are also not automatic companions. Teaching is an art and a craft, talent and practice; it is not something that just anyone can be good at. It is utterly confusing to me that people do not recognize this, despite the fact that pretty much anyone who has been a student can tell the difference between their best and worst teachers.",
+      "sourceHash": "76e1424f2b0dda683468a4c4b5736c336691f0e4d81e999334b8e2b78077647e",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "教师必须能够自由地以自己的方式进行教学——课程应该足够灵活，以便他们能够利用自己的个人才能来实现课程的目标。此外，他们应该被允许教学，并因做得好而得到奖励。教师并不是那些擅长研究并热衷于研究并且碰巧出现在课堂上的人。良好的教学和研究并不是排他性的，但它们也不是自动的伴侣。教学是一门艺术，也是一门手艺，是天赋和实践；这不是任何人都可以擅长的事情。让我感到非常困惑的是，人们没有认识到这一点，尽管事实上几乎任何一个当过学生的人都可以区分他们最好的和最差的老师。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-17",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46.What does the author say about present-day universities?",
+      "sourceHash": "ceebc3e79dbbabf5e28dc6b4cc5ba9b680b0ddc37457ce2160f8989fdf4e8179",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.作者对当今的大学有何评价？",
+      "source": {
+        "blockIds": [
+          "b-3-17"
+        ],
+        "reflowBlockIds": [
+          "b-3-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-3-19",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47.According to the author, what kind of people do universities lack most?",
+      "sourceHash": "e22e141a25daeb63c57aeeb170386ac6db1d4275d263ea35decfcecfdbe70dea",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-3-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47.作者认为，大学最缺什么样的人？",
+      "source": {
+        "blockIds": [
+          "b-3-19"
+        ],
+        "reflowBlockIds": [
+          "b-3-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-2",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48.What does the author imply about the classes at present?",
+      "sourceHash": "4f6f14d998badf5294ba40ccddcf0cf4cb4cabe6dd19eccd58bd8b1df90b3296",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48.作者对目前的课程有何暗示？",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-4",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49.What does the author think of teaching ability?",
+      "sourceHash": "a5cabc5ca78d0f23ce57054c19b56ca67c0449fa7edda4db31e8dab0162a4efb",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49.作者如何看待教学能力？",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-6",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50.What is the author’s suggestion for improving university teaching?",
+      "sourceHash": "5e1eb9513b15eae3372d39c6bba77515a9f2862aeaf218c6cec817989acf0bcf",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.作者对改进大学教学有何建议？",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-9",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-10",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "The secret to eating less and being happy about it may have been cracked years ago—by McDonald’s. According to a new study from Cornell University’s Food and Brand Lab, small non-food rewards—like the toys in McDonald’s Happy Meals—stimulate the same reward centers in the brain as food does.",
+      "sourceHash": "79bdced319f27a280fbcfd5581cff39cd170403a47a37b3c775d04e0a782a937",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "少吃并为此感到高兴的秘密可能在几年前就被麦当劳破解了。根据康奈尔大学食品与品牌实验室的一项新研究，小的非食品奖励（例如麦当劳开心乐园餐中的玩具）会像食物一样刺激大脑中相同的奖励中心。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-11",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "The researchers, led by Martin Reimann, carried out a series of experiments to see if people would choose a smaller meal if it was paired with a non-food item.",
+      "sourceHash": "8c48aad31ad628b995334447102f65395d7a31280d22732ae200e12190cde515",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "马丁·雷曼 (Martin Reimann) 领导的研究人员进行了一系列实验，看看人们是否会选择较少的膳食与非食品搭配。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-12",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "They found that the majority of both kids and adults opted for a half-sized portion when combined with a prize. Both options were priced the same.",
+      "sourceHash": "0243e66e18c71f7d7312d8215dd4c3f0e4248b787b949dbab1480adf35416b19",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "他们发现，大多数儿童和成人在搭配奖品时都选择了半份。两种选择的价格相同。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-13",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "Even more interesting is that the promise of a future reward was enough to make adults choose the smaller portion. One of the prizes used was a lottery ticket（彩票）, with a S10, $50 or $100 payout, and this was as effective as a tangible gift in persuading people to eat less.",
+      "sourceHash": "bcf8eab7b2a16fc510fb983f4288ea664658824a86c32ba9c08f4a4ec1c40545",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "更有趣的是，未来奖励的承诺足以让成年人选择较小的部分。其中一个奖品是一张彩票，奖金为 10 美元、50 美元或 100 美元，这与说服人们少吃东西的有形礼物一样有效。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-14",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "“The fact that participants were willing to substitute part of a food item for the mere prospect of a relatively small monetary award is interesting,” says Reimann.",
+      "sourceHash": "18e6a53575a7fa17fb7aff2ffe552ccbdbee67ef8846aab3a67e3fa7608b8235",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "雷曼说：“参与者愿意用部分食品来换取相对较小的金钱奖励，这一事实很有趣。”",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-15",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "He theorizes that it is the emotional component of these intangible prizes that make them effective. In fact, vaguely-stated possibilities of winning a prize were more effective than options with hard odds included.",
+      "sourceHash": "ec677324dda21a30803b01c0e7d089e0351196c990c3a671ea3d2e0336a04263",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "他的理论是，这些无形奖励的情感成分使其发挥作用。事实上，含糊其辞地说明中奖的可能性比包含硬赔率的选项更有效。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-16",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "“One explanation for this finding is that possible awards may be more emotionally provoking than certainty awards,” says Reimann. “The uncertainty of winning provides added attraction and desirability through emotional ‘thrills.’ The possibility of receiving an award also produces a state of hope—a state that is in itself psychologically rewarding.” In other words, there’s a reason why people like to gamble.",
+      "sourceHash": "8c01ea8c94566f4ad57632b7d08a0681646e392e30737bfafccc3e74b30e10bb",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“对这一发现的一个解释是，可能的奖项可能比确定性奖项更能激发情感，”雷曼说。 “获奖的不确定性通过情感上的‘兴奋’增加了吸引力和渴望。获奖的可能性也会产生一种希望的状态——这种状态本身就具有心理上的回报。”换句话说，人们喜欢赌博是有原因的。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-4-17",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "How might this knowledge be used to help people eat more healthily?",
+      "sourceHash": "6a50ce5bdd76a2368c98776449ce0dc8d0bd0dfc1e581f7fa1c803f3bc3bc65b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如何利用这些知识来帮助人们吃得更健康？",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-1",
+      "paperId": "cet4:2016-12-03",
+      "kind": "reading",
+      "sourceText": "One possibility is a healthy option that offers the chance to win a spa（温泉疗养）weekend. Or maybe the reward of a half-sized portion could be a half-sized dessert to be claimed only on a future date. That would get you back in the restaurant—and make you eat a little less.",
+      "sourceHash": "d9aa0dfbe8d849b217523c0f19dcd235dcd65cf0971157c67cf71e12e0fe449e",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "一种可能性是健康的选择，提供赢得周末水疗的机会。或者，半份的奖励可能是半份甜点，只能在未来的约会中领取。这会让你回到餐厅——并且让你少吃一点。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-2",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51.What do we learn about McDonald’s inclusion of toys in its Happy Meals?",
+      "sourceHash": "c0c17099ab4699b98c837805a9cc14adde9b0e7f4c652433896d406c13f85088",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.从麦当劳将玩具纳入其开心乐园餐中，我们了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-4",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52.What is the finding of the researchers led by Martin Reimann?",
+      "sourceHash": "26e1cdbff66e5ba3c7657e5331ce534e5c1e92a91c22bd4754656cf2fff8a927",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52.Martin Reimann 领导的研究人员有什么发现？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-6",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53.What is most interesting in Martin Reimann’s finding?",
+      "sourceHash": "e3a3f62598b64d449c164c7d2418a552579ac167c40c7008518a9e776117740f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.Martin Reimann 的发现中最有趣的是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-8",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54.How does Martin Reimann interpret his finding?",
+      "sourceHash": "28e600c4e239121001ffea69837b12b7c0d879712eac44d5f9bfc1e8e7e4de02",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.Martin Reimann 如何解释他的发现？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-10",
+      "paperId": "cet4:2016-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55.What can we infer from Martin Reimann’s finding?",
+      "sourceHash": "8eda952d9aa6e65194aa3205f6a0c936de42d0ef9e07d8f549863f48281c642c",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.从Martin Reimann的发现中我们可以推断出什么？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2016-12-03:p:b-5-13",
+      "paperId": "cet4:2016-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2016-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2016-12-03.json",
+        "pdfSha256": "d890c2510e1a3e22bd8a3bfc278c2762129ad1c161ca18a8207466e23cdc3325",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2016-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2016-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2016-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-46-1",
+      "optionId": "cet4:2016-12-03:q-46-1:A",
+      "sourceText": "They are effectively tackling real or imagined problems.",
+      "sourceHash": "f827fd53eb53b9e375d50c5f91e92a68479352955f36aae86e5836db8345bdfb",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-18"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-3-18",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are effectively tackling real or imagined problems.",
+      "translationEligible": true,
+      "translationZh": "他们正在有效地解决实际或想象的问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-46-1",
+      "optionId": "cet4:2016-12-03:q-46-1:B",
+      "sourceText": "They often fail to combine teaching with research.",
+      "sourceHash": "a2943dfea7199f395092c97ac6dc887dedf0e24765d0b7bc04ef20a82c2f872e",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-18"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-3-18",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They often fail to combine teaching with research.",
+      "translationEligible": true,
+      "translationZh": "他们常常无法将教学与研究结合起来。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-46-1",
+      "optionId": "cet4:2016-12-03:q-46-1:C",
+      "sourceText": "They are over-burdened with administrative staff.",
+      "sourceHash": "c8d70b3e32b6c3e015e597f83c4fc5f780eac7fcce7b09ed19d773533bba7ffe",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-18"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-3-18",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are over-burdened with administrative staff.",
+      "translationEligible": true,
+      "translationZh": "他们的行政人员负担过重。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-46-1",
+      "optionId": "cet4:2016-12-03:q-46-1:D",
+      "sourceText": "They lack talent to fix their deepening problems.",
+      "sourceHash": "72a6f3c445c334a008e86cbd5175115d720ca7e3c2595a61848e94c7dedf77a8",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-18"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-3-18",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They lack talent to fix their deepening problems.",
+      "translationEligible": true,
+      "translationZh": "他们缺乏解决日益严重的问题的人才。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-47-1",
+      "optionId": "cet4:2016-12-03:q-47-1:A",
+      "sourceText": "Good classroom teachers.",
+      "sourceHash": "ff22366cead0c8d939784dfe367975a6888626c326a00d64be314f0daa3dcd48",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-3-20"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-3-20",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Good classroom teachers.",
+      "translationEligible": true,
+      "translationZh": "好的课堂老师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-47-1",
+      "optionId": "cet4:2016-12-03:q-47-1:B",
+      "sourceText": "Efficient administrators.",
+      "sourceHash": "ddd624f87564631e696459ba33e8243556f45a6a63abb2e925936799e640a193",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-1"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Efficient administrators.",
+      "translationEligible": true,
+      "translationZh": "高效的管理者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-47-1",
+      "optionId": "cet4:2016-12-03:q-47-1:C",
+      "sourceText": "Talented researchers.",
+      "sourceHash": "8f4b643a89c0f463dd140f7b5d97ac574d3deb100ec9d80289374de5e325365f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-1"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Talented researchers.",
+      "translationEligible": true,
+      "translationZh": "有才华的研究人员。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-47-1",
+      "optionId": "cet4:2016-12-03:q-47-1:D",
+      "sourceText": "Motivated students.",
+      "sourceHash": "c3c7ffa4ecb9107f79e5fda3ef2f5947904868a9bbf665724d5e48739b0e54ea",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-1"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Motivated students.",
+      "translationEligible": true,
+      "translationZh": "激励学生。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-48-1",
+      "optionId": "cet4:2016-12-03:q-48-1:A",
+      "sourceText": "They facilitate students’ independent learning.",
+      "sourceHash": "c047b867a62c227f6b82d6f19dd62147dc6c154e81621c0e8d0677e5cdf510e9",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They facilitate students’ independent learning.",
+      "translationEligible": true,
+      "translationZh": "它们促进学生的独立学习。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-48-1",
+      "optionId": "cet4:2016-12-03:q-48-1:B",
+      "sourceText": "They help students form closer relationships.",
+      "sourceHash": "6095151f1b01064bd9c4eafcd135d623d6d272ef852e3db22c2541cc926ce579",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They help students form closer relationships.",
+      "translationEligible": true,
+      "translationZh": "他们帮助学生建立更紧密的关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-48-1",
+      "optionId": "cet4:2016-12-03:q-48-1:C",
+      "sourceText": "They have more older students than before.",
+      "sourceHash": "774437f3d9bc1670bc001eb189de56ad7ee1c9d2c17da1dbb1b04e866da9f57b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They have more older students than before.",
+      "translationEligible": true,
+      "translationZh": "他们的年龄较大的学生比以前更多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-48-1",
+      "optionId": "cet4:2016-12-03:q-48-1:D",
+      "sourceText": "They are much bigger than is desirable.",
+      "sourceHash": "1358ab18b4b8432580de147f2864a452b4f4d6a258947488eb5ef9e37db7d8c4",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are much bigger than is desirable.",
+      "translationEligible": true,
+      "translationZh": "它们比预期的要大得多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-49-1",
+      "optionId": "cet4:2016-12-03:q-49-1:A",
+      "sourceText": "It requires talent and practice.",
+      "sourceHash": "7921bdb7beade9b1326f2855e3e70933746368c4b893d0a8cdd174e61eeacf86",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It requires talent and practice.",
+      "translationEligible": true,
+      "translationZh": "它需要天赋和实践。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-49-1",
+      "optionId": "cet4:2016-12-03:q-49-1:B",
+      "sourceText": "It is closely related to research.",
+      "sourceHash": "cf7a3fd52b1d914ee4fe7cbf10648e803cdb5b4f84203fd6f8f969cb8e31f19b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is closely related to research.",
+      "translationEligible": true,
+      "translationZh": "它与研究密切相关。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-49-1",
+      "optionId": "cet4:2016-12-03:q-49-1:C",
+      "sourceText": "It is a chief factor affecting students’ learning.",
+      "sourceHash": "2fcc58fde934a33585134114a680ba23ef9461c0739188780f5afacf0a38026f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is a chief factor affecting students’ learning.",
+      "translationEligible": true,
+      "translationZh": "它是影响学生学习的主要因素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-49-1",
+      "optionId": "cet4:2016-12-03:q-49-1:D",
+      "sourceText": "It can be acquired through persistent practice.",
+      "sourceHash": "9d6c3d559590ec400958e3477d120f7010e040acc5a2d490b8ca6233e08b32f0",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It can be acquired through persistent practice.",
+      "translationEligible": true,
+      "translationZh": "它可以通过坚持不懈的练习而获得。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-50-1",
+      "optionId": "cet4:2016-12-03:q-50-1:A",
+      "sourceText": "Creating an environment for teachers to share their teaching experiences.",
+      "sourceHash": "33bba27e934ec37dfd44b8a2507c00b906fc619c1d52126fdfd4f43c0e6634fa",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Creating an environment for teachers to share their teaching experiences.",
+      "translationEligible": true,
+      "translationZh": "为教师创造一个分享教学经验的环境。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-50-1",
+      "optionId": "cet4:2016-12-03:q-50-1:B",
+      "sourceText": "Hiring more classroom teachers and allowing them to teach in their own way.",
+      "sourceHash": "b5f6579584ffaea4aa048c33c1f028d869acee88c4d9ab23a24f04a8e7f511bc",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Hiring more classroom teachers and allowing them to teach in their own way.",
+      "translationEligible": true,
+      "translationZh": "聘请更多的任课教师并允许他们以自己的方式教学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-50-1",
+      "optionId": "cet4:2016-12-03:q-50-1:C",
+      "sourceText": "Using high technology in classrooms and promoting exchange of information.",
+      "sourceHash": "10018157e14b23b24a08d1110d7d3bd3e5851761be0b49128dbc5367d58fe9a5",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Using high technology in classrooms and promoting exchange of information.",
+      "translationEligible": true,
+      "translationZh": "在课堂上使用高科技并促进信息交流。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-50-1",
+      "optionId": "cet4:2016-12-03:q-50-1:D",
+      "sourceText": "Cutting down meetings and encouraging administrative staff to go to classrooms.",
+      "sourceHash": "63cb1af8f97caf3907c0c8906e08779eac5542d0ce8699189fcab09436bc1ecd",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-4-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Cutting down meetings and encouraging administrative staff to go to classrooms.",
+      "translationEligible": true,
+      "translationZh": "减少会议并鼓励行政人员去教室。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-51-1",
+      "optionId": "cet4:2016-12-03:q-51-1:A",
+      "sourceText": "It may shed light on people's desire to crack a secret.",
+      "sourceHash": "16137defe4a53d2f9dab66092092c809b9d5d17b557b458530b95586e11bef2c",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It may shed light on people's desire to crack a secret.",
+      "translationEligible": true,
+      "translationZh": "它可能揭示人们破解秘密的愿望。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-51-1",
+      "optionId": "cet4:2016-12-03:q-51-1:B",
+      "sourceText": "It has proved to be key to McDonald’s business success.",
+      "sourceHash": "e8c86be0b7c4787cec8f2d9de2b54cb26f6e8b9ce403ad23783631b575b88fac",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It has proved to be key to McDonald’s business success.",
+      "translationEligible": true,
+      "translationZh": "事实证明，这是麦当劳商业成功的关键。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-51-1",
+      "optionId": "cet4:2016-12-03:q-51-1:C",
+      "sourceText": "It appeals to kid’s curiosity to find out what is hidden inside.",
+      "sourceHash": "1a30e6b7a9284e5680ee49ad8446849462bcbcd8741074cea899eb029dcf26dc",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It appeals to kid’s curiosity to find out what is hidden inside.",
+      "translationEligible": true,
+      "translationZh": "它激发了孩子的好奇心，想知道里面隐藏着什么。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-51-1",
+      "optionId": "cet4:2016-12-03:q-51-1:D",
+      "sourceText": "It may be a pleasant way for kids to reduce their food intake.",
+      "sourceHash": "85538dd1d7bd189b54f04692f3e126ddba9376630a6d120b21b7bded9d7fb7b0",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may be a pleasant way for kids to reduce their food intake.",
+      "translationEligible": true,
+      "translationZh": "对于孩子们来说，这可能是减少食物摄入量的一种愉快的方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-52-1",
+      "optionId": "cet4:2016-12-03:q-52-1:A",
+      "sourceText": "Reducing food intake is not that difficult if people go to McDonald’s more.",
+      "sourceHash": "aea81bbfc27034126429e8318f01709e9acc309ccd25179437d7c94ce7a7d9f7",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Reducing food intake is not that difficult if people go to McDonald’s more.",
+      "translationEligible": true,
+      "translationZh": "如果人们多去麦当劳，减少食物摄入量并不是那么困难。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-52-1",
+      "optionId": "cet4:2016-12-03:q-52-1:B",
+      "sourceText": "Most kids and adult s don’t actually feel hungry when they eat half of their meal.",
+      "sourceHash": "07c54313df9223a8cc202dbf0365537ef32f69f0e74e3d04b14af9c356236793",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Most kids and adult s don’t actually feel hungry when they eat half of their meal.",
+      "translationEligible": true,
+      "translationZh": "大多数孩子和成人在吃一半的饭菜时实际上并不会感到饥饿。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-52-1",
+      "optionId": "cet4:2016-12-03:q-52-1:C",
+      "sourceText": "Eating a smaller portion of food does good to the health of kids and adults alike.",
+      "sourceHash": "fba197d6f0c2052251442b1a055f0372d39555c7dd285c3c30f8d146e691699a",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Eating a smaller portion of food does good to the health of kids and adults alike.",
+      "translationEligible": true,
+      "translationZh": "少吃一点食物对儿童和成人的健康都有好处。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-52-1",
+      "optionId": "cet4:2016-12-03:q-52-1:D",
+      "sourceText": "Most kids and adults would choose a smaller meal that came with a non-food item.",
+      "sourceHash": "5696191118a0c35cdfba13d5bed994bf36f80471ef2fe02398d59c093e7f6e20",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Most kids and adults would choose a smaller meal that came with a non-food item.",
+      "translationEligible": true,
+      "translationZh": "大多数孩子和成人都会选择包含非食品的小餐。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-53-1",
+      "optionId": "cet4:2016-12-03:q-53-1:A",
+      "sourceText": "Kids preferred an award in the form of money to one in the form of a toy.",
+      "sourceHash": "0eb907c16f57e8fde966f957f8f3440a96467870c1ddbb5eda5c5b5b54bf90b9",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Kids preferred an award in the form of money to one in the form of a toy.",
+      "translationEligible": true,
+      "translationZh": "孩子们更喜欢金钱形式的奖励，而不是玩具形式的奖励。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-53-1",
+      "optionId": "cet4:2016-12-03:q-53-1:B",
+      "sourceText": "Adults chose the smaller portion on the mere promise of a future award.",
+      "sourceHash": "896e556ff5cc9e87bd6df1ac82da19f76391c3f7dab8e1c427738cd7545c3d8f",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Adults chose the smaller portion on the mere promise of a future award.",
+      "translationEligible": true,
+      "translationZh": "成年人选择较小的部分仅仅是因为对未来奖励的承诺。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-53-1",
+      "optionId": "cet4:2016-12-03:q-53-1:C",
+      "sourceText": "Both kids and adults felt satisfied with only half of their meal portions.",
+      "sourceHash": "48b4ac348faa240a06166077ca6aff02c391a6272d3cacd23ddd1db53319a0e0",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Both kids and adults felt satisfied with only half of their meal portions.",
+      "translationEligible": true,
+      "translationZh": "无论是大人还是小孩，只吃一半的份量就感到满意。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-53-1",
+      "optionId": "cet4:2016-12-03:q-53-1:D",
+      "sourceText": "Neither children nor adults could resit the temptation of a free toy.",
+      "sourceHash": "288c7b9153b5ee33a42423b1a9ee0bf16f1ee4604ce62e2d8b5470df210b9516",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Neither children nor adults could resit the temptation of a free toy.",
+      "translationEligible": true,
+      "translationZh": "无论是儿童还是成人都无法抗拒免费玩具的诱惑。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-54-1",
+      "optionId": "cet4:2016-12-03:q-54-1:A",
+      "sourceText": "The emotional component of the prizes is at work.",
+      "sourceHash": "91942e8244bd4f2f803fba1c9a7d0f2d3f18fb97f38bc750a65f80cff66c2e8b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The emotional component of the prizes is at work.",
+      "translationEligible": true,
+      "translationZh": "奖项的情感成分正在发挥作用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-54-1",
+      "optionId": "cet4:2016-12-03:q-54-1:B",
+      "sourceText": "People now care more about quality than quantity.",
+      "sourceHash": "179d4fa8082215a9588657188de9963ed69a6fa8751079a861003a8595bdef74",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "People now care more about quality than quantity.",
+      "translationEligible": true,
+      "translationZh": "人们现在更关心质量而不是数量。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-54-1",
+      "optionId": "cet4:2016-12-03:q-54-1:C",
+      "sourceText": "People prefer certainty awards to possible awards.",
+      "sourceHash": "a72d1f6c09afdb9f1868bbf70b97b8c98ee20909abf622e962eed5d8333001a9",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "People prefer certainty awards to possible awards.",
+      "translationEligible": true,
+      "translationZh": "人们更喜欢确定性奖项而不是可能的奖项。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-54-1",
+      "optionId": "cet4:2016-12-03:q-54-1:D",
+      "sourceText": "The desire for a future reward is overwhelming.",
+      "sourceHash": "66b689bbd301d69379469b6b7d5c0b391652cf11ab42d1aaa29b083d2d0d4c99",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The desire for a future reward is overwhelming.",
+      "translationEligible": true,
+      "translationZh": "对未来奖励的渴望是压倒性的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-55-1",
+      "optionId": "cet4:2016-12-03:q-55-1:A",
+      "sourceText": "People should eat much less if they wish to stay healthy and happy.",
+      "sourceHash": "66b7db359ebab59e266f0d9037ccf21dd09e2f4d35b0576c3774aa6687bc334b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "People should eat much less if they wish to stay healthy and happy.",
+      "translationEligible": true,
+      "translationZh": "如果人们想保持健康和快乐，就应该少吃一点。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-55-1",
+      "optionId": "cet4:2016-12-03:q-55-1:B",
+      "sourceText": "More fast food restaurants are likely to follow McDonald’s example.",
+      "sourceHash": "e2f5a6ea41223d9106f1055a91961177ff5577171f70caad29cac39a9768b6a1",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "More fast food restaurants are likely to follow McDonald’s example.",
+      "translationEligible": true,
+      "translationZh": "更多的快餐店可能会效仿麦当劳的做法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-55-1",
+      "optionId": "cet4:2016-12-03:q-55-1:C",
+      "sourceText": "We can lead people to eat less while helping the restaurant business.",
+      "sourceHash": "c92e1e763cc1e9766610739709573d203b2246308d9bd4b93dda9b373719884b",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "We can lead people to eat less while helping the restaurant business.",
+      "translationEligible": true,
+      "translationZh": "我们可以引导人们少吃，同时帮助餐馆生意。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-55-1",
+      "optionId": "cet4:2016-12-03:q-55-1:D",
+      "sourceText": "More studies are needed to find out the impact of emotion on behavior.",
+      "sourceHash": "2f11ab751893635844bbdf2bbafafffd85292a9a89da210db82daf3310738351",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "More studies are needed to find out the impact of emotion on behavior.",
+      "translationEligible": true,
+      "translationZh": "需要更多的研究来找出情绪对行为的影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:A",
+      "sourceText": "convenient",
+      "sourceHash": "3320956b836c53b726d123b3c7021f4d298b4bde1bfe8f277b327f29d22af931",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "convenient",
+      "translationEligible": true,
+      "translationZh": "方便",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:B",
+      "sourceText": "creates",
+      "sourceHash": "75dd3da2c26c2616c04fe618080db11286252df79ffcf9f1bcdd757acda58dab",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "creates",
+      "translationEligible": true,
+      "translationZh": "创造",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:C",
+      "sourceText": "critically",
+      "sourceHash": "5a14779c67e79c6e906e122ab1910e63a04e858ef627708944fff4efa4c3d5cf",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "critically",
+      "translationEligible": true,
+      "translationZh": "批判地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:D",
+      "sourceText": "determine",
+      "sourceHash": "3d8eefab379df52272c2c3328c6662894dd87e9739bc6248a214d48df52a0c56",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "determine",
+      "translationEligible": true,
+      "translationZh": "确定",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:E",
+      "sourceText": "direction",
+      "sourceHash": "93c4abe27cf1696102534bb60b3795f41f60f52fa806cd5d0feadfc8bd2b8170",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "direction",
+      "translationEligible": true,
+      "translationZh": "方向",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:F",
+      "sourceText": "hesitate",
+      "sourceHash": "ce8a390a4a5b7c85047f7be5915b4025e920d5b9c5df7d6597c38cbeadf63c68",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "hesitate",
+      "translationEligible": true,
+      "translationZh": "犹豫",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:G",
+      "sourceText": "inadequate",
+      "sourceHash": "ebd6fb508a3ab4893c1a7d08195d7c2c53676463fc7f05bf9583af316d02ead8",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "inadequate",
+      "translationEligible": true,
+      "translationZh": "不足的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:H",
+      "sourceText": "inspired",
+      "sourceHash": "5f067754ad0a57929f782612011c01e32a92772e331a8270df89eb2840467776",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "inspired",
+      "translationEligible": true,
+      "translationZh": "受到启发",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:I",
+      "sourceText": "method",
+      "sourceHash": "5b7e6bf2dc4a32a6aa4770cd5639c2c7af890fc86c273b5c8567fe5382086bf3",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "method",
+      "translationEligible": true,
+      "translationZh": "方法",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:J",
+      "sourceText": "minimal",
+      "sourceHash": "a703788f832056626d71b7db4d8055243ceafe416d1798cd634b9143c9074b54",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "minimal",
+      "translationEligible": true,
+      "translationZh": "最小的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:K",
+      "sourceText": "rarely",
+      "sourceHash": "6ee0e35f3aceacb406adc2ebd0b05aafe7a1018a54bdbf45e6d55c0a6af6e715",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "rarely",
+      "translationEligible": true,
+      "translationZh": "很少",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:L",
+      "sourceText": "shelters",
+      "sourceHash": "061e2de26658ee5a0602d3185db40df7140c1905f4ef2e476f60d53616f02bc4",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "shelters",
+      "translationEligible": true,
+      "translationZh": "庇护所",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:M",
+      "sourceText": "strengthen",
+      "sourceHash": "0e617009b3fe478431320f3cff404010b6911221da697bf54e49a83e25676691",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "strengthen",
+      "translationEligible": true,
+      "translationZh": "加强",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:N",
+      "sourceText": "sufferings",
+      "sourceHash": "775c0875bdbfaac58149c53b9b5477d9bbe437a97dde7a695f1191bfde3917ad",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "sufferings",
+      "translationEligible": true,
+      "translationZh": "苦难",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2016-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2016-12-03",
+      "questionId": "cet4:2016-12-03:q-26-1",
+      "optionId": "cet4:2016-12-03:word-bank:O",
+      "sourceText": "tortured",
+      "sourceHash": "59a2418c9dc64bf646bacc8b72bfa64536610abac11535777d669cb94d32fb24",
+      "sourceBlockIds": [
+        "cet4:2016-12-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2016-12-03:b-1-11",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "tortured",
+      "translationEligible": true,
+      "translationZh": "折磨",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-3",
+      "classification": "included",
+      "reason": "mixed_language_instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-6",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-7",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2016-12-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-8",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2016-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2016-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2016-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-14",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-15",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-16",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-1-18",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-2",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-13",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-14",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-15",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-16",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2016-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-18",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2016-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-19",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-2-19"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-2-20",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-2-20"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-9",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-10",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-3-19",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-3-19"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-8",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2016-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2016-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2016-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2016-12-03:b-5-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 10,
+    "included": 67
+  },
+  "reasonCounts": {
+    "cloze": 4,
+    "heading_prose": 1,
+    "instruction": 6,
+    "mixed_language_instruction": 1,
+    "non_english_or_fragment": 2,
+    "question_prompt": 20,
+    "reading_choice_continuation": 11,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 13,
+    "section_label": 8
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 13
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

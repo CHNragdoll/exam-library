@@ -1,0 +1,610 @@
+{
+  "schema": "pdf-verified-kaoyan-matching-options.v1",
+  "papers": {
+    "kaoyan:2011-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2011-02.pdf",
+      "sourcePdfSha256": "cd3cdbc72f40d7b2bc89154411970fa63553d096e2a9074f4357955206c6941f",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "“fat taxes” should be imposed on fast-food producers such as McDonald’s.",
+          "textSha256": "4ae5cad737bb12d27b9db63957adb543b06660e1e07c7ae793d96ae668f5fdf8"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "the government should ban fast-food outlets in the neighborhood of schools.",
+          "textSha256": "9d5129ef9e650232fcd2b4a34b93132c67064bca85a9407d9fab4051ad7a17c9"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "“lecturing” was an effective way to improve school lunches in England.",
+          "textSha256": "0df28f7c016c9c23eef391ee0d213617acf1023c4f036a703d159622ccf10af8"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "cigarette-style warnings should be introduced to children about the dangers of a poor diet.",
+          "textSha256": "d4784cfdab4a3f1b4f6a5f8055184b9c37d8eb9340a53564fdf1d478cff4a335"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "the producers of crisps and candies could contribute significantly to the Change4Life campaign.",
+          "textSha256": "9c63c0344b276c010edaaeb72931226fa881e2fa3b67ac77e9caf6e7d4e04f91"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "parents should set good examples for their children by keeping a healthy diet at home.",
+          "textSha256": "4e7f4fbc5a98094985a006d368535535df307961bd8bb4139fbf9819dd32e869"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2011-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "the government should strengthen the sense of responsibility among businesses.",
+          "textSha256": "dbb7e6fb3cd3dc5762ce214f6ac5146ceeaa047e9af452b47993113559dece6b"
+        }
+      },
+      "contextFigureBlockId": "b-12-6",
+      "actualFigureBlockId": "b-12-6",
+      "figureBlockSha256": "2920099102b487333c59df19adaf6e765d0a48df31fce441f5977d7cc0985dec"
+    },
+    "kaoyan:2012-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2012-02.pdf",
+      "sourcePdfSha256": "1fb9e1ea792dbaee57a80ce0de61aed3a43afb0e6453a63647ecfa095a5960ca",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "emphasized the virtue of classical heroes.",
+          "textSha256": "adfa3405c2b98f2a7e38399f6be303c28c54d87eab9bd6fe81a3e996c8722028"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "highlighted the public glory of the leading artists.",
+          "textSha256": "f6b4b2ce998fe39e2d674c911e8c009074761d81fae37fc27fa7b089975d8b39"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "focused on epochal figures whose lives were hard to imitate.",
+          "textSha256": "f27925b7c3dbaef4b3ad136ad392bab24144742e3017996bc6fa9ee2250de1f0"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "opened up new realms of understanding the great men in history.",
+          "textSha256": "4e5fd8a99da56ec4be43552ea6ab2cda7da87e5df22cf063bee2166de135a412"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "held that history should be the story of the masses and their record of struggle.",
+          "textSha256": "f6cd44be676efe9604b43b85958c7ce9b31f713033a74e6ce8a43bd42a955306"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "dismissed virtue as unnecessary for successful leaders.",
+          "textSha256": "fb2c0bc2b9bd182b3a592457305a7d38c5be6d728e7cb3d7cb9fd4f6ab9ea374"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2012-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "depicted the worthy lives of engineers, industrialists and explorers.",
+          "textSha256": "1a77cec7c7d849a8b2f89705300954319185eb32974bcdbcaf55d958de88ab8d"
+        }
+      },
+      "contextFigureBlockId": "b-12-3",
+      "actualFigureBlockId": "b-12-4",
+      "figureBlockSha256": "de22c4edc202f4fb9abd0c6cdf10acd5f9cf50cbc8f22f862b065bd49e1f6db2"
+    },
+    "kaoyan:2014-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2014-02.pdf",
+      "sourcePdfSha256": "fbff9b162f3496efcb1c059d66e116eedf9db97486e3e61308355b7e62369340",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "originates from a long walk that the artist took.",
+          "textSha256": "323b1a4b7e019b707e54ebb4a4b3b6062630c27c1a8901f435541f94d5a4a4c7"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "illustrates a kind of landscape-orientated light conceptual art.",
+          "textSha256": "baa0f6b99915a14f5c1f3ee98dafd66f85ff7530127c8f1e1692bfa7a49cdf6b"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "reminds people of the English landscape painting tradition.",
+          "textSha256": "7cdc591b6f274987a59705869f07cf77d936229daa2d651a83a2611f5fe7d025"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "represents the elegance of the British land art.",
+          "textSha256": "2f55685f426f6611a1bd2ae59d58e7bfe14893374e92be2b69591f20ab33dae6"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "depicts the ordinary side of the British land art.",
+          "textSha256": "882d761adedebda039d1fc7230ff387949866daaa2167cfdc032d61cdef31ca5"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "embodies a romantic escape into the Scottish outdoors.",
+          "textSha256": "626c67fe496b75cea6c16bc12d5fc94ac4a2b3e9bcd7d6ab7e0f7f51e673737d"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2014-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "contains images from different parts of the same photograph.",
+          "textSha256": "757d893a896e0fb6acab5e6617b2debd2969007de6138c887ee0a6d85253c084"
+        }
+      },
+      "contextFigureBlockId": "b-12-3",
+      "actualFigureBlockId": "b-12-3",
+      "figureBlockSha256": "d7464b822ce92144965aedb4701b577d0b45e4dc3214b0eb37a0f4ee53cb333f"
+    },
+    "kaoyan:2017-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2017-02.pdf",
+      "sourcePdfSha256": "3e772b446f749c1f81606cbb7b6e2a29ecf35eca6b45e78a233d8d646dfdc52c",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "says that he switched to electrical engineering because he loves working with tools.",
+          "textSha256": "34d20206b641d5fd9541aef9d73d17032dbe73424778a78b27a2a1f21cf78f58"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "points out that there are enough people to fill the jobs that don’t need much skill.",
+          "textSha256": "7941395d19c191f22ce27d352ecf94ec16a26be38d166e910a4d99b0b4eb5be1"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "points out that the US doesn’t manufacture anything anymore.",
+          "textSha256": "352a4ff96773ae9484c4022a2141bb2db4058ec0d37f72c442830f3190e9dfa8"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "believes that it is important to keep a close eye on the age of his workers.",
+          "textSha256": "697088f68d8d111b2f6cbb797a4f738034481f0a7acf9116964c78f692fabbaf"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "says that for factory owners, workers are harder to find because of stiff competition.",
+          "textSha256": "f0165c8c6904b3c50ed2f5a56013c1c0924db18c2d4580eece50145ed2ccf716"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "points out that a work/life balance can attract young people into manufacturing.",
+          "textSha256": "1b45a52980ac0c001d626ac75cee6b7807b3c7ea1092a4565e8e928c9f5761e5"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2017-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "says that the manufacturing recession is to blame for the lay-off of the young people’s parents.",
+          "textSha256": "605154d3b8bf9321dd8cd0ff627da3b471faafcb2d014c94f8bfdf22a889e21e"
+        }
+      },
+      "contextFigureBlockId": "b-12-5",
+      "actualFigureBlockId": "b-12-5",
+      "figureBlockSha256": "567d1a85dfa56f35e22729d8308dfa438e1b8a6272b27cdb6b83f6a19876966e"
+    },
+    "kaoyan:2019-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2019-02.pdf",
+      "sourcePdfSha256": "6a00c28d25e32cc4fb49e89aa0bc090e2f04231b5061478bb77e5793d940b0b2",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "assumes that many children's views on real estate are influenced by the media.",
+          "textSha256": "b00b6d17b5ede23263bc36f388f5dc86f60bd106cf54984c28a841374322f974"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "remarks that significant moves may pose challenges to children.",
+          "textSha256": "c567ad1716cb57678f9047caf03afdeea08bd0f1eac1a68fe179efd259330ac2"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "says that it is wise to leave kids in the dark about real estate decisions.",
+          "textSha256": "6b31a6c725027543ffb162aa8a35ef30b67f8909938dacb9e6684ecd875bb518"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "advises that home purchases should not be based only on children's opinions.",
+          "textSha256": "d4f715bc43ca0d25d6cce72a0de0a5b469f081bf87f8891c5f474f957c9d9801"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "thinks that children should be given a sense of involvement in homebuying decisions.",
+          "textSha256": "41c688dff5239b167596246a6e5e031b4612382816fbca7d8c8ff3be7da07de1"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "notes that aspects like children's friends and social activities should be considered upon homebuying.",
+          "textSha256": "60abaa72846c67bfa930df980ab863c4e217b2585b733f4dc675542444bac0e9"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2019-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "believes that homebuying decisions should be based on children's needs rather than their opinions.",
+          "textSha256": "58835d0b1c085b51d0335f4783c30e8d750de9f3e7799d9434592c62961d9374"
+        }
+      },
+      "contextFigureBlockId": "b-12-7",
+      "actualFigureBlockId": "b-12-8",
+      "figureBlockSha256": "b6ee128db24b3113be111e8fef4a2aa175fbccf068b32bda75a17180d58f91be"
+    },
+    "kaoyan:2023-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2023-02.pdf",
+      "sourcePdfSha256": "582ffce1a85e5711e3fb2a2e5b6ddc740890e32089e0136c8f0b622bce950d14",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "The rise of home prices is a temporary matter.",
+          "textSha256": "9718234bf57aeed3515a1c4b754d367d94116d27acfeffdc8d6f883f43c7bb2b"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "Builders possibly need to submit new estimates of their projects.",
+          "textSha256": "8ae220cfd5de1940ac047f26892423ee638aabb9b95c03374c8ceacf01560271"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "There will be specific limits on home extensions to prevent heat loss.",
+          "textSha256": "71a4645e8ddf9f7a213db536ce75ec4d85d6d8bc9907133230a4f9a8c96d57c0"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "The new rules will take home prices to an even higher level.",
+          "textSha256": "0ccfaadd22ad3745399e7c36bf5097ecc7f1bc979d195a9cacf38e09b23bfb67"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "Many people feel that home prices are already beyond what they can afford.",
+          "textSha256": "c624c8701bfee9f2e7049eee9cb52cfb379408894ccc7dee68975ee12bfabf3b"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "The new rules will affect people whose home extensions include new windows or doors.",
+          "textSha256": "43e2c504bea317e6c209fb843d7f4e2192f8fda6fb99c62f26e3d93bd5c9afd9"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2023-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "The rule changes will benefit homeowners eventually.",
+          "textSha256": "835ac5e5942d775f9ae817377b7f9fe1f3c180f88d04cce8480c0ecf3193d46f"
+        }
+      },
+      "contextFigureBlockId": "b-12-5",
+      "actualFigureBlockId": "b-12-5",
+      "figureBlockSha256": "ec552991a8380aea331d5ffde44c939be8585722133599cd5eef147c199e07d0"
+    },
+    "kaoyan:2024-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2024-02.pdf",
+      "sourcePdfSha256": "6576c7aa0767457d66d4f070db20dc13e7758b306cadda433387cb1c54c5bfcc",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "Students who stand out in a specific extracurricular activity will be favored by top-tier institutions.",
+          "textSha256": "87da2c98ddc1c9260c527061483c59938bab644a96e98de4264ec700b11e35f4"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "Students whose extracurricular activity has benefited their community are likely to win a scholarship.",
+          "textSha256": "5a92f60bb08042ae1a2a1606b8468586b5c6e9cba4a5a5e4f78581fbeee8617e"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "Undertaking too many extracurricular activities will hardly be seen as a plus by colleges.",
+          "textSha256": "70b6bfa3f9fd7e4e8edff3e7fd92893868e296bf43dd83d805822d832fba2fd6"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "A student who exhibits abilities in doing business can impress colleges.",
+          "textSha256": "cc2d8288405bce0bb8f0dfee1ca17fdd9063c077beebd2a6c79f0ed4672b0544"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "High school students participating in a popular activity should excel in it.",
+          "textSha256": "a12743dad2eee1db2f8169b66f0e2243938ab9748333c19f437e4a7e39b6818d"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "Engaging in uncommon activities can demonstrate students’ determination and dedication.",
+          "textSha256": "5069c594e39c2e8f7593c248b33242eae04cfe32ffc7ca5ef8aa9f3c46ea633d"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2024-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "It is advisable for students to choose an extracurricular activity that is related to their future study at college.",
+          "textSha256": "836f91b039e6e638df7b0c907b9f9862857fb5ddac04b0d0afc8156066a18591"
+        }
+      },
+      "contextFigureBlockId": "b-12-4",
+      "actualFigureBlockId": "b-12-4",
+      "figureBlockSha256": "6845edd558306fd46bec5c2625eb7cee8487cca8630c0f50dcdb68f62b311698"
+    },
+    "kaoyan:2026-02": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2026-02.pdf",
+      "sourcePdfSha256": "99477c6b3d2fafe0c66c26662c6143ca1e7488d73d0e651a3693744c455ade64",
+      "kind": "figure_bank",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "People must pay attention to the fact that some kinds of trees do not produce seeds annually.",
+          "textSha256": "40c4855fddf08fd47a46dd69909ea1fc465bb4ddde780160562c4a025d1cb5ac"
+        },
+        "B": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:B",
+          "label": "B",
+          "pdfPage": 12,
+          "text": "Soil is an important element to be taken into account in forest restoration.",
+          "textSha256": "0070ce9ed0dfdcda2fd43d24734bf0b92c373f1767b04079e6ba8c3de93d4d6e"
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:C",
+          "label": "C",
+          "pdfPage": 12,
+          "text": "The purpose of restoration efforts may be different from the real needs of the people involved.",
+          "textSha256": "1205af2419c9d593abc93563d5f934bb0712beae8f5114c7717938a68a177dc5"
+        },
+        "D": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:D",
+          "label": "D",
+          "pdfPage": 12,
+          "text": "Human factors, as well as trees planted, should be emphasized in forest restoration.",
+          "textSha256": "10f225674ebb0fe45d3816780dce6fbcee7cde776e6870cdee45f1bad90f8692"
+        },
+        "E": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "The supply of seeds is a tough problem that has to be dealt with.",
+          "textSha256": "94106a217e9602c6e683f93de0759fb28c90a628cb765380ae9a0353d200df8e"
+        },
+        "F": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:F",
+          "label": "F",
+          "pdfPage": 12,
+          "text": "When it comes to restoration, we have to stay with an awareness of whose interests to serve.",
+          "textSha256": "25da9924e8ac380cae1478c8e8d38d8f6601bab82f6a781dc3f3c672bd9a8bf6"
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2026-02:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "Some creatures in the forest that multiply fast can become a great threat to forest restoration.",
+          "textSha256": "9aad65f265aa93276ced2c093d4fa413ec0ffef6cb4d280d21a765fcf0aec08d"
+        }
+      },
+      "contextFigureBlockId": "b-12-4",
+      "actualFigureBlockId": "b-12-4",
+      "figureBlockSha256": "fea5d176e2d57e272e17f40da8f1c9335bf66f5e622dbd0ff5d2adaca7c3a90e"
+    },
+    "kaoyan:2005-01": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2005-01.pdf",
+      "sourcePdfSha256": "5cb2fbee199b3aa63f1edd42989963dd2d7d617df241ecd135199f7c721d2003",
+      "kind": "passage_option",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2005-01:part-b:A",
+          "label": "A",
+          "pdfPage": 12,
+          "text": "Quebec’s resistance to a national agency is provincialist ideology. One of the first advocates for a national list was a researcher at Laval University. Quebec’s Drug Insurance Fund has seen its costs skyrocket with annual increases from 14.3 percent to 26.8 percent!",
+          "textSha256": "b9404ba1ea4521cf189addab316b1bcea7a87662c7e31e382fbf82f5bbf46a32",
+          "passageBlockIds": [
+            "b-12-3",
+            "b-12-4"
+          ],
+          "passageBlockTypes": {
+            "b-12-3": "paragraph",
+            "b-12-4": "question"
+          },
+          "passageBlockTextSha256": {
+            "b-12-3": "a9ebcb694a42c9c8756b49938a9d8e27a525693e7d790fdf38b626ca4844f657",
+            "b-12-4": "71cf3b62a01bb298af7c693b98562b30cf14f21d0f30e7c7bc67a0fdae1c564f"
+          },
+          "joinSeparator": " "
+        }
+      }
+    },
+    "kaoyan:2017-01": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2017-01.pdf",
+      "sourcePdfSha256": "ea30380d06d08b084f915cd757c7e96dbf5b3ecdc0f05afbdfeca99fa6ad223d",
+      "kind": "passage_option",
+      "choices": {
+        "A": {
+          "sourceOptionId": "kaoyan:2017-01:part-b:A",
+          "label": "A",
+          "pdfPage": 11,
+          "text": "The first published sketch, “A Dinner at Poplar Walk” brought tears to Dickens’s eyes when he discovered it in the pages of The Monthly Magazine . From then on his sketches, which appeared under the pen name “Boz” in The Evening Chronicle , earned him a modest reputation.",
+          "textSha256": "f9750ffb509f09edc98a771381567c6ed63ab59e38b246262aeb9c94640c21c1",
+          "passageBlockIds": [
+            "b-11-4"
+          ],
+          "passageBlockTypes": {
+            "b-11-4": "paragraph"
+          },
+          "passageBlockTextSha256": {
+            "b-11-4": "d61eff48c11caccad8e0490fcbe83a6db1229b9a63215c50602dc2c51a6c7b34"
+          },
+          "joinSeparator": ""
+        },
+        "C": {
+          "sourceOptionId": "kaoyan:2017-01:part-b:C",
+          "label": "C",
+          "pdfPage": 11,
+          "text": "Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour’s pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club , appeared serially in 1836 and 1837, and was first published in book form in 1837.",
+          "textSha256": "e41d9424a88508b3957dd065e83818548bafe436e13af3560aa8af0e986b1285",
+          "passageBlockIds": [
+            "b-11-6"
+          ],
+          "passageBlockTypes": {
+            "b-11-6": "paragraph"
+          },
+          "passageBlockTextSha256": {
+            "b-11-6": "c88a1af229c3fbd8869b064e64c3031afb496be388be9df97078b08c47c1a9de"
+          },
+          "joinSeparator": ""
+        },
+        "G": {
+          "sourceOptionId": "kaoyan:2017-01:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "After Pickwick , Dickens plunged into a bleaker world. In Oliver Twist , he traces an orphan’s progress from the workhouse to the criminal slums of London. Nicholas Nickleby , his next novel, combines the darkness of Oliver Twist with the sunlight of Pickwick . The popularity of these novels consolidated Dickens as a nationally and internationally celebrated man of letters.",
+          "textSha256": "4e85ae8ce8b9087bf83fbc1037d30ecf47769cd67f9492312c34861fef1b2003",
+          "passageBlockIds": [
+            "b-12-3"
+          ],
+          "passageBlockTypes": {
+            "b-12-3": "paragraph"
+          },
+          "passageBlockTextSha256": {
+            "b-12-3": "3d391bc2492472417f619153acf30015b3bb0c7ad3029f6aba52d54c7adf9c84"
+          },
+          "joinSeparator": ""
+        }
+      }
+    },
+    "kaoyan:2019-01": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2019-01.pdf",
+      "sourcePdfSha256": "61c853bc73eb4c952e7ead6118c57bc2587d300b5c4b888ce6e8d51910730ceb",
+      "kind": "passage_option",
+      "choices": {
+        "E": {
+          "sourceOptionId": "kaoyan:2019-01:part-b:E",
+          "label": "E",
+          "pdfPage": 12,
+          "text": "In his 1936 work How to Win Friends and Influence People , Dale Carnegie wrote: “There is only one way... to get the best of an argument — and that is to avoid it.” This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives — and in many ways misses the point of arguing in the first place.",
+          "textSha256": "270f1fb4d616132ae3e371ddd6ff6e4e5e9cacc62a1794cfe5db98d0ac2fbb36",
+          "passageBlockIds": [
+            "b-12-1"
+          ],
+          "passageBlockTypes": {
+            "b-12-1": "paragraph"
+          },
+          "passageBlockTextSha256": {
+            "b-12-1": "26aba5bc6e263803c3e2d9c1289dbee0dd3a959fed67c5abfe9c30432c4bf794"
+          },
+          "joinSeparator": ""
+        }
+      }
+    },
+    "kaoyan:2023-01": {
+      "sourcePdfPath": "data/sources/kaoyan-web-2026-09-26/.firecrawl/2023-01.pdf",
+      "sourcePdfSha256": "462a9aab136b23b9b1605bf627fb94fad0d53f8f4816ffe20d99ee6e8dc6801b",
+      "kind": "passage_option",
+      "choices": {
+        "G": {
+          "sourceOptionId": "kaoyan:2023-01:part-b:G",
+          "label": "G",
+          "pdfPage": 12,
+          "text": "The bill proved largely popular and sailed through Congress with large majorities in favor. In quick succession, the Senate and House passed legislation protecting Yellowstone in early 1872. That March, President Ulysses S. Grant signed an act into law that established Yellowstone as the world’s first national park. While some locals opposed to the designation, the decision was largely accepted — and Jackson’s photos played a key role in the fight to protect the area. “I don’t believe that the legal protection would have happened in the timeframe that it did without those images,” says Heather Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears:100 Years of the National Park Service .",
+          "textSha256": "b9d6555265df45ee8c5e228f54b72a7476cb24869b9e11d56be847ad539a6676",
+          "passageBlockIds": [
+            "b-12-3"
+          ],
+          "passageBlockTypes": {
+            "b-12-3": "paragraph"
+          },
+          "passageBlockTextSha256": {
+            "b-12-3": "4eb3a677784a99afcd0fb2a14161961ac81dcfa8b6f8fda3151ae2da5c14e1d0"
+          },
+          "joinSeparator": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2022-06-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-03.json",
+  "sourcePdfSha256": "ec9c407854f4fbb634ec277ebbf3096cc69057382cb9bfc3a2deb2a8dd87efee",
+  "paragraphs": [
+    {
+      "id": "cet6:2022-06-03:p:b-1-4",
+      "paperId": "cet6:2022-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people take delight in offering help to the needy.w You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "2cb29322b18b8c08101b680be634afcdc64f0584ee5c594aee4800637687ad45",
+      "sourceBlockIds": [
+        "cet6:2022-06-03:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-03:b-1-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有30分钟的时间写一篇文章，开头是这样一句话：“现在越来越多的人乐于为有需要的人提供帮助。w你可以发表评论，引用例子，或者用你的个人经历来发展你的文章。你应该写至少150字，但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-03.json",
+        "pdfSha256": "ec9c407854f4fbb634ec277ebbf3096cc69057382cb9bfc3a2deb2a8dd87efee",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-03:p:b-1-6",
+      "paperId": "cet6:2022-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet6:2022-06-03:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-03:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-03.json",
+        "pdfSha256": "ec9c407854f4fbb634ec277ebbf3096cc69057382cb9bfc3a2deb2a8dd87efee",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-03.htm"
+      }
+    }
+  ],
+  "options": [],
+  "optionReconciliation": {},
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-03:p:b-1-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-6",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-03:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-03:b-1-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 6,
+    "included": 2
+  },
+  "reasonCounts": {
+    "instruction": 2,
+    "non_english_or_fragment": 4,
+    "section_label": 2
+  },
+  "kindCounts": {
+    "instruction": 2
+  },
+  "otherSourceBlockCounts": {},
+  "issues": []
+}

@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2017",
@@ -2541,7 +2541,7 @@
               "text": "”",
               "flags": [
                 false,
-                true,
+                false,
                 false
               ]
             },
@@ -2875,13 +2875,18 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Who’s Really Addicting You to Technology?",
               "flags": [

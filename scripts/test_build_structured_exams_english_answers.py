@@ -54,7 +54,11 @@ class EmbeddedEnglishAnswersTests(unittest.TestCase):
             papers = {row["id"]: json.loads((Path(directory) / row["json"]).read_text())
                       for row in rows}
             bank = builder.write_question_bank(rows)
-            self.assertEqual(bank["questions"], 339)
+            # CET4 2015-06 set 1 prints ten Reading Section A blanks (36–45)
+            # on PDF pages 3–4; these were previously absent from the bank.
+            # These five papers now also index six printed Writing/Translation
+            # tasks as free-response questions without changing numbered IDs.
+            self.assertEqual(bank["questions"], 355)
 
             self.assertEqual(sum(q["recordType"] == "answer" for paper in papers.values()
                                  for q in paper["questions"]), 353)
@@ -91,9 +95,12 @@ class EmbeddedEnglishAnswersTests(unittest.TestCase):
                             if q["recordType"] == "question" and q["number"] == str(number))
 
             self.assertEqual(answer("cet4:2015-06-01", 26)["value"], "prospering")
-            self.assertEqual(answer("cet4:2015-06-01", 6)["status"], "missing")
+            # PDF p11 concludes "故本题选择B)" after discussing option C.
+            self.assertEqual(answer("cet4:2015-06-01", 6)["value"], "B")
+            self.assertEqual(answer("cet4:2015-06-01", 6)["sourcePages"], ["11"])
             self.assertEqual(answer("cet6:2012-06-01", 26)["value"], "C")
-            self.assertEqual(answer("cet6:2012-06-01", 82)["status"], "missing")
+            self.assertEqual(answer("cet6:2012-06-01", 82)["value"],
+                             "worth $80 without a discount")
             self.assertEqual(answer("cet6:2012-12-01", 71)["value"], "A")
             self.assertEqual(answer("cet6:2012-12-02", 53)["value"], "A")
             self.assertEqual(answer("cet6:2012-12-02", 54)["value"], "B")
@@ -108,7 +115,13 @@ class EmbeddedEnglishAnswersTests(unittest.TestCase):
             reader = BeautifulSoup((Path(directory) / reader_row["reader"]).read_text(), "html.parser")
             source_link = reader.select_one("#q-54-1 .answer-panel .answer-source")
             self.assertIsNotNone(source_link)
-            self.assertTrue(source_link["href"].endswith("#b-26-11"))
+            paper = papers["cet6:2012-12-02"]
+            question = next(q for q in paper["questions"]
+                            if q["recordType"] == "question" and q["number"] == "54")
+            marker_id = question["answer"]["sourceBlocks"][0]
+            marker = next(block for block in paper["blocks"] if block["id"] == marker_id)
+            self.assertIn("54 【定位】", marker["text"])
+            self.assertEqual(source_link["href"], f"2012-12-02.htm#{marker_id}")
 
 
 if __name__ == "__main__":

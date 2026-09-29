@@ -7,6 +7,7 @@ if str(_reader_ui) not in _reader_sys.path: _reader_sys.path.insert(0, str(_read
 from enhance_readers import write_reader
 from pathlib import Path
 import sys,json,re,html,hashlib,subprocess,zipfile,statistics,unicodedata
+from collections import Counter
 import fitz
 from concurrent.futures import ProcessPoolExecutor
 from lxml import html as lh
@@ -16,7 +17,8 @@ from extract import extract,markup,plain,SITE
 from repair_archive import source_pdf
 from encoding import get_unknown_glyphs
 from layout import prepare,copy_flowchart,continues_paragraph
-from recover_image_questions import recover_image_questions
+from recover_image_questions import RECOVERY_CASES, recover_image_questions
+from recover_image_writing import recover_image_writing
 
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def e(s):return html.escape(str(s),quote=True)
@@ -45,6 +47,88 @@ def htmlruns(runs):
             if r['flags'][1] and r['text'].strip().isdigit():out.append('<span class="blank">'+e(r['text'])+'</span>')
             else:out.append(markup([r]))
     return ''.join(out)
+
+def cet4_2017_06_02_cloze_28_html(runs):
+    """Mark the printed fullwidth-parenthesis blank without changing its text."""
+    value=htmlruns(runs)
+    marker='（28)_______'
+    assert value.count(marker)==1
+    return value.replace(marker,'（<span class="blank">28</span>)_______',1)
+
+def repair_cet_cloze_false_underlines(category, stem, page_number, blocks):
+    """Ignore three PDF underline-detection artifacts outside numbered blanks."""
+    cases={
+        ('cet4','2015-06-01',4):(4,5,'ducators in these schools.',' of working in high-need schools and how to adopt promising practices for supporting great e'),
+        ('cet6','2016-12-01',4):(0,1,',','nearly 17% of discretionary (可酌情支配的) spending to research and development'),
+        ('cet6','2017-12-01',3):(21,3,'”',' '),
+    }
+    case=cases.get((category,stem,page_number))
+    if case is None:return
+    block_index,run_index,expected,preceding=case
+    block=blocks[block_index]
+    assert block['type']=='paragraph'
+    runs=block['runs']
+    assert runs[run_index]['text']==expected and tuple(runs[run_index]['flags'])==(False,True,False)
+    assert runs[run_index-1]['text'].endswith(preceding)
+    runs[run_index]['flags']=[False,False,False]
+
+PDF_VERIFIED_DOTTED_OPTION_LABELS = {
+    ('cet6', '2018-06-02'): (
+        'deaa6e2ed08156b34f11c3e2ff71a4426790912adc20d5b2fe9c2b3945080c20',
+        {1: 32, 2: 39, 3: 29, 4: 15}),
+    ('cet6', '2018-06-03'): (
+        '976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14',
+        {1: 15}),
+}
+
+
+def repair_pdf_verified_dotted_option_labels(category, stem, pdf_sha256,
+                                              page_number, blocks, pdf_text):
+    """Consume the second dot in printed A). labels on two verified PDFs.
+
+    The generic extractor consumes A) and leaves the following period in the
+    answer text. Keep the exact printed label as provenance while displaying
+    the option text without that label punctuation.
+    """
+    case = PDF_VERIFIED_DOTTED_OPTION_LABELS.get((category, stem))
+    if case is None:
+        return 0
+    expected_sha, counts_by_page = case
+    assert pdf_sha256 == expected_sha, ('source PDF changed', category, stem)
+    candidates = [item for block in blocks for item in block.get('items', [])
+                  if item['runs'] and item['runs'][0]['text'].startswith('. ')]
+    expected = counts_by_page.get(page_number, 0)
+    assert len(candidates) == expected, ('dotted option count changed',
+                                          category, stem, page_number,
+                                          len(candidates), expected)
+    printed = Counter(re.findall(r'(?<![A-Za-z])([A-O])\)\.', pdf_text))
+    parsed = Counter(item['label'] for item in candidates)
+    assert all(count <= printed[label] for label, count in parsed.items()), (
+        'printed option labels changed', category, stem, page_number, parsed, printed)
+    for item in candidates:
+        assert len(item['runs']) == 1 and item['label'] in 'ABCDEFGHIJKLMNO'
+        item['source_label'] = item['label'] + ').'
+        item['runs'][0]['text'] = item['runs'][0]['text'][2:]
+    return len(candidates)
+
+def html_option(item, block_id, option_index):
+    printed = item.get('source_label')
+    source_label = f' data-source-label="{e(printed)}"' if printed else ''
+    return ('<li data-source-block-id="'+e(block_id)+'" data-source-option-index="'+str(option_index)+'"><span class="option-label"'+source_label+'>'+e(item['label'])+'.</span><span>'
+            +htmlruns(item['runs'])+'</span></li>')
+
+def html_options_block(block, block_id):
+    long=any(sum(len(run['text']) for run in item['runs'])>85 for item in block['items'])
+    return ('<ul class="options'+(' single' if long else '')+'" data-source-block-id="'
+            +e(block_id)+'">'+''.join(html_option(item, block_id, index)
+                                      for index, item in enumerate(block['items']))+'</ul>')
+
+def html_choice_row_block(block, block_id):
+    cells='<span class="choice-number">'+htmlruns(block['runs'])+'</span>'
+    cells+=''.join('<span class="choice-item" data-source-block-id="'+e(block_id)+'" data-source-option-index="'+str(index)+'"><strong>'
+                   +e(item['label'])+'.</strong> '+htmlruns(item['runs'])+'</span>'
+                   for index, item in enumerate(block['items']))
+    return '<div class="choice-scroll" data-source-block-id="'+e(block_id)+'"><div class="choice-row">'+cells+'</div></div>'
 def source_chars(page):
     return get_unknown_glyphs(page)
 
@@ -58,9 +142,14 @@ def restore_cet4_2015_06_01_page_one(blocks):
 
 def restore_cet4_2015_06_02_page_one(blocks):
     """Move two printed text fragments out of this paper's mixed figure crop."""
-    writing=blocks[3]
-    figure=blocks[4]
-    listening=blocks[5]
+    writing_matches = [index for index, block in enumerate(blocks)
+                       if block['type'] == 'paragraph' and
+                       plain_text(block).endswith(' 120')]
+    assert len(writing_matches) == 1
+    writing_index = writing_matches[0]
+    writing = blocks[writing_index]
+    figure = blocks[writing_index + 1]
+    listening = blocks[writing_index + 2]
     assert writing['type']=='paragraph' and ''.join(r['text'] for r in writing['runs']).endswith(' 120')
     assert figure['type']=='figure' and all(abs(a-b)<.1 for a,b in zip(figure['bbox'],[78.78,98.00,461.85,228.68]))
     assert listening['type']=='heading' and ''.join(r['text'] for r in listening['runs'])=='Part II'
@@ -88,6 +177,48 @@ def restore_cet6_2014_12_03_page_one(blocks):
     assert figure['type']=='figure' and all(abs(a-b)<.1 for a,b in zip(figure['bbox'],[53.56,132.80,373.76,460.90]))
     writing['runs'][-1]['text']+=' 200 words.'
     figure['bbox']=[64,161,371,461]
+
+def restore_cet4_2015_12_03_listening_start(blocks):
+    """Separate the printed Part II heading, answer-sheet note and Q1 choices."""
+    index = next((i for i, block in enumerate(blocks)
+                  if block['type'] == 'paragraph' and plain_text(block).startswith(
+                      'Part ⅡListening Comprehension ( 30 minutes)')), None)
+    assert index is not None
+    merged, choices = blocks[index:index + 2]
+    assert plain_text(merged) == (
+        'Part ⅡListening Comprehension ( 30 minutes) Sheet 1 with a single line '
+        'through the centre. 1 A. Children should be taught to be more careful.')
+    assert choices['type'] == 'options' and [item['label'] for item in choices['items']] == ['B', 'C', 'D']
+    assert [plain_text(item) for item in choices['items']] == [
+        "Children shouldn't drink so much orange juice.",
+        'There is no need for the man to make such a fuss.',
+        'Timmy should learn to do things in the right way.']
+    run = lambda text, bold=False: {'text': text, 'flags': [bold, False, False]}
+    blocks[index:index + 2] = [
+        {'type': 'heading', 'runs': [run('Part Ⅱ Listening Comprehension ( 30 minutes)', True)]},
+        {'type': 'instruction', 'runs': [run('Sheet 1 with a single line through the centre.')]},
+        {'type': 'question', 'runs': [run('1.')]},
+        {'type': 'options', 'items': [
+            {'label': 'A', 'runs': [run('Children should be taught to be more careful.')]},
+            *choices['items'],
+        ]},
+    ]
+
+def restore_kaoyan_2012_02_gi_joe(blocks):
+    """Keep the printed G.I. Joe cloze sentence as prose, not option G."""
+    matches = [index for index, block in enumerate(blocks)
+               if block['type'] == 'options' and len(block['items']) == 1
+               and block['items'][0]['label'] == 'G'
+               and plain_text(block['items'][0]).startswith('I. Joe had a 11 career')]
+    assert len(matches) == 1, matches
+    index = matches[0]
+    item = blocks[index]['items'][0]
+    assert plain_text(item) == (
+        'I. Joe had a 11 career fighting German, Japanese, and Korean troops. He')
+    assert blocks[index + 1]['type'] == 'paragraph'
+    assert plain_text(blocks[index + 1]).startswith('appears as a character, or a 12')
+    blocks[index] = {'type': 'paragraph', 'runs': [
+        {'text': 'G.', 'flags': [False, False, False]}, *item['runs']]}
 
 # Crops verified against the source PDFs. Keep these corrections in the
 # generator so a later rebuild does not recreate clipped artwork or text.
@@ -137,6 +268,162 @@ def repair_figure_crops(category, stem, page_number, blocks):
 
 def plain_text(block):
     return ''.join(run['text'] for run in block.get('runs', []))
+
+
+def source_block_id(page_number, block_index):
+    """Use the same one-based coordinates as the structured paper builder."""
+    return f'b-{page_number}-{block_index + 1}'
+
+
+def source_block_marker(block_id):
+    return f'<span class="source-block-marker" data-source-block-id="{e(block_id)}" aria-hidden="true"></span>'
+
+
+# The PDF's selectable character map is broken on a small set of Chinese
+# passages and inline vocabulary glosses. These transcriptions were OCRed
+# from rendered source pages and visually checked against the same PDF images.
+# Keeping them separate from the extractor makes each exception auditable.
+PDF_VERIFIED_CHINESE_OCR = json.loads(
+    (ROOT / 'pdf_verified_chinese_ocr.json').read_text(encoding='utf-8'))
+TRANSLATION_OCR = {
+    (item['category'], item['stem'], item['page']): item
+    for item in PDF_VERIFIED_CHINESE_OCR['translations']
+}
+GLOSS_OCR = {}
+for _category, _stem, _page, _old, _new in PDF_VERIFIED_CHINESE_OCR['glosses']:
+    GLOSS_OCR.setdefault((_category, _stem, _page), []).append((_old, _new))
+
+
+def replace_across_runs(runs, old, new):
+    """Replace one PDF-map error without discarding surrounding run styling."""
+    joined = ''.join(run['text'] for run in runs)
+    assert joined.count(old) == 1, (old, joined[:200])
+    start = joined.index(old)
+    end = start + len(old)
+    rebuilt = []
+    position = 0
+    inserted = False
+    for run in runs:
+        text = run['text']
+        next_position = position + len(text)
+        if next_position <= start or position >= end:
+            rebuilt.append(run)
+        else:
+            if position < start:
+                rebuilt.append({**run, 'text': text[:start-position]})
+            if not inserted:
+                rebuilt.append({'text': new, 'flags': [False, False, False]})
+                inserted = True
+            if next_position > end:
+                rebuilt.append({**run, 'text': text[end-position:]})
+        position = next_position
+    assert inserted
+    runs[:] = rebuilt
+
+
+def repair_pdf_verified_chinese_ocr(category, stem, page_number, blocks):
+    """Use source-PDF-checked Chinese only at the exact audited locations."""
+    case = (category, stem, page_number)
+    translation = TRANSLATION_OCR.get(case)
+    if translation:
+        headings = [index for index, block in enumerate(blocks)
+                    if block['type'] == 'heading' and
+                    plain_text(block).startswith('Part IV Translation')]
+        assert len(headings) == 1, case
+        start = headings[0] + translation['after_heading']
+        expected = translation['source_types']
+        actual = [block['type'] for block in blocks[start:start + len(expected)]]
+        if actual != expected:
+            # The fine-grained glyph fallback keeps the same printed passage
+            # as one paragraph rather than several bogus headings.
+            expected = translation.get('source_types_after_local_glyph', expected)
+            actual = [block['type'] for block in blocks[start:start + len(expected)]]
+        assert actual == expected, (case, expected, actual)
+        assert all(''.join(run.get('text', '') for run in block.get('runs', []))
+                   != paragraph for block in blocks[start:start + len(expected)]
+                   for paragraph in translation['paragraphs'])
+        blocks[start:start + len(expected)] = [
+            {'type': 'paragraph', 'runs': [
+                {'text': paragraph, 'flags': [False, False, False]}]}
+            for paragraph in translation['paragraphs']
+        ]
+
+    for old, new in GLOSS_OCR.get(case, []):
+        matches = []
+        for block in blocks:
+            run_groups = ([block['runs']] if 'runs' in block else
+                          [item['runs'] for item in block.get('items', [])])
+            matches.extend(runs for runs in run_groups
+                           if old in ''.join(run['text'] for run in runs))
+        assert len(matches) == 1, (case, old, len(matches))
+        replace_across_runs(matches[0], old, new)
+
+
+def repair_pdf_verified_soft_wraps(category, stem, page_number, blocks):
+    """Repair a visible word split in the printed CET-4 2018-06 Set 3 PDF.
+
+    The source page itself prints `tha` at the end of one line and `n180`
+    at the start of the next.  The neighboring instruction confirms the
+    intended phrase is `than 180 words`; the exact paper/page/text guard
+    prevents a corpus-wide editorial substitution.
+    """
+    if (category, stem, page_number) != ('cet4', '2018-06-03', 1):
+        return
+    candidates = [block['runs'] for block in blocks if block['type'] == 'paragraph'
+                  and 'no more tha n180 words.' in plain_text(block)]
+    assert len(candidates) == 1, (category, stem, page_number)
+    replace_across_runs(candidates[0], 'no more tha n180 words.',
+                        'no more than 180 words.')
+
+
+PDF_VERIFIED_QUESTION_CONTINUATIONS = {
+    ('cet4', '2018-06-02', 6, 36): 'Venice.',
+    ('cet4', '2024-06-02', 6, 41): '20th century.',
+    ('cet6', '2023-06-02', 10, 53): 'Whiten?',
+}
+
+
+def repair_pdf_verified_question_continuations(category, stem, page_number, blocks):
+    """Attach PDF-checked proper-name/numeric final lines to their questions."""
+    for (paper_category, paper_stem, page, number), tail in PDF_VERIFIED_QUESTION_CONTINUATIONS.items():
+        if (category, stem, page_number) != (paper_category, paper_stem, page):
+            continue
+        matches = [index for index, block in enumerate(blocks)
+                   if block['type'] == 'question' and
+                   re.match(rf'^{number}\.', plain_text(block))]
+        assert len(matches) == 1, (category, stem, page_number, number)
+        index = matches[0]
+        following = blocks[index + 1]
+        assert following['type'] == 'paragraph' and plain_text(following) == tail
+        assert not re.search(r'[.!?]$', plain_text(blocks[index]))
+        blocks[index]['runs'].append({'text': ' ' + tail,
+                                      'flags': [False, False, False]})
+        del blocks[index + 1]
+
+def repair_cet6_2015_06_01_question_46(category, stem, page_number, blocks):
+    """Restore question 46 from its displaced PDF text layer on page six.
+
+    Source PDF SHA-256: 157b59f1bbbe90629b1e176b130dadf8a7bce98b9082226792875867c29693d6.
+    The page image separates the notice and prints this complete question.
+    """
+    if (category, stem, page_number) != ('cet6', '2015-06-01', 6):
+        return
+    notice = '注意：此部分试题请在答题卡2 上作答。'
+    displaced = ' “Mona Lisa” ，to Leonardo’s other works resulted from the cumulative'
+    incomplete = '46. According to Duncan Watts, the superiority of the advantage.'
+    matches = [(index, block) for index, block in enumerate(blocks)
+               if block['type'] == 'paragraph' and plain_text(block) == notice + displaced]
+    assert len(matches) == 1, (category, stem, page_number, 'notice')
+    index, block = matches[0]
+    assert index + 1 < len(blocks)
+    question = blocks[index + 1]
+    assert question['type'] == 'question' and plain_text(question) == incomplete
+    block['runs'] = [{'text': notice, 'flags': [False, False, False]}]
+    question['runs'] = [{'text': '46. According to Duncan Watts, the superiority of the'
+                                ' “Mona Lisa” ，to Leonardo’s other works resulted from'
+                                ' the cumulative advantage.',
+                         'flags': [False, False, False]}]
+
 
 def repair_cet4_matching_questions(category, stem, page_number, blocks):
     """Keep the ten printed matching prompts as questions, not section headings."""
@@ -222,24 +509,28 @@ def repair_pdf_verified_additional_question_labels(category, stem, page_number, 
     if (category, stem, page_number) == ('cet6', '2021-12-02', 7):
         old = ('wrongly believe in the causal relationship between music and IQ. '
                '3 7. The belief in the positive effects of music training appeals to many researchers who are')
+        joined = old + ' musicians themselves.'
         matches = [index for index, block in enumerate(blocks)
-                   if block['type'] == 'paragraph' and plain_text(block) == old]
+                   if block['type'] == 'paragraph' and plain_text(block) in {old, joined}]
         assert len(matches) == 1
         index = matches[0]
         assert blocks[index - 1]['type'] == 'question' and plain_text(blocks[index - 1]).startswith('36.')
-        assert blocks[index + 1]['type'] == 'paragraph' and plain_text(blocks[index + 1]) == 'musicians themselves.'
-        blocks[index]['runs'] = [{'text': 'wrongly believe in the causal relationship between music and IQ.',
-                                  'flags': [False, False, False]}]
-        blocks.insert(index + 1, {'type': 'question', 'runs': [{
-            'text': '37. The belief in the positive effects of music training appeals to many researchers who are',
-            'flags': [False, False, False]}]})
+        blocks[index - 1]['runs'].append({
+            'text': ' wrongly believe in the causal relationship between music and IQ.',
+            'flags': [False, False, False]})
+        if plain_text(blocks[index]) == old:
+            assert blocks[index + 1]['type'] == 'paragraph' and plain_text(blocks[index + 1]) == 'musicians themselves.'
+            del blocks[index + 1]
+        blocks[index] = {'type': 'question', 'runs': [{
+            'text': '37. The belief in the positive effects of music training appeals to many researchers who are musicians themselves.',
+            'flags': [False, False, False]}]}
     targets = PDF_VERIFIED_ADDITIONAL_QUESTION_LABELS.get((category, stem, page_number))
     if not targets:
         return
     found = []
     for index in range(len(blocks) - 1, -1, -1):
         block = blocks[index]
-        if block['type'] != 'paragraph':
+        if block['type'] not in ('paragraph', 'heading'):
             continue
         source = plain_text(block)
         match = SPACED_QUESTION_LABEL.match(source)
@@ -332,11 +623,15 @@ def repair_cet6_pdf_listening_questions(category, stem, page_number, blocks):
     assert sorted(found) == list(targets), (category, stem, page_number, sorted(found), targets)
 
 
-# Five 15-word banks were visually checked on their original PDF pages. The
+# Seven 15-word banks were visually checked on their original PDF pages. The
 # PDF font map reads printed O) as zero and appends it to another column; keep
 # the other 14 words untouched except the three independently checked OCR
 # spellings below.
 PDF_VERIFIED_WORD_BANKS = {
+    ('cet4', '2020-12-01', 4): ({'J': 'records 0) watching'},
+                               {'J': 'records', 'O': 'watching'}),
+    ('cet4', '2021-12-02', 4): ({'G': 'particular 0) systematically'},
+                               {'G': 'particular', 'O': 'systematically'}),
     ('cet6', '2021-06-02', 4): ({'J': 'overhaul 0) ultimately',
                                 'K': 'perm;mentlyK) permanently'},
                                {'J': 'overhaul', 'K': 'permanently', 'O': 'ultimately'}),
@@ -352,6 +647,26 @@ PDF_VERIFIED_WORD_BANKS = {
                                {'G': 'conceded', 'H': 'consciousness', 'O': 'warrant'}),
 }
 
+def repair_cet6_2019_06_01_word_bank(category, stem, page_number, blocks):
+    """Restore two PDF-verified words that the extractor left between lists."""
+    if (category, stem, page_number) != ('cet6', '2019-06-01', 3):
+        return
+    matches = [index for index, block in enumerate(blocks)
+               if block['type'] == 'paragraph' and plain_text(block) == 'C clinical K) ration']
+    assert len(matches) == 1, (category, stem, page_number, matches)
+    index = matches[0]
+    before, after = blocks[index - 1], blocks[index + 1]
+    assert before['type'] == after['type'] == 'options'
+    assert [item['label'] for item in before['items']] == ['A', 'B', 'I', 'J']
+    assert [item['label'] for item in after['items']] == list('DEFGHLMNO')
+    items = before['items'] + after['items'] + [
+        {'label': label, 'runs': [{'text': word, 'flags': [False, False, False]}]}
+        for label, word in [('C', 'clinical'), ('K', 'ration')]
+    ]
+    items.sort(key=lambda item: item['label'])
+    assert [item['label'] for item in items] == list('ABCDEFGHIJKLMNO')
+    blocks[index - 1:index + 2] = [{'type': 'options', 'items': items}]
+
 def repair_pdf_verified_word_bank(category, stem, page_number, blocks):
     case = (category, stem, page_number)
     if case not in PDF_VERIFIED_WORD_BANKS:
@@ -365,10 +680,20 @@ def repair_pdf_verified_word_bank(category, stem, page_number, blocks):
         label = item['label']
         if label not in before:
             continue
-        assert plain_text(item) == before[label] and len(item['runs']) == 1, (case, label)
-        item['runs'][0]['text'] = after[label]
-    items.append({'label': 'O', 'runs': [{'text': after['O'],
-                                       'flags': [False, False, False]}]})
+        assert plain_text(item) == before[label], (case, label)
+        if case == ('cet4', '2021-12-02', 4) and label == 'G':
+            assert [run['text'] for run in item['runs']] == [
+                'particular', ' ', '0) systematically']
+            item['runs'] = [{**item['runs'][0], 'text': after[label]}]
+        elif case == ('cet4', '2020-12-01', 4) and label == 'J':
+            assert [run['text'] for run in item['runs']] == [
+                'records', ' ', '0) watching']
+            item['runs'] = [{**item['runs'][0], 'text': after[label]}]
+        else:
+            assert len(item['runs']) == 1, (case, label)
+            item['runs'][0]['text'] = after[label]
+    flags = [True, False, False] if case == ('cet4', '2020-12-01', 4) else [False, False, False]
+    items.append({'label': 'O', 'runs': [{'text': after['O'], 'flags': flags}]})
 
 
 def repair_pdf_verified_question_boundaries(category, stem, page_number, blocks):
@@ -376,12 +701,19 @@ def repair_pdf_verified_question_boundaries(category, stem, page_number, blocks)
     for (paper_category, paper_stem, pn, _), (old, new) in PDF_VERIFIED_SPACED_QUESTION_NUMBERS.items():
         if (category, stem, page_number) != (paper_category, paper_stem, pn):
             continue
-        matches = [block for block in blocks if block['type'] == 'paragraph' and plain_text(block) == old]
+        # A PDF line-wrap repair may have already joined the short final line
+        # of this exact printed question.  Keep it when promoting the label.
+        expected_joined = (old + ' of its convenience.'
+                           if (category, stem, page_number) == ('cet6', '2020-09-02', 4)
+                           else old)
+        matches = [block for block in blocks if block['type'] == 'paragraph'
+                   and plain_text(block) in {old, expected_joined}]
         assert len(matches) == 1, (category, stem, page_number, old)
         block = matches[0]
-        assert len(block['runs']) == 1
+        original_text = plain_text(block)
         block['type'] = 'question'
-        block['runs'][0]['text'] = new
+        block['runs'] = [{'text': new + original_text[len(old):],
+                          'flags': [False, False, False]}]
 
     if (category, stem, page_number) == ('cet6', '2020-12-01', 6):
         old = ('44 .. Agriculture proves very difficult to quantify because of the '
@@ -452,11 +784,38 @@ def repair_pdf_verified_tail_choices(category, stem, page_number, blocks):
             'are fearful about using the cellphone or computer '
             'AD) can hardly tear themselves away from the Internet')
         last['runs'][0]['text'] = 'are fearful about using the cellphone or computer'
-        # The PDF really prints "AD)" on a separate line. Keep that source
-        # label distinct, without manufacturing a normal D choice.
-        blocks.insert(index + 2, {'type': 'paragraph', 'runs': [
-            {'text': 'AD) can hardly tear themselves away from the Internet',
+        # The fourth printed line says "AD)", not "D)". Preserve that label
+        # in source metadata while indexing its position as choice D.
+        group['items'].append({'label': 'D', 'source_label': 'AD)', 'runs': [
+            {'text': 'can hardly tear themselves away from the Internet',
              'flags': [False, False, False]}]})
+
+    if case == ('cet6', '2015-12-01', 7):
+        question_text = 'What do some most influential medical groups recommend doctors do?'
+        matches = [i for i, block in enumerate(blocks)
+                   if block['type'] == 'question' and plain_text(block) == (
+                       '56. Reflect on the responsibilities they are supposed to take.')]
+        assert len(matches) == 1
+        index = matches[0]
+        previous, question, group = blocks[index - 1:index + 2]
+        assert previous['type'] == 'paragraph' and len(previous['runs']) == 1
+        assert previous['runs'][0]['text'].endswith(' ' + question_text)
+        assert group['type'] == 'options' and [item['label'] for item in group['items']] == list('ABC')
+        expected = [
+            'Pay more attention to the effectiveness of their treatments.',
+            'Take costs into account when making treatment decisions.',
+            'Readjust their practice in view of the cuts in health care.',
+        ]
+        assert [plain_text(item) for item in group['items']] == expected
+        assert blocks[index + 2]['type'] == 'question' and plain_text(blocks[index + 2]).startswith('57.')
+        previous['runs'][0]['text'] = previous['runs'][0]['text'][:-len(question_text) - 1]
+        question['runs'] = [{'text': '56. ' + question_text, 'flags': [False, False, False]}]
+        group['items'].insert(0, {'label': 'A', 'source_label': '56.', 'runs': [
+            {'text': 'Reflect on the responsibilities they are supposed to take.',
+             'flags': [False, False, False]}]})
+        for label, item in zip('BCD', group['items'][1:]):
+            item['source_label'] = item['label'] + ')'
+            item['label'] = label
 
     if case == ('cet4', '2018-06-01', 7):
         matches = [i for i, block in enumerate(blocks)
@@ -465,21 +824,31 @@ def repair_pdf_verified_tail_choices(category, stem, page_number, blocks):
                        'profit-driven just like the textbook')]
         assert len(matches) == 1
         index = matches[0]
-        merged, remainder, false_option = blocks[index + 1:index + 4]
-        assert merged['type'] == remainder['type'] == 'paragraph'
-        assert [run['text'] for run in merged['runs']] == [
-            'business.Section C ', 'Directions:',
-            ' There are 2 passages in this section. Each passage is followed by some questions']
-        assert plain_text(remainder) == (
-            'or unfinished statements. For each of them there are four choices marked A), B), C) and')
+        merged = blocks[index + 1]
+        assert merged['type'] == 'paragraph'
+        expected_opening = ('business.Section C Directions: There are 2 passages in this section. '
+                            'Each passage is followed by some questions')
+        expected_tail = ('or unfinished statements. For each of them there are four choices '
+                         'marked A), B), C) and')
+        if plain_text(merged).endswith(expected_tail):
+            assert plain_text(merged).startswith(expected_opening)
+            direction_runs = merged['runs'][1:]
+            false_option = blocks[index + 2]
+            removed = 2
+        else:
+            remainder = blocks[index + 2]
+            assert plain_text(merged) == expected_opening
+            assert remainder['type'] == 'paragraph' and plain_text(remainder) == expected_tail
+            direction_runs = merged['runs'][1:] + [
+                {'text': ' ', 'flags': [False, False, True]}] + remainder['runs']
+            false_option = blocks[index + 3]
+            removed = 3
         assert false_option['type'] == 'options' and [item['label'] for item in false_option['items']] == ['D']
         assert plain_text(false_option['items'][0]).startswith('. You should decide on the best choice')
-        assert blocks[index + 4]['type'] == 'heading' and plain_text(blocks[index + 4]) == 'Passage One'
+        assert blocks[index + 1 + removed]['type'] == 'heading' and plain_text(blocks[index + 1 + removed]) == 'Passage One'
         blocks[index]['runs'][0]['text'] += ' business.'
-        direction_runs = merged['runs'][1:] + [
-            {'text': ' ', 'flags': [False, False, True]}] + remainder['runs'] + [
-            {'text': ' D)', 'flags': [False, False, True]}] + false_option['items'][0]['runs']
-        blocks[index + 1:index + 4] = [
+        direction_runs += [{'text': ' D)', 'flags': [False, False, True]}] + false_option['items'][0]['runs']
+        blocks[index + 1:index + 1 + removed] = [
             {'type': 'heading', 'runs': [{'text': 'Section C', 'flags': [True, False, False]}]},
             {'type': 'instruction', 'runs': direction_runs},
         ]
@@ -653,7 +1022,7 @@ PDF_VERIFIED_OPTION_REPAIRS = {
         {'C': 'When it is indispensable to humans’ subsistence.'}, None),
     ('cet4', '2020-12-02', 3, 25): (
         '25.', [('options', 'AC'),
-                ('source_line', '�� �� ��������� �o�� ��cessa�� ��������� D) It supplies the body with enough calories.')],
+                ('source_line', '�� �� ��������� ���� ��������� ��������� D) It supplies the body with enough calories.')],
         {'B': 'It provides some necessary nutrients.',
          'D': 'It supplies the body with enough calories.'}, None),
     ('cet6', '2016-06-03', 8, 53): (
@@ -697,22 +1066,13 @@ def repair_pdf_verified_options(category, stem, page_number, blocks):
         ]
 
 def repair_cet4_2020_12_01_listening_image(category, stem, page_number, blocks):
-    """Transcribe the PDF-verified 12–15 choices from one corrupt text-map crop."""
+    """Restore printed 12–15 choices left in corrupt PDF text-map crops."""
     if (category, stem, page_number) != ('cet4', '2020-12-01', 2):
         return
     starts = [i for i, block in enumerate(blocks)
               if block['type'] == 'question' and plain_text(block) == '12.']
     assert len(starts) == 1
     index = starts[0]
-    first, crop = blocks[index + 1:index + 3]
-    assert first['type'] == 'options' and len(first['items']) == 1
-    assert first['items'][0]['label'] == 'A'
-    assert plain_text(first['items'][0]) == 'She is a real expert at house decorations.'
-    assert crop['type'] == 'source_line'
-    assert all(abs(actual - expected) < .15 for actual, expected in zip(
-        crop['bbox'], [44.68, 350.24, 511.29, 542.02]))
-    assert hashlib.sha256(plain_text(crop).encode()).hexdigest() == (
-        'd474d60abc5d679e9db6d421488d2f1b0f4f4ab133a0a6a4a9521504c9b852e2')
 
     def options(values):
         return {'type': 'options', 'items': [
@@ -744,6 +1104,37 @@ def repair_cet4_2020_12_01_listening_image(category, stem, page_number, blocks):
              'She wants to discuss the house decoration budget with him.',
              'She wants him to share his renovation experience with her.'),
     }
+    first = blocks[index + 1]
+    if first['type'] == 'options' and [item['label'] for item in first['items']] == list('ABCD'):
+        # The improved extractor reads Q12, Q14 and Q15 directly. Only Q13's
+        # B/D row still has a broken PDF text map, retained in this crop.
+        for number, offset in ((12, 0), (13, 2), (14, 5), (15, 7)):
+            question_block = blocks[index + offset]
+            option_block = blocks[index + offset + 1]
+            assert question_block['type'] == 'question' and plain_text(question_block) == f'{number}.'
+            assert option_block['type'] == 'options'
+            expected = 'AC' if number == 13 else 'ABCD'
+            assert ''.join(item['label'] for item in option_block['items']) == expected
+            assert [plain_text(item) for item in option_block['items']] == [
+                groups[number]['ABCD'.index(label)] for label in expected]
+        crop = blocks[index + 4]
+        assert crop['type'] == 'source_line'
+        assert all(abs(actual - expected) < .15 for actual, expected in zip(
+            crop['bbox'], [65.50, 419.68, 511.29, 438.83]))
+        assert hashlib.sha256(plain_text(crop).encode()).hexdigest() == (
+            '50c48bb621769c36bfff52b176b72d26f94d50b614f055c49604a3efe4fd8588')
+        blocks[index + 3] = options(groups[13])
+        return
+
+    crop = blocks[index + 2]
+    assert first['type'] == 'options' and len(first['items']) == 1
+    assert first['items'][0]['label'] == 'A'
+    assert plain_text(first['items'][0]) == groups[12][0]
+    assert crop['type'] == 'source_line'
+    assert all(abs(actual - expected) < .15 for actual, expected in zip(
+        crop['bbox'], [44.68, 350.24, 511.29, 542.02]))
+    assert hashlib.sha256(plain_text(crop).encode()).hexdigest() == (
+        'd7ce68a9ddfac40b5689eab4e0c6d52969b6f105282a549ff7c802484d2955c3')
     replacement = [options(groups[12])]
     for number in (13, 14, 15):
         replacement.extend((question(number), options(groups[number])))
@@ -752,13 +1143,22 @@ def repair_cet4_2020_12_01_listening_image(category, stem, page_number, blocks):
 def make_paper(entry):
     src=source_pdf(entry);assert sha(src)==entry['source_pdf_sha256']
     category=entry['category'];stem=Path(entry['file']).stem
+    if (category,stem)==('cet4','2020-12-01'):
+        # The rendered PDF prints separate J) records and O) watching on p4;
+        # this exact archived file is the evidence for splitting the OCR merge.
+        assert entry['source_pdf_sha256']=='5ae3d9b5333e3cf3d02922dc4bc329e016dd2c3738307fe12a525a4e55535f37'
     target=ROOT/category/'papers'/f'{stem}.htm';target.parent.mkdir(parents=True,exist_ok=True)
     assets=target.with_suffix('.assets');assets.mkdir(exist_ok=True)
     doc=fitz.open(src);sections=[];tex=[];pages=[];glyphs=0;figure_total=0
     for pn,page in enumerate(doc,1):
         unknown=source_chars(page)
-        data=extract(page,unknown_glyphs=unknown)
+        data=extract(page,unknown_glyphs=unknown,
+                     broad_source_blocks=(category,stem,pn) in RECOVERY_CASES)
         data['blocks']=prepare(data['blocks'],page)
+        repair_pdf_verified_dotted_option_labels(category, stem,
+                                                 entry['source_pdf_sha256'], pn,
+                                                 data['blocks'], page.get_text())
+        recover_image_writing(category, stem, pn, data['blocks'], page)
         if category=='cet4' and stem=='2015-06-01' and pn==1:
             restore_cet4_2015_06_01_page_one(data['blocks'])
         if category=='cet4' and stem=='2015-06-02' and pn==1:
@@ -767,22 +1167,33 @@ def make_paper(entry):
             restore_cet6_2014_12_01_page_one(data['blocks'])
         if category=='cet6' and stem=='2014-12-03' and pn==1:
             restore_cet6_2014_12_03_page_one(data['blocks'])
+        if category=='cet4' and stem=='2015-12-03' and pn==1:
+            restore_cet4_2015_12_03_listening_start(data['blocks'])
+        if category=='kaoyan' and stem=='2012-02' and pn==1:
+            restore_kaoyan_2012_02_gi_joe(data['blocks'])
         repair_figure_crops(category, stem, pn, data['blocks'])
         repair_split_option_labels(category, stem, pn, data['blocks'])
         repair_cet4_matching_questions(category, stem, pn, data['blocks'])
         repair_pdf_verified_question_boundaries(category, stem, pn, data['blocks'])
         repair_pdf_verified_additional_question_labels(category, stem, pn, data['blocks'])
+        repair_pdf_verified_question_continuations(category, stem, pn, data['blocks'])
+        repair_cet6_2015_06_01_question_46(category, stem, pn, data['blocks'])
         repair_cet6_pdf_listening_questions(category, stem, pn, data['blocks'])
         recover_image_questions(category, stem, pn, data['blocks'],
                                 ROOT.parent/'english-exams-web-2026-09-26'/entry['file'])
         repair_pdf_verified_tail_choices(category, stem, pn, data['blocks'])
         repair_pdf_verified_options(category, stem, pn, data['blocks'])
+        repair_cet6_2019_06_01_word_bank(category, stem, pn, data['blocks'])
         repair_pdf_verified_word_bank(category, stem, pn, data['blocks'])
         repair_cet4_2020_12_01_listening_image(category, stem, pn, data['blocks'])
+        repair_pdf_verified_chinese_ocr(category, stem, pn, data['blocks'])
+        repair_pdf_verified_soft_wraps(category, stem, pn, data['blocks'])
+        repair_cet_cloze_false_underlines(category, stem, pn, data['blocks'])
         rendered=[];textblocks=[];pageglyph=0
         note_pending=any(b['type']=='source_line' for b in data['blocks'])
         plain_text_end=''.join(r['text'] for r in pages[-1]['blocks'][-1].get('runs',[])).rstrip() if pages and pages[-1]['blocks'] else ''
         for bi,b in enumerate(data['blocks']):
+            block_id=source_block_id(pn,bi)
             for rs in ([] if b['type']=='source_line' else [b['runs']] if 'runs'in b else [item['runs'] for item in b.get('items',[])]):
                 for r in rs:
                     if r.get('glyph_box'):
@@ -804,8 +1215,7 @@ def make_paper(entry):
                 rendered.append(f'<figure class="flowchart" style="width:{fitz.Rect(b["bbox"]).width/12:.3f}em"><img src="{assets.name}/{name}.svg" alt="'+e(' → '.join(b['tokens']))+'"></figure>')
                 tex.append(r'\begin{center}\includegraphics[width=\linewidth]{'+assets.name+'/'+name+r'.pdf}\end{center}')
             elif b['type']=='choice_row':
-                cells='<span class="choice-number">'+htmlruns(b['runs'])+'</span>'+''.join('<span class="choice-item"><strong>'+e(item['label'])+'.</strong> '+htmlruns(item['runs'])+'</span>' for item in b['items'])
-                rendered.append('<div class="choice-scroll"><div class="choice-row">'+cells+'</div></div>')
+                rendered.append(html_choice_row_block(b,block_id))
                 tex.append(r'\noindent\begin{tabularx}{\linewidth}{@{}lXXXX@{}}'+texruns(b['runs'])+' & '+' & '.join(r'\textbf{'+x['label']+'.} '+texruns(x['runs']) for x in b['items'])+r'\\\end{tabularx}\par')
             elif b['type']=='caption':
                 caption='<figcaption>'+htmlruns(b['runs'])+'</figcaption>'
@@ -819,22 +1229,25 @@ def make_paper(entry):
                 rendered.append(f'<figure><img src="{assets.name}/{name}.svg" alt="原卷图表" loading="lazy"></figure>')
                 tex.append(r'\begin{center}\includegraphics[width=.85\linewidth,height=.55\textheight,keepaspectratio]{'+assets.name+'/'+name+r'.png}\end{center}')
             elif b['type']=='options':
-                long=any(sum(len(r['text']) for r in item['runs'])>85 for item in b['items'])
-                rendered.append('<ul class="options'+(' single' if long else '')+'">'+''.join('<li><span class="option-label">'+e(item['label'])+'.</span><span>'+htmlruns(item['runs'])+'</span></li>' for item in b['items'])+'</ul>')
+                rendered.append(html_options_block(b,block_id))
                 tex.append(r'\begin{itemize}[leftmargin=2em,itemsep=.2em,topsep=.4em]'+''.join(r'\item['+item['label']+'.] '+texruns(item['runs'])+'\n' for item in b['items'])+r'\end{itemize}')
             else:
                 tag='h2' if b['type']=='heading' else 'p'
                 value=texruns(b['runs']).rstrip()
+                marker=source_block_marker(block_id) if b['type'] in {'paragraph','instruction','heading','question'} else ''
+                block_html=(cet4_2017_06_02_cloze_28_html(b['runs'])
+                            if category=='cet4' and stem=='2017-06-02' and pn==5 and bi==6
+                            else htmlruns(b['runs']))
                 join=(bi==0 and pages and pages[-1]['blocks'] and not note_pending
                     and continues_paragraph(pages[-1]['blocks'][-1],b)
                     and sections[-1].endswith('</p></section>'))
                 if join:
                     separator='' if plain_text_end.endswith('-') else ' '
-                    sections[-1]=sections[-1][:-14]+separator+f'<span data-source-page="{pn}">'+htmlruns(b['runs'])+'</span></p></section>'
+                    sections[-1]=sections[-1][:-14]+separator+f'<span data-source-page="{pn}">'+block_html+'</span>'+marker+'</p></section>'
                     tex[-1]=tex[-1].rstrip()+separator+value+'\n'
                     b['continues_previous_page']=True
                 else:
-                    rendered.append(f'<{tag} class="{b["type"]}">'+htmlruns(b['runs'])+f'</{tag}>')
+                    rendered.append(f'<{tag} class="{b["type"]}">'+block_html+marker+f'</{tag}>')
                     tex.append((r'\subsection*{'+value+'}' if tag=='h2' else value)+'\n')
         note=f'<p class="notice">本页部分文字层异常，已保留原图文字区域；这些区域随窗口缩放，暂不能重新换行或复制。</p>' if pageglyph else ''
         sections.append(f'<section data-source-page="{pn}">{note}'+''.join(rendered)+'</section>')
@@ -842,7 +1255,8 @@ def make_paper(entry):
     title=entry['title'];shared=''
     if entry.get('shared_with_second_paper'):
         second=stem.rsplit('-',1)[0]+'-02.htm';shared=f'<p class="notice">原资料只提供本套的独立部分，其余题目与第 2 套共用。<a href="{second}">打开第 2 套</a></p>'
-    body='<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+e(title)+'</title><link rel="stylesheet" href="../../style.css"></head><body><header><a href="../index.htm">← 分类目录</a><h1>'+e(title)+'</h1><p>文字重排 · 随窗口自动换行 · 可选中复制 · 离线阅读</p><nav><a href="'+stem+'.tex" download>下载 LaTeX 源码</a><a href="'+stem+'.json" download>下载结构化文本</a></nav>'+shared+'</header><main class="paper">'+''.join(sections)+'</main><footer>图表保留独立原图；不含听力音频及付费解析。</footer></body></html>'
+    translation_sidecar=f'../../../exam-library/structured/translations/{category}/{stem}.json'
+    body='<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+e(title)+'</title><link rel="stylesheet" href="../../style.css"></head><body><header><a href="../index.htm">← 分类目录</a><h1>'+e(title)+'</h1><p>文字重排 · 随窗口自动换行 · 可选中复制 · 离线阅读</p><nav><a href="'+stem+'.tex" download>下载 LaTeX 源码</a><a href="'+stem+'.json" download>下载结构化文本</a></nav>'+shared+'</header><main class="paper" data-paper-id="'+e(f'{category}:{stem}')+'" data-translation-sidecar="'+e(translation_sidecar)+'" data-source-json="'+e(stem+'.json')+'">'+''.join(sections)+'</main><script defer src="../../translations.js"></script><footer>图表保留独立原图；不含听力音频及付费解析。</footer></body></html>'
     write_reader(target, body)
     texdoc=r'''\documentclass[UTF8,11pt]{ctexart}
 \usepackage[a4paper,margin=22mm]{geometry}

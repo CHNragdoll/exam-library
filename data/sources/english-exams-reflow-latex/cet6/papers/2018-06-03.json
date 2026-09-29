@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -143,12 +143,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "building trust between business and consumers.",
               "flags": [
@@ -725,196 +728,211 @@
               "label": "A",
               "runs": [
                 {
-                  "text": ". amassed",
+                  "text": "amassed",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "A)."
             },
             {
               "label": "B",
               "runs": [
                 {
-                  "text": ". casual",
+                  "text": "casual",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)."
             },
             {
               "label": "C",
               "runs": [
                 {
-                  "text": ". emotional",
+                  "text": "emotional",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)."
             },
             {
               "label": "D",
               "runs": [
                 {
-                  "text": ". enabling",
+                  "text": "enabling",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "D)."
             },
             {
               "label": "E",
               "runs": [
                 {
-                  "text": ". eventually",
+                  "text": "eventually",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "E)."
             },
             {
               "label": "F",
               "runs": [
                 {
-                  "text": ". exaggerated",
+                  "text": "exaggerated",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "F)."
             },
             {
               "label": "G",
               "runs": [
                 {
-                  "text": ". extravagant",
+                  "text": "extravagant",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "G)."
             },
             {
               "label": "H",
               "runs": [
                 {
-                  "text": ". generously",
+                  "text": "generously",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "H)."
             },
             {
               "label": "I",
               "runs": [
                 {
-                  "text": ". misleading",
+                  "text": "misleading",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "I)."
             },
             {
               "label": "J",
               "runs": [
                 {
-                  "text": ". precious",
+                  "text": "precious",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "J)."
             },
             {
               "label": "K",
               "runs": [
                 {
-                  "text": ". reward",
+                  "text": "reward",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "K)."
             },
             {
               "label": "L",
               "runs": [
                 {
-                  "text": ". smart",
+                  "text": "smart",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "L)."
             },
             {
               "label": "M",
               "runs": [
                 {
-                  "text": ". sphere",
+                  "text": "sphere",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "M)."
             },
             {
               "label": "N",
               "runs": [
                 {
-                  "text": ". terrified",
+                  "text": "terrified",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "N)."
             },
             {
               "label": "O",
               "runs": [
                 {
-                  "text": ". venture",
+                  "text": "venture",
                   "flags": [
                     false,
                     true,
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "O)."
             }
           ]
         },
@@ -1043,7 +1061,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "In the real world, nobody cares that you went to an Ivy League school",
@@ -1354,12 +1372,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "university to attend.",
               "flags": [
@@ -1380,12 +1401,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "they attended.",
               "flags": [
@@ -1445,12 +1469,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "activities and attended test preparation courses.",
               "flags": [
@@ -1907,12 +1934,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "consumption per person？",
               "flags": [
@@ -2747,12 +2777,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "should write your answer on",
               "flags": [
@@ -2783,59 +2816,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "自行车曾经是中国城乡最主要的交通工具，中国一度被称为“自行车王国”。如今，随着城市交",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "通拥堵和空气污染日益严重，骑自行车又开始起来。近来，中国企业家将移动互联网技术与传统自行",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "车结合在一起，发明了一种称为共享单车（shared bikes）的商业模式。共享单车的出现使骑车出行",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "更加方便，人们仅需一部手机就可以随时使用共享单车。为了鼓励人们骑车出行，很多城市修建了自",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "行车道。现在，越来越多的中国人也喜欢通过骑车健身。",
+              "text": "自行车曾经是中国城乡最主要的交通工具，中国一度被称为“自行车王国”。如今，随着城市交通拥堵和空气污染日益严重，骑自行车又开始起来。近来，中国企业家将移动互联网技术与传统自行车结合在一起，发明了一种称为共享单车（shared bikes）的商业模式。共享单车的出现使骑车出行更加方便，人们仅需一部手机就可以随时使用共享单车。为了鼓励人们骑车出行，很多城市修建了自行车道。现在，越来越多的中国人也喜欢通过骑车健身。",
               "flags": [
                 false,
                 false,

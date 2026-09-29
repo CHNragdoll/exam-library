@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2013 年全国硕士研究生招生考试英语（二）",
@@ -1964,32 +1964,15 @@
           "items": [
             {
               "label": "G",
-              "runs": []
-            },
-            {
-              "label": "I",
               "runs": [
                 {
-                  "text": "Bill for the 21st century that ensures that every American has access to post-high",
+                  "text": "I.Bill for the 21st century that ensures that every American has access to post-high school education.",
                   "flags": [
                     false,
                     false,
                     false
                   ]
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "school education.",
-              "flags": [
-                false,
-                false,
-                false
               ]
             }
           ]
@@ -2240,7 +2223,7 @@
               "label": "A",
               "runs": [
                 {
-                  "text": "to accelerate the",
+                  "text": "to accelerate the I.T. revolution.",
                   "flags": [
                     false,
                     false,
@@ -2280,19 +2263,6 @@
               "runs": [
                 {
                   "text": "to pass more bills in the 21st century.",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "I",
-              "runs": [
-                {
-                  "text": "T. revolution.",
                   "flags": [
                     false,
                     false,

@@ -11,6 +11,7 @@ import json
 import os
 import re
 from collections import Counter, defaultdict
+from urllib.parse import quote
 
 from bs4 import BeautifulSoup
 
@@ -18,6 +19,7 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT.parent
 MARKERS = re.compile(r'<!-- exam-ui:(head|body) -->.*?<!-- /exam-ui:\1 -->', re.S)
 _cache = (None, {})
+ENGLISH_CATEGORIES = frozenset({'kaoyan', 'cet4', 'cet6', 'tem4', 'tem8'})
 
 
 def sha(data):
@@ -262,6 +264,8 @@ def registry():
                 'alternateHref': rel(alternate),
                 'alternateLabel': 'SVG 原版' if other == 'svg' else 'LaTeX 重排',
             }
+            if item['kind'] in {'questions', 'complete'}:
+                config['fullPaperHref'] = f"{rel(ROOT / 'practice/full-paper.htm')}?paper={quote(item['id'], safe='')}"
             if mode == 'reflow':
                 structured = ROOT / 'structured/papers' / item['category'] / (target.stem + '.json')
                 if structured.exists():
@@ -327,6 +331,7 @@ def enhance_html(content, target):
     head = ('<!-- exam-ui:head -->'
             f'<link rel="stylesheet" href="{rel("tokens.css")}">'
             f'<link rel="stylesheet" href="{rel("reader.css")}">'
+            f'<link rel="stylesheet" href="{rel("material.css")}">'
             f'<link rel="stylesheet" href="{rel("code-highlight.css")}">'
             f'<link rel="stylesheet" href="{rel("answers.css")}">'
             '<!-- /exam-ui:head -->')
@@ -384,8 +389,47 @@ def update_manifest(folder, changed):
     return count
 
 
+def enhance_selected_readers(categories):
+    """Refresh selected readers after their structured papers are rebuilt.
+
+    A standalone source generator cannot know whether the existing structured
+    paper is current. Run this after building the structured papers, so the
+    embedded navigation and answer metadata come from the same generation.
+    Only selected source HTML and corresponding source manifests are written;
+    unrelated subjects, structured papers, and the database are not.
+    """
+    categories = set(categories)
+    if not categories:
+        raise ValueError('select at least one category')
+    records = {target: config for target, config in registry().items()
+               if config['category'] in categories}
+    found = {config['category'] for config in records.values()}
+    if found != categories:
+        raise ValueError(f'unknown or missing categories: {sorted(categories - found)}')
+    changed = {}
+    updated = 0
+    for target in records:
+        before = target.read_text(encoding='utf-8')
+        after = enhance_html(before, target)
+        assert strip_ui(after) == strip_ui(before), target
+        assert enhance_html(after, target) == after, ('not idempotent', target)
+        if after != before:
+            target.write_text(after, encoding='utf-8')
+            updated += 1
+        changed[target] = sha(after.encode('utf-8'))
+    manifests = 0
+    for folder in sorted({SOURCES / target.relative_to(SOURCES).parts[0]
+                          for target in changed}):
+        count = update_manifest(folder, changed)
+        expected = sum(target.is_relative_to(folder) for target in changed)
+        assert count == expected, ('unrecorded reader hash', folder, count, expected)
+        manifests += count
+    return {'readers': len(records), 'updated': updated,
+            'manifestHashesUpdated': manifests}
+
+
 def enhance_all(check_baseline=False):
-    required = [ROOT / 'ui' / name for name in ['tokens.css', 'reader.css', 'reader.js', 'code-highlight.css', 'code-highlight.js', 'answers.css', 'answers.js', 'answer-math.js', 'vendor/mathjax-3.2.2-tex-svg-full.js', 'technical-subquestions.js']]
+    required = [ROOT / 'ui' / name for name in ['tokens.css', 'reader.css', 'material.css', 'reader.js', 'code-highlight.css', 'code-highlight.js', 'answers.css', 'answers.js', 'answer-math.js', 'vendor/mathjax-3.2.2-tex-svg-full.js', 'technical-subquestions.js']]
     if not all(p.exists() for p in required):
         return {'status': 'waiting-for-reader-assets'}
     records = registry()
@@ -427,4 +471,11 @@ def enhance_all(check_baseline=False):
 
 if __name__ == '__main__':
     import sys
-    enhance_all(check_baseline='--verify-baseline' in sys.argv)
+    if '--english-only' in sys.argv:
+        if len(sys.argv) != 2:
+            raise SystemExit('usage: enhance_readers.py --english-only')
+        result = enhance_selected_readers(ENGLISH_CATEGORIES)
+        assert result['readers'] == 412, result
+        print('English reader shell:', result)
+    else:
+        enhance_all(check_baseline='--verify-baseline' in sys.argv)

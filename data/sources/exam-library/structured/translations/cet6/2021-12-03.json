@@ -1,0 +1,3340 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2021-12-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+  "sourcePdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+  "paragraphs": [
+    {
+      "id": "cet6:2021-12-03:p:b-1-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay related to the short",
+      "sourceHash": "e29312faa59f540764a02fd662dffdc77d1f7f45d4212be86dfb15e97e9c4c86",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇与短文相关的文章",
+      "source": {
+        "blockIds": [
+          "b-1-2"
+        ],
+        "reflowBlockIds": [
+          "b-1-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "passage given below. In your essay, you are to comment on the phenomenon described in the",
+      "sourceHash": "c3f6fe12738f374efbe522802d659618803974e5046feeeb6bbe02463a5a69b0",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "下面给出的段落。在你的论文中，你要评论文章中描述的现象",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "passage and suggest measures to address the issue. You should write at least 150 words but no",
+      "sourceHash": "f63a961b1b1b806fc477264e0e8e26a28d472d4e0fce76763d021bb6158d55e3",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "并提出解决问题的措施。您应该写至少 150 个字，但不可以",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "writing_prompt",
+      "sourceText": "more than 200 words.",
+      "sourceHash": "d1e3d1389a4a68f86efa3dc558ede93c5808321c8b9cf646d5f65ceb0ca0e1fd",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-5"
+        ],
+        "reflowBlockIds": [
+          "b-1-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-6",
+      "paperId": "cet6:2021-12-03",
+      "kind": "writing_prompt",
+      "sourceText": "Some parents in China are overprotective of their children. They plan everything for their children, make all the decisions for them, and do not allow them to explore on their own in case they make mistakes or get hurt.",
+      "sourceHash": "8174f1d3e1b8eb4c8acda58613642e37c5a83749ffd9cb8f6f114968c641a13e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "中国的一些父母对孩子过度保护。他们为孩子计划一切，为孩子做出所有决定，不允许孩子自己探索，以免孩子犯错或受到伤害。",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-13",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer sheet 2.",
+      "sourceHash": "274d1e23b4dc1456e2387e12fcaf0aec45bda7427db9ef337cd351ee4fb9fd96",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-14",
+      "paperId": "cet6:2021-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Why facts don't change our minds",
+      "sourceHash": "a4d8817cfddd87b5890f150e0d8342957138349189456d1598270befb105726a",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为什么事实不会改变我们的想法",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-15",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) The economist J. K. Galbraith once wrote, \"Faced with a choice between changing one's mind and proving there is no need to do so, almost everyone gets busy with the proof.\"",
+      "sourceHash": "229a4b06c01d0b27380f8f70ef448ee672c2bbc9bf37da0ad7f7a8b30fba46f6",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 经济学家 J.K. 加尔布雷斯 (J.K. Galbraith) 曾经写道：“面对改变主意和证明没有必要这样做之间的选择，几乎每个人都忙于证明。”",
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-16",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) Leo Tolstoy was even bolder: \"The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of a doubt, what is laid before him.\"",
+      "sourceHash": "a513020ae13dac18b7675d0d192219c950abb20b7dbbdfe6ba9f0cdd4c1a23be",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B）列夫·托尔斯泰甚至更大胆：“如果最迟钝的人还没有形成任何想法，那么最困难的事情也可以向最迟钝的人解释清楚；但是，如果最聪明的人坚信自己已经毫无疑问地知道摆在他面前的事情，那么最简单的事情也无法向最聪明的人解释清楚。”",
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-17",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) What's going on here? Why don't facts change our minds? And why would someone continue to believe a false or inaccurate idea anyway? How do such behaviors serve us? Humans need a reasonably accurate view of the world in order to survive. If your model of reality is wildly different from the actual world, then you struggle to take effective actions each day. However, truth and accuracy are not the only things that matter to the human mind. Humans also seem to have a deep desire to belong.",
+      "sourceHash": "7b0f8a7db8a9524357ec7c379d41ce931629e70c8223f3a93e0f9b8ceee70925",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 这是怎么回事？为什么事实不能改变我们的想法？为什么有人会继续相信错误或不准确的想法？这些行为对我们有什么帮助？为了生存，人类需要对世界有相当准确的看法。如果你的现实模型与现实世界有很大不同，那么你每天都很难采取有效的行动。然而，真实性和准确性并不是人类大脑唯一关心的事情。人类似乎也有强烈的归属感。",
+      "source": {
+        "blockIds": [
+          "b-1-17"
+        ],
+        "reflowBlockIds": [
+          "b-1-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-1-18",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) In Atomic Habits, I wrote, \"Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers. Such inclinations are essential to our survival. For most of our evolutionary history, our ancestors lived in tribes. Becoming separated from the tribe-or worse, being cast out-was a death sentence.\"",
+      "sourceHash": "c1d1fd43bc82409566209739dc9d45612eefda4fa1279fcbd0108d2ae1f32307",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-1-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-1-18",
+        "cet6:2021-12-03:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 在《原子习惯》一书中，我写道：“人类是群居动物。我们想要融入他人，与他人建立联系，并赢得同龄人的尊重和认可。这种倾向对于我们的生存至关重要。在我们进化史上的大部分时间里，我们的祖先生活在部落中。与部落分离——或者更糟糕的是，被驱逐——就等于被判了死刑。”",
+      "source": {
+        "blockIds": [
+          "b-1-18"
+        ],
+        "reflowBlockIds": [
+          "b-1-18",
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1",
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) Understanding the truth of a situation is important, but so is remaining part of a tribe. While these two desires often work well together, they occasionally come into conflict. In many circumstances, social connection is actually more helpful to your daily life than understanding the truth of a particular fact or idea. The Harvard psychologist Steven Pinker put it this way, \"People are embraced or condemned according to their beliefs, so one function of the mind may be to hold beliefs that bring the belief- holder the greatest number of allies, protectors, or disciples (信徒), rather than beliefs that are most likely to be true.\"",
+      "sourceHash": "4910f69a417b2515e54542759f0731505292c6413a0164f03a2c81bf3e13e317",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 了解情况的真相很重要，但留在部落中也很重要。虽然这两种愿望常常能够很好地结合在一起，但它们偶尔也会发生冲突。在许多情况下，社交联系实际上比了解特定事实或想法的真相对您的日常生活更有帮助。哈佛大学心理学家史蒂文·平克这样说：“人们根据自己的信仰受到欢迎或谴责，因此心灵的一个功能可能是持有能够为信仰者带来最多数量的盟友、保护者或信徒的信仰，而不是最有可能为真的信仰。”",
+      "source": {
+        "blockIds": [
+          "b-2-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) We don't always believe things because they are correct. Sometimes we believe things because they make us look good to the people we care about. I thought Kevin Simler put it well when he wrote, \"If a brain anticipates that it will be rewarded for adopting a particular belief, it's perfectly happy to do so, and doesn't much care where the reward comes from- whether it's pragmatic (实用主义的) (better outcomes resulting from better decisions), social (better treatment from one's peers), or some mix of the two.\"",
+      "sourceHash": "85fe661dffaf81d17751743e389885767f1d05f153dca97c6bbd9eb39c0e9886",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 我们并不总是因为事情是正确的而相信它们。有时我们相信一些事情是因为它们让我们在我们关心的人面前看起来很好。我认为凯文·西姆勒（Kevin Simler）写得很好，“如果一个大脑预期它会因采用某种特定信念而得到奖励，那么它会非常乐意这样做，并且不太关心奖励来自哪里——无论是实用主义的（更好的决策带来更好的结果），社会性的（来自同龄人的更好的待遇），还是两者的某种混合。”",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) False beliefs can be useful in a social sense even if they are not useful in a factual sense. For lack of a better phrase, we might call this approach \"factually false, but socially accurate.\" When we have to choose between the two, people often select friends and family over facts. This insight not only explains why we might hold our tongue at a dinner party or look the other way when our parents say something offensive, but also reveals a better way to change the minds of others.",
+      "sourceHash": "f531df3ccb1b8982f723c6486324899cfc5852d2c39dad3b1ad7f7c1f46973c1",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 错误信念在社会意义上可能有用，即使它们在事实意义上没有用。由于缺乏更好的措辞，我们可能会称这种方法“事实上是错误的，但在社会上是准确的”。当我们必须在两者之间做出选择时，人们通常会选择朋友和家人而不是事实。这一见解不仅解释了为什么我们在晚宴上会保持沉默，或者当父母说一些冒犯性的话时，我们会闭嘴，而且还揭示了改变他人想法的更好方法。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) Convincing someone to change their mind is really the process of convincing them to change their tribe. If they abandon their beliefs, they run the risk of losing social ties. You can't expect someone to change their mind if you take away their community too. You have to give them somewhere to go. Nobody wants their worldview tom apart if loneliness is the outcome.",
+      "sourceHash": "a7b3fd6d4ee64712e642da1bd2baa7794141dde70540c624987f7b2d087b9a53",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 说服某人改变主意实际上是说服他们改变部落的过程。如果他们放弃自己的信仰，他们就有失去社会联系的风险。如果你也剥夺了他们的社区，你就不能指望他们会改变主意。你必须给他们一个地方可以去。如果结果是孤独，没有人愿意自己的世界观被打破。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-6",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) The way to change people's minds is to become friends with them, to integrate them into your tribe, to bring them into your circle. Now, they can change their beliefs without the risk of being abandoned socially.",
+      "sourceHash": "057af3d9f86addff23f7f9a49c1b31a88342d4c9768e0ee20175ba72546b09d4",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 改变人们想法的方法是与他们成为朋友，将他们融入你的部落，将他们带入你的圈子。现在，他们可以改变自己的信仰，而不必冒被社会抛弃的风险。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-7",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) Perhaps it is not difference, but distance, that breeds tribalism and hostility. As proximity increases, so does understanding. lam reminded of Abraham Lincoln's quote, \"I don't like that man. I must get to know him better.\"",
+      "sourceHash": "90efde11db215ea195b1f123376dfe14347612d901eb9671ac05d37abff94228",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 也许不是差异，而是距离，滋生了部落主义和敌意。随着距离的增加，理解也随之增加。林想起了亚伯拉罕·林肯的名言：“我不喜欢那个人。我必须更好地了解他。”",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-2-8",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Facts don't change our minds. Friendship does. Years ago, Ben Casnocha mentioned an idea to me that I haven't been able to shake: The people who are most likely to change our minds are the ones we agree with on 98 percent of topics. If someone you know, like, and trust believes a radical idea, you are more likely to give it merit, weight, or consideration. You already agree with them in most areas of life. Maybe you should change your mind on this one too. But if someone wildly different than you proposes the same radical idea, well, it's easy to dismiss them as nuts.",
+      "sourceHash": "fb997a9d55ed1ed895b6b83e019cb88d4e72b6b8746849f191d89095cfe522ae",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-2-8",
+        "cet6:2021-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 事实不会改变我们的想法。友谊确实如此。几年前，本·卡斯诺查（Ben Casnocha）向我提到了一个我一直无法动摇的想法：最有可能改变我们想法的人是那些我们在 98% 的话题上都同意的人。如果你认识、喜欢和信任的人相信一个激进的想法，你就更有可能给予它价值、重视或考虑。在生活的大部分领域你已经同意他们的观点。也许你也应该改变主意。但如果一个与你截然不同的人提出了同样激进的想法，那么，我们很容易将他们视为疯子而不予理睬。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-8",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-3-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) One way to visualize this distinction is by mapping beliefs on a spectrum. If you divide this spectrum into I O units and you find yourself at Position 7, then there is little sense in trying to convince someone at Position 1. The gap is too wide. When you're at Position 7, your time is better spent connecting with people who are at Positions 6 and 8, gradually pulling them in your direction.",
+      "sourceHash": "514c424ac721d1c259dae0f4c01301fd84756c616e60410d11da2e9052e902f3",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 可视化这种区别的一种方法是将信念映射到频谱上。如果你把这个范围划分为 I ​​O 单位，并且发现自己处于位置 7，那么试图说服处于位置 1 的人就没有什么意义。差距太大了。当你处于第 7 号位置时，你最好把时间花在与处于第 6 号和第 8 号位置的人联系上，逐渐将他们拉向你的方向。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-3-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "M) The most heated arguments often occur between people on opposite ends of the spectrum, but the most frequent learning occurs from people who are nearby. The closer you are to someone, the more likely it becomes that the one or two beliefs you don't share will bleed over into your own mind and shape your thinking. The further away an idea is from your current position, the more likely you are to reject it outright. When it comes to changing people's minds, it is very difficult to jump from one side to another. You can't jump down the spectrum. You have to slide down it.",
+      "sourceHash": "70c1f0ad93a55635ad633117447ecac9aaa85951a71d3a60056f6ebd222b8f3a",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M) 最激烈的争论通常发生在处于不同立场的人之间，但最常见的学习却发生在附近的人之间。你与某人越亲近，你不认同的一两个信念就越有可能渗入你的思想并塑造你的思维。一个想法离你当前的立场越远，你就越有可能彻底拒绝它。当谈到改变人们的想法时，从这一边跳到另一边是非常困难的。你不能跳下频谱。你必须滑下它。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-3-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "passage_option",
+      "sourceText": "N) Any idea that is sufficiently different from your current worldview will feel threatening. And the best place to ponder a threatening idea is in a non-threatening environment. As a result, books are often a better vehicle for transforming beliefs than conversations or debates. In conversation, people have to carefully consider their status and appearance. They want to save face and avoid looking stupid. When confronted with an uncomfortable set of facts, the tendency is often to double down on their current position rather than publicly admit to being wrong. Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive.",
+      "sourceHash": "c101ca70605a03279389d1708ad519328ddfd295eba1fbfecd427e77fcc4e14e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N) 任何与你当前的世界观完全不同的想法都会让人感到威胁。思考威胁性想法的最佳场所是在非威胁性的环境中。因此，书籍往往是比对话或辩论更好的转变信仰的工具。在交谈中，人们必须仔细考虑自己的地位和外表。他们想保住面子，避免显得愚蠢。当面对一系列令人不安的事实时，人们往往倾向于加倍坚持自己目前的立场，而不是公开承认错误。书籍可以解决这种紧张关系。通过一本书，对话发生在某人的头脑中，而没有被他人评判的风险。当你不感到防御时，你会更容易保持开放的心态。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-3-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "0) There is another reason bad ideas continue to live on, which is that people continue to talk about them.Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be believed when they are repeated. I have already pointed out that people repeat ideas to signal they are part of the same social group. But here's a crucial point most people miss: People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you're hoping people will forget- but, of course, people can't forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it. P) Let's call this phenomenon Clear 's Law of Recurrence: The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year- even if the idea is false.",
+      "sourceHash": "b8a4ee02146b72051fde40190c01eac7b03f592a455375997689fd70d1bf5cc8",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "0) 糟糕的想法继续存在的另一个原因是人们继续谈论它们。沉默对于任何想法来说都是死亡。一个从未被说出来或写下来的想法会随着构思它的人而消失。想法只有在重复时才能被记住。只有当它们被重复时才能被相信。我已经指出，人们重复想法是为了表明他们属于同一社会群体。但大多数人都忽略了一个关键点：人们在抱怨坏想法时也会重复这些想法。在你批评一个想法之前，你必须参考这个想法。你最终会重复你希望人们忘记的想法——但是，当然，人们无法忘记它们，因为你一直在谈论它们。你重复一个坏主意的次数越多，人们就越有可能相信它。 P）我们将这种现象称为“克利尔重复定律”：相信某个想法的人数与该想法在过去一年中重复的次数成正比——即使该想法是错误的。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-1",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. According to the author, humans can hardly survive if separated from their community.",
+      "sourceHash": "b68ed27ad2ba52623e0fe8d2e3a3557cff5d0fff1b209cf15d9407c617c8852d",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 据提交人称，如果脱离社区，人类就很难生存。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. People often accept false beliefs because they prioritize social bonds rather than facts.",
+      "sourceHash": "62811ff1f15101dc59ee5b74daad6ceeff9c82b72c59b10985e785b59683623d",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 人们经常接受错误的信念，因为他们优先考虑社会纽带而不是事实。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. Most often people learn from those close to them.",
+      "sourceHash": "e88c39742231d1b466f8188776d2c3945e000341dfdf65dfa434a3a872e32970",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 人们常常向亲近的人学习。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Sometimes people adopt certain beliefs in order to leave a favorable impression on those dear to them.",
+      "sourceHash": "99bb9198991c87df760bab748e8036336ed82b78f9f4f3fe39a624a8b2c22e20",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 有时人们采用某些信念是为了给他们所爱的人留下好印象。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Compared with face-to-face communication, books often provide a better medium for changing people's beliefs.",
+      "sourceHash": "000b1a22a8cab7161cd3e6294936b5bde0163371b9fb5fae3bc0f0ac6fd41c02",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 与面对面的交流相比，书籍往往为改变人们的信仰提供了更好的媒介。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-6",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. On many occasions in daily life, people benefit more from their social bonds than from knowing the truth.",
+      "sourceHash": "2bb28b535107168bfd08b59df54fe69af14ae66e3abc650650b9c27761562ece",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 在日常生活的许多情况下，人们从社会纽带中获益比从了解真相中获益更多。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-7",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. If you want to change somebody's beliefs, you should first establish social connection with them.",
+      "sourceHash": "4ff7907f521247360466d52025dfe3c091f9252209c790bacc9e6d679cd64be4",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42.如果你想改变某人的信仰，你应该首先与他们建立社会联系。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-8",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Humans cannot survive without a fair knowledge of the actual world.",
+      "sourceHash": "bd8fb3c12ac30049f4f433c2f04ce2e8c4bbbe7865c5bbff98a3d7d77b475732",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 如果没有对现实世界的公正了解，人类就无法生存。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-9",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Repetition of bad ideas increases their chances of being accepted.",
+      "sourceHash": "aa3c1c9335e843a7eee024e5ed7302c95676e6598f5e15a05850a53f6425b36f",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 重复糟糕的想法会增加被接受的机会。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-10",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Nobody is willing to give up their beliefs at the risk of getting isolated.",
+      "sourceHash": "ba3f9eedc783afeb2eb929da2ee529f404031f944ac418290c0abb8adeaabd1c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 没有人愿意冒着被孤立的风险而放弃自己的信仰。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-12",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked AJ, BJ, CJ and DJ. You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "12f9d8ff787f87ed3414e604ef23bcc1061ded022559cf570dffb6267c55f043",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 AJ、BJ、CJ 和 DJ。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-14",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-15",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The subject of automation and its role in our economy has taken hold in American public discourse. Technology broadly and automation specifically are dramatically reshaping the way we work. And we need to have a plan for what's still to come.",
+      "sourceHash": "b92c641a423db8226749e9ee56f4fd9ab4f67ee1a967ddf9ef952617f67e9628",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "自动化及其在经济中的作用这一主题已在美国公共话题中占据主导地位。广泛的技术，特别是自动化正在极大地重塑我们的工作方式。我们需要为未来制定一个计划。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-16",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "We don't have to look further than our own communities to see the devastating impact of automation. From automated warehouses to cashierless grocery stores to neighborhood libraries that offer self-checkout lanes instead of employing real people- automation 1s increasingly replacing jobs and leaving too few good new jobs behind.",
+      "sourceHash": "6bf4da812147b4d29ee9ed22dd766fd1ba4064c4f28f0b23fdd9b40c7cd7bc09",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们只需看看我们自己的社区就可以看到自动化的破坏性影响。从自动化仓库到无人收银的杂货店，再到提供自助结账通道而不是雇用真人的社区图书馆，自动化越来越多地取代工作岗位，留下的好新工作岗位太少了。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-17",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The statistics in manufacturing are staggering. Despite the widespread fears about trade, a recent report showed that just 13 percent of jobs lost in manufacturing are due to trade-the rest of the losses have been due to advances in technology.",
+      "sourceHash": "4f87293cd01e1e7135ef7882b87844f8b014b78e6e9d242d2a424278e84a4225",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "制造业的统计数据令人震惊。尽管人们普遍担心贸易，但最近的一份报告显示，制造业中只有 13% 的就业岗位流失是由贸易造成的，其余的流失都是由技术进步造成的。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-4-18",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "That is why more people are criticizing the ever-increasing role of technology in our economy. Our country is manufacturing more than ever before, but we are doing it with fewer workers. However, it's not just factories that are seeing losses- software and information technology are also having a dramatic impact on jobs most people think are secure from the forces of a rapidly-changing economy. Something transformative is happening in America that is having an adverse effect on American families. Whether policymakers and politicians admit it or not, workers have made clear their feelings about their economic insecurity and desire to keep good jobs in America.",
+      "sourceHash": "56c7564366633b16ee15e1122841b760a67f6dc86d41f33094006b07d0d87ba4",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-4-18",
+        "cet6:2021-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这就是为什么越来越多的人批评技术在我们经济中日益重要的作用。我们国家的制造业比以往任何时候都多，但我们使用的工人却更少。然而，遭受损失的不仅仅是工厂，软件和信息技术也对大多数人认为不受快速变化的经济力量影响的工作产生了巨大影响。美国正在发生一些变革，这对美国家庭产生了不利影响。无论政策制定者和政客是否承认，工人们已经明确表达了他们对经济不安全感的感受以及在美国保留好工作的愿望。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-18",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "So why are people so insistent on ignoring the perils of automation? They are failing to look ahead at a time when planning for the future is more important than ever. Resisting automation is futile: it is as inevitable as industrialization was before it. I sincerely hope that those who assert that automation will make us more effective and pave the way for new occupations are right, but the reality of automation's detrimental effects on workers makes me skeptical. No one can currently say where the new jobs are coming from or when, and any sensible company or country should prepare for all alternatives.",
+      "sourceHash": "9fa5d895bd5dec8e35fc750214b7cf7392aa8d8acc2e9144c1599c6e322fb132",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "那么为什么人们如此坚持忽视自动化的危险呢？在规划未来比以往任何时候都更加重要的时候，他们却未能展望未来。抵制自动化是徒劳的：它就像之前的工业化一样不可避免。我真诚地希望那些断言自动化将使我们更加高效并为新职业铺平道路的人是正确的，但自动化对工人产生有害影响的现实让我持怀疑态度。目前没有人能说出新的就业机会来自何处或何时，任何明智的公司或国家都应该为所有替代方案做好准备。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "I'm not overstating the danger: look at what's happened to the labor force. According to economic research, one in six working-age men, 25 - 54, doesn't have a job. Fifty years ago, nearly I 00 percent of men that age were working. Women's labor force participation, meanwhile, has slipped back to the level it was at in the late 1980s.",
+      "sourceHash": "3509e95185c51e993887cf6a64a4a5b5c0b4c6ba094de7151ec74e646020db89",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我并没有夸大这种危险：看看劳动力发生了什么。根据经济研究，六分之一的工作年龄男性（25 至 54 岁）没有工作。五十年前，这个年龄段的男性中近 00% 都在工作。与此同时，女性劳动力参与率已回落至 20 世纪 80 年代末的水平。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "American families and prominent business leaders are aware that there's a big problem with automation. The value of a college degree is diminishing, and our upward mobility is declining. If we want an economy that allows everyone to be economically secure, we need to start thinking about how we can rightfully address automation.",
+      "sourceHash": "a42c59e47ebb74034ef03caf08d307023dec1c91c535b0f628605df0ee6f2fc4",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "美国家庭和著名商界领袖都意识到自动化存在一个大问题。大学学位的价值正在下降，我们的向上流动性正在下降。如果我们想要一个让每个人都能获得经济安全的经济，我们就需要开始思考如何正确地解决自动化问题。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What can we observe from the author's description of our communities?",
+      "sourceHash": "10b40a020780dfa75bdc3fdf5de9de4227531e24156d3844bcb96f7a7af8c70e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 从作者对我们社区的描述中我们可以观察到什么？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-7",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What do we learn from a recent report?",
+      "sourceHash": "6e349e2c1fe870c64b40793262f1fb76eff5fb2791cbf2f9cd025aa0e30864aa",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 我们从最近的报告中了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-9",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does the passage tell us about American workers in an era of transformation?",
+      "sourceHash": "12ca9ff2c0dcd94d140536ad8d7be269da6a57c7b4cf6905cd713a78f659e8d5",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 这段话告诉我们关于转型时代的美国工人的什么？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-11",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What does the author think of automation?",
+      "sourceHash": "61a6ad97f82e0254a7d0ab782b1df62c44e8ab4ed8729c55b65cd32bc12cdde9",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 作者如何看待自动化？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-5-13",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What should we attach importance to when dealing with automation?",
+      "sourceHash": "5221a968b585ae4b80aaba15b586e5ad2a6f6c77f93614c545044badafdb8d71",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 处理自动化要注意什么？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-3",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "Look at the people around you. Some are passive, others more aggressive. Some work best alone, others crave companionship. We easily recognize that there is great variation among the individuals who live near us. Yet, when we speak of people from elsewhere, we seem to inevitably characterize them based on their country of origin.",
+      "sourceHash": "d2ebb5a4df25e7e0270cac9b59e6fec06a8b3a053e76087e0c0bf2066243a6b6",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "看看你周围的人。有些人是被动的，有些人则更具攻击性。有些人独自工作效果最好，而另一些人则渴望陪伴。我们很容易认识到，住在我们附近的人之间存在很大的差异。然而，当我们谈论来自其他地方的人时，我们似乎不可避免地会根据他们的原籍国来描述他们。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "Statistics specialists, when they speak of national averages, often make the same mistake.",
+      "sourceHash": "12786465b877df84cca11e05799c4b649b8343a480bbd5f29b4f42a395ba4d6a",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "统计专家在谈到全国平均水平时经常犯同样的错误。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-5",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "Newly published research shows how erroneous such overviews are. Three researchers analyzed decades of values-based surveys and found that only between 16% and 21 % of the variation in cultural values could be explained by differences between countries. In other words, the vast majority of what makes us culturally distinct from one another has nothing to do with our homeland.",
+      "sourceHash": "555839505d6741bfa9c300ffc8fec1c6d31f10b788c4967915434cabc81ef0aa",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "新发表的研究表明这种看法是多么错误。三名研究人员分析了数十年基于价值观的调查，发现只有 16% 到 21% 的文化价值观差异可以用国家之间的差异来解释。换句话说，使我们在文化上彼此不同的绝大多数因素与我们的祖国无关。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-6",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "To determine what factors really are associated with culture, the authors combined data from 558 prior surveys that each measured one or more of Hofstede's cultural dimensions. These are traits, such as individualism and masculinity, that describe work-related cultural values. (They are not a measure of visible cultural traits, such as food or dress.) Though the validity of Hofstede's dimensions has been questioned, they have the singular benefit of having been in use for decades, which allows for historical and international comparisons.",
+      "sourceHash": "bb4c7c63af491bbc93acdfe0b956aeacfdd7798825e39d4d5dbe91bce7b13e46",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为了确定哪些因素真正与文化相关，作者结合了之前 558 项调查的数据，每项调查都衡量了霍夫斯泰德的一个或多个文化维度。这些特征，例如个人主义和男子气概，描述了与工作相关的文化价值观。 （它们并不是衡量食物或服装等可见文化特征的指标。）尽管霍夫斯泰德维度的有效性受到质疑，但它们有一个独特的好处，那就是已经使用了几十年，可以进行历史和国际比较。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-7",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The researchers found that both demographic factors, such as age, and environmental factors, such as long-term unemployment rates, were more correlated with cultural values than nationality. Occupation and social economic status were the most strongly correlated, suggesting that our values are more economically driven than we usually give them credit for.",
+      "sourceHash": "a58aebde6b7c2258bbaaab6fd7a2a51a02cfdbcf0dc892870c30cdfcf689707f",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究人员发现，年龄等人口因素和长期失业率等环境因素与文化价值观的相关性高于国籍。职业和社会经济地位的相关性最强，这表明我们的价值观比我们通常认为的更受经济驱动。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-8",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The evidence implies that people with similar jobs and incomes are more culturally alike, regardless of where they live. Vas Taras, the lead author of the study, puts it this way: \"Tell me how much you make and I will make a pretty accurate prediction about your cultural values. Tell me what your nationality is and I probably will make a wrong prediction.\"",
+      "sourceHash": "bea0d968304fda8caf13824a0ea42ee2c4081bdff3b75c9977241fc72bab1a57",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "证据表明，工作和收入相似的人在文化上更加相似，无论他们住在哪里。该研究的主要作者瓦斯·塔拉斯（Vas Taras）这样说道：“告诉我你赚了多少钱，我将对你的文化价值观做出相当准确的预测。告诉我你的国籍是什么，我可能会做出错误的预测。”",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-9",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "Taras says our erroneous belief that countries are cultures has caused businesses to teach their employees useless or even harmful ways of interacting with their international peers. Chinese and American lawyers might be trained to interact based on the assumption that the Chinese person is less individualistic, even though their similar social economic situations make it probable they are actually quite alike in that regard.",
+      "sourceHash": "544a550e089e9b9afe1b3dd23823d9c39652e141fa529bc1960b9393fed3db27",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "塔拉斯说，我们错误地认为国家是文化，这导致企业向员工传授与国际同行互动的无用甚至有害的方式。中国和美国的律师可能会被训练基于这样的假设进行互动：中国人不太个人主义，尽管他们相似的社会经济状况使得他们在这方面实际上很可能非常相似。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-10",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "The country, as the unit of authority, is often a convenient way of generalizing about a population.",
+      "sourceHash": "2115a5ffbd236bb44cc62ddc2bf71b97cd6445e0483c926812d5efbe61e6107f",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "国家作为权力单位，通常是概括人口的一种便捷方式。",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-6-11",
+      "paperId": "cet6:2021-12-03",
+      "kind": "reading",
+      "sourceText": "However, our focus on countries can mask broad variations within them. In the majority of cases we would be better off identifying people by the factors that constrain their lives, like income, rather than by the lines surrounding them on a map.",
+      "sourceHash": "8d322bd586642c5538be79937d63468960ba3d6d886598bf7c483d3240fbbd28",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-6-11",
+        "cet6:2021-12-03:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，我们对国家的关注可能掩盖了它们内部的广泛差异。在大多数情况下，我们最好通过限制人们生活的因素（例如收入）来识别人们，而不是通过地图上围绕他们的线条来识别他们。",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-11",
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6",
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-2",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What error do experts often make when describing people from other places?",
+      "sourceHash": "593ca3dded8f1bd0333c6f01c2dd148b467c3c5eed351c804a0cf876c5a46f42",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.专家在描述外地人时常犯什么错误？",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-4",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What do we learn about Hofstede's cultural dimensions?",
+      "sourceHash": "cc839f1e7e0b4efe27776351c33295aa86a0e4f1367eb85257ca31b11feb2626",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 关于霍夫斯泰德的文化维度，我们了解什么？",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-6",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What did researchers find about previous studies on factors determining people's values?",
+      "sourceHash": "b76dcb6a57113713936368c2e15b601e1424a237fb58ea2771c7d74b18b90357",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 研究人员从之前关于决定人们价值观的因素的研究中发现了什么？",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-8",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What is the impact on employees when cultures are identified with countries?",
+      "sourceHash": "af6baa0a38b7b94514cdb7f8c4674054c60f5a24207149f66cc11463489bedc4",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 当文化与国家认同时，对员工有何影响？",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-10",
+      "paperId": "cet6:2021-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the author suggest at the end of the passage?",
+      "sourceHash": "7ff3550c2d4b996b1f3ee67a0b47bd2a976cfd10458506c54989a2e32db76bfb",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.作者在文章结尾提出了什么建议？",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2021-12-03:p:b-7-13",
+      "paperId": "cet6:2021-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2021-12-03:b-7-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-12"
+        ],
+        "reflowBlockIds": [
+          "b-7-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2021-12-03.json",
+        "pdfSha256": "9da7671084af32e4bb14f9aaedf2354204e9c47bbf2e9492ad9aea7b68dfdf30",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2021-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2021-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2021-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-46-1",
+      "optionId": "cet6:2021-12-03:q-46-1:A",
+      "sourceText": "The growing passion for automation.",
+      "sourceHash": "d7b090fc86a4788e9a44ea7fb6685eea16e025e4ff423f0c283d1b26d66f54d3",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The growing passion for automation.",
+      "translationEligible": true,
+      "translationZh": "对自动化的热情与日俱增。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-46-1",
+      "optionId": "cet6:2021-12-03:q-46-1:B",
+      "sourceText": "The shift from manual jobs to IT ones.",
+      "sourceHash": "3416c0a80bc9130a88913794c3cbcbf836b35646033e045abb6bf615e6955366",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The shift from manual jobs to IT ones.",
+      "translationEligible": true,
+      "translationZh": "从体力工作向 IT 工作的转变。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-46-1",
+      "optionId": "cet6:2021-12-03:q-46-1:C",
+      "sourceText": "Their changing views on employment.",
+      "sourceHash": "8e58fd06368effec57e595ddda41aa165971db52acf61e9740d095f78577495c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Their changing views on employment.",
+      "translationEligible": true,
+      "translationZh": "他们对就业的看法不断变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-46-1",
+      "optionId": "cet6:2021-12-03:q-46-1:D",
+      "sourceText": "Their fading employment opportunities.",
+      "sourceHash": "b6a923774d81d37691b7df8bed2518aa70d5059a249652e7daa06904ce88c2db",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Their fading employment opportunities.",
+      "translationEligible": true,
+      "translationZh": "他们的就业机会逐渐减少。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-47-1",
+      "optionId": "cet6:2021-12-03:q-47-1:A",
+      "sourceText": "The manufacturing sector is declining at a fast rate.",
+      "sourceHash": "4a04411529d9a39881cc45a3977a83a7f3a448e9b34416c70523207960f644ec",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The manufacturing sector is declining at a fast rate.",
+      "translationEligible": true,
+      "translationZh": "制造业正在快速衰退。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-47-1",
+      "optionId": "cet6:2021-12-03:q-47-1:B",
+      "sourceText": "The concerns about the effect of trade are exaggerated.",
+      "sourceHash": "b8dac00ebe7d0e0e3fd873f00010b3185c51b0d5750bcee6d55779144d89c235",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The concerns about the effect of trade are exaggerated.",
+      "translationEligible": true,
+      "translationZh": "对贸易影响的担忧被夸大了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-47-1",
+      "optionId": "cet6:2021-12-03:q-47-1:C",
+      "sourceText": "The fears about trade have been spreading far and wide.",
+      "sourceHash": "8082d5e29387c1e91e4a9a10a7c09ce9e06f0006a3127f88386e4b586f4f7c05",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The fears about trade have been spreading far and wide.",
+      "translationEligible": true,
+      "translationZh": "对贸易的担忧已经广泛蔓延。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-47-1",
+      "optionId": "cet6:2021-12-03:q-47-1:D",
+      "sourceText": "The impact of trade on employment has been staggering.",
+      "sourceHash": "0ed58a9bfe0e384af416b4adb9ca2c237ab15a96d519138fafa1d0dd43b8bc88",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The impact of trade on employment has been staggering.",
+      "translationEligible": true,
+      "translationZh": "贸易对就业的影响是惊人的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-48-1",
+      "optionId": "cet6:2021-12-03:q-48-1:A",
+      "sourceText": "They feel ignored by politicians.",
+      "sourceHash": "5d288e9fc954f68e78981c56f8d0a02a10fe9653565a6360973b082069ba633e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They feel ignored by politicians.",
+      "translationEligible": true,
+      "translationZh": "他们感觉被政客忽视了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-48-1",
+      "optionId": "cet6:2021-12-03:q-48-1:B",
+      "sourceText": "They feel increasingly vulnerable.",
+      "sourceHash": "7b65b0da83b90f2fdeb5c1a73049a76f9c0952d947da5b57cd1dcd9e0bd17b13",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They feel increasingly vulnerable.",
+      "translationEligible": true,
+      "translationZh": "他们感到越来越脆弱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-48-1",
+      "optionId": "cet6:2021-12-03:q-48-1:C",
+      "sourceText": "They keep adapting to the changes.",
+      "sourceHash": "d312b4e8b0df094bf36fd47351324a8f9d1eb6a0da7a5ad40db8b4838825e68c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They keep adapting to the changes.",
+      "translationEligible": true,
+      "translationZh": "他们不断适应变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-48-1",
+      "optionId": "cet6:2021-12-03:q-48-1:D",
+      "sourceText": "They keep complaining but to no avail.",
+      "sourceHash": "aa12a04a13de31874c0c3de7305e5f203c3d64ec3f98d0d7d87873fa3b4f6122",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-9"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They keep complaining but to no avail.",
+      "translationEligible": true,
+      "translationZh": "他们不断抱怨，但无济于事。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-49-1",
+      "optionId": "cet6:2021-12-03:q-49-1:A",
+      "sourceText": "It will have the same impact as industrialization.",
+      "sourceHash": "492dfdd729a3973f64df6d4071994e283f7998991efb288aae9a03c18f80dc5e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It will have the same impact as industrialization.",
+      "translationEligible": true,
+      "translationZh": "它将产生与工业化相同的影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-49-1",
+      "optionId": "cet6:2021-12-03:q-49-1:B",
+      "sourceText": "It provides sensible companies with alternatives.",
+      "sourceHash": "dc831eaacb01f0889b5cc5ae2f8398af54cce585c1cf8d73b4d0afd23ed1eecf",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It provides sensible companies with alternatives.",
+      "translationEligible": true,
+      "translationZh": "它为明智的公司提供了替代方案。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-49-1",
+      "optionId": "cet6:2021-12-03:q-49-1:C",
+      "sourceText": "Its alleged positive effects are doubtful.",
+      "sourceHash": "3aca8cb5666fee290e2cd8604b26c82034260fcb65e0bb451fab7c94d1d66a5e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Its alleged positive effects are doubtful.",
+      "translationEligible": true,
+      "translationZh": "其所谓的积极作用值得怀疑。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-49-1",
+      "optionId": "cet6:2021-12-03:q-49-1:D",
+      "sourceText": "Its detrimental effects are unavoidable.",
+      "sourceHash": "ec7f446c579e355a81d374a25e216eadbac8cbc2eb6803112c1cb03a84c595e6",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-11"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Its detrimental effects are unavoidable.",
+      "translationEligible": true,
+      "translationZh": "其有害影响是不可避免的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-50-1",
+      "optionId": "cet6:2021-12-03:q-50-1:A",
+      "sourceText": "College graduates' job prospects.",
+      "sourceHash": "7d9683ee5bbd7e5c715cb0336fe34ef1d5d910f6381387a92fba1d23bf084d0c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "College graduates' job prospects.",
+      "translationEligible": true,
+      "translationZh": "大学毕业生的就业前景。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-50-1",
+      "optionId": "cet6:2021-12-03:q-50-1:B",
+      "sourceText": "Women's access to employment.",
+      "sourceHash": "e0b5ee8aa754f3ffb053a9d661672936b8fbbd3a6e0170c9cc5944561d7c83dc",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Women's access to employment.",
+      "translationEligible": true,
+      "translationZh": "妇女的就业机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-50-1",
+      "optionId": "cet6:2021-12-03:q-50-1:C",
+      "sourceText": "People's economic security.",
+      "sourceHash": "eb0d245280db953e1d61c117c474f8a5d109ad16c083b7d992a9649b31e8d29c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "People's economic security.",
+      "translationEligible": true,
+      "translationZh": "人民经济安全。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-50-1",
+      "optionId": "cet6:2021-12-03:q-50-1:D",
+      "sourceText": "People's social mobility.",
+      "sourceHash": "a8b252279a3f09d0d97832b5495ee6e290360af30cad8c738da7ea92785be86c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-5-13"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-5-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "People's social mobility.",
+      "translationEligible": true,
+      "translationZh": "人们的社会流动性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-51-1",
+      "optionId": "cet6:2021-12-03:q-51-1:A",
+      "sourceText": "They tend to overly rely on nationality.",
+      "sourceHash": "327b803ca93591de22cd0f223143c5629630c7d8126884a5f8b29b1c154e8655",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They tend to overly rely on nationality.",
+      "translationEligible": true,
+      "translationZh": "他们往往过度依赖国籍。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-51-1",
+      "optionId": "cet6:2021-12-03:q-51-1:B",
+      "sourceText": "They often exaggerate their differences.",
+      "sourceHash": "096ceff6477477656700785216bd44d3a64d183e9eb2e6429a1c161a58dfdc7a",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They often exaggerate their differences.",
+      "translationEligible": true,
+      "translationZh": "他们经常夸大彼此之间的差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-51-1",
+      "optionId": "cet6:2021-12-03:q-51-1:C",
+      "sourceText": "They often misunderstand their cultures.",
+      "sourceHash": "5d986e5ea7376574667ef845f8a26c8278688ee98eb95ecccaa4575966a77a56",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They often misunderstand their cultures.",
+      "translationEligible": true,
+      "translationZh": "他们经常误解自己的文化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-51-1",
+      "optionId": "cet6:2021-12-03:q-51-1:D",
+      "sourceText": "They tend to dwell on national averages.",
+      "sourceHash": "97fe5cd4b7e74e282e5a9de6536bd764d6c0045d655320dc45def803d3b7dacf",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They tend to dwell on national averages.",
+      "translationEligible": true,
+      "translationZh": "他们倾向于关注全国平均水平。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-52-1",
+      "optionId": "cet6:2021-12-03:q-52-1:A",
+      "sourceText": "They are useful in comparing cultural values across time and space.",
+      "sourceHash": "2e594e0082bc089e54bf2c22670bc357d597e4b0d3b8ca6e129e45ff87a6284c",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are useful in comparing cultural values across time and space.",
+      "translationEligible": true,
+      "translationZh": "它们对于比较不同时间和空间的文化价值观很有用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-52-1",
+      "optionId": "cet6:2021-12-03:q-52-1:B",
+      "sourceText": "They have brought unusual benefits to people of different cultures.",
+      "sourceHash": "bc86203c476797e8dac03f64ec2dc3bc7c64334bddda8e770d4763467f98bd7e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They have brought unusual benefits to people of different cultures.",
+      "translationEligible": true,
+      "translationZh": "他们给不同文化背景的人们带来了非同寻常的好处。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-52-1",
+      "optionId": "cet6:2021-12-03:q-52-1:C",
+      "sourceText": "They are widely used to identify people's individual traits.",
+      "sourceHash": "a32451bd4f784978f8a37d48abf9b7a194481715dc75ec986b81d1605115f90b",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are widely used to identify people's individual traits.",
+      "translationEligible": true,
+      "translationZh": "它们被广泛用于识别人们的个人特征。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-52-1",
+      "optionId": "cet6:2021-12-03:q-52-1:D",
+      "sourceText": "They provide valuable questions for researchers to study.",
+      "sourceHash": "fc50a6ab7ec48d34bfb3bda10c74c7998964146ed13407c21bb6e5f3eece1b4d",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They provide valuable questions for researchers to study.",
+      "translationEligible": true,
+      "translationZh": "它们为研究人员提供了有价值的研究问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-53-1",
+      "optionId": "cet6:2021-12-03:q-53-1:A",
+      "sourceText": "Environmental factors were prioritized over other factors.",
+      "sourceHash": "c0c0937f42109ee94da118bd63f95ade734e0c7d24579c3972b19d254e6ad9ca",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Environmental factors were prioritized over other factors.",
+      "translationEligible": true,
+      "translationZh": "环境因素优先于其他因素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-53-1",
+      "optionId": "cet6:2021-12-03:q-53-1:B",
+      "sourceText": "An individual's financial status was often underestimated.",
+      "sourceHash": "b3f13b4035b3b60aee30c001cc130968fedf61eb2692d1c397b908e16dfd729f",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "An individual's financial status was often underestimated.",
+      "translationEligible": true,
+      "translationZh": "个人的财务状况常常被低估。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-53-1",
+      "optionId": "cet6:2021-12-03:q-53-1:C",
+      "sourceText": "Too much emphasis had been placed on one's occupation.",
+      "sourceHash": "05683a8b06440e6d14d01773113bbd8259ade9284fe89a51d88f872583384e29",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Too much emphasis had been placed on one's occupation.",
+      "translationEligible": true,
+      "translationZh": "过分强调一个人的职业。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-53-1",
+      "optionId": "cet6:2021-12-03:q-53-1:D",
+      "sourceText": "The impact of social progress on one's values was ignored.",
+      "sourceHash": "a9b8e905a8cd984840d938e702033f8294cae242565dc2cf297325772ab4e02e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-6"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The impact of social progress on one's values was ignored.",
+      "translationEligible": true,
+      "translationZh": "社会进步对个人价值观的影响被忽视了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-54-1",
+      "optionId": "cet6:2021-12-03:q-54-1:A",
+      "sourceText": "They may fail to see the cultural biases of their business partners.",
+      "sourceHash": "cd1c56044d5c2fe12ad6865c83bf0d6eec6f246c0f59edcf49098ef748430f6b",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They may fail to see the cultural biases of their business partners.",
+      "translationEligible": true,
+      "translationZh": "他们可能看不到商业伙伴的文化偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-54-1",
+      "optionId": "cet6:2021-12-03:q-54-1:B",
+      "sourceText": "They may fail to attach sufficient importance to cultural diversity.",
+      "sourceHash": "38a04a23747b336d043b40a59604cc518d3be2acc3cbb22c23d416180684c95e",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They may fail to attach sufficient importance to cultural diversity.",
+      "translationEligible": true,
+      "translationZh": "他们可能没有足够重视文化多样性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-54-1",
+      "optionId": "cet6:2021-12-03:q-54-1:C",
+      "sourceText": "They may not be taught how to properly interact with overseas partners.",
+      "sourceHash": "d988d8aa3188a0675814ab4848690773d84fd706d8da214f12a288e43611696f",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They may not be taught how to properly interact with overseas partners.",
+      "translationEligible": true,
+      "translationZh": "他们可能没有被教导如何与海外合作伙伴正确互动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-54-1",
+      "optionId": "cet6:2021-12-03:q-54-1:D",
+      "sourceText": "They may not be able to learn the legal procedures for business transactions.",
+      "sourceHash": "19dfc42fa065e4187db30084b46953d8b1a49cd681b915236b14032b0f579929",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-8"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They may not be able to learn the legal procedures for business transactions.",
+      "translationEligible": true,
+      "translationZh": "他们可能无法学习商业交易的法律程序。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-55-1",
+      "optionId": "cet6:2021-12-03:q-55-1:A",
+      "sourceText": "There is sufficient reason to generalize about a country's population.",
+      "sourceHash": "d501fd93a4899629ee19e4e66dbc547a81eba1922215a3dfc3eea94f642c3827",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "There is sufficient reason to generalize about a country's population.",
+      "translationEligible": true,
+      "translationZh": "有足够的理由对一个国家的人口进行概括。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-55-1",
+      "optionId": "cet6:2021-12-03:q-55-1:B",
+      "sourceText": "The majority of people are still constrained by their national identity.",
+      "sourceHash": "5f0cbe344cd68310713dc1f7fb46dd0c9955fd71f4663c2f5c9647877004fbdd",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The majority of people are still constrained by their national identity.",
+      "translationEligible": true,
+      "translationZh": "大多数人仍然受到民族认同的束缚。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-55-1",
+      "optionId": "cet6:2021-12-03:q-55-1:C",
+      "sourceText": "It is arguable that the country should be regarded as the unit of authority.",
+      "sourceHash": "e382f878a1e935e6196fb9a3b08a56e356f0d906a70f8e35fc6646ecc7afb88b",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is arguable that the country should be regarded as the unit of authority.",
+      "translationEligible": true,
+      "translationZh": "国家是否应该被视为权力单位是有争议的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2021-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2021-12-03",
+      "questionId": "cet6:2021-12-03:q-55-1",
+      "optionId": "cet6:2021-12-03:q-55-1:D",
+      "sourceText": "Nationality is less useful than socio-economic status as an indicator of one's values.",
+      "sourceHash": "8969631fa5aa2330601e4041fd1bd4e960c7c4eac8dd2a98ccbb988788a739ce",
+      "sourceBlockIds": [
+        "cet6:2021-12-03:b-7-10"
+      ],
+      "reflowBlockId": "cet6:2021-12-03:b-7-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Nationality is less useful than socio-economic status as an indicator of one's values.",
+      "translationEligible": true,
+      "translationZh": "作为衡量一个人价值观的指标，国籍不如社会经济地位有用。",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 40,
+    "reason:translate": 40
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-1-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-1-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-5",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "cet6:2021-12-03:p:b-1-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-6",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "cet6:2021-12-03:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-9",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-10",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-14",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-15",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-16",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-1-17"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-1-18",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-1-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2021-12-03:p:b-1-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2021-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2021-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-3-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-13",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-14",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2021-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-5-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-6-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2021-12-03:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2021-12-03:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-7-8"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2021-12-03:p:b-7-10"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2021-12-03:p:b-7-13"
+    },
+    {
+      "sourceBlockId": "cet6:2021-12-03:b-7-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 66
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 4,
+    "heading_prose": 3,
+    "instruction": 6,
+    "non_english_or_fragment": 3,
+    "question_prompt": 21,
+    "reading_choice_paragraph": 14,
+    "reading_prose": 16,
+    "section_label": 9,
+    "section_writing": 2
+  },
+  "kindCounts": {
+    "heading_prose": 3,
+    "instruction": 6,
+    "passage_option": 14,
+    "question_prompt": 21,
+    "reading": 16,
+    "writing_prompt": 2
+  },
+  "otherSourceBlockCounts": {
+    "options": 10
+  },
+  "issues": []
+}
