@@ -33,6 +33,15 @@ npm ci
 npm test
 ```
 
+干净源码归档中的 CI 使用显式清单执行可移植测试：
+
+```sh
+.venv/bin/python scripts/run_portable_tests.py
+PYTHONPATH=. .venv/bin/python data/sources/english-exams-reflow-latex/run_portable_tests.py
+```
+
+需要核对原始 PDF、图片裁切或私人答案证据时，在具备完整来源输入的本机运行严格测试：`.venv/bin/python -m unittest discover -s scripts -p 'test_*.py'`，并在 `data/sources/english-exams-reflow-latex` 目录运行 `python -m unittest discover -s . -p 'test_*.py'`。缺少来源资料时，严格测试会失败；CI 的可移植测试通过不代表原稿逐页核验通过。
+
 重建汇总目录和阅读工具接入：
 
 ```sh
