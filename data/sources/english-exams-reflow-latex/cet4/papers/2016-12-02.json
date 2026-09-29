@@ -2607,13 +2607,18 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2. ",
+              "text": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "The Secret to Raising Smart Kids",
               "flags": [
@@ -2988,12 +2993,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "indication of low ability.",
               "flags": [
@@ -3027,12 +3035,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "love of learning.",
               "flags": [
@@ -3066,12 +3077,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "difficult math problems.",
               "flags": [
@@ -3092,12 +3106,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "learning.",
               "flags": [
@@ -3131,12 +3148,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "for learning.",
               "flags": [
@@ -4196,7 +4216,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Part",
@@ -4207,13 +4227,18 @@
               ]
             },
             {
-              "text": " Ⅳ ",
+              "text": " Ⅳ",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Translation",
               "flags": [

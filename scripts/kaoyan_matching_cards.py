@@ -16,11 +16,14 @@ from lxml import html
 
 TABLE_PAPERS = frozenset({"2011-02", "2012-02", "2014-02", "2017-02",
                           "2019-02", "2023-02", "2024-02", "2026-02"})
-ORDERING_PAPERS = frozenset({"2010-01", "2014-01", "2018-01", "2019-01", "2025-01"})
+ORDERING_PAPERS = frozenset({"2010-01", "2011-01", "2014-01", "2017-01",
+                            "2018-01", "2019-01", "2023-01", "2025-01", "2026-01"})
 ORDERING_FIXED = {"2010-01": ("E",), "2014-01": ("A", "E"),
+                  "2011-01": ("G", "E"), "2017-01": ("D", "B"),
                   "2018-01": ("C", "F"), "2019-01": ("C", "F"),
-                  "2025-01": ("A", "C", "H")}
-SLOT = re.compile(r"(?<!\d)(4[1-5])\s*[.．]")
+                  "2023-01": ("A", "E", "H"),
+                  "2025-01": ("A", "C", "H"), "2026-01": ("F", "H", "C")}
+SLOT = re.compile(r"(?<!\d)(4[1-5])\s*[.．]?(?!\d)")
 CHOICE = re.compile(r"^([A-H])\s*[.．)）]\s*")
 
 
@@ -105,6 +108,10 @@ def ordering_cards(stem: str, original_html: Path,
     printed_fixed = re.findall(r"(?<![A-Za-z])([A-H])(?=\s|→|$)", diagram)
     if sorted(printed_fixed) != sorted(fixed):
         raise ValueError(f"ordering diagram fixed letters changed: {stem}: {printed_fixed}")
+    diagram_sequence = re.findall(r"(?<![A-Za-z0-9])(?:4[1-5]|[A-H])(?=\s|→|[.．]|$)", diagram)
+    if ([item for item in diagram_sequence if item.isdigit()] != slots or
+            [item for item in diagram_sequence if item.isalpha()] != printed_fixed):
+        raise ValueError(f"ordering diagram sequence changed: {stem}: {diagram_sequence}")
     options: dict[str, str] = {}
     option_blocks: dict[str, list[str]] = {}
     current = None
@@ -122,12 +129,15 @@ def ordering_cards(stem: str, original_html: Path,
         elif current and text:
             options[current] += " " + text
             option_blocks[current].append(block["id"])
-    expected = list("ABCDEFGH" if stem == "2025-01" else "ABCDEFG")
+    expected = list("ABCDEFGH" if stem in {"2023-01", "2025-01", "2026-01"} else "ABCDEFG")
     if list(options) != expected or any(len(value) < 30 for value in options.values()):
         raise ValueError(f"ordering paragraph choices changed: {stem}: {list(options)}")
     available = {letter: value for letter, value in options.items() if letter not in fixed}
     return [{"number": number, "stem": f"{number}.", "options": available,
              "kind": "ordering_diagram",
              "fixedLetters": list(fixed),
+             "diagramSequence": diagram_sequence,
+             "sourceDiagramText": diagram,
+             "optionBlockIds": {letter: list(option_blocks[letter]) for letter in available},
              "optionSourceBlocks": [bid for ids in option_blocks.values() for bid in ids]}
             for number in slots]

@@ -1,0 +1,3529 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2022-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+  "sourcePdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+  "paragraphs": [
+    {
+      "id": "cet4:2022-12-03:p:b-1-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this task, you are to write an essay on the necessity of developing social skills for college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "eb4060d84b84296ac5f9e6db187d36730185c1df8a12e73e7cdc220a9139e236",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在这个任务中，你要写一篇关于大学生发展社交技能的必要性的文章。您将有 30 分钟的时间来完成该任务。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-1-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-1-9",
+      "paperId": "cet4:2022-12-03",
+      "kind": "cloze",
+      "sourceText": "Phones influence all aspects of teenage life. Ninety-five percent of Americans ages 13 to 17 have a smartphone or have access to one, and nearly half report using the internet \"almost 26 .\"",
+      "sourceHash": "296e54f959ce61fe46ae7c62cce77f21a1ad9defa7f37138d05924b699e641ca",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "手机影响青少年生活的各个方面。 13 至 17 岁的美国人中有 95% 拥有智能手机或可以使用智能手机，近一半的人表示“几乎经常”使用互联网。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-1-10",
+      "paperId": "cet4:2022-12-03",
+      "kind": "cloze",
+      "sourceText": "But as recent survey data and interviews have suggested, many teens find much of that time to be unsatisfyingly spent. Continuous 27 shouldn't be mistaken for endless enjoyment. A new 28 representative survey about \"screen time and device distractions\" from the Pew Research Center indicates that it's not just parents who think teenagers are worryingly 29 from their phones — many teens themselves do too. Fifty-four percent of the 13-to-17-year-olds surveyed said they spend too much time 30 in their phones.",
+      "sourceHash": "dc41e0c5e9667d846518d15445145f04f137582c59ae3d04cd4c63dbdae6802f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但正如最近的调查数据和采访所表明的那样，许多青少年发现大部分时间都花得并不令人满意。连续使用不应被误认为是无尽的享受。皮尤研究中心一项关于“屏幕时间和设备干扰”的新的全国代表性调查表明，不仅仅是父母认为青少年与手机密不可分，许多青少年自己也这么认为。接受调查的 13 至 17 岁青少年中有 54% 表示，他们花太多时间沉迷于手机。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-1-11",
+      "paperId": "cet4:2022-12-03",
+      "kind": "cloze",
+      "sourceText": "Vicky Rideout, who runs a research firm that studies children's interactions with media and technology, was not surprised by this finding. She says it's hardly 31 to teenagers. \"They are dealing with the same challenges that adults are, as far as they are living in the 32 of a tech environment designed to suck as much of their time onto their devices as possible,\" Rideout says.",
+      "sourceHash": "596c0360c3ed3b7a9bfb163f472718225d783ac4f2f347565a6ab169598db897",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "维琪·赖德奥特 (Vicky Rideout) 经营着一家研究儿童与媒体和技术互动的研究公司，她对这一发现并不感到惊讶。她说这并不是青少年特有的。 “他们面临着与成年人相同的挑战，因为他们生活在一个旨在将尽可能多的时间花在设备上的技术环境中，”赖德奥特说。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-1-12",
+      "paperId": "cet4:2022-12-03",
+      "kind": "cloze",
+      "sourceText": "The way parents interact with technology can 33 the way they interact with their kids. Rideout thus thinks it's up to parents to model good 34 : Kids tend to take note if their parents put their phone away at dinner or charge it in another room while they sleep. Witnessing habits like that can help kids \"realize that they can 35 some more control over their devices,\" she says.",
+      "sourceHash": "097360aa119f2353867c60b83c5ca9f476dece8db17945d9285994900490c6f9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "父母与技术互动的方式可以塑造他们与孩子互动的方式。因此，赖德奥特认为，父母应该树立良好的行为榜样：如果父母在晚餐时把手机收起来，或者在睡觉时把手机放在另一个房间充电，孩子们往往会注意到。她说，见证这样的习惯可以帮助孩子“意识到他们可以对自己的设备进行更多的控制”。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-2-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-2-5",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) A few years ago I found myself teaching a university class on evil. It was for third-year criminology students to help them contextualize theory and research within controversial current topics. It was a huge success. The debates were heated and interesting. I could see people's views change within the course of a single lecture. Over the past 13 years, as a student, lecturer and researcher, I've enjoyed discussing the science of evil with anyone willing to listen. What I like most is destroying the cliché (陈词滥调) of good and evil, and replacing them with scientific insight. We need a more informed way of discussing behavior that at first we cannot, or should not, begin to understand.",
+      "sourceHash": "b29f3af3003228ada9de733117aaec0c7a096a65bc64da1637f4cc9f26be4e7a",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 几年前，我发现自己在大学教授一门关于邪恶的课程。这是针对三年级犯罪学学生的，帮助他们将理论和研究融入当前有争议的话题中。这是一个巨大的成功。辩论热烈而有趣。我可以在一次讲座的过程中看到人们的观点发生变化。在过去的 13 年里，作为一名学生、讲师和研究员，我很高兴与任何愿意倾听的人讨论邪恶的科学。我最喜欢的是打破善恶的陈词滥调，并用科学的见解取而代之。我们需要一种更明智的方式来讨论一开始我们无法或不应该开始理解的行为。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-2-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) Without understanding, we risk dehumanizing others, writing off human beings simply because we don't comprehend them. We must try to understand what we have labeled evil. We tend to think evil is something that other people are. We think of ourselves as \"good people\", and even when we do morally wrong things, we understand the context of our decisions. With others, however, it is far easier to write them off. If their actions deviate (偏离) substantially from what we consider acceptable, we may label them evil. We need to be careful with this. Calling someone evil is often similar to saying they cannot change, and perhaps aren't even a human at all. However, when you actually go monster-hunting, and you look deeply at the people behind shocking behavior, you may be surprised.",
+      "sourceHash": "b3af63ed7021901087337d91c65c0f73bf1086d0cf48cb49f86d0ea6ba1fe592",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 如果不理解，我们就会冒着非人化他人的风险，仅仅因为我们不理解他们，就将他们排除在外。我们必须尝试理解我们所贴上的邪恶标签。我们倾向于认为其他人也是邪恶的。我们认为自己是“好人”，即使我们做了道德上错误的事情，我们也理解我们做出决定的背景。然而，对于其他人来说，注销它们要容易得多。如果他们的行为严重偏离我们认为可接受的范围，我们可能会给他们贴上邪恶的标签。我们需要小心这一点。称某人为邪恶通常类似于说他们无法改变，甚至可能根本不是人。然而，当你真正去狩猎怪物，并深入观察令人震惊的行为背后的人时，你可能会感到惊讶。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-2-7",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) As a child I used to love the Scooby-Doo cartoons. Arriving in their \"Mystery Machine\", the gang would have to find a monster who was terrorizing a neighborhood. They would run around looking for clues and at the end unmask the bad guy. It was always a normal person in a costume. There were no monsters. Like the Scooby crew, we may find ourselves hunting for an easy fix, one word for people who do bad things. But if we take a good look, the word 'evil' is insufficient — there are no simple explanations for why humans do bad things: instead there are many, and they are all marvelously different.",
+      "sourceHash": "c7ea37909c5eb4ab7637307c6e3c1c8c39ebfd7a1ee7dfdd6f0792ab229dfb01",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 小时候我很喜欢史酷比 (Scooby-Doo) 卡通片。到达他们的“神秘机器”后，这伙人必须找到一个正在恐吓邻居的怪物。他们会四处寻找线索，最终揭穿坏人的真面目。一直都是一个穿着戏服的普通人。没有怪物。就像《史酷比》剧组一样，我们可能会发现自己在寻找一种简单的解决办法，这个词指的是那些做坏事的人。但如果我们仔细观察，“邪恶”这个词是不够的——对于人类为什么做坏事没有简单的解释：相反，有很多解释，而且它们都截然不同。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-2-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) Evil is typically referred to when there is deviance from social norms: formal deviance is the violation of laws, like theft, murder, and attacks, while informal deviance involves violations of social norms, like lying. Evil behavior is typically thought to embrace one or both forms. However, deviance can also describe a behavior that simply differs from the norm.",
+      "sourceHash": "597596bc3ddca6625b675585cc7ebdaa06d45c65e5521c45da73adba811348d8",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-2-8",
+        "cet4:2022-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）邪恶通常指的是违反社会规范的行为：正式的越轨行为是指违反法律，例如盗窃、谋杀和袭击，而非正式的越轨行为则涉及违反社会规范，例如撒谎。邪恶行为通常被认为包含一种或两种形式。然而，异常也可以描述与正常情况完全不同的行为。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-2",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) Perhaps this is where we can find the good side of our bad side. Deviating from the norm can make us villains (恶棍), but it can also make us heroes. A child deviates from social pressures when they stand up for another child being bullied in school. A soldier deviates when they choose not to follow orders to kill an innocent civilian. An employee in a big tech company deviates when they expose its wrongdoings.",
+      "sourceHash": "b4604a9bb23696bbdae659eafc49e0658ac289ea74b9f400b6eba79188fb4329",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 也许这就是我们可以找到坏的一面和好的一面的地方。偏离常规可以使我们成为恶棍，但也可以使我们成为英雄。当一个孩子为另一个在学校被欺凌的孩子挺身而出时，他们就偏离了社会压力。当一名士兵选择不听从杀害无辜平民的命令时，他们就偏离了轨道。一家大型科技公司的员工在揭露其不当行为时就偏离了方向。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) Creativity is also a deviation. Here, too, things are complex. Thinking creatively has given us modern medicine, technology and modern political structures, but it has also given us poison and nuclear weapons. Great benefit and great harm can come from the same human tendency.",
+      "sourceHash": "d285cd1d052151300051807c6597293268f31b1f42b6bb40104cf75a052ffbdb",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 创造力也是一种偏差。这里的情况也很复杂。创造性思维给了我们现代医学、技术和现代政治结构，但它也给了我们毒药和核武器。大利和大害都可能来自同一个人类倾向。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-4",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) In a research paper, Evil Genius, published in 2014, the behavioral scientists Francesca Gino and Scott Wiltermuth wanted to examine whether people who behave unethically in one task are more creative than others on a subsequent task, even after controlling for differences in baseline creative skills. The unethical behavior they chose was dishonesty.",
+      "sourceHash": "c64b2c162e507d2c913f1f8e1d31d9d157997f699430517030c177e0340284fd",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 在 2014 年发表的一篇研究论文《Evil Genius》中，行为科学家 Francesca Gino 和 Scott Wiltermuth 想要研究在一项任务中表现不道德的人在后续任务中是否比其他人更具创造力，即使在控制了基线创造性技能的差异之后也是如此。他们选择的不道德行为是不诚实。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-5",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) Over five experiments researchers gave participants tasks in which they could cheat. In one study, they were given matrixes (矩阵) and had to find two numbers that added up to 10. Participants were asked to self-report how well they did at the end of the study: 59% cheated by saying that they solved more matrixes than they actually had.",
+      "sourceHash": "cc14778c3709cc063a78316737fd2edfe71bf269e77997a728ae82d12dceba23",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 超过五个实验的研究人员给参与者布置了可以作弊的任务。在一项研究中，他们得到了矩阵，并且必须找到两个数字相加等于 10。参与者被要求在研究结束时自我报告他们的表现：59% 的人作弊，因为他们说他们解出了比实际解出的矩阵更多的矩阵。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) After each task, the researchers measured participants' performance on the Remote Associates Test. This shows participants three words at a time that appear to be unrelated, and the person has to think of a fourth word that is associated with all of them. For example, you might get \"Fox, Man, Peep\", or \"Dust, Cereal, Fish\". In order to find the linking words (\"Hole\" for the first, \"Bowl\" for the second) you need to be creative. The more you get right, the more creative you are thought to be because you have come up with uncommon associations.",
+      "sourceHash": "d347c72c682394a171dbfef2b159fc13291abe17c5c367f71863fdc575cea37f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 每项任务完成后，研究人员都会测量参与者在远程同事测试中的表现。这一次向参与者展示了三个看似无关的单词，并且参与者必须想出与所有这些单词相关的第四个单词。例如，您可能会得到“狐狸、人、窥视”或“灰尘、谷物、鱼”。为了找到链接词（第一个词为“洞”，第二个词为“碗”），您需要发挥创意。你做对的越多，人们就会认为你越有创造力，因为你想出了不寻常的联想。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-7",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) For every one of the five studies, they found the same thing — participants who cheated in the first task did better on the creativity task. Why? Like other forms of unethical behavior, lying means breaking rules. It involves being deviant, going against the social principle that people should tell the truth. Similarly, being creative involves \"thinking outside the box \", deviating from expectations. They involve similar thought patterns, so stimulating one stimulates the other. Can we learn from this? Perhaps. To be more creative, we could try lying in a controlled environment. Find online logic games and cheat at them, play Scrabble (拼字游戏) with a dictionary, or write a story about something that is untrue? Such tasks can get our brains thinking flexibly, beyond our normal comfort zone. This is not a call to become a compulsive (强迫性的) liar, but a controlled liar.",
+      "sourceHash": "349df13d344f839e3005748292bf97d4f298d7e6532a3edc830fa4714a2c463c",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 对于五项研究中的每一项，他们都发现了同样的事情——在第一项任务中作弊的参与者在创造力任务中表现更好。为什么？与其他形式的不道德行为一样，撒谎意味着违反规则。它涉及偏差，违背人们应该说实话的社会原则。同样，创造性意味着“跳出框框思考”，偏离预期。它们涉及相似的思维模式，因此刺激一种会刺激另一种。我们可以从中学习吗？也许。为了更有创意，我们可以尝试躺在受控的环境中。寻找在线逻辑游戏并作弊，用字典玩拼字游戏，或者写一个关于不真实事物的故事？这些任务可以让我们的大脑灵活思考，超越我们正常的舒适区。这并不是要求成为强迫性的说谎者，而是成为受控的说谎者。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-3-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) In addition to benefits for creativity, deviance can be a good thing in other ways. Even Philip Zimbardo, the author of the Stanford prison experiment, who showed how easily we can be led to behave badly, believes that the future of deviance research may lie more in understanding extreme pro-social behavior, such as heroism. Like evil, we often view heroism as only a possibility for outliers — for people who are abnormal. But Zimbardo asks: \"What if the capability to act heroically is also fundamentally ordinary and available to all of us?\" Some say we should never meet our heroes, lest they disappoint us when we find out how normal they are. But this should be liberating, not disappointing. We are all capable of behaving like outliers. It's time for us to understand deviance, and realize its potential for good as well as for harm.",
+      "sourceHash": "dc52b314b2177aeb573d970967abb51d463bb607eda093be0c6763cd1b76973d",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-3-8",
+        "cet4:2022-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 除了有利于创造力之外，偏差在其他方面也可能是一件好事。斯坦福大学监狱实验的作者菲利普·津巴多（Philip Zimbardo）证明了我们很容易做出不良行为，但他也认为，越轨研究的未来可能更多地在于理解极端的亲社会行为，例如英雄主义。就像邪恶一样，我们常常认为英雄主义只是局外人——不正常的人——的一种可能性。但津巴多问道：“如果英勇行动的能力从根本上来说也是普通的，并且我们所有人都具备，那会怎样呢？”有人说我们永远不应该见到我们的英雄，以免当我们发现他们多么平凡时，他们会让我们失望。但这应该是一种解放，而不是令人失望。我们都有可能表现得像局外人。现在是我们了解异常现象并认识到它的潜在好处和危害的时候了。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-8",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-2",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. A behavior that does not conform to social norms may be described as being deviant.",
+      "sourceHash": "c1c1dbba120bab8761d09d8912495d68a18df5f254755ae2eded9da2e599dd85",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 不符合社会规范的行为可被描述为越轨行为。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Various experiments found that participants who cheated in the initial task performed better in the creativity test.",
+      "sourceHash": "d077fafda2f93d42a907a46f2af2376e871d5a8fc497927c1ca90642cdb19e9a",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 各种实验发现，在初始任务中作弊的参与者在创造力测试中表现更好。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-4",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. People may be simply considered evil if their behaviors are morally unacceptable to us.",
+      "sourceHash": "a7ab28a688d367cdac53408cd0dec38c01520ed0eb333053c74cc0acf5a1ca5c",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 如果人们的行为在道德上不为我们所接受，我们可能会简单地认为他们是邪恶的。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-5",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. The research published by two scientists was intended to examine the relationship between dishonesty and creativity.",
+      "sourceHash": "f686e1e79e53791eb7ccd607db301ff90b2b2c302e01a1029ed59eaec4dd661a",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 两位科学家发表的研究旨在探讨不诚实与创造力之间的关系。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. The author's lectures sparked lively discussions in his class.",
+      "sourceHash": "43a5a6de55f68deafbd3ba5ecd7d6c76e7a75ed9c10b6bbb1df4f991ff784846",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 作者的讲座在课堂上引起了热烈的讨论。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-7",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. The researchers tested the participants' creativity by asking them to play a word game.",
+      "sourceHash": "11de3509696770e825fed61053586e7a88b54c4c420c69d6f87188a90c12dd2b",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 研究人员通过要求参与者玩文字游戏来测试他们的创造力。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. It is time we realized that deviance may be capable of doing both good and harm to individuals and society.",
+      "sourceHash": "be710aec72515f61aa019a1382ea0fd27e9d6f866f68bdbec433f5069da7c450",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 现在我们应该认识到，越轨行为可能对个人和社会既有好处，也有坏处。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-9",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. The reasons for people's evil behaviors can be explained in more ways than one.",
+      "sourceHash": "55151596be758e3a123a66d6340bf2686b239a249314406ac6376c4174568a87",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 人们的邪恶行为的原因可以用多种方式来解释。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-10",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. The math task in one experiment was designed to test participants' tendency to cheat.",
+      "sourceHash": "7ba352e4ceb203f80bdf45522e1c99761714789d3711d038ec31c269af29ddcb",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 一项实验中的数学任务是为了测试参与者作弊的倾向而设计的。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-11",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Some creative ideas have turned out to do harm to human society.",
+      "sourceHash": "b00bc43bd2ca525976c89e59701c20a56093f1cf5e0dc47a7451b90188b63f66",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 事实证明，一些创造性的想法对人类社会造成了危害。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-13",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-15",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-16",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Even though we are living in an age where growing old is thought of as an inevitable misery, this doctor has been changing the game for seniors over the last 25 years.",
+      "sourceHash": "792f5f90f89d2a8b2f43066a04c7dee337a1b2dc9a3f53e85f5fbd2d63d7db71",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "尽管我们生活在一个人们认为变老是不可避免的痛苦的时代，但这位医生在过去 25 年里一直在改变老年人的游戏规则。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-17",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "It all started in 1991 when the Harvard-educated physician was transferred from working in a stressful emergency room to being the medical director of a nursing home in upstate New York. The depressing and regimented (严格管制的) environment got him thinking on what exactly could improve the residents' conditions.",
+      "sourceHash": "54cdc80c49f975f5bb556d909d877d3ab00cb569c2c9df83986578e0c9722fd9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这一切都始于 1991 年，当时这位哈佛毕业的医生从压力很大的急诊室工作调到纽约州北部一家疗养院的医疗主任。压抑和严格管制的环境让他开始思考到底怎样才能改善居民的状况。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-18",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Even though animals in nursing homes were illegal at the time, Dr. Bill Thomas took a chance. Based on a hunch (直觉), he brought in two dogs, four cats, hens, rabbits, 100 birds, a multitude of plants, a flower garden, and a vegetable patch.",
+      "sourceHash": "eb4abdeba110db59008ba25bb7cbd5677f5931e470a449b576ed456884e5c2a2",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "尽管当时在疗养院饲养动物是非法的，比尔·托马斯博士还是抓住了机会。根据直觉，他引进了两只狗、四只猫、母鸡、兔子、100只鸟、多种植物、一个花园和一块菜地。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-19",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "The change was dramatic. There was a 50% drop in medical prescriptions along with a dramatic decrease in death rates — but most importantly, the residents were simply happier.",
+      "sourceHash": "00e8d9a48ce749529a9718a768ccc5e3cb581c0811b9d4b24f0d15756c9be37c",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "变化是巨大的。医疗处方数量减少了 50%，死亡率也大幅下降——但最重要的是，居民们更加快乐了。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-4-20",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Dr. Thomas's approach, named the Eden Alternative, has driven nursing homes to allow a more autonomous (自主的) and creative living space for their elderly. It erases the belief that growing old means growing useless. He encourages residents to think of their age as an enriching new phase of life rather than the end of it.",
+      "sourceHash": "b3f4e949f254b1b72189c68f8203ae9dd26b5722a0d820530cf107b4e7859adb",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-4-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-4-20",
+        "cet4:2022-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "托马斯博士的方法被称为“伊甸园替代方案”，它推动疗养院为老年人提供更加自主和创造性的生活空间。它消除了“变老意味着变得无用”的信念。他鼓励居民将自己的年龄视为生活的一个丰富的新阶段，而不是它的终结。",
+      "source": {
+        "blockIds": [
+          "b-4-19"
+        ],
+        "reflowBlockIds": [
+          "b-4-20",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-2",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Thomas, now a speaker and author of several books, also created small, independently-run residences with their own bedrooms and bathrooms, and he has been preaching a singular message that getting old is not a bad thing.",
+      "sourceHash": "7c4097a996ccd8b2ae172f8781b7df34a93b75762ce7d628e0b98c6d1ead995b",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "托马斯现在是一名演讲家，也是多本书的作者，他还建造了小型、独立经营的住宅，有自己的卧室和浴室，他一直在宣扬一个独特的信息：变老并不是一件坏事。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "\"Within six weeks, they had to send a truck around to pick up all the wheelchairs,\" Thomas told the Washington Post. \"You know why most people in nursing homes use wheelchairs? Because the buildings are so big.\"",
+      "sourceHash": "6b705d0919ad43a22c71fcbb8a4ae638c3b1cb3dc6fe486278288db475691187",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "托马斯告诉《华盛顿邮报》：“六周内，他们不得不派一辆卡车来运走所有轮椅。” “你知道为什么疗养院里的大多数人都使用轮椅吗？因为建筑物太大了。”",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-4",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "The 56-year-old doctor's methods have been adopted in Australia, Japan, Canada, and America with enormous success. Last year he published Second Wind: Navigating the Passage to a Slower, Deeper, and More Connected Life, a guide on how to shift our perspectives on aging and growth.",
+      "sourceHash": "43fbe43f0872dc1cb72eabbd6ef2259d197c226854caba3f37d81b50f31ebe79",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这位56岁医生的方法已被澳大利亚、日本、加拿大和美国采用，并取得了巨大成功。去年，他出版了《第二次风：通往更慢、更深入、更互联的生活》一书，这是一本关于如何改变我们对衰老和成长的看法的指南。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-5",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "He is currently traveling through North America performing with his guitar and his enthusiasm on his Age of Disruption Tour.",
+      "sourceHash": "ef92ebebdea0367c29032d5946b402d587b707b77730e782e46a5415fbeaeb91",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "他目前正在北美各地巡演，带着他的吉他和他的热情，参加他的 Age of Disruption 巡演。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What has Bill Thomas been doing for a quarter of a century?",
+      "sourceHash": "44bf0438fe66d75dbcc2c33ca444c86815789e16fff00a0649716352ef0fd5ed",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 四分之一个世纪以来，比尔·托马斯一直在做什么？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. Why did Bill Thomas try something different in the nursing home?",
+      "sourceHash": "4ba4296c08efae8b3b16a61119ad22466a0974e8fc1fe6af9e0885085de2112e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 为什么比尔托马斯在疗养院尝试不同的东西？",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-10",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What do we learn about Bill Thomas bringing animals and plants into the nursing home?",
+      "sourceHash": "caa040598ee0f5541d87f8ffe9451423a4aedb2d5b13229c2d2f3bff697ec885",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 关于比尔·托马斯将动物和植物带入疗养院，我们了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-12",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What has Bill Thomas been persistently advocating?",
+      "sourceHash": "4d5d5a021e48bdc87cf61de9cc5ce765af2c1361cd4a0ae91a756a2b8cd38463",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 比尔·托马斯一直主张什么？",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-5-14",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. How is Bill Thomas's new concept received??",
+      "sourceHash": "8cd2b0154c1464187506c7f6beada5acee2cbe8207025da78752ef75e4496613",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 比尔·托马斯的新概念反响如何？",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-2",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-3",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets — including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that are nutrient-poor and energy-dense. They are less likely to have food-purchasing habits that conform to public health recommendations.",
+      "sourceHash": "2d1365b8d118a181a2148220c2ea51f297089bf628ecb7f8a10195881fd7724e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究表明，在发达国家，更富裕和受过教育的人倾向于消费更高质量的饮食，包括更多的水果和蔬菜、鱼类和全谷物。相反，经济弱势群体的饮食营养匮乏且能量密集。他们不太可能有符合公共卫生建议的食品购买习惯。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-4",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "These dietary differences are often accompanied by higher rates of obesity and diabetes among lower- income people. This relationship between social class and diet quality and health is extensively documented. However, the research does not explain why this is the case — a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases.",
+      "sourceHash": "328604aa129e7b2aed8841fecfc1bfa52b2d6a502b3d287cfa9822fa4f47402e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些饮食差异往往伴随着低收入人群肥胖和糖尿病的发病率较高。社会阶层与饮食质量和健康之间的关系已被广泛记录。然而，该研究并没有解释为什么会出现这种情况——这个问题对于设计有效的政策和举措来改善饮食和预防慢性病具有重要意义。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-5",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Public-health initiatives to promote healthy diets often focus on providing nutrition education and recipes (食谱). These approaches, however, often presume less food literacy (i.e. food knowledge and skills) among low-income people. Are unhealthy diets really the result of poor choices, limited food skills and knowledge?",
+      "sourceHash": "292f99f11e7b1cd88387490c3c3cac55df15eedf309be94764a7bf8da7af96bc",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "促进健康饮食的公共卫生举措通常侧重于提供营养教育和食谱 (食谱)。然而，这些方法通常假定低收入人群的食品素养（即食品知识和技能）较低。不健康的饮食真的是选择不当、饮食技能和知识有限的结果吗？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Research suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indication that increasing food skills or budgeting skills will reduce food insecurity.",
+      "sourceHash": "490e8f3023f2c79526a7eac5e461b1fc6290049c1554c7b9bd048c37a45e9cd5",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究表明，粮食不安全家庭中的成年人与粮食安全家庭中的成年人一样有可能调整食谱以使其更健康。他们也同样精通食物准备和烹饪技巧。没有迹象表明提高粮食技能或预算技能会减少粮食不安全。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-7",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "Instead, disadvantaged groups are constrained by their economic, material and social circumstances. For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods.",
+      "sourceHash": "8841935caad12e2bcbb7ae22d6a00617e46af9b3abfdd5322e133f8948430d50",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "相反，弱势群体受到经济、物质和社会环境的限制。例如，低收入是加拿大粮食不安全的最有力预测因素，八分之一的家庭无法获得营养食品。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-8",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "It's well-established that food prices are an important determinant of food choice. Low-income households report that they find it difficult to adopt dietary guidelines because food prices are a barrier to improving their diets.",
+      "sourceHash": "3583fc4c0a0ccfba488a887938f1f57902d85dde9d77211904e30df3140ef250",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "众所周知，食品价格是食品选择的重要决定因素。低收入家庭报告说，他们发现很难采用膳食指南，因为食品价格是改善他们饮食的障碍。",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-9",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "When researchers estimate the cost of diets people actually eat, higher-quality diets are typically more costly.",
+      "sourceHash": "629502bb840d836a8c9788977965a80c13569fb531598ff63f02610c36a2e123",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当研究人员估计人们实际饮食的成本时，高质量的饮食通常更昂贵。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-10",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "While this may be so, it does not, in itself, prove that healthy diets are necessarily more expensive or cost-prohibitive. After all, not all socioeconomically disadvantaged people consume poor diets.",
+      "sourceHash": "4c2a761f993c4792cc60a11ec4462ca16aa8f93908b681875a5e7b2a10d96102",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "虽然情况可能如此，但它本身并不能证明健康饮食必然更昂贵或成本过高。毕竟，并非所有社会经济弱势群体的饮食习惯都很差。",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-11",
+      "paperId": "cet4:2022-12-03",
+      "kind": "reading",
+      "sourceText": "We can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\"",
+      "sourceHash": "4b0d7c1a39d3e1fd3da3aee305345adc5751d5545f55ace11cfafeaabce968bc",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们可以很容易地想到许多既便宜又营养丰富的食物和食谱。互联网上充斥着“在预算内吃得好”的食谱。",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-12",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What can we learn from research on diets in developed countries?",
+      "sourceHash": "57cbb7305a47b14a31d9f8d0f9d30aaaa45bef84437e07b4f1c15271abb8d169",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.我们可以从发达国家的饮食研究中学到什么？",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-6-14",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What does the author say is important in formulating policies to improve diets and health?",
+      "sourceHash": "01489cec9785a349b165f1b7f241b018a235475f10f11afd0c1f784b32b9170f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 作者认为制定改善饮食和健康的政策重要的是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-7-2",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What does research reveal about adults in food-insecure households?",
+      "sourceHash": "83f9449361dd3aa6505f2800929528549681435995b71936702a44a9b62a462e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 研究揭示了粮食不安全家庭中成年人的哪些情况？",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-7-4",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What would help improve food security among the disadvantaged groups in Canada?",
+      "sourceHash": "ec0d4758b20e8d848f763cdaa22d9153c72447cfa3b6653c7f8b7765363c44f5",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 什么有助于改善加拿大弱势群体的粮食安全？",
+      "source": {
+        "blockIds": [
+          "b-7-4"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-7-6",
+      "paperId": "cet4:2022-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the author suggest disadvantaged people do to improve their health?",
+      "sourceHash": "117bf4954abd91e72cf50ed1359594283b02064bec0b4db29da804e987b1114c",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 作者建议弱势群体如何改善健康？",
+      "source": {
+        "blockIds": [
+          "b-7-6"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2022-12-03:p:b-7-9",
+      "paperId": "cet4:2022-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2022-12-03:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2022-12-03.json",
+        "pdfSha256": "d44da320a1d67612125d92728cc846749e84e375c619d8c1186bb76f9ccc5f10",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2022-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2022-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2022-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-46-1",
+      "optionId": "cet4:2022-12-03:q-46-1:A",
+      "sourceText": "Transforming people's lifestyle.",
+      "sourceHash": "a226a8512ddd7dfc7fe03e96d9279cd0b0b8f6e6055da701e4aa76a68a064531",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Transforming people's lifestyle.",
+      "translationEligible": true,
+      "translationZh": "改变人们的生活方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-46-1",
+      "optionId": "cet4:2022-12-03:q-46-1:B",
+      "sourceText": "Honoring his Harvard education.",
+      "sourceHash": "e2de5c16b50ef9cc9ca63d205ed52b19e465440cf13975d5f1f3e9c8856ece65",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Honoring his Harvard education.",
+      "translationEligible": true,
+      "translationZh": "尊重他的哈佛教育。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-46-1",
+      "optionId": "cet4:2022-12-03:q-46-1:C",
+      "sourceText": "Changing people's philosophy of life.",
+      "sourceHash": "be7aafe8e6f5946852625309e38c19d38a838fc9498eacf5b6e0d15ee898a8c7",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Changing people's philosophy of life.",
+      "translationEligible": true,
+      "translationZh": "改变人们的生活理念。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-46-1",
+      "optionId": "cet4:2022-12-03:q-46-1:D",
+      "sourceText": "Shifting people's perspective on aging.",
+      "sourceHash": "2868bc7d954b72178d501534f6c46f37eb28faab2415deac5c39b6eab42753b5",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Shifting people's perspective on aging.",
+      "translationEligible": true,
+      "translationZh": "改变人们对老龄化的看法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-47-1",
+      "optionId": "cet4:2022-12-03:q-47-1:A",
+      "sourceText": "He wanted to make it more pleasant for seniors.",
+      "sourceHash": "5503f2099d63a3c037adccf30909829dd83a1aeb48e68ae0302443f4fe79e7b9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He wanted to make it more pleasant for seniors.",
+      "translationEligible": true,
+      "translationZh": "他想让老年人感到更愉快。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-47-1",
+      "optionId": "cet4:2022-12-03:q-47-1:B",
+      "sourceText": "He wanted to apply his Harvard training to practice.",
+      "sourceHash": "5fa9289b65023b347cb946f326159020260b58f93a9ecbfb463c1a04a1eb29b6",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He wanted to apply his Harvard training to practice.",
+      "translationEligible": true,
+      "translationZh": "他想将哈佛训练应用到实践中。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-47-1",
+      "optionId": "cet4:2022-12-03:q-47-1:C",
+      "sourceText": "He felt it his duty to revolutionize its management.",
+      "sourceHash": "63831baa1b7fc1f7a7fdb1a2f944068b526424d8c756889b1a36cd6854c6a9c9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He felt it his duty to revolutionize its management.",
+      "translationEligible": true,
+      "translationZh": "他认为自己有责任彻底改变公司的管理方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-47-1",
+      "optionId": "cet4:2022-12-03:q-47-1:D",
+      "sourceText": "He felt disappointed working in the environment.",
+      "sourceHash": "d2d30e0a2613eed5cbb872daf2479364a51b404ee048558cd3985b36ba85b62c",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He felt disappointed working in the environment.",
+      "translationEligible": true,
+      "translationZh": "他对在这样的环境中工作感到失望。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-48-1",
+      "optionId": "cet4:2022-12-03:q-48-1:A",
+      "sourceText": "He made a mess of the nursing home.",
+      "sourceHash": "527193342ab2a0d03c0f745813183358898e45f19cad225d0e472915570d4538",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He made a mess of the nursing home.",
+      "translationEligible": true,
+      "translationZh": "他把疗养院弄得一团糟。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-48-1",
+      "optionId": "cet4:2022-12-03:q-48-1:B",
+      "sourceText": "He did something all professionals would do.",
+      "sourceHash": "05b40e305cbb64e8aa23f34b110b265658dbdf982950b27b22aff72a8a7290a9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He did something all professionals would do.",
+      "translationEligible": true,
+      "translationZh": "他做了所有专业人士都会做的事情。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-48-1",
+      "optionId": "cet4:2022-12-03:q-48-1:C",
+      "sourceText": "He won instant support from the state authorities.",
+      "sourceHash": "bf898025b7af387ed64a96e05590f3f5f5726c72498b5633964301ea1f9ac21e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He won instant support from the state authorities.",
+      "translationEligible": true,
+      "translationZh": "他立即赢得了国家当局的支持。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-48-1",
+      "optionId": "cet4:2022-12-03:q-48-1:D",
+      "sourceText": "He acted in violation of the state law.",
+      "sourceHash": "03d256e011a6dc590c8b29525270fc2d8f57d45f5d664cb1411d0a3e3eb5a2e6",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He acted in violation of the state law.",
+      "translationEligible": true,
+      "translationZh": "他的行为违反了州法律。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-49-1",
+      "optionId": "cet4:2022-12-03:q-49-1:A",
+      "sourceText": "Good health is not just a privilege of the young.",
+      "sourceHash": "5360d5fa58997c7932047874dd7805f813c50f3e75ffa9a9325c63ab8fe84cd4",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Good health is not just a privilege of the young.",
+      "translationEligible": true,
+      "translationZh": "身体健康不仅仅是年轻人的特权。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-49-1",
+      "optionId": "cet4:2022-12-03:q-49-1:B",
+      "sourceText": "Nursing homes should be strictly limited in size.",
+      "sourceHash": "3c90fea1ccfc86b06ee608bafc3a5b7b30f2100512315f9ec078affe186bd721",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Nursing homes should be strictly limited in size.",
+      "translationEligible": true,
+      "translationZh": "疗养院的规模应受到严格限制。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-49-1",
+      "optionId": "cet4:2022-12-03:q-49-1:C",
+      "sourceText": "Getting old is by no means something miserable.",
+      "sourceHash": "774b788bbc40acc7f6e13d6cc7ac505a60aa6f9c8d31529da7871c45b07c3ade",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Getting old is by no means something miserable.",
+      "translationEligible": true,
+      "translationZh": "变老并不是什么悲惨的事情。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-49-1",
+      "optionId": "cet4:2022-12-03:q-49-1:D",
+      "sourceText": "Residences for seniors should be run independently.",
+      "sourceHash": "9d1dc423c1ffd409aed674b3a4e0aff7e90228cb7b11aeb5f805d48cf448a24f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Residences for seniors should be run independently.",
+      "translationEligible": true,
+      "translationZh": "老年人住宅应当独立经营。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-50-1",
+      "optionId": "cet4:2022-12-03:q-50-1:A",
+      "sourceText": "It is gaining ground in many countries.",
+      "sourceHash": "82f60f5ed99f139a98c40b582b7692fef46deaa8f36a69ba785d581fbb2a0b04",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is gaining ground in many countries.",
+      "translationEligible": true,
+      "translationZh": "它正在许多国家取得进展。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-50-1",
+      "optionId": "cet4:2022-12-03:q-50-1:B",
+      "sourceText": "It is being heatedly debated worldwide.",
+      "sourceHash": "381456302baef749db76b79cc366a994c66b2689cb2f3fefb54ddf6dee2ae612",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is being heatedly debated worldwide.",
+      "translationEligible": true,
+      "translationZh": "全世界都在激烈争论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-50-1",
+      "optionId": "cet4:2022-12-03:q-50-1:C",
+      "sourceText": "It is considered revolutionary everywhere.",
+      "sourceHash": "f5f7e180e3a673a1ed3214eb500b172138096d60fe9764b85c1630e11241d988",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is considered revolutionary everywhere.",
+      "translationEligible": true,
+      "translationZh": "它在任何地方都被认为是革命性的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-50-1",
+      "optionId": "cet4:2022-12-03:q-50-1:D",
+      "sourceText": "It is winning approval from the government.",
+      "sourceHash": "6002781fdfc0e7d1e920873bbdab84e15d6244eb1acd4a582b2a635a8ec92388",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-5-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is winning approval from the government.",
+      "translationEligible": true,
+      "translationZh": "它正在赢得政府的批准。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-51-1",
+      "optionId": "cet4:2022-12-03:q-51-1:A",
+      "sourceText": "Dietary recommendations are not fit for underprivileged people.",
+      "sourceHash": "310418d09658adcfc03697d3897a146f105f16b93f10ca48f560afefaf92c140",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-6-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Dietary recommendations are not fit for underprivileged people.",
+      "translationEligible": true,
+      "translationZh": "饮食建议不适合弱势群体。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-51-1",
+      "optionId": "cet4:2022-12-03:q-51-1:B",
+      "sourceText": "People from different social groups vary in ·their dietary habits.",
+      "sourceHash": "6f699589cb098e1ffef5577dd40b0d68a3829fbac274eeb111b40a26e0481c19",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-6-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "People from different social groups vary in ·their dietary habits.",
+      "translationEligible": true,
+      "translationZh": "不同社会群体的人们的饮食习惯各不相同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-51-1",
+      "optionId": "cet4:2022-12-03:q-51-1:C",
+      "sourceText": "People's choice of food depends on their individual taste.",
+      "sourceHash": "d1aa878a88a075cef1ef992d7af1a550790e2d1805e87fcbc58f7fded8fee332",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-6-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "People's choice of food depends on their individual taste.",
+      "translationEligible": true,
+      "translationZh": "人们对食物的选择取决于个人口味。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-51-1",
+      "optionId": "cet4:2022-12-03:q-51-1:D",
+      "sourceText": "There is no consensus on what high-quality diets are.",
+      "sourceHash": "be53ef0878277a5617881becbd526609fdec422b99306cf583360541f7d603b3",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-13"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-6-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "There is no consensus on what high-quality diets are.",
+      "translationEligible": true,
+      "translationZh": "对于什么是高质量饮食，目前还没有达成共识。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-52-1",
+      "optionId": "cet4:2022-12-03:q-52-1:A",
+      "sourceText": "A better understanding of the relationship between social class and health.",
+      "sourceHash": "f921f5d9c7e53376b513798d3baea5ac617c45d1d4bffa2d0df73253bc327c40",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-6-15"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-6-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A better understanding of the relationship between social class and health.",
+      "translationEligible": true,
+      "translationZh": "更好地理解社会阶层与健康之间的关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-52-1",
+      "optionId": "cet4:2022-12-03:q-52-1:B",
+      "sourceText": "A greater emphasis on studying the cause of obesity and chronic diseases.",
+      "sourceHash": "64e96bab6bd0c448451eeb607b77454e02590caa0029b08767eebb346072b792",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A greater emphasis on studying the cause of obesity and chronic diseases.",
+      "translationEligible": true,
+      "translationZh": "更加重视研究肥胖和慢性疾病的原因。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-52-1",
+      "optionId": "cet4:2022-12-03:q-52-1:C",
+      "sourceText": "Prioritizing the provision of better nutrition for lower classes.",
+      "sourceHash": "94728b17f3d0a9a73dc97eb67ac0c0a7479d52fe9ab8baa24b790f3c8a70d64e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Prioritizing the provision of better nutrition for lower classes.",
+      "translationEligible": true,
+      "translationZh": "优先为下层阶级提供更好的营养。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-52-1",
+      "optionId": "cet4:2022-12-03:q-52-1:D",
+      "sourceText": "Designing education programs and initiatives on public health.",
+      "sourceHash": "148e0652e3ca135f5b0cfe50de9e9194ebdb9384ead847fcc88dae3834c1990b",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Designing education programs and initiatives on public health.",
+      "translationEligible": true,
+      "translationZh": "设计公共卫生教育计划和举措。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-53-1",
+      "optionId": "cet4:2022-12-03:q-53-1:A",
+      "sourceText": "Their eating habits need to be changed.",
+      "sourceHash": "dee45472c3b6838b44f4983bccc8b870bb42c3124eaca007b8cfcea49bbc8076",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Their eating habits need to be changed.",
+      "translationEligible": true,
+      "translationZh": "他们的饮食习惯需要改变。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-53-1",
+      "optionId": "cet4:2022-12-03:q-53-1:B",
+      "sourceText": "Their food literacy has been improving.",
+      "sourceHash": "74eb86510efdadb640596a01a2c24be3071ba3165178d72f1f30f0d30d8e7035",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Their food literacy has been improving.",
+      "translationEligible": true,
+      "translationZh": "他们的食物素养一直在提高。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-53-1",
+      "optionId": "cet4:2022-12-03:q-53-1:C",
+      "sourceText": "They do not pay much attention to their food recipes.",
+      "sourceHash": "a9b265d6e3de4fbe02b736c066dd21167d252866611071cbdfe08a30a7cd9ab2",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They do not pay much attention to their food recipes.",
+      "translationEligible": true,
+      "translationZh": "他们不太注意他们的食物食谱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-53-1",
+      "optionId": "cet4:2022-12-03:q-53-1:D",
+      "sourceText": "They do not lack food knowledge or budgeting skills.",
+      "sourceHash": "6afcee30e733ce0d00f4777e277470053939e36363ee2c78f775e2855c46117d",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They do not lack food knowledge or budgeting skills.",
+      "translationEligible": true,
+      "translationZh": "他们并不缺乏食品知识或预算技能。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-54-1",
+      "optionId": "cet4:2022-12-03:q-54-1:A",
+      "sourceText": "Teaching them budgeting skills.",
+      "sourceHash": "b9754afc64208a6cc177d2e1d6bd74de7e77d3f47ef9e6238c61382289ff2a9e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-5"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Teaching them budgeting skills.",
+      "translationEligible": true,
+      "translationZh": "教他们预算技巧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-54-1",
+      "optionId": "cet4:2022-12-03:q-54-1:B",
+      "sourceText": "Increasing their food choices.",
+      "sourceHash": "0a83416824e693325e379c72f2b6aab28bfeac1e132ac159a07439610a7b4fe9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-5"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Increasing their food choices.",
+      "translationEligible": true,
+      "translationZh": "增加他们的食物选择。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-54-1",
+      "optionId": "cet4:2022-12-03:q-54-1:C",
+      "sourceText": "Enabling them to have more access to nutritious foods.",
+      "sourceHash": "c86af1f7afe3930ee1912ec6b4a719b5af35d8fcf0c26583be04db0d697792a3",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-5"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Enabling them to have more access to nutritious foods.",
+      "translationEligible": true,
+      "translationZh": "使他们能够获得更多有营养的食物。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-54-1",
+      "optionId": "cet4:2022-12-03:q-54-1:D",
+      "sourceText": "Taking more effective measures to increase food supplies.",
+      "sourceHash": "00678a80d7f42d1263003a10d78ceee36c99b0410ba5f2332565a15838df0d77",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-5"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Taking more effective measures to increase food supplies.",
+      "translationEligible": true,
+      "translationZh": "采取更加有效的措施，增加粮食供应。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-55-1",
+      "optionId": "cet4:2022-12-03:q-55-1:A",
+      "sourceText": "Adopt a positive attitude towards dietary guidelines.",
+      "sourceHash": "2f4fd2459c0842c206b1ff5dda79f7e2569221f469db9aa588046b5143ddd3af",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-7"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Adopt a positive attitude towards dietary guidelines.",
+      "translationEligible": true,
+      "translationZh": "对饮食指南采取积极的态度。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-55-1",
+      "optionId": "cet4:2022-12-03:q-55-1:B",
+      "sourceText": "Choose diets that are both healthy and affordable.",
+      "sourceHash": "82ad3dfa073b5543898587a326eacc1356e5376581ec432bf2fc49bb2db53e0a",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-7"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Choose diets that are both healthy and affordable.",
+      "translationEligible": true,
+      "translationZh": "选择既健康又负担得起的饮食。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-55-1",
+      "optionId": "cet4:2022-12-03:q-55-1:C",
+      "sourceText": "Make sure to purchase healthy foods on the internet.",
+      "sourceHash": "ec14925cd19e1916ef9ac7890dc979fc5cbde7a4b1cc0a7004cb5b99badc9155",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-7"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Make sure to purchase healthy foods on the internet.",
+      "translationEligible": true,
+      "translationZh": "确保在互联网上购买健康食品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-55-1",
+      "optionId": "cet4:2022-12-03:q-55-1:D",
+      "sourceText": "Change their eating habits and consumption patterns.",
+      "sourceHash": "1c8a17975423717d7222b08f179bbdc15e3439e31a0977475d587653bd7bae9e",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-7-7"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-7-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Change their eating habits and consumption patterns.",
+      "translationEligible": true,
+      "translationZh": "改变他们的饮食习惯和消费模式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:A",
+      "sourceText": "absorbed",
+      "sourceHash": "2f6378a857d08ce052081ac314f77184bdd0f4ad8845fb4db9bf09600092148f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "absorbed",
+      "translationEligible": true,
+      "translationZh": "吸收",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:B",
+      "sourceText": "addicted",
+      "sourceHash": "46576e430574a6c85c4efc16d6528c0d7439cdab30ed1cd80d1e226a174f4e23",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "addicted",
+      "translationEligible": true,
+      "translationZh": "上瘾的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:C",
+      "sourceText": "behavior",
+      "sourceHash": "08bf2418cca97fefbdf7f0d29719b005a6117989d84358de68bc57570ffbae36",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "behavior",
+      "translationEligible": true,
+      "translationZh": "行为",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:D",
+      "sourceText": "constantly",
+      "sourceHash": "996bb102f2da674bfc7de8cfa5917b7edc0c3f09f0f8c8420f05bbad4b4d356f",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "constantly",
+      "translationEligible": true,
+      "translationZh": "不断地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:E",
+      "sourceText": "context",
+      "sourceHash": "ea7792a26f405e2ae9c6f49ca93bbe6076ceac0a1fc53d83426c7d7f2d9377e4",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "context",
+      "translationEligible": true,
+      "translationZh": "上下文",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:F",
+      "sourceText": "exercise",
+      "sourceHash": "f55101cb5e7453c770d2a062a242f13479743de0c24329462d3cbf3f2d6bc7e1",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "exercise",
+      "translationEligible": true,
+      "translationZh": "锻炼",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:G",
+      "sourceText": "inseparable",
+      "sourceHash": "8fe764cd9422640b18e6f3cbdfc6b97c3b60024e28e5020dbe786ebc96fd4533",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "inseparable",
+      "translationEligible": true,
+      "translationZh": "形影不离",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:H",
+      "sourceText": "nationally",
+      "sourceHash": "e44745b458b5bd48c48e69bfd3de9402c948d8eaaee04d75e664fd6d90b84133",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "nationally",
+      "translationEligible": true,
+      "translationZh": "全国性的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:I",
+      "sourceText": "recruited",
+      "sourceHash": "c4cb53b5b388fe85f62f5c61dd144f46c46e35910c7371f16052312f9bab2216",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "recruited",
+      "translationEligible": true,
+      "translationZh": "被招募",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:J",
+      "sourceText": "shape",
+      "sourceHash": "f58940a313992e6838ac3fc1f2356916cf8b53c42920a3f59cabc510f1236ec9",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "shape",
+      "translationEligible": true,
+      "translationZh": "形状",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:K",
+      "sourceText": "solution",
+      "sourceHash": "8270f2824111e04d9278c01a92b388147d9d02e0b50d946d25d00db375ff1282",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "solution",
+      "translationEligible": true,
+      "translationZh": "解决方案",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:L",
+      "sourceText": "specific",
+      "sourceHash": "54b759dba2ded0937372b57006091a1ed2f0de474dd6ad7904a411daa715844b",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "specific",
+      "translationEligible": true,
+      "translationZh": "具体的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:M",
+      "sourceText": "summary",
+      "sourceHash": "761b7ad8ad439b2855fcbb611331c646ef0870b0631247bba3f3025cb6df5a53",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "summary",
+      "translationEligible": true,
+      "translationZh": "总结",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:N",
+      "sourceText": "usage",
+      "sourceHash": "0a4e4c29432ecb01b95f87d87ffaff9cb4f36ce4b89ff1a1a136ad1c7392ae07",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "usage",
+      "translationEligible": true,
+      "translationZh": "用途",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2022-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2022-12-03",
+      "questionId": "cet4:2022-12-03:q-26-1",
+      "optionId": "cet4:2022-12-03:word-bank:O",
+      "sourceText": "vaguely",
+      "sourceHash": "fdd5b692371a86efaf28f2452da9663685b786e8ce8b959b828990f4d1b99721",
+      "sourceBlockIds": [
+        "cet4:2022-12-03:b-2-1"
+      ],
+      "reflowBlockId": "cet4:2022-12-03:b-2-1",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "vaguely",
+      "translationEligible": true,
+      "translationZh": "隐约地",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2022-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2022-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2022-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-1-12",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2022-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2022-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-4-20",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-4-20"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2022-12-03:p:b-4-20"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-5-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2022-12-03:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-6-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2022-12-03:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-8",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2022-12-03:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-10",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2022-12-03:b-7-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 14,
+    "included": 63
+  },
+  "reasonCounts": {
+    "cloze": 4,
+    "cross_page_continuation": 3,
+    "instruction": 7,
+    "non_english_or_fragment": 5,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 18,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "instruction": 7,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 18
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

@@ -1,0 +1,1118 @@
+{
+  "schema": "pdf-verified-cet-missing-options.v1",
+  "papers": {
+    "cet4:2020-07-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-07-01.pdf",
+      "sourcePdfSha256": "5529c8dc34ac9fafdbed192a5b41c79f08ca157a4899e47dcb86936bd5316517",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2020-07-01:word-bank:J": {
+          "optionId": "cet4:2020-07-01:word-bank:J",
+          "label": "J",
+          "sourceText": "overlooked",
+          "sourceTextSha256": "180d477f07c89c69ee0ee1f51898dce7cfc05f3db51bb5c4f54b0455f65fc63b",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-3",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "overlooked 0) thankfully",
+          "rawItemTextSha256": "c468635f34f8a828f0c5cdb1eec831125a16a9d86b899ee252b8e781b7f0d835",
+          "rawBlockShapeSha256": [
+            "be3979ef26636e285bf1be02b399834fbb5a3f198b8058de559ed53361a501df"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        }
+      }
+    },
+    "cet4:2020-09-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-09-01.pdf",
+      "sourcePdfSha256": "1ccc8a831daf3d747e2ff112901aa3253c2f496ddcdbfaa9841414fa1cdd92a9",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2020-09-01:word-bank:J": {
+          "optionId": "cet4:2020-09-01:word-bank:J",
+          "label": "J",
+          "sourceText": "possibly",
+          "sourceTextSha256": "2eaa6c981568da7719a9f810f5eea3f10f3ac0b150d5c2cb2d3f2d6bdb7452ea",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-4-2",
+          "rawBlockId": "b-4-3",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "possibly 0) traditional",
+          "rawItemTextSha256": "122a7813c88f319112b8f3d1617364e037a0fc2704485592294b6dcf8175ac81",
+          "rawBlockShapeSha256": [
+            "8713389fa3679c0e009ff8d54e7e087ea2302217e82170b9bc3d5897e332f661"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        }
+      }
+    },
+    "cet4:2020-09-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-09-02.pdf",
+      "sourcePdfSha256": "74e4003d4ca38c77034ef059023b895e566f9b3b8df566255bce662ee51742f1",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2020-09-02:word-bank:J": {
+          "optionId": "cet4:2020-09-02:word-bank:J",
+          "label": "J",
+          "sourceText": "natural",
+          "sourceTextSha256": "12765295db4f1e7911ddb4f051191091a0432570270e1fca2076e718e61ddae0",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "natural 0) symbolizes",
+          "rawItemTextSha256": "f99546e1bd637ab5b27ec1f86700e554233054639226212422d9c4cdc4bed2a0",
+          "rawBlockShapeSha256": [
+            "0cf6d156fbcc834c26be1a0f9163609ecd717f5209531df6b2498658d0f4ea7c"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ]
+        }
+      }
+    },
+    "cet4:2020-12-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2020-12-01.pdf",
+      "sourcePdfSha256": "5ae3d9b5333e3cf3d02922dc4bc329e016dd2c3738307fe12a525a4e55535f37",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2020-12-01:word-bank:J": {
+          "optionId": "cet4:2020-12-01:word-bank:J",
+          "label": "J",
+          "sourceText": "records",
+          "sourceTextSha256": "a94e7bcfcbed3c846d491d4f47c948e53a23908d480248b3ffe9e126e83ea865",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-4-5",
+          "acceptedStructuredSourceBlockIds": [
+            "b-4-5",
+            "b-4-4"
+          ],
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "records 0) watching",
+          "rawItemTextSha256": "8958dc60d61909e22caec2faa25034cb20c985cf62dab3ddcf073cd3753ef186",
+          "rawBlockShapeSha256": [
+            "4f71a4d773090ff691d5fc1312538a426a7832c90f24b5eada46313bebe1942b",
+            "4d381c8d771984725446dcf4e9a37544d4947755c21d604e19bf8239a7d3d252"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ],
+          "acceptedRawItemTexts": [
+            "records 0) watching",
+            "records"
+          ]
+        }
+      }
+    },
+    "cet4:2021-06-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-06-02.pdf",
+      "sourcePdfSha256": "0ae46bd282ea33c5b29fb7088eb944ae5c33b8fd44d82cb78e9444a1596db6e3",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2021-06-02:word-bank:J": {
+          "optionId": "cet4:2021-06-02:word-bank:J",
+          "label": "J",
+          "sourceText": "pushing",
+          "sourceTextSha256": "4cea37fadf072aabffe7ea89a9efe3c72df89018649ba0cb3f102a449e0e2392",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-4-8",
+          "rawBlockId": "b-4-7",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "pushing 0) touches",
+          "rawItemTextSha256": "3221a00314e418bdf5e70dd394a5002b366160334cb0b3300936c7226bb1dc3b",
+          "rawBlockShapeSha256": [
+            "b2e0e8c370644b28861a4b5a0d538e4ea96cd54a4f8ce275abcd8e5d9de37243"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ]
+        }
+      }
+    },
+    "cet4:2021-12-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-12-01.pdf",
+      "sourcePdfSha256": "453b4242213e7cb6dbe40912bffb14726eaf218bf9afe33a5f97aec78723f1d8",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2021-12-01:word-bank:G": {
+          "optionId": "cet4:2021-12-01:word-bank:G",
+          "label": "G",
+          "sourceText": "highly",
+          "sourceTextSha256": "cbae973f3f0bc8203746f37ccb76fbce8af2d107011517132f8f65c4f7e4fc82",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-4-10",
+          "rawBlockId": "b-4-10",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "highly 0) unique",
+          "rawItemTextSha256": "48b58a9e2403fe794175204716a14f5f59c7b222ec79c698d6c7203ac41266fc",
+          "rawBlockShapeSha256": [
+            "4e1f6c4f7262950cf7debcd0bc4bff43df93eb469935d2252f8439b769217dfd"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        }
+      }
+    },
+    "cet4:2021-12-03": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2021-12-03.pdf",
+      "sourcePdfSha256": "714d23288ed1b403c79f883532ae78d41fdac47768c80b5a0a198a8ffd71ef85",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2021-12-03:word-bank:G": {
+          "optionId": "cet4:2021-12-03:word-bank:G",
+          "label": "G",
+          "sourceText": "ear",
+          "sourceTextSha256": "3c6a36b640fceaa873f040d65c13e1a8c3e82b635174c78f7d2fbe83a5a0bc64",
+          "pdfPage": 2,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-2-1",
+          "rawBlockId": "b-2-1",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "ear 0) typically",
+          "rawItemTextSha256": "e238c8c812234df563b9c65ca0c397887334244a2bf075e6b1949b3f8b3120e0",
+          "rawBlockShapeSha256": [
+            "b73b25e2a54027fe36e4e5eb7ed5c7b1e2d002924447237822f8be4c43c038f9"
+          ],
+          "wordSpan": [
+            0,
+            3
+          ]
+        }
+      }
+    },
+    "cet4:2022-06-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet4/2022-06-01.pdf",
+      "sourcePdfSha256": "c4fc213e45a6d7fc0a45da2d93f9a7774e22af939c9293fcb595021a6f0a34e4",
+      "kind": "word_bank",
+      "options": {
+        "cet4:2022-06-01:word-bank:G": {
+          "optionId": "cet4:2022-06-01:word-bank:G",
+          "label": "G",
+          "sourceText": "dental",
+          "sourceTextSha256": "d138e4e2606d9c58caab4709a9a5e295aef1efdbc7dacfe64b462ac238691bfc",
+          "pdfPage": 5,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-5-1",
+          "rawBlockId": "b-5-1",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "dental 0) underneath",
+          "rawItemTextSha256": "fb632a04bc74ab74753a117b647051277ebb9c992932947ca90c4308f5c55096",
+          "rawBlockShapeSha256": [
+            "986b8d12f67ec17145a3aeb9988dca41467723d1c6710079b6fcd3c1a3c67ca8"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet4:2022-06-01:word-bank:O": {
+          "optionId": "cet4:2022-06-01:word-bank:O",
+          "label": "O",
+          "sourceText": "underneath",
+          "sourceTextSha256": "49e7635616e042509b3cec81e226baccfac28c6fbaaefa052d0a9d1d6dffd7ce",
+          "pdfPage": 5,
+          "pdfPrintedPrefix": "0)",
+          "structuredSourceBlockId": "b-5-1",
+          "rawBlockId": "b-5-1",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "dental 0) underneath",
+          "rawItemTextSha256": "fb632a04bc74ab74753a117b647051277ebb9c992932947ca90c4308f5c55096",
+          "rawBlockShapeSha256": [
+            "986b8d12f67ec17145a3aeb9988dca41467723d1c6710079b6fcd3c1a3c67ca8"
+          ],
+          "wordSpan": [
+            10,
+            20
+          ]
+        }
+      }
+    },
+    "cet6:2018-06-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-06-02.pdf",
+      "sourcePdfSha256": "deaa6e2ed08156b34f11c3e2ff71a4426790912adc20d5b2fe9c2b3945080c20",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2018-06-02:word-bank:A": {
+          "optionId": "cet6:2018-06-02:word-bank:A",
+          "label": "A",
+          "sourceText": "campaign",
+          "sourceTextSha256": "3dc260b2472062d9c57bd930b02f23831d917b8f3e3234b6d63964a53c31d3aa",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "A).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 0,
+          "rawItemLabel": "A",
+          "rawItemText": "campaign",
+          "rawItemTextSha256": "3dc260b2472062d9c57bd930b02f23831d917b8f3e3234b6d63964a53c31d3aa",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-02:word-bank:B": {
+          "optionId": "cet6:2018-06-02:word-bank:B",
+          "label": "B",
+          "sourceText": "career",
+          "sourceTextSha256": "89b7505ad79ad4892d6f2f110320da7b79e4110e0117b8249de318688c3ad83b",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "B).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 1,
+          "rawItemLabel": "B",
+          "rawItemText": "career",
+          "rawItemTextSha256": "89b7505ad79ad4892d6f2f110320da7b79e4110e0117b8249de318688c3ad83b",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-02:word-bank:C": {
+          "optionId": "cet6:2018-06-02:word-bank:C",
+          "label": "C",
+          "sourceText": "characters",
+          "sourceTextSha256": "25d939ffd0d79b7328ebafc63dd846048db94f1b7f2b2a21ddb77fc4cd54293a",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "C).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 2,
+          "rawItemLabel": "C",
+          "rawItemText": "characters",
+          "rawItemTextSha256": "25d939ffd0d79b7328ebafc63dd846048db94f1b7f2b2a21ddb77fc4cd54293a",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        },
+        "cet6:2018-06-02:word-bank:D": {
+          "optionId": "cet6:2018-06-02:word-bank:D",
+          "label": "D",
+          "sourceText": "features",
+          "sourceTextSha256": "5b8a8b56dada6ce7567442b4935298df7de2badd7becdcf4915a59487338ca4b",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "D).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 3,
+          "rawItemLabel": "D",
+          "rawItemText": "features",
+          "rawItemTextSha256": "5b8a8b56dada6ce7567442b4935298df7de2badd7becdcf4915a59487338ca4b",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-02:word-bank:E": {
+          "optionId": "cet6:2018-06-02:word-bank:E",
+          "label": "E",
+          "sourceText": "fierce",
+          "sourceTextSha256": "c0eb0109f31b701a019a9e0ad8b4ca2636e9f8b2b096f81ec8b1a6f71f51f8b9",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "E).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 4,
+          "rawItemLabel": "E",
+          "rawItemText": "fierce",
+          "rawItemTextSha256": "c0eb0109f31b701a019a9e0ad8b4ca2636e9f8b2b096f81ec8b1a6f71f51f8b9",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-02:word-bank:F": {
+          "optionId": "cet6:2018-06-02:word-bank:F",
+          "label": "F",
+          "sourceText": "inspired",
+          "sourceTextSha256": "5f067754ad0a57929f782612011c01e32a92772e331a8270df89eb2840467776",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "F).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 5,
+          "rawItemLabel": "F",
+          "rawItemText": "inspired",
+          "rawItemTextSha256": "5f067754ad0a57929f782612011c01e32a92772e331a8270df89eb2840467776",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-02:word-bank:G": {
+          "optionId": "cet6:2018-06-02:word-bank:G",
+          "label": "G",
+          "sourceText": "latter",
+          "sourceTextSha256": "c17c036604f660ca5f758ab1817e14e0b4252d94941c03950e4a93237bf7cf99",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "G).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "latter",
+          "rawItemTextSha256": "c17c036604f660ca5f758ab1817e14e0b4252d94941c03950e4a93237bf7cf99",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-02:word-bank:H": {
+          "optionId": "cet6:2018-06-02:word-bank:H",
+          "label": "H",
+          "sourceText": "obsessed",
+          "sourceTextSha256": "d95d0b53366ddb223717ac85b24306c98d5be4f7fda24062c95cae573d4a23f1",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "H).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 7,
+          "rawItemLabel": "H",
+          "rawItemText": "obsessed",
+          "rawItemTextSha256": "d95d0b53366ddb223717ac85b24306c98d5be4f7fda24062c95cae573d4a23f1",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-02:word-bank:I": {
+          "optionId": "cet6:2018-06-02:word-bank:I",
+          "label": "I",
+          "sourceText": "proclamation",
+          "sourceTextSha256": "451fe104add9fdfd6e6bdbe7c00e4a556a754a771e41f79bf087e609acfd3887",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "I).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 8,
+          "rawItemLabel": "I",
+          "rawItemText": "proclamation",
+          "rawItemTextSha256": "451fe104add9fdfd6e6bdbe7c00e4a556a754a771e41f79bf087e609acfd3887",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            12
+          ]
+        },
+        "cet6:2018-06-02:word-bank:J": {
+          "optionId": "cet6:2018-06-02:word-bank:J",
+          "label": "J",
+          "sourceText": "rectified",
+          "sourceTextSha256": "ce5f7cbf8421c43b9aa2810220aaccd81cdac37d8fd294f922f50b9082e1062d",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "rectified",
+          "rawItemTextSha256": "ce5f7cbf8421c43b9aa2810220aaccd81cdac37d8fd294f922f50b9082e1062d",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            9
+          ]
+        },
+        "cet6:2018-06-02:word-bank:K": {
+          "optionId": "cet6:2018-06-02:word-bank:K",
+          "label": "K",
+          "sourceText": "reputed",
+          "sourceTextSha256": "b9e78efce7e78a276e48262e35eca8900ddc86b680dac20109f91bbe35391817",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "K).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 10,
+          "rawItemLabel": "K",
+          "rawItemText": "reputed",
+          "rawItemTextSha256": "b9e78efce7e78a276e48262e35eca8900ddc86b680dac20109f91bbe35391817",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ]
+        },
+        "cet6:2018-06-02:word-bank:L": {
+          "optionId": "cet6:2018-06-02:word-bank:L",
+          "label": "L",
+          "sourceText": "rest",
+          "sourceTextSha256": "2e09d5210db8417757b0f875c276d0cb877b22514e9a3583d2d8d7445368a027",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "L).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 11,
+          "rawItemLabel": "L",
+          "rawItemText": "rest",
+          "rawItemTextSha256": "2e09d5210db8417757b0f875c276d0cb877b22514e9a3583d2d8d7445368a027",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            4
+          ]
+        },
+        "cet6:2018-06-02:word-bank:M": {
+          "optionId": "cet6:2018-06-02:word-bank:M",
+          "label": "M",
+          "sourceText": "supposed",
+          "sourceTextSha256": "72b795058d60474283ed8ac876a186cb7a635ef235dd1e7d387c31ad03182be9",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "M).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 12,
+          "rawItemLabel": "M",
+          "rawItemText": "supposed",
+          "rawItemTextSha256": "72b795058d60474283ed8ac876a186cb7a635ef235dd1e7d387c31ad03182be9",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-02:word-bank:N": {
+          "optionId": "cet6:2018-06-02:word-bank:N",
+          "label": "N",
+          "sourceText": "traditional",
+          "sourceTextSha256": "663666ccaaa4452e6cb9a3e3e443d2d9f93ae4d21ab4cb70f0149279bb40b7e4",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "N).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 13,
+          "rawItemLabel": "N",
+          "rawItemText": "traditional",
+          "rawItemTextSha256": "663666ccaaa4452e6cb9a3e3e443d2d9f93ae4d21ab4cb70f0149279bb40b7e4",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            11
+          ]
+        },
+        "cet6:2018-06-02:word-bank:O": {
+          "optionId": "cet6:2018-06-02:word-bank:O",
+          "label": "O",
+          "sourceText": "versatile",
+          "sourceTextSha256": "05681deae950628d00d72136ea181e8caff394a7d6720491e0869fba86a0c84e",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "O).",
+          "structuredSourceBlockId": "b-4-4",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 14,
+          "rawItemLabel": "O",
+          "rawItemText": "versatile",
+          "rawItemTextSha256": "05681deae950628d00d72136ea181e8caff394a7d6720491e0869fba86a0c84e",
+          "rawBlockShapeSha256": [
+            "523f8f6c8471d7f7c7b689f5c347e8ea59bc91da15ad9cdb2ee63e670a59d988"
+          ],
+          "wordSpan": [
+            0,
+            9
+          ]
+        }
+      }
+    },
+    "cet6:2018-06-03": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2018-06-03.pdf",
+      "sourcePdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2018-06-03:word-bank:A": {
+          "optionId": "cet6:2018-06-03:word-bank:A",
+          "label": "A",
+          "sourceText": "amassed",
+          "sourceTextSha256": "ccf3a112139c0cb8239e523ace71b8ffe87cbb6caeca96be6cc6eb58b06acca4",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "A).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 0,
+          "rawItemLabel": "A",
+          "rawItemText": "amassed",
+          "rawItemTextSha256": "ccf3a112139c0cb8239e523ace71b8ffe87cbb6caeca96be6cc6eb58b06acca4",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ]
+        },
+        "cet6:2018-06-03:word-bank:B": {
+          "optionId": "cet6:2018-06-03:word-bank:B",
+          "label": "B",
+          "sourceText": "casual",
+          "sourceTextSha256": "c633eb52f63cec1d6b02d42448254cd801f5cbcaa254313c2795ce38bcd3a7fa",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "B).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 1,
+          "rawItemLabel": "B",
+          "rawItemText": "casual",
+          "rawItemTextSha256": "c633eb52f63cec1d6b02d42448254cd801f5cbcaa254313c2795ce38bcd3a7fa",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-03:word-bank:C": {
+          "optionId": "cet6:2018-06-03:word-bank:C",
+          "label": "C",
+          "sourceText": "emotional",
+          "sourceTextSha256": "dcab7f7d07fb2ac50991ed5ae8c3273c9b36cbd21c123db2e71517eda2f7edaf",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "C).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 2,
+          "rawItemLabel": "C",
+          "rawItemText": "emotional",
+          "rawItemTextSha256": "dcab7f7d07fb2ac50991ed5ae8c3273c9b36cbd21c123db2e71517eda2f7edaf",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            9
+          ]
+        },
+        "cet6:2018-06-03:word-bank:D": {
+          "optionId": "cet6:2018-06-03:word-bank:D",
+          "label": "D",
+          "sourceText": "enabling",
+          "sourceTextSha256": "8811208d8e964edcafb8be3d9d8e862cdf7889d8d16acb176e27dda88d9d9011",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "D).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 3,
+          "rawItemLabel": "D",
+          "rawItemText": "enabling",
+          "rawItemTextSha256": "8811208d8e964edcafb8be3d9d8e862cdf7889d8d16acb176e27dda88d9d9011",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-03:word-bank:E": {
+          "optionId": "cet6:2018-06-03:word-bank:E",
+          "label": "E",
+          "sourceText": "eventually",
+          "sourceTextSha256": "c8bf82c2cbf5a469c5584886ab5caeea79d8e7a7bcf25a2c4495586317a15734",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "E).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 4,
+          "rawItemLabel": "E",
+          "rawItemText": "eventually",
+          "rawItemTextSha256": "c8bf82c2cbf5a469c5584886ab5caeea79d8e7a7bcf25a2c4495586317a15734",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        },
+        "cet6:2018-06-03:word-bank:F": {
+          "optionId": "cet6:2018-06-03:word-bank:F",
+          "label": "F",
+          "sourceText": "exaggerated",
+          "sourceTextSha256": "b0ff2439fe5da1e85e3663170ef3b0977206e9a361c6bc8ce0c369a0b81aae85",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "F).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 5,
+          "rawItemLabel": "F",
+          "rawItemText": "exaggerated",
+          "rawItemTextSha256": "b0ff2439fe5da1e85e3663170ef3b0977206e9a361c6bc8ce0c369a0b81aae85",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            11
+          ]
+        },
+        "cet6:2018-06-03:word-bank:G": {
+          "optionId": "cet6:2018-06-03:word-bank:G",
+          "label": "G",
+          "sourceText": "extravagant",
+          "sourceTextSha256": "516a70ea25b989ce98a142bd274c434c30982d115050511732a9ead1b18b0f5e",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "G).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "extravagant",
+          "rawItemTextSha256": "516a70ea25b989ce98a142bd274c434c30982d115050511732a9ead1b18b0f5e",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            11
+          ]
+        },
+        "cet6:2018-06-03:word-bank:H": {
+          "optionId": "cet6:2018-06-03:word-bank:H",
+          "label": "H",
+          "sourceText": "generously",
+          "sourceTextSha256": "84cb393a09f96f706a288f7c17d69fdc1712ef25e1be955dd78900c5211a6a82",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "H).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 7,
+          "rawItemLabel": "H",
+          "rawItemText": "generously",
+          "rawItemTextSha256": "84cb393a09f96f706a288f7c17d69fdc1712ef25e1be955dd78900c5211a6a82",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        },
+        "cet6:2018-06-03:word-bank:I": {
+          "optionId": "cet6:2018-06-03:word-bank:I",
+          "label": "I",
+          "sourceText": "misleading",
+          "sourceTextSha256": "f52318186adc9cb23833e4db93b2e1e070ab3b68dce41b2ede59a77473f130a4",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "I).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 8,
+          "rawItemLabel": "I",
+          "rawItemText": "misleading",
+          "rawItemTextSha256": "f52318186adc9cb23833e4db93b2e1e070ab3b68dce41b2ede59a77473f130a4",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        },
+        "cet6:2018-06-03:word-bank:J": {
+          "optionId": "cet6:2018-06-03:word-bank:J",
+          "label": "J",
+          "sourceText": "precious",
+          "sourceTextSha256": "157fc55121ab2c59852c35d78aca98d840047e5d9668c423e4d3b146e1577901",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "J).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "precious",
+          "rawItemTextSha256": "157fc55121ab2c59852c35d78aca98d840047e5d9668c423e4d3b146e1577901",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            8
+          ]
+        },
+        "cet6:2018-06-03:word-bank:K": {
+          "optionId": "cet6:2018-06-03:word-bank:K",
+          "label": "K",
+          "sourceText": "reward",
+          "sourceTextSha256": "7696fff84f26472a9737981c0ef48600731e7b2a20c93e2dbfe06706ca0d31b0",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "K).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 10,
+          "rawItemLabel": "K",
+          "rawItemText": "reward",
+          "rawItemTextSha256": "7696fff84f26472a9737981c0ef48600731e7b2a20c93e2dbfe06706ca0d31b0",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-03:word-bank:L": {
+          "optionId": "cet6:2018-06-03:word-bank:L",
+          "label": "L",
+          "sourceText": "smart",
+          "sourceTextSha256": "544e2d6145f6ea1d858b94f75a392dac7f53df9403948acd1e939e6dfbc64104",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "L).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 11,
+          "rawItemLabel": "L",
+          "rawItemText": "smart",
+          "rawItemTextSha256": "544e2d6145f6ea1d858b94f75a392dac7f53df9403948acd1e939e6dfbc64104",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            5
+          ]
+        },
+        "cet6:2018-06-03:word-bank:M": {
+          "optionId": "cet6:2018-06-03:word-bank:M",
+          "label": "M",
+          "sourceText": "sphere",
+          "sourceTextSha256": "0f58b78bc54e0c3e55568ec522fb67be295f3bf726a0d53cef872b7a4272196e",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "M).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 12,
+          "rawItemLabel": "M",
+          "rawItemText": "sphere",
+          "rawItemTextSha256": "0f58b78bc54e0c3e55568ec522fb67be295f3bf726a0d53cef872b7a4272196e",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2018-06-03:word-bank:N": {
+          "optionId": "cet6:2018-06-03:word-bank:N",
+          "label": "N",
+          "sourceText": "terrified",
+          "sourceTextSha256": "1f7ceb30eafd1e260e44b1cb1bfae70e352de04c65c0429438e21f8710a4b40e",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "N).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 13,
+          "rawItemLabel": "N",
+          "rawItemText": "terrified",
+          "rawItemTextSha256": "1f7ceb30eafd1e260e44b1cb1bfae70e352de04c65c0429438e21f8710a4b40e",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            9
+          ]
+        },
+        "cet6:2018-06-03:word-bank:O": {
+          "optionId": "cet6:2018-06-03:word-bank:O",
+          "label": "O",
+          "sourceText": "venture",
+          "sourceTextSha256": "352c00e4c6860a34dd5dd17e338af9386b8485026a50ce45bc6c737609616303",
+          "pdfPage": 1,
+          "pdfPrintedPrefix": "O).",
+          "structuredSourceBlockId": "b-1-15",
+          "rawBlockId": "b-1-15",
+          "rawItemIndex": 14,
+          "rawItemLabel": "O",
+          "rawItemText": "venture",
+          "rawItemTextSha256": "352c00e4c6860a34dd5dd17e338af9386b8485026a50ce45bc6c737609616303",
+          "rawBlockShapeSha256": [
+            "c8278e66dac098dd04af817c8b60bda9d959044d4c64c99dac6ab5517b79eb32"
+          ],
+          "wordSpan": [
+            0,
+            7
+          ]
+        }
+      }
+    },
+    "cet6:2019-12-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-01.pdf",
+      "sourcePdfSha256": "d3674c2e941ae2b4fe2af81258b3d54aad39bb9ef8339a124f95124400b07993",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2019-12-01:word-bank:G": {
+          "optionId": "cet6:2019-12-01:word-bank:G",
+          "label": "G",
+          "sourceText": "detrimental",
+          "sourceTextSha256": "37ad2e86f851b4b0c26baddd493f256f0c1d9343f62220d8aca252beca00d94f",
+          "pdfPage": 5,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-5-5",
+          "rawBlockId": "b-5-5",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "detrimental 0) similar",
+          "rawItemTextSha256": "3b67f77c86c654dc58772496796c201f915141588ac8edd5b5fec2e65b8742b6",
+          "rawBlockShapeSha256": [
+            "85e38be9d7868f5f7923efb7d238464c57142b64574134c6058824bb9eef7603"
+          ],
+          "wordSpan": [
+            0,
+            11
+          ]
+        }
+      }
+    },
+    "cet6:2019-12-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2019-12-02.pdf",
+      "sourcePdfSha256": "275015d14d74ee1c3ae426d170a92ee1acbdf89ed57b027abed072a4cec6dd84",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2019-12-02:word-bank:G": {
+          "optionId": "cet6:2019-12-02:word-bank:G",
+          "label": "G",
+          "sourceText": "miniatures",
+          "sourceTextSha256": "63d3217576e882c3f6855983d0218fcbfb4cf358d680fb5589ee2f5e1ae48713",
+          "pdfPage": 5,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-5-5",
+          "rawBlockId": "b-5-5",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "miniatures 0) trend",
+          "rawItemTextSha256": "1371fa2121e74c52ae2a2d21d285938c4c066a0efeddede7ad60edbb3377eff3",
+          "rawBlockShapeSha256": [
+            "6ed4cdebde134faea850ce7191ee94199e96bcaa25f16c3629d4f579176b8e48"
+          ],
+          "wordSpan": [
+            0,
+            10
+          ]
+        }
+      }
+    },
+    "cet6:2021-06-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-01.pdf",
+      "sourcePdfSha256": "c4d867b1e666668bca784ee4c19877cbd01435a3883172607cb3fc4f8373849b",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2021-06-01:word-bank:E": {
+          "optionId": "cet6:2021-06-01:word-bank:E",
+          "label": "E",
+          "sourceText": "housed",
+          "sourceTextSha256": "01d2ccc5967838081ac615d42fb7db95d0e3260f21abcb3c67e2aed749e4221f",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "E)",
+          "structuredSourceBlockId": "b-4-5",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 4,
+          "rawItemLabel": "E",
+          "rawItemText": "housed · J) safeguarded 0) threshold",
+          "rawItemTextSha256": "07db637b1f584066ac6c2c304b99a77f5506373c6732310b4154a580c4d87243",
+          "rawBlockShapeSha256": [
+            "9eb953f4939a1887fbc31ad539323482318b1acdb64b8afd718c2807d6bda772"
+          ],
+          "wordSpan": [
+            0,
+            6
+          ]
+        },
+        "cet6:2021-06-01:word-bank:J": {
+          "optionId": "cet6:2021-06-01:word-bank:J",
+          "label": "J",
+          "sourceText": "safeguarded",
+          "sourceTextSha256": "61f484cd98fc91c81dfe11ed70920718e918e1f12c75a31c30db7ea595961f58",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-4-5",
+          "rawBlockId": "b-4-4",
+          "rawItemIndex": 4,
+          "rawItemLabel": "E",
+          "rawItemText": "housed · J) safeguarded 0) threshold",
+          "rawItemTextSha256": "07db637b1f584066ac6c2c304b99a77f5506373c6732310b4154a580c4d87243",
+          "rawBlockShapeSha256": [
+            "9eb953f4939a1887fbc31ad539323482318b1acdb64b8afd718c2807d6bda772"
+          ],
+          "wordSpan": [
+            12,
+            23
+          ]
+        }
+      }
+    },
+    "cet6:2021-06-03": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-06-03.pdf",
+      "sourcePdfSha256": "c74babfba25c7e29c6c71c1f57cbb2b380305533062a56a054f98fcc7b74dfa7",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2021-06-03:word-bank:J": {
+          "optionId": "cet6:2021-06-03:word-bank:J",
+          "label": "J",
+          "sourceText": "obscurity",
+          "sourceTextSha256": "b888890e69dd60c284014978785a265cdd23933d2380f0b9d6d14650ed307cc2",
+          "pdfPage": 2,
+          "pdfPrintedPrefix": "J)",
+          "structuredSourceBlockId": "b-2-3",
+          "rawBlockId": "b-2-2",
+          "rawItemIndex": 9,
+          "rawItemLabel": "J",
+          "rawItemText": "obscurity 0) suppress",
+          "rawItemTextSha256": "01a3cffbba4e588ca74dc716136ec1a4adbfd4cda2b7121fcc4a46d15abf7b14",
+          "rawBlockShapeSha256": [
+            "01215102199510b8e42435e20a1cd85eec9c62b1fe03154c6a65a2b6edf05b3c"
+          ],
+          "wordSpan": [
+            0,
+            9
+          ]
+        }
+      }
+    },
+    "cet6:2021-12-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2021-12-02.pdf",
+      "sourcePdfSha256": "fa424d7c8fc83ce3f8bbf537a34f0f5704be89582370443febf6be97a0523989",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2021-12-02:word-bank:G": {
+          "optionId": "cet6:2021-12-02:word-bank:G",
+          "label": "G",
+          "sourceText": "frame",
+          "sourceTextSha256": "9dff50df08c635815f4b19da10f756605a34a79a48d4ba48712782502975a70e",
+          "pdfPage": 4,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-4-9",
+          "rawBlockId": "b-4-9",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "frame 0) wardrobe",
+          "rawItemTextSha256": "62465d85008068069d2fb5194f5b39b5a13eec70911ea974d44a70d6305508e5",
+          "rawBlockShapeSha256": [
+            "814c4ac8a214f3491338fb42b68c6c384ac1e4e736513988e56dd48070041f25"
+          ],
+          "wordSpan": [
+            0,
+            5
+          ]
+        }
+      }
+    },
+    "cet6:2022-06-02": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2022-06-02.pdf",
+      "sourcePdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+      "kind": "word_bank",
+      "options": {
+        "cet6:2022-06-02:word-bank:G": {
+          "optionId": "cet6:2022-06-02:word-bank:G",
+          "label": "G",
+          "sourceText": "correlation",
+          "sourceTextSha256": "577bf0c4f4ee4f887ec975d9f5356309244babf9fad24797025228a2092d78fd",
+          "pdfPage": 2,
+          "pdfPrintedPrefix": "G)",
+          "structuredSourceBlockId": "b-2-2",
+          "rawBlockId": "b-2-2",
+          "rawItemIndex": 6,
+          "rawItemLabel": "G",
+          "rawItemText": "correlation 0) surpass",
+          "rawItemTextSha256": "1fc548e26caf0a7d6593941f3a7aeb20e42a1955c36d8b7093df0d306870a06d",
+          "rawBlockShapeSha256": [
+            "3d39b1983da50196b26d5623b0455f32597a8d07b25d6af11b8bc1424cd34afd"
+          ],
+          "wordSpan": [
+            0,
+            11
+          ]
+        }
+      }
+    },
+    "cet6:2014-12-01": {
+      "sourcePdfPath": "data/sources/english-exams-web-2026-09-26/.firecrawl/cet6/2014-12-01.pdf",
+      "sourcePdfSha256": "32237ba2134b9f441aa766a02e09e4a1e71e738aee16df7274076ff34d6795e7",
+      "kind": "cross_page_single_choice",
+      "options": {
+        "cet6:2014-12-01:q-22-1:A": {
+          "optionId": "cet6:2014-12-01:q-22-1:A",
+          "label": "A",
+          "sourceText": "It is for the sole use of passengers travelling with cars.",
+          "sourceTextSha256": "680f96b79d5b58ac0da12e259f9b54e074620a6868ed1e0887e52bba3aff01eb",
+          "pdfPage": 2,
+          "pdfPrintedPrefix": "22、A)",
+          "structuredSourceBlockIds": [
+            "b-2-33",
+            "b-3-1"
+          ],
+          "rawBlockId": "b-2-33",
+          "rawBlockType": "paragraph",
+          "rawBlockText": "22、A) It is for the sole use of passengers travelling with cars.",
+          "rawBlockTextSha256": "468947bedff694915a724be5023b71dce632ed081f0e7864d8a20ad495bbb35d",
+          "rawPrintedPrefix": "22、A) ",
+          "companionOptionsBlockId": "b-3-1",
+          "companionOptionsShapeSha256": "38f3e6dca30f9b793d03adfc4516f10d894ce07eb4ea3259c1c8681afd71c10b"
+        }
+      }
+    }
+  }
+}

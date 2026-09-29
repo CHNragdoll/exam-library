@@ -13,6 +13,7 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
 .exam-reader .reader-version{font:500 13px/1.4 var(--ui-font);padding:8px 12px;border:0;border-radius:5px;color:var(--ui-muted);text-decoration:none;white-space:nowrap;background:none;display:block}
 .exam-reader .reader-version:hover{color:var(--ui-accent);background:#fff9}
 .exam-reader .reader-version-current{color:var(--ui-accent);background:white;box-shadow:0 1px 3px #21344c13}
+.exam-reader .reader-version-full-paper{color:var(--ui-accent);font-weight:600}
 .exam-reader .reader-controls{gap:10px;padding-top:0;padding-bottom:10px}
 .exam-reader .reader-toc-label{display:flex;align-items:center;gap:8px;min-width:0;flex:1;max-width:460px}
 .exam-reader .reader-control-label{font-size:12px;color:var(--ui-muted);flex-shrink:0}
@@ -123,7 +124,7 @@ body.exam-reader{margin:0;min-width:0;background:var(--ui-bg);color:var(--ui-ink
  .exam-reader .reader-source-header nav a,.exam-reader .reader-source-header nav button{min-height:44px;display:inline-flex;align-items:center}
  .exam-reader .reader-top{padding:10px 14px 8px;gap:10px;align-items:flex-start}
  .exam-reader .reader-title{font-size:14px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
- .exam-reader .reader-versions{gap:1px;padding:2px}
+ .exam-reader .reader-versions{gap:1px;padding:2px;max-width:100%;flex-wrap:wrap;justify-content:flex-end}
  .exam-reader .reader-version{font-size:12px;padding:8px}
  .exam-reader .reader-controls{position:relative;padding:0 14px 10px;gap:7px;flex-wrap:wrap}
  .exam-reader .reader-toc-label{max-width:none;flex:1 1 65%;order:0}

@@ -52,6 +52,7 @@ class PoliticsSubquestionTests(unittest.TestCase):
 
     def test_2022_prompts_end_before_numbered_answer_notes(self):
         paper, preview = self.build_paper(2022)
+        blocks = {block["id"]: block for block in paper["blocks"]}
         for number in range(34, 39):
             question = next(q for q in paper["questions"] if q["number"] == str(number))
             self.assertEqual([part["number"] for part in question["subquestions"]], ["1", "2"])
@@ -63,8 +64,14 @@ class PoliticsSubquestionTests(unittest.TestCase):
                 self.assertTrue(any(" ".join(part["text"].split()) in text
                                     for text in paragraphs),
                                 f"2022 question {number} part {part['number']} shares a paragraph")
-            if number != 35:  # The printed Q35 block has no answer-note section.
-                self.assertIn("答题思路", source_block.get_text())
+            # The original source retains the printed hint. The reader preview
+            # and unrevealed question text must stop before that answer section.
+            note = question["embeddedAnswerNote"]
+            self.assertTrue(any("答题思路" in blocks[bid]["text"]
+                                for bid in note["sourceBlocks"]))
+            self.assertNotIn("答题思路", source_block.get_text())
+            self.assertNotIn("答题思路", question["stem"])
+            self.assertEqual(question["answer"]["solution"], note["text"])
 
     def test_numbered_explanations_are_not_prompts(self):
         cases = ((2007, "38", {"b-6-1", "b-6-2", "b-6-3"}, ["b-6-6", "b-6-7"]),

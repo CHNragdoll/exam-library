@@ -224,7 +224,10 @@ class MathPdfQuestionBoundariesTests(unittest.TestCase):
                         self.assertIn(r"\pi", seven[0]["answer"]["solution"])
                         self.assertIn(r"S=", seven[1]["answer"]["solution"])
                         ten = [q for q in main if q["number"] == "10"]
-                        self.assertIn("【同试卷 IV 第十题】", ten[1]["answer"]["solution"])
+                        self.assertEqual(ten[1]["answer"]["solution"],
+                                         ten[0]["answer"]["solution"])
+                        self.assertEqual(ten[1]["answer"]["references"][0]["printedText"],
+                                         "【同试卷 IV 第十题】")
                         self.assertEqual([q["answer"]["sourcePages"] for q in ten],
                                          [["74"], ["75"]])
                     else:
@@ -243,13 +246,13 @@ class MathPdfQuestionBoundariesTests(unittest.TestCase):
             (1987, "IV", "一", "1", "×", "60"),
             (1987, "IV", "二", "1", "A", "60"),
             (1989, "IV", "二", "1", "B", "64"),
-            (1989, "V", "二", "1", "【同试卷IV", "65"),
+            (1989, "V", "二", "1", "B", "65"),
             (1994, "IV", "二", "1", "B", "74"),
             (1994, "V", "二", "2", "B", "75"),
             (1995, "IV", "二", "1", "D", "76"),
             (1995, "V", "二", "3", "C", "77"),
             (1996, "IV", "二", "1", "D", "78"),
-            (1996, "V", "二", "3", "【同试卷 IV", "79"),
+            (1996, "V", "二", "3", "C", "79"),
         )
         years = sorted({sample[0] for sample in samples})
         with tempfile.TemporaryDirectory() as temp:
@@ -329,7 +332,10 @@ class MathPdfQuestionBoundariesTests(unittest.TestCase):
                              [("IV", ["40"], ["70"]), ("V", ["42"], ["71"])])
             self.assertTrue(all(q["answer"]["status"] == "explicit" for q in fourteenth))
             self.assertIn("【同试卷IV 第十三题】", fourteenth[1]["stem"])
-            self.assertIn("【同试卷IV 第十三题】", fourteenth[1]["answer"]["solution"])
+            self.assertEqual(fourteenth[1]["answer"]["solution"],
+                             next(q for q in paper["questions"] if q["id"] == "q-13-1")["answer"]["solution"])
+            self.assertEqual(fourteenth[1]["answer"]["references"][0]["printedText"],
+                             "【同试卷IV 第十三题】")
             self.assertTrue(any(block["text"].startswith("（1）求")
                                 for block in paper["blocks"]
                                 if block["id"] in fourteenth[0]["sourceBlocks"]))

@@ -1,0 +1,3420 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2018-06-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+  "sourcePdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+  "paragraphs": [
+    {
+      "id": "cet4:2018-06-03:p:b-1-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30minutes to write a short essay on the importance of speaking ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "53c5450a6de0d8eb63492af1dda7800ba379b139f4c881a942b0d2e7f161636a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇短文，介绍口语能力的重要性以及如何发展口语能力。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-1-13",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-1-14",
+      "paperId": "cet4:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "Neon (霓虹) is to Hong Kong as red phone booths are to London and fog is to San Francisco. When night falls, red and blue and other colors 26 a hazy (雾蒙蒙的) glow over a city lit up by tens of thousands of neon signs. But many of them are going dark, 27 by more practical, but less romantic, LEDs (发光二极管).",
+      "sourceHash": "e500cde4effd5874e7b5707ee7895cb01109dca49d6a77950d2ef51830fbf283",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "霓虹灯（霓虹）之于香港，就像红色电话亭之于伦敦，雾之于旧金山。夜幕降临，红、蓝等色彩给这座被数以万计的霓虹灯照亮的城市蒙上一层朦胧的光芒。但其中许多正在走向黑暗，取而代之的是更实用但不那么浪漫的 LED（发光二极管）。",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-1-15",
+      "paperId": "cet4:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "Changing building codes, evolving tastes, and the high cost of maintaining those wonderful old signs have businesses embracing LEDs, which are energy 28 , but still carry great cost. \"To me, neon represents memories of the past,\" says photographer Sharon Blance, whose series Hong Kong Neon celebrates the city's famous signs. \"Looking at the signs now I get a feeling of amazement, mixed with sadness.\"",
+      "sourceHash": "8e7182dc7438ef6a5082a478f2e91cfde08763a36119318dcae66eeb19097d9c",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "不断变化的建筑规范、不断变化的品味以及维护这些精美旧标志的高昂成本促使企业开始采用 LED，虽然节能，但成本仍然很高。 “对我来说，霓虹灯代表着过去的记忆，”摄影师莎朗·布兰斯说，她的《香港霓虹灯》系列颂扬了这座城市的著名标志。 “现在看到这些迹象，我感到惊讶，又夹杂着悲伤。”",
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-1-16",
+      "paperId": "cet4:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "Building a neon sign is an art practiced by 29 trained on the job to mold glass tubes into 30 shapes and letters. They fill these tubes with gases that glow",
+      "sourceHash": "61f1a4668053e74dcedf4e18c446a0db61e3da37bc755f5f3fac512900e33403",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "建造霓虹灯是一门艺术，由受过专业培训的专业人员实践，将玻璃管模制成装饰形状和字母。他们用发光的气体填充这些管子",
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "when 31 . Neon makes orange, while other gases make yellow or blue. It takes many hours to craft a single sign.",
+      "sourceHash": "e91882dbf49d1db44c7593bd609c8bce40990d93e463970b80e89025436f63bf",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当通电时。氖气产生橙色，而其他气体产生黄色或蓝色。制作一个标志需要花费很多时间。",
+      "source": {
+        "blockIds": [
+          "b-2-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-2",
+      "paperId": "cet4:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "Blance spent a week in Hong Kong and 32 more than 60 signs; 22 of them appear in the series that capture the signs lighting up lonely streets—an 33 that makes it easy to admire their colors and craftsmanship. \"I love the beautiful, handcrafted, old-fashioned 34 of neon,\" says Blance. The signs do nothing more than 35 a restaurant, theater, or other business, but do so in the most striking way possible.",
+      "sourceHash": "de05dc2e157f25f7e729a072cf3ed239fdaff727466951cded549fe1c6e1c440",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Blance 在香港待了一周，挑战了 60 多个标志；其中 22 个出现在该系列中，捕捉了照亮孤独街道的标志——这种方法让人们很容易欣赏它们的颜色和工艺。 “我喜欢霓虹灯美丽、手工制作、老式的品质，”布兰斯说。这些标志只不过是识别餐馆、剧院或其他企业，但以最引人注目的方式做到这一点。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once.",
+      "sourceHash": "ca8f6ff5669b9787342786e23847ef4b32df5040703e393b0900b7d3fcb5b0b1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-6",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "8477ea181e8c75107c09037a87b7b1a0466f13d18358a22a64b35e676c756e04",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-7",
+      "paperId": "cet4:2018-06-03",
+      "kind": "heading_prose",
+      "sourceText": "New Jersey School District Eases Pressure on Students—Baring an Ethnic Divide",
+      "sourceHash": "fb8ff1f4bfbe21039000ef027a800093cc9fa717d6053c6f5739ef43b525ed80",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "新泽西学区减轻学生压力——消除种族分歧",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-8",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "A. This fall, David Aderhold, the chief of a high-achieving school district near Princeton, New Jersey, sent parents an alarming 16-page letter. The school district, he said, was facing a crisis. Its students were overburdened and stressed out, having to cope with too much work and too many demands. In the previous school year, 120 middle and high school students were recommended for mental health assessments and 40 were hospitalized. And on a survey administered by the district, students wrote things like, \"I hate going to school,\" and \"Coming out of 12 years in this district, I have learned one thing: that a grade, a percentage or even a point is to be valued over anything else.\"",
+      "sourceHash": "52de599a88b2b6d38d9f7bc1df7f95a084b0eb76d2d3351074f49a6d91e358c7",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-8",
+        "cet4:2018-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-8",
+        "cet4:2018-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答：今年秋天，新泽西州普林斯顿附近一个成绩优异的学区负责人戴维·阿德霍德（David Aderhold）向家长们发出了一封长达 16 页的信，令人震惊。他说，学区正面临危机。学生们负担过重，压力很大，必须应对太多的作业和太多的要求。上一学年，120名中学生被推荐接受心理健康评估，40人住院治疗。在该学区进行的一项调查中，学生们写下了这样的话：“我讨厌上学”，以及“在这个学区工作了 12 年，我学到了一件事：成绩、百分比甚至一个分数比其他任何东西都更有价值。”",
+      "source": {
+        "blockIds": [
+          "b-2-8",
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-8",
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-2-10",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) With his letter, Aderhold inserted West Windsor-Plainsboro Regional School District into a national discussion about the intense focus on achievement at elite schools, and whether it has gone too far. At follow-up meetings, he urged parents to join him in advocating a \"whole child\" approach to schooling that respects \"social-emotional development\" and \"deep and meaningful learning\" over academics alone. The alternative, he suggested, was to face the prospect of becoming another Palo Alto, California, where outsize stress on teenage students is believed to have contributed to a number of suicides in the last six years.",
+      "sourceHash": "679ba5e6ea5baa119c91d4708643ec1969f01ea243627a393418967dd563bc2d",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 阿德霍尔德在信中将西温莎-普兰斯博罗地区学区纳入了一场全国性讨论，讨论的是精英学校对成绩的强烈关注，以及这种关注是否太过分了。在后续会议上，他敦促家长与他一起倡导“全面发展儿童”的学校教育方式，尊重“社会情感发展”和“深入而有意义的学习”，而不是仅仅关注学术。他建议，另一种选择是面临成为加利福尼亚州另一个帕洛阿尔托的前景，那里青少年学生承受的巨大压力被认为是过去六年中发生多起自杀事件的原因之一。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-3-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "C. But instead of bringing families together, Aderhold's letter revealed a divide in the district, which has 9,700 students, and one that broke down roughly along racial lines. On one side are white parents like Catherine Foley, a former president of the Parent-Teacher-Student Association at her daughter's middle school, who has come to see the district's increasingly pressured atmosphere as opposed to learning. \"My son was in fourth grade and told me, 'I'm not going to amount to anything because I have nothing to put on my resume,'\" she said. On the other side are parents like Mike Jia, one of the thousands of Asian-American professionals who have moved to the district in the past decade, who said Aderhold's reforms would amount to a \"dumbing down\" of his children's education. \"What is happening here reflects a national anti-intellectual trend that will not prepare our children for the future,\" Jia said.",
+      "sourceHash": "99828ab07817056eefb0c599336f937debedc633fe33224ff413eb3c0330e6aa",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-3-1",
+        "cet4:2018-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-3-1",
+        "cet4:2018-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C. 但阿德霍尔德的信并没有让家庭团聚，反而揭示了该学区的分歧，该学区有 9,700 名学生，而且大致按照种族划分。一方面是像凯瑟琳·弗利（Catherine Foley）这样的白人家长，她是女儿所在中学家长教师学生协会的前主席，她已经看到了该地区日益紧张的氛围，而不是学习。 “我的儿子当时读四年级，他告诉我，‘我不会有任何成就，因为我没有什么可以写在我的简历上，’”她说。另一方面，像迈克·贾这样的父母是过去十年搬到该地区的数千名亚裔美国专业人士之一，他表示阿德霍尔德的改革相当于“降低”孩子的教育水平。贾说：“这里发生的事情反映了全国性的反智趋势，它不会让我们的孩子为未来做好准备。”",
+      "source": {
+        "blockIds": [
+          "b-3-1",
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-1",
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-3-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) About 10 minutes from Princeton and an hour and a half from New York City, West Windsor and Plainsboro have become popular bedroom communities for technology entrepreneurs, researchers and engineers, drawn in large part by the public schools. From the last three graduating classes, 16 seniors were admitted to MIT. It produces Science Olympiad winners, classically trained musicians and students with perfect SAT scores.",
+      "sourceHash": "19b996301f2430774fb189fa484cd8e27dc26989dcbb2d24a7c9ff4dbe91f473",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 西温莎和普兰斯伯勒距普林斯顿约 10 分钟车程，距纽约市约 1 个半小时车程，已成为科技企业家、研究人员和工程师的热门卧室社区，其中大部分来自公立学校。最后三届毕业生中，有 16 名高年级学生被麻省理工学院录取。它培养了科学奥林匹克竞赛获奖者、受过古典音乐训练的音乐家和 SAT 成绩满分的学生。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-3-4",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) The district has become increasingly popular with immigrant families from China, India and Korea. This year, 65 percent of its students are Asian-American, compared with 44 percent in 2007. Many of them are the first in their families born in the United States. They have had a growing influence on the district. Asian-American parents are enthusiastic supporters of the competitive instrumental music program. They have been huge supporters of the district's advanced mathematics program, which once began in the fourth grade but will now start in the sixth. The change to the program, in which 90 percent of the participating students are Asian-American, is one of Aderhold's reforms.",
+      "sourceHash": "da2e681ad714ae376b0baa6abd8687ac94d3b79117436345474ee70af6e15950",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 该区越来越受到来自中国、印度和韩国的移民家庭的欢迎。今年，65%的学生是亚裔美国人，而2007年这一比例为44%。他们中的许多人是在美国出生的第一个孩子。他们在该地区的影响力越来越大。亚裔美国父母是竞争性器乐项目的热情支持者。他们一直是学区高等数学项目的大力支持者，该项目曾经从四年级开始，但现在将从六年级开始。该项目的改变是阿德霍尔德的改革之一，该项目90%的参与学生是亚裔美国人。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-3-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) Asian-American students have been eager participants in a state program that permits them to take summer classes off campus for high school credit, allowing them to maximize the number of honors and Advanced Placement classes they can take, another practice that Aderhold is limiting this school year. With many Asian-American children attending supplementary instructional programs, there is a perception among some white families that the elementary school curriculum is being sped up to accommodate them.",
+      "sourceHash": "c9c5697ac327eeebd6fe1fa140ae33d97270e66acec8b270a5a02c6bbe45b149",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 亚裔美国学生一直热衷于参加一项州计划，该计划允许他们在校外参加暑期课程以获得高中学分，从而使他们能够最大限度地增加他们可以参加的荣誉课程和先修课程的数量，这是阿德霍尔德在本学年限制的另一项做法。由于许多亚裔美国儿童参加补充教学计划，一些白人家庭认为小学课程正在加快以适应他们的需要。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-3-6",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) Both Asian-American and white families say the tension between the two groups has grown steadily over the past few years, as the number of Asian families has risen. But the division has become more obvious in recent months as Aderhold has made changes, including no-homework nights, an end to high school midterms and finals, and an initiative that made it easier to participate in the music program.",
+      "sourceHash": "8888781bac38e6f59b1d0e92656b8aafbfee5eeb5c2c07ee64659f076ca60ea7",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-3-6",
+        "cet4:2018-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-3-6",
+        "cet4:2018-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 亚裔美国人和白人家庭都表示，随着亚裔家庭数量的增加，这两个群体之间的紧张关系在过去几年中稳步加剧。但近几个月来，随着阿德霍尔德做出一些改变，这种分歧变得更加明显，包括晚上不做作业、结束高中期中和期末考试，以及一项让参加音乐项目更容易的举措。",
+      "source": {
+        "blockIds": [
+          "b-3-6",
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-6",
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "H. Jennifer Lee, professor of sociology at the University of California, Irvine, and an author of the Asian American Achievement Paradox, says misunderstanding between first-generation Asian-American parents and those who have been in this country longer are common. What white middle-class parents do not always understand, she said, is how much pressure recent immigrants feel to boost their children into the middle class. \"They don't have the same chances to get their children internships (实习职位) or jobs at law firms,\" Lee said. \"So what they believe is that their children must excel and beat their white peers in academic settings so they have the same chances to excel later. \"",
+      "sourceHash": "753bde8c2ea8203ea523b424233edd46151ebaa24f5d23fee3c0b9fc6df8f532",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-1",
+        "cet4:2018-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-1",
+        "cet4:2018-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "加州大学欧文分校社会学教授、《亚裔美国人成就悖论》一书的作者詹妮弗·李 (H. Jennifer Lee) 表示，第一代亚裔美国父母与在这个国家生活时间较长的人之间的误解很常见。她说，白人中产阶级父母并不总是理解新移民为了让他们的孩子进入中产阶级而承受的压力有多大。 “他们没有同样的机会让孩子在律师事务所实习或工作，”李说。 “所以他们相信，他们的孩子必须在学业上表现出色并击败白人同龄人，这样他们以后就有同样的机会取得优异成绩。”",
+      "source": {
+        "blockIds": [
+          "b-4-1",
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-1",
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) The issue of the stresses felt by students in elite school districts has gained attention in recent years as schools in places like Newton, Massachusetts, and Palo Alto have reported a number of suicides. West Windsor-Plainsboro has not had a teenage suicide in recent years, but Aderhold, who has worked in the district for seven years and been chief for the last three years, said he had seen troubling signs. In a recent art assignments, a middle school student depicted (描绘) an overburdened child who was being scolded for earning an A, rather than an A+ , on a math exam. In the image, the mother scolds the student with the words, \"Shame on you!\" Further, he said, the New Jersey Education Department has flagged at least two pieces of writing on state English language assessments in which students expressed suicidal thoughts.",
+      "sourceHash": "b134273cb14e549afadd30522c51a50b5cb8ae9d164bac2a18970ebf2639b72a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 近年来，精英学区学生感受到的压力问题引起了人们的关注，马萨诸塞州牛顿和帕洛阿尔托等地的学校报告了多起自杀事件。西温莎-普兰斯伯勒近年来没有发生青少年自杀事件，但在该地区工作了七年并在过去三年担任区长的阿德霍尔德表示，他看到了令人不安的迹象。在最近的一次艺术作业中，一名中学生描绘了一个负担过重的孩子，他因在数学考试中获得 A 而不是 A+ 而受到责骂。照片中，母亲斥责学生：“你真丢脸！”此外，他说，新泽西州教育部已经标记出至少两篇关于州英语语言评估的文章，其中学生表达了自杀想法。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-4",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) The survey commissioned by the district found that 68 percent of high school honor and Advanced Placement students reported feeling stressed about school \"always or most of the time.\" \"We need to bring back some balance,\" Aderhold said. \"You don't want to wait until it's too late to do something. \"",
+      "sourceHash": "297e6df207b4cd2f9c99bc9528c212e25c918d8811f6b0b910c8be7ff96a09da",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 学区委托进行的调查发现，68% 的高中荣誉学生和先修课程学生表示“始终或大部分时间”对学校感到压力。 “我们需要恢复一些平衡，”阿德霍尔德说。 “你不想等到为时已晚才采取行动。”",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) Not all public opinion has fallen along racial lines. Karen Sue, the Chinese-American mother of a fifth-grader and an eighth-grader, believes the competition within the district has gotten out of control. Sue, who was born in the United States to immigrant parents, wants her peers to dial it back. \"It's become an arms race, an educational arms race,\" she said. \"We all want our kids to achieve and be successful. The question is, at what cost?\"",
+      "sourceHash": "0bc8f85afd1ec1b589940486378186e38c60b0aa69e9531de2f75a87b83e5cbd",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-5",
+        "cet4:2018-06-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-5",
+        "cet4:2018-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 并非所有公众舆论都按照种族界限行事。凯伦·苏 (Karen Sue) 是一名五年级学生和一名八年级学生的美籍华人母亲，她认为学区内的竞争已经失控。苏出生在美国，父母是移民，她希望她的同龄人能够改变这种做法。 “这已经成为一场军备竞赛，一场教育军备竞赛，”她说。 “我们都希望我们的孩子有所成就并取得成功。问题是，要付出什么代价？”",
+      "source": {
+        "blockIds": [
+          "b-4-5",
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-5",
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-7",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Aderhold is limiting the extra classes that students are allowed to take off campus.",
+      "sourceHash": "2f6e90698b99738974bcd9eca2a2788846e020afb0449567013c9169f17e5997",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 阿德霍尔德正在限制学生在校外参加的额外课程。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-8",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37. White and Asian-American parents responded differently to Aderhold's appeal.",
+      "sourceHash": "f5053e55d7ddef44857a0f0236337ffbd6cb3f8e1f332173d7a9bedd25efc8e6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 白人和亚裔美国父母对阿德霍尔德的呼吁有不同的反应。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-9",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38. Suicidal thoughts have appeared in some students' writings.",
+      "sourceHash": "6e6853117f5978c7cb3a847a813711df25174f8c4a82d9ab37d0ca4ae8891d23",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 一些学生的作品中出现了自杀的想法。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-10",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Aderhold's reform of the advanced mathematics program will affect Asian-American students most.",
+      "sourceHash": "7e033b13a539243df30181ab187b878cbaa0eb390613e678835c59dd567fe97a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 阿德霍尔德对高等数学课程的改革对亚裔美国学生影响最大。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-4-11",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Aderhold appealed for parents' support in promoting an all-round development of children, instead of focusing only on their academic performance.",
+      "sourceHash": "69b4774bb5436fc7032d07866744e6e38d394695c2d175cce37295e166999bee",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 阿德霍尔德呼吁家长支持促进儿童全面发展，而不是只关注他们的学业表现。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41. One Chinese-American parent thinks the competition in the district has gone too far.",
+      "sourceHash": "e30238a613e5ceafd95906c7b0e8d37b93884730e1dde9a6499f917c72d0b9e8",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 一位华裔美国家长认为该学区的竞争太过分了。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-2",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Immigrant parents believe that academic excellence will allow their children equal chances to succeed in the future.",
+      "sourceHash": "7502615028e2d58faaebf38cbf612f57fa42da0c81f0e805401a470ae0961434",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 移民父母相信，学业优秀将使他们的孩子在未来获得成功的平等机会。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Many businessmen and professionals have moved to West Windsor and Plainsboro because of the public schools there.",
+      "sourceHash": "fc1a2eea14e23ee2abfdb83fcf47911b5da682dee502c8532168beae6dc44f96",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 许多商人和专业人士因为那里的公立学校而搬到了西温莎和普兰斯伯勒。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-4",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44. A number of students in Aderhold's school district were found to have stress-induced mental health problems.",
+      "sourceHash": "14e3fb386fbb04f561cd132e40beaea3f1b26f4a6d138993e1ff18b2cf543ae4",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 阿德霍尔德学区的一些学生被发现存在压力引起的心理健康问题。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45. The tension between Asian-American and white families has increased in recent years.",
+      "sourceHash": "d644ecc5ff820edd9d2e62b73e2e0971b97a7492c76fb457801832ed6a780295",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 近年来，亚裔美国人和白人家庭之间的紧张关系有所加剧。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-7",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-9",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 and 50 are based on the following passage.",
+      "sourceHash": "9cca0d3117dec07f78c24f482d524bac4c9f8bd35b172f14db7274cea1e90d36",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 46 和 50 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-10",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "For thousands of years, people have known that the best way to understand a concept is to explain it to someone else. \"While we teach, we learn,\" said Roman philosopher Seneca. Now scientists are bringing this ancient wisdom up-to-date. They're documenting why teaching is such a fruitful way to learn, and designing innovative ways for young people to engage in instruction.",
+      "sourceHash": "6f10df0d64c0904bb6973382dfd7bb941d9418c6bb0b9f43fab97c73e087491c",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "几千年来，人们都知道理解一个概念的最好方法就是向别人解释它。罗马哲学家塞内卡说：“我们在教学的同时也在学习。”现在，科学家们正在将这一古老的智慧付诸实践。他们记录了为什么教学是一种如此富有成效的学习方式，并为年轻人设计了参与教学的创新方式。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-11",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Researchers have found that students who sign up to tutor others work harder to understand the material, recall it more accurately and apply it more effectively. Student teachers score higher on tests than pupils who're learning only for their own sake. But how can children, still learning themselves, teach others? One answer: They can tutor younger kids. Some studies have found that first-born children are more intelligent than their later-born siblings (兄弟姐妹). This suggests their higher IQs result from the time they spend teaching their siblings. Now educators are experimenting with ways to apply this model to academic subjects. They engage college undergraduates to teach computer science to high school students, who in turn instruct middle school students on the topic.",
+      "sourceHash": "3ad548ecf6152254e5ff29c709cda3002d1124552dfe9f01f87cf2a28c029fc1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "研究人员发现，报名辅导他人的学生会更努力地理解材料、更准确地回忆并更有效地应用它。实习教师在考试中的得分高于那些只为自己学习的学生。但仍在自我学习的孩子如何能教导他人呢？答案之一：他们可以辅导年幼的孩子。一些研究发现，长子比晚生的兄弟姐妹更聪明。这表明他们较高的智商源于他们花时间教导兄弟姐妹。现在，教育工作者正在尝试将这种模式应用于学术科目的方法。他们聘请大学本科生向高中生教授计算机科学，而高中生又向中学生教授该主题。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-5-12",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "But the most cutting-edge tool under development is the \"teachable agent\"—a computerized character who learns, tries, makes mistakes and asks questions just like a real-world pupil. Computer scientists have created an animated (动画的) figure called Betty's Brain, who has been \"taught\" about environmental science by hundreds of middle school students. Student teachers are",
+      "sourceHash": "29a25c52c9af5c528789359e9e12ccbf440b6dc819a1268b2b04589ab8493d6c",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但正在开发的最尖端的工具是“可教代理”——一个像现实世界的学生一样学习、尝试、犯错误和提出问题的计算机化角色。计算机科学家创造了一个名为贝蒂大脑的动画人物，数百名中学生向她“教授”环境科学知识。学生教师是",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "motivated to help Betty master certain materials. While preparing to teach, they organize their knowledge and improve their own understanding. And as they explain the information to it, they identify problems in their own thinking.",
+      "sourceHash": "de0ecb954983762b63b530048dd172744f09283a2547a88ab44c48e74257c49f",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有动力帮助贝蒂掌握某些材料。他们在准备教学的同时，整理自己的知识，提高自己的理解力。当他们向它解释信息时，他们发现了自己思维中的问题。",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-2",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Feedback from the teachable agents further enhances the tutors' learning. The agents' questions compel student tutors to think and explain the materials in different ways, and watching the agent solve problems allows them to see their knowledge put into action.",
+      "sourceHash": "8b7703c5b8fa77d175683e3d11c6980c3b6e571b8e88142e790c2378e1a42262",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "来自可教代理的反馈进一步增强了导师的学习。代理人的问题迫使学生导师以不同的方式思考和解释材料，观看代理人解决问题可以让他们看到自己的知识付诸实践。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Above all, it's the emotions one experiences in teaching that facilitate learning. Student tutors feel upset when their teachable agents fail, but happy when these virtual pupils succeed as they derive pride and satisfaction from someone else's accomplishment.",
+      "sourceHash": "2b69fed4bd98615fd3510e8fd20254cdc1f3c1d0cbe0d13d49341f51defd9119",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "最重要的是，人们在教学中体验到的情感能够促进学习。当他们的可教代理失败时，学生导师会感到沮丧，但当这些虚拟学生成功时，他们会感到高兴，因为他们从别人的成就中获得自豪和满足。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-4",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What are researchers rediscovering through their studies?",
+      "sourceHash": "a53123e8a1ef01a7de996a174fe4ce288d633dc63d4bcfba07adebd736c95da1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 研究人员通过研究重新发现了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-6",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What do we learn about Betty's Brain?",
+      "sourceHash": "f0fe4643acb6c23d6d5bffcf1d5b8604ea24cd0d08733d35bf13ad57e5bc1a75",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 关于贝蒂的大脑，我们了解什么？",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-8",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. How does teaching others benefit student tutors?",
+      "sourceHash": "ed6b3efd2172fcc27782c2d57810d35af2b0eaabd2f8bc63a71c3b5e70ee3572",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 教导他人对学生导师有何好处？",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-6-10",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What do students do to teach their teachable agents?",
+      "sourceHash": "4003a9bf420a82a56e75fff27b7fe0e0f5e22626bfe79e0ed039ffd550039177",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 学生如何教导他们的可教代理？",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-2",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What is the key factor that eases student tutors' learning?",
+      "sourceHash": "adf1e792cafda4cb5c426eb3befc2d4da6c93ee1bfe60798930d608f6f0b8eda",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 减轻学生导师学习的关键因素是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-6",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "A new batch of young women—members of the so-called Millennial (千禧的) generation—has been entering the workforce for the past decade. At the starting line of their careers, they are better educated than their mothers and grandmothers had been—or than their young male counterparts are now. But when they look ahead, they see roadblocks to their success. They believe that women are paid less than men for doing the same job. They think it's easier for men to get top executive jobs than it is for them. And they assume that if and when they have children, it will be even harder for them to advance in their careers.",
+      "sourceHash": "12be8e6de12f13ad8706564a5c021046e1b5793016396f01c06e8180810c8589",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "过去十年，一批新的年轻女性——所谓的千禧一代——已经进入劳动力市场。在他们职业生涯的起跑线上，他们比他们的母亲和祖母曾经受过更好的教育，或者比现在的年轻男性同行受过更好的教育。但当他们展望未来时，他们看到了成功的障碍。他们认为，做同样的工作，女性的工资低于男性。他们认为男性比男性更容易获得高层管理职位。他们认为，如果有了孩子，他们的职业生涯就会更难取得进展。",
+      "source": {
+        "blockIds": [
+          "b-7-6"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-7",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "While the public sees greater workplace equality between men and women now than it did 20-30 years ago, most believe more change is needed. Among Millennial women, 75% say this country needs to continue making changes to achieve gender equality in the workplace, compared with 57% of Millennial men. Even so, relatively few young women (15%) say they have been discriminated against at work because of their gender.",
+      "sourceHash": "97485c5a6247b5238e1a0bb5616c5b1714985e7255f89106a76e5800b796dba9",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "虽然公众认为现在男女在工作场所的平等程度比 20-30 年前更大，但大多数人认为需要更多的改变。在千禧一代女性中，75% 的人表示这个​​国家需要继续做出改变，以实现工作场所的性别平等，而千禧一代男性中的这一比例为 57%。即便如此，相对较少的年轻女性（15%）表示她们在工作中因性别而受到歧视。",
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-8",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "As Millennial women come of age they share many of the same views and values about work as their male counterparts. They want jobs that provide security and flexibility, and they place relatively little importance on high pay. At the same time, however, young working women are less likely than men to aim at top management jobs: 34% say they're not interested in becoming a boss or top manager; only 24% of young men say the same. The gender gap on this question is even wider among working adults in their 30s and 40s, when many women face the trade-offs that go with work and motherhood.",
+      "sourceHash": "17b3645504aae65f164837d7d33425257854c2ef502d4fd1ee943b150e1e31a0",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "随着千禧一代女性的成年，她们对工作的看法和价值观与男性有许多相同的观点和价值观。他们想要提供安全和灵活性的工作，并且相对不太重视高薪。然而，与此同时，年轻职业女性比男性更不可能瞄准高层管理职位：34% 的人表示她们对成为老板或高层经理不感兴趣；只有 24% 的年轻人也这么说。在 30 多岁和 40 多岁的职业成年人中，这个问题上的性别差距更大，因为此时许多女性面临着工作和母亲的权衡。",
+      "source": {
+        "blockIds": [
+          "b-7-8"
+        ],
+        "reflowBlockIds": [
+          "b-7-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-7-9",
+      "paperId": "cet4:2018-06-03",
+      "kind": "reading",
+      "sourceText": "These findings are based on a new Pew Research Center survey of 2,002 adults, including 810 Millennials (ages 18-32), conducted Oct. 7-27, 2013. The survey finds that, in spite of the dramatic gains women have made in educational attainment and labor force participation in recent decades, young women view this as a man's world—just as middle-aged and older women do.",
+      "sourceHash": "fa649c6be81ae7a7c35a2a8304c0818318eef6227272ec103b803012eee3e5f6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些发现基于皮尤研究中心于 2013 年 10 月 7 日至 27 日对 2,002 名成年人进行的新调查，其中包括 810 名千禧一代（18 至 32 岁）。调查发现，尽管近几十年来女性在受教育程度和劳动力参与方面取得了巨大进步，但年轻女性与中年和老年女性一样，认为这是男性的世界。",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-8-1",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What do we learn from the first paragraph about Millennial women starting their careers?",
+      "sourceHash": "2cf3b6fb9533ba9e437422652c7e460dd4f7549f1379c43104f92c31cf67b8f9",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-8-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 我们从关于千禧一代女性开始职业生涯的第一段中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-8-1"
+        ],
+        "reflowBlockIds": [
+          "b-8-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-8-3",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52. How do most Millennial women feel about their treatment in the workplace?",
+      "sourceHash": "2562ebd6aefdc5ba90e86162f807b96bfa47c496a15beb73dbe2796d6c6e148e",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-8-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 大多数千禧一代女性对她们在工作场所的待遇有何看法？",
+      "source": {
+        "blockIds": [
+          "b-8-3"
+        ],
+        "reflowBlockIds": [
+          "b-8-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-8-5",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What do Millennial women value most when coming of age?",
+      "sourceHash": "3bc111363282800180ffb7dc8995b4769152e1c0e91379c7f67ab466e037ff45",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-8-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 千禧一代女性成年后最看重什么？",
+      "source": {
+        "blockIds": [
+          "b-8-5"
+        ],
+        "reflowBlockIds": [
+          "b-8-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-8-7",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What are women in their 30s and 40s concerned about?",
+      "sourceHash": "2c250a6e22835f7e073e476eb8fa325489d9e1f227086ca980c9747923606d0c",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-8-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 30多岁和40多岁的女性关心什么？",
+      "source": {
+        "blockIds": [
+          "b-8-7"
+        ],
+        "reflowBlockIds": [
+          "b-8-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-8-9",
+      "paperId": "cet4:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What conclusion can be drawn about Millennial women from the 2013 survey?",
+      "sourceHash": "bc359a3381c6c26bc40ce1517b705d537ac50cde722f4c16e1a481dfc75f7dc1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-8-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 从 2013 年的调查中可以得出关于千禧一代女性的什么结论？",
+      "source": {
+        "blockIds": [
+          "b-8-9"
+        ],
+        "reflowBlockIds": [
+          "b-8-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2018-06-03:p:b-9-2",
+      "paperId": "cet4:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30minutes to translate a passage from Chi nese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "9b4abae4cd409e1fc431f8e86020875882e8e932312748db83832b2d5a19c493",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-9-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2018-06-03:b-9-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-9-2"
+        ],
+        "reflowBlockIds": [
+          "b-9-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2018-06-03.json",
+        "pdfSha256": "03be3685ffd3f2347ff27ba039b769a078ff2198750a2b8f0501d0c2f21fd8e8",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2018-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2018-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-46-1",
+      "optionId": "cet4:2018-06-03:q-46-1:A",
+      "sourceText": "Seneca's thinking is still applicable today.",
+      "sourceHash": "f3f2708fe998add4344bfee716c8b16a84528a5d0dd6f1be4d6a0c39560d88c5",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Seneca's thinking is still applicable today.",
+      "translationEligible": true,
+      "translationZh": "塞内卡的思想至今仍然适用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-46-1",
+      "optionId": "cet4:2018-06-03:q-46-1:B",
+      "sourceText": "Better learners will become better teachers.",
+      "sourceHash": "d3acf0d4f4f969984013e31e35b6c6ef10880a8395b89fc56e02c23f1425357d",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Better learners will become better teachers.",
+      "translationEligible": true,
+      "translationZh": "更好的学习者将成为更好的老师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-46-1",
+      "optionId": "cet4:2018-06-03:q-46-1:C",
+      "sourceText": "Human intelligence tends to grow with age.",
+      "sourceHash": "0eaa7bb036a2d0454d2abc2de3a5cf31d750c86f6857137f82fd842b6c386287",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Human intelligence tends to grow with age.",
+      "translationEligible": true,
+      "translationZh": "人类的智力往往会随着年龄的增长而增长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-46-1",
+      "optionId": "cet4:2018-06-03:q-46-1:D",
+      "sourceText": "Philosophical thinking improves instruction.",
+      "sourceHash": "f44f17c313658474dac0509677603f52275e265bf223bb563df19850603c37ac",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Philosophical thinking improves instruction.",
+      "translationEligible": true,
+      "translationZh": "哲学思考可以改善教学。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-47-1",
+      "optionId": "cet4:2018-06-03:q-47-1:A",
+      "sourceText": "It is a character in a popular animation.",
+      "sourceHash": "718dd68fa4d1c5924f522352d11982ba70b14d1c68e0a0e6afbe797b8a7a3043",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is a character in a popular animation.",
+      "translationEligible": true,
+      "translationZh": "这是一部流行动画中的角色。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-47-1",
+      "optionId": "cet4:2018-06-03:q-47-1:B",
+      "sourceText": "It is a teaching tool under development.",
+      "sourceHash": "494af8f4d1ca98b84c2976b7369d4c682d331aa245bd9ff71c4e34519e1173d6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is a teaching tool under development.",
+      "translationEligible": true,
+      "translationZh": "它是一个正在开发的教学工具。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-47-1",
+      "optionId": "cet4:2018-06-03:q-47-1:C",
+      "sourceText": "It is a cutting-edge app in digital games.",
+      "sourceHash": "0c65c89925319a953fc7524475a32511c8790432dbf8b2b4bde988044c404132",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is a cutting-edge app in digital games.",
+      "translationEligible": true,
+      "translationZh": "它是数字游戏领域的尖端应用程序。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-47-1",
+      "optionId": "cet4:2018-06-03:q-47-1:D",
+      "sourceText": "It is a tutor for computer science students.",
+      "sourceHash": "b5b613aa0a5300824d9f10f85529ea6bd038f6464c0917e874ba959444a66d16",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is a tutor for computer science students.",
+      "translationEligible": true,
+      "translationZh": "它是计算机科学专业学生的导师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-48-1",
+      "optionId": "cet4:2018-06-03:q-48-1:A",
+      "sourceText": "It makes them aware of what they are strong at.",
+      "sourceHash": "9f04305905403bfb29d684a79f8753f870864ecda2906b4e06f89ca0be9910d4",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It makes them aware of what they are strong at.",
+      "translationEligible": true,
+      "translationZh": "这让他们意识到自己擅长什么。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-48-1",
+      "optionId": "cet4:2018-06-03:q-48-1:B",
+      "sourceText": "It motivates them to try novel ways of teaching.",
+      "sourceHash": "636564e0b665c8e5b03f9d0eda18c723ee5b0047f531c5a56a86bf839f558061",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It motivates them to try novel ways of teaching.",
+      "translationEligible": true,
+      "translationZh": "它激励他们尝试新颖的教学方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-48-1",
+      "optionId": "cet4:2018-06-03:q-48-1:C",
+      "sourceText": "It helps them learn their academic subjects better.",
+      "sourceHash": "3329b3ab81bc4ea5a2cd5502bc9eaacb5b53df1f5ee14d1353cf52f6446210e2",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It helps them learn their academic subjects better.",
+      "translationEligible": true,
+      "translationZh": "它可以帮助他们更好地学习他们的学术科目。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-48-1",
+      "optionId": "cet4:2018-06-03:q-48-1:D",
+      "sourceText": "It enables them to better understand their teachers.",
+      "sourceHash": "a00c7048cfb761093f8c76ab5a5ea204653cdbbf622edd4c86e837968ab6e9ad",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It enables them to better understand their teachers.",
+      "translationEligible": true,
+      "translationZh": "它使他们能够更好地了解他们的老师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-49-1",
+      "optionId": "cet4:2018-06-03:q-49-1:A",
+      "sourceText": "They motivate them to think independently.",
+      "sourceHash": "7a47c49b420ab9f8eee9396925e9027bd2e8eedb1ae55c611a6efa76709e9fbc",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They motivate them to think independently.",
+      "translationEligible": true,
+      "translationZh": "他们激励他们独立思考。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-49-1",
+      "optionId": "cet4:2018-06-03:q-49-1:B",
+      "sourceText": "They ask them to design their own questions.",
+      "sourceHash": "21aadfcf28bf777c79651bcf644283d1508467a8bb3db6b6e84e75115e81e2da",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They ask them to design their own questions.",
+      "translationEligible": true,
+      "translationZh": "他们要求他们设计自己的问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-49-1",
+      "optionId": "cet4:2018-06-03:q-49-1:C",
+      "sourceText": "They encourage them to give prompt feedback.",
+      "sourceHash": "922601ed359e4cfc20559b644a4fbaf2a91213a87ff101cac2700a33e82a6edd",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They encourage them to give prompt feedback.",
+      "translationEligible": true,
+      "translationZh": "他们鼓励他们及时提供反馈。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-49-1",
+      "optionId": "cet4:2018-06-03:q-49-1:D",
+      "sourceText": "They use various ways to explain the materials.",
+      "sourceHash": "a952df8d789cbf29aa2464f3ec6e91fbd48f27d9ae31532cdeefefce3d7274df",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-1"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-7-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They use various ways to explain the materials.",
+      "translationEligible": true,
+      "translationZh": "他们使用各种方式来解释材料。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-50-1",
+      "optionId": "cet4:2018-06-03:q-50-1:A",
+      "sourceText": "Their sense of responsibility.",
+      "sourceHash": "d65dbdcad1aa1a9e0f9df55574e9a315b03ba2a009444f93563a6260d7f78aa7",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Their sense of responsibility.",
+      "translationEligible": true,
+      "translationZh": "他们的责任感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-50-1",
+      "optionId": "cet4:2018-06-03:q-50-1:B",
+      "sourceText": "Their emotional involvement.",
+      "sourceHash": "e8daa7c6c1558095d0188c7aa559169d1e94cd9e529a17dd2376480e70643501",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Their emotional involvement.",
+      "translationEligible": true,
+      "translationZh": "他们的情感投入。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-50-1",
+      "optionId": "cet4:2018-06-03:q-50-1:C",
+      "sourceText": "The learning strategy acquired.",
+      "sourceHash": "0216c61b838925980fb6bd98aa5b5d34dca4fb48a7d9967237c34ea79f9bef2b",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The learning strategy acquired.",
+      "translationEligible": true,
+      "translationZh": "获得的学习策略。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-50-1",
+      "optionId": "cet4:2018-06-03:q-50-1:D",
+      "sourceText": "The teaching experience gained.",
+      "sourceHash": "1752fd614c60cb99806f1b3155a284225f9d7ca794efe10d08e6e3fa3cfc5eb0",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The teaching experience gained.",
+      "translationEligible": true,
+      "translationZh": "所取得的教学经验。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-51-1",
+      "optionId": "cet4:2018-06-03:q-51-1:A",
+      "sourceText": "They can get ahead only by striving harder.",
+      "sourceHash": "d71e176da72f8c55aefb0cb53f5907eaa1d08cd9a43005df8f5ad1841a59a0c5",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-2"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They can get ahead only by striving harder.",
+      "translationEligible": true,
+      "translationZh": "他们只有更加努力才能取得进步。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-51-1",
+      "optionId": "cet4:2018-06-03:q-51-1:B",
+      "sourceText": "They expect to succeed just like Millennial men.",
+      "sourceHash": "f13cd4982c6147b960beb003b28903091cd83ee2708ed7b0c1199438bdefe570",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-2"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They expect to succeed just like Millennial men.",
+      "translationEligible": true,
+      "translationZh": "他们期望像千禧一代男性一样取得成功。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-51-1",
+      "optionId": "cet4:2018-06-03:q-51-1:C",
+      "sourceText": "They are generally quite optimistic about their future.",
+      "sourceHash": "6e06a2ddf590a835734f470255c1ca03fe5ca0d82d6558412a41e3539d67ef5a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-2"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are generally quite optimistic about their future.",
+      "translationEligible": true,
+      "translationZh": "他们普遍对自己的未来相当乐观。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-51-1",
+      "optionId": "cet4:2018-06-03:q-51-1:D",
+      "sourceText": "They are better educated than their male counterparts.",
+      "sourceHash": "1db4df143488e9c7ccabb7fe3c12d9708ad27a3c72682e56b31a45b7ccc4535b",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-2"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are better educated than their male counterparts.",
+      "translationEligible": true,
+      "translationZh": "她们比男性同行受过更好的教育。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-52-1",
+      "optionId": "cet4:2018-06-03:q-52-1:A",
+      "sourceText": "They are the target of discrimination.",
+      "sourceHash": "7c9f3d874404ba0c67e5694db1c6f1f7cce54bba8dad9f0026d9e3fd1cbaf8e6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-4"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are the target of discrimination.",
+      "translationEligible": true,
+      "translationZh": "他们是歧视的对象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-52-1",
+      "optionId": "cet4:2018-06-03:q-52-1:B",
+      "sourceText": "They find it satisfactory on the whole.",
+      "sourceHash": "b1a35ada838a95e23620042fef16b84f4cf7f7f080e2b257f064b2ea9458ca68",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-4"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They find it satisfactory on the whole.",
+      "translationEligible": true,
+      "translationZh": "总体来说，他们觉得还算满意。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-52-1",
+      "optionId": "cet4:2018-06-03:q-52-1:C",
+      "sourceText": "They think it needs further improving.",
+      "sourceHash": "2969791304010466fe3d5c4adcc742923473806874d0cd1cf35728c69ff237d6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-4"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They think it needs further improving.",
+      "translationEligible": true,
+      "translationZh": "他们认为还需要进一步改进。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-52-1",
+      "optionId": "cet4:2018-06-03:q-52-1:D",
+      "sourceText": "They find their complaints ignored.",
+      "sourceHash": "c696d27b08e999b8e888ee5bb7c3e0b138ae3b244743f5f4b4fa2cd38a9bac63",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-4"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They find their complaints ignored.",
+      "translationEligible": true,
+      "translationZh": "他们发现自己的抱怨被忽视了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-53-1",
+      "optionId": "cet4:2018-06-03:q-53-1:A",
+      "sourceText": "A sense of accomplishment.",
+      "sourceHash": "8ba44a00875058386f1c9d50131ebfe9c2f09f5e8af2b09d47dcfce0434a2192",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-6"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A sense of accomplishment.",
+      "translationEligible": true,
+      "translationZh": "一种成就感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-53-1",
+      "optionId": "cet4:2018-06-03:q-53-1:B",
+      "sourceText": "Job stability and flexibility.",
+      "sourceHash": "1cdcb4301db5eee6945806b1011c9c072735203aeb71da861d53d09ef5dabee7",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-6"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Job stability and flexibility.",
+      "translationEligible": true,
+      "translationZh": "工作稳定性和灵活性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-53-1",
+      "optionId": "cet4:2018-06-03:q-53-1:C",
+      "sourceText": "Rewards and promotions.",
+      "sourceHash": "b1f3f78a56993539eefd5bef2c2496d6108be7e5e154b3aa621c3c64496b4fef",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-6"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Rewards and promotions.",
+      "translationEligible": true,
+      "translationZh": "奖励和促销。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-53-1",
+      "optionId": "cet4:2018-06-03:q-53-1:D",
+      "sourceText": "Joy derived from work.",
+      "sourceHash": "799632ea0a6baa568a06c06c054abbf9fdc943004a1de3b293c78d144b509d81",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-6"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Joy derived from work.",
+      "translationEligible": true,
+      "translationZh": "快乐源于工作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-54-1",
+      "optionId": "cet4:2018-06-03:q-54-1:A",
+      "sourceText": "The welfare of their children.",
+      "sourceHash": "9d0a0d202b05d9ea3316a00d0c76a9c9d16b9fa220ecb18217ba6103591e1273",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-8"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The welfare of their children.",
+      "translationEligible": true,
+      "translationZh": "他们孩子的福祉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-54-1",
+      "optionId": "cet4:2018-06-03:q-54-1:B",
+      "sourceText": "The narrowing of the gender gap.",
+      "sourceHash": "227bbd4828102954775a2350af9e3e291f4ca3189b5071bdcf4878827bcb75e1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-8"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The narrowing of the gender gap.",
+      "translationEligible": true,
+      "translationZh": "性别差距缩小。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-54-1",
+      "optionId": "cet4:2018-06-03:q-54-1:C",
+      "sourceText": "The fulfillment of their dreams in life.",
+      "sourceHash": "2755f3eeb47fcbb0edc4c53cb605917f9e7dd034f2a53a177841d146e7626247",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-8"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The fulfillment of their dreams in life.",
+      "translationEligible": true,
+      "translationZh": "实现他们的人生梦想。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-54-1",
+      "optionId": "cet4:2018-06-03:q-54-1:D",
+      "sourceText": "The balance between work and family.",
+      "sourceHash": "8805dfe3e1dd9d32d175ebf4ef136aa1c6bd9e08bac69969eeb38d7e522ac0cf",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-8"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The balance between work and family.",
+      "translationEligible": true,
+      "translationZh": "工作和家庭之间的平衡。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-55-1",
+      "optionId": "cet4:2018-06-03:q-55-1:A",
+      "sourceText": "They still view this world as one dominated by males.",
+      "sourceHash": "89880e2661fe3e2e9eb0cdfe998f89309d0c524f3066b3abd9fc7f8e15cd74d1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-10"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They still view this world as one dominated by males.",
+      "translationEligible": true,
+      "translationZh": "他们仍然认为这个世界是由男性主导的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-55-1",
+      "optionId": "cet4:2018-06-03:q-55-1:B",
+      "sourceText": "They account for half the workforce in the job market.",
+      "sourceHash": "4121d95b7189b1f61f42ae8a0222c7b5a036cd4654cb1117e665e917613cf31f",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-10"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They account for half the workforce in the job market.",
+      "translationEligible": true,
+      "translationZh": "他们占就业市场劳动力的一半。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-55-1",
+      "optionId": "cet4:2018-06-03:q-55-1:C",
+      "sourceText": "They see the world differently from older generations.",
+      "sourceHash": "e50806966cf4369d853a453779a224279d61e0f981bdbdc3482b7841ca621fc1",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-10"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They see the world differently from older generations.",
+      "translationEligible": true,
+      "translationZh": "他们看待世界的方式与老一辈人不同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-55-1",
+      "optionId": "cet4:2018-06-03:q-55-1:D",
+      "sourceText": "They do better in work than their male counterparts.",
+      "sourceHash": "1d9f91b84e3032c659e67768c9d5f8c1219241eda5b92435d1bda27ed4f217df",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-8-10"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-8-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They do better in work than their male counterparts.",
+      "translationEligible": true,
+      "translationZh": "她们在工作中比男性同事做得更好。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:A",
+      "sourceText": "alternative",
+      "sourceHash": "27747689baf9903c9aae69d82a95e8dcf4254c648ca13e4c9ff49adb1e546bb6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "alternative",
+      "translationEligible": true,
+      "translationZh": "另类",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:B",
+      "sourceText": "approach",
+      "sourceHash": "cec9111de36d4a50c3e667f6ecf2e4a69bfc1efe69c66103c57d48dfe6a9211b",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "approach",
+      "translationEligible": true,
+      "translationZh": "方法",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:C",
+      "sourceText": "cast",
+      "sourceHash": "603705cc260e946d130a1ceb6b6d9bfcd20312da055292ae3c16c7a3d693b410",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "cast",
+      "translationEligible": true,
+      "translationZh": "演员表",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:D",
+      "sourceText": "challenging",
+      "sourceHash": "3208c4b145a4ededca5fad0becfefcc9d404b95656c614c6cca5fa14ea45c500",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "challenging",
+      "translationEligible": true,
+      "translationZh": "具有挑战性的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:E",
+      "sourceText": "decorative",
+      "sourceHash": "622ed1e9d394c4a472d44fd8ae667e98724384ee1d238843f50518de1ad4cd00",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "decorative",
+      "translationEligible": true,
+      "translationZh": "装饰性的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:F",
+      "sourceText": "efficient",
+      "sourceHash": "480e4f1d08e9079c05c0b2eeb1fb269cf2164678979891f0780ee9dd33f190e8",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "efficient",
+      "translationEligible": true,
+      "translationZh": "高效",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:G",
+      "sourceText": "electrified",
+      "sourceHash": "5fae4c750305fc1e47fdb8438e00d0c98d47d1d7964cf21890f1331d4358b8d9",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "electrified",
+      "translationEligible": true,
+      "translationZh": "电气化",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:H",
+      "sourceText": "identify",
+      "sourceHash": "0f780b5c735e70251a83e58da306c81951961596c9ab543a7929bf67381b9328",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "identify",
+      "translationEligible": true,
+      "translationZh": "识别",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:I",
+      "sourceText": "photographed",
+      "sourceHash": "8c8e746a25a411990f1f16ae85a67cf6026a36edc5693052965e53ebae743c4b",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "photographed",
+      "translationEligible": true,
+      "translationZh": "拍到的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:J",
+      "sourceText": "professionals",
+      "sourceHash": "4044c1b42c9c9c7de933ea6a71be3eaacc13fbb36480a8c38d9c0bd47cc6dbc6",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "professionals",
+      "translationEligible": true,
+      "translationZh": "专业人士",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:K",
+      "sourceText": "quality",
+      "sourceHash": "acef2c15bcd349db900dffece73e1256e881c4416fc1f2d3a494640183490d9a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "quality",
+      "translationEligible": true,
+      "translationZh": "品质",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:L",
+      "sourceText": "replaced",
+      "sourceHash": "6c1aa50442a93e42c0eb2907cf4e017cd19547891fa190f3ea473582b0479290",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "replaced",
+      "translationEligible": true,
+      "translationZh": "被取代",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:M",
+      "sourceText": "stimulate",
+      "sourceHash": "ab5e345f2c28facc30d79b3b4676d5e2b693e331a78174f23913a9e8ccf0e532",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "stimulate",
+      "translationEligible": true,
+      "translationZh": "刺激",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:N",
+      "sourceText": "symbolizes",
+      "sourceHash": "259f0186b43daf97fdd71045167dcf2d3abd498cdcd16242ed2704648dffc42a",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "symbolizes",
+      "translationEligible": true,
+      "translationZh": "象征着",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2018-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2018-06-03",
+      "questionId": "cet4:2018-06-03:q-26-1",
+      "optionId": "cet4:2018-06-03:word-bank:O",
+      "sourceText": "volunteers",
+      "sourceHash": "51877e1d8701435782239a1380c0ed28e353e8e3772db455b167e44e6f876693",
+      "sourceBlockIds": [
+        "cet4:2018-06-03:b-2-3"
+      ],
+      "reflowBlockId": "cet4:2018-06-03:b-2-3",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "volunteers",
+      "translationEligible": true,
+      "translationZh": "志愿者",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-10",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-14",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2018-06-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-15",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2018-06-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-16",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2018-06-03:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-1-17",
+      "classification": "excluded",
+      "reason": "cloze_non_prose"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-1",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2018-06-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-2",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2018-06-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-7",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2018-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-2-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2018-06-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2018-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-3-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2018-06-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2018-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2018-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-4-12",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-8",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-5-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-6-12",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-7-8"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2018-06-03:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-7-10",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-8-1"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-8-3"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-8-5"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-8-7"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2018-06-03:p:b-8-9"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-8-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-9-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-9-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2018-06-03:p:b-9-2"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-9-3",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2018-06-03:b-9-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 26,
+    "included": 60
+  },
+  "reasonCounts": {
+    "cloze": 5,
+    "cloze_non_prose": 1,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 16,
+    "question_prompt": 20,
+    "reading_choice_continuation": 5,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 11,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 11
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

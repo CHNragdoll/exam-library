@@ -42,7 +42,12 @@ class ExamLibraryHandler(SimpleHTTPRequestHandler):
 
     def _api_response(self) -> dict:
         parsed = urlsplit(self.path)
-        parts = unquote(parsed.path).strip("/").split("/")
+        decoded_path = unquote(parsed.path)
+        parts = decoded_path.strip("/").split("/")
+        if "\x00" in decoded_path or "\\" in decoded_path or any(
+            part in {".", ".."} for part in parts
+        ):
+            raise LookupError("endpoint not found")
         query = parse_qs(parsed.query, max_num_fields=8)
         order = query.get("order", ["default"])[0]
         seed = query.get("seed", [""])[0]
@@ -57,6 +62,16 @@ class ExamLibraryHandler(SimpleHTTPRequestHandler):
                 return dbapi.question(connection, parts[3], order, seed)
             if len(parts) == 5 and parts[:3] == ["api", "v1", "questions"] and parts[4] == "answer":
                 return dbapi.answer(connection, parts[3])
+            if parts == ["api", "v2", "meta"]:
+                return dbapi.semantic_metadata(connection)
+            if len(parts) == 5 and parts[:3] == ["api", "v2", "papers"] and parts[4] == "semantic":
+                return dbapi.semantic_paper(connection, parts[3])
+            if len(parts) == 5 and parts[:3] == ["api", "v2", "papers"] and parts[4] == "answers":
+                return dbapi.semantic_paper_answers(connection, parts[3])
+            if len(parts) == 4 and parts[:3] == ["api", "v2", "nodes"]:
+                return dbapi.semantic_node(connection, parts[3])
+            if len(parts) == 5 and parts[:3] == ["api", "v2", "nodes"] and parts[4] == "answer":
+                return dbapi.semantic_node_answer(connection, parts[3])
         raise LookupError("endpoint not found")
 
     def do_GET(self) -> None:
@@ -69,6 +84,8 @@ class ExamLibraryHandler(SimpleHTTPRequestHandler):
                 self._json_response(400, {"error": "invalid query"})
             except LookupError:
                 self._json_response(404, {"error": "not found"})
+            except dbapi.SemanticSchemaUnavailable as exc:
+                self._json_response(503, {"error": str(exc)})
             except sqlite3.DatabaseError:
                 self._json_response(503, {"error": "question database unavailable"})
             return
@@ -131,6 +148,19 @@ def database_inputs_newer(database: Path, structured: Path) -> bool:
     return False
 
 
+def database_needs_rebuild(database: Path, structured: Path) -> bool:
+    if database_inputs_newer(database, structured):
+        return True
+    try:
+        with closing(dbapi.connect(database)) as connection:
+            if dbapi.metadata(connection)["schemaVersion"] != dbapi.SCHEMA_VERSION:
+                return True
+            dbapi.require_semantic_schema(connection)
+    except (OSError, sqlite3.DatabaseError):
+        return True
+    return False
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="在 localhost 打开真题库")
     parser.add_argument("--port", type=int, default=DEFAULT_PORT, help=f"监听端口（默认 {DEFAULT_PORT}）")
@@ -148,15 +178,7 @@ def main(argv: list[str] | None = None) -> int:
         else:
             print(f"无法启动本地服务：{exc}", file=sys.stderr)
         return 1
-    stale = database_inputs_newer(dbapi.DEFAULT_DATABASE,
-                                  SOURCES / "exam-library/structured")
-    if not stale:
-        try:
-            with closing(dbapi.connect()) as connection:
-                stale = dbapi.metadata(connection)["schemaVersion"] != dbapi.SCHEMA_VERSION
-        except (OSError, sqlite3.DatabaseError):
-            stale = True
-    if stale:
+    if database_needs_rebuild(dbapi.DEFAULT_DATABASE, SOURCES / "exam-library/structured"):
         print("正在从结构化试卷生成本地题库数据库…", flush=True)
         try:
             subprocess.run([sys.executable, str(Path(__file__).with_name("build_question_database.py"))],

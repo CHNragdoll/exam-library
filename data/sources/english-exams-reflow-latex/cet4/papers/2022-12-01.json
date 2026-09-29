@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2022 年12 月大学英语四级考试真题（第1 套）",
@@ -3363,15 +3363,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "The hidden costs colleges don't want you to know about",
               "flags": [
@@ -3426,45 +3423,10 @@
           "continues_previous_page": true
         },
         {
-          "type": "options",
-          "items": [
-            {
-              "label": "B",
-              "runs": [
-                {
-                  "text": "At my well-respected, private, four-year university in Washington,",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "C",
-              "runs": [
-                {
-                  "text": ", which boasts a yearly",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "D",
-              "runs": []
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid. As a student from a family that is struggling to make ends meet, my financial aid package is a combination of federal grants and federal work study, university merit scholarships and financial aid awards, and about $8,000 yearly in federally subsidized (有补贴的) and unsubsidized loans. On paper, my expenses and my financial aid just about even out. Off paper, they don't.",
+              "text": "B) At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid. As a student from a family that is struggling to make ends meet, my financial aid package is a combination of federal grants and federal work study, university merit scholarships and financial aid awards, and about $8,000 yearly in federally subsidized (有补贴的) and unsubsidized loans. On paper, my expenses and my financial aid just about even out. Off paper, they don't.",
               "flags": [
                 false,
                 false,
@@ -3708,12 +3670,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "pay and why.",
               "flags": [
@@ -3747,12 +3712,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "and that of her family's.",
               "flags": [
@@ -3773,12 +3741,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "family income has increased.",
               "flags": [

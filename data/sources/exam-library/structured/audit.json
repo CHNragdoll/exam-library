@@ -11,18 +11,18 @@
     "politics": 36,
     "math3": 66
   },
-  "questionRecords": 12465,
+  "questionRecords": 14368,
   "bank": {
-    "questions": 10743,
-    "single_choice": 7716,
-    "free_response": 2461,
-    "linkedAnswers": 2589,
-    "multiple_choice": 350,
-    "fill_blank": 216
+    "questions": 12646,
+    "single_choice": 7780,
+    "linkedAnswers": 10076,
+    "free_response": 2880,
+    "fill_blank": 1636,
+    "multiple_choice": 350
   },
-  "partialQuestions": 1321,
-  "sourceBlocks": 42016,
-  "sourceOnlyBlocks": 14629,
+  "partialQuestions": 1466,
+  "sourceBlocks": 41538,
+  "sourceOnlyBlocks": 14269,
   "documents": [
     {
       "id": "kaoyan:2026-01",
@@ -32,7 +32,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2026-01.json",
       "reader": "papers/kaoyan/2026-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 136,
       "sourceOnlyBlocks": 65
@@ -58,10 +58,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2026-06-02.json",
       "reader": "papers/cet6/2026-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 0,
-      "sourceBlocks": 151,
-      "sourceOnlyBlocks": 63
+      "sourceBlocks": 148,
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "cet6:2026-06-03",
@@ -71,10 +71,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2026-06-03.json",
       "reader": "papers/cet6/2026-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 94,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 90,
+      "sourceOnlyBlocks": 56
     },
     {
       "id": "cet4:2026-06-02",
@@ -84,10 +84,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2026-06-02.json",
       "reader": "papers/cet4/2026-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 146,
-      "sourceOnlyBlocks": 61
+      "sourceBlocks": 143,
+      "sourceOnlyBlocks": 58
     },
     {
       "id": "cet4:2026-06-03",
@@ -97,10 +97,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2026-06-03.json",
       "reader": "papers/cet4/2026-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 83,
-      "sourceOnlyBlocks": 49
+      "sourceBlocks": 80,
+      "sourceOnlyBlocks": 47
     },
     {
       "id": "kaoyan:2025-01",
@@ -110,7 +110,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2025-01.json",
       "reader": "papers/kaoyan/2025-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 135,
       "sourceOnlyBlocks": 63
@@ -162,10 +162,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-12-01.json",
       "reader": "papers/cet6/2025-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 148,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 146,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet6:2025-12-02",
@@ -175,10 +175,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-12-02.json",
       "reader": "papers/cet6/2025-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 154,
-      "sourceOnlyBlocks": 68
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet6:2025-12-03",
@@ -188,10 +188,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-12-03.json",
       "reader": "papers/cet6/2025-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 89,
-      "sourceOnlyBlocks": 56
+      "sourceBlocks": 87,
+      "sourceOnlyBlocks": 53
     },
     {
       "id": "cet6:2025-06-01",
@@ -201,10 +201,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-06-01.json",
       "reader": "papers/cet6/2025-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 160,
-      "sourceOnlyBlocks": 73
+      "sourceBlocks": 155,
+      "sourceOnlyBlocks": 69
     },
     {
       "id": "cet6:2025-06-02",
@@ -214,10 +214,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-06-02.json",
       "reader": "papers/cet6/2025-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 154,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 151,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet6:2025-06-03",
@@ -227,10 +227,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2025-06-03.json",
       "reader": "papers/cet6/2025-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 96,
-      "sourceOnlyBlocks": 62
+      "sourceBlocks": 92,
+      "sourceOnlyBlocks": 58
     },
     {
       "id": "cet4:2025-12-01",
@@ -240,10 +240,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-12-01.json",
       "reader": "papers/cet4/2025-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 147,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 142,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "cet4:2025-12-02",
@@ -253,10 +253,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-12-02.json",
       "reader": "papers/cet4/2025-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 142,
-      "sourceOnlyBlocks": 57
+      "sourceBlocks": 140,
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet4:2025-12-03",
@@ -266,10 +266,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-12-03.json",
       "reader": "papers/cet4/2025-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 85,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 84,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cet4:2025-06-01",
@@ -279,10 +279,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-06-01.json",
       "reader": "papers/cet4/2025-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 146,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 142,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "cet4:2025-06-02",
@@ -292,10 +292,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-06-02.json",
       "reader": "papers/cet4/2025-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 137,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 135,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cet4:2025-06-03",
@@ -305,10 +305,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2025-06-03.json",
       "reader": "papers/cet4/2025-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 88,
-      "sourceOnlyBlocks": 52
+      "sourceBlocks": 82,
+      "sourceOnlyBlocks": 49
     },
     {
       "id": "tem4:2025",
@@ -318,10 +318,10 @@
       "template": "english-tem4",
       "json": "papers/tem4/2025.json",
       "reader": "papers/tem4/2025.htm",
-      "questions": 53,
+      "questions": 73,
       "partialQuestions": 6,
-      "sourceBlocks": 189,
-      "sourceOnlyBlocks": 84
+      "sourceBlocks": 195,
+      "sourceOnlyBlocks": 97
     },
     {
       "id": "tem8:2025",
@@ -333,8 +333,8 @@
       "reader": "papers/tem8/2025.htm",
       "questions": 32,
       "partialQuestions": 3,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 101
+      "sourceBlocks": 163,
+      "sourceOnlyBlocks": 109
     },
     {
       "id": "kaoyan:2024-01",
@@ -344,7 +344,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2024-01.json",
       "reader": "papers/kaoyan/2024-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 139,
       "sourceOnlyBlocks": 66
@@ -359,8 +359,8 @@
       "reader": "papers/kaoyan/2024-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 140,
-      "sourceOnlyBlocks": 64
+      "sourceBlocks": 138,
+      "sourceOnlyBlocks": 62
     },
     {
       "id": "cs408:2024-questions",
@@ -396,10 +396,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-12-01.json",
       "reader": "papers/cet6/2024-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 159,
-      "sourceOnlyBlocks": 68
+      "sourceBlocks": 151,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2024-12-02",
@@ -409,10 +409,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-12-02.json",
       "reader": "papers/cet6/2024-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 152,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 151,
+      "sourceOnlyBlocks": 64
     },
     {
       "id": "cet6:2024-12-03",
@@ -422,10 +422,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-12-03.json",
       "reader": "papers/cet6/2024-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 88,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 84,
+      "sourceOnlyBlocks": 50
     },
     {
       "id": "cet6:2024-06-01",
@@ -435,10 +435,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-06-01.json",
       "reader": "papers/cet6/2024-06-01.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 0,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 64
+      "sourceBlocks": 152,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2024-06-02",
@@ -448,10 +448,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-06-02.json",
       "reader": "papers/cet6/2024-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 150,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2024-06-03",
@@ -461,10 +461,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2024-06-03.json",
       "reader": "papers/cet6/2024-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 90,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 85,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cet4:2024-12-01",
@@ -474,10 +474,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-12-01.json",
       "reader": "papers/cet4/2024-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 150,
-      "sourceOnlyBlocks": 61
+      "sourceBlocks": 143,
+      "sourceOnlyBlocks": 59
     },
     {
       "id": "cet4:2024-12-02",
@@ -487,10 +487,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-12-02.json",
       "reader": "papers/cet4/2024-12-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 149,
-      "sourceOnlyBlocks": 56
+      "sourceBlocks": 146,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "cet4:2024-12-03",
@@ -500,10 +500,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-12-03.json",
       "reader": "papers/cet4/2024-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 86,
-      "sourceOnlyBlocks": 54
+      "sourceBlocks": 85,
+      "sourceOnlyBlocks": 52
     },
     {
       "id": "cet4:2024-06-01",
@@ -513,10 +513,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-06-01.json",
       "reader": "papers/cet4/2024-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 138,
-      "sourceOnlyBlocks": 54
+      "sourceBlocks": 134,
+      "sourceOnlyBlocks": 52
     },
     {
       "id": "cet4:2024-06-02",
@@ -526,10 +526,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-06-02.json",
       "reader": "papers/cet4/2024-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 142,
-      "sourceOnlyBlocks": 55
+      "sourceBlocks": 137,
+      "sourceOnlyBlocks": 53
     },
     {
       "id": "cet4:2024-06-03",
@@ -539,10 +539,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2024-06-03.json",
       "reader": "papers/cet4/2024-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 80,
-      "sourceOnlyBlocks": 45
+      "sourceBlocks": 76,
+      "sourceOnlyBlocks": 43
     },
     {
       "id": "tem4:2024",
@@ -552,10 +552,10 @@
       "template": "english-tem4",
       "json": "papers/tem4/2024.json",
       "reader": "papers/tem4/2024.htm",
-      "questions": 45,
+      "questions": 55,
       "partialQuestions": 1,
-      "sourceBlocks": 171,
-      "sourceOnlyBlocks": 83
+      "sourceBlocks": 188,
+      "sourceOnlyBlocks": 102
     },
     {
       "id": "tem8:2024",
@@ -567,8 +567,8 @@
       "reader": "papers/tem8/2024.htm",
       "questions": 32,
       "partialQuestions": 5,
-      "sourceBlocks": 131,
-      "sourceOnlyBlocks": 80
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 98
     },
     {
       "id": "kaoyan:2023-01",
@@ -578,7 +578,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2023-01.json",
       "reader": "papers/kaoyan/2023-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 136,
       "sourceOnlyBlocks": 66
@@ -656,10 +656,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-12-01.json",
       "reader": "papers/cet6/2023-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 165,
-      "sourceOnlyBlocks": 65
+      "sourceBlocks": 157,
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "cet6:2023-12-02",
@@ -669,10 +669,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-12-02.json",
       "reader": "papers/cet6/2023-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 0,
-      "sourceBlocks": 148,
-      "sourceOnlyBlocks": 58
+      "sourceBlocks": 145,
+      "sourceOnlyBlocks": 56
     },
     {
       "id": "cet6:2023-12-03",
@@ -682,10 +682,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-12-03.json",
       "reader": "papers/cet6/2023-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 91,
-      "sourceOnlyBlocks": 56
+      "sourceBlocks": 85,
+      "sourceOnlyBlocks": 52
     },
     {
       "id": "cet6:2023-06-01",
@@ -695,10 +695,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-06-01.json",
       "reader": "papers/cet6/2023-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 148,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 143,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "cet6:2023-06-02",
@@ -708,10 +708,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-06-02.json",
       "reader": "papers/cet6/2023-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 150,
-      "sourceOnlyBlocks": 60
+      "sourceBlocks": 144,
+      "sourceOnlyBlocks": 58
     },
     {
       "id": "cet6:2023-06-03",
@@ -721,10 +721,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2023-06-03.json",
       "reader": "papers/cet6/2023-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 84,
-      "sourceOnlyBlocks": 49
+      "sourceBlocks": 81,
+      "sourceOnlyBlocks": 47
     },
     {
       "id": "cet4:2023-12-01",
@@ -734,10 +734,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-12-01.json",
       "reader": "papers/cet4/2023-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 142,
-      "sourceOnlyBlocks": 57
+      "sourceBlocks": 138,
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet4:2023-12-02",
@@ -747,10 +747,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-12-02.json",
       "reader": "papers/cet4/2023-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 146,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 141,
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet4:2023-12-03",
@@ -760,10 +760,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-12-03.json",
       "reader": "papers/cet4/2023-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 84,
-      "sourceOnlyBlocks": 51
+      "sourceBlocks": 83,
+      "sourceOnlyBlocks": 49
     },
     {
       "id": "cet4:2023-06-01",
@@ -773,10 +773,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-06-01.json",
       "reader": "papers/cet4/2023-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 144,
-      "sourceOnlyBlocks": 58
+      "sourceBlocks": 142,
+      "sourceOnlyBlocks": 56
     },
     {
       "id": "cet4:2023-06-02",
@@ -786,10 +786,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-06-02.json",
       "reader": "papers/cet4/2023-06-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 145,
-      "sourceOnlyBlocks": 46
+      "sourceBlocks": 141,
+      "sourceOnlyBlocks": 56
     },
     {
       "id": "cet4:2023-06-03",
@@ -799,10 +799,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2023-06-03.json",
       "reader": "papers/cet4/2023-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 82,
-      "sourceOnlyBlocks": 51
+      "sourceBlocks": 81,
+      "sourceOnlyBlocks": 48
     },
     {
       "id": "tem4:2023",
@@ -812,10 +812,10 @@
       "template": "english-tem4",
       "json": "papers/tem4/2023.json",
       "reader": "papers/tem4/2023.htm",
-      "questions": 56,
+      "questions": 76,
       "partialQuestions": 5,
-      "sourceBlocks": 214,
-      "sourceOnlyBlocks": 100
+      "sourceBlocks": 207,
+      "sourceOnlyBlocks": 104
     },
     {
       "id": "tem8:2023",
@@ -825,10 +825,10 @@
       "template": "english-tem8",
       "json": "papers/tem8/2023.json",
       "reader": "papers/tem8/2023.htm",
-      "questions": 32,
+      "questions": 31,
       "partialQuestions": 0,
-      "sourceBlocks": 177,
-      "sourceOnlyBlocks": 112
+      "sourceBlocks": 187,
+      "sourceOnlyBlocks": 129
     },
     {
       "id": "kaoyan:2022-01",
@@ -838,7 +838,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2022-01.json",
       "reader": "papers/kaoyan/2022-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 144,
       "sourceOnlyBlocks": 73
@@ -916,10 +916,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-12-01.json",
       "reader": "papers/cet6/2022-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 0,
       "sourceBlocks": 144,
-      "sourceOnlyBlocks": 59
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet6:2022-12-02",
@@ -929,10 +929,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-12-02.json",
       "reader": "papers/cet6/2022-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 149,
-      "sourceOnlyBlocks": 64
+      "sourceBlocks": 148,
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "cet6:2022-12-03",
@@ -942,10 +942,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-12-03.json",
       "reader": "papers/cet6/2022-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 95,
-      "sourceOnlyBlocks": 63
+      "sourceBlocks": 91,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "cet6:2022-06-01",
@@ -955,10 +955,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-06-01.json",
       "reader": "papers/cet6/2022-06-01.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 160,
-      "sourceOnlyBlocks": 63
+      "sourceBlocks": 145,
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "cet6:2022-06-02",
@@ -968,10 +968,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-06-02.json",
       "reader": "papers/cet6/2022-06-02.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 88,
-      "sourceOnlyBlocks": 51
+      "questions": 32,
+      "partialQuestions": 10,
+      "sourceBlocks": 83,
+      "sourceOnlyBlocks": 48
     },
     {
       "id": "cet6:2022-06-03",
@@ -981,10 +981,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2022-06-03.json",
       "reader": "papers/cet6/2022-06-03.htm",
-      "questions": 0,
+      "questions": 2,
       "partialQuestions": 0,
       "sourceBlocks": 8,
-      "sourceOnlyBlocks": 8
+      "sourceOnlyBlocks": 4
     },
     {
       "id": "cet4:2022-12-01",
@@ -994,10 +994,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-12-01.json",
       "reader": "papers/cet4/2022-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 141,
-      "sourceOnlyBlocks": 58
+      "sourceBlocks": 138,
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet4:2022-12-02",
@@ -1007,10 +1007,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-12-02.json",
       "reader": "papers/cet4/2022-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
       "sourceBlocks": 139,
-      "sourceOnlyBlocks": 55
+      "sourceOnlyBlocks": 52
     },
     {
       "id": "cet4:2022-12-03",
@@ -1020,10 +1020,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-12-03.json",
       "reader": "papers/cet4/2022-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 90,
-      "sourceOnlyBlocks": 56
+      "sourceBlocks": 86,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cet4:2022-06-01",
@@ -1033,10 +1033,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-06-01.json",
       "reader": "papers/cet4/2022-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 158,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 154,
+      "sourceOnlyBlocks": 64
     },
     {
       "id": "cet4:2022-06-02",
@@ -1046,10 +1046,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-06-02.json",
       "reader": "papers/cet4/2022-06-02.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 89,
-      "sourceOnlyBlocks": 55
+      "sourceBlocks": 83,
+      "sourceOnlyBlocks": 46
     },
     {
       "id": "cet4:2022-06-03",
@@ -1059,10 +1059,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2022-06-03.json",
       "reader": "papers/cet4/2022-06-03.htm",
-      "questions": 0,
+      "questions": 2,
       "partialQuestions": 0,
       "sourceBlocks": 7,
-      "sourceOnlyBlocks": 7
+      "sourceOnlyBlocks": 4
     },
     {
       "id": "tem4:2022",
@@ -1072,10 +1072,10 @@
       "template": "english-tem4",
       "json": "papers/tem4/2022.json",
       "reader": "papers/tem4/2022.htm",
-      "questions": 52,
+      "questions": 72,
       "partialQuestions": 3,
-      "sourceBlocks": 207,
-      "sourceOnlyBlocks": 97
+      "sourceBlocks": 211,
+      "sourceOnlyBlocks": 113
     },
     {
       "id": "tem8:2022",
@@ -1087,8 +1087,8 @@
       "reader": "papers/tem8/2022.htm",
       "questions": 32,
       "partialQuestions": 2,
-      "sourceBlocks": 162,
-      "sourceOnlyBlocks": 105
+      "sourceBlocks": 174,
+      "sourceOnlyBlocks": 118
     },
     {
       "id": "kaoyan:2021-01",
@@ -1098,7 +1098,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2021-01.json",
       "reader": "papers/kaoyan/2021-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 143,
       "sourceOnlyBlocks": 72
@@ -1176,10 +1176,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-12-01.json",
       "reader": "papers/cet6/2021-12-01.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 4,
-      "sourceBlocks": 161,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 142,
+      "sourceOnlyBlocks": 53
     },
     {
       "id": "cet6:2021-12-02",
@@ -1189,10 +1189,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-12-02.json",
       "reader": "papers/cet6/2021-12-02.htm",
-      "questions": 45,
-      "partialQuestions": 2,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 62
+      "questions": 57,
+      "partialQuestions": 12,
+      "sourceBlocks": 145,
+      "sourceOnlyBlocks": 54
     },
     {
       "id": "cet6:2021-12-03",
@@ -1202,10 +1202,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-12-03.json",
       "reader": "papers/cet6/2021-12-03.htm",
-      "questions": 20,
+      "questions": 22,
       "partialQuestions": 0,
-      "sourceBlocks": 97,
-      "sourceOnlyBlocks": 62
+      "sourceBlocks": 84,
+      "sourceOnlyBlocks": 47
     },
     {
       "id": "cet6:2021-06-01",
@@ -1215,10 +1215,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-06-01.json",
       "reader": "papers/cet6/2021-06-01.htm",
-      "questions": 44,
-      "partialQuestions": 3,
-      "sourceBlocks": 132,
-      "sourceOnlyBlocks": 41
+      "questions": 56,
+      "partialQuestions": 13,
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 59
     },
     {
       "id": "cet6:2021-06-02",
@@ -1228,10 +1228,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-06-02.json",
       "reader": "papers/cet6/2021-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 134,
-      "sourceOnlyBlocks": 47
+      "sourceBlocks": 147,
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet6:2021-06-03",
@@ -1241,10 +1241,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2021-06-03.json",
       "reader": "papers/cet6/2021-06-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 74,
-      "sourceOnlyBlocks": 36
+      "questions": 32,
+      "partialQuestions": 10,
+      "sourceBlocks": 91,
+      "sourceOnlyBlocks": 54
     },
     {
       "id": "cet4:2021-12-01",
@@ -1254,10 +1254,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-12-01.json",
       "reader": "papers/cet4/2021-12-01.htm",
-      "questions": 45,
-      "partialQuestions": 3,
-      "sourceBlocks": 161,
-      "sourceOnlyBlocks": 74
+      "questions": 57,
+      "partialQuestions": 13,
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet4:2021-12-02",
@@ -1267,10 +1267,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-12-02.json",
       "reader": "papers/cet4/2021-12-02.htm",
-      "questions": 45,
-      "partialQuestions": 3,
-      "sourceBlocks": 152,
-      "sourceOnlyBlocks": 61
+      "questions": 57,
+      "partialQuestions": 13,
+      "sourceBlocks": 182,
+      "sourceOnlyBlocks": 91
     },
     {
       "id": "cet4:2021-12-03",
@@ -1280,10 +1280,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-12-03.json",
       "reader": "papers/cet4/2021-12-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 101,
-      "sourceOnlyBlocks": 61
+      "questions": 32,
+      "partialQuestions": 10,
+      "sourceBlocks": 124,
+      "sourceOnlyBlocks": 90
     },
     {
       "id": "cet4:2021-06-01",
@@ -1293,10 +1293,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-06-01.json",
       "reader": "papers/cet4/2021-06-01.htm",
-      "questions": 44,
+      "questions": 46,
       "partialQuestions": 1,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 59
+      "sourceBlocks": 154,
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "cet4:2021-06-02",
@@ -1306,10 +1306,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-06-02.json",
       "reader": "papers/cet4/2021-06-02.htm",
-      "questions": 45,
-      "partialQuestions": 3,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 70
+      "questions": 57,
+      "partialQuestions": 13,
+      "sourceBlocks": 157,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet4:2021-06-03",
@@ -1319,10 +1319,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2021-06-03.json",
       "reader": "papers/cet4/2021-06-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 100,
-      "sourceOnlyBlocks": 66
+      "questions": 32,
+      "partialQuestions": 1,
+      "sourceBlocks": 101,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "kaoyan:2020-01",
@@ -1332,7 +1332,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2020-01.json",
       "reader": "papers/kaoyan/2020-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 139,
       "sourceOnlyBlocks": 59
@@ -1345,10 +1345,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2020-02.json",
       "reader": "papers/kaoyan/2020-02.htm",
-      "questions": 47,
+      "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 131,
-      "sourceOnlyBlocks": 50
+      "sourceBlocks": 138,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cs408:2020-questions",
@@ -1410,10 +1410,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-12-01.json",
       "reader": "papers/cet6/2020-12-01.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 1,
-      "sourceBlocks": 138,
-      "sourceOnlyBlocks": 38
+      "sourceBlocks": 162,
+      "sourceOnlyBlocks": 62
     },
     {
       "id": "cet6:2020-12-02",
@@ -1423,10 +1423,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-12-02.json",
       "reader": "papers/cet6/2020-12-02.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 3,
-      "sourceBlocks": 139,
-      "sourceOnlyBlocks": 41
+      "sourceBlocks": 168,
+      "sourceOnlyBlocks": 74
     },
     {
       "id": "cet6:2020-12-03",
@@ -1436,10 +1436,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-12-03.json",
       "reader": "papers/cet6/2020-12-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 72,
-      "sourceOnlyBlocks": 33
+      "questions": 22,
+      "partialQuestions": 1,
+      "sourceBlocks": 116,
+      "sourceOnlyBlocks": 81
     },
     {
       "id": "cet6:2020-07-01",
@@ -1449,10 +1449,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-07-01.json",
       "reader": "papers/cet6/2020-07-01.htm",
-      "questions": 45,
-      "partialQuestions": 6,
-      "sourceBlocks": 226,
-      "sourceOnlyBlocks": 139
+      "questions": 56,
+      "partialQuestions": 9,
+      "sourceBlocks": 211,
+      "sourceOnlyBlocks": 121
     },
     {
       "id": "cet6:2020-09-01",
@@ -1462,10 +1462,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-09-01.json",
       "reader": "papers/cet6/2020-09-01.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 1,
-      "sourceBlocks": 209,
-      "sourceOnlyBlocks": 104
+      "sourceBlocks": 184,
+      "sourceOnlyBlocks": 80
     },
     {
       "id": "cet6:2020-09-02",
@@ -1475,10 +1475,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2020-09-02.json",
       "reader": "papers/cet6/2020-09-02.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 120,
-      "sourceOnlyBlocks": 84
+      "questions": 24,
+      "partialQuestions": 1,
+      "sourceBlocks": 114,
+      "sourceOnlyBlocks": 73
     },
     {
       "id": "cet4:2020-12-01",
@@ -1488,10 +1488,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-12-01.json",
       "reader": "papers/cet4/2020-12-01.htm",
-      "questions": 46,
-      "partialQuestions": 0,
-      "sourceBlocks": 148,
-      "sourceOnlyBlocks": 49
+      "questions": 57,
+      "partialQuestions": 2,
+      "sourceBlocks": 160,
+      "sourceOnlyBlocks": 67
     },
     {
       "id": "cet4:2020-12-02",
@@ -1501,10 +1501,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-12-02.json",
       "reader": "papers/cet4/2020-12-02.htm",
-      "questions": 45,
-      "partialQuestions": 4,
-      "sourceBlocks": 153,
-      "sourceOnlyBlocks": 64
+      "questions": 47,
+      "partialQuestions": 5,
+      "sourceBlocks": 171,
+      "sourceOnlyBlocks": 82
     },
     {
       "id": "cet4:2020-12-03",
@@ -1514,10 +1514,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-12-03.json",
       "reader": "papers/cet4/2020-12-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 89,
-      "sourceOnlyBlocks": 57
+      "questions": 22,
+      "partialQuestions": 1,
+      "sourceBlocks": 106,
+      "sourceOnlyBlocks": 72
     },
     {
       "id": "cet4:2020-07-01",
@@ -1527,9 +1527,9 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-07-01.json",
       "reader": "papers/cet4/2020-07-01.htm",
-      "questions": 45,
-      "partialQuestions": 2,
-      "sourceBlocks": 152,
+      "questions": 57,
+      "partialQuestions": 13,
+      "sourceBlocks": 155,
       "sourceOnlyBlocks": 66
     },
     {
@@ -1540,9 +1540,9 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-09-01.json",
       "reader": "papers/cet4/2020-09-01.htm",
-      "questions": 45,
-      "partialQuestions": 4,
-      "sourceBlocks": 147,
+      "questions": 57,
+      "partialQuestions": 15,
+      "sourceBlocks": 143,
       "sourceOnlyBlocks": 57
     },
     {
@@ -1553,10 +1553,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2020-09-02.json",
       "reader": "papers/cet4/2020-09-02.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 83,
-      "sourceOnlyBlocks": 46
+      "questions": 32,
+      "partialQuestions": 10,
+      "sourceBlocks": 80,
+      "sourceOnlyBlocks": 45
     },
     {
       "id": "kaoyan:2019-01",
@@ -1566,10 +1566,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2019-01.json",
       "reader": "papers/kaoyan/2019-01.htm",
-      "questions": 48,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 139,
-      "sourceOnlyBlocks": 64
+      "sourceOnlyBlocks": 69
     },
     {
       "id": "kaoyan:2019-02",
@@ -1670,10 +1670,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-12-01.json",
       "reader": "papers/cet6/2019-12-01.htm",
-      "questions": 45,
-      "partialQuestions": 2,
-      "sourceBlocks": 192,
-      "sourceOnlyBlocks": 91
+      "questions": 57,
+      "partialQuestions": 12,
+      "sourceBlocks": 167,
+      "sourceOnlyBlocks": 69
     },
     {
       "id": "cet6:2019-12-02",
@@ -1683,10 +1683,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-12-02.json",
       "reader": "papers/cet6/2019-12-02.htm",
-      "questions": 45,
-      "partialQuestions": 4,
-      "sourceBlocks": 177,
-      "sourceOnlyBlocks": 86
+      "questions": 56,
+      "partialQuestions": 14,
+      "sourceBlocks": 168,
+      "sourceOnlyBlocks": 73
     },
     {
       "id": "cet6:2019-12-03",
@@ -1696,10 +1696,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-12-03.json",
       "reader": "papers/cet6/2019-12-03.htm",
-      "questions": 20,
-      "partialQuestions": 0,
-      "sourceBlocks": 115,
-      "sourceOnlyBlocks": 76
+      "questions": 32,
+      "partialQuestions": 1,
+      "sourceBlocks": 105,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet6:2019-06-01",
@@ -1709,10 +1709,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-06-01.json",
       "reader": "papers/cet6/2019-06-01.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 55
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2019-06-02",
@@ -1722,10 +1722,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-06-02.json",
       "reader": "papers/cet6/2019-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
       "sourceBlocks": 147,
-      "sourceOnlyBlocks": 59
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "cet6:2019-06-03",
@@ -1735,10 +1735,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2019-06-03.json",
       "reader": "papers/cet6/2019-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 82,
-      "sourceOnlyBlocks": 47
+      "sourceOnlyBlocks": 48
     },
     {
       "id": "cet4:2019-06-01",
@@ -1748,10 +1748,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2019-06-01.json",
       "reader": "papers/cet4/2019-06-01.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 146,
-      "sourceOnlyBlocks": 51
+      "sourceBlocks": 147,
+      "sourceOnlyBlocks": 58
     },
     {
       "id": "cet4:2019-06-02",
@@ -1761,10 +1761,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2019-06-02.json",
       "reader": "papers/cet4/2019-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 137,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 135,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "cet4:2019-06-03",
@@ -1774,10 +1774,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2019-06-03.json",
       "reader": "papers/cet4/2019-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 83,
-      "sourceOnlyBlocks": 52
+      "sourceOnlyBlocks": 49
     },
     {
       "id": "kaoyan:2018-01",
@@ -1787,7 +1787,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2018-01.json",
       "reader": "papers/kaoyan/2018-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 127,
       "sourceOnlyBlocks": 57
@@ -1800,10 +1800,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2018-02.json",
       "reader": "papers/kaoyan/2018-02.htm",
-      "questions": 47,
+      "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 146,
-      "sourceOnlyBlocks": 56
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 57
     },
     {
       "id": "math3:2018-questions",
@@ -1891,10 +1891,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-12-01.json",
       "reader": "papers/cet6/2018-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
       "sourceBlocks": 160,
-      "sourceOnlyBlocks": 77
+      "sourceOnlyBlocks": 75
     },
     {
       "id": "cet6:2018-12-02",
@@ -1904,10 +1904,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-12-02.json",
       "reader": "papers/cet6/2018-12-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 2,
       "sourceBlocks": 167,
-      "sourceOnlyBlocks": 78
+      "sourceOnlyBlocks": 80
     },
     {
       "id": "cet6:2018-12-03",
@@ -1917,10 +1917,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-12-03.json",
       "reader": "papers/cet6/2018-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 102,
-      "sourceOnlyBlocks": 71
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet6:2018-06-01",
@@ -1930,10 +1930,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-06-01.json",
       "reader": "papers/cet6/2018-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
       "sourceBlocks": 152,
-      "sourceOnlyBlocks": 70
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet6:2018-06-02",
@@ -1943,10 +1943,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-06-02.json",
       "reader": "papers/cet6/2018-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 174,
-      "sourceOnlyBlocks": 84
+      "sourceBlocks": 159,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet6:2018-06-03",
@@ -1956,10 +1956,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2018-06-03.json",
       "reader": "papers/cet6/2018-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 105,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 95,
+      "sourceOnlyBlocks": 59
     },
     {
       "id": "cet4:2018-12-01",
@@ -1969,10 +1969,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-12-01.json",
       "reader": "papers/cet4/2018-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 151,
-      "sourceOnlyBlocks": 70
+      "sourceBlocks": 150,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet4:2018-12-02",
@@ -1982,10 +1982,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-12-02.json",
       "reader": "papers/cet4/2018-12-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 160,
-      "sourceOnlyBlocks": 74
+      "sourceBlocks": 158,
+      "sourceOnlyBlocks": 71
     },
     {
       "id": "cet4:2018-12-03",
@@ -1995,10 +1995,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-12-03.json",
       "reader": "papers/cet4/2018-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 96,
-      "sourceOnlyBlocks": 63
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "cet4:2018-06-01",
@@ -2008,10 +2008,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-06-01.json",
       "reader": "papers/cet4/2018-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 172,
-      "sourceOnlyBlocks": 78
+      "sourceBlocks": 159,
+      "sourceOnlyBlocks": 67
     },
     {
       "id": "cet4:2018-06-02",
@@ -2021,10 +2021,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-06-02.json",
       "reader": "papers/cet4/2018-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 180,
-      "sourceOnlyBlocks": 84
+      "sourceBlocks": 170,
+      "sourceOnlyBlocks": 77
     },
     {
       "id": "cet4:2018-06-03",
@@ -2034,10 +2034,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2018-06-03.json",
       "reader": "papers/cet4/2018-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 105,
-      "sourceOnlyBlocks": 66
+      "sourceBlocks": 98,
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "kaoyan:2017-01",
@@ -2047,7 +2047,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2017-01.json",
       "reader": "papers/kaoyan/2017-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 137,
       "sourceOnlyBlocks": 67
@@ -2151,10 +2151,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-12-01.json",
       "reader": "papers/cet6/2017-12-01.htm",
-      "questions": 44,
+      "questions": 56,
       "partialQuestions": 1,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 68
+      "sourceBlocks": 156,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet6:2017-12-02",
@@ -2164,10 +2164,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-12-02.json",
       "reader": "papers/cet6/2017-12-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 2,
       "sourceBlocks": 165,
-      "sourceOnlyBlocks": 79
+      "sourceOnlyBlocks": 77
     },
     {
       "id": "cet6:2017-12-03",
@@ -2177,10 +2177,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-12-03.json",
       "reader": "papers/cet6/2017-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 100,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 98,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2017-06-01",
@@ -2190,10 +2190,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-06-01.json",
       "reader": "papers/cet6/2017-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 167,
-      "sourceOnlyBlocks": 78
+      "sourceBlocks": 166,
+      "sourceOnlyBlocks": 75
     },
     {
       "id": "cet6:2017-06-02",
@@ -2203,10 +2203,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-06-02.json",
       "reader": "papers/cet6/2017-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
       "sourceBlocks": 158,
-      "sourceOnlyBlocks": 75
+      "sourceOnlyBlocks": 72
     },
     {
       "id": "cet6:2017-06-03",
@@ -2216,10 +2216,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2017-06-03.json",
       "reader": "papers/cet6/2017-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 103,
-      "sourceOnlyBlocks": 70
+      "sourceBlocks": 101,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet4:2017-12-01",
@@ -2229,10 +2229,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-12-01.json",
       "reader": "papers/cet4/2017-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 149,
-      "sourceOnlyBlocks": 65
+      "sourceBlocks": 148,
+      "sourceOnlyBlocks": 62
     },
     {
       "id": "cet4:2017-12-02",
@@ -2242,10 +2242,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-12-02.json",
       "reader": "papers/cet4/2017-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 153,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 152,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet4:2017-12-03",
@@ -2255,10 +2255,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-12-03.json",
       "reader": "papers/cet4/2017-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 96,
-      "sourceOnlyBlocks": 66
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet4:2017-06-01",
@@ -2268,10 +2268,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-06-01.json",
       "reader": "papers/cet4/2017-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 178,
-      "sourceOnlyBlocks": 87
+      "sourceBlocks": 175,
+      "sourceOnlyBlocks": 84
     },
     {
       "id": "cet4:2017-06-02",
@@ -2281,10 +2281,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-06-02.json",
       "reader": "papers/cet4/2017-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
       "sourceBlocks": 161,
-      "sourceOnlyBlocks": 70
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet4:2017-06-03",
@@ -2294,10 +2294,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2017-06-03.json",
       "reader": "papers/cet4/2017-06-03.htm",
-      "questions": 19,
+      "questions": 31,
       "partialQuestions": 0,
-      "sourceBlocks": 114,
-      "sourceOnlyBlocks": 81
+      "sourceBlocks": 115,
+      "sourceOnlyBlocks": 79
     },
     {
       "id": "kaoyan:2016-01",
@@ -2307,7 +2307,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2016-01.json",
       "reader": "papers/kaoyan/2016-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 138,
       "sourceOnlyBlocks": 58
@@ -2322,7 +2322,7 @@
       "reader": "papers/kaoyan/2016-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 135,
+      "sourceBlocks": 134,
       "sourceOnlyBlocks": 48
     },
     {
@@ -2411,10 +2411,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-12-01.json",
       "reader": "papers/cet6/2016-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 164,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 160,
+      "sourceOnlyBlocks": 73
     },
     {
       "id": "cet6:2016-12-02",
@@ -2424,10 +2424,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-12-02.json",
       "reader": "papers/cet6/2016-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
       "sourceBlocks": 159,
-      "sourceOnlyBlocks": 72
+      "sourceOnlyBlocks": 70
     },
     {
       "id": "cet6:2016-12-03",
@@ -2437,10 +2437,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-12-03.json",
       "reader": "papers/cet6/2016-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 96,
-      "sourceOnlyBlocks": 64
+      "sourceBlocks": 95,
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "cet6:2016-06-01",
@@ -2450,10 +2450,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-06-01.json",
       "reader": "papers/cet6/2016-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 162,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 159,
+      "sourceOnlyBlocks": 72
     },
     {
       "id": "cet6:2016-06-02",
@@ -2463,10 +2463,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-06-02.json",
       "reader": "papers/cet6/2016-06-02.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 2,
-      "sourceBlocks": 168,
-      "sourceOnlyBlocks": 77
+      "sourceBlocks": 164,
+      "sourceOnlyBlocks": 76
     },
     {
       "id": "cet6:2016-06-03",
@@ -2476,10 +2476,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2016-06-03.json",
       "reader": "papers/cet6/2016-06-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 162,
-      "sourceOnlyBlocks": 80
+      "sourceBlocks": 163,
+      "sourceOnlyBlocks": 78
     },
     {
       "id": "cet4:2016-12-01",
@@ -2489,10 +2489,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-12-01.json",
       "reader": "papers/cet4/2016-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 161,
-      "sourceOnlyBlocks": 71
+      "sourceBlocks": 158,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet4:2016-12-02",
@@ -2502,10 +2502,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-12-02.json",
       "reader": "papers/cet4/2016-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 157,
-      "sourceOnlyBlocks": 65
+      "sourceBlocks": 154,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet4:2016-12-03",
@@ -2515,10 +2515,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-12-03.json",
       "reader": "papers/cet4/2016-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 89,
-      "sourceOnlyBlocks": 57
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "cet4:2016-06-01",
@@ -2528,10 +2528,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-06-01.json",
       "reader": "papers/cet4/2016-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 165,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 161,
+      "sourceOnlyBlocks": 72
     },
     {
       "id": "cet4:2016-06-02",
@@ -2541,10 +2541,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-06-02.json",
       "reader": "papers/cet4/2016-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 159,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 155,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet4:2016-06-03",
@@ -2554,10 +2554,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2016-06-03.json",
       "reader": "papers/cet4/2016-06-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
       "sourceBlocks": 91,
-      "sourceOnlyBlocks": 57
+      "sourceOnlyBlocks": 55
     },
     {
       "id": "kaoyan:2015-01",
@@ -2567,7 +2567,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2015-01.json",
       "reader": "papers/kaoyan/2015-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 139,
       "sourceOnlyBlocks": 69
@@ -2658,10 +2658,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-12-01.json",
       "reader": "papers/cet6/2015-12-01.htm",
-      "questions": 47,
-      "partialQuestions": 3,
-      "sourceBlocks": 167,
-      "sourceOnlyBlocks": 84
+      "questions": 56,
+      "partialQuestions": 4,
+      "sourceBlocks": 165,
+      "sourceOnlyBlocks": 80
     },
     {
       "id": "cet6:2015-12-02",
@@ -2671,10 +2671,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-12-02.json",
       "reader": "papers/cet6/2015-12-02.htm",
-      "questions": 46,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 158,
-      "sourceOnlyBlocks": 71
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2015-12-03",
@@ -2684,10 +2684,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-12-03.json",
       "reader": "papers/cet6/2015-12-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 167,
-      "sourceOnlyBlocks": 87
+      "sourceBlocks": 162,
+      "sourceOnlyBlocks": 76
     },
     {
       "id": "cet6:2015-06-01",
@@ -2697,10 +2697,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-06-01.json",
       "reader": "papers/cet6/2015-06-01.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 1,
-      "sourceBlocks": 161,
-      "sourceOnlyBlocks": 77
+      "sourceBlocks": 150,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2015-06-02",
@@ -2710,10 +2710,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-06-02.json",
       "reader": "papers/cet6/2015-06-02.htm",
-      "questions": 46,
+      "questions": 58,
       "partialQuestions": 4,
-      "sourceBlocks": 163,
-      "sourceOnlyBlocks": 83
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 70
     },
     {
       "id": "cet6:2015-06-03",
@@ -2723,10 +2723,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2015-06-03.json",
       "reader": "papers/cet6/2015-06-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 0,
-      "sourceBlocks": 185,
-      "sourceOnlyBlocks": 79
+      "sourceBlocks": 176,
+      "sourceOnlyBlocks": 67
     },
     {
       "id": "cet4:2015-12-01",
@@ -2736,10 +2736,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-12-01.json",
       "reader": "papers/cet4/2015-12-01.htm",
-      "questions": 44,
+      "questions": 56,
       "partialQuestions": 2,
-      "sourceBlocks": 160,
-      "sourceOnlyBlocks": 77
+      "sourceBlocks": 155,
+      "sourceOnlyBlocks": 70
     },
     {
       "id": "cet4:2015-12-02",
@@ -2749,10 +2749,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-12-02.json",
       "reader": "papers/cet4/2015-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 149,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet4:2015-12-03",
@@ -2762,10 +2762,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-12-03.json",
       "reader": "papers/cet4/2015-12-03.htm",
-      "questions": 44,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 147,
-      "sourceOnlyBlocks": 66
+      "sourceBlocks": 148,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet4:2015-06-01",
@@ -2775,10 +2775,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-06-01.json",
       "reader": "papers/cet4/2015-06-01.htm",
-      "questions": 42,
+      "questions": 54,
       "partialQuestions": 3,
-      "sourceBlocks": 466,
-      "sourceOnlyBlocks": 211
+      "sourceBlocks": 385,
+      "sourceOnlyBlocks": 162
     },
     {
       "id": "cet4:2015-06-02",
@@ -2788,10 +2788,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-06-02.json",
       "reader": "papers/cet4/2015-06-02.htm",
-      "questions": 45,
+      "questions": 47,
       "partialQuestions": 4,
-      "sourceBlocks": 171,
-      "sourceOnlyBlocks": 89
+      "sourceBlocks": 152,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet4:2015-06-03",
@@ -2801,10 +2801,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2015-06-03.json",
       "reader": "papers/cet4/2015-06-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 164,
-      "sourceOnlyBlocks": 82
+      "sourceBlocks": 165,
+      "sourceOnlyBlocks": 78
     },
     {
       "id": "kaoyan:2014-01",
@@ -2814,7 +2814,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2014-01.json",
       "reader": "papers/kaoyan/2014-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 130,
       "sourceOnlyBlocks": 60
@@ -2829,7 +2829,7 @@
       "reader": "papers/kaoyan/2014-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 135,
+      "sourceBlocks": 134,
       "sourceOnlyBlocks": 56
     },
     {
@@ -2905,10 +2905,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-12-01.json",
       "reader": "papers/cet6/2014-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 163,
-      "sourceOnlyBlocks": 78
+      "sourceBlocks": 157,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet6:2014-12-02",
@@ -2918,10 +2918,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-12-02.json",
       "reader": "papers/cet6/2014-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 168,
-      "sourceOnlyBlocks": 82
+      "sourceBlocks": 158,
+      "sourceOnlyBlocks": 72
     },
     {
       "id": "cet6:2014-12-03",
@@ -2931,10 +2931,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-12-03.json",
       "reader": "papers/cet6/2014-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 104,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 100,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "cet6:2014-06-01",
@@ -2944,10 +2944,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-06-01.json",
       "reader": "papers/cet6/2014-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 164,
-      "sourceOnlyBlocks": 83
+      "sourceBlocks": 154,
+      "sourceOnlyBlocks": 69
     },
     {
       "id": "cet6:2014-06-02",
@@ -2957,10 +2957,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-06-02.json",
       "reader": "papers/cet6/2014-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 160,
-      "sourceOnlyBlocks": 78
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet6:2014-06-03",
@@ -2970,10 +2970,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2014-06-03.json",
       "reader": "papers/cet6/2014-06-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 156,
-      "sourceOnlyBlocks": 77
+      "sourceBlocks": 151,
+      "sourceOnlyBlocks": 68
     },
     {
       "id": "cet4:2014-12-01",
@@ -2983,10 +2983,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-12-01.json",
       "reader": "papers/cet4/2014-12-01.htm",
-      "questions": 45,
-      "partialQuestions": 5,
-      "sourceBlocks": 150,
-      "sourceOnlyBlocks": 69
+      "questions": 57,
+      "partialQuestions": 6,
+      "sourceBlocks": 145,
+      "sourceOnlyBlocks": 62
     },
     {
       "id": "cet4:2014-12-02",
@@ -2996,10 +2996,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-12-02.json",
       "reader": "papers/cet4/2014-12-02.htm",
-      "questions": 42,
+      "questions": 54,
       "partialQuestions": 3,
-      "sourceBlocks": 161,
-      "sourceOnlyBlocks": 84
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 73
     },
     {
       "id": "cet4:2014-12-03",
@@ -3009,10 +3009,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-12-03.json",
       "reader": "papers/cet4/2014-12-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 149,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 144,
+      "sourceOnlyBlocks": 63
     },
     {
       "id": "cet4:2014-06-01",
@@ -3022,10 +3022,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-06-01.json",
       "reader": "papers/cet4/2014-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 4,
-      "sourceBlocks": 151,
-      "sourceOnlyBlocks": 73
+      "sourceBlocks": 143,
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "cet4:2014-06-02",
@@ -3035,10 +3035,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-06-02.json",
       "reader": "papers/cet4/2014-06-02.htm",
-      "questions": 43,
+      "questions": 55,
       "partialQuestions": 3,
-      "sourceBlocks": 151,
-      "sourceOnlyBlocks": 71
+      "sourceBlocks": 148,
+      "sourceOnlyBlocks": 64
     },
     {
       "id": "cet4:2014-06-03",
@@ -3048,10 +3048,10 @@
       "template": "english-cet4",
       "json": "papers/cet4/2014-06-03.json",
       "reader": "papers/cet4/2014-06-03.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 6,
-      "sourceBlocks": 153,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 147,
+      "sourceOnlyBlocks": 65
     },
     {
       "id": "kaoyan:2013-01",
@@ -3061,7 +3061,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2013-01.json",
       "reader": "papers/kaoyan/2013-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 142,
       "sourceOnlyBlocks": 72
@@ -3076,8 +3076,8 @@
       "reader": "papers/kaoyan/2013-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 137,
-      "sourceOnlyBlocks": 50
+      "sourceBlocks": 136,
+      "sourceOnlyBlocks": 49
     },
     {
       "id": "math3:2013-questions",
@@ -3152,10 +3152,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2013-12-01.json",
       "reader": "papers/cet6/2013-12-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 2,
-      "sourceBlocks": 155,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 153,
+      "sourceOnlyBlocks": 66
     },
     {
       "id": "cet6:2013-12-02",
@@ -3165,10 +3165,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2013-12-02.json",
       "reader": "papers/cet6/2013-12-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 5,
-      "sourceBlocks": 149,
-      "sourceOnlyBlocks": 66
+      "sourceBlocks": 145,
+      "sourceOnlyBlocks": 61
     },
     {
       "id": "cet6:2013-12-03",
@@ -3178,10 +3178,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2013-12-03.json",
       "reader": "papers/cet6/2013-12-03.htm",
-      "questions": 20,
+      "questions": 32,
       "partialQuestions": 0,
-      "sourceBlocks": 100,
-      "sourceOnlyBlocks": 63
+      "sourceBlocks": 90,
+      "sourceOnlyBlocks": 56
     },
     {
       "id": "cet6:2013-06-01",
@@ -3191,10 +3191,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2013-06-01.json",
       "reader": "papers/cet6/2013-06-01.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 3,
-      "sourceBlocks": 178,
-      "sourceOnlyBlocks": 88
+      "sourceBlocks": 167,
+      "sourceOnlyBlocks": 79
     },
     {
       "id": "cet6:2013-06-02",
@@ -3204,10 +3204,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2013-06-02.json",
       "reader": "papers/cet6/2013-06-02.htm",
-      "questions": 45,
+      "questions": 57,
       "partialQuestions": 1,
-      "sourceBlocks": 162,
-      "sourceOnlyBlocks": 75
+      "sourceBlocks": 157,
+      "sourceOnlyBlocks": 70
     },
     {
       "id": "kaoyan:2012-01",
@@ -3217,7 +3217,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2012-01.json",
       "reader": "papers/kaoyan/2012-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 145,
       "sourceOnlyBlocks": 73
@@ -3232,8 +3232,8 @@
       "reader": "papers/kaoyan/2012-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 127,
-      "sourceOnlyBlocks": 50
+      "sourceBlocks": 131,
+      "sourceOnlyBlocks": 51
     },
     {
       "id": "math3:2012-questions",
@@ -3308,10 +3308,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2012-12-01.json",
       "reader": "papers/cet6/2012-12-01.htm",
-      "questions": 75,
+      "questions": 76,
       "partialQuestions": 3,
-      "sourceBlocks": 558,
-      "sourceOnlyBlocks": 189
+      "sourceBlocks": 531,
+      "sourceOnlyBlocks": 168
     },
     {
       "id": "cet6:2012-12-02",
@@ -3321,10 +3321,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2012-12-02.json",
       "reader": "papers/cet6/2012-12-02.htm",
-      "questions": 72,
+      "questions": 73,
       "partialQuestions": 23,
-      "sourceBlocks": 542,
-      "sourceOnlyBlocks": 168
+      "sourceBlocks": 509,
+      "sourceOnlyBlocks": 149
     },
     {
       "id": "cet6:2012-12-03",
@@ -3334,10 +3334,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2012-12-03.json",
       "reader": "papers/cet6/2012-12-03.htm",
-      "questions": 75,
+      "questions": 76,
       "partialQuestions": 21,
-      "sourceBlocks": 513,
-      "sourceOnlyBlocks": 146
+      "sourceBlocks": 487,
+      "sourceOnlyBlocks": 128
     },
     {
       "id": "cet6:2012-06-01",
@@ -3347,10 +3347,10 @@
       "template": "english-cet6",
       "json": "papers/cet6/2012-06-01.json",
       "reader": "papers/cet6/2012-06-01.htm",
-      "questions": 75,
+      "questions": 76,
       "partialQuestions": 22,
-      "sourceBlocks": 621,
-      "sourceOnlyBlocks": 199
+      "sourceBlocks": 608,
+      "sourceOnlyBlocks": 196
     },
     {
       "id": "kaoyan:2011-01",
@@ -3360,10 +3360,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2011-01.json",
       "reader": "papers/kaoyan/2011-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
-      "sourceBlocks": 133,
-      "sourceOnlyBlocks": 61
+      "sourceBlocks": 132,
+      "sourceOnlyBlocks": 60
     },
     {
       "id": "kaoyan:2011-02",
@@ -3373,10 +3373,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2011-02.json",
       "reader": "papers/kaoyan/2011-02.htm",
-      "questions": 47,
+      "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 138,
-      "sourceOnlyBlocks": 63
+      "sourceBlocks": 143,
+      "sourceOnlyBlocks": 64
     },
     {
       "id": "math3:2011-questions",
@@ -3451,7 +3451,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2010-01.json",
       "reader": "papers/kaoyan/2010-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 131,
       "sourceOnlyBlocks": 61
@@ -3466,8 +3466,8 @@
       "reader": "papers/kaoyan/2010-02.htm",
       "questions": 48,
       "partialQuestions": 20,
-      "sourceBlocks": 143,
-      "sourceOnlyBlocks": 53
+      "sourceBlocks": 139,
+      "sourceOnlyBlocks": 54
     },
     {
       "id": "math3:2010-questions",
@@ -3542,10 +3542,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2009-01.json",
       "reader": "papers/kaoyan/2009-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
-      "sourceBlocks": 144,
-      "sourceOnlyBlocks": 69
+      "sourceBlocks": 139,
+      "sourceOnlyBlocks": 64
     },
     {
       "id": "math3:2009-questions",
@@ -3620,7 +3620,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2008-01.json",
       "reader": "papers/kaoyan/2008-01.htm",
-      "questions": 42,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 136,
       "sourceOnlyBlocks": 64
@@ -3672,10 +3672,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2007-01.json",
       "reader": "papers/kaoyan/2007-01.htm",
-      "questions": 47,
+      "questions": 52,
       "partialQuestions": 20,
-      "sourceBlocks": 131,
-      "sourceOnlyBlocks": 51
+      "sourceBlocks": 130,
+      "sourceOnlyBlocks": 50
     },
     {
       "id": "math3:2007-questions",
@@ -3724,10 +3724,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2006-01.json",
       "reader": "papers/kaoyan/2006-01.htm",
-      "questions": 43,
+      "questions": 52,
       "partialQuestions": 20,
-      "sourceBlocks": 143,
-      "sourceOnlyBlocks": 67
+      "sourceBlocks": 142,
+      "sourceOnlyBlocks": 71
     },
     {
       "id": "math3:2006-questions",
@@ -3776,10 +3776,10 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2005-01.json",
       "reader": "papers/kaoyan/2005-01.htm",
-      "questions": 44,
+      "questions": 52,
       "partialQuestions": 20,
       "sourceBlocks": 143,
-      "sourceOnlyBlocks": 51
+      "sourceOnlyBlocks": 74
     },
     {
       "id": "math3:2005-questions",
@@ -3828,7 +3828,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2004-01.json",
       "reader": "papers/kaoyan/2004-01.htm",
-      "questions": 43,
+      "questions": 46,
       "partialQuestions": 20,
       "sourceBlocks": 111,
       "sourceOnlyBlocks": 44
@@ -3880,7 +3880,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2003-01.json",
       "reader": "papers/kaoyan/2003-01.htm",
-      "questions": 43,
+      "questions": 46,
       "partialQuestions": 20,
       "sourceBlocks": 111,
       "sourceOnlyBlocks": 44
@@ -3932,7 +3932,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2002-01.json",
       "reader": "papers/kaoyan/2002-01.htm",
-      "questions": 43,
+      "questions": 46,
       "partialQuestions": 20,
       "sourceBlocks": 114,
       "sourceOnlyBlocks": 45
@@ -3971,7 +3971,7 @@
       "template": "english-kaoyan",
       "json": "papers/kaoyan/2001-01.json",
       "reader": "papers/kaoyan/2001-01.htm",
-      "questions": 41,
+      "questions": 46,
       "partialQuestions": 20,
       "sourceBlocks": 126,
       "sourceOnlyBlocks": 56
@@ -4012,7 +4012,7 @@
       "reader": "papers/kaoyan/2000-01.htm",
       "questions": 31,
       "partialQuestions": 10,
-      "sourceBlocks": 98,
+      "sourceBlocks": 95,
       "sourceOnlyBlocks": 38
     },
     {

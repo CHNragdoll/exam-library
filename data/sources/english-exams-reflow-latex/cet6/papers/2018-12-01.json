@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -2819,13 +2819,18 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Do Parents Invade Children’s Privacy When They Post Photos Online?",
               "flags": [
@@ -3115,23 +3120,10 @@
           "type": "options",
           "items": [
             {
-              "label": "C",
-              "runs": [
-                {
-                  "text": "S. Mott survey found among the 56 percent of mothers and 34 percent of fathers who discussed parenting on",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
               "label": "I",
               "runs": [
                 {
-                  "text": "A",
+                  "text": "A C.S. Mott survey found among the 56 percent of mothers and 34 percent of fathers who discussed parenting on",
                   "flags": [
                     false,
                     false,
@@ -3333,12 +3325,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "done.",
               "flags": [

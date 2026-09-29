@@ -239,6 +239,89 @@ def _recovered_blocks(rows: list[tuple[float, float, str]], targets: set[int],
     return result
 
 
+def _block_text(block: dict) -> str:
+    return "".join(run["text"] for run in block.get("runs", []))
+
+
+def _promote_spaced_51(blocks: list[dict], targets: set[int],
+                       case: tuple[str, str, int]) -> None:
+    """The PDF sometimes maps `51.` as `5 1 .` inside a paragraph."""
+    if 51 not in targets or any(block["type"] == "question" and
+                                (start := _question_start(_block_text(block))) and start[0] == 51
+                                for block in blocks):
+        return
+    candidates = [(index, block, re.search(r"(?<!\d)5\s+1\s*[.．]\s*", _block_text(block)))
+                  for index, block in enumerate(blocks) if block["type"] == "paragraph"]
+    candidates = [(index, block, match) for index, block, match in candidates if match]
+    if not candidates:
+        return
+    if len(candidates) != 1:
+        raise ValueError(f"ambiguous spaced question label: {case} Q51")
+    index, block, match = candidates[0]
+    if len(block["runs"]) != 1 or index + 1 == len(blocks) or blocks[index + 1]["type"] != "options":
+        raise ValueError(f"cannot split spaced question label: {case} Q51")
+    original = block["runs"][0]
+    before = original["text"][:match.start()].rstrip()
+    after = original["text"][match.end():].strip()
+    if not after:
+        raise ValueError(f"empty spaced question: {case} Q51")
+    question = {"type": "question", "runs": [{**original, "text": f"51. {after}"}]}
+    if before:
+        original["text"] = before
+        blocks.insert(index + 1, question)
+    else:
+        blocks[index] = question
+
+
+def _existing_questions(blocks: list[dict], targets: set[int],
+                        case: tuple[str, str, int]) -> dict[int, tuple[int, list[dict]]]:
+    existing = {}
+    for index, block in enumerate(blocks):
+        if block["type"] != "question":
+            continue
+        start = _question_start(_block_text(block))
+        if not start or start[0] not in targets:
+            continue
+        number = start[0]
+        if number in existing:
+            raise ValueError(f"duplicate extracted question: {case} Q{number}")
+        options = []
+        for following in blocks[index + 1:]:
+            if following["type"] != "options":
+                break
+            options.extend(following["items"])
+        existing[number] = index, options
+    return existing
+
+
+def _verify_extracted_question(number: int, question: dict, options: list[dict],
+                               rows: list[tuple[float, float, str]],
+                               case: tuple[str, str, int]) -> None:
+    """Only bypass image recovery when selectable text agrees with the original."""
+    anchors = [index for index, row in enumerate(rows)
+               if (start := _question_start(row[2])) and start[0] == number]
+    if len(anchors) != 1:
+        raise ValueError(f"original SVG question anchor changed: {case} Q{number}")
+    first = anchors[0]
+    last = next((index for index in range(first + 1, len(rows))
+                 if _question_start(rows[index][2])), len(rows))
+    raw = " ".join(row[2] for row in rows[first:last])
+    raw = SPACED_51.sub("51. ", raw, count=1)
+    sources = (WHITESPACE.sub(" ", raw).strip(), _clean(raw, case))
+
+    def in_source(value: str) -> bool:
+        value = WHITESPACE.sub(" ", value).strip()
+        return bool(value) and any(value in source for source in sources)
+
+    if not in_source(_block_text(question)):
+        raise ValueError(f"extracted question differs from original SVG: {case} Q{number}")
+    for option in options:
+        value = f'{option["label"]}) {_block_text(option)}'
+        if not in_source(value):
+            raise ValueError(f"extracted option differs from original SVG: "
+                             f'{case} Q{number} {option["label"]}')
+
+
 def recover_image_questions(category: str, stem: str, page_number: int,
                             blocks: list[dict], original_html: Path) -> None:
     """Insert the confirmed image-only questions after their original crops."""
@@ -247,6 +330,20 @@ def recover_image_questions(category: str, stem: str, page_number: int,
     if not targets:
         return
     rows = _svg_rows(original_html, page_number)
+    _promote_spaced_51(blocks, targets, case)
+    existing = _existing_questions(blocks, targets, case)
+    complete = set()
+    for number, (index, options) in existing.items():
+        labels = [item["label"] for item in options]
+        if case in MATCHING_CASES:
+            if labels:
+                raise ValueError(f"unexpected matching options: {case} Q{number}")
+        elif labels != list("ABCD") or any(not _block_text(item).strip() for item in options):
+            if options:
+                raise ValueError(f"incomplete extracted options: {case} Q{number}: {labels}")
+            continue  # The question stem may precede a source-line crop of its options.
+        _verify_extracted_question(number, blocks[index], options, rows, case)
+        complete.add(number)
     recovered = []
     additions = defaultdict(list)
     for index, block in enumerate(blocks):
@@ -254,14 +351,23 @@ def recover_image_questions(category: str, stem: str, page_number: int,
             continue
         _, top, _, bottom = block["bbox"]
         crop_rows = [row for row in rows if top - 2.5 <= row[0] <= bottom + 2.5]
-        for number, extra in _recovered_blocks(crop_rows, targets, case):
+        for number, extra in _recovered_blocks(crop_rows, targets - complete, case):
             if number in recovered:
                 raise ValueError(f"duplicate SVG question: {case} Q{number}")
             recovered.append(number)
-            additions[index].extend(extra)
-    if set(recovered) != targets:
+            if number in existing:
+                question_index, options = existing[number]
+                if options or len(extra) != 2 or extra[1]["type"] != "options" or any(
+                        item["label"] != label or not _block_text(item).strip()
+                        for label, item in zip("ABCD", extra[1]["items"])) or len(extra[1]["items"]) != 4:
+                    raise ValueError(f"cannot complete extracted question: {case} Q{number}")
+                _verify_extracted_question(number, blocks[question_index], [], rows, case)
+                additions[question_index].append(extra[1])
+            else:
+                additions[index].extend(extra)
+    if set(recovered) | complete != targets:
         raise ValueError(f"SVG question coverage mismatch: {case}; "
-                         f"expected {sorted(targets)}, found {sorted(recovered)}")
+                         f"expected {sorted(targets)}, found {sorted(set(recovered) | complete)}")
     for index in sorted(additions, reverse=True):
         blocks[index + 1:index + 1] = additions[index]
     for (paper_category, paper_stem, pn, number), continuation in PRINTED_CONTINUATIONS.items():

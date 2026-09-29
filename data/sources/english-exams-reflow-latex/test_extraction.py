@@ -29,9 +29,11 @@ d=fitz.open(build.source_pdf(e));p=d[0]
 a=build.extract(p,unknown_glyphs=build.source_chars(p))
 blocks=build.prepare(a['blocks'],p)
 build.restore_cet4_2015_06_02_page_one(blocks)
-assert ''.join(r['text'] for r in blocks[3]['runs']).endswith('120 words but no more than 180 words.')
-assert blocks[4]['bbox']==[110,110,402,212]
-assert ''.join(r['text'] for r in blocks[5]['runs'])=='Part II Listening Comprehension (30 minutes)'
+writing_index=next(i for i,block in enumerate(blocks)
+                   if block['type']=='paragraph' and
+                   build.plain_text(block).endswith('120 words but no more than 180 words.'))
+assert blocks[writing_index+1]['bbox']==[110,110,402,212]
+assert build.plain_text(blocks[writing_index+2])=='Part II Listening Comprehension (30 minutes)'
 for stem,repair in (
     ('2014-12-01',build.restore_cet6_2014_12_01_page_one),
     ('2014-12-03',build.restore_cet6_2014_12_03_page_one),
@@ -125,18 +127,20 @@ for (category, stem, pn, number), (old, new) in build.PDF_VERIFIED_SPACED_QUESTI
         assert old in source.get_text().replace('\n',' ')
         data=build.extract(source,unknown_glyphs=build.source_chars(source))
         blocks=build.prepare(data['blocks'],source)
-    assert sum(b['type']=='paragraph' and build.plain_text(b)==old for b in blocks)==1
+    joined_tail = (' of its convenience.' if number == 37 else '')
+    assert sum(b['type']=='paragraph' and build.plain_text(b)==old + joined_tail
+               for b in blocks)==1
     build.repair_pdf_verified_question_boundaries(category,stem,pn,blocks)
     question=next(i for i,b in enumerate(blocks)
-                  if b['type']=='question' and build.plain_text(b)==new)
+                  if b['type']=='question' and build.plain_text(b)==new + joined_tail)
     if number==47:
         assert blocks[question+1]['type']=='options'
         assert [item['label'] for item in blocks[question+1]['items']]==list('ABCD')
     else:
-        assert build.plain_text(blocks[question+1])=='of its convenience.'
+        assert build.plain_text(blocks[question]).endswith('of its convenience.')
         assert [build.plain_text(b) for b in blocks if b['type']=='question' and
                 build.plain_text(b).startswith(tuple(f'{n}.' for n in range(36,46)))][1:3]==[
-                    new,'38. Different states have markedly different regulations for telemedicine.']
+                    new + joined_tail,'38. Different states have markedly different regulations for telemedicine.']
         q40=next(i for i,b in enumerate(blocks)
                  if b['type']=='question' and build.plain_text(b).startswith('40.'))
         assert build.plain_text(blocks[q40+1])=='telemedicine services.'
@@ -146,7 +150,8 @@ for (category, stem, pn, number), (old, new) in build.PDF_VERIFIED_SPACED_QUESTI
         assert blocks[q40+2]['type']=='question'
     saved=json.loads((build.ROOT/category/'papers'/f'{stem}.json').read_text())
     page_blocks=saved['pages'][pn-1]['blocks']
-    assert sum(b['type']=='question' and build.plain_text(b)==new for b in page_blocks)==1
+    assert sum(b['type']=='question' and build.plain_text(b)==new + joined_tail
+               for b in page_blocks)==1
     if number==37:
         assert [b['type'] for b in page_blocks if build.plain_text(b).startswith('41.')]==['question']
 

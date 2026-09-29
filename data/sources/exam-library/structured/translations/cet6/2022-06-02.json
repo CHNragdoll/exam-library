@@ -1,0 +1,3430 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2022-06-02",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+  "sourcePdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+  "paragraphs": [
+    {
+      "id": "cet6:2022-06-02:p:b-1-3",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people keep learning new skills to adapt to a fast-changing world.\" You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "ca98a17f21f6b0bb56a8001496c5ec299e6e824b4951c19fb8bacc8185676fab",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇文章，开头是“现在越来越多的人不断学习新技能以适应快速变化的世界”。您可以发表评论、引用示例或利用您的个人经历来完善您的论文。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-8",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "Directionsr In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a 'word bank following the passage. Read the",
+      "sourceHash": "5e11f65de6726da163add202a5b8af9afe98366fb274866d5c5ccfb83d55ad7b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-9",
+      "paperId": "cet6:2022-06-02",
+      "kind": "heading_prose",
+      "sourceText": "passage through carefully before making your choices, Each choice in the bank is identified",
+      "sourceHash": "3f8dce7c37ca5855d10806c0c54254665517e7024b6a2862f34f02386627cb4e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "做出选择之前要仔细过一遍，银行里的每一个选择都是有标识的",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-10",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any o f the words in the bank more than once.",
+      "sourceHash": "9e75387536ed25862ea01d741d295a488928942d062fe02f45dd5e6e8851ed4a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-11",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "Thinking kind thoughts about yourself and your loved ones can prove beneficial for your overall wellbeing, empirical evidence has shown. Researchers carried out an investigation to explore the 26 between having kind thoughts and a person's psychological state.",
+      "sourceHash": "bec423ed97a5960aa6628f10d20c4862850df5d7dcd5e2b212bc3d646cedd64a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-12",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "For the study, five groups of participants were presented with a different set of audio instructions, some of which encouraged the participants to think 27 about themselves and others which persuaded them to think in a self^critical manner. After listening to the audio instructions, the participants were asked to answer a series of questions. These included whether they felt agitated, how likely they were to show kindness to themselves and how 28 they felt to other individuals.",
+      "sourceHash": "8ac8e2d1faced40b97920b81ceb23a24565e7fd6e52102f11f07de04ed7cdfa5",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-13",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "The participants who were instructed to think kindly about themselves were more likely to exhibit a bodily response associated with being relaxed and feeling safe. Their heart rates also dropped, which is a healthy sign of a heart that can respond flexibly to situations. Yet, 29 , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which 30 feelings of threat and distress.",
+      "sourceHash": "a4999ac8412512fc5eb232613ca332e9df7a701582127a4198c942bbc9ee21d1",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-1-14",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "Having the ability to switch off the body's natural threat response can 31 a person's immune system. This, in turn, gives them a greater likelihood of recovering quickly from illness. These findings help us to further understand some of our clinical trials research findings, where we show that individuals with 32 depression benefit particularly from self-awareness-based 33 therapy. They essentially learn to become more sympathetic to themselves.",
+      "sourceHash": "6c8e856f10dd3d38e07fab0862b8a5747c9fe4661a2abfdaccebfbae658d7fc5",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-1",
+      "paperId": "cet6:2022-06-02",
+      "kind": "cloze",
+      "sourceText": "The sense is that for people 34 to depression, meeting their negative thoughts and feelings with 35 is a radically different way; that these thoughts are not facts. It introduces a different way of being and knowing that is quite transformative for many people.",
+      "sourceHash": "df14e85ef09e62f2e8307eb1dcdc222f11e0baec23ea07fd0173000ff325d4f1",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-2-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one o f the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "4411ef6cdd3294d36f27366426e1566791a11fbc51f011fe0429fa812b8ade28",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "heading_prose",
+      "sourceText": "Saving Our Planet",
+      "sourceHash": "88d24b14749434aecdec14b258f604c1c74e34ead6f2b82fdfa9bce71c748cb6",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "拯救我们的星球",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-6",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "A) In the long view, the human relationship with forests has been one of brutal destruction, but even it carries elements of slow hope. In the Middle Ages, there was no shortage of timber in most parts of the world, and few saw cutting down forests as a problem. Yet in 1548 the people of Venice estimated that an important timber supply would last only 30 years at their current rate of usage- but different forest management would make it possible to meet the demand for many centuries to come. The idea of preserving resources came out of a concern for the future: a fear of using up resources faster than they could be replenished (补 充).",
+      "sourceHash": "3740221047dbf5edded9033242dbdf52988a2b3691a1fc9c031f97517ec4b18b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 从长远来看，人类与森林的关系一直是一种残酷的破坏，但即便如此，它也蕴含着缓慢的希望的元素。在中世纪，世界大部分地区并不缺乏木材，很少有人认为砍伐森林是一个问题。然而，1548 年，威尼斯人估计，按照目前的使用率，重要的木材供应只能维持 30 年，但不同的森林管理将能够满足未来许多世纪的需求。保护资源的想法源于对未来的担忧：担心资源消耗速度快于补充速度。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "B) Economic interests were at the core of this understanding of trees and forests. It would take more than three centuries before scientists began to understand that timber production is not the only, and possibly not the most important, function of forests. The late 19th and early 20th century saw an increasing recognition that forests serve as habitats for countless animal and plant species that all rely on each other. They take over protective functions against soil erosion and landslides (塌方)；they make a significant contribution to the water balance as they prevent surface runoff; they filter dirt particles, greenhouse gases and radioactive substances from the air; they produce oxygen; they provide spaces for recreation and they preserve historic and prehistoric remains. As a result, forests around the world have been set aside as parks or wilderness areas.",
+      "sourceHash": "8798f75d64fa5c211fee345d1d858f2c4517f3db448f03bffc769dd92a0414f6",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 经济利益是对树木和森林的理解的核心。科学家们花了三个多世纪的时间才开始认识到木材生产并不是森林的唯一功能，也可能不是最重要的功能。 19 世纪末和 20 世纪初，人们越来越认识到森林是无数相互依赖的动植物物种的栖息地。它们承担了防止水土流失和山体滑坡的保护功能；它们对水平衡做出了重大贡献，因为它们可以防止地表径流；它们过滤空气中的污垢颗粒、温室气体和放射性物质；它们产生氧气；它们提供休闲空间并保存历史和史前遗迹。结果，世界各地的森林被划为公园或荒野地区。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-2-8",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "C) Recent years have seen a big change in our view of forests. Peter Wohlleben's book The Hidden Life o f Trees (2015), an international bestseller, suggests that trees can warn each other of danger through a “wood wide web“ of roots and fungi (真菌).They support each other through sharing of nutrients and information, and they even keep ancient stumps alive by feeding them solutions of sugars. Such insights have made us aware of deep ecological relationships between humans and the more-than-human world.",
+      "sourceHash": "cb0881734bf823276f8e88545b085ae59a4a8371a0500584eec8914cdc9456b1",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-8",
+        "cet6:2022-06-02:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 近年来，我们对森林的看法发生了巨大变化。彼得·沃莱本 (Peter Wohlleben) 的国际畅销书《树木的隐秘生活》(2015) 指出，树木可以通过根和真菌组成的“木广网”互相警告危险。它们通过分享营养和信息来互相支持，甚至通过给古老的树桩喂食糖溶液来保持生命。这些见解使我们意识到人类与非人类世界之间深厚的生态关系。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-3-2",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "D) Awareness of ecologies is a recent phenomenon. It was not until the 1940s that the concept of the “environment“ embracing all living and nonliving things developed. In the 1970s, the term “environment\" gained currency, becoming widely adopted in the English and Romance languages, and as ccUmwelC (\"'surrounding world^^) in German. The emergence of the idea led to the rise of environmental agencies, regulations and environmental studies, and to environmental science as new, integrated academic disciplines. It was in 1956 that the very first bachelor of science in environmental studies was awarded, at the State University of New York College of Forestry at Syracuse. Since the 1970s- with the rise of “environmentalism\"- environmental studies programmes have sprung up at hundreds of universities. There is (slow) hope in the fact that scholars from many different disciplines have adopted the term “environment\" over the past decades. They are exploring intricate connections within and between complex ecologies, as well as the impact that human environment-making (through techno-industrial, economic and other manipulative developments) has had on the biosphere.",
+      "sourceHash": "5679507978b9200bb1b0d80269ed5ae0188d7eb94830b53beec293006662eed1",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 生态意识是最近才出现的现象。直到 20 世纪 40 年代，涵盖所有生物和非生物的“环境”概念才得到发展。 20世纪70年代，“环境”一词开始流行，在英语和罗曼语中被广泛采用，在德语中被称为ccUmwelC（“周围的世界^^”）。这一概念的出现导致了环境机构、法规和环境研究的兴起，并使环境科学成为新的综合学科。1956年，纽约州立大学雪城分校林业学院授予了第一个环境研究理学学士学位。 20 世纪 70 年代，随着“环保主义”的兴起，数百所大学涌现出环境研究项目。过去几十年来，许多不同学科的学者都采用了“环境”一词，他们正在探索复杂生态内部和之间的复杂联系，以及人类环境塑造（通过技术工业、经济和其他操纵性发展）对生物圈的影响。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-3-3",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "E) The rise of the idea of the environment and a scholarly understanding of ecological processes has influenced new technologies and also politics. We have come to ask questions about vulnerability and risk, world ecologies, and the relationship between nature and power. The search for an adequate response to climate change occupies centre stage in international diplomacy.",
+      "sourceHash": "5b694d4169a0ad9eb726908902f02ec62f3adaef2f5fde868b7da322ade67cfe",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 环境观念的兴起和对生态过程的学术理解影响了新技术和政治。我们来询问有关脆弱性和风险、世界生态以及自然与权力之间的关系的问题。寻求对气候变化的适当应对措施占据了国际外交的中心舞台。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-3-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "F) Social and environmental activists, scientists and indigenous groups have called the Paris Agreement of the United Nations Climate Change Conference in December 2015 insufficient, weak, or compromised. To some extent, they are right: climate change has already destroyed tens of thousands of livelihoods, and the situation will worsen in the near future for millions of mostly poorer people, who will join the ranks of those who have already been displaced by climate change and extreme weather events. But the Paris Conference nevertheless marked a historic step toward the recognition of the need for action on climate change, the cutting of carbon emissions, and world cooperation. There were 195 nations that came to the table in Paris and agreed to limits on emissions. Historically, nothing comparable had happened prior to this. Before the 20th century, a handful of scientists had been interested in the theoretical relationship between greenhouse gases and climate change, but only the empirical evidence accumulated since the late 20th century established a clear connection between the burning of fossil fuels and a vastly accelerated rise in global temperatures.",
+      "sourceHash": "b802793fbc399476f86755c0d7fd8f193fcea0b02911c6fb31c3674dd3b6af7a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 社会和环境活动家、科学家和土著团体称 2015 年 12 月联合国气候变化大会《巴黎协定》不够、软弱或妥协。在某种程度上，他们是对的：气候变化已经摧毁了数以万计的生计，在不久的将来，数以百万计的贫困人口的情况将会恶化，他们将加入已经因气候变化和极端天气事件而流离失所的行列。但巴黎会议仍然标志着人们认识到需要采取行动应对气候变化、减少碳排放和世界合作的历史性一步。有 195 个国家来到巴黎谈判桌并同意限制排放。从历史上看，在此之前没有发生过类似的事情。 20世纪之前，少数科学家一直对温室气体与气候变化之间的理论关系感兴趣，但只有20世纪末以来积累的经验证据才确立了化石燃料燃烧与全球气温大幅加速上升之间的明确联系。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-3-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "G) The current crisis is not the first that humans have encountered, and a look at the struggles with pollution in recent history reveals transformations that once seemed unimaginable. The \"London fbg?, that came to define the capital through British novels and thrillers is in reality smog or smoke, a legacy of industrialisation. After a century of ignorance, London was hit by the Great Smog of December 1952- the worst air-pollution event in the history of the United Kingdom which caused the deaths of approximately 12,000 people. Shortly thereafter, public initiatives and political campaigns led to strict regulations and new laws, including the Clean Air Act (1956). Today, London has effectively reduced traffic emissions through the introduction of a Congestion Charge Zone in 2003, and an Ultra Low Emission Zone in 2019.",
+      "sourceHash": "d88f7baa4955c4e6044841eb60ac91468883f1449e935960b7cb28445344bd45",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-3-4",
+        "cet6:2022-06-02:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-3-5",
+        "cet6:2022-06-02:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 当前的危机并不是人类第一次遇到的危机，审视近代史上与污染的斗争，揭示了曾经看似难以想象的转变。通过英国小说和惊悚片来定义伦敦的“伦敦fbg”实际上是烟雾或烟雾，是工业化的遗产。在经历了一个世纪的无知之后，伦敦遭遇了 1952 年 12 月的大烟雾——这是英国历史上最严重的空气污染事件，导致约 12,000 人死亡。此后不久，公共倡议和政治运动导致了严格的法规和新法律，包括《清洁空气法》（1956 年）。如今，伦敦通过 2003 年设立拥堵费区和 2019 年设立超低排放区，有效减少了交通排放。",
+      "source": {
+        "blockIds": [
+          "b-3-4",
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-5",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-2",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "H) Scientific evidence that we are living in an era of climate change, resource exhaustion and potential ecological disaster is overwhelming. How do we motivate a public exhausted by never-ending scenarios of doom and disaster, when the challenges seem so huge and so impossible to solve? Statistics about extinction and the gloom of decline will not in themselves get us out of our often self^created ecological traps: instead, they are more likely to result in paralysis and inaction.",
+      "sourceHash": "a6770d8110df64c3ce432bfb1ee4d59754e45204f0ec8727e985f971fa1146db",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 大量科学证据表明我们生活在一个气候变化、资源枯竭和潜在生态灾难的时代。当挑战如此巨大且无法解决时，我们如何激励公众因永无休止的厄运和灾难而疲惫不堪？有关灭绝和衰退的统计数据本身并不能让我们摆脱我们常常自己创造的生态陷阱：相反，它们更有可能导致瘫痪和无所作为。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-3",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "I) We need stories and histories of change and transformation: ecological stories that make us confront the fact that human power is potentially destructive, and that the survival of our species on this planet depends on the preservation of soil and water, and the habitats and ecological systems.",
+      "sourceHash": "16f646991afccf82d8e22df3b3b818cf8c41f95e813a92809470a665ed047431",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 我们需要变化和转型的故事和历史：生态故事让我们面对这样一个事实：人类的力量具有潜在的破坏性，我们物种在这个星球上的生存取决于土壤和水、栖息地和生态系统的保护。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "J) It is time that we showed successes and accelerations in ecological awareness, action and restoration: stories that include past successes and future visions about the rise of urban gardening and of renaturalised riverscapes, of successful protests against polluted air and water, of the rise of regional markets and slow food, and the planting of trees around the globe, of initiatives and enterprises that work towards ecological restoration. The reality of ecological curses seems far greater than the power of the hopes left at the bottom of Pandora's box. But if we believe that nothing can be changed, then we are giving up our opportunity to act.",
+      "sourceHash": "fa61862d08c3c744dafc9c960c43218ea5d498e48adf70c6bff26acc58c21296",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 现在是我们展示生态意识、行动和恢复方面的成功和加速的时候了：故事包括过去的成功和未来愿景，包括城市园艺和河景恢复自然的兴起、针对空气和水污染的成功抗议、区域市场和慢食的兴起、全球植树、致力于生态恢复的举措和企业。生态诅咒的现实似乎远远大于潘多拉魔盒底部留下的希望的力量。但如果我们相信一切都无法改变，那么我们就放弃了采取行动的机会。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "passage_option",
+      "sourceText": "K) Today9s saving powers will not come from a deus ex machina (解围之 4中).In an ever-more complex and synthetic world, our saving powers won't come from a single source, and certainly not from a too-big-to-fail approach or from those who have been drawn into the whirlpool of our age of speed. Hope can work as a wakeup call. It acknowledges setbacks. The concept of slow hope suggests that we can't expect things to change overnight. If the ever-faster exhaustion of natural resources (in ecological terms) and the \"'shrinking of the present^^ (in social terms) are urgent problems of humans, then cutting down on exhaustive practices and working towards a \"stretching of the present\" will be ways to move forward.",
+      "sourceHash": "999cbf5dff0eecd8c7cbc6e5c5493ebfb4ed3bb4ec68e3d04a6ea33e10d4a8dd",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 今天的拯救力量将不会来自解围之4中。在一个日益复杂和合成的世界中，我们的拯救力量不会来自单一来源，当然也不会来自“太大而不能倒”的方法或来自那些被卷入速度时代漩涡的人。希望可以起到警钟的作用。它承认挫折。缓慢希望的概念表明我们不能指望事情在一夜之间发生变化。如果自然资源的日益枯竭（从生态角度来说）和“当下的缩小”（从社会角度来说）是人类面临的紧迫问题，那么减少穷举实践并致力于“当下的延伸”将是前进的方式。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-6",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "36. Climate change has wrought havoc on the lives of tens of thousands of people.",
+      "sourceHash": "e1c8154de48e5bdda941140b8d606faf6a093aab3cb69dcca8c202b8f2df6efe",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 气候变化给数万人的生活造成严重破坏。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "37. It took scientists a long time to realise that the function of forests goes far beyond providing humans with timber.",
+      "sourceHash": "8f7f06f2592d6cab926183f717683308e92be77cd03d6f5f3b4af6b15168f61f",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 科学家们花了很长时间才意识到森林的功能远远超出了为人类提供木材的范围。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-8",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "38. There is abundant evidence that we are now facing a possible ecological disaster.",
+      "sourceHash": "13e0d0d7bbb3190d16434a1fe7ed5d7f94ff885b7e574a742492bff6e9abb284",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 有大量证据表明我们现在正面临一场可能的生态灾难。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-9",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "39. Environmental science became academic disciplines only some sixty years ago.",
+      "sourceHash": "ef00733fc880570cb6ff7a9a1e823171f8d8618328aab82753976b723d9ca6a7",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 环境科学在大约六十年前才成为一门学科。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-10",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "40. Things cannot change overnight, but reducing the consumption of natural resources will help solve the ecological crisis.",
+      "sourceHash": "d981a7be6eeb334cd27026da281801a70db1c172caeb0f2cf67879effb16f8a3",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 事情不可能一夜之间改变，但减少自然资源的消耗将有助于解决生态危机。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-11",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "41. Human perception of forests has undergone a tremendous change in the past years.",
+      "sourceHash": "8fdc2f3c6a9434f0fb0c6924d33e0e73780db8905f0b981cac53482f0bbbf044",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 过去几年，人类对森林的看法发生了巨大变化。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-12",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "42. Recent history shows reduction of pollution, once seemingly impossible, can actually be accomplished.",
+      "sourceHash": "00a492285e93295f952d3d9cc6c94219279a2dd1c93f9827f02493f044312d35",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 最近的历史表明，曾经看似不可能的减少污染实际上是可以实现的。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-13",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "43. People began to consider preserving natural resources when they feared they would have nothing to use in the future.",
+      "sourceHash": "0e49705e11c81f457e810fcbde5be6795de1989595a779541bac49e22babd005",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 当人们担心自己将来没有什么可利用时，他们开始考虑保护自然资源。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-14",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "44. If we doubt our ability to reverse ecological deterioration, we are throwing away the chance to take action.",
+      "sourceHash": "eb14490d496f001ceafda6f809a44166e35c2058a70b3f870c21450aadb56f7e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 如果我们怀疑我们扭转生态恶化的能力，我们就放弃了采取行动的机会。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-4-15",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "45. How to respond effectively to climate change has become the focus of international diplomacy.",
+      "sourceHash": "a54ed64ef45c7dd92bc9b4264f97452b1210077f16cd863a437cb69010dd6a07",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45、如何有效应对气候变化已成为国际外交的焦点。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-2",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modem technology where music production is concerned. Using AI in the creation of music is perceived by some as a helpful tool and by others as almost ccthe beginning of the end”.",
+      "sourceHash": "a2fbffae8cc60a6b0f055340f9eaedda980cd136e63ea0d7f40f3a0c8e9ea108",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "自 2017 年美国偶像明星 Taryn Southern 开始用人工智能创作音乐以来，世界各地的音乐家都开始思考人工智能和现代技术对音乐制作的影响。在一些人看来，在音乐创作中使用人工智能是一种有用的工具，而另一些人则认为这几乎是终结的开始。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-6",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "In Taryn's case, AI software enabled her to communicate melodies and chords that she didn't know how to put together herself. The end product was therefore a collaborative effort, rather than a piece entirely produced by technology. Taryn's story has a distinctly positive feel that highlights the advantages of using AI in music production. It can serve as a source of inspiration, and as an ideal jumping-off point should a musician be hit with writer's b/oc左(文思枯竭).",
+      "sourceHash": "f4c944e230c01c9176f53d84f19233f464ed271dff6c3124ac613808b2e0eb9b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "就塔琳来说，人工智能软件使她能够传达她自己不知道如何组合的旋律和和弦。因此，最终产品是协作成果，而不是完全由技术生产的作品。 Taryn 的故事给人一种明显积极的感觉，凸显了在音乐制作中使用人工智能的优势。它可以作为灵感的源泉，并且作为音乐家被作家的文思枯竭所击中的理想起点。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Contrary to seeing AI as a tool, some musicians consider it to be hugely detrimental to the music scene. At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear. In short, it's not of great quality. Those who have produced their own music, or even fans of authentic, artistic music, will also argue that a computer could never emulate the work (and human touch) of a true musician.",
+      "sourceHash": "0fc0e7515c84ba06426220a79b4c314debfd561a9a110ed0cf3931a63a78a174",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与将人工智能视为一种工具相反，一些音乐家认为它对音乐界非常不利。目前，由于此类技术还很年轻，因此它产生的音乐不一定是我们想听到的。简而言之，它的质量不太好。那些创作过自己音乐的人，甚至是真正的艺术音乐的粉丝，也会认为计算机永远无法模仿真正音乐家的作品（和人情味）。",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-8",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Music has been an integral part of the story of humans for ages; in fact, the first known piece of music is believed to be around 3,400 years old. Songs have long been used as a means of communicating messages and folk stories, covering everything from societal ethics to world history. Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology. The thought of a computer generating a “random“ piece of music that hasn't been painstakingly created by an artist is almost seen as sacrilegious (亵渎神圣的).",
+      "sourceHash": "636274a47cfd79fe46297f6b4d297e7fbbcda0985ed90120ca4a4504844fd3e8",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "长久以来，音乐一直是人类故事中不可或缺的一部分。事实上，第一首已知的音乐作品据信已有 3,400 多年的历史。歌曲长期以来一直被用作传达信息和民间故事的手段，涵盖从社会道德到世界历史的方方面面。由于许多人将音乐视为人类固有的表达方式，因此通常认为音乐太珍贵而无法传授给技术。计算机生成并非由艺术家精心创作的“随机”音乐的想法几乎被视为亵渎（亵渎神圣的）。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-5-9",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Regardless of which side of the argument you fall on, it seems likely that the use of AI in music production will only become more frequent. Our modem world is preoccupied with technological advancements. Instead of shying away from the idea of this bleak future, the best approach to take is one of optimism and curiosity. While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced. AI music software is still very much in its infancy, but with more investors interested in the development and outcomes of such technology, and considering the rapid growth rate of other tech advances in recent years, it's only a matter of time before Ai-produced music is seen as the new norm.",
+      "sourceHash": "60e4e62cde158f4917930ee6b1f918e4a651ca1fb44bef7f5345c59202c3c0ff",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "无论你站在争论的哪一边，人工智能在音乐制作中的使用似乎只会变得更加频繁。我们的现代世界专注于技术进步。最好的方法是保持乐观和好奇心，而不是回避这个黯淡的未来。虽然总会有顽固的老派音乐家拒绝使用科技，但音乐制作人应该将人工智能视为值得拥抱的东西。人工智能音乐软件仍处于起步阶段，但随着越来越多的投资者对此类技术的发展和成果感兴趣，并考虑到近年来其他技术进步的快速增长，人工智能制作的音乐被视为新规范只是时间问题。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-1",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "46. How do some musicians perceive using AI in creating music?",
+      "sourceHash": "f2c8082bd4727e02a9985ac4bf09cb11beaf725304537b311ad3d5b14478bd7c",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 一些音乐家如何看待使用人工智能创作音乐？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-3",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "47. What does Taryn Southern's story illustrate?",
+      "sourceHash": "98fb2c1ce2437826d24a366c1349bcf142c93d4e5a2349784ca7cef5b1e05b04",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 塔林·萨瑟恩的故事说明了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "48. Why are some musicians opposed to the use of AI in creating music?",
+      "sourceHash": "dbc6cef40aa87e21db5c216f02ac9f25b07c2ab26a1910bb898a202e1f47375a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 为什么一些音乐家反对使用人工智能创作音乐？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "49. Why do many people think music is too precious to impart to AI technology?",
+      "sourceHash": "db63a31a8d5954da0cf8087f54ba899c63d193f513dc34061928df6f4cd7b6a7",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 为什么很多人认为音乐太珍贵而不能传授给人工智能技术？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-9",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "50. What does the author think of the future of AI music?",
+      "sourceHash": "fbb810389c22995194a9e3771f962a04909ed37e034708258ed10e3340b9f0b9",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.作者如何看待AI音乐的未来？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-12",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-13",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet.",
+      "sourceHash": "ea8fe08d6055811daaba6cd40593bde81a3516426bc91be3a0fc8c34707f379c",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "几周前，一位善意的教授试图在一条推文中解释病毒和人体背后的生理过程，但立即因其信息错误而受到批评。随后他发表道歉并删除了他的错误推文。",
+      "source": {
+        "blockIds": [
+          "b-6-13"
+        ],
+        "reflowBlockIds": [
+          "b-6-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-14",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.",
+      "sourceHash": "de0816ffb882c85e83a3294b8a4325f156c37be76056405ac04a49400f63be33",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在学术泡沫之外传播科学对于增强公众对健康和环境问题的理解并帮助个人做出明智的个人决定是必要的。",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-6-15",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "However, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional spread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated.",
+      "sourceHash": "8f2483e113ef3a323fde141adaa36076bcbf8bf8476d451b55ec56bffdb5da64",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-6-15",
+        "cet6:2022-06-02:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "然而，从事科学传播的科学家必须承认，即使在他们的领域，他们的专业知识也很深但很窄。他们需要认识到自己知识的局限性。这并不是说他们只撰写或展示自己的研究，而是说，如果主题超出了他们的学科范围，他们会咨询专家。与从事该专业工作的科学家进行事实核查将防止错误信息的无意传播，并且这样做的过程可能会产生可以合并的微小有趣的新信息。",
+      "source": {
+        "blockIds": [
+          "b-6-15"
+        ],
+        "reflowBlockIds": [
+          "b-6-15",
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6",
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-2",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Some have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd. Science instruction can be found at all levels of public education with most secondary schools offering classes on biology, physics, and chemistry. If anything, social media has shown that the public craves knowledge based on a solid scientific foundation. Even the public discourse that follows most scientific articles shows that online readers can understand even the most baffling of scientific principles.",
+      "sourceHash": "2a239c379a4c62431609deda848909af000af5c38ba53aed029a2c99599efdab",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有些人认为公众没有受过足够的教育来理解科学信息，尤其是对于任何复杂的现象，但这是荒谬的。科学教学存在于各级公共教育中，大多数中学都提供生物、物理和化学课程。如果说社交媒体有什么不同的话，那就是公众渴望获得基于坚实科学基础的知识。即使是大多数科学文章之后的公共讨论也表明，在线读者甚至可以理解最令人困惑的科学原理。",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-3",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "It is equally imperative to emphasize that being an expert on a topic does not automatically make a scholar qualified to communicate it to a nonscientific audience. A number of scientists recently have been offering public-aimed explanations of scientific phenomena. Even though they have appropriate credentials, they often do very little in the way of explaining. One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines. Any explanation that requires a written key to keep track of what each item represents is not a clear example for public consumption.",
+      "sourceHash": "a92a6c1497ec52e5db1925be3017d63a553a6033e9f73cca9d878d9299bc2c18",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "同样必须强调的是，成为某个主题的专家并不意味着学者就自动有资格向非科学受众进行交流。许多科学家最近一直在对科学现象提供面向公众的解释。尽管他们拥有适当的资历，但他们通常很少做解释。一位生物学家分享了一个复杂的类比，涉及图书馆、书籍、纸张、食谱、成分和蛋糕来解释疫苗背后的过程。任何需要书面密钥来跟踪每个项目代表什么的解释都不是公众消费的明确例子。",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "reading",
+      "sourceText": "Science communication is a science in and of itself. It requires rigorous training and instruction. A scientist should take communication courses that can teach a person how to identify and eliminate jargon and how to develop effective analogies to explain complex concepts. One cannot assume communication expertise-imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background. Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close.",
+      "sourceHash": "fd9324d505323896354176240af9a7644a679190161f33cc898f3c6a7ab7b42a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "科学传播本身就是一门科学。它需要严格的培训和指导。科学家应该参加交流课程，教人们如何识别和消除行话，以及如何建立有效的类比来解释复杂的概念。人们不能假定自己拥有沟通方面的专业知识——想象一下，如果有人在没有必要背景的情况下就决定自己是一名物理学家，并开始尝试为该领域做出贡献。向公众传播科学的工作做得不好只会造成混乱，并扩大科学与社会之间的差距，而科学家们正试图弥合这一差距。",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-5",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "51. What does the author say about communicating science to the general public?",
+      "sourceHash": "cb02e3b8b7ad1f6b52aadea15c7deb99325fd6ea6ec0ff65dfc3da071e126656",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 关于向公众传播科学，作者有何看法？",
+      "source": {
+        "blockIds": [
+          "b-7-4"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "52. What does the author advise scientists do to deal with topics outside of their specialty?",
+      "sourceHash": "c6f74ed8c96dc157150cd793c91029d546acd9b651139fc24bc53357159b8c0b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 作者建议科学家如何处理其专业之外的话题？",
+      "source": {
+        "blockIds": [
+          "b-7-6"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-7-9",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "53. What does the author say we can learn from social media?",
+      "sourceHash": "4d401157b39d89663080d8cc670d6d47c0820616f720e703d9b7c28bf732422b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.作者说我们可以从社交媒体中学到什么？",
+      "source": {
+        "blockIds": [
+          "b-7-8"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-8-2",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "54. What does the example of the biologist who shared an intricate analogy show?",
+      "sourceHash": "ea1d229893867008a22a962cf4b75894ef53839bc2352d650a5529fe7d3058de",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-8-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 生物学家分享了一个复杂的类比的例子说明了什么？",
+      "source": {
+        "blockIds": [
+          "b-8-2"
+        ],
+        "reflowBlockIds": [
+          "b-8-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-8-4",
+      "paperId": "cet6:2022-06-02",
+      "kind": "question_prompt",
+      "sourceText": "55. What does the author suggest scientists do to close the gap between science and society?",
+      "sourceHash": "aea1ec82a2b873f9f2f79714337a3186600108975ac2775d24a272466c5408e5",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-8-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 作者建议科学家做什么来缩小科学与社会之间的差距？",
+      "source": {
+        "blockIds": [
+          "b-8-4"
+        ],
+        "reflowBlockIds": [
+          "b-8-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    },
+    {
+      "id": "cet6:2022-06-02:p:b-8-7",
+      "paperId": "cet6:2022-06-02",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-8-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-8-7"
+        ],
+        "reflowBlockIds": [
+          "b-8-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2022-06-02.json",
+        "pdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2022-06-02.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2022-06-02.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2022-06-02:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-46-1",
+      "optionId": "cet6:2022-06-02:q-46-1:A",
+      "sourceText": "It would help to produce more music idols.",
+      "sourceHash": "fa94d007f8520d39872c994e5dd2afbf761ca195cf7fa4713266475347fa4251",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It would help to produce more music idols.",
+      "translationEligible": true,
+      "translationZh": "这将有助于产生更多的音乐偶像。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-46-1",
+      "optionId": "cet6:2022-06-02:q-46-1:B",
+      "sourceText": "It would be detrimental to music production.",
+      "sourceHash": "4d6f8b986e2b28fdf06f5f0511575fc5109808b4d48fb3279fc0339a9b2b3124",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It would be detrimental to music production.",
+      "translationEligible": true,
+      "translationZh": "这对音乐制作来说是有害的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-46-1",
+      "optionId": "cet6:2022-06-02:q-46-1:C",
+      "sourceText": "It would hinder the understanding of authentic music.",
+      "sourceHash": "3b070aba02ba79ba2e0f59ab2543a671c5ae07bc8724d4a46a813bd28caf3aef",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It would hinder the understanding of authentic music.",
+      "translationEligible": true,
+      "translationZh": "这会阻碍对真实音乐的理解。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-46-1",
+      "optionId": "cet6:2022-06-02:q-46-1:D",
+      "sourceText": "It would be the beginning of a new era in music creation.",
+      "sourceHash": "4132338ecf480de4392102f8eda2064bd3eab1f68a10f72d37595227f8db718b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It would be the beginning of a new era in music creation.",
+      "translationEligible": true,
+      "translationZh": "这将是音乐创作新时代的开始。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-47-1",
+      "optionId": "cet6:2022-06-02:q-47-1:A",
+      "sourceText": "AI technology is conducive to music composition.",
+      "sourceHash": "048bbd49fee3c55009cad61f1e6d2b86aade85ffa1e4e825fe38d838e6338764",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "AI technology is conducive to music composition.",
+      "translationEligible": true,
+      "translationZh": "人工智能技术有利于音乐创作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-47-1",
+      "optionId": "cet6:2022-06-02:q-47-1:B",
+      "sourceText": "Musicians will be unable to create music without high tech.",
+      "sourceHash": "614937fa826002e480bcfefed1eb28e1bd336c06787d9a1f8041900bd7b661a7",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Musicians will be unable to create music without high tech.",
+      "translationEligible": true,
+      "translationZh": "没有高科技，音乐家将无法创作音乐。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-47-1",
+      "optionId": "cet6:2022-06-02:q-47-1:C",
+      "sourceText": "Musicians are often at their wits, end in their creative effort.",
+      "sourceHash": "672eaad1ebd30c5eb68d96657e31c421fdaab026cbf0aa2a63dbac77ed1e34de",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Musicians are often at their wits, end in their creative effort.",
+      "translationEligible": true,
+      "translationZh": "音乐家常常发挥他们的智慧，最终完成他们的创造性努力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-47-1",
+      "optionId": "cet6:2022-06-02:q-47-1:D",
+      "sourceText": "AI technology is indispensable to creating melodies and chords.",
+      "sourceHash": "be7fa61fd2be651402add39421452359fde1a4879468d3477ad51b0da2680ae0",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "AI technology is indispensable to creating melodies and chords.",
+      "translationEligible": true,
+      "translationZh": "人工智能技术对于创作旋律和和弦是不可或缺的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-48-1",
+      "optionId": "cet6:2022-06-02:q-48-1:A",
+      "sourceText": "Music produced with AI technology lacks humanness.",
+      "sourceHash": "7abefc10a96c545393addeace72e03e2aeff25bb3bdc44971d8e59bb457ed52e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Music produced with AI technology lacks humanness.",
+      "translationEligible": true,
+      "translationZh": "用人工智能技术制作的音乐缺乏人性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-48-1",
+      "optionId": "cet6:2022-06-02:q-48-1:B",
+      "sourceText": "Music created with AI technology is easily emulated.",
+      "sourceHash": "6db76e2fa1d522cdb4e6590f87ebec4a6b9c48f582f2a5980b95be97e800af82",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Music created with AI technology is easily emulated.",
+      "translationEligible": true,
+      "translationZh": "使用人工智能技术创作的音乐很容易被模仿。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-48-1",
+      "optionId": "cet6:2022-06-02:q-48-1:C",
+      "sourceText": "It will depreciate humans9 role in music composition.",
+      "sourceHash": "cbe011e1b5c45b7419b2c0171026ac6d81aebdcce34dfb362bcff5dfeb90b730",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will depreciate humans9 role in music composition.",
+      "translationEligible": true,
+      "translationZh": "它将贬低人类在音乐创作中的作用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-48-1",
+      "optionId": "cet6:2022-06-02:q-48-1:D",
+      "sourceText": "It will deplete young musicians, creative inspiration.",
+      "sourceHash": "78cb49e068411832cde62ecc6e45cd219e52e42620a4acd752a9173a3c5acd6c",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It will deplete young musicians, creative inspiration.",
+      "translationEligible": true,
+      "translationZh": "它会耗尽年轻音乐家的创作灵感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-49-1",
+      "optionId": "cet6:2022-06-02:q-49-1:A",
+      "sourceText": "It cannot be created without pains.",
+      "sourceHash": "1c081bb0c19ba086d91ccad77f8c1aa7e75e5d87bbcba9155591a56f91958c24",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It cannot be created without pains.",
+      "translationEligible": true,
+      "translationZh": "它不可能不经过痛苦就被创造出来。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-49-1",
+      "optionId": "cet6:2022-06-02:q-49-1:B",
+      "sourceText": "It cannot be produced at random.",
+      "sourceHash": "505ba4841f0d16387571eaeeedfe4f07182d7b62a3803950f20ae6909855be94",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It cannot be produced at random.",
+      "translationEligible": true,
+      "translationZh": "不能随意生产。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-49-1",
+      "optionId": "cet6:2022-06-02:q-49-1:C",
+      "sourceText": "It is part of human life.",
+      "sourceHash": "a550565a560710149adeeee0a0ae5569453996e39bef69fa43299ffe2afbe563",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is part of human life.",
+      "translationEligible": true,
+      "translationZh": "它是人类生活的一部分。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-49-1",
+      "optionId": "cet6:2022-06-02:q-49-1:D",
+      "sourceText": "It is human specific.",
+      "sourceHash": "a91ab57a813eb0a05aca5e2d75dcb05a67a281517a81df197f8b71abcb54da58",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is human specific.",
+      "translationEligible": true,
+      "translationZh": "这是人类特有的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-50-1",
+      "optionId": "cet6:2022-06-02:q-50-1:A",
+      "sourceText": "It will continue to arouse the interest of music investors.",
+      "sourceHash": "7b772309602ed30bce4e345f4ea55ba2dc106c477354c5062c524f3cb320819b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It will continue to arouse the interest of music investors.",
+      "translationEligible": true,
+      "translationZh": "它将继续引起音乐投资者的兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-50-1",
+      "optionId": "cet6:2022-06-02:q-50-1:B",
+      "sourceText": "It has the prospect of becoming the norm in the future.",
+      "sourceHash": "f97f1df7c4fcc19d46b569a201f785db61b428068134a4b47b1920122dd368c2",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It has the prospect of becoming the norm in the future.",
+      "translationEligible": true,
+      "translationZh": "它有可能在未来成为常态。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-50-1",
+      "optionId": "cet6:2022-06-02:q-50-1:C",
+      "sourceText": "It will be gradually accepted by old-school musicians.",
+      "sourceHash": "648acae5258a9c04ab9f2c5d4af3281d266eb2a7fe860c3649f87507d5528305",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will be gradually accepted by old-school musicians.",
+      "translationEligible": true,
+      "translationZh": "它将逐渐被老派音乐家所接受。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-50-1",
+      "optionId": "cet6:2022-06-02:q-50-1:D",
+      "sourceText": "It may eventually lose its freshness and appeal.",
+      "sourceHash": "1dfa6aa2f242d46780860201351a2e1d7d0f99e8f04cd556aa3f1684d269a12d",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It may eventually lose its freshness and appeal.",
+      "translationEligible": true,
+      "translationZh": "它最终可能会失去新鲜感和吸引力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-51-1",
+      "optionId": "cet6:2022-06-02:q-51-1:A",
+      "sourceText": "It will help them to keep abreast of the latest scientific developments.",
+      "sourceHash": "95f5063015bcc29c01d7b4c2c67ae856a161d244c44e9b2a5306b1b4aba72f67",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It will help them to keep abreast of the latest scientific developments.",
+      "translationEligible": true,
+      "translationZh": "它将帮助他们及时了解最新的科学发展。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-51-1",
+      "optionId": "cet6:2022-06-02:q-51-1:B",
+      "sourceText": "It is a necessary means to improve their understanding of scientific issues.",
+      "sourceHash": "2e3a2d5615aa42d825db8910e71383dbb6a3ff629d5e78c9a173166c99653291",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is a necessary means to improve their understanding of scientific issues.",
+      "translationEligible": true,
+      "translationZh": "这是提高他们对科学问题理解的必要手段。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-51-1",
+      "optionId": "cet6:2022-06-02:q-51-1:C",
+      "sourceText": "It will get them more involved in academic debates on environmental problems.",
+      "sourceHash": "8f28056f86fd0ed3527aa25f4cd9da0eb0412e346fd92f21d6be3f5596ddc392",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will get them more involved in academic debates on environmental problems.",
+      "translationEligible": true,
+      "translationZh": "这将使他们更多地参与有关环境问题的学术辩论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-51-1",
+      "optionId": "cet6:2022-06-02:q-51-1:D",
+      "sourceText": "It is an effective way to augment scientists9 influence beyond the academic circle.",
+      "sourceHash": "ef2395de7c81a31b287031a228c8da6a23540faa568f6580ac9d7c34a7a488e7",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is an effective way to augment scientists9 influence beyond the academic circle.",
+      "translationEligible": true,
+      "translationZh": "这是增强科学家9在学术界之外的影响力的有效途径。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-52-1",
+      "optionId": "cet6:2022-06-02:q-52-1:A",
+      "sourceText": "Write or present on them from new angles.",
+      "sourceHash": "4aa451808c8e4d156646c5fe380b2dea5e8ee7e55957be12454a869a9f87ffdf",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Write or present on them from new angles.",
+      "translationEligible": true,
+      "translationZh": "从新的角度书写或呈现它们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-52-1",
+      "optionId": "cet6:2022-06-02:q-52-1:B",
+      "sourceText": "Utilize information from diverse sources.",
+      "sourceHash": "b656a09f3608349e5194ada8871ebfd09792036d3f19966dcfdc0c92e07dee28",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Utilize information from diverse sources.",
+      "translationEligible": true,
+      "translationZh": "利用不同来源的信息。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-52-1",
+      "optionId": "cet6:2022-06-02:q-52-1:C",
+      "sourceText": "Turn to a specialist for professional help.",
+      "sourceHash": "717dc227e0dc0e3268dd51cd35d4ed8613e8fe7b26dd6949f4de8766eea875a3",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Turn to a specialist for professional help.",
+      "translationEligible": true,
+      "translationZh": "向专家寻求专业帮助。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-52-1",
+      "optionId": "cet6:2022-06-02:q-52-1:D",
+      "sourceText": "Fact-check with colleagues in their field.",
+      "sourceHash": "0bfb27482aef61fddb414f9f6941fb4cf071d41abbb254d78d01fe227d29be91",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Fact-check with colleagues in their field.",
+      "translationEligible": true,
+      "translationZh": "与所在领域的同事进行事实核查。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-53-1",
+      "optionId": "cet6:2022-06-02:q-53-1:A",
+      "sourceText": "A solid academic foundation is essential to understanding baffling scientific principles.",
+      "sourceHash": "17c053919f8416a46529eac36d06c74eea0da9ebc684e7a3b3a7333d799b6aff",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A solid academic foundation is essential to understanding baffling scientific principles.",
+      "translationEligible": true,
+      "translationZh": "坚实的学术基础对于理解令人困惑的科学原理至关重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-53-1",
+      "optionId": "cet6:2022-06-02:q-53-1:B",
+      "sourceText": "Modem technology has facilitated communication between scientists and the public.",
+      "sourceHash": "3f38f58c7be4805f438e1e5a32976c942415c081e42fe301cb2f3ca030e4fc93",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-7-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Modem technology has facilitated communication between scientists and the public.",
+      "translationEligible": true,
+      "translationZh": "现代技术促进了科学家和公众之间的沟通。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-53-1",
+      "optionId": "cet6:2022-06-02:q-53-1:C",
+      "sourceText": "Scientific articles have gained increasing popularity among the general public.",
+      "sourceHash": "a8d4d439a59fba9c6c636c93e551feed6d74a90a1c245f26fb115543473032a5",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-1"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Scientific articles have gained increasing popularity among the general public.",
+      "translationEligible": true,
+      "translationZh": "科学文章在公众中越来越受欢迎。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-53-1",
+      "optionId": "cet6:2022-06-02:q-53-1:D",
+      "sourceText": "The public's understanding of science is much better than some have claimed.",
+      "sourceHash": "03036c9a8cb1f47a398668a66c5ca7e4f9843426b15260802fe23199dc9b0d6e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-1"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The public's understanding of science is much better than some have claimed.",
+      "translationEligible": true,
+      "translationZh": "公众对科学的理解比某些人声称的要好得多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-54-1",
+      "optionId": "cet6:2022-06-02:q-54-1:A",
+      "sourceText": "It is helpful to use illustrations in explaining scientific phenomena.",
+      "sourceHash": "3857763c133d895a1fea55920b7eec66d29dead2025f5865aa05752b593b46d2",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-3"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is helpful to use illustrations in explaining scientific phenomena.",
+      "translationEligible": true,
+      "translationZh": "使用插图有助于解释科学现象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-54-1",
+      "optionId": "cet6:2022-06-02:q-54-1:B",
+      "sourceText": "It is imperative to have appropriate titles to explain scientific issues.",
+      "sourceHash": "0d04f4ca79fb88ed8829ce4d24c8652cf1e750c7ffe0fc2d3231d371c9f096b5",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-3"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is imperative to have appropriate titles to explain scientific issues.",
+      "translationEligible": true,
+      "translationZh": "必须有适当的标题来解释科学问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-54-1",
+      "optionId": "cet6:2022-06-02:q-54-1:C",
+      "sourceText": "A learned scholar is not necessarily a qualified science communicator.",
+      "sourceHash": "c7dbd50a1cabea7c6fc91f5f102e19b9669364b1af44abd25d502c49110698f7",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-3"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "A learned scholar is not necessarily a qualified science communicator.",
+      "translationEligible": true,
+      "translationZh": "一个博学的学者不一定是一个合格的科学传播者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-54-1",
+      "optionId": "cet6:2022-06-02:q-54-1:D",
+      "sourceText": "A nonscientific audience cannot duly understand principles of science.",
+      "sourceHash": "4e3ca4b6c881f14d58e41b945f198f99b415975c30650589b9eb5cfd1404ee92",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-3"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "A nonscientific audience cannot duly understand principles of science.",
+      "translationEligible": true,
+      "translationZh": "非科学受众无法正确理解科学原理。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-55-1",
+      "optionId": "cet6:2022-06-02:q-55-1:A",
+      "sourceText": "Explain complex concepts scientifically.",
+      "sourceHash": "e6b0a3dab69467f5056c71e1bf81e2632ae5250e9d154c42e8dda536b48ca7b8",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Explain complex concepts scientifically.",
+      "translationEligible": true,
+      "translationZh": "科学地解释复杂的概念。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-55-1",
+      "optionId": "cet6:2022-06-02:q-55-1:B",
+      "sourceText": "Make appropriate use of scientific terms.",
+      "sourceHash": "7e5eae237b3b6eb52deaeccae36d88eaf47a241bac27cc3c68ead3da8b88d11e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Make appropriate use of scientific terms.",
+      "translationEligible": true,
+      "translationZh": "适当使用科学术语。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-55-1",
+      "optionId": "cet6:2022-06-02:q-55-1:C",
+      "sourceText": "Take courses in public speaking.",
+      "sourceHash": "7f82a36769d59877d92c03a04be3cee2f0269194f42a2341ce8f4fc7840d1ad0",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Take courses in public speaking.",
+      "translationEligible": true,
+      "translationZh": "参加公开演讲课程。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-55-1",
+      "optionId": "cet6:2022-06-02:q-55-1:D",
+      "sourceText": "Develop communication skills.",
+      "sourceHash": "ac173d19d366da38cfc10f2dc5c7a52e2a829c127e9e7d34c369bd0a13a091e3",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-8-5"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-8-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Develop communication skills.",
+      "translationEligible": true,
+      "translationZh": "培养沟通技巧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:A",
+      "sourceText": "adversely",
+      "sourceHash": "79f2d10e89386b87a65df21113f4ba900ef4c1f633bdce2ef6ffa54fbb414b23",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "adversely",
+      "translationEligible": true,
+      "translationZh": "不利地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:B",
+      "sourceText": "amiably",
+      "sourceHash": "3bc0a27b8824299cb4b24f60526cea47272500ab03683c8ca1620d3a83182293",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "amiably",
+      "translationEligible": true,
+      "translationZh": "和蔼可亲地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:C",
+      "sourceText": "boost",
+      "sourceHash": "ca4264faf5970fc613d80ad9e736f565d492e253a2faa84b35c8f2b2ef0be626",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "boost",
+      "translationEligible": true,
+      "translationZh": "提升",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:D",
+      "sourceText": "cognitive",
+      "sourceHash": "f744584c7c7e68b68f1a5b4ddbfb3aa09432c2cc6003acbdd2dc5578b0bc078e",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "cognitive",
+      "translationEligible": true,
+      "translationZh": "认知的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:E",
+      "sourceText": "compassion",
+      "sourceHash": "b260e1abb566eb8b1ea892488a944546c53391e2d0556cd309dd01c804e7558b",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "compassion",
+      "translationEligible": true,
+      "translationZh": "同情心",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:F",
+      "sourceText": "connected",
+      "sourceHash": "12a7bd86e0a430327620a0e2274d0f6f091c783b21c169636ef8997f9f1da76a",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "connected",
+      "translationEligible": true,
+      "translationZh": "已连接",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:G",
+      "sourceText": "correlation",
+      "sourceHash": "577bf0c4f4ee4f887ec975d9f5356309244babf9fad24797025228a2092d78fd",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "pdfVerifiedSource": {
+        "sourcePdfSha256": "3b75a979ecb71b87aa790c43d33902ab02b60a5124de62050fd3743666138305",
+        "pdfPage": 2,
+        "anchorKind": "word_bank_option",
+        "reflowBlockIds": [
+          "cet6:2022-06-02:b-2-2"
+        ],
+        "reflowOptionIndex": 6,
+        "sourceOptionId": "cet6:2022-06-02:word-bank:G"
+      },
+      "translationEligible": true,
+      "translationZh": "相关性",
+      "eligibilityReason": "translate_pdf_verified"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:H",
+      "sourceText": "fascinated",
+      "sourceHash": "5e8b30b909e3da7c3c5b0bd444ea051afa5804bdfefbeaca97a22c6a45bed8fe",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "fascinated",
+      "translationEligible": true,
+      "translationZh": "着迷的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:I",
+      "sourceText": "indignantly",
+      "sourceHash": "f2710b18555d6fa57ffadc8c22bc6b6f56fcbf2144d8a565c202635ba2ee3053",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "indignantly",
+      "translationEligible": true,
+      "translationZh": "愤怒地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:J",
+      "sourceText": "insulation",
+      "sourceHash": "91663419710f5f57e8bf59c8db358d402c32e49be43f9179375b5baeb499a775",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "insulation",
+      "translationEligible": true,
+      "translationZh": "绝缘",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:K",
+      "sourceText": "lavish",
+      "sourceHash": "695d8a635e7168052998bf82256d4977c2571de8f8a3ce992b366747ae2b6986",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "lavish",
+      "translationEligible": true,
+      "translationZh": "奢侈的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:L",
+      "sourceText": "prone",
+      "sourceHash": "c785119f1d81abf56e1173e74ff56d18f7d69d450b70d49c55987fe5da09d9b9",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "prone",
+      "translationEligible": true,
+      "translationZh": "倾向的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:M",
+      "sourceText": "recurrent",
+      "sourceHash": "379c91137dc3b07feca74d1cd83e98cb3000ef721609c9dd466ea65b25517b92",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "recurrent",
+      "translationEligible": true,
+      "translationZh": "经常性的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2022-06-02:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2022-06-02",
+      "questionId": "cet6:2022-06-02:q-26-1",
+      "optionId": "cet6:2022-06-02:word-bank:N",
+      "sourceText": "signify",
+      "sourceHash": "104359a9c4144ffb3eb5c70a7439350565aeaad2aef813ac5956dd3bed578b56",
+      "sourceBlockIds": [
+        "cet6:2022-06-02:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2022-06-02:b-2-2",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "signify",
+      "translationEligible": true,
+      "translationZh": "表示",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 54,
+    "reason:translate": 53,
+    "reason:translate_pdf_verified": 1
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-8",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2022-06-02:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-9",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-10",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2022-06-02:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-11",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2022-06-02:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2022-06-02:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-13",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2022-06-02:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-1-14",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2022-06-02:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-1",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2022-06-02:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-5",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2022-06-02:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet6:2022-06-02:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2022-06-02:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-4-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-5-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-6-13"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-6-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-6-15"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2022-06-02:p:b-6-15"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2022-06-02:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-7-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-8-2"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2022-06-02:p:b-8-4"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2022-06-02:p:b-8-7"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-8",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2022-06-02:b-8-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 13,
+    "included": 53,
+    "ineligible": 7
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 2,
+    "heading_prose": 2,
+    "instruction": 6,
+    "non_english_or_fragment": 4,
+    "question_prompt": 20,
+    "reading_choice_continuation": 1,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 11,
+    "section_label": 9,
+    "unparsed_cloze_region": 2,
+    "unresolved_cloze_or_source_mismatch": 5
+  },
+  "kindCounts": {
+    "cloze": 7,
+    "heading_prose": 2,
+    "instruction": 6,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 11
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-11",
+        "b-1-12",
+        "b-1-13",
+        "b-1-14",
+        "b-2-1"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "incomplete_word_bank",
+        "printed_blank_sequence_mismatch"
+      ]
+    }
+  ]
+}

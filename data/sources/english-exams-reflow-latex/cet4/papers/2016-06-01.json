@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2016",
@@ -2784,7 +2784,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Finding the Right Home—and Contentment, Too",
@@ -3327,12 +3327,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "may prove very important.",
               "flags": [
@@ -3379,12 +3382,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "elegant assisted living home.",
               "flags": [
@@ -3418,12 +3424,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "social interaction.",
               "flags": [
@@ -3470,12 +3479,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "move in and how long they had stayed there.",
               "flags": [

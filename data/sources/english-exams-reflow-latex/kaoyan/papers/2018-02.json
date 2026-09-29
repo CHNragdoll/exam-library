@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018 年全国硕士研究生招生考试英语（二）",
@@ -4109,7 +4109,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Five Ways to Make Conversation with Anyone",
@@ -4653,7 +4653,95 @@
       "inline_glyphs": 0
     },
     {
-      "blocks": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "runs": [
+            {
+              "text": "Part B",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "48. Directions:",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write an essay based on the chart below. In your writing, you should",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "1) interpret the chart, and",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "2) give your comments.",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write about 150 words on the ANSWER SHEET. (15 points)",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            160,
+            218,
+            454,
+            469
+          ]
+        }
+      ],
       "removed_marginal_text": [],
       "figure_text": [],
       "encoding_uncertain": [],

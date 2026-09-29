@@ -5,6 +5,7 @@ const {JSDOM} = require(process.env.EXAM_JSDOM || 'jsdom');
 
 const markup = fs.readFileSync(path.join(__dirname, 'index.htm'), 'utf8');
 const script = fs.readFileSync(path.join(__dirname, 'practice.js'), 'utf8');
+const shared = fs.readFileSync(path.join(__dirname, 'practice-shared.js'), 'utf8');
 const highlighter = fs.readFileSync(path.join(__dirname, '../ui/code-highlight.js'), 'utf8');
 const paperId = 'math3:2019-questions';
 const questionId = `${paperId}:q-1-1`;
@@ -83,6 +84,7 @@ async function main() {
   };
   assert(markup.includes('../ui/code-highlight.css') && markup.includes('../ui/code-highlight.js'));
   w.eval(highlighter);
+  w.eval(shared);
   w.eval(script);
   await waitFor(() => !d.getElementById('practice-panel').hidden, 'questions loaded');
   assert.deepEqual([...d.querySelectorAll('.option')].map(node => node.dataset.optionId), ['o-a', 'o-b', 'o-c', 'o-d'], 'default keeps source order');
@@ -166,6 +168,7 @@ async function main() {
   }});
   mathWindow.eval(mathDoc.querySelector('head script').textContent);
   mathWindow.eval(fs.readFileSync(path.join(__dirname, '../ui/vendor/mathjax-3.2.2-tex-svg-full.js'), 'utf8'));
+  mathWindow.eval(shared);
   mathWindow.eval(script);
   await waitFor(() => mathDoc.querySelector('#question-stem mjx-container svg path') &&
     item(mathDoc, 'o-c')?.querySelector('mjx-container svg path') &&
@@ -194,6 +197,7 @@ async function main() {
     if (String(url).includes('/questions?')) return {paper: figurePaper, questions: [figureQuestion]};
     return {status: 'explicit', value: 'B', correctOptionIds: [figureOptions[1].id]};
   }});
+  figureWindow.eval(shared);
   figureWindow.eval(script);
   await waitFor(() => figureDoc.querySelectorAll('.option-image').length === 4, 'four figure options render');
   assert.equal(figureDoc.querySelectorAll('.option-image-frame').length, 4);
@@ -205,7 +209,198 @@ async function main() {
   item(figureDoc, figureOptions[1].id).querySelector('input').click();
   assert(item(figureDoc, figureOptions[1].id).querySelector('input').checked);
   figureDom.window.close();
-  console.log('practice: filters, stable-id shuffle, answer status, safe content blocks, local MathJax, source-clipped image choices passed');
+
+  const redrawDom = new JSDOM(markup, {url: 'http://127.0.0.1:8765/exam-library/practice/index.htm', runScripts: 'outside-only'});
+  const redrawWindow = redrawDom.window;
+  const redrawDoc = redrawWindow.document;
+  const originalSrc = '/cs408-latex-2009-2017/assets/figures/2025-questions-p012-b001.svg';
+  const redrawSrc = '/exam-library/assets/redrawn/cs408-2025-questions-p012-b001-v4-color.png';
+  const redrawQuestion = {id: 'cs408:2025-questions:q-47-1', number: '47',
+    questionType: 'free_response', stem: '卫星链路', options: [], contentBlocks: [
+      {role: 'figure', text: '题47图', images: [{src: originalSrc, alt: '原图',
+        redraw: {src: redrawSrc, alt: '彩色重绘图'}}]}
+    ]};
+  const redrawPaper = {...figurePaper, id: 'cs408:2025-questions'};
+  redrawWindow.fetch = async url => ({ok: true, json: async () =>
+    url === '/api/v1/papers' ? {papers: [redrawPaper]} :
+      {paper: redrawPaper, questions: [redrawQuestion]}});
+  redrawWindow.eval(shared);
+  redrawWindow.eval(script);
+  await waitFor(() => redrawDoc.querySelector('.content-redraw-control button'), 'redraw control renders');
+  const original = redrawDoc.querySelector('.content-figure img:not(.content-redraw-image)');
+  const redraw = redrawDoc.querySelector('.content-redraw-image');
+  const toggle = redrawDoc.querySelector('.content-redraw-control button');
+  assert.equal(original.getAttribute('src'), originalSrc);
+  assert.equal(redraw.getAttribute('src'), redrawSrc);
+  Object.defineProperty(original, 'naturalWidth', {value: 395});
+  original.dispatchEvent(new redrawWindow.Event('load'));
+  redraw.dispatchEvent(new redrawWindow.Event('load'));
+  assert.equal(redraw.style.width, '395px', 'redraw uses original display width');
+  assert.equal(redraw.hidden, false, 'loaded redraw is the default');
+  assert.equal(original.hidden, true);
+  assert.equal(toggle.textContent, '查看原图');
+  toggle.click();
+  assert.equal(original.hidden, false);
+  assert.equal(redraw.hidden, true);
+  assert.equal(toggle.textContent, '查看重绘图');
+  toggle.click();
+  assert.equal(redraw.hidden, false);
+  redrawDom.window.close();
+
+  const sourceDom = new JSDOM(markup, {
+    url: 'http://127.0.0.1:8765/exam-library/practice/index.htm', runScripts: 'outside-only'
+  });
+  const sourceWindow = sourceDom.window;
+  const sourceDoc = sourceWindow.document;
+  const sourcePaper = {id: 'test:source-answers', title: '原卷答案排版', category: 'test',
+    categoryLabel: '测试', year: 2023, kind: 'questions', questionCount: 5};
+  const sourceQuestions = ['37', '46', '20', '41', '6'].map(number => ({
+    id: `${sourcePaper.id}:q-${number}-1`, number, questionType: 'free_response',
+    stem: `第 ${number} 题`, context: null, options: [], contentBlocks: [],
+    status: 'complete', answerStatus: 'explicit'
+  }));
+  const sourceAnswers = new Map([
+    [sourceQuestions[0].id, {status: 'explicit', explanation: '压平的解析不应重复',
+      commentary: '压平的评注不应重复', sourceBaseUrl: '/politics-answers-latex-2009-2023/papers/2023-answers.htm',
+      sourceContentBlocks: [
+        {contentHtml: '<h2>37. 【答案】</h2>'},
+        {contentHtml: '<p class="paragraph">（1）爱国主义正文。</p>'},
+        {contentHtml: '<p class="paragraph">（2）创新创造正文。</p>'},
+        {contentHtml: '<h2>【考点点拨】</h2>'},
+        {contentHtml: '<p>爱国主义、科学家精神。</p>'},
+        {contentHtml: '<h2>【试题简析】</h2>'},
+        {contentHtml: '<p>逐题分析。</p>'},
+        {contentHtml: '<h2>【名师点拨】</h2>'},
+        {contentHtml: '<p>进一步提示。</p><script>window.__unsafe=1</script><img src="javascript:alert(1)">'}
+      ]}],
+    [sourceQuestions[1].id, {status: 'explicit', solution: '压平的代码不应重复',
+      sourceBaseUrl: '/cs408-answers-latex-2016-2025/papers/2017-answers.htm',
+      sourceContentBlocks: [
+        {contentHtml: '<p>46.解答：</p>'},
+        {contentHtml: '<pre class="code"><code>semaphore mutex_y1=1;\nthread1 {\n    wait(mutex_y1);\n}</code></pre>'},
+        {contentHtml: '<div class="table-scroll"><table><thead><tr><th>变量</th><th>给分</th></tr></thead><tbody><tr><td>y</td><td>3 分</td></tr></tbody></table></div>'}
+      ]}],
+    [sourceQuestions[2].id, {status: 'explicit', value: '旧字段',
+      solution: '已有原卷答案时不重复结构化解答', resolvedReferenceOnly: false,
+      sourceBaseUrl: '/math3-latex-2009-2019/papers/2019-answers.htm',
+      sourceContentBlocks: [
+        {contentHtml: '<div class="paragraph question">（20）当 \\(\\displaystyle a\\neq-1\\) 时成立。</div>'},
+        {contentHtml: '<pre class="tex-source">重复的 TeX 原文</pre>'}
+      ]}],
+    [sourceQuestions[3].id, {status: 'explicit',
+      sourceBaseUrl: '/exam-library/structured/papers/cs408/2009-complete.htm',
+      sourceContentBlocks: [
+        {contentHtml: '<p>41．解答：见图。</p>'},
+        {contentHtml: '<figure><img alt="第41题反例" src="../../../../cs408-latex-2009-2017/assets/figures/2009-complete-p007-b009.svg"></figure>'}
+      ]}],
+    [sourceQuestions[4].id, {status: 'explicit', resolvedReferenceOnly: true,
+      solution: '（1）当 \\(\\displaystyle 0<p<1\\) 时销售额增加。',
+      sourceBaseUrl: '/exam-library/structured/papers/math3/1996-answers.htm',
+      sourceContentBlocks: [
+        {contentHtml: '<div class="paragraph">六、【同试卷 IV 第六题】</div>'}
+      ]}]
+  ]);
+  sourceWindow.fetch = async url => ({ok: true, json: async () => {
+    if (url === '/api/v1/papers') return {papers: [sourcePaper]};
+    if (String(url).includes('/questions?')) return {paper: sourcePaper, questions: sourceQuestions};
+    return sourceAnswers.get(decodeURIComponent(String(url).split('/').at(-2)));
+  }});
+  sourceWindow.eval(sourceDoc.querySelector('head script').textContent);
+  sourceWindow.eval(fs.readFileSync(path.join(__dirname, '../ui/vendor/mathjax-3.2.2-tex-svg-full.js'), 'utf8'));
+  sourceWindow.eval(highlighter);
+  sourceWindow.eval(shared);
+  sourceWindow.eval(script);
+  await waitFor(() => !sourceDoc.getElementById('practice-panel').hidden, 'source-answer paper loaded');
+  sourceDoc.getElementById('reveal-button').click();
+  await waitFor(() => sourceDoc.querySelectorAll('#answer-panel .answer-source-block').length === 9,
+    'politics source answer loaded');
+  assert.deepEqual([...sourceDoc.querySelectorAll('#answer-panel .answer-source h2')].map(node => node.textContent),
+    ['37. 【答案】', '【考点点拨】', '【试题简析】', '【名师点拨】']);
+  assert.match(sourceDoc.querySelector('#answer-panel .answer-source').textContent,
+    /（1）爱国主义正文。[\s\S]*（2）创新创造正文。/);
+  assert.doesNotMatch(sourceDoc.getElementById('answer-panel').textContent, /压平的解析|压平的评注/);
+  assert.equal(sourceDoc.querySelector('#answer-panel script, #answer-panel img[src^="javascript:"]'), null);
+  assert.equal(sourceWindow.__unsafe, undefined);
+
+  sourceDoc.getElementById('question-jump').value = sourceQuestions[1].id;
+  sourceDoc.getElementById('question-jump').dispatchEvent(new sourceWindow.Event('change'));
+  sourceDoc.getElementById('reveal-button').click();
+  await waitFor(() => sourceDoc.querySelector('#answer-panel .answer-source pre.code > code'),
+    'CS408 source code loaded');
+  assert.match(sourceDoc.querySelector('#answer-panel pre.code').textContent, /thread1 \{\n    wait/);
+  assert.equal(sourceDoc.querySelector('#answer-panel table tr').children.length, 2);
+  assert(sourceDoc.querySelector('#answer-panel .code-token'), 'restored answer code is highlighted');
+  assert.doesNotMatch(sourceDoc.getElementById('answer-panel').textContent, /压平的代码/);
+
+  sourceDoc.getElementById('question-jump').value = sourceQuestions[2].id;
+  sourceDoc.getElementById('question-jump').dispatchEvent(new sourceWindow.Event('change'));
+  sourceDoc.getElementById('reveal-button').click();
+  await waitFor(() => sourceDoc.querySelector('#answer-panel .answer-source mjx-container svg path'),
+    'Math III source formula rendered');
+  assert.equal(sourceDoc.querySelector('#answer-panel pre.tex-source'), null);
+  assert.doesNotMatch(sourceDoc.getElementById('answer-panel').textContent, /旧字段|重复的 TeX 原文/);
+  assert.doesNotMatch(sourceDoc.getElementById('answer-panel').textContent,
+    /已有原卷答案时不重复结构化解答/);
+
+  sourceDoc.getElementById('question-jump').value = sourceQuestions[3].id;
+  sourceDoc.getElementById('question-jump').dispatchEvent(new sourceWindow.Event('change'));
+  sourceDoc.getElementById('reveal-button').click();
+  await waitFor(() => sourceDoc.querySelector('#answer-panel .answer-source figure img'),
+    'CS408 source answer figure loaded');
+  assert.equal(sourceDoc.querySelector('#answer-panel .answer-source img').getAttribute('src'),
+    '/cs408-latex-2009-2017/assets/figures/2009-complete-p007-b009.svg');
+  assert.equal(sourceDoc.querySelector('#answer-panel .answer-source img').alt, '第41题反例');
+
+  sourceDoc.getElementById('question-jump').value = sourceQuestions[4].id;
+  sourceDoc.getElementById('question-jump').dispatchEvent(new sourceWindow.Event('change'));
+  sourceDoc.getElementById('reveal-button').click();
+  await waitFor(() => sourceDoc.querySelector('#answer-panel mjx-container svg path'),
+    'resolved cross-form solution rendered');
+  assert.match(sourceDoc.getElementById('answer-panel').textContent, /同试卷 IV 第六题/);
+  assert.match(sourceDoc.getElementById('answer-panel').textContent, /对应试卷解答：/);
+  assert.match(sourceDoc.getElementById('answer-panel').textContent, /销售额增加/);
+  sourceDom.window.close();
+
+  const materialDom = new JSDOM(markup, {
+    url: 'http://127.0.0.1:8765/exam-library/practice/index.htm', runScripts: 'outside-only'
+  });
+  const materialWindow = materialDom.window;
+  const materialDoc = materialWindow.document;
+  const style = materialDoc.createElement('style');
+  style.textContent = fs.readFileSync(path.join(__dirname, 'practice.css'), 'utf8') + fs.readFileSync(path.join(__dirname, '../ui/material.css'), 'utf8');
+  materialDoc.head.append(style);
+  const materialPaper = {id: 'politics:2023-questions', title: '2023 政治',
+    category: 'politics', categoryLabel: '考研政治', year: 2023,
+    kind: 'questions', questionCount: 1};
+  const materialQuestion = {id: 'politics:2023-questions:q-36-1', number: '36',
+    questionType: 'free_response', stem: '36. 结合材料回答问题：\n材料1\n正文1\n摘自材料1\n材料2\n正文2\n摘自材料2',
+    stemParagraphs: [
+      {text: '36. 结合材料回答问题：', kind: 'paragraph'},
+      {text: '材料1', kind: 'material_label'}, {text: '正文1', kind: 'paragraph'},
+      {text: '摘自材料1', kind: 'material_source'},
+      {text: '材料2', kind: 'material_label'}, {text: '正文2', kind: 'paragraph'},
+      {text: '摘自材料2', kind: 'material_source'}
+    ], options: [], contentBlocks: [{role: 'content', text: '材料3 正文3 摘自材料3 （1）问题',
+      paragraphs: ['材料3', '正文3', '摘自材料3', '（1）问题'], styledParagraphs: [
+        {text: '材料3', kind: 'material_label'}, {text: '正文3', kind: 'paragraph'},
+        {text: '摘自材料3', kind: 'material_source'}, {text: '（1）问题', kind: 'paragraph'}
+      ]}], status: 'complete', answerStatus: 'explicit'};
+  materialWindow.fetch = async url => ({ok: true, json: async () =>
+    url === '/api/v1/papers' ? {papers: [materialPaper]} :
+      {paper: materialPaper, questions: [materialQuestion]}});
+  materialWindow.eval(shared);
+  materialWindow.eval(script);
+  await waitFor(() => !materialDoc.getElementById('practice-panel').hidden,
+    'politics material question loaded');
+  assert.deepEqual([...materialDoc.querySelectorAll('.material-label')].map(node => node.textContent),
+    ['材料1', '材料2', '材料3']);
+  assert.deepEqual([...materialDoc.querySelectorAll('.material-source')].map(node => node.textContent),
+    ['摘自材料1', '摘自材料2', '摘自材料3']);
+  assert.equal(materialWindow.getComputedStyle(materialDoc.querySelector('.material-label')).fontWeight, '700');
+  assert.equal(materialWindow.getComputedStyle(materialDoc.querySelector('.material-source')).textAlign, 'right');
+  assert.equal(materialDoc.querySelector('#question-content').textContent.match(/（1）问题/g).length, 1);
+  materialDom.window.close();
+  console.log('practice: filters, stable-id shuffle, answer status, safe content blocks, local MathJax, source-clipped image choices, redraw toggle passed');
 }
 
 main().catch(error => { console.error(error); process.exitCode = 1; });

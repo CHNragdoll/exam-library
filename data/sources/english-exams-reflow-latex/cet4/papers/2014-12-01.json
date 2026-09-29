@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2014 年12 月大学英语四级考试真题（第1 套)",
@@ -141,7 +141,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "Directions",
@@ -152,59 +152,7 @@
               ]
             },
             {
-              "text": " ：In this section, you will hear 8 short conversations and 2 long conversations. At the end of each conversation,",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "one or more questions will be asked about what was said. Both the conversation and the questions will be",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "spoken only once. After each question there will be a pause. During the pause, you must read the four",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "choices marked A), B), C) and D), and decide which is the best answer. Then mark the corresponding letter",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "on",
+              "text": " ：In this section, you will hear 8 short conversations and 2 long conversations. At the end of each conversation, one or more questions will be asked about what was said. Both the conversation and the questions will be spoken only once. After each question there will be a pause. During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer. Then mark the corresponding letter on",
               "flags": [
                 false,
                 false,
@@ -2417,7 +2365,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "People will always be giving you advice. Ultimately, though, you have to make your own",
@@ -4131,18 +4079,19 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "AD) can hardly tear themselves away from the Internet",
-              "flags": [
-                false,
-                false,
-                false
+              "label": "D",
+              "source_label": "AD)",
+              "runs": [
+                {
+                  "text": "can hardly tear themselves away from the Internet",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               ]
             }
           ]

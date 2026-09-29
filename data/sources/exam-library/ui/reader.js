@@ -31,7 +31,9 @@
   };
   const currentUrl = new URL(location.href); currentUrl.hash = '';
   const embedded = currentUrl.searchParams.get('exam-embed') === '1';
+  const openComparison = currentUrl.searchParams.get('exam-compare') === '1';
   currentUrl.searchParams.delete('exam-embed');
+  currentUrl.searchParams.delete('exam-compare');
   const storedRecent = read(RECENT_KEY, []);
   const recent = Array.isArray(storedRecent) ? storedRecent : [];
   const previous = recent.find(item => item && item.url === currentUrl.href);
@@ -745,7 +747,10 @@
     compareButton.type = 'button'; compareButton.setAttribute('aria-pressed', 'false');
     compareButton.addEventListener('click', () => comparing ? exitComparison() : enterComparison());
   }
-  append(versions, ...(isSvg ? [active, alternative] : [alternative, active]), compareButton);
+  const fullPaper = ['questions', 'complete'].includes(config.kind)
+    ? link('整卷版', config.fullPaperHref, 'reader-version reader-version-full-paper') : null;
+  if (fullPaper) fullPaper.setAttribute('href', config.fullPaperHref);
+  append(versions, ...(isSvg ? [active, alternative] : [alternative, active]), compareButton, fullPaper);
   append(top, identity, versions);
   const controls = el('div', 'reader-controls');
   const tocLabel = el('label', 'reader-toc-label');
@@ -934,6 +939,7 @@
   }
   // A newly opened paper always starts normally. Resume is an explicit catalog action.
   const ready = () => {
+    if (openComparison) { enterComparison(); return; }
     if (location.hash === '#resume' && previous) {
       const range = contentRange();
       const target = typeof previous.progress === 'number' && Number.isFinite(previous.progress) ? range.start + clamp(previous.progress, 0, 1) * range.length : Math.max(0, Number(previous.scrollY) || 0);

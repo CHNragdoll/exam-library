@@ -234,7 +234,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Gestures",
@@ -1262,15 +1262,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "the one that best completes the sentence or answers the question. Mark your answers on ANSWER SHEET TWO.",
               "flags": [
@@ -1501,12 +1498,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "commercialism and consumerism.",
               "flags": [
@@ -1584,12 +1584,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "equipment towed from ships.",
               "flags": [
@@ -1667,12 +1670,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "and medals awarded.",
               "flags": [
@@ -1797,7 +1803,7 @@
                   ]
                 },
                 {
-                  "text": ", she didn’t get an",
+                  "text": ", she didn’t get an A.",
                   "flags": [
                     false,
                     false,
@@ -1834,15 +1840,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
-            {
-              "label": "A",
-              "runs": []
             },
             {
               "label": "D",
@@ -1901,12 +1898,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "to indicate ______.",
               "flags": [
@@ -1984,12 +1984,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "sentence is used to ______.",
               "flags": [
@@ -2300,12 +2303,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "rainforest.",
               "flags": [
@@ -2453,12 +2459,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "knowledge of life in the Bronze Age.",
               "flags": [
@@ -2536,12 +2545,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "the creation of the largest refugee population worldwide today.",
               "flags": [
@@ -2705,12 +2717,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "humanity at all costs.",
               "flags": [
@@ -2788,12 +2803,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "than learning its meaning.",
               "flags": [
@@ -2941,12 +2959,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "have been ______.",
               "flags": [
@@ -7367,7 +7388,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7385,7 +7406,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7403,7 +7424,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7421,7 +7442,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7439,7 +7460,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7457,7 +7478,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7475,7 +7496,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7493,7 +7514,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7511,7 +7532,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7529,7 +7550,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7547,7 +7568,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7565,7 +7586,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7583,7 +7604,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7601,7 +7622,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7619,7 +7640,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7637,7 +7658,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7655,7 +7676,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7673,7 +7694,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7691,7 +7712,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7709,7 +7730,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7727,7 +7748,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7745,7 +7766,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7763,7 +7784,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7781,7 +7802,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7799,7 +7820,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7817,7 +7838,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7835,7 +7856,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7853,7 +7874,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7871,7 +7892,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7889,7 +7910,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7907,7 +7928,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7925,7 +7946,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7943,7 +7964,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7961,7 +7982,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7979,7 +8000,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -7997,7 +8018,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8015,7 +8036,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8033,7 +8054,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8051,7 +8072,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8069,7 +8090,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8087,7 +8108,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8105,7 +8126,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8123,7 +8144,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8141,7 +8162,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8159,7 +8180,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8177,7 +8198,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8195,7 +8216,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8213,7 +8234,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8231,7 +8252,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8249,7 +8270,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8267,7 +8288,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8285,7 +8306,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8303,7 +8324,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8321,7 +8342,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8339,7 +8360,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8357,7 +8378,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8375,7 +8396,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8393,7 +8414,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8411,7 +8432,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8429,7 +8450,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8447,7 +8468,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8465,7 +8486,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8483,7 +8504,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8501,7 +8522,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8519,7 +8540,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8537,7 +8558,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8555,7 +8576,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8573,7 +8594,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8591,7 +8612,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8609,7 +8630,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8627,7 +8648,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8645,7 +8666,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8663,7 +8684,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8681,7 +8702,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8699,7 +8720,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8717,7 +8738,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8735,7 +8756,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8753,7 +8774,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8771,7 +8792,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8789,7 +8810,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8807,7 +8828,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8825,7 +8846,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8843,7 +8864,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8861,7 +8882,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8879,7 +8900,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8897,7 +8918,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8915,7 +8936,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8933,7 +8954,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8951,7 +8972,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8969,7 +8990,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -8987,7 +9008,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9005,7 +9026,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9023,7 +9044,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9041,7 +9062,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9059,7 +9080,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9077,7 +9098,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9095,7 +9116,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9113,7 +9134,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9131,7 +9152,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9149,7 +9170,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9167,7 +9188,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9185,7 +9206,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9203,7 +9224,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9221,7 +9242,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9239,7 +9260,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9257,7 +9278,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9275,7 +9296,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9293,7 +9314,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9311,7 +9332,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9329,7 +9350,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9347,7 +9368,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9365,7 +9386,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9383,7 +9404,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9401,7 +9422,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9419,7 +9440,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9437,7 +9458,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9455,7 +9476,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9473,7 +9494,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9491,7 +9512,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9509,7 +9530,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9527,7 +9548,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9545,7 +9566,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9563,7 +9584,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9581,7 +9602,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9599,7 +9620,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9617,7 +9638,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9635,7 +9656,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9653,7 +9674,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9671,7 +9692,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9689,7 +9710,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9707,7 +9728,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9725,7 +9746,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9743,7 +9764,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9761,7 +9782,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9779,7 +9800,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9797,7 +9818,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9815,7 +9836,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9833,7 +9854,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9851,7 +9872,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9869,7 +9890,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9887,7 +9908,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9905,7 +9926,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9923,7 +9944,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9941,7 +9962,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         },
         {
           "page": 8,
@@ -9959,7 +9980,7 @@
           ],
           "font_size": 9.96037483215332,
           "unicode": null,
-          "reason": "source line contains unreliable OCR/font encoding"
+          "reason": "source gloss or line contains unreliable font encoding"
         }
       ],
       "source_page": 8,
@@ -10007,7 +10028,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "Preparing for College Interviews",
@@ -10020,14 +10041,7 @@
           ]
         },
         {
-          "type": "source_line",
-          "bbox": [
-            75.31999969482422,
-            243.68295288085938,
-            480.4001159667969,
-            603.144775390625
-          ],
-          "font_size": 11.040450096130371,
+          "type": "paragraph",
           "runs": [
             {
               "text": "First way of practicing",
@@ -10036,7 +10050,19 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "source_line",
+          "bbox": [
+            75.31999969482422,
+            259.9683837890625,
+            480.0400695800781,
+            323.66473388671875
+          ],
+          "font_size": 11.040450096130371,
+          "runs": [
             {
               "text": "�",
               "flags": [
@@ -10132,7 +10158,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— who applies for the same school with (3) ______ (3) ________",
               "flags": [
@@ -10140,7 +10171,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— who is willing to be (4) ______ (4) ________",
               "flags": [
@@ -10148,7 +10184,19 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "source_line",
+          "bbox": [
+            75.31999969482422,
+            358.6083679199219,
+            229.48077392578125,
+            372.9847106933594
+          ],
+          "font_size": 11.040450096130371,
+          "runs": [
             {
               "text": "�",
               "flags": [
@@ -10172,7 +10220,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— (5) ______ with your partner (5) ________",
               "flags": [
@@ -10180,7 +10233,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— seeing your partner’s (6) ______ (6) ________",
               "flags": [
@@ -10188,7 +10246,19 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "source_line",
+          "bbox": [
+            75.31999969482422,
+            407.9283752441406,
+            315.00738525390625,
+            422.3047180175781
+          ],
+          "font_size": 11.040450096130371,
+          "runs": [
             {
               "text": "�",
               "flags": [
@@ -10212,7 +10282,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— letting you know how (7) ______ your responses were (7) ________",
               "flags": [
@@ -10220,7 +10295,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— pointing out specifically where you (8) ______ (8) ________",
               "flags": [
@@ -10228,7 +10308,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Second way of practicing",
               "flags": [
@@ -10236,7 +10321,19 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "source_line",
+          "bbox": [
+            75.31999969482422,
+            490.1283874511719,
+            480.0400695800781,
+            520.9447631835938
+          ],
+          "font_size": 11.040450096130371,
+          "runs": [
             {
               "text": "�",
               "flags": [
@@ -10284,7 +10381,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "Using both approaches",
               "flags": [
@@ -10292,7 +10394,19 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "source_line",
+          "bbox": [
+            75.31999969482422,
+            555.888427734375,
+            259.9701232910156,
+            570.2647705078125
+          ],
+          "font_size": 11.040450096130371,
+          "runs": [
             {
               "text": "�",
               "flags": [
@@ -10316,7 +10430,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— asking your partner questions",
               "flags": [
@@ -10324,7 +10443,12 @@
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "— (10) ______ (10) ________",
               "flags": [
@@ -10628,12 +10752,12 @@
         }
       ],
       "source_page": 9,
-      "inline_glyphs": 1
+      "inline_glyphs": 5
     },
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2023",
@@ -10644,20 +10768,7 @@
               ]
             },
             {
-              "text": "年英语专业四级真题补充卷",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "说明：本次考试全国出现了两套试题，其中LANGUAGE USAGE的部分试题和CLOZE的试题不同，现将其补充如下：",
+              "text": "年英语专业四级真题补充卷说明：本次考试全国出现了两套试题，其中LANGUAGE USAGE的部分试题和CLOZE的试题不同，现将其补充如下：",
               "flags": [
                 false,
                 false,
@@ -10705,15 +10816,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "the one that best completes the sentence or answers the question. Mark your answers on ANSWER SHEET TWO.",
               "flags": [

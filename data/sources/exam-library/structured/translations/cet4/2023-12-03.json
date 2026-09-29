@@ -1,0 +1,3463 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2023-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+  "sourcePdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+  "paragraphs": [
+    {
+      "id": "cet4:2023-12-03:p:b-1-3",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "ac15d59bf3ffce53cf49cfe2fd593b69b2afb4ef694ab1ace1e3c19ac2eeea19",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：假设大学报纸正在邀请学生为即将出版的给他们留下最深刻印象的校园活动投稿。您现在需要写一篇论文以供提交。你将有 30 分钟的时间来写这篇文章。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-8",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-9",
+      "paperId": "cet4:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "When people set out to improve their health, they usually take a familiar path: starting a healthy diet, getting better sleep, and doing regular exercise. Each of these behaviors is important, of course, but they all 26 on physical health — and a growing body of research suggests that social health is just as, if not more, important to 27 well-being.",
+      "sourceHash": "0a4a668a0e9066bdb55876df0c82e9a6600ef7a6a3619a05d32b896bb5959b27",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当人们开始改善健康时，他们通常会采取熟悉的途径：开始健康饮食、改善睡眠和定期锻炼。当然，这些行为都很重要，但它们都关注身体健康——越来越多的研究表明，社会健康对于整体福祉同样重要，甚至更重要。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "One recent study published in the journal PLOS ONE, for example, found that the strength of a person’s social circle was a better 28 of self-reported stress, happiness and well-being levels than fitness tracker data on physical activity, heart rate and sleep. That finding suggests that the “ 29 self” represented by endless amounts of health data doesn’t tell the whole 30 .",
+      "sourceHash": "ebcbdae77d193d60a3de4935c2113391cde12611875a6e5de5ee50363a09af3f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "例如，最近发表在《PLOS ONE》杂志上的一项研究发现，与身体活动、心率和睡眠方面的健身追踪器数据相比，一个人的社交圈强度更能反映自我报告的压力、幸福感和幸福水平。这一发现表明，由无数健康数据所代表的“量化自我”并不能说明全部情况。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-11",
+      "paperId": "cet4:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "There’s also a qualified self, which is who I am, what are my activities, my social network, and all of these aspects are not 31 in any of these measurements.",
+      "sourceHash": "d3900688055685f134ed9a87a2864c8e0712cd9ab690d5a10b99a3acf10ea7b0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "还有一个合格的自我，就是我是谁，我的活动是什么，我的社交网络，所有这些方面都没有反映在任何这些测量中。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-12",
+      "paperId": "cet4:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "This idea is supported by plenty of 32 research. Studies have shown that social support — whether it comes from friends, family members or a spouse — is 33 associated with better mental and physical health. A rich social life, these studies suggest, can lower stress levels, improve mood, encourage positive health behaviors and discourage damaging ones, boost heart health and improve illness 34 rates.",
+      "sourceHash": "414285863943ba19af43608d38a69375450f7059349d22965b35df38da7cec32",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这个想法得到了大量先前研究的支持。研究表明，社会支持——无论是来自朋友、家人还是配偶——与更好的身心健康密切相关。这些研究表明，丰富的社交生活可以降低压力水平，改善情绪，鼓励积极的健康行为并阻止有害的行为，促进心脏健康并提高疾病康复率。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-1-13",
+      "paperId": "cet4:2023-12-03",
+      "kind": "cloze",
+      "sourceText": "Social isolation, meanwhile, is linked to higher rates of physical diseases and mental health conditions. It’s a significant problem, 35 since loneliness is emerging as a widespread public health problem in many countries.",
+      "sourceHash": "54401ca2abe69d186ffde7162f93222ac63ba6d649b1d01b771be67ee24769b9",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与此同时，社会隔离与身体疾病和心理健康状况的增加有关。这是一个严重的问题，特别是因为孤独正在成为许多国家普遍存在的公共卫生问题。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-2",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-3",
+      "paperId": "cet4:2023-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Teenagers and social networking",
+      "sourceHash": "ff7e9a91050d4aecbc85eda98d2051b4c9324663d234042e3e1c04b2c6e12080",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "青少年和社交网络",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-4",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "A) As a parent of two boys at primary school, I worry about the issues associated with teenagers and social media. Newspapers are constantly filled with frightening accounts of drug addiction and aggressive behaviour supposedly caused by violent videogames. But even when these accounts touch on real concerns, they do not really reflect the great mass of everyday teenage social behaviour: the online chat, the texting, the surfing, and the emergence of a new teenage sphere that is conducted digitally.",
+      "sourceHash": "484c00d0c680da110cd68c65b6f5aa9eb63ffcc24abc8fb5b18b7df3ecfe6355",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答）作为两个小学男孩的家长，我担心与青少年和社交媒体相关的问题。报纸上不断充斥着有关吸毒成瘾和据称由暴力电子游戏引起的攻击行为的可怕报道。但即使这些账户触及真正的问题，它们也不能真正反映青少年日常社交行为的大量情况：在线聊天、发短信、冲浪以及以数字方式进行的新青少年领域的出现。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-5",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "B) New technologies always provoke generational panic, which usually has more to do with adult fears than with the lives of teenagers. In the 1930s, parents worried that radio was gaining “an irresistible hold of their children”. In the 80s, the great danger was the Sony Walkman (随身听). When you look at today’s digital activity, the facts are much more positive than you might expect.”",
+      "sourceHash": "57af30a4db0880418830df3aca6e0c2dfe1ce4df57e5b7652b068d299876ba93",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 新技术总是会引起几代人的恐慌，这通常更多地与成年人的恐惧有关，而不是与青少年的生活有关。 20 世纪 30 年代，父母担心广播“对他们的孩子产生不可抗拒的影响”。 80年代，最大的危险是索尼随身听。当你观察当今的数字活动时，事实比你想象的要积极得多。”",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-6",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "C) Indeed, social scientists who study young people have found that their digital use can be inventive and even beneficial. This is true not just in terms of their social lives, but their education too. So if you use a ton of social media, do you become unable, or unwilling, to engage in face-to-face contact? The evidence suggests not. Research by Amanda Lenhart of the Pew Research Centre, a U.S. think tank, found that the most passionate texters are also the kids most likely to spend time with friends in person. One form of socialising doesn’t replace the other. It expands it.",
+      "sourceHash": "c21f6baddbd9dc0b93058db7c3c195aa24cb8c8082a30420c7e91878e4f1fb3a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 事实上，研究年轻人的社会科学家发现，他们的数字化使用可以是创造性的，甚至是有益的。这不仅体现在他们的社交生活方面，而且体现在他们的教育方面。那么，如果您使用大量社交媒体，您是否会变得无法或不愿意进行面对面的接触？证据表明并非如此。美国智库皮尤研究中心的阿曼达·伦哈特 (Amanda Lenhart) 进行的研究发现，最热情的发短信者也是最有可能花时间与朋友面对面交流的孩子。一种社交形式并不能取代另一种形式。它扩展了它。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-7",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "D) “Kids still spend time face to face,” Lenhart says. Indeed, as they get older and are given more freedom, they often ease up on social networking. Early on, the web is their “third space”, but by the late teens, it’s replaced in reaction to greater independence. They have to be on Facebook, to know what’s going on among friends and family, but they are ambivalent (有矛盾心理的) about it, says Rebecca Eynon, a research fellow at the Oxford Internet Institute, who has interviewed about 200 British teenagers over three years. As they gain experience with living online, they begin to adjust their behaviour, struggling with new communication skills, as they do in the real world.",
+      "sourceHash": "f76034b50ef9eb3d5453cd6dbf67e1489040a7f0ebabe8f1d5a11f80928ce4ff",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）“孩子们仍然花时间面对面交流，”伦哈特说。事实上，随着年龄的增长并获得更多的自由，他们通常会放松社交网络。早期，网络是他们的“第三空间”，但到了青少年后期，为了获得更大的独立性，网络被取代。牛津互联网研究所研究员丽贝卡·艾农 (Rebecca Eynon) 在三年内采访了大约 200 名英国青少年，她说，他们必须上 Facebook，才能了解朋友和家人之间发生的事情，但他们对此持矛盾心理。当他们获得网上生活的经验时，他们开始调整自己的行为，努力学习新的沟通技巧，就像在现实世界中一样。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-8",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) Parents are wrong to worry that kids don’t care about privacy. In fact, they spend hours changing Facebook settings or using quick-delete sharing tools, such as Snapchat, to minimise their traces. Or they post a photograph on Instagram, have a pleasant conversation with friends and then delete it so that no traces remain.",
+      "sourceHash": "64afd1539307640091d57fd9a7491ce0052630fe65600dcb86a957eeddbd82a8",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 父母担心孩子不关心隐私是错误的。事实上，他们花费数小时更改 Facebook 设置或使用快速删除共享工具（例如 Snapchat），以最大程度地减少他们的痕迹。或者他们在 Instagram 上发布一张照片，与朋友愉快地交谈，然后将其删除，以免留下任何痕迹。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-9",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) This is not to say that kids always use good judgment. Like everyone else, they make mistakes — sometimes serious ones. But working out how to behave online is a new social skill. While there’s plenty of drama and messiness online, it is not, for most teens, a cycle of non-stop abuse: a Pew study found only 15% of teens said someone had bullied them online in the last 12 months.",
+      "sourceHash": "3a06cf566099c12b45ca076617bd534f1be498d0da1c686710b2b14ca5d77363",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 这并不是说孩子们总是有良好的判断力。和其他人一样，他们也会犯错误——有时是严重的错误。但了解如何在网上表现是一项新的社交技能。虽然网络上充满了戏剧性和混乱，但对于大多数青少年来说，这并不是一个不间断的虐待循环：皮尤研究中心的一项研究发现，只有 15% 的青少年表示在过去 12 个月内有人在网上欺负过他们。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-2-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) But surely all this short-form writing is affecting literacy? Certainly, teachers worry. They say that kids use overly casual language and text-speak in writing, and don’t have as much patience for long reading and complex arguments. Yet studies of first-year college papers suggest these anxieties may be partly based on misguided nostalgia (怀旧). When Stanford University scholar Andrea Lunsford gathered data on the rates of errors in “freshman composition” papers going back to 1917, she found that they were virtually identical to today.",
+      "sourceHash": "8b0c6d1863bf8d07854622964ddfcb0474870dc6076e82f456decda14125bd61",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-2-10",
+        "cet4:2023-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 但所有这些简短的写作肯定会影响读写能力吗？当然，老师们也担心。他们说，孩子们在写作中使用过于随意的语言和文本口语，对于长时间的阅读和复杂的论证没有太多的耐心。然而，对一年级大学论文的研究表明，这些焦虑可能部分是基于错误的怀旧情绪。当斯坦福大学学者 Andrea Lunsford 收集了 1917 年以来“新生作文”论文的错误率数据时，她发现这些数据与今天几乎相同。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-2",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) But even as error rates stayed stable, student essays have blossomed in size and complexity. They are now six times longer and, unlike older “what I did this summer” essays, they offer arguments supported by evidence. Why? Computers have vastly increased the ability of students to gather information, sample different points of view and write more fluidly.",
+      "sourceHash": "7e6c6c4830568fab23d0b0bb3b6a96da147278d0911a98fff29e4ba798d392a1",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 但即使错误率保持稳定，学生论文的规模和复杂性却不断增加。它们现在的长度是以前的六倍，与之前的“我今年夏天做了什么”文章不同，它们提供了有证据支持的论点。为什么？计算机极大地提高了学生收集信息、吸收不同观点以及更流畅写作的能力。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-3",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) When linguist Naomi Baron studied students’ instant messaging even there she found surprisingly rare usage of short forms such as “u” for “you”, and as students got older, they began to write in more grammatical sentences. That is because they want to appear more adult, and they know how adults are expected to write. Clearly, teaching teens formal writing is still crucial, but texting probably isn’t destroying their ability to learn it.",
+      "sourceHash": "e877694caedbf443d0d8d0fa266a574aac3683edf7b9062d855f160fd8793d53",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 当语言学家 Naomi Baron 研究学生的即时消息时，她发现了令人惊讶的罕见用法，例如“u”代表“you”，并且随着学生年龄的增长，他们开始用更符合语法的句子写作。那是因为他们想显得更成熟，并且他们知道成年人应该如何写作。显然，教青少年正式写作仍然至关重要，但发短信可能不会破坏他们学习写作的能力。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-4",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) It is probably true that fewer kids are heavy readers compared with two generations ago, when cheap paperbacks boosted rates of reading. But even back then, a minority of people — perhaps 20% — were lifelong heavy readers, and it was cable TV, not the internet, that struck a blow at that culture in the 1980s. Still, 15% or more of kids are found to be deeply bookish. In fact, the online world offers kids remarkable opportunities to become literate and creative because young people can now publish ideas not just to their friends, but to the world. And it turns out that when they write for strangers, their sense of “authentic audience” makes them work harder, push themselves further, and create powerful new communicative forms.",
+      "sourceHash": "b760eaecbc58d9e6b4077c6645250acf04b03d4dcfb9f1ae26065bc586ce57b0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 与两代人之前相比，当时廉价的平装书提高了阅读率，重度阅读的孩子可能确实减少了。但即使在那时，也有少数人（也许是 20%）是终生的重度读者，而在 20 世纪 80 年代对这种文化造成打击的是有线电视，而不是互联网。尽管如此，还是有 15% 或更多的孩子被发现有严重的书呆子气。事实上，网络世界为孩子们提供了培养识字能力和创造力的绝佳机会，因为年轻人现在不仅可以向他们的朋友发表想法，还可以向全世界发表想法。事实证明，当他们为陌生人写作时，“真实读者”的感觉使他们更加努力，推动自己走得更远，并创造出强大的新交流形式。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-5",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Few would deny that too much time online can be harmful. Some of the dangers are emotional: hurting someone from a distance is not the same as hurting them face to face. If we’re lucky, the legal environment will change to make teenagers’ online lives less likely to haunt them later on. Just last week, California passed a law allowing minors to demand that internet firms erase their digital past and the EU has considered similar legislation.",
+      "sourceHash": "c492e3b672195182b7e8ac1166270819bf8b439a4e6ecf79dac1246874a07439",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 很少有人会否认上网时间过多可能有害。有些危险是情感上的：远距离伤害某人与面对面伤害他们不同。如果我们幸运的话，法律环境将会发生变化，使青少年的网络生活不太可能在以后困扰他们。就在上周，加州通过了一项法律，允许未成年人要求互联网公司删除他们的数字历史，欧盟也考虑了类似的立法。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-6",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "L) Distraction is also a serious issue. When kids switch from chat to music to homework, they are indeed likely to have trouble doing each task well. And studies show that pupils don’t fact-check information online — “smart searching” is a skill schools need to teach urgently. It’s also true that too much social networking and game playing can cut into schoolwork and sleep. This is precisely why parents still need to set firm boundaries around it, as with any other distraction.",
+      "sourceHash": "df056cd884c25b536a05ee8196090a75a0a87b7fb45e87c3130860a695e22a06",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 分心也是一个严重的问题。当孩子们从聊天转向音乐再到做作业时，他们确实可能很难做好每项任务。研究表明，学生不会对网上信息进行事实核查——“智能搜索”是学校迫切需要教授的一项技能。过多的社交网络和游戏确实会影响功课和睡眠。这正是为什么父母仍然需要在它周围设定严格的界限，就像任何其他分心的事情一样。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-7",
+      "paperId": "cet4:2023-12-03",
+      "kind": "passage_option",
+      "sourceText": "M) So what’s the best way to cope? The same boring old advice that applies to everything in parenting: moderation. Rebecca Eynon argues that it’s key to model good behaviour. Parents who stare non-stop at their phones and don’t read books are likely to breed kids who will do the same. As ever, we ought to be careful about our own behaviour.",
+      "sourceHash": "8a0f312faa4d228b8087ec32fe99aa790547eeab6b2a19690bcaad8dfcf8be94",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M）那么最好的应对方法是什么？同样无聊的老建议适用于养育子女的一切：适度。丽贝卡·艾农 (Rebecca Eynon) 认为，树立良好行为榜样是关键。不停地盯着手机而不读书的父母很可能会培养出同样行为的孩子。一如既往，我们应该小心自己的行为。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-8",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Research has found the use of digital technology benefits not only teenagers’ social lives but also their studies.",
+      "sourceHash": "686658a8052a83a36b12b012c338c57a879fc840bf271b449701b013170623d2",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 研究发现，数字技术的使用不仅有利于青少年的社交生活，也有利于他们的学习。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-9",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. It is urgent that schools teach kids how to verify online information.",
+      "sourceHash": "0493a10d087c17323366634546ad4b5dc5a3b4ad51b63ef35a0a0258409eef28",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 学校教孩子如何验证在线信息刻不容缓。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. Students now write longer and more complex essays than their counterparts in previous decades while the error rates remain unchanged.",
+      "sourceHash": "358ef8013ca7b667289d60d202fba23f565d694ab3595d52756bc9620a0371d1",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 与过去几十年的同行相比，现在的学生写的论文更长、更复杂，而错误率却保持不变。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-11",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Newspaper reports of teenagers give a false picture of their behaviour.",
+      "sourceHash": "86aa6ae08d1e6d2d06ab05305c94592a634cc95aceaeb83065d79320f1483d1a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 报纸对青少年的报道对他们的行为作出了错误的描述。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-12",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Parents are advised to mind their own digital behaviour and set a good example for their kids.",
+      "sourceHash": "20004cdb0dda959b5cb631687b5404be39c9d5dc833a6bee82e742654dbd7b55",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 建议家长注意自己的数字行为，为孩子树立好榜样。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-13",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. Contrary to parents’ belief, kids try hard to leave as few traces as possible on the web.",
+      "sourceHash": "be0a575976334a24b55ff3cb4da3a4b5a0828ede0f9ecdf38d87810a42cc848e",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 与父母的看法相反，孩子们努力在网络上留下尽可能少的痕迹。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-3-14",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Students’ ability to learn formal writing is unlikely to be affected by texting.",
+      "sourceHash": "7395d7b8a2e3d35ecbe03d746a8035b35208fdfb4276b50b741eb091188f42f0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 学生学习正式写作的能力不太可能受到短信的影响。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-1",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Historically, new technologies have always caused great fears among parents.",
+      "sourceHash": "c4d6af7a91dadfe1740308052e2f09d1c6cf871a136805040f8b64302e8a4b69",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 从历史上看，新技术总是引起家长的极大恐惧。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-2",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. The reading culture was seriously affected by cable television some four decades ago.",
+      "sourceHash": "1d4b4bef8cfabb772dc72874f16b3473a1df9f2f90ec2c733ec219baa1d94a0b",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 大约四十年前，阅读文化受到有线电视的严重影响。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-3",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Teachers say that kids’ writing is too casual, using language characteristic of text messages.",
+      "sourceHash": "5d4d71dffc269eb3e0deae7a9ee9ac6ba3c62eeed6a89d72eaddbd6861c10ef0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 老师说孩子们的写作太随意，使用短信语言特征。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-5",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-7",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-8",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time.",
+      "sourceHash": "4ff96c5da140a33cc17e4ac599492262f72bc0be8a1c0110e3c7e91804b07ce4",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在赛马史上，很少有马匹能像红朗姆酒那样赢得英国公众的喜爱。如今，在他退休三十年后，他仍然是有史以来最著名、最受欢迎的赛马之一。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-9",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Red Rum was passed around to several owners before being purchased for Noel Le Mar. The agent who made the purchase was the now-legendary horse trainer Donald “Ginger” McCain.",
+      "sourceHash": "2853679e989a32351672a987c5e3a2de3a841ff65d4e91e3c5cc061c70cb286c",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "红朗姆酒在被诺埃尔·勒马尔 (Noel Le Mar) 购买之前，曾被转手数位所有者。购买该红朗姆酒的经纪人是现在的传奇驯马师唐纳德·“金杰”·麦凯恩 (Donald “Ginger” McCain)。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "It wasn’t apparent at the time, but Red Rum had a serious bone disease in his foot. For many horses (and many trainers) this would mean the end of a racing career before it even began. For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome.",
+      "sourceHash": "eb18687f9fe75835344293bde36fb092842098a3d7d15d8d00d2405bd2339b29",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当时并不明显，红朗姆酒的脚部患有严重的骨病。对于许多马匹（以及许多驯马师）来说，这意味着赛马生涯在开始之前就已经结束了。然而，对于金杰和红朗姆酒来说，这只是必须克服的通往伟大的障碍。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-11",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Red Rum’s true talent came out in steeplechases (障碍赛马). His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive firsts since Reynoldstown in 1935 - 1936. Red Rum’s spirit and grace had already begun to charm the leagues of Grand National fans.",
+      "sourceHash": "8146f255b5d217ae7c08e565c589076df7f91327f70a0ed0aee0c3bd49746d04",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "红朗姆酒的真正才华是在障碍赛马中体现出来的。 1973 年，他的力量、速度和跳跃能力使他首次夺得全国大赛冠军。第二年，红朗姆酒重返赛场，夺得第二个冠军。他是自 1935 年至 1936 年雷诺兹敦以来第一匹连续获得第一的马。红朗姆酒的精神和优雅已经开始吸引全国大赛的粉丝。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-12",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "In the following two years, Red Rum lost out on the title, coming in second both times. When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly. He surprised sporting fans around the world when he came in a remarkable 25 lengths ahead of the nearest horse, taking his third Grand National win. To this day, Red Rum’s third win is known as one of the greatest moments in horse racing history.",
+      "sourceHash": "7203112e6e3a4d2485eb574b3d7aa7928a1b940eab17f1b26a9b29ea279ccc4c",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在接下来的两年里，红朗姆酒失去了冠军头衔，两次都屈居第二。当他于 1977 年再次尝试时，人们普遍认为他已经过了巅峰期。他当时 12 岁，人们对他的排名并不高。当他领先最近的马匹 25 个马位时，他赢得了他的第三次全国大赛冠军，令全世界的体育迷感到惊讶。时至今日，红朗姆酒的第三场胜利仍被誉为赛马历史上最伟大的时刻之一。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-13",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Red Rum was headed for the Grand National once again in 1978 but suffered an injury in one of his heels shortly before the race. He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at charity benefits and public events.",
+      "sourceHash": "98a3e1622d7426e2dd486cf59e31c7f5b4f894ddccd4fa2818036b9dbc825d7f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "1978 年，红朗姆再次参加全国大赛，但在比赛前不久，一只脚后跟受伤。他很快就退休了，但他的公众生活和名气并没有随着他职业生涯的结束而减少。红朗姆酒前往全国各地参加各种活动。他经常在安特里赛马场主持赛前游行，并且是慈善福利和公共活动中的热门嘉宾。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-14",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do we learn from the passage about Red Rum the racehorse?",
+      "sourceHash": "108c674c5b546b28e3d8f85e3c86e3f2a1d739e2392ddf8d1fcc988b94d351a3",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.我们从有关赛马红朗姆酒的段落中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-4-16",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What did the serious bone disease in Red Rum’s foot mean to himself and his trainer?",
+      "sourceHash": "016b6e01fd0963f180f84c48871db2d09ac334a4e7bf7213e5c86eaefaf50d19",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 红朗姆脚部严重的骨病对他和他的训练师来说意味着什么？",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-2",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does the author say Red Rum did with his power, speed and jumping ability?",
+      "sourceHash": "92ba88dfad2eee6f74f5a6d7a80473d2b739ad173aef63d93269e59b5dd69b7a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 作者认为红朗姆酒的力量、速度和跳跃能力如何？",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-4",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What did people generally think of Red Rum when he returned to the racecourse in 1977?",
+      "sourceHash": "43bafbd1534ce168dbda3657589bb6dbcc87620bd3bf2b79cec617c52f6509de",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 当红朗姆酒1977年重返赛马场时，人们普遍对他有何看法？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-6",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What became of Red Rum after his career ended?",
+      "sourceHash": "4c9f50ee5cf1417fb812cf3e3ad0124447119f5bd258d490d4eb4079f4dbc670",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 职业生涯结束后，红朗姆酒怎么样了？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-9",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "People in business often make decisions based on their own personal feelings or instincts. It is quite horrifying to see people being guided by some unknown force. But how wise is it, really, to let your instincts drive your decisions?",
+      "sourceHash": "8a8d178e0f44b1ec91ae84300c8882a0c608841b130831c889d84160d243428f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "商界人士常常根据自己的个人感受或直觉做出决定。看到人们被某种未知的力量引导是相当可怕的。但让直觉驱动你的决定到底有多明智呢？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-11",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "In the decision-making process, relying on instincts only makes sense when you have a vast experience to support you. Simply “feeling” that something is right or should be done is highly subjective and can drown you.",
+      "sourceHash": "e67e27a8d9d444db6ad500c1d83ede0e9dd0d1a99347e677b70068b00ac3a944",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在决策过程中，只有当您有丰富的经验支持时，依靠直觉才有意义。简单地“感觉”某件事是正确的或应该做是非常主观的，可能会淹没你。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-12",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "On the other hand, there is a more rational approach to making decisions. Data and analysis have long been associated with informed decisions. These reduce the likelihood of errors and increase the chances of success. Big, systematic data is mostly the foundation of most of our decisions, personal and business alike. But with its extreme usability comes a complication: what do you do if you strongly feel something should not be done, even if the data insists that it should?",
+      "sourceHash": "110bf9d410de856aa7b87a9578b0d968e821116a6bc541866e780e4fc97f533a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "另一方面，有更理性的决策方法。数据和分析长期以来一直与明智的决策联系在一起。这些可以减少出错的可能性并增加成功的机会。大的、系统的数据是我们大多数个人和商业决策的基础。但它的极端可用性带来了一个复杂性：如果你强烈觉得某件事不应该做，即使数据坚持认为应该做，你该怎么办？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-13",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "This seemingly easy question is what drives the need to understand the relationship between instincts and data in the decision-making process. Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions.",
+      "sourceHash": "766c0658d5dfa3465f476536faafe4c4c06afc7438aefb4fe8265b8a63e06d4d",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这个看似简单的问题却推动了在决策过程中理解本能与数据之间关系的需求。在不让事情变得复杂的情况下，解决这一困境的方法是结合使用数据和直觉来做出最佳决策。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-14",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Instinctive decisions are always backed by previous experiences or information, which acknowledges that instinctive decisions have worked in the past. Decisions are not about making the choice and braving the consequences because you want to blindly trust your instincts. They are about combining your inner wisdom with the knowledge of systematic data to make the best decisions.",
+      "sourceHash": "eee394488989e96f3f6992bbe92a59d947888095a0911e5ace9ef79f94288fef",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "本能的决定总是得到以前的经验或信息的支持，这承认本能的决定在过去是有效的。决策并不是做出选择并承担后果，因为你想盲目地相信自己的直觉。它们是将您的内在智慧与系统数据知识相结合，以做出最佳决策。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-5-15",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Sometimes, rational analysis and data are impractical to be employed in certain situations. Absence of definitive criteria, and time and resource constraints, and novel situations are instances which limit the practicality of data. The only feasible option is to rely on what your instincts tell you. In these situations, instincts can help you make effective and quick decisions.",
+      "sourceHash": "e2c3445167d239e488a3d492468e4a28a55ac37f5cdbf32bb9ab85f534d35be7",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "有时，在某些情况下使用理性分析和数据是不切实际的。缺乏明确的标准、时间和资源的限制以及新颖的情况都是限制数据实用性的例子。唯一可行的选择是依靠你的直觉告诉你的。在这些情况下，直觉可以帮助您做出有效且快速的决策。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-1",
+      "paperId": "cet4:2023-12-03",
+      "kind": "reading",
+      "sourceText": "Combining instinctive and rational analysis produces well-rounded decisions. It reduces the chances of making mistakes, and has increasingly become a favorite approach to decision-making among leaders of today.",
+      "sourceHash": "276408ddb17fa1e79194b9a875955d8b0d9379c7bd9f4656f0f5c4ad5d864c8e",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "结合本能和理性分析可以产生全面的决策。它减少了犯错误的机会，并且越来越成为当今领导者最喜欢的决策方法。",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-2",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What does the author say businesspeople often do?",
+      "sourceHash": "f0d244911b263edad6dec71ec175eda158d0532b8673348fe04640087c14f710",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.作者说商人经常做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-4",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What should we take into account in order to make informed decisions?",
+      "sourceHash": "f104604c09ddfaafd2cfc7952de0b098629b1f092ffe855d7fc7db655520dd43",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 为了做出明智的决定，我们应该考虑什么？",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-6",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What should people do in a decision-making process if instincts disagree with data?",
+      "sourceHash": "25072be7494fd6bb4800b66d3dac41cc684743e567c2489ffd21c0858e40253a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 如果直觉与数据不一致，人们在决策过程中应该怎么做？",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-8",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What should we do when facing various factors that limit the practicality of data?",
+      "sourceHash": "ee9db54842ab102db315611b6393a069d8a093964b2dbc54b9534ce996315056",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54、面对各种限制数据实用性的因素，我们该怎么办？",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-10",
+      "paperId": "cet4:2023-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does it take for decisions to become the best according to the author?",
+      "sourceHash": "58636e97bb4e2b9bc28f4e834d421d1212560a1eeb3ee12b9a5e6090f2ff728e",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 根据作者的说法，如何才能使决策成为最佳决策？",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2023-12-03:p:b-6-13",
+      "paperId": "cet4:2023-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2023-12-03:b-6-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-13"
+        ],
+        "reflowBlockIds": [
+          "b-6-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2023-12-03.json",
+        "pdfSha256": "08e248667bae399b5fc41d9fd2fbe0ce493a8325e3b7a3cd577870f6d3e31cde",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2023-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2023-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2023-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-46-1",
+      "optionId": "cet4:2023-12-03:q-46-1:A",
+      "sourceText": "He captured public affection long before he won national titles.",
+      "sourceHash": "02078a5059f00f504183aa2b3109c5adb72f573428ea5d6e1a001d1e69788741",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He captured public affection long before he won national titles.",
+      "translationEligible": true,
+      "translationZh": "早在他赢得全国冠军之前，他就赢得了公众的喜爱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-46-1",
+      "optionId": "cet4:2023-12-03:q-46-1:B",
+      "sourceText": "He won enormous fame and love from British people.",
+      "sourceHash": "894e8867f133e9d87efcc94801953b1c7e8e7e7c0dbe9eab8fee99815a526bf0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He won enormous fame and love from British people.",
+      "translationEligible": true,
+      "translationZh": "他赢得了英国人民的巨大声誉和爱戴。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-46-1",
+      "optionId": "cet4:2023-12-03:q-46-1:C",
+      "sourceText": "He became a myth three decades after his retirement.",
+      "sourceHash": "790c044eddd0df4c1accd6910170d8d9df1e6499f834f09ce71277b6d82ac42b",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He became a myth three decades after his retirement.",
+      "translationEligible": true,
+      "translationZh": "退休三十年后，他成为了一个神话。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-46-1",
+      "optionId": "cet4:2023-12-03:q-46-1:D",
+      "sourceText": "He owed his great success to several well-known horse trainers.",
+      "sourceHash": "b9c7f0a709c9d835a4729a28005dfecab6dff669c359e0189af0e7dea2125d29",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He owed his great success to several well-known horse trainers.",
+      "translationEligible": true,
+      "translationZh": "他的巨大成功归功于几位著名的驯马师。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-47-1",
+      "optionId": "cet4:2023-12-03:q-47-1:A",
+      "sourceText": "It was simply a hindrance they had to get over to excel.",
+      "sourceHash": "839d0734db8c3442106cb31c492b1c4e64e46643986ec13b1115f6b298e41309",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-17",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It was simply a hindrance they had to get over to excel.",
+      "translationEligible": true,
+      "translationZh": "这只是他们必须克服的障碍才能取得优异的成绩。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-47-1",
+      "optionId": "cet4:2023-12-03:q-47-1:B",
+      "sourceText": "It was surely a disadvantage though not considered fatal.",
+      "sourceHash": "b5e4f26e99ee80f5bfa17040a2a78e2ff1943b3b1c50161038ab27d1e2a053a9",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-17",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It was surely a disadvantage though not considered fatal.",
+      "translationEligible": true,
+      "translationZh": "尽管不被认为是致命的，但这确实是一个缺点。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-47-1",
+      "optionId": "cet4:2023-12-03:q-47-1:C",
+      "sourceText": "It was actually the end of a racing career that had just begun.",
+      "sourceHash": "0e59d860b54fdb6b45a7e14f4e05ea10345d5869efa00de141560e750bd73937",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-4-17"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-4-17",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It was actually the end of a racing career that had just begun.",
+      "translationEligible": true,
+      "translationZh": "这实际上是刚刚开始的赛车生涯的结束。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-47-1",
+      "optionId": "cet4:2023-12-03:q-47-1:D",
+      "sourceText": "It was really a major obstacle hard to overcome on their own.",
+      "sourceHash": "97441e0f150200bd6907f0e3c3d8bf9d4cf3c9140fc50f483dfcef1811a6c9db",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-1"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It was really a major obstacle hard to overcome on their own.",
+      "translationEligible": true,
+      "translationZh": "这实在是一个难以独自克服的重大障碍。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-48-1",
+      "optionId": "cet4:2023-12-03:q-48-1:A",
+      "sourceText": "He won his first Grand National title at 12.",
+      "sourceHash": "f2f87f00bb3801e73e8b7e5c458a8be04be81f81843854a7d3ab1edbf959acb3",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He won his first Grand National title at 12.",
+      "translationEligible": true,
+      "translationZh": "12岁时，他赢得了他的第一个全国大赛冠军。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-48-1",
+      "optionId": "cet4:2023-12-03:q-48-1:B",
+      "sourceText": "He took two firsts successively in 1935 - 1936.",
+      "sourceHash": "fedb1343efe2765d1bc5763c3d1e1d148e1ab0ade835e0484667da7795227560",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He took two firsts successively in 1935 - 1936.",
+      "translationEligible": true,
+      "translationZh": "1935年至1936年，他连续取得两项第一。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-48-1",
+      "optionId": "cet4:2023-12-03:q-48-1:C",
+      "sourceText": "He surprised sporting fans worldwide in 1973.",
+      "sourceHash": "9cb5a077c2d46e1a4ac5dad1d51c7958413a2541a381d3f7be8c03316e1009c9",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He surprised sporting fans worldwide in 1973.",
+      "translationEligible": true,
+      "translationZh": "1973 年，他让全世界的体育迷感到惊讶。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-48-1",
+      "optionId": "cet4:2023-12-03:q-48-1:D",
+      "sourceText": "He took three Grand National wins in the 1970s.",
+      "sourceHash": "a657b01abe1eca1bb7ecd0060155e5d85753c7b9ba6b657df9980ea5bf1a30e6",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He took three Grand National wins in the 1970s.",
+      "translationEligible": true,
+      "translationZh": "他在 20 世纪 70 年代赢得了三场全国大赛冠军。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-49-1",
+      "optionId": "cet4:2023-12-03:q-49-1:A",
+      "sourceText": "He had already passed the peak of his racing life.",
+      "sourceHash": "42381af6672812d038dda270f2c89ebf6f69589bcdb9a135599f972d28aaf36b",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He had already passed the peak of his racing life.",
+      "translationEligible": true,
+      "translationZh": "他已经度过了赛车生涯的巅峰期。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-49-1",
+      "optionId": "cet4:2023-12-03:q-49-1:B",
+      "sourceText": "He would have no rival in Grand National steeplechases.",
+      "sourceHash": "a63f5903ba1d9e73ed8864dee38b8d79d4335aa59c1e74c91a749b2db745dce1",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He would have no rival in Grand National steeplechases.",
+      "translationEligible": true,
+      "translationZh": "他在全国障碍赛中没有对手。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-49-1",
+      "optionId": "cet4:2023-12-03:q-49-1:C",
+      "sourceText": "He had lost his charm with the leagues of Grand National fans.",
+      "sourceHash": "3105b6bfd01ab9f9a1f971ade23e448fadbf30e55d9915a3b0306282e15a68b4",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He had lost his charm with the leagues of Grand National fans.",
+      "translationEligible": true,
+      "translationZh": "他已经失去了对国家队球迷的吸引力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-49-1",
+      "optionId": "cet4:2023-12-03:q-49-1:D",
+      "sourceText": "He could be expected to repeat his glory in the prime of his career.",
+      "sourceHash": "c73549dfaf0567ce84fb8dde84996c6143f085f70025cbf54cef026d767b69aa",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He could be expected to repeat his glory in the prime of his career.",
+      "translationEligible": true,
+      "translationZh": "预计他将在职业生涯的巅峰时期重现辉煌。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-50-1",
+      "optionId": "cet4:2023-12-03:q-50-1:A",
+      "sourceText": "He suffered from severe pain in a heel.",
+      "sourceHash": "e890a64dcc7412154514120358032cfa3d362a13070d0d10302a6852c421f7a3",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "He suffered from severe pain in a heel.",
+      "translationEligible": true,
+      "translationZh": "他的脚后跟剧烈疼痛。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-50-1",
+      "optionId": "cet4:2023-12-03:q-50-1:B",
+      "sourceText": "He spent almost all his time traveling.",
+      "sourceHash": "a2e8e196747987f316cf14c035c1182bc4f43608a803eb7cc7733344fd9d890e",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "He spent almost all his time traveling.",
+      "translationEligible": true,
+      "translationZh": "他几乎把所有的时间都花在了旅行上。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-50-1",
+      "optionId": "cet4:2023-12-03:q-50-1:C",
+      "sourceText": "He lived on various charity benefits.",
+      "sourceHash": "934059eeac9779164fdb7c135ccba1a3dc38f1f7dfc0854c5748ff8f9d11d80b",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "He lived on various charity benefits.",
+      "translationEligible": true,
+      "translationZh": "他靠各种慈善救济金生活。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-50-1",
+      "optionId": "cet4:2023-12-03:q-50-1:D",
+      "sourceText": "He remained famous and popular.",
+      "sourceHash": "24d2c40695aa37c3cd1ff54184e7dde9452f6f02bc42911a788aa11e3077c674",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "He remained famous and popular.",
+      "translationEligible": true,
+      "translationZh": "他仍然出名并受欢迎。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-51-1",
+      "optionId": "cet4:2023-12-03:q-51-1:A",
+      "sourceText": "Strive to make sense of some unknown forces.",
+      "sourceHash": "ca9c09d00ba9c558ce2d311209b6248078ba0de955ca107482a96d8fb26ef1fb",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Strive to make sense of some unknown forces.",
+      "translationEligible": true,
+      "translationZh": "努力理解一些未知的力量。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-51-1",
+      "optionId": "cet4:2023-12-03:q-51-1:B",
+      "sourceText": "Avoid being driven by their own feelings.",
+      "sourceHash": "839b368db8be694c184cb9f37916375598d9a21b26e822125b3ef3015b79c4bc",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Avoid being driven by their own feelings.",
+      "translationEligible": true,
+      "translationZh": "避免被自己的感觉所驱使。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-51-1",
+      "optionId": "cet4:2023-12-03:q-51-1:C",
+      "sourceText": "Draw on a vast wealth of past experience.",
+      "sourceHash": "f9c031afea7e4ca31c1f29b783b27315523b249c9ae4dec04808702a1e5d5903",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Draw on a vast wealth of past experience.",
+      "translationEligible": true,
+      "translationZh": "借鉴过去丰富的经验。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-51-1",
+      "optionId": "cet4:2023-12-03:q-51-1:D",
+      "sourceText": "Rely on instincts in decision-making.",
+      "sourceHash": "95244067d24e4e898c4be018702e74e76e8d2086f5eb05b6f3c9dc6c080b53ba",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-3"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Rely on instincts in decision-making.",
+      "translationEligible": true,
+      "translationZh": "依靠直觉做出决策。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-52-1",
+      "optionId": "cet4:2023-12-03:q-52-1:A",
+      "sourceText": "The likelihood of errors.",
+      "sourceHash": "dedb37bf959c100d29696df82f5e9d8d262e799ce128a0180288e386e2ad4423",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The likelihood of errors.",
+      "translationEligible": true,
+      "translationZh": "发生错误的可能性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-52-1",
+      "optionId": "cet4:2023-12-03:q-52-1:B",
+      "sourceText": "Systematic data and analysis.",
+      "sourceHash": "64502d907ce2abcae44bb2856458cd75aecd867bfc7596a4d550f4c406974bd8",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Systematic data and analysis.",
+      "translationEligible": true,
+      "translationZh": "系统的数据和分析。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-52-1",
+      "optionId": "cet4:2023-12-03:q-52-1:C",
+      "sourceText": "The complexity of circumstances.",
+      "sourceHash": "56c1f8fdc61af2c1870c31cf8c9d3b70b382217f2e0dd0d667b89f70b1e74831",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The complexity of circumstances.",
+      "translationEligible": true,
+      "translationZh": "情况的复杂性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-52-1",
+      "optionId": "cet4:2023-12-03:q-52-1:D",
+      "sourceText": "Personal feelings and business strategies.",
+      "sourceHash": "3aafed400debb4c98abe198abdf7ef58975d09735420371ecc651842a6482695",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-5"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Personal feelings and business strategies.",
+      "translationEligible": true,
+      "translationZh": "个人感受和商业策略。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-53-1",
+      "optionId": "cet4:2023-12-03:q-53-1:A",
+      "sourceText": "Resolve the dilemma with previous experience.",
+      "sourceHash": "6d33366a37bac255bf800ab78f6c2e0a75265b4fc4d7eb671bcf06e1bdff0f32",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Resolve the dilemma with previous experience.",
+      "translationEligible": true,
+      "translationZh": "凭借以往的经验解决困境。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-53-1",
+      "optionId": "cet4:2023-12-03:q-53-1:B",
+      "sourceText": "Figure out which of the two is more reliable.",
+      "sourceHash": "064c33a3955c61b54d4ee0abe738ecbc8c78cf738f2ae1537e327b72bbafc8af",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Figure out which of the two is more reliable.",
+      "translationEligible": true,
+      "translationZh": "看看这两个哪个更靠谱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-53-1",
+      "optionId": "cet4:2023-12-03:q-53-1:C",
+      "sourceText": "Combine the two together.",
+      "sourceHash": "7f9a1c71df4fac92be0cae9f8312b0fe7138d256f9ec8b387b61be6d2ded81e4",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Combine the two together.",
+      "translationEligible": true,
+      "translationZh": "将两者结合在一起。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-53-1",
+      "optionId": "cet4:2023-12-03:q-53-1:D",
+      "sourceText": "Prioritize instincts over data.",
+      "sourceHash": "7a2547feeaffd57dd55bcbe68c145bb3df045439abebd77f6c3ca1e6572ce062",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-7"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Prioritize instincts over data.",
+      "translationEligible": true,
+      "translationZh": "优先考虑直觉而不是数据。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-54-1",
+      "optionId": "cet4:2023-12-03:q-54-1:A",
+      "sourceText": "Make a rational and systematic analysis.",
+      "sourceHash": "bedd4202f0351ee00a15750000b657f187de24b4eabcab7766661bc447ed685f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Make a rational and systematic analysis.",
+      "translationEligible": true,
+      "translationZh": "做出理性、系统的分析。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-54-1",
+      "optionId": "cet4:2023-12-03:q-54-1:B",
+      "sourceText": "Explore the most feasible options.",
+      "sourceHash": "37fd38663cfa7fff7ab27feb288f1fa6a1a1c9b8c3a075c93bffa278d247f712",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Explore the most feasible options.",
+      "translationEligible": true,
+      "translationZh": "探索最可行的选择。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-54-1",
+      "optionId": "cet4:2023-12-03:q-54-1:C",
+      "sourceText": "Resort to our inner wisdom.",
+      "sourceHash": "5364ddc37739d919563831e655c5cd140c04f38ab6f08d9bd8a15a324dd60f75",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Resort to our inner wisdom.",
+      "translationEligible": true,
+      "translationZh": "诉诸我们内在的智慧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-54-1",
+      "optionId": "cet4:2023-12-03:q-54-1:D",
+      "sourceText": "Apply definitive criteria.",
+      "sourceHash": "9a8fd782e1eeee59f60b1a8fb864d9475328a118713753dee28a070adaa7beee",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-9"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Apply definitive criteria.",
+      "translationEligible": true,
+      "translationZh": "应用明确的标准。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-55-1",
+      "optionId": "cet4:2023-12-03:q-55-1:A",
+      "sourceText": "Applying instincts and data in conjunction.",
+      "sourceHash": "f51860cfbf61cc2edd8d84d343699bdf1fadc6359835a6361672588b807b3acb",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Applying instincts and data in conjunction.",
+      "translationEligible": true,
+      "translationZh": "结合运用直觉和数据。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-55-1",
+      "optionId": "cet4:2023-12-03:q-55-1:B",
+      "sourceText": "Assessing all factors when making a choice.",
+      "sourceHash": "79e3cb26586bd04b6d646dc273c4fbbba0504537678cd790cdd70fd9ceb82fac",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Assessing all factors when making a choice.",
+      "translationEligible": true,
+      "translationZh": "做出选择时评估所有因素。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-55-1",
+      "optionId": "cet4:2023-12-03:q-55-1:C",
+      "sourceText": "Recalling what has actually worked in the past.",
+      "sourceHash": "da6537cc23e696c652d3cd85ddefc48e135fddc36915bcff28caab7d0ae36428",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Recalling what has actually worked in the past.",
+      "translationEligible": true,
+      "translationZh": "回顾过去实际有效的方法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-55-1",
+      "optionId": "cet4:2023-12-03:q-55-1:D",
+      "sourceText": "Refraining from trusting instincts arbitrarily.",
+      "sourceHash": "efc5363a8eb078ea264ce9616f8d97291e54ea823a058f3d22d6c10ef4646995",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-6-11"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-6-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Refraining from trusting instincts arbitrarily.",
+      "translationEligible": true,
+      "translationZh": "避免武断地相信直觉。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:A",
+      "sourceText": "base",
+      "sourceHash": "cae662172fd450bb0cd710a769079c05bfc5d8e35efa6576edc7d0377afdd4a2",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "base",
+      "translationEligible": true,
+      "translationZh": "基地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:B",
+      "sourceText": "eagerly",
+      "sourceHash": "50189c7d5b5238ff69b2969062c11c43c3c47971240cc26f72f96921e759246a",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "eagerly",
+      "translationEligible": true,
+      "translationZh": "热切地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:C",
+      "sourceText": "especially",
+      "sourceHash": "b109a53288ba6ef3ffa8f204d28c80e49e7253c3d3e2e99a789005a228fcf5c8",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "especially",
+      "translationEligible": true,
+      "translationZh": "尤其是",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:D",
+      "sourceText": "focus",
+      "sourceHash": "c51faa148557a08cbf790156578b7a82b41f22dd01227f7dde057e34c18a365f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "focus",
+      "translationEligible": true,
+      "translationZh": "焦点",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:E",
+      "sourceText": "indicator",
+      "sourceHash": "29d62f44c5cd2cd4b9e190a8a7a2c0a75ed641e62b5ccda7e441d3741ffb1929",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "indicator",
+      "translationEligible": true,
+      "translationZh": "指标",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:F",
+      "sourceText": "overall",
+      "sourceHash": "c1deb3268b977bb925905657adbb0102e853340b00f69a17c1eb72386cac4a42",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "overall",
+      "translationEligible": true,
+      "translationZh": "整体",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:G",
+      "sourceText": "preached",
+      "sourceHash": "cbf19fd2baa6dfb55fde2887aa213deee7601cce82ea3be5685ca79f2d40001d",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "preached",
+      "translationEligible": true,
+      "translationZh": "宣讲的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:H",
+      "sourceText": "prior",
+      "sourceHash": "e5bade0e979cb8cf6e53303dae696c6631a5c82ce60386d7a602f85fb249fcc0",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "prior",
+      "translationEligible": true,
+      "translationZh": "先前的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:I",
+      "sourceText": "prompt",
+      "sourceHash": "cf07194ee232eb531e15f690000d19846dea69cf05504782658afcfacb9228a2",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "prompt",
+      "translationEligible": true,
+      "translationZh": "提示",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:J",
+      "sourceText": "puzzle",
+      "sourceHash": "d4fba09b856cc0aa0f2b643f7d9ca20d309dc89b5e562f1229809c51f1e20dcc",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "puzzle",
+      "translationEligible": true,
+      "translationZh": "拼图",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:K",
+      "sourceText": "quantified",
+      "sourceHash": "ac356dc872a3458ddf88114a900c0d2a4a10c823cbdc29d2701fb8b1e224c192",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "quantified",
+      "translationEligible": true,
+      "translationZh": "量化的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:L",
+      "sourceText": "recovery",
+      "sourceHash": "8c585378513f5f7a2e1456ee54042605fdb890392becefadd2ab180fd02fb341",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "recovery",
+      "translationEligible": true,
+      "translationZh": "恢复",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:M",
+      "sourceText": "reflected",
+      "sourceHash": "f1ec66fed535da4774eab06ab23c59dc29b62257fa1c3711a831fe665045a906",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "reflected",
+      "translationEligible": true,
+      "translationZh": "反映",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:N",
+      "sourceText": "story",
+      "sourceHash": "c478361e6869af25970682a2c53967adbc8a46e9429efdc64b96351cfd52e13f",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "story",
+      "translationEligible": true,
+      "translationZh": "故事",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2023-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2023-12-03",
+      "questionId": "cet4:2023-12-03:q-26-1",
+      "optionId": "cet4:2023-12-03:word-bank:O",
+      "sourceText": "strongly",
+      "sourceHash": "7309d9f34f5872a79f594efd5008c0fe4cfa08aee20a9150653b0fa210d206f9",
+      "sourceBlockIds": [
+        "cet4:2023-12-03:b-1-14"
+      ],
+      "reflowBlockId": "cet4:2023-12-03:b-1-14",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "strongly",
+      "translationEligible": true,
+      "translationZh": "强烈地",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2023-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2023-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2023-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-12",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2023-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-1-13",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2023-12-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2023-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2023-12-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-4-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-8",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2023-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2023-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2023-12-03:p:b-6-13"
+    },
+    {
+      "sourceBlockId": "cet4:2023-12-03:b-6-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 60
+  },
+  "reasonCounts": {
+    "cloze": 5,
+    "cross_page_continuation": 1,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 13,
+    "reading_prose": 13,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 13,
+    "question_prompt": 20,
+    "reading": 13
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

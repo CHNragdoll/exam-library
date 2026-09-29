@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -843,13 +843,18 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "How a Poor, Abandoned Parisian Boy Became a Top Chef",
               "flags": [
@@ -1421,12 +1426,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "a contaminated floor.",
               "flags": [

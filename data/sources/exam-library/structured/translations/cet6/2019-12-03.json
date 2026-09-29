@@ -1,0 +1,3722 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2019-12-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+  "sourcePdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+  "paragraphs": [
+    {
+      "id": "cet6:2019-12-03:p:b-1-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions : In this section , there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the",
+      "sourceHash": "06d8a3f982498d9d2266af12e69d1675f02177ee0fa83e4ab953a9df97aa4507",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明： 在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。阅读",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "heading_prose",
+      "sourceText": "passage through carefully before making your choices. Each choice in the bank is identified",
+      "sourceHash": "094df5e15bb3fa56af306a84150d7565db7bd470b98b6c80b6c87db07b70c41d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在做出选择之前仔细阅读。银行中的每个选择都已确定",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-8",
+      "paperId": "cet6:2019-12-03",
+      "kind": "cloze",
+      "sourceText": "by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "883e5962af35590824cfd57eb6c0a2fd78fd46e0854791bab0d70c9a854d5627",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-9",
+      "paperId": "cet6:2019-12-03",
+      "kind": "cloze",
+      "sourceText": "The number of devices you can talk to is multiplying-first it was your phone, then your car, and now you can tell your kitchen appliances what to do. But even without gadgets that understand our spoken commands, research suggests that, as bizarre as it sounds, under certain 26 , people regularly ascribe human traits to everyday objects.",
+      "sourceHash": "e83aa28575d9420bd1e966c41bb51aea27fb086057f762103807f1305b1ad98f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-10",
+      "paperId": "cet6:2019-12-03",
+      "kind": "cloze",
+      "sourceText": "Sometimes we see things as human because we are 27 . In one experiment, people who reported feeling isolated were more likely than others to attribute 28 to various gadgets. In tum, feeling close to objects can 29 loneliness. When college students were reminded of a time they had been 30 in a social setting, they compensated by exaggerating their number of friends-unless they were first given tasks that caused them to interact with their phone as if it had human qualities. According to the researchers, the participants' phones 3 1 substituted for real friends.",
+      "sourceHash": "29ff6c530c72c24e90de564a8d2eb8b608f13e423f012d3a3b0df41ef4ea3da0",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-11",
+      "paperId": "cet6:2019-12-03",
+      "kind": "cloze",
+      "sourceText": "At other times, we personify products in an effort to understand them. One study found that three in four respondents yelled at their computer. Further, the more their computer gave them problems, the more likely the respondents were to report that it had its own \" beliefs and 32",
+      "sourceHash": "497ba10797ba0750585a337bbbab1f950558879020dc05b8e33d1106bcea4f55",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-1-12",
+      "paperId": "cet6:2019-12-03",
+      "kind": "cloze",
+      "sourceText": "So how do people assign traits to an object? In part, we rely on looks. On humans, wide faces are 33 with dominance. Similarly, people rated cars, clocks, and watches with wide faces as more dominant-looking than narrow-faced ones, and preferred them-especially in 34 situations. An analysis of car sales in Germany found that cars with grilles (护栅) that were upturned like smiles sold best. The purchasers saw this 35 as increasing a car's friendliness.",
+      "sourceHash": "0e58b6ee00b7840197a2ac5d27729b067917d2610e74bbdfcaadb3e401246bd4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions : In this section , you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "19201f05019c30c9c5ada3e7ce3acec29f29982ec2431ab258dcee98fe806206",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-4",
+      "paperId": "cet6:2019-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Why More Farmers Are Making The Switch to Grass-Fed Meat and Dairy",
+      "sourceHash": "8a95c875f5049420c4c64427a83ce3864415a29ba23e250404b149702dbc739d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为什么越来越多的农民转向草饲肉类和奶制品",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ A] Though he didn't come from a farming family, from a young age Tim Joseph was fascinated by the idea of living off the land. Reading magazines like The Stockman Grass Farmer and Graze, he got hooked on the idea of grass-fed agriculture. The idea that all energy and wealth comes from the sun really intrigued him. He thought the shorter the distance between the sun and the end product, the higher the profit to the farmer.",
+      "sourceHash": "bd9a8bea4818607951ee998a7c018a85c58bdcf17036ad691f088b05283f52aa",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[A] 尽管蒂姆·约瑟夫并非出身于农民家庭，但他从小就对靠土地为生的想法着迷。通过阅读《牧草农夫》和《放牧》等杂志，他迷上了草饲农业的想法。所有能量和财富都来自太阳的想法确实引起了他的兴趣。他认为太阳与最终产品之间的距离越短，农民的利润就越高。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ B] Joseph wanted to put this theory to the test. In 2009, he and his wife Laura launched Maple Hill",
+      "sourceHash": "64aad5182c9d48151d795d83aa18a790ec5d83ffe3af39fd7c9607cc39bb2a4a",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[B] 约瑟夫想要检验这个理论。 2009年，他和妻子Laura创办了Maple Hill",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Creamery, an organic, all grass-fed yogurt company in northern New York. He quickly learned what the market has demonstrated: Demand for grass-fed products currently exceeds supply.",
+      "sourceHash": "3a0acf20173add423f4bf3bf72b625a8f5f1c84bce4ab60bc12be0dbd7c0bb47",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Creamery 是一家位于纽约北部的有机、全草饲酸奶公司。他很快了解了市场的情况：目前草饲产品的需求超过了供应。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-9",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "comparison with a drop of just under 1 % in the total yogurt and kefir market, according to natural and organic market research company SPINS. Joseph's top priority became getting his hands on enough grass-fed milk to keep customers satisfied, since his own 64-cow herd wasn't going to suffice.",
+      "sourceHash": "099780e1a4292c128bf7681a16b1cd29f1911659dc434aba894cfc8b2b9c711d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "根据天然有机市场研究公司 SPINS 的数据，相比之下，整个酸奶和开菲尔市场的跌幅略低于 1%。约瑟夫的首要任务是获得足够的草饲牛奶来让顾客满意，因为他自己的 64 头牛群还不够。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-10",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ C] His first partnership was with Paul and Phyllis Amburgh, owners of the Dharma Lea farm in",
+      "sourceHash": "355abd2017b0aedf57e4aa4338f9575871d6dd014a73be9a180906aceceed174",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[ C] 他的第一个合作伙伴是 Paul 和 Phyllis Amburgh，他们是位于 Dharma Lea 农场的业主。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-2-11",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "New York. The Amburghs, too, were true believers in grass-fed. In addition to supplying milk from their own 85-head herd, they began to help other farmers in the area convert from conventional to certified organic and grass-fed in order to enter the Maple Hill supply chain.",
+      "sourceHash": "2000888ec26b46b84251e41e85ee775b092afcd17e71d32c20aa6d1791800c75",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "纽约。安堡人也是草饲的忠实信徒。除了供应自己 85 头牛群的牛奶外，他们还开始帮助该地区的其他农民从传统牛奶转向经过认证的有机草饲牛奶，以便进入 Maple Hill 供应链。",
+      "source": {
+        "blockIds": [
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-3-1",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Since 20 10, the couple has helped 125 small dairy farms convert to grass-fed, with more than 80% of those farms corning on board during the last two years.",
+      "sourceHash": "82f7b9f41fc259ca756bfe5f4b74e788ecda68b987c1e06383418a6aa96599c6",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "自 20 月 10 日以来，这对夫妇已帮助 125 个小型奶牛场转为草饲，其中 80% 以上的农场在过去两年中转为草饲。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-3-2",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ D] All this conversion has helped Maple Hill grow 40-50% every year since it began, with no end in sight. Joseph has learned that a farmer has to have a certain mindset to successfully convert. But convincing open-minded dairy people is actually not that hard, when you look at the economics. Grass-fed milk can fetch up 2.5 times the price of conventional milk. Another factor is the squeeze that conventional dairy farmers have felt as the price of grain they feed their cows has gone up, tightening their profit margins. By replacing expensive grain feed with regenerative management practices, grass-fed farmers are insulated from jumps in the price of feed. These practices include grazing animals on grasses grown from the pastureland's natural seed bank, and fertilized by the cows' own fertilizer.",
+      "sourceHash": "e3dcdbd8b91831a14e4a502dae3475f10c62d18d7884443e7525f8b6a1861c6b",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[D] 自开始以来，所有这些转变都帮助 Maple Hill 每年增长 40-50%，而且看不到尽头。约瑟夫了解到，农民必须具备一定的心态才能成功转变。但从经济学的角度来看，说服持开放态度的乳制品行业人士实际上并不难。草饲牛奶的价格是传统牛奶的 2.5 倍。另一个因素是，传统奶农感受到了挤压，因为他们喂养奶牛的谷物价格上涨，利润率收紧。通过用再生管理实践取代昂贵的谷物饲料，草饲农民可以免受饲料价格上涨的影响。这些做法包括在牧场天然种子库种植的草上放牧动物，并用奶牛自己的肥料施肥。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-3-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ E] Champions of this type of regenerative grazing also point to its animal welfare, climate and health benefits: Grass-fed animals live longer out of confinement. Grazing herds stimulate microbial (微生物的) activity in the soil, helping to capture water and separate carbon. And grass-fed dairy and meat have been shown to be higher in certain nutrients and healthy fats.",
+      "sourceHash": "f843046472f352071f65b015d8733287ee275b45db8d097b32f85e71245bbe83",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[E] 这种再生放牧的倡导者还指出了它对动物福利、气候和健康的好处：草饲动物在不受限制的情况下寿命更长。放牧群刺激土壤中的微生物活性，有助于捕获水和分离碳。草饲乳制品和肉类已被证明含有更高的某些营养素和健康脂肪。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-3-4",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ F ] In the grass fed system, farmers are also not subject to the wildly fluctuating milk prices of the international commodity market. The unpredictability of global demand and the lag-time it takes to add more cows to a herd to meet demand can result in events like the recent cheese surplus. Going grass-fed is a safe refuge, a way for family-scale farms to stay viable. Usually a farmer will get to the point where financially, what they're doing is not working. That's when they call Maple Hill. If the farm is well managed and has enough land, and the desire to convert is sincere, a relationship can begin. Through regular regional educational meetings, a large annual meeting, individual farm visits and thousands of phone calls, the Amburghs pass on the principles of pasture management. Maple Hill signs a contract pledging to buy the farmer's milk at a guaranteed base price, plus quality premiums and incentives for higher protein, butter-fat and other solids.",
+      "sourceHash": "74f20ccbc82241477b02844a9bc20e3454a5216a1e1538d31706cf1f23e373d2",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[F] 在草饲系统中，农民也不受国际商品市场牛奶价格大幅波动的影响。全球需求的不可预测性以及添加更多奶牛以满足需求所需的滞后时间可能会导致诸如最近的奶酪过剩之类的事件。草饲是一个安全的避难所，是家庭规模农场维持生存的一种方式。通常，农民会达到经济上他们所做的事情不起作用的地步。就在那时他们打电话给枫树山。如果农场管理良好并且拥有足够的土地，并且转变的愿望是真诚的，那么关系就可以开始。通过定期的地区教育会议、大型年会、个别农场参观和数千个电话，安堡人传递了牧场管理的原则。 Maple Hill 签署了一份合同，承诺以有保证的基本价格购买农民的牛奶，并提供质量溢价和对更高蛋白质、乳脂和其他固体物质的奖励。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-3-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ G] While Maple Hill's conversion program is unusually hands-on and comprehensive, it's just one of a growing number of businesses committed to slowly changing the way America farms. Joseph calls sharing his knowledge network through peer-to-peer learning a core piece of the company's culture. Last summer, Massachusetts grass-fed beef advocate John Smith launched Big Picture Beef, a network of small grass-fed beef farms in New England and New York that is projected to bring to market 2,500 head of cattle from 125 producers this year. Early indications are that Smith will have no shortage of farm members. Since he began to informally announce the network at farming conferences and on social media, he's received a steady stream of inquiries from interested farmers.",
+      "sourceHash": "1ffa34fcc130658e261313fec530c71b3b4581021dc83f021f490cc2f1035270",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[G] 虽然枫树山的改造计划异常务实且全面，但它只是越来越多致力于慢慢改变美国农业方式的企业之一。约瑟夫称通过点对点学习分享他的知识网络是公司文化的核心部分。去年夏天，马萨诸塞州草饲牛肉倡导者 John Smith 推出了 Big Picture Beef，这是一个由新英格兰和纽约州的小型草饲牛肉农场组成的网络，预计今年将来自 125 家生产商的 2,500 头牛推向市场。早期迹象表明史密斯不会缺少农场成员。自从他开始在农业会议和社交媒体上非正式地宣布该网络以来，他收到了来自感兴趣的农民源源不断的询问。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-1",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ H J Smith says he'll provide services ranging from formal seminars to on-farm workshops on holistic",
+      "sourceHash": "4b590a6d0728790cddcb14ef698e80afbb174c5297a77bef87f64abfe9a1697f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[ H J Smith 表示，他将提供从正式研讨会到农场整体研讨会的各种服务",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-2",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "������������� management, to one-on-one hand-holding and an almost 24/7 phone hotline for farmers who are converting. In exchange, he guarantees an above-market price for each animal and a calf-to-customer electronic ear tag ID system like that used in the European Union.",
+      "sourceHash": "ae0d4c03b48e5f4c491f48584b2e6477d7bdde17d8e7324258bbef9d8ec4b8ff",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ I] Though advocates portray grass fed products as a win-win situation for all, they do have downsides. Price, for one, is an issue. Joseph says his products are priced 10-20% above organic versions, but depending on the product chosen, compared to non-organic conventional yogurt, consumers could pay a premium of 30-50% or more for grass-fed. As for the meat, Smith says his grass-fed hamburger will be priced 20-25% over the conventional alternative. But a look at the prices on online grocer Fresh Direct suggests a grass-fed premium of anywhere from 35-60% .",
+      "sourceHash": "d73752bd8f33296874a56b32c09eb6f0c92c121d5af000579d55c7067f547929",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[I] 尽管倡导者将草饲产品描绘成对所有人来说是双赢的局面，但它们确实有缺点。价格是一个问题。 Joseph 表示，他的产品价格比有机酸奶高 10-20%，但根据所选产品，与非有机传统酸奶相比，消费者可能会为草饲酸奶支付 30-50% 或更多的溢价。至于肉类，史密斯表示，他的草饲汉堡的价格将比传统替代品低 20-25%。但看看在线杂货商 Fresh Direct 上的价格，草饲饲料的溢价在 35-60% 之间。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-4",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ J] And not every farmer has the option of going grass-fed. For both beef and dairy production it requires, at least in the beginning, more pastureland. Grass-fed beef production tends to be more labor-intensive as well. But Smith counters that if you factor in the hidden cost of government corn subsidies, environment degradation, and decreased human heath and animal welfare, grass­ fed is the more cost-effective model. \" The sun provides the lowest cost of production and the cheapest meat,\" he says.",
+      "sourceHash": "a57bd016e7e8dff7196b595d20d7a3d590d63fe9dca184789432191852029c66",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[J] 并不是每个农民都可以选择草饲。对于牛肉和乳制品生产来说，至少在开始阶段，需要更多的牧场。草饲牛肉的生产往往也更加劳动密集型。但史密斯反驳说，如果考虑到政府玉米补贴、环境退化以及人类健康和动物福利下降的隐性成本，草饲是更具成本效益的模式。 “太阳提供了最低的生产成本和最便宜的肉类，”他说。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ K] Another grass-fed booster spurring farmers to convert is EPIC, which makes meat-based protein bars. Founders Taylor Collins and his wife, Katie Forrest, used to be endurance athletes; now they're advocates of grass-fed meat. Soon after launching EPIC's most successful product-the Bison Bacon Cranberry Bar-Collins and Forrest found they'd exhausted their sources for bison ������������� raised exclusively on pasture. When they started researching the supply chain, they learned that only 2-3% of all bison is actually grass-fed. The rest is feed-lot confined and fed grain and corn.",
+      "sourceHash": "25c66074b65e11675d2e9a524f9bb3fe7893432292a6861b30062620f9e76f4d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "[ L] But after General Mills bought EPIC in 2016, Collins and Forrest suddenly had the resources they needed to expand their supply chain. So the company teamed up with Wisconsin-based rancher Northstar Bison. EPIC fronted the money for the purchase of $ 2.5 million worth of young bison that will be raised according to its grass-fed protocols, with a guaranteed purchase price. The message to young people who might not otherwise be able to afford to break into the business is,\" ' You can purchase this $ 3 million piece of land here, because I'm guaranteeing you today you'll have 1 ,000 bison on it.' We're bringing new blood into the old, conventional farming ecosystem, which is really cool to see,\" Collins explains.",
+      "sourceHash": "446ab5e22ce35bf88e02932b85de6c68a13d768bada9e8c6feba357211730dee",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "[L] 但在 2016 年 General Mills 收购 EPIC 后，Collins 和 Forrest 突然拥有了扩大供应链所需的资源。因此，该公司与威斯康星州牧场主 Northstar Bison 合作。 EPIC 提供资金用于购买价值 250 万美元的小野牛，这些野牛将根据其草饲协议筹集，并有保证的购买价格。向那些可能无法承担进入这个行业的年轻人传达的信息是，“‘你可以在这里购买这块价值 300 万美元的土地，因为我今天向你保证，上面将有 1,000 头野牛。’”我们正在为古老的传统农业生态系统注入新的血液，这真是太酷了，”柯林斯解释道。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Farmers going grass-fed are not affected by the ever-changing milk prices of the global market.",
+      "sourceHash": "91d04953646ea7620b346f9d337c4905a56fa8b56b96460358b29cbbe30e42c6",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 采用草饲的农民不会受到全球市场不断变化的牛奶价格的影响。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-4-8",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Over the years, Tim Joseph's partners have helped many dairy farmers to switch to grass-fed.",
+      "sourceHash": "d48a726e7ac8cfa996d0a565df8aadf57eb38fcc9718c8b383d9a35be602613f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 多年来，蒂姆·约瑟夫的合作伙伴帮助许多奶农转向草饲。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-1",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. One advocate believes that many other benefits should be taken into consideration when we assess the cost-effectiveness of grass-fed farming.",
+      "sourceHash": "72509cbdd779324e07b7f3ddf8deea7413bcb4baf709432352e4d56bd4c78914",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 一位倡导者认为，在评估草饲农业的成本效益时，应考虑许多其他好处。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-2",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Many dairy farmers were persuaded to switch to grass-fed when they saw its advantage in terms of profits.",
+      "sourceHash": "ec52dbf4c47a26ba627c66447da2beb9aa6956c7293b5dfea56ea6ec8939839d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 当许多奶农看到草饲在利润方面的优势时，他们被说服改用草饲。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Tim Joseph's grass-fed program is only one example of how American farming practice is changing.",
+      "sourceHash": "d852c8b2838f47603a2bcbb97911ac48b8c24df53432a32d14a911d8618e59fe",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 蒂姆·约瑟夫的草饲计划只是美国农业实践正在发生变化的一个例子。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-4",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41 . Tim Joseph was fascinated by the notion that sunlight brings energy and wealth to mankind.",
+      "sourceHash": "e541935db4f4b2c7c4e52b321234a5f3b38bea3cd563f3021462e2b4a129ebf8",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41.蒂姆·约瑟夫对阳光为人类带来能量和财富的观念着迷。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. One problem with grass-fed products is that they are usually more expensive than conventional ones.",
+      "sourceHash": "6603cc48231673f4619d2b2f60e490d58dde1429ccc00f7ce7d3e3ae5e4cc447",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 草饲产品的一个问题是它们通常比传统产品更昂贵。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Grass fed products have proved to be healthier and more nutritious.",
+      "sourceHash": "a19dcc7772603112b593b9b18364d3ecdafac63ec8f7794768b52b3ea0fe3fc4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 事实证明，草饲产品更健康、更有营养。",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. When Tim Joseph started his business, he found grass-fed products fell short of demand.",
+      "sourceHash": "825431245a6794cbd4d119842dd37b05c58de652db95024912bcbadecbd92824",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 当蒂姆·约瑟夫开始创业时，他发现草饲产品供不应求。",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-8",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. A snack bar producer discovered that the supply of purely grass-fed bison meat was scarce.",
+      "sourceHash": "369cccdcf52f8b2e18af12f41ef5dfdfdb751a13a040666d520b721be3d4f5af",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 一家小吃店生产商发现纯草饲野牛肉的供应稀缺。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-10",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions : There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A ) , B ) , C ) and",
+      "sourceHash": "303a8c14a90ea5434c3e667de08e16f6b8e1e29f8447d7eb786ff222d521878e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。对于每个选项，有四个选项，标记为 A ) 、 B ) 、 C ) 和",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-11",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "D. . You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "918dc353a913ad4015afc574c8b16efc031d4c8a548fc8e923bf3a884fcd4cc0",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-13",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-14"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-14",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Schools are not just a microcosm �������� of society; they mediate it too. The best seek to alleviate the external pressures on their pupils while equipping them better to understand and handle the world outside-at once sheltering them and broadening their horizons. This is ambitious in any circumstances, and in a divided and unequal society the two ideals can clash outright (直接地) .",
+      "sourceHash": "af62ac7fb8ff7ee49c26cb2ef7dd8797bc139315dfcd7320a499db28315565a4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-15",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Trips that many adults would consider the adventure of a lifetime-treks in Borneo, a sports tour to Barbados-appear to have become almost routine at some state schools. Parents are being asked for thousands of pounds. Though schools cannot profit from these trips, the companies that arrange them do. Meanwhile, pupils arrive at school hungry because their families can't afford breakfast. The Child Poverty Action Group says nine out of 30 in every classroom fall below the poverty line. The discrepancy is startlingly apparent. Introducing a fundraising requirement for students does not help, as better-off children can tap up richer aunts and neighbours.",
+      "sourceHash": "3a8a55fcb2163c2c679993dd3652fd547b68baa4e368731e91f80ecac6e57434",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多成年人认为终生难忘的旅行——婆罗洲徒步旅行、巴巴多斯体育之旅——似乎在一些公立学校几乎成了例行公事。家长们被要求支付数千英镑。尽管学校无法从这些旅行中获利，但安排这些旅行的公司却可以。与此同时，学生们饿着肚子来到学校，因为他们的家人买不起早餐。儿童贫困行动小组表示，每个教室中 30 人中有 9 人生活在贫困线以下。这种差异非常明显。对学生提出筹款要求并无帮助，因为富裕的孩子可以向更富有的阿姨和邻居求助。",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-5-16",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Probing the rock pools of a local beach or practising French on a language exchange can fire",
+      "sourceHash": "f3c35855e8b032914202497f1817670919e423faa23bd4dec72f0cca6c0a90d4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-5-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "探索当地海滩的岩石池或在语言交流中练习法语可能会引发火灾",
+      "source": {
+        "blockIds": [
+          "b-5-17"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-1",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "children's passions, boost their skills and open their eyes to life's possibilities. Educational outings help bright but disadvantaged students to get better scores in A-level tests. In this globalised age, there is a good case for international travel, and some parents say they can manage the cost of a school trip abroad more easily than a family holiday. Even in the face of immense and mounting financial pressures, some schools have shown remarkable determination and ingenuity in ensuring that all their pupils are able to take up opportunities that may be truly life-changing. They should be applauded. Methods such as whole-school fundraising, with the proceeds ������ pooled, can help to extend opportunities and fuel community spirit.",
+      "sourceHash": "da87300c5d136ad76449067b7c27a730362251b6761b9a6da8a9f2839a602d32",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-2",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "But £ 3,000 trips cannot be justified when the average income for families with children is just over £ 30,000. Such initiatives close doors for many pupils. Some parents pull their children out of school because of expensive field trips. Even parents who can see that a trip is little more than a party or celebration may well feel guilt that their child is left behind.",
+      "sourceHash": "301753fce4c10b1daa679f67913902bf5707bd67a1c2a0133c7b8a1f2cbd9555",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但当有孩子的家庭的平均收入刚刚超过 30,000 英镑时，3,000 英镑的旅行是不合理的。此类举措对许多学生关闭了大门。一些家长因为昂贵的实地考察而让孩子辍学。即使父母知道旅行只不过是一次聚会或庆祝活动，也可能会因为孩子被落在后面而感到内疚。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "The Department for Education's guidance says schools can charge only for board and lodging if the trip is part of the syllabus, and that students receiving government aid are exempt from these costs. However, many schools seem to ignore the advice; and it does not cover the kind of glamorous, exotic trips, which are becoming increasingly common. Schools cannot be expected to bring together communities single-handed. But the least we should expect is that they do not foster divisions and exclude those who are already disadvantaged.",
+      "sourceHash": "18bc58b4ae41e1e4aa5dda5d9702f6348e1626f0d5efbde892d90cb3845f6cfd",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "教育部的指导意见称，如果旅行是教学大纲的一部分，学校只能收取食宿费，接受政府援助的学生可以免除这些费用。然而，许多学校似乎忽视了这一建议；它也不包括那种越来越常见的迷人的异国旅行。不能指望学校单枪匹马地将社区聚集在一起。但我们至少应该期望的是，它们不会助长分裂并排除那些已经处于不利地位的人。",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-4",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What does the author say best schools should do?",
+      "sourceHash": "dfc8baec04c624fe2549c6b6dc45f97a689085a083ee47341e4a52155fbaccee",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 作者认为最好的学校应该做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What does the author think about school field trips?",
+      "sourceHash": "5db240dffcfba61a13c5950f9f51f3eaa84e8347ae6dfb24ab8c412bb93c0f92",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 作者对学校实地考察有何看法？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-8",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does the author suggest can help build community spirit?",
+      "sourceHash": "2e9c483b4c55875a3cba6b7264b259eeb5343d9b74bb7269a72913d505659ba5",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 作者建议什么可以帮助建立社区精神？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-6-10",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What do we learn about low-income parents regarding school field trips?",
+      "sourceHash": "0e46f4500d520cf78c5f9953514113d4312965ee19a12151af7a91c120729bb1",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 我们从低收入家长的学校实地考察中了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-2",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What is the author's expectation of schools?",
+      "sourceHash": "4639b3342f52cae3d122df1304e082084b8f3877fdfd0e5f39e698fd9a60f653",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.作者对学校的期望是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-7-6"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-6",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Rising temperatures and overfishing in the pristine ������������������ waters around the Antarctic could see king penguin populations pushed to the brink of extinction by the end of the century, according to a new study. The study's report states that as global warming transforms the environment in the world's last great wilderness, 70 percent of king penguins could either disappear or be forced to find new breeding grounds.",
+      "sourceHash": "a0b11968804d8f80e29ed10a895d6d62a954e3825120d24b47a15f481c9a5481",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-7-7"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Co-author Celine Le Bohec, from the University of Strasbourg in France, warned: \" If there're no actions aimed at halting or controlling global warming, and the pace of the current human-induced changes such as climate change and overfishing stays the same, the species may soon disappear.\" The findings come amid growing concern over the future of the Antarctic. Earlier this month a separate study found that a combination of climate change and industrial fishing is threatening the krill ���� population in Antarctic waters, with a potentially disastrous impact on whales, seals and penguins. But today's report is the starkest warning yet of the potentially devastating impact of climate change and human exploitation on the Antarctic's delicate ecosystems.",
+      "sourceHash": "9d2cc938970e7637805ba89643ff46015c8b9273101a60f74a526a4e5116cd01",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-7-8"
+        ],
+        "reflowBlockIds": [
+          "b-7-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-8",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Le Bohec said: \" Unless current greenhouse gas emissions drop, 70 percent of king penguins-1.1 million breeding pairs-will be forced to relocate their breeding grounds, or face extinction by 2100.\" King penguins are the second-largest type of penguin and only breed on specific isolated islands in the Southern Ocean where there is no ice cover and easy access to the sea. As the ocean warms, a body of water called the Antarctic Polar Front-an upward movement of nutrient-rich sea that supports a huge abundance of marine life-is being pushed further south. This means that king penguins, which feed on fish and krill in this body of water, have to travel further to their feeding grounds, leaving their hungry chicks for longer. And as the distance between their breeding grounds and their food grows, entire colonies could be wiped out.",
+      "sourceHash": "a4ab52a5cacabcf6e14f5a5bbb938f31968bc6cc53c3b930e9d5fdf3528e3c5e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Le Bohec 表示：“除非当前的温室气体排放量下降，否则 70% 的王企鹅（110 万对繁殖对）将被迫迁移其繁殖地，否则到 2100 年将面临灭绝。”王企鹅是第二大企鹅类型，仅在南大洋的特定孤岛上繁殖，那里没有冰层覆盖，易于出海。随着海洋变暖，被称为南极极锋的水体（营养丰富的海洋向上运动，支持大量海洋生物）正在被推向更南的地方。这意味着以这片水域中的鱼和磷虾为食的王企鹅必须走得更远才能到达觅食地，从而将饥饿的幼崽留下更长的时间。随着它们的繁殖地和食物之间的距离越来越远，整个殖民地可能会被消灭。",
+      "source": {
+        "blockIds": [
+          "b-7-9"
+        ],
+        "reflowBlockIds": [
+          "b-7-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-7-9",
+      "paperId": "cet6:2019-12-03",
+      "kind": "reading",
+      "sourceText": "Le Bohec said: \" The plight of the king penguin should serve as a warning about the future of the entire marine environment in the Antarctic. Penguins, like other seabirds and marine mammals, occupy higher levels in the food chain and they are what we call bio-indicators of their ecosystems.\" Penguins are sensitive indicators of changes in marine ecosystems. As such, they are key species for understanding and predicting impacts of global change on Antarctic and sub-Antarctic marine ecosystems. The report found that although some king penguins may be able to relocate to new breeding grounds closer to their retreating food source, suitable new habitats would be scarce. Only a handful of islands in the Southern Ocean are suitable for sustaining large breeding colonies.",
+      "sourceHash": "247e5f76a0909f5e62417908b016402a92086efaddee6dc23e139b48433c119e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-7-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "勒博赫克说：“王企鹅的困境应该成为对南极整个海洋环境未来的警告。企鹅与其他海鸟和海洋哺乳动物一样，在食物链中占据较高的地位，它们是我们所说的生态系统的生物指标。”企鹅是海洋生态系统变化的敏感指标。因此，它们是了解和预测全球变化对南极和亚南极海洋生态系统影响的关键物种。报告发现，尽管一些王企鹅可能能够迁移到更靠近其食物来源的新繁殖地，但合适的新栖息地将会稀缺。南大洋中只有少数岛屿适合维持大型繁殖群。",
+      "source": {
+        "blockIds": [
+          "b-7-10"
+        ],
+        "reflowBlockIds": [
+          "b-7-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-1",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What will happen by 2100, according to a new study?",
+      "sourceHash": "88b7929e75b9085eab59893acc359d4e1586a6faed8e828058c1322e9a32d9d2",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 根据一项新研究，到 2100 年将会发生什么？",
+      "source": {
+        "blockIds": [
+          "b-8-1"
+        ],
+        "reflowBlockIds": [
+          "b-8-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What do we learn from the findings of a separate study?",
+      "sourceHash": "75ccc52002ae755b052aee7d714b8145f11a332a33e4a7f34f181c8220d1bfbe",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 我们从另一项研究的结果中了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-8-3"
+        ],
+        "reflowBlockIds": [
+          "b-8-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-5",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What does the passage say about king penguins?",
+      "sourceHash": "02f05e590de82313e4da6f220c7e34fe76805500b15a96e14786d124bb2a94b0",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 这篇文章对王企鹅说了些什么？",
+      "source": {
+        "blockIds": [
+          "b-8-5"
+        ],
+        "reflowBlockIds": [
+          "b-8-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-7",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What happens when sea levels rise in the Antarctic?",
+      "sourceHash": "3a9d5c311402d5421e5d49e54f81ac3a2fbb4dc637cf29034fd7037ecea3b511",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.当南极海平面上升时会发生什么？",
+      "source": {
+        "blockIds": [
+          "b-8-7"
+        ],
+        "reflowBlockIds": [
+          "b-8-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-9",
+      "paperId": "cet6:2019-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What do we learn about the Southern Ocean?",
+      "sourceHash": "a8dc2ee391ed50832bbd6dd4729208e287e0f28a83ff47dcb20417729de81d16",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.我们对南大洋了解什么？",
+      "source": {
+        "blockIds": [
+          "b-8-9"
+        ],
+        "reflowBlockIds": [
+          "b-8-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-12",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to translate a passage from Chinese into",
+      "sourceHash": "6dfbc65ddc4b0326994cd9cc3d9e7e064a7c9c09534dd928bd6538af49d0a802",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，你有30分钟的时间将一段中文翻译成中文。",
+      "source": {
+        "blockIds": [
+          "b-8-12"
+        ],
+        "reflowBlockIds": [
+          "b-8-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-8-13",
+      "paperId": "cet6:2019-12-03",
+      "kind": "translation_prompt",
+      "sourceText": "English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "0411547e19e15c505dc20460c1cd89d4d692911a42d6b7a6847452da38464e5e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-8-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "英语。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-8-13"
+        ],
+        "reflowBlockIds": [
+          "b-8-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-12-03:p:b-9-3",
+      "paperId": "cet6:2019-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions : For this part , you are allowed 30 minutes to write an essay on the importance of having a sense of community responsibility. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "a5e4b7b383248d254c94578600f953db606a50a2b582a5de9d31490b26733677",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-9-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-12-03:b-9-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇关于社区责任感重要性的文章。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-9-4"
+        ],
+        "reflowBlockIds": [
+          "b-9-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-12-03.json",
+        "pdfSha256": "89a8c060ab08e5f5c912d8cb43aa89631125b9f756749e08b042bb7bfaaed5bf",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2019-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-46-1",
+      "optionId": "cet6:2019-12-03:q-46-1:A",
+      "sourceText": "Prepare students to both challenge and change the divided unequal society.",
+      "sourceHash": "33f9903ad925ea88edeeda5ac6ac1a82ba5de5dcb90a258c49ace74c83255980",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Prepare students to both challenge and change the divided unequal society.",
+      "translationEligible": true,
+      "translationZh": "让学生做好挑战和改变分裂的不平等社会的准备。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-46-1",
+      "optionId": "cet6:2019-12-03:q-46-1:B",
+      "sourceText": "Protect students from social pressures and enable them to face the world.",
+      "sourceHash": "141b0f91f1cc2376ea1c862ecc6635ed28cda9059763fd436d9adc152acfd5dc",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Protect students from social pressures and enable them to face the world.",
+      "translationEligible": true,
+      "translationZh": "保护学生免受社会压力，使他们能够面对世界。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-46-1",
+      "optionId": "cet6:2019-12-03:q-46-1:C",
+      "sourceText": "Motivate students to develop their physical as well as intellectual abilities.",
+      "sourceHash": "0a010defefa5573e84507b787ed9c3202708b072f27b850a5bf70efd3bc265dd",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Motivate students to develop their physical as well as intellectual abilities.",
+      "translationEligible": true,
+      "translationZh": "激励学生发展他们的身体和智力能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-46-1",
+      "optionId": "cet6:2019-12-03:q-46-1:D",
+      "sourceText": "Encourage students to be ambitious and help them to achieve their goals.",
+      "sourceHash": "99d578fc1c11c05b376e56dba772adeb89ef5faeef3cd1c558c2532548aa0340",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Encourage students to be ambitious and help them to achieve their goals.",
+      "translationEligible": true,
+      "translationZh": "鼓励学生有雄心壮志，帮助他们实现目标。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-47-1",
+      "optionId": "cet6:2019-12-03:q-47-1:A",
+      "sourceText": "They enable students from different backgrounds to mix with each other.",
+      "sourceHash": "3e4585ffab9b3f0f0ee3ad1966099be3048396bc59f09a406da780b4c6c6c371",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They enable students from different backgrounds to mix with each other.",
+      "translationEligible": true,
+      "translationZh": "它们使来自不同背景的学生能够相互融合。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-47-1",
+      "optionId": "cet6:2019-12-03:q-47-1:B",
+      "sourceText": "They widen the gap between privileged and disadvantaged students.",
+      "sourceHash": "48523811322c37a6096b7de0192c3fb1941225a2ae8d412e04c400a1a7a3d14b",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They widen the gap between privileged and disadvantaged students.",
+      "translationEligible": true,
+      "translationZh": "它们扩大了特权学生和弱势学生之间的差距。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-47-1",
+      "optionId": "cet6:2019-12-03:q-47-1:C",
+      "sourceText": "They give the disadvantaged students a chance to see the world.",
+      "sourceHash": "f3637ec88337572fd41ccf2e9899d0135adcc8e397dce7bdf9f194986a690b6e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They give the disadvantaged students a chance to see the world.",
+      "translationEligible": true,
+      "translationZh": "他们为弱势学生提供了见识世界的机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-47-1",
+      "optionId": "cet6:2019-12-03:q-47-1:D",
+      "sourceText": "They only benefit students with rich relatives and neighbours.",
+      "sourceHash": "490b4b7e857d79811ee5c49d677a903aad3766a42647a87bb2d68dc3b37674fb",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They only benefit students with rich relatives and neighbours.",
+      "translationEligible": true,
+      "translationZh": "它们只对有富裕亲戚和邻居的学生有利。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-48-1",
+      "optionId": "cet6:2019-12-03:q-48-1:A",
+      "sourceText": "Events aiming to improve community services.",
+      "sourceHash": "5f58bb9621a008c4c51ee6c449760753cb450a1d4d8b06e81ee67364d423b8f1",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Events aiming to improve community services.",
+      "translationEligible": true,
+      "translationZh": "旨在改善社区服务的活动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-48-1",
+      "optionId": "cet6:2019-12-03:q-48-1:B",
+      "sourceText": "Activities that help to fuel students' ingenuity.",
+      "sourceHash": "1e42f1e5b8962a32d5b62e604becbe2d5d6cb33af193888d6e46041f1f360898",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Activities that help to fuel students' ingenuity.",
+      "translationEligible": true,
+      "translationZh": "有助于激发学生创造力的活动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-48-1",
+      "optionId": "cet6:2019-12-03:q-48-1:C",
+      "sourceText": "Events that require mutual understanding.",
+      "sourceHash": "7b18cd92f38166a07daff9d9425bf2605fe89e31a5414d5ff54a53c3ecc4aedc",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Events that require mutual understanding.",
+      "translationEligible": true,
+      "translationZh": "需要相互理解的事件。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-48-1",
+      "optionId": "cet6:2019-12-03:q-48-1:D",
+      "sourceText": "Activities involving all students on campus.",
+      "sourceHash": "7025f3bd0affc80baf2c9119be095ab6f0518b5b02e20d636e867b1054dc5437",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Activities involving all students on campus.",
+      "translationEligible": true,
+      "translationZh": "涉及校园所有学生的活动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-49-1",
+      "optionId": "cet6:2019-12-03:q-49-1:A",
+      "sourceText": "They want their children to participate even though they don't see much benefit.",
+      "sourceHash": "6eb1f25add7a9585ff27611207535783ab775254cff541c8361befbee4c4a18e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They want their children to participate even though they don't see much benefit.",
+      "translationEligible": true,
+      "translationZh": "他们希望自己的孩子参与其中，尽管他们看不到太多好处。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-49-1",
+      "optionId": "cet6:2019-12-03:q-49-1:B",
+      "sourceText": "They don't want their kids to participate but find it hard to keep them from going.",
+      "sourceHash": "713bed4260ecb5a9cfb76ccd987b6e2e73ccbbcd771f65adaffe38a1651216a6",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They don't want their kids to participate but find it hard to keep them from going.",
+      "translationEligible": true,
+      "translationZh": "他们不想让自己的孩子参加，但又发现很难阻止他们参加。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-49-1",
+      "optionId": "cet6:2019-12-03:q-49-1:C",
+      "sourceText": "They don't want their kids to miss any chance to broaden their horizons despite the cost.",
+      "sourceHash": "752455437a9a82b92ca5e0c9f6136a9a207293221b3c64697401bda86639b6a9",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-6-12"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They don't want their kids to miss any chance to broaden their horizons despite the cost.",
+      "translationEligible": true,
+      "translationZh": "他们不希望自己的孩子错过任何拓宽视野的机会，尽管要付出代价。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-49-1",
+      "optionId": "cet6:2019-12-03:q-49-1:D",
+      "sourceText": "They want their children to experience adventures but they don't want them to run risks.",
+      "sourceHash": "5da384b76a10cba230ac804dcd4caa8913348937aa85548dd73047203eebb85c",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-7-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They want their children to experience adventures but they don't want them to run risks.",
+      "translationEligible": true,
+      "translationZh": "他们希望孩子经历冒险，但不希望孩子冒险。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-50-1",
+      "optionId": "cet6:2019-12-03:q-50-1:A",
+      "sourceText": "Bringing a community together with ingenuity.",
+      "sourceHash": "abf62884bfea0ceaeeb6e32bfa9f7bd089c40f12a673bc3191038e82e4556c3a",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Bringing a community together with ingenuity.",
+      "translationEligible": true,
+      "translationZh": "用独创性将社区聚集在一起。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-50-1",
+      "optionId": "cet6:2019-12-03:q-50-1:B",
+      "sourceText": "Resolving the existing discrepancies in society.",
+      "sourceHash": "e34c66026bc88fd7402f1b6ad727f11609c95f62a4491d8039ebbea3fc9c8e9a",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Resolving the existing discrepancies in society.",
+      "translationEligible": true,
+      "translationZh": "解决社会现有的矛盾。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-50-1",
+      "optionId": "cet6:2019-12-03:q-50-1:C",
+      "sourceText": "Avoiding creating new gaps among students.",
+      "sourceHash": "6d4c1fea1b91b96f36783d9872a36c3a893bc9171461c739a5ed2c2e402ddc3d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Avoiding creating new gaps among students.",
+      "translationEligible": true,
+      "translationZh": "避免在学生之间造成新的差距。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-50-1",
+      "optionId": "cet6:2019-12-03:q-50-1:D",
+      "sourceText": "Giving poor students preferential treatment.",
+      "sourceHash": "9f862dc2cbdc83e51860c9bfa23fd009d8d9e96cbc7c110c50b18266cba0f58f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-7-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Giving poor students preferential treatment.",
+      "translationEligible": true,
+      "translationZh": "对贫困学生给予优待。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-51-1",
+      "optionId": "cet6:2019-12-03:q-51-1:A",
+      "sourceText": "King penguins in the Antarctic will be on the verge of dying out.",
+      "sourceHash": "89203884a7e324326815b3337e8f03bebe5425b30d4ad70b36061a4b57a97433",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "King penguins in the Antarctic will be on the verge of dying out.",
+      "translationEligible": true,
+      "translationZh": "南极洲的王企鹅将濒临灭绝。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-51-1",
+      "optionId": "cet6:2019-12-03:q-51-1:B",
+      "sourceText": "Sea water will rise to a much higher level around the Antarctic.",
+      "sourceHash": "fb5c85fc0df6d1ad001defcbea07ef0d920b2d9d52e2b692bfec9440e58c1fee",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Sea water will rise to a much higher level around the Antarctic.",
+      "translationEligible": true,
+      "translationZh": "南极周围的海水将上升到更高的水平。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-51-1",
+      "optionId": "cet6:2019-12-03:q-51-1:C",
+      "sourceText": "The melting ice cover will destroy the great Antarctic wilderness.",
+      "sourceHash": "79a72b8d11286157fa1d1a820b5f98e443c011b71f71d413cd2c6fd304496914",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The melting ice cover will destroy the great Antarctic wilderness.",
+      "translationEligible": true,
+      "translationZh": "融化的冰盖将摧毁南极大片荒野。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-51-1",
+      "optionId": "cet6:2019-12-03:q-51-1:D",
+      "sourceText": "The pristine waters around the Antarctic will disappear forever.",
+      "sourceHash": "65b63d260f6153528ca25bacaf9c99b9592aaadb915babe5742cc295b52c58f4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The pristine waters around the Antarctic will disappear forever.",
+      "translationEligible": true,
+      "translationZh": "南极周围的原始水域将永远消失。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-52-1",
+      "optionId": "cet6:2019-12-03:q-52-1:A",
+      "sourceText": "Shrinking krill population and rising temperatures could force Antarctic whales to migrate.",
+      "sourceHash": "c919dca7e0c3a92e32a7093df66ce03eb3370182e2d7e914f592eb27fb5bbe79",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Shrinking krill population and rising temperatures could force Antarctic whales to migrate.",
+      "translationEligible": true,
+      "translationZh": "磷虾数量的减少和气温的上升可能会迫使南极鲸鱼迁徙。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-52-1",
+      "optionId": "cet6:2019-12-03:q-52-1:B",
+      "sourceText": "Human activities have accelerated climate change in the Antarctic region in recent years.",
+      "sourceHash": "1aed0a6c33b7edcff27fdf09200e66985a10dbea005c0a004ee7bbf9c9aafc5d",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Human activities have accelerated climate change in the Antarctic region in recent years.",
+      "translationEligible": true,
+      "translationZh": "近年来，人类活动加速了南极地区的气候变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-52-1",
+      "optionId": "cet6:2019-12-03:q-52-1:C",
+      "sourceText": "Industrial fishing and climate change could be fatal to certain Antarctic species.",
+      "sourceHash": "a5cf152ffe6a02c3602fd9a50d3496f371a884e20f85fb38864483f5159e8be5",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Industrial fishing and climate change could be fatal to certain Antarctic species.",
+      "translationEligible": true,
+      "translationZh": "工业捕鱼和气候变化可能对某些南极物种致命。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-52-1",
+      "optionId": "cet6:2019-12-03:q-52-1:D",
+      "sourceText": "Krill fishing in the Antarctic has worsened the pollution of the pristine waters.",
+      "sourceHash": "fe7d14693b26a3926b3443d5dcb96efadd4bea26d4cb352d5b94f1c54fe9ade3",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-4"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Krill fishing in the Antarctic has worsened the pollution of the pristine waters.",
+      "translationEligible": true,
+      "translationZh": "南极磷虾捕捞加剧了原始水域的污染。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-53-1",
+      "optionId": "cet6:2019-12-03:q-53-1:A",
+      "sourceText": "They will tum out to be the second-largest species of birds to become extinct.",
+      "sourceHash": "d6853c0f6aa37cb2107d13f545ba29120e260cd9a1282702d8a327867b14d08b",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They will tum out to be the second-largest species of birds to become extinct.",
+      "translationEligible": true,
+      "translationZh": "它们将成为第二大灭绝的鸟类。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-53-1",
+      "optionId": "cet6:2019-12-03:q-53-1:B",
+      "sourceText": "Many of them will have to migrate to isolated islands in the Southern Ocean.",
+      "sourceHash": "3417622e0516e6ee44bc60df9cc9320218dd48e9184d9681fbd4779c70087191",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Many of them will have to migrate to isolated islands in the Southern Ocean.",
+      "translationEligible": true,
+      "translationZh": "他们中的许多人将不得不迁徙到南大洋的孤岛。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-53-1",
+      "optionId": "cet6:2019-12-03:q-53-1:C",
+      "sourceText": "They feed primarily on only a few kinds of krill in the Antarctic Polar Front.",
+      "sourceHash": "14f5ce1d40792aaaf25e96dd01d756be8963d722f0e2fc91c2f24ecb42e1f999",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They feed primarily on only a few kinds of krill in the Antarctic Polar Front.",
+      "translationEligible": true,
+      "translationZh": "它们主要以南极极锋中的几种磷虾为食。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-53-1",
+      "optionId": "cet6:2019-12-03:q-53-1:D",
+      "sourceText": "The majority of them may have to find new breeding grounds in the future.",
+      "sourceHash": "3e528d3e1ee99dc465d12e1e518d703909c3f3f97545b7d595f80577b2072c5e",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-6"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The majority of them may have to find new breeding grounds in the future.",
+      "translationEligible": true,
+      "translationZh": "其中大多数未来可能不得不寻找新的繁殖地。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-54-1",
+      "optionId": "cet6:2019-12-03:q-54-1:A",
+      "sourceText": "Many baby king penguins can't have food in time.",
+      "sourceHash": "1bfc80e2f7f4332dbd102b5988c6a4d32b9600a72d56e939eea477b78d3ab879",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Many baby king penguins can't have food in time.",
+      "translationEligible": true,
+      "translationZh": "许多王企鹅宝宝无法及时进食。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-54-1",
+      "optionId": "cet6:2019-12-03:q-54-1:B",
+      "sourceText": "Many king penguins could no longer live on krill.",
+      "sourceHash": "850d8708435feb79e00f272a4549169edef27eb357dd5c029ea6510a2dd58310",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Many king penguins could no longer live on krill.",
+      "translationEligible": true,
+      "translationZh": "许多王企鹅无法再以磷虾为生。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-54-1",
+      "optionId": "cet6:2019-12-03:q-54-1:C",
+      "sourceText": "Whales will invade king penguins' breeding grounds.",
+      "sourceHash": "8163842238a6c565c6728c50b35686c515d1d92008688983b41a0ea7aba2b63f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Whales will invade king penguins' breeding grounds.",
+      "translationEligible": true,
+      "translationZh": "鲸鱼将入侵王企鹅的繁殖地。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-54-1",
+      "optionId": "cet6:2019-12-03:q-54-1:D",
+      "sourceText": "Whales will have to travel long distances to find food.",
+      "sourceHash": "b4520c127aa86c7a41f3a677b38f840d56b1821831109c9e9b367a61d7427aa0",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-8"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Whales will have to travel long distances to find food.",
+      "translationEligible": true,
+      "translationZh": "鲸鱼必须长途跋涉才能寻找食物。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-55-1",
+      "optionId": "cet6:2019-12-03:q-55-1:A",
+      "sourceText": "The king penguins there are reluctant to leave for new breeding grounds.",
+      "sourceHash": "964d37dbdda41c2a33587e9db24d1b6b4a5c831382a4dffd405d1d9978b1a9e0",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The king penguins there are reluctant to leave for new breeding grounds.",
+      "translationEligible": true,
+      "translationZh": "那里的王企鹅不愿意离开去新的繁殖地。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-55-1",
+      "optionId": "cet6:2019-12-03:q-55-1:B",
+      "sourceText": "Its conservation is key to the sustainable propagation of Antarctic species.",
+      "sourceHash": "b81864c0cc6b378d47ed0758607e3c9a625b30b76e120b6e428acb77a68fcfd5",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Its conservation is key to the sustainable propagation of Antarctic species.",
+      "translationEligible": true,
+      "translationZh": "它的保护是南极物种可持续繁殖的关键。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-55-1",
+      "optionId": "cet6:2019-12-03:q-55-1:C",
+      "sourceText": "It is most likely to become the ultimate retreat for species like the king penguin.",
+      "sourceHash": "44ca8970d8b620d8e0be565d0e10cf6e4f6be6dc0825f9c44d86ad4a36891ffd",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is most likely to become the ultimate retreat for species like the king penguin.",
+      "translationEligible": true,
+      "translationZh": "它很可能成为王企鹅等物种的最终避难所。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-55-1",
+      "optionId": "cet6:2019-12-03:q-55-1:D",
+      "sourceText": "Only a few of its islands can serve as huge breeding grounds for king penguins.",
+      "sourceHash": "d15b12e14a5a7f90b6c7ad1e9139df75e473dbc3fd0eff7d71a65337e9f417a1",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-8-10"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-8-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Only a few of its islands can serve as huge breeding grounds for king penguins.",
+      "translationEligible": true,
+      "translationZh": "只有少数岛屿可以作为王企鹅的巨大繁殖地。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:A",
+      "sourceText": "alleviate",
+      "sourceHash": "b9468c68a44d39d06d9e0502fe07d7a8dfa805e365a694dcd42b33bedabfebae",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "alleviate",
+      "translationEligible": true,
+      "translationZh": "缓解",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:B",
+      "sourceText": "apparently",
+      "sourceHash": "f2b259a7fe2dd487dd27c021649f88ef3c02254357596fbb6e1713da8f4bba2b",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "apparently",
+      "translationEligible": true,
+      "translationZh": "显然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:C",
+      "sourceText": "arrogant",
+      "sourceHash": "d471a50f43148bb9ab656e3d736378372c16b872b15d297b4a18e92d3aafa488",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "arrogant",
+      "translationEligible": true,
+      "translationZh": "傲慢的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:D",
+      "sourceText": "associated",
+      "sourceHash": "de38e0881e31dde689abdc0bf1aaeb73f574613924c446959331a425642985ae",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "associated",
+      "translationEligible": true,
+      "translationZh": "关联的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:E",
+      "sourceText": "circumstances",
+      "sourceHash": "e43af7898b789081f0181680dd267c68ff8bf93ac155adf371c78409d0e4f8a3",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "circumstances",
+      "translationEligible": true,
+      "translationZh": "情况",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:F",
+      "sourceText": "competitive",
+      "sourceHash": "020dae383219bf785518e1af41f1a8f5ed14db6eeb5fa8219d806846cb1129f2",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "competitive",
+      "translationEligible": true,
+      "translationZh": "有竞争力的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:G",
+      "sourceText": "conceded",
+      "sourceHash": "8ab27b2abbca041fd4406afa6697799548e7118019cf283fe34ec1c9aa445740",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "conceded",
+      "translationEligible": true,
+      "translationZh": "失球",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:H",
+      "sourceText": "consciousness",
+      "sourceHash": "003a7a99f8dc0add83b823f6c3bdff93822b97116104d8c073aaf9cf55e0835f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "consciousness",
+      "translationEligible": true,
+      "translationZh": "意识",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:I",
+      "sourceText": "desires",
+      "sourceHash": "7726c1a3f862854a8e517fa31abf8b31a3ec1e51970e809156aea7e02495ac07",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "desires",
+      "translationEligible": true,
+      "translationZh": "欲望",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:J",
+      "sourceText": "excluded",
+      "sourceHash": "cfa5ad96f5be4fc290f591b8afd957551315abbb0a68cdf7660849d8829d644f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "excluded",
+      "translationEligible": true,
+      "translationZh": "排除",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:K",
+      "sourceText": "feature",
+      "sourceHash": "2ad562319767157087dda0dec6391f4479f8a04869ab0cc8d3a9c3637dae73b5",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "feature",
+      "translationEligible": true,
+      "translationZh": "特征",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:L",
+      "sourceText": "lonely",
+      "sourceHash": "1cb0f5a9e3a8e4ddd72322c677990833aa4c67ff300b3ebfbfb726894f1a1058",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "lonely",
+      "translationEligible": true,
+      "translationZh": "孤独",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:M",
+      "sourceText": "separate",
+      "sourceHash": "80ed840f94f7d1bdf549226fd21c8d3927f38009f17539a1aa3a239c04afbd2f",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "separate",
+      "translationEligible": true,
+      "translationZh": "分开",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:N",
+      "sourceText": "spectacularly",
+      "sourceHash": "71113bfb0d9b0e124abfaa5b5ff251a7b3f5eb989a2b968a428909748affcf82",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "spectacularly",
+      "translationEligible": true,
+      "translationZh": "壮观地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-12-03",
+      "questionId": "cet6:2019-12-03:q-26-1",
+      "optionId": "cet6:2019-12-03:word-bank:O",
+      "sourceText": "warrant",
+      "sourceHash": "d9bceb39819ed7a46968c3f9b31b50cfcf09492d3472ea264640caad3d3609c4",
+      "sourceBlockIds": [
+        "cet6:2019-12-03:b-2-2"
+      ],
+      "reflowBlockId": "cet6:2019-12-03:b-2-1",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "warrant",
+      "translationEligible": true,
+      "translationZh": "令状",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-6",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-7",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-8",
+      "classification": "ineligible",
+      "reason": "unparsed_cloze_region",
+      "paragraphId": "cet6:2019-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-9",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2019-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-10",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2019-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-11",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2019-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2019-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-1-13",
+      "classification": "excluded",
+      "reason": "cloze_non_prose"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-2-12",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-3-6",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-2",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-5",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-4-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-9",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-10",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-11",
+      "classification": "included",
+      "reason": "recovered_direction_option",
+      "paragraphId": "cet6:2019-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-14",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-5-17",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-1",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-6-12",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-6",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-7",
+      "classification": "ineligible",
+      "reason": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-7-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-12-03:p:b-7-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-7-10",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-8-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-8-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-8-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-8-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-12-03:p:b-8-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-8-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-13",
+      "classification": "included",
+      "reason": "section_translation",
+      "paragraphId": "cet6:2019-12-03:p:b-8-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-8-15",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-9-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-9-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-12-03:p:b-9-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-12-03:b-9-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 20,
+    "included": 52,
+    "ineligible": 11
+  },
+  "reasonCounts": {
+    "cloze_non_prose": 1,
+    "heading_prose": 2,
+    "instruction": 7,
+    "non_english_or_fragment": 10,
+    "question_prompt": 20,
+    "reading_prose": 21,
+    "recovered_direction_option": 1,
+    "section_label": 9,
+    "section_translation": 1,
+    "source_unreadable": 6,
+    "unparsed_cloze_region": 1,
+    "unresolved_cloze_or_source_mismatch": 4
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 2,
+    "instruction": 8,
+    "question_prompt": 20,
+    "reading": 27,
+    "translation_prompt": 1
+  },
+  "otherSourceBlockCounts": {
+    "options": 12,
+    "source_line": 3,
+    "structured_image_source_line": 3,
+    "structured_source_notice": 7
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-9",
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13"
+      ],
+      "reasons": [
+        "blank_marker_count:26:0",
+        "blank_marker_count:27:0",
+        "blank_marker_count:28:0",
+        "blank_marker_count:29:0",
+        "blank_marker_count:30:0",
+        "blank_marker_count:31:0",
+        "blank_marker_count:32:0",
+        "blank_marker_count:33:0",
+        "blank_marker_count:34:0",
+        "blank_marker_count:35:0",
+        "printed_blank_sequence_mismatch",
+        "unverified_source_number:31"
+      ]
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-2",
+      "replacementCharacters": 13,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-4-5",
+      "replacementCharacters": 13,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-5-14",
+      "replacementCharacters": 8,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-6-1",
+      "replacementCharacters": 6,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-6",
+      "replacementCharacters": 18,
+      "sourceRenderMismatch": true
+    },
+    {
+      "code": "source_unreadable",
+      "paragraphId": "cet6:2019-12-03:p:b-7-7",
+      "replacementCharacters": 4,
+      "sourceRenderMismatch": true
+    }
+  ]
+}

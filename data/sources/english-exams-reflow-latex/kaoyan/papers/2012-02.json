@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2012 年全国硕士研究生招生考试英语（二）",
@@ -242,39 +242,38 @@
           ]
         },
         {
-          "type": "options",
-          "items": [
+          "type": "paragraph",
+          "runs": [
             {
-              "label": "G",
-              "runs": []
+              "text": "G.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
             },
             {
-              "label": "I",
-              "runs": [
-                {
-                  "text": "Joe had a ",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                },
-                {
-                  "text": "11",
-                  "flags": [
-                    false,
-                    true,
-                    false
-                  ]
-                },
-                {
-                  "text": " career fighting German, Japanese, and Korean troops. He",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+              "text": "I. Joe had a ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
+            {
+              "text": "11",
+              "flags": [
+                false,
+                true,
+                false
+              ]
+            },
+            {
+              "text": " career fighting German, Japanese, and Korean troops. He",
+              "flags": [
+                false,
+                false,
+                false
               ]
             }
           ]
@@ -2082,14 +2081,6 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " Unified has made the rule about homework mainly because poor students ____",
-              "flags": [
-                false,
-                false,
-                false
-              ]
             }
           ]
         },
@@ -2140,6 +2131,19 @@
               "runs": [
                 {
                   "text": "have voiced their complaints about homework.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "L",
+              "runs": [
+                {
+                  "text": "A. Unified has made the rule about homework mainly because poor students ____",
                   "flags": [
                     false,
                     false,
@@ -2230,12 +2234,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "whether ____",
               "flags": [
@@ -2652,12 +2659,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "much influenced by ____",
               "flags": [
@@ -3745,12 +3755,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "universities tend to ____",
               "flags": [
@@ -4261,12 +4274,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "policymakers in poor countries. They fear that it hurts their economies, depriving them of much-needed skilled workers who could have taught at their universities, worked in their hospitals and come up with clever new products for their factories to make.",
               "flags": [
@@ -4425,7 +4441,108 @@
       "inline_glyphs": 0
     },
     {
-      "blocks": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "runs": [
+            {
+              "text": "Part B",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "48. Directions:",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write an essay based on the following table. In your writing, you should",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "1) describe the table, and",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "question",
+          "runs": [
+            {
+              "text": "2) give your comments.",
+              "flags": [
+                true,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "You should write at least 150 words.",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Write your essay on the ANSWER SHEET. (15 points)",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "figure",
+          "bbox": [
+            64,
+            244,
+            530,
+            409
+          ]
+        }
+      ],
       "removed_marginal_text": [],
       "figure_text": [],
       "encoding_uncertain": [],

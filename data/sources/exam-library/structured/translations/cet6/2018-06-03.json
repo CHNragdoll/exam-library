@@ -1,0 +1,3730 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2018-06-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+  "sourcePdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+  "paragraphs": [
+    {
+      "id": "cet6:2018-06-03:p:b-1-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions:For this part, you are allowed 30 minutes to write an essay commenting on the importance of building trust between business and consumers.You can cite examples to illustrate your views. You should write at least 150 words but no more than 200words.",
+      "sourceHash": "dc1424ae6afc3c264ea56cdeca26eef86e7cbd1f88c05367ff4b8473c799642f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇文章，评论企业和消费者之间建立信任的重要性。您可以举出例子来说明您的观点。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-8",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions:In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "863b5c80952f897f8bf1195654b822409e344204040faa993ee8ff5364b09c2d",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节中有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-9",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 26 to 35 are based on the following passage.",
+      "sourceHash": "d81a9979810985d6d593fb77874c1bf30a863e90a59a3f32445681614c762907",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 26 至 35 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-10",
+      "paperId": "cet6:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "When Elon Musk says that his new priority is using artificial intelligence to build domestic robots, we should look forward to the day in admiration.",
+      "sourceHash": "e5d6181b3565ef0d7e48e55b7c548f3c6cbbcf273bf3369f5720eb6978b10538",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-11",
+      "paperId": "cet6:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "Mr. Musk is a guy who gets things done. The founder of two tech companies, Tesla Motors and SpaceX, is bringing electric vehicles to mass market and 26 humans to live on other planets. This sounds like so much hot air, but the near $13 billion fortune this entrepreneur has 27 comes from practical achievements rather than hypothetical ones.",
+      "sourceHash": "118ffec62da91fafe57e8ec60a42e13197d1f8c05dba3e70cafda394ee175dfe",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-12",
+      "paperId": "cet6:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "A lot of clever people are 28 about artificial intelligence, fearing that robots will one day become so 29 that they’ll murder all of us. These fears are mostly 30 : as with hysteria about genetic modification, we humans are generally wise enough to manage these problems with speed and care.",
+      "sourceHash": "8a7b863a4d77e26d0c2737db0026901143cbe7bcdee2529080c0bcfb17d28dd1",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-13",
+      "paperId": "cet6:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "And just think of how wonderful it would be if you had a live-in robot. It could, 31 , be like having a babysitter and a nurse rolled into one--or, if that required 32 intelligence beyond the power of Mr. Musk’s imagined machine, at least someone to chop the carrots, wash the car and mow the lawn. Once purchased and trained, this would allow the 33 user to save money and time, freeing up 34 space in our busy lives to read a good book.",
+      "sourceHash": "61b2bb89a6f1d2badb98e25d3b4b218eeaee4e38aa13361aa94e9293cd70260c",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-1-14",
+      "paperId": "cet6:2018-06-03",
+      "kind": "cloze",
+      "sourceText": "That is why we welcome Mr. Musk’s latest 35 , and wish him well. As long as robots add to the sum of human happiness, reduce suffering, and create time to read world-class journalism, we should be their fans. Especially since journalism is one job robots will never do.",
+      "sourceHash": "472c8e4da9413266164dd6f9a271f467318a228ce7d69695a58bee6651469b43",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet2.",
+      "sourceHash": "c1c3eec9b4d3846d201b95308ee1fb3fc9c02856f058889c70afd94707aaef75",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "heading_prose",
+      "sourceText": "In the real world, nobody cares that you went to an Ivy League school",
+      "sourceHash": "082a1fb1e53309308a3119e7a7c6d2b330dd1453f48ebb215302a664aa51ff33",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在现实世界中，没有人关心你是否上过常春藤盟校",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-4",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) . As a high school junior, everything in my life revolved around getting into the right college. I diligently attended my SAT, ACT, and Advanced Placement test preparation courses. I juggled （尽力应付）cross-country and track schedules, newspaper staff, and my church’s youth group and drama team. I didn’t drink, party, or even do much dating. The right college, I thought, was one with prestige, one with a name. It didn’t have to be the Ivy League, but it needed to be “top school.”",
+      "sourceHash": "da8a867e2151d71016fcf37b9993b1c14d554a3b24a534146dd33faf5873297b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A).作为一名高中生，我生活中的一切都围绕着进入合适的大学。我努力参加 SAT、ACT 和大学先修考试准备课程。我兼顾越野和田径日程、报纸工作人员以及教会的青年小组和戏剧团队。我不喝酒，不参加聚会，甚至不怎么约会。我认为，合适的大学是一所有声望、有名气的大学。它不一定是常春藤盟校，但它需要是“顶尖学校”。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) . Looking back now, nine years later, I can’t remember exactly what it was about these universities that made them seem so much better. Was it a curriculum that appeared more rigorous, perhaps？Or an alumni network that I hoped would open doors down the line？Maybe. “I do think there are advantages to schools with more recognition,” notes Marybeth Gasman, a professor of higher education at the University of Pennsylvania. “I don’t necessarily think that’s a reason to go to one.”",
+      "sourceHash": "3704396172583b2ae96fbaf7a024bb4b19a5b699d80b1d724591fd92afac2fe7",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B).九年后的今天回想起来，我已经记不清这些大学究竟是什么让它们看起来如此美好了。也许是一个看起来更严格的课程？或者是一个我希望能够打开大门的校友网络？也许。 “我确实认为，获得更多认可的学校有优势，”宾夕法尼亚大学高等教育学教授玛丽贝斯·加斯曼 (Marybeth Gasman) 指出。 “我并不认为这一定是去那里的理由。”",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-6",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) . In reflection, my firm belief in the power of the brand was naive, not to mention a bit snobby. I quickly passed over state schools and southern schools, believing their curriculum to be automatically inferior to northeastern or western counterparts. Instead, I dreamed of living in New York City and my parents obliged me with a visit to New York University’s （NYU）campus. During the tour, tuition fees were discussed. （NYU is consistently ranked one of the country’s most expensive schools, with room and board costs totaling upwards of $64,000 a year.）Up until then, I hadn’t truly realized just how expensive an education can be. Over the next few months, I realized not only could I not afford my dream school, I couldn’t even afford the ones where I’d been accepted. City University of New York （CUNY）, Rutgers University, and Indiana University were out of reach as were Mississippi State and the University of Alabama, where I would have to pay out-of-state fees. Further complicating my college search was a flourishing stack career—I wanted to keep running but my times weren’t quite fast enough to secure a scholarship.",
+      "sourceHash": "5e930b70e581859486e7902adaeda55f10082701491fec95a4ca659a3aa25a28",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C).反思一下，我对品牌力量的坚定信念是幼稚的，甚至有点势利。我很快就跳过了公立学校和南方学校，认为它们的课程自然不如东北部或西部的学校。相反，我梦想住在纽约市，我的父母强迫我参观了纽约大学（NYU）校园。参观期间，讨论了学费问题。 （纽约大学一直被评为全美最昂贵的学校之一，每年的食宿费用总计高达 64,000 美元。）直到那时，我才真正意识到教育到底有多昂贵。在接下来的几个月里，我意识到我不仅买不起我梦想的学校，我什至买不起那些我被录取的学校。纽约市立大学（CUNY）、罗格斯大学和印第安纳大学是遥不可及的，密西西比州立大学和阿拉巴马大学也是如此，我必须支付州外费用。让我的大学搜索变得更加复杂的是蓬勃发展的堆栈职业——我想继续跑步，但我的时间不够快，不足以获得奖学金。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-7",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) . And so, at 11pm on the night of Georgia State University’s （GSU）midnight deadline, I applied online. Rated No.466 overall on Forbes’ Lists Top Colleges, No. 183 in Research Universities, and No. 108 in the South, I can’t say it was my top choice. Still, the track coach had offered me a walk-on spot, and I actually found the urban Atlanta campus a decent consolation prize after New York City.",
+      "sourceHash": "b6e2585e4899257ba117d8d1ee016466f80d1901ec5539f9e1825404783bb56b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）。于是，在佐治亚州立大学（GSU）午夜截止日期的晚上 11 点，我在线申请了。在福布斯顶尖大学排行榜上总体排名第 466 位，研究型大学排名第 183 位，南方大学排名第 108 位，我不能说它是我的首选。尽管如此，田径教练还是为我提供了一个步行位置，事实上，我发现亚特兰大市区校园是继纽约市之后一个不错的安慰奖。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-8",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) . While it may have been practical, it wasn’t prestigious, But here’s the thing：I loved my “lower-tier” （低层次的）university. （I use the term “low-tier” cautiously, because GSU is a well-regarded research institution that attracts high quality professors and faculty from all over the country.）We are taught to believe that only by going to the best schools and getting the best grades can we escape the rat race and build a better future. But what if lower-tier colleges and universities were the ticket to escaping the rat race？ After all, where else can you leave school with a decent degree—but without a lifetime of debt？",
+      "sourceHash": "a33c8d6c26e102f1608f7d779c9affde2ff31665077e4b90ac0bb30d7100d23b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E）。虽然它可能很实用，但并不享有盛誉，但事情是这样的：我喜欢我的“低层”大学。 （我谨慎地使用“低层”这个词，因为GSU是一所备受推崇的研究机构，吸引了来自全国各地的高素质教授和教师。）我们被教导相信，只有进入最好的学校并获得最好的成绩，我们才能摆脱激烈的竞争并建设更美好的未来。但如果低水平的学院和大学是逃离激烈竞争的门票呢？毕竟，你还能在哪里带着像样的学位离开学校，而又不背上终生的债务呢？",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-9",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) My school didn’t come pre-packaged like the more popular options, so we were left to take care of ourselves, figuring out city life and trying to complete degree programs that no one was championing for us to succeed in. What I’m saying is, Iloved my university because it taught us all to be resourceful and we could make what we wanted out of it.",
+      "sourceHash": "f6bb7dd658872d6a99f9614f87806b21e8a662c3e2ccca89a77fa49ca3ebda40",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 我的学校没有像更受欢迎的选择那样预先包装，所以我们只能照顾自己，弄清楚城市生活，并努力完成没有人支持我们成功的学位课程。我想说的是，我爱我的大学，因为它教会我们所有人要足智多谋，我们可以从中得到我们想要的东西。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-2-10",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) . I was lucky enough to have my tuition covered by a lottery-funded scholarship called HOPE （Helping Outstanding Pupils Educationally）When I started college, the HOPE scholarship was funded by the state of Georgia and offered to graduating high school seniors with a GPA of 3.0 or higher. Living costs and books I paid for with money earned during high school, supplemented by a small college fund my deceased grandfather left for me and a modest savings account my parents",
+      "sourceHash": "9a85ee16a3676997016d7a2bfb0a908ce825557065dc7f2b139ae41459bb877e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G）。我很幸运，得到了一项名为 HOPE（Helping Outstanding Pupils Educationally）的彩票资助奖学金来支付我的学费。当我开始上大学时，HOPE 奖学金由佐治亚州资助，提供给 GPA 为 3.0 或更高的高中毕业生。我用高中期间赚的钱支付生活费和书本费，另外还有我已故祖父留给我的一小笔大学基金和我父母的一个小额储蓄账户",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-1",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "created when I was born.",
+      "sourceHash": "c371f955164df860746c56ccd78c508a5791a358c0a263e3f16e1301765444c0",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我出生时就创造了。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) . So what about all that name recognition？Sure, many of my colleagues and competitors have more glamorous alma maters（母校）than I do. As a journalist, I have competed against NYU, Columbia, and Northeastern graduates for jobs. And yet, not a single interviewer has ever asked me about my educational background. In fact, almost every interview I’ve ever had was due to a connection—one that I’ve gained through pure determination, not a school brand.",
+      "sourceHash": "c9eb1971ee1582ae7553fa02c4a7f4fce4d5d9add74e1065e68f19ecd76ed926",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H）。那么，那些知名度又如何呢？当然，我的许多同事和竞争对手的母校都比我更迷人。作为一名记者，我曾与纽约大学、哥伦比亚大学和东北大学的毕业生竞争工作。然而，没有一个面试官问过我的教育背景。事实上，我接受过的几乎每一次采访都是因为一种联系——这种联系是我通过纯粹的决心而不是学校品牌获得的。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) . According to The Boston Globe, students who earned their bachelor’s in 2012 have an average monthly loan payment of $312, which is one-third more than those who graduated in 2004. Ultimately, that’s the thing universities don’t want to admit. Private universities are money-making institutions. If you can afford to buy prestige, that’s your choice. For the rest of us, however, our hearty lower-tiered universities are just fine, thank you.",
+      "sourceHash": "aa22c7d68f0739f219be6218081819210a45c16d0bb65d9ea85ad3146e4bc377",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我）。据《波士顿环球报》报道，2012 年获得学士学位的学生平均每月还贷 312 美元，比 2004 年毕业的学生多了三分之一。归根结底，这是大学不愿意承认的事情。私立大学是赚钱的机构。如果你有能力购买声望，那是你的选择。然而，对于我们其他人来说，我们热情的低层大学就很好了，谢谢。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-4",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) . Wealthy universities talk up the benefits their name will give graduates；namely, strong alumni networks, star faculty, and a résumé boost. But you needn’t attend an Ivy League school to reap those rewards. Ludacris and the former CEO of Bank of America Ken Lewis are alumni of my college, as well as VICE’s first female editor-in-chief, Ellis Jones. Successful people tend to be successful no matter where they go to school. And lower-tier schools can have alumni networks just as strong as their big name counterparts. In fact, lower-tier school alumni networks are arguably stronger, because fellow alumni recognize that you didn’t necessarily have an easy path to follow. They might be more willing to offer career help, because your less famous school denotes that, like them., you are also full of energy and perseverance.",
+      "sourceHash": "0555f50525b342992fbcd784224a60bf358424431292c05bdd747e80c1055b4b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J）。富裕的大学大肆宣扬其名字会给毕业生带来的好处，即强大的校友网络、明星师资和简历的提升。但你不一定要上常春藤盟校才能获得这些回报。卢达克里斯和美国银行前首席执行官肯·刘易斯是我大学的校友，还有 VICE 的第一位女主编埃利斯·琼斯。成功的人无论在哪里上学都往往会成功。低级别学校也可以拥有与知名学校一样强大的校友网络。事实上，低层学校的校友网络可以说更强大，因为校友们认识到你不一定有一条容易走的路。他们可能更愿意提供职业帮助，因为你名气不大的学校表明你也和他们一样充满活力和毅力。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) . The Washington Post reported on a recent study by Princeton economists, in which college graduates, who applied to the most selective schools in the 12th grade were compared to those who applied to slightly less selective schools. They found that students with more potential earned more as adults, and the reverse held true as well, no matter where they went to school.",
+      "sourceHash": "6bf6eccca8ab154d16b7be1c08a1044d761d0d2ecfb538fa8310f2227e2be92e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K）。 《华盛顿邮报》报道了普林斯顿大学经济学家最近的一项研究，其中将申请 12 年级最挑剔学校的大学毕业生与申请稍微不那么挑剔的学校的大学毕业生进行了比较。他们发现，潜力更大的学生成年后收入更高，反之亦然，无论他们在哪里上学。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-6",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "L) . Likewise, star faculty is not always found where you’d expect. Big name schools are not necessarily the best places for professors；plus, many professors split teaching time between multiple colleges and/or universities. This means, for instance, a CUNY student could reasonably expect to receive the same quality of instruction from a prestigious professor as they would if they were enrolled in the same class at NYU.",
+      "sourceHash": "cc6362c374a699c32da845aa10259c12bffe2d730cce92c58fb6f5c75252b6ee",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L）。同样，明星教师并不总是在你期望的地方找到。名校不一定是教授的最佳去处；此外，许多教授将教学时间分配到多个学院和/或大学。例如，这意味着纽约市立大学的学生可以合理地期望从一位著名教授那里获得与在纽约大学就读同一课程的相同质量的教学。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-7",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "M) . It’s possible that some hiring managers may be drawn to candidates with a particular educational résumé, but it’s no guarantee. According to a 2012 survey described in The Atlantic, college reputation ranked lowest in relative importance of attributes in evaluating graduates for hire, beaten out by top factors like internships, employment during college, college major, volunteer experience, and extracurriculars.",
+      "sourceHash": "cbbbeeb0912e82336e389128cf21a5ea12b887e30c21fa4e9bc1b60fe43b4f52",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "米）。一些招聘经理可能会被具有特定教育经历的候选人所吸引，但这并不能保证。根据《大西洋月刊》2012 年的一项调查，在评估应聘毕业生的相对重要性方面，大学声誉排名最低，其次是实习、大学期间就业、大学专业、志愿者经验和课外活动等首要因素。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-3-8",
+      "paperId": "cet6:2018-06-03",
+      "kind": "passage_option",
+      "sourceText": "N) . Maybe students who choose less prestigious universities are bound to succeed because they are determined to. I tend to think so. In any case, if I could do it again, I’d still make the same choice. Today I’m debt-free, resourceful—and I understand that even the shiniest packaging can’t predict what you’ll find on the inside.",
+      "sourceHash": "d7c530513d4989ac69c0c66c484a38728a443314d3c45fe65701471e3ad3aa60",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N）。也许选择名气较小的大学的学生一定会成功，因为他们决心这样做。我倾向于这样认为。无论如何，如果可以重来一次，我还是会做出同样的选择。如今，我没有债务，足智多谋——而且我明白，即使是最闪亮的包装也无法预测你会在里面发现什么。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-1",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36.Modest institutions can also have successful graduates and strong alumni networks.",
+      "sourceHash": "faeea0bd3a00a2bf9e804178d8fa2d1fef88891ab661991e0b6f3810bb20d960",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 规模不大的院校也可以拥有成功的毕业生和强大的校友网络。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37.The money the author made in high school helped pay for her living expenses and books at college.",
+      "sourceHash": "5ce1cfcc2c55e82e0a82a7c516dffaf3b7d81156930f57414a925ef8bc857bdd",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37.提交人在高中赚的钱用来支付她大学的生活费和书本费。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38.The author came to see how costly college education could be when she was trying to choose a university to attend.",
+      "sourceHash": "6cb22891d994cdb9b2484419a60d518b8fe56e1540b24106d5fcd44038d0f06f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38.当作者试图选择一所大学就读时，她发现大学教育的费用有多么昂贵。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-4",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39.A recent study found that a graduate’s salary is determined by their potential, not the university they attended.",
+      "sourceHash": "232e77c5def7e01c80b01409b5385abbd27441098e95dd696407f6e63d79231d",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39.最近的一项研究发现，毕业生的薪水取决于他们的潜力，而不是他们就读的大学。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40.The author cannot recall for sure what made certain top universities appear a lot better.",
+      "sourceHash": "f877ee92f967ec16079c39399847883a9af7c2f50ac2b55f64c9c1025a6334d0",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40.作者无法确定是什么让某些顶尖大学显得更好。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-6",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41.None of the author’s job interviewers cared which college she went to.",
+      "sourceHash": "5754b36b6e22ae64b5f77c396be0c33c47460d8d5e72c8f346f42acf2fc80e73",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41.提交人的求职面试官都不关心她去了哪所大学。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-7",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42.The author thinks she did the right thing in choosing a less prestigious university.",
+      "sourceHash": "492eac77126119dd1411d630f0aaf532604445bd0d59d7ff748e4641cab50355",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42.作者认为她选择一所不太知名的大学是正确的。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-8",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43.In order to be admitted to a prestigious university, the author took part in various extracurricular activities and attended test preparation courses.",
+      "sourceHash": "cf3fd61735454a450c5070dd771d0fa00809b1b34b31c23600abb84b7cfa7f3b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43.为了考入名牌大学，提交人参加了各种课外活动并参加了考试准备课程。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-9",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44.The author liked her university which was not prestigious but less expensive.",
+      "sourceHash": "f98ad7c6f21795fd236a86702935c9e0979b72d6ba1f2925aa1f69b6eefb3d1a",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44.作者喜欢她的大学，虽然名气不大，但学费比较便宜。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-10",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45.Colleges are reluctant to admit that graduates today are in heavier debt.",
+      "sourceHash": "b543dd2e557c49613a6f0a0ffa3f59ab9eeb0a9a3a1a7d677be716afdab71283",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45.大学不愿承认如今的毕业生负债更重。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-12",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions：There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre",
+      "sourceHash": "c5223e9809b0c5cc54d7266e82a6dd291452f5ccceb6b322a98c60a10b08e700",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有2个段落。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题纸 2 上用一条穿过中心的单线标记相应的字母",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-14",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-15",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Economically speaking，are we better off than we were ten years ago？Twenty years ago？",
+      "sourceHash": "f4071bf78c06a3dcaf25ed3059035ba72440cb213f18933a073bdccb4613af44",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "从经济上来说，我们的生活比十年前更好吗？二十年前吗？",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-16",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "In their thirst for evidence on this issue，commentators seized on the recent report by the Census Bureau，which found that average household income rose by 5.2% in 2015. Unfortunately，that conclusion puts too much weight on a useful，but flawed and incomplete， statistic. Among the more significant problems with the Census’s measure are that：1）it excludes taxes，transfers，and compensation like employer-provided health insurance；and 2）it is based on surveys rather than data. Even if precisely measured，income data exclude important determinants of economic well-being，such as the hours of work needed to earn that income.",
+      "sourceHash": "e6652a6f77678238c662234ca8f56da502e1868cfe9f8919d0efd1577af73136",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "出于对这一问题证据的渴求，评论员们抓住了人口普查局最近的一份报告，该报告发现 2015 年平均家庭收入增长了 5.2%。不幸的是，这一结论过分重视了一项有用但有缺陷且不完整的统计数据。人口普查措施的更重要问题包括：1）它排除了税收、转移支付和雇主提供的健康保险等补偿；2）它基于调查而不是数据。即使精确测量，收入数据也排除了经济福祉的重要决定因素，例如赚取该收入所需的工作时间。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-17",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "While thinking about the question，we came across a recently published article by Charles Jones and Peter Klenow ，which proposes an interesting new measure of economic welfare. While by no means perfect，it is considerably more comprehensive than average income， taking into account not only growth in consumption per person but also changes in working time，life expectancy，and inequality. Moreover，it can be used to assess economic performance both across countries and over time.",
+      "sourceHash": "22e2efca68b94bbb65ed7aa0964ac231ba7b879d7717b70cc445bb2e43e6dab6",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在思考这个问题时，我们看到了 Charles Jones 和 Peter Klenow 最近发表的一篇文章，其中提出了一种有趣的新经济福利衡量标准。虽然并不完美，但它比平均收入更全面，不仅考虑到人均消费的增长，还考虑到工作时间、预期寿命和不平等的变化。此外，它还可以用来评估不同国家和不同时期的经济表现。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-18",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "The Jones-Klenow method can be illustrated by a cross-country example. Suppose we want to compare the economic welfare of citizens of the U.S. and France in 2005.",
+      "sourceHash": "1e7b6e03a2eabe9a1904bf54770e935ab3dbc2bc39459ccded373f8513b33de4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Jones-Klenow 方法可以通过一个跨国例子来说明。假设我们要比较 2005 年美国和法国公民的经济福利。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-4-19",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "In 2005，as the authors observe，real consumption per person in France was only 60% as high as the U.S.，makiIn 2005，as the authors observe，real consumption per person in France was only 60% as high as the U.S.，making it appear that Americans were economically much better off than the French on average. However，that comparison omits other relevant factors：leisure time，life expectancy，and economic inequality. The French take longer vacations and retire earlier ， so typically work fewer hours ； they enjoy a higher life 第4 页 expectancy，presumably reflecting advantages with respect to health care，diet，lifestyle， and the like；and income and consumption are somewhat more equally distributed there than in the U.S. Because of these differences，comparing France’s consumption with the U.S.’s overstates the gap in economic welfare.",
+      "sourceHash": "73962ba45346db7a96483dff319a701195b28f6584d788aef9996243d08fa55f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-4-19",
+        "cet6:2018-06-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-4-19",
+        "cet6:2018-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "2005年，据作者观察，法国人均实际消费仅为美国的60%。maki，据作者观察，2005年，法国人均实际消费仅为美国的60%，这使得美国人的平均经济状况看起来比法国人要好得多。然而，这种比较忽略了其他相关因素：闲暇时间、预期寿命和经济不平等。法国人的假期更长，退休时间更早，因此工作时间通常更少；他们的预期寿命更长，这可能反映了他们在医疗保健、饮食、生活方式等方面的优势；而且法国人的收入和消费分布比美国更加平均。由于这些差异，将法国的消费与美国的消费进行比较夸大了经济福利的差距。",
+      "source": {
+        "blockIds": [
+          "b-4-19",
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-19",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Similar calculations can be used to compare the U.S. and other countries. For example，this calculation puts economic welfare in the United Kingdom at 97% of U.S. levels，but estimates Mexican well-being at 22%.",
+      "sourceHash": "a391d917071ede37acb0c4971ce7ebfdd8ac81909249b7e22d797f80d47d989a",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "类似的计算可用于比较美国和其他国家。例如，该计算显示英国的经济福利为美国水平的 97%，但估计墨西哥的福利为 22%。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "The Jones-Klenow measure can also assess an economy’s performance over time. According to this measure，as of the early-to-mid-2000s，the U.S. had the highest economic welfare of any large country. Since 2007，economic welfare in the U.S. has continued to improve. However， the pace of improvement has slowed markedly.",
+      "sourceHash": "935a071b571e025da27ff8c463d18298a0081d9d183147f9bf3ec367f66fac74",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "琼斯-克列诺指标还可以评估经济在一段时间内的表现。根据这一衡量标准，截至2000年代初至中期，美国的经济福利是所有大国中最高的。 2007年以来，美国经济福利持续改善。然而，改善的步伐明显放缓。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-4",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Methodologically，the lesson from the Jones-Klenow research is that economic welfare is multi-dimensional. Their approach is flexible enough that in principle other important quality-of-life changes could be incorporated—for example，decreases in total emissions of pollutants and declines in crime rates.",
+      "sourceHash": "b8aa6f73fbec902534634b27985b37824ac60e0759049d9c5b26af0044f5ffa1",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "从方法论上讲，琼斯-克列诺研究的教训是，经济福利是多维的。他们的方法足够灵活，原则上可以纳入其他重要的生活质量变化，例如污染物总排放量的减少和犯罪率的下降。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46.What does the author think of the 2015 report by the Census Bureau？",
+      "sourceHash": "2ebca2fd8d71c75e16b07cb2241b6ee6ef1c842e7706ba097cb2eb74beb443d3",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.作者如何看待人口普查局2015年的报告？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-7",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What does the author say about the Jones-Klenow method？",
+      "sourceHash": "c7ce6903adf7dbeabfe4dff40de0a8d4c71b972933c804bdc240c0483893a579",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 作者对 Jones-Klenow 方法有何评价？",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-9",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What do Jones and Klenow think of the comparison between France and the U.S. in terms of real consumption per person？",
+      "sourceHash": "bae1d55cde2f6069fb76b26d7c9428b4c51af01b6c80353fc70e1b93860a8db4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 琼斯和克列诺如何看待法国和美国在人均实际消费方面的比较？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-11",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49.What is an advantage of the Jones-Klenow method？",
+      "sourceHash": "930b91c15170eefe2eabee8997b1a520f7dad5aa6f086d6a2533372ee2761139",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49.Jones-Klenow方法的优点是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-13",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50.What can we infer from the passage about American people’s economic well-being？",
+      "sourceHash": "cb422fec642ef82b7f679fd6755d1421b2a44488319451188e6996d6743511d6",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.从有关美国人民经济福祉的文章中我们可以推断出什么？",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-16",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-5-17",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "If you've ever started a sentence with,\"If I were you...\"or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason 第5 页 behind it. Our own decision-making abilities can become depleted over the course of the day causing indecision or poor choices, but choosing on behalf of someone else is an enjoyable task that doesn't suffer the same pitfalls.",
+      "sourceHash": "cfbf21cfec141dcba32de84ec05452616aa9d3f06b6d7dd31d87379c6f7177bf",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-17",
+        "cet6:2018-06-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-5-17",
+        "cet6:2018-06-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如果你曾经以“如果我是你……”作为开头，或者发现自己对同事为某项决定而感到的痛苦而摸不着头脑，而答案却是一清二楚，那么这背后是有科学原因的。我们自己的决策能力可能会在一天中耗尽，导致优柔寡断或做出错误的选择，但代表他人进行选择是一项令人愉快的任务，不会遇到同样的陷阱。",
+      "source": {
+        "blockIds": [
+          "b-5-17",
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-17",
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "5",
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "The problem is\"decision fatigue,\"a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist.",
+      "sourceHash": "68d8fb73ac1f7551c0124f765e1bfe5771457f8bdd709e88ce32250f76907a4f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "著名心理学家埃文·波尔曼表示，问题在于“决策疲劳”，这是一种心理现象，经过一整天的决策后，它会影响你的选择质量。",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-3",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Physicians who have been on the job for several hours, for example, are more likely to prescribe antibiotics to patients when it's unwise to do so.\"Presumably it's because it's simple and easy to write a prescription and consider a patient case closed rather than investigate further,\"Polman says.",
+      "sourceHash": "66eac2d680f7fea0d5012d880bbb7082c81e81d6b3cbfdacc83998e5ccdf26fa",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "例如，在不明智的情况下，已经工作了几个小时的医生更有可能给患者开抗生素。“大概是因为开处方并考虑结束患者病例而不是进一步调查是简单而容易的，”波尔曼说。",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-4",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "But decision fatigue goes away when you are making the decision for someone else. When people imagine themselves as advisers and imagine their own choices as belonging to someone else, they feel less tired and relyless on decision shortcuts to make those choices.\"By taking upon the role of adviser rather than decision maker,one does not suffer the consequences of decision Mtigue,\"he says.\"It is as if there is something fun and liberating about making someone else's choice.\"",
+      "sourceHash": "434a81f0e8600e9e73e92c97b9c46ecf1e2ac9aa10fb7693fe3fb81548674fb7",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但当你为别人做决定时，决策疲劳就会消失。当人们把自己想象成顾问，并想象自己的选择属于别人时，他们会感到不那么累，也不会那么依赖决策捷径来做出这些选择。“通过扮演顾问而不是决策者的角色，一个人不会承受决策的后果，”他说。“就好像为别人做选择有一些有趣和自由的感觉。”",
+      "source": {
+        "blockIds": [
+          "b-6-4"
+        ],
+        "reflowBlockIds": [
+          "b-6-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Getting input from others not only offers a fresh perspective and thought process, it often also includes riskier choices. While this sounds undesirable, it can be quite good, says Polman.\"when people experience decision fatigue-when they are tired of making choices-they have a tendency to choose to go with status quo (现状),\"he says.\"But the status quo can be problematic. since a change in the course of action can sometimes be important and lead to a positive outcome.\"",
+      "sourceHash": "f927c49e70867f98c21194d1b9733f35cb84c2924a684cf5229013df0a49070b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "从他人那里获取意见不仅提供了新的视角和思维过程，而且通常还包括风险更大的选择。波尔曼说，虽然这听起来不太理想，但其实也不错。“当人们经历决策疲劳时——当他们厌倦做选择时——他们就会倾向于选择现状。”他说，“但现状可能是有问题的。因为行动方针的改变有时可能很重要，并会带来积极的结果。”",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-6",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "In order to achieve a successful outcome or reward, some level of risk is almost always essential.\"people who are susceptible to decision fatigue will likely choose to do nothing over something,\"he says.\"That's not to say that risk is always good, but it is related to taking action, whereas decision fatigue assuredly leads to inaction and the possible chagrin ( 懊 恼) of a decision maker who might otherwise prefer a new course but is unfortunately hindered.\"",
+      "sourceHash": "d8e437a116c4372eea4ae4638ade3d282e7bf0a40db074ab92cdf76fbdcf3283",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "为了获得成功的结果或回报，一定程度的风险几乎总是必不可少的。“容易受到决策疲劳影响的人可能会选择什么都不做，”他说。“这并不是说风险总是好的，而是与采取行动有关，而决策疲劳肯定会导致不采取行动，并可能让决策者感到懊恼，否则他们可能更喜欢新的路线，但不幸的是受到了阻碍。”",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-7",
+      "paperId": "cet6:2018-06-03",
+      "kind": "reading",
+      "sourceText": "Just because you can make good choices for others doesn't mean you'll do the same for yourself, polman cautions.\"Research has found that women negotiate higher salaries for others than they do for themselves,\" he says, adding that people slip in and out of decision roles.",
+      "sourceHash": "4ccc857947fa19eb39c16afc193690872dbf0185e83392430e7351ea85d64f4f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "波尔曼警告说，仅仅因为你能为别人做出好的选择，并不意味着你也会为自己做同样的选择。“研究发现，女性为他人争取的薪水比为自己争取的薪水更高，”他说，并补充说，人们会在决策角色中进进出出。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-8",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51.What does the author say about people making decisions?",
+      "sourceHash": "dcb721e6e066c3d4d2526b8af003d8a1b75dd6871b029364fd5a895955db02e3",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.作者对人们做决定有何看法？",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-10",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52.What does the example about the physicians illustrate?",
+      "sourceHash": "d204cd87e9cce895bb537b737ea81ffab316606b36fd6187fc83a04d2b57b061",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52.关于医生的例子说明了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-12",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53.When do people feel less decision fatigue?",
+      "sourceHash": "9293a3995ec6bb64d2f665f272368443c09c0cd38fc170067bbd55bc73ffd0f9",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.人们什么时候感觉决策疲劳减轻？",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-6-14",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54.What are people likely to do when decision fatigue sets in?",
+      "sourceHash": "94d78c7c2f39dab0f12a54bf4359472d126473efc5aad63734b5f371f3c409b4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-6-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.当决策疲劳出现时，人们可能会做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-14"
+        ],
+        "reflowBlockIds": [
+          "b-6-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-7-2",
+      "paperId": "cet6:2018-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55.What does the passage say about taking some risk in decision making?",
+      "sourceHash": "993dfa5a27ac7e59fc5633168622127b20140359fc94e3144bbc526103f0c339",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.关于在决策中承担一些风险，这段话是怎么说的？",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2018-06-03:p:b-7-5",
+      "paperId": "cet6:2018-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions：For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "516229a62f53e17705fb4c9b3f8693b77adc03288de9e0b2b826be1be845184f",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2018-06-03:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2018-06-03.json",
+        "pdfSha256": "976c64492aa905cbd21a241414dc6fb406d88b5b97838da68e7689746c39db14",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2018-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2018-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2018-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-46-1",
+      "optionId": "cet6:2018-06-03:q-46-1:A",
+      "sourceText": "It is based on questionable statistics.",
+      "sourceHash": "92bf2593543fc230aee54f35c4bd805bffd3d74671ab0b04fae0f5d09af437a4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is based on questionable statistics.",
+      "translationEligible": true,
+      "translationZh": "它是基于有问题的统计数据。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-46-1",
+      "optionId": "cet6:2018-06-03:q-46-1:B",
+      "sourceText": "It reflects the economic changes.",
+      "sourceHash": "230da6d39b8c112a2b7616cad4740ed28934dbb5e0e8b88b39af8fd1d18bfefe",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It reflects the economic changes.",
+      "translationEligible": true,
+      "translationZh": "它反映了经济的变化。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-46-1",
+      "optionId": "cet6:2018-06-03:q-46-1:C",
+      "sourceText": "It evidences the improved welfare.",
+      "sourceHash": "abe4ceee4f983fe86881866401d48b985559201e161843ffdfa36b8fcf10a494",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It evidences the improved welfare.",
+      "translationEligible": true,
+      "translationZh": "这证明了福利的改善。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-46-1",
+      "optionId": "cet6:2018-06-03:q-46-1:D",
+      "sourceText": "It provides much food for thought.",
+      "sourceHash": "217116703573de9cb33c0edcdb31ce9165274c6d35a86d4827494ac5dd89c647",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-6"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It provides much food for thought.",
+      "translationEligible": true,
+      "translationZh": "它提供了很多值得深思的内容。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-47-1",
+      "optionId": "cet6:2018-06-03:q-47-1:A",
+      "sourceText": "It is widely used to compare the economic growth across countries.",
+      "sourceHash": "e00d092a269e75cec700d1b79c8b9df290e424aa7d309c9010f1cec231647029",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is widely used to compare the economic growth across countries.",
+      "translationEligible": true,
+      "translationZh": "它被广泛用于比较各国的经济增长。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-47-1",
+      "optionId": "cet6:2018-06-03:q-47-1:B",
+      "sourceText": "It revolutionizes the way of measuring ordinary people’s livelihood.",
+      "sourceHash": "d19beca8c19e1fd800a24ecf0065894449e25348ea05a57acba1059af8d10e05",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It revolutionizes the way of measuring ordinary people’s livelihood.",
+      "translationEligible": true,
+      "translationZh": "它彻底改变了衡量普通百姓生计的方式。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-47-1",
+      "optionId": "cet6:2018-06-03:q-47-1:C",
+      "sourceText": "It focuses on people’s consumption rather that their average income.",
+      "sourceHash": "7ff1ab421209c9d69dc55b87241dba21ddbe42c3b35ab7add48c6d1f2ab0e5e3",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It focuses on people’s consumption rather that their average income.",
+      "translationEligible": true,
+      "translationZh": "它关注的是人们的消费而不是他们的平均收入。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-47-1",
+      "optionId": "cet6:2018-06-03:q-47-1:D",
+      "sourceText": "It is a more comprehensive measure of people’s economic well-being.",
+      "sourceHash": "8e1334cfd948c77ce105c3e7ecd2c602d525b525b1847579a662095c0b7a680a",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is a more comprehensive measure of people’s economic well-being.",
+      "translationEligible": true,
+      "translationZh": "它是对人民经济福祉的更全面衡量。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-48-1",
+      "optionId": "cet6:2018-06-03:q-48-1:A",
+      "sourceText": "It reflected the existing big gap between the two economies.",
+      "sourceHash": "ecc4969d0f15ff31e377be80fa5892440e1d400787aff344e4856c45b14787ca",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It reflected the existing big gap between the two economies.",
+      "translationEligible": true,
+      "translationZh": "这反映出两国经济之间存在的巨大差距。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-48-1",
+      "optionId": "cet6:2018-06-03:q-48-1:B",
+      "sourceText": "It neglected many important indicators of people’s welfare.",
+      "sourceHash": "e6560baaaec31d8be577e836ad86fda878b6253be73c4644aced5d87a080d017",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It neglected many important indicators of people’s welfare.",
+      "translationEligible": true,
+      "translationZh": "它忽视了许多重要的人民福利指标。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-48-1",
+      "optionId": "cet6:2018-06-03:q-48-1:C",
+      "sourceText": "It covered up the differences between individual citizens.",
+      "sourceHash": "ee7a4e8ddc25333a2c9a244387c317ff24c01ec832601791ffbb498075c3eb25",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It covered up the differences between individual citizens.",
+      "translationEligible": true,
+      "translationZh": "它掩盖了公民个体之间的差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-48-1",
+      "optionId": "cet6:2018-06-03:q-48-1:D",
+      "sourceText": "It failed to count in their difference in natural resources.",
+      "sourceHash": "add2ec5c5b068057b724c8bdd5f04de099da2283d0ba87aadf719c7461faae0b",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It failed to count in their difference in natural resources.",
+      "translationEligible": true,
+      "translationZh": "它没有计入两国在自然资源方面的差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-49-1",
+      "optionId": "cet6:2018-06-03:q-49-1:A",
+      "sourceText": "It can accurately pinpoint a country’s current economic problems.",
+      "sourceHash": "f59713a58a9b67b63f06bb9de162df5aa1145e32140bb091a15d460fefc90139",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It can accurately pinpoint a country’s current economic problems.",
+      "translationEligible": true,
+      "translationZh": "它可以准确地定位一个国家当前的经济问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-49-1",
+      "optionId": "cet6:2018-06-03:q-49-1:B",
+      "sourceText": "It can help to raise people’s awareness of their economic well-being.",
+      "sourceHash": "76cea174d498fe5214839610ee6b4b76f8bfb19e30a62098adbd85c3ebb9fcc7",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It can help to raise people’s awareness of their economic well-being.",
+      "translationEligible": true,
+      "translationZh": "它可以帮助提高人们对经济福祉的认识。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-49-1",
+      "optionId": "cet6:2018-06-03:q-49-1:C",
+      "sourceText": "It can diagnose the causes of a country’s slowing pace of economic improvement.",
+      "sourceHash": "359e203c934f0165f70fda1e5af417fbd4fb035a511fd2fa347e6e81e82dadba",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It can diagnose the causes of a country’s slowing pace of economic improvement.",
+      "translationEligible": true,
+      "translationZh": "它可以诊断一个国家经济改善速度放缓的原因。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-49-1",
+      "optionId": "cet6:2018-06-03:q-49-1:D",
+      "sourceText": "It can compare a country’s economic conditions between different periods of time.",
+      "sourceHash": "093d027e319615db2b3961b14e04e4982435e02b7742976ed1b9d9cf78c08814",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It can compare a country’s economic conditions between different periods of time.",
+      "translationEligible": true,
+      "translationZh": "它可以比较一个国家不同时期的经济状况。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-50-1",
+      "optionId": "cet6:2018-06-03:q-50-1:A",
+      "sourceText": "It is much better than that of their European counterparts.",
+      "sourceHash": "33c42dd7bad8cedb6cdacbc8d2376c8f7374ffc25f6638e785dad7feda1ce9bf",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-14"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is much better than that of their European counterparts.",
+      "translationEligible": true,
+      "translationZh": "这比欧洲同行要好得多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-50-1",
+      "optionId": "cet6:2018-06-03:q-50-1:B",
+      "sourceText": "It has been on the decline ever since the turn of the century.",
+      "sourceHash": "84b9db4db18914724cdf29124a902ecff768330988d3d875bba195f8095fa59c",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-14"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It has been on the decline ever since the turn of the century.",
+      "translationEligible": true,
+      "translationZh": "自世纪之交以来，它一直在下降。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-50-1",
+      "optionId": "cet6:2018-06-03:q-50-1:C",
+      "sourceText": "It has not improved as much as reported by the Census Bureau.",
+      "sourceHash": "84b18d6049ca2cedd9c30b9a79490cc5424aba6464558184a08fb58b6974906e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-14"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It has not improved as much as reported by the Census Bureau.",
+      "translationEligible": true,
+      "translationZh": "它并没有像人口普查局报告的那样改善。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-50-1",
+      "optionId": "cet6:2018-06-03:q-50-1:D",
+      "sourceText": "It has not been accurately assessed and reported since mid-2000s.",
+      "sourceHash": "82b9243fa915e2eb67984b2f8900885f68a8583180b418b7ddfccae27652e2fc",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-5-14"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-5-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It has not been accurately assessed and reported since mid-2000s.",
+      "translationEligible": true,
+      "translationZh": "自 2000 年代中期以来，尚未对其进行准确的评估和报告。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-51-1",
+      "optionId": "cet6:2018-06-03:q-51-1:A",
+      "sourceText": "They may become exhausted by making too many decisions for themselves.",
+      "sourceHash": "4bc3346556950c9d1e16146e12c729668bb4dcc83c5ae50dcf9949cc6e00a5ab",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They may become exhausted by making too many decisions for themselves.",
+      "translationEligible": true,
+      "translationZh": "他们可能会因为为自己做出太多决定而变得精疲力尽。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-51-1",
+      "optionId": "cet6:2018-06-03:q-51-1:B",
+      "sourceText": "They are more cautious in making decisions for others than for themselves.",
+      "sourceHash": "5f91748ded825d0ab55977e8957488032fd621087c10991512acab6d2f4c1389",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are more cautious in making decisions for others than for themselves.",
+      "translationEligible": true,
+      "translationZh": "他们在为别人做决定时比为自己做决定时更加谨慎。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-51-1",
+      "optionId": "cet6:2018-06-03:q-51-1:C",
+      "sourceText": "They tend to make decisions the way they think advantageous to them.",
+      "sourceHash": "87c808cee0d07390905347b70c952fa53718f388e78ec9586245f42bac932e18",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They tend to make decisions the way they think advantageous to them.",
+      "translationEligible": true,
+      "translationZh": "他们倾向于以他们认为对自己有利的方式做出决定。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-51-1",
+      "optionId": "cet6:2018-06-03:q-51-1:D",
+      "sourceText": "They show considerable differences in their decision-making abilities.",
+      "sourceHash": "66420f9d02e40e8ab6badf0816612ed139d61048fd69a52cb172a654645997ba",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-9"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They show considerable differences in their decision-making abilities.",
+      "translationEligible": true,
+      "translationZh": "他们的决策能力存在很大差异。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-52-1",
+      "optionId": "cet6:2018-06-03:q-52-1:A",
+      "sourceText": "Patients seldom receive due care towards the end of the day.",
+      "sourceHash": "adbcd30afa0c25926539ae35c1bd4754f3c6d4965a645e8222b06e9aecbcba4a",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Patients seldom receive due care towards the end of the day.",
+      "translationEligible": true,
+      "translationZh": "患者在一天结束时很少得到应有的护理。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-52-1",
+      "optionId": "cet6:2018-06-03:q-52-1:B",
+      "sourceText": "Prescription of antibiotics can be harmful to patients'health.",
+      "sourceHash": "cfac64309300a66f8cf9fbe36789fa4da7bfbaad123b642b1557a5bd6b6748d3",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Prescription of antibiotics can be harmful to patients'health.",
+      "translationEligible": true,
+      "translationZh": "抗生素处方可能有害患者的健康。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-52-1",
+      "optionId": "cet6:2018-06-03:q-52-1:C",
+      "sourceText": "Decision fatigue may prevent people making wise decisions.",
+      "sourceHash": "2790c494cd3f6476424ef1aa30bf2291dc7e74dba71e56ba7366b80951d7dc4e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Decision fatigue may prevent people making wise decisions.",
+      "translationEligible": true,
+      "translationZh": "决策疲劳可能会妨碍人们做出明智的决定。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-52-1",
+      "optionId": "cet6:2018-06-03:q-52-1:D",
+      "sourceText": "Medical doctors are especially susceptible to decision fatigue.",
+      "sourceHash": "a7f0bdaaa6d2e3d77ef58d91f18c45ff2517bdf966ddc54130c1a149b0b27781",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-11"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Medical doctors are especially susceptible to decision fatigue.",
+      "translationEligible": true,
+      "translationZh": "医生特别容易出现决策疲劳。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-53-1",
+      "optionId": "cet6:2018-06-03:q-53-1:A",
+      "sourceText": "When they take decision shortcuts.",
+      "sourceHash": "b185df6abe54285698e2f8f4b659311814cecce8be8c03353839d7d3c34afa13",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "When they take decision shortcuts.",
+      "translationEligible": true,
+      "translationZh": "当他们采取决策捷径时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-53-1",
+      "optionId": "cet6:2018-06-03:q-53-1:B",
+      "sourceText": "When they help others to make decisions.",
+      "sourceHash": "3c310b95abd3f9278429aa2e746a2149af03fc09b6f13f49faa4058f24676355",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "When they help others to make decisions.",
+      "translationEligible": true,
+      "translationZh": "当他们帮助别人做出决定时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-53-1",
+      "optionId": "cet6:2018-06-03:q-53-1:C",
+      "sourceText": "When they have major decisions to make.",
+      "sourceHash": "803c65a341ef3f85c33213ada8a84070f0a6e5559f6178ac445bdd53796ee0c8",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "When they have major decisions to make.",
+      "translationEligible": true,
+      "translationZh": "当他们需要做出重大决定时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-53-1",
+      "optionId": "cet6:2018-06-03:q-53-1:D",
+      "sourceText": "When they have advisers to turn to.",
+      "sourceHash": "7856aaf6547ea8a52fbca3dd21001cc48e836c5cab981f9b6623d82e75f92d99",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-13"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "When they have advisers to turn to.",
+      "translationEligible": true,
+      "translationZh": "当他们有顾问可以求助时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-54-1",
+      "optionId": "cet6:2018-06-03:q-54-1:A",
+      "sourceText": "They tum to physicians for advice.",
+      "sourceHash": "a946971fb911a21321d5d5e5066164463e2bcabe39e6073a209678e8e2162fa4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-6-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-6-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They tum to physicians for advice.",
+      "translationEligible": true,
+      "translationZh": "他们向医生寻求建议。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-54-1",
+      "optionId": "cet6:2018-06-03:q-54-1:B",
+      "sourceText": "They tend to make risky decisions.",
+      "sourceHash": "6e3411231ac7a6e73962edc8fbf784f342e7bbb67eca228d2fc69047eb69ef83",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-1"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They tend to make risky decisions.",
+      "translationEligible": true,
+      "translationZh": "他们倾向于做出冒险的决定。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-54-1",
+      "optionId": "cet6:2018-06-03:q-54-1:C",
+      "sourceText": "They adopt a totally new perspective.",
+      "sourceHash": "4627dee63bbf33b8b19b91d45ee32ccdff5560fafd4e5b53038182d001675271",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-1"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They adopt a totally new perspective.",
+      "translationEligible": true,
+      "translationZh": "他们采用了全新的视角。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-54-1",
+      "optionId": "cet6:2018-06-03:q-54-1:D",
+      "sourceText": "They refrain from trying anything new.",
+      "sourceHash": "924e8c7d643e15eee4be947c2daa81355cfc367613c0e8b4a19ae89d566c0640",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-1"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They refrain from trying anything new.",
+      "translationEligible": true,
+      "translationZh": "他们避免尝试任何新事物。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-55-1",
+      "optionId": "cet6:2018-06-03:q-55-1:A",
+      "sourceText": "It is vital for one to reach the goal desired.",
+      "sourceHash": "d22f2626973749f4aa1749f5daa7ce76b75051a938eac6308bed382ed7c44be2",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is vital for one to reach the goal desired.",
+      "translationEligible": true,
+      "translationZh": "对于一个人来说，达到期望的目标是至关重要的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-55-1",
+      "optionId": "cet6:2018-06-03:q-55-1:B",
+      "sourceText": "It is likely to entail serious consequences.",
+      "sourceHash": "77f17c450290c02e81f492b8423ef1bcd9033459d89e278b0331abcf582fdda2",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is likely to entail serious consequences.",
+      "translationEligible": true,
+      "translationZh": "这很可能会带来严重的后果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-55-1",
+      "optionId": "cet6:2018-06-03:q-55-1:C",
+      "sourceText": "It will enable people to be more creative.",
+      "sourceHash": "c75cae21d4c3a1e42dd3389e84070fa054179279d4051ea7dfd7ac6cb40f13fd",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will enable people to be more creative.",
+      "translationEligible": true,
+      "translationZh": "它将使人们变得更有创造力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-55-1",
+      "optionId": "cet6:2018-06-03:q-55-1:D",
+      "sourceText": "It will more often than not end in regret.",
+      "sourceHash": "1d0e138f0e2e5a78758de93e8aa3ab878299a64024e18d2ce9c4ac2c5df68119",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It will more often than not end in regret.",
+      "translationEligible": true,
+      "translationZh": "往往会以遗憾告终。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:A",
+      "sourceText": "amassed",
+      "sourceHash": "ccf3a112139c0cb8239e523ace71b8ffe87cbb6caeca96be6cc6eb58b06acca4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "amassed",
+      "translationEligible": true,
+      "translationZh": "积累的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:B",
+      "sourceText": "casual",
+      "sourceHash": "c633eb52f63cec1d6b02d42448254cd801f5cbcaa254313c2795ce38bcd3a7fa",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "casual",
+      "translationEligible": true,
+      "translationZh": "休闲的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:C",
+      "sourceText": "emotional",
+      "sourceHash": "dcab7f7d07fb2ac50991ed5ae8c3273c9b36cbd21c123db2e71517eda2f7edaf",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "emotional",
+      "translationEligible": true,
+      "translationZh": "情绪化的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:D",
+      "sourceText": "enabling",
+      "sourceHash": "8811208d8e964edcafb8be3d9d8e862cdf7889d8d16acb176e27dda88d9d9011",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "enabling",
+      "translationEligible": true,
+      "translationZh": "使能",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:E",
+      "sourceText": "eventually",
+      "sourceHash": "c8bf82c2cbf5a469c5584886ab5caeea79d8e7a7bcf25a2c4495586317a15734",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "eventually",
+      "translationEligible": true,
+      "translationZh": "最终",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:F",
+      "sourceText": "exaggerated",
+      "sourceHash": "b0ff2439fe5da1e85e3663170ef3b0977206e9a361c6bc8ce0c369a0b81aae85",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "exaggerated",
+      "translationEligible": true,
+      "translationZh": "夸张的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:G",
+      "sourceText": "extravagant",
+      "sourceHash": "516a70ea25b989ce98a142bd274c434c30982d115050511732a9ead1b18b0f5e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "extravagant",
+      "translationEligible": true,
+      "translationZh": "奢侈的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:H",
+      "sourceText": "generously",
+      "sourceHash": "84cb393a09f96f706a288f7c17d69fdc1712ef25e1be955dd78900c5211a6a82",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "generously",
+      "translationEligible": true,
+      "translationZh": "慷慨地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:I",
+      "sourceText": "misleading",
+      "sourceHash": "f52318186adc9cb23833e4db93b2e1e070ab3b68dce41b2ede59a77473f130a4",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "misleading",
+      "translationEligible": true,
+      "translationZh": "误导性的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:J",
+      "sourceText": "precious",
+      "sourceHash": "157fc55121ab2c59852c35d78aca98d840047e5d9668c423e4d3b146e1577901",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "precious",
+      "translationEligible": true,
+      "translationZh": "珍贵的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:K",
+      "sourceText": "reward",
+      "sourceHash": "7696fff84f26472a9737981c0ef48600731e7b2a20c93e2dbfe06706ca0d31b0",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "reward",
+      "translationEligible": true,
+      "translationZh": "奖励",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:L",
+      "sourceText": "smart",
+      "sourceHash": "544e2d6145f6ea1d858b94f75a392dac7f53df9403948acd1e939e6dfbc64104",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "smart",
+      "translationEligible": true,
+      "translationZh": "聪明的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:M",
+      "sourceText": "sphere",
+      "sourceHash": "0f58b78bc54e0c3e55568ec522fb67be295f3bf726a0d53cef872b7a4272196e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "sphere",
+      "translationEligible": true,
+      "translationZh": "球体",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:N",
+      "sourceText": "terrified",
+      "sourceHash": "1f7ceb30eafd1e260e44b1cb1bfae70e352de04c65c0429438e21f8710a4b40e",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "terrified",
+      "translationEligible": true,
+      "translationZh": "害怕",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2018-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2018-06-03",
+      "questionId": "cet6:2018-06-03:q-26-1",
+      "optionId": "cet6:2018-06-03:word-bank:O",
+      "sourceText": "venture",
+      "sourceHash": "352c00e4c6860a34dd5dd17e338af9386b8485026a50ce45bc6c737609616303",
+      "sourceBlockIds": [
+        "cet6:2018-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2018-06-03:b-1-15",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "venture",
+      "translationEligible": true,
+      "translationZh": "创业",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-10",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2018-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-11",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2018-06-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2018-06-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-13",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2018-06-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-14",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet6:2018-06-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-1-16",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-2-11",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-3-1"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2018-06-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-3-9",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-13",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-14",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-15",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-1",
+      "classification": "included",
+      "reason": "pdf_verified_cross_page_continuation",
+      "paragraphId": "cet6:2018-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-15",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-16",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-5-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-5-17"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-1",
+      "classification": "included",
+      "reason": "pdf_verified_cross_page_continuation",
+      "paragraphId": "cet6:2018-06-03:p:b-5-17"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-4"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2018-06-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-6-14"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-6-16",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2018-06-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-7-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-7-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2018-06-03:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-7-6",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2018-06-03:b-7-7",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 17,
+    "included": 61,
+    "ineligible": 5
+  },
+  "reasonCounts": {
+    "heading_prose": 1,
+    "instruction": 8,
+    "non_english_or_fragment": 8,
+    "pdf_verified_cross_page_continuation": 2,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 14,
+    "reading_prose": 16,
+    "section_label": 9,
+    "unresolved_cloze_or_source_mismatch": 5
+  },
+  "kindCounts": {
+    "cloze": 5,
+    "heading_prose": 1,
+    "instruction": 8,
+    "passage_option": 14,
+    "question_prompt": 20,
+    "reading": 16
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12",
+        "b-1-13",
+        "b-1-14"
+      ],
+      "reasons": [
+        "blank_marker_count:34:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-1-14:3"
+      ]
+    },
+    {
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2018-06-03:p:b-4-19",
+      "removedFromTranslationInput": true
+    },
+    {
+      "code": "verified_cross_page_footer",
+      "paragraphId": "cet6:2018-06-03:p:b-5-17",
+      "removedFromTranslationInput": true
+    }
+  ]
+}

@@ -1,0 +1,5198 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "kaoyan:2004-01",
+  "category": "kaoyan",
+  "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+  "sourcePdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+  "paragraphs": [
+    {
+      "id": "kaoyan:2004-01:p:b-1-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "instruction",
+      "sourceText": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET 1. (10 points)",
+      "sourceHash": "4dff3c87be8d56c94539695b61edc427bd5168730b4da6e1e56d6f4635a52a66",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-1-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-1-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "阅读以下文字。为每个编号的空白选择最佳单词，并在答题卡 1 上标记 A、B、C 或 D。（10 分）",
+      "source": {
+        "blockIds": [
+          "b-1-4"
+        ],
+        "reflowBlockIds": [
+          "b-1-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-1-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "cloze",
+      "sourceText": "Many theories concerning the causes of juvenile delinquency (crimes committed by young people) focus either on the individual or on society as the major contributing influence. Theories 1 on the individual suggest that children engage in criminal behavior 2 they were not sufficiently penalized for previous misdeeds or that they have learned criminal behavior through 3 with others. Theories focusing on the role of society suggest that children commit crimes in 4 to their failure to rise above their socioeconomic status, 5 as a rejection of middle-class values.",
+      "sourceHash": "1c2c254f8e6f858f7b15aee5e2a1865a41fc244e75e626382eb657ef534f1612",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-1-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-1-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多关于青少年犯罪（青少年犯罪）原因的理论要么关注个人，要么关注社会作为主要影响因素。以个人为中心的理论认为，儿童从事犯罪行为是因为他们之前的不当行为没有受到足够的惩罚，或者他们通过与他人的互动习得了犯罪行为。关注社会角色的理论表明，儿童犯罪是因为他们未能超越其社会经济地位，或者是对中产阶级价值观的拒绝。",
+      "source": {
+        "blockIds": [
+          "b-1-5"
+        ],
+        "reflowBlockIds": [
+          "b-1-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-1-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "cloze",
+      "sourceText": "Most theories of juvenile delinquency have focused on children from disadvantaged families, 6 the fact that children from wealthy homes also commit crimes. The latter may commit crimes 7 lack of adequate parental control. All theories, however, are tentative and are 8 to criticism.",
+      "sourceHash": "e483bb5796f846a5c525d0255ee62b5e777e6096207cf3fa292731aaa7907b2c",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-1-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-1-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "大多数关于青少年犯罪的理论都集中在弱势家庭的孩子身上，忽视了富裕家庭的孩子也会犯罪的事实。后者可能因缺乏足够的父母控制而犯罪。然而，所有理论都是试验性的，并且会受到批评。",
+      "source": {
+        "blockIds": [
+          "b-1-6"
+        ],
+        "reflowBlockIds": [
+          "b-1-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-1-7",
+      "paperId": "kaoyan:2004-01",
+      "kind": "cloze",
+      "sourceText": "Changes in the social structure may indirectly 9 juvenile crime rates. For example, changes in the economy that 10 to fewer job opportunities for youth and rising unemployment 11 make gainful employment increasingly difficult to obtain. The resulting discontent may in 12 lead more youths into criminal behavior.",
+      "sourceHash": "d2d0fddafac1dea77d3de5535c7a7027809a3d124cee9cb07551256d2121d269",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "社会结构的变化可能间接影响青少年犯罪率。例如，经济变化导致青年就业机会减少和失业率普遍上升，使获得有酬就业变得越来越困难。由此产生的不满情绪可能会导致更多青少年陷入犯罪行为。",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-1-8",
+      "paperId": "kaoyan:2004-01",
+      "kind": "cloze",
+      "sourceText": "Families have also 13 changes these years. More families consist of one-parent households or two working parents; 14 , children are likely to have less supervision at home 15 was common in the traditional family 16 . This lack of parental supervision is thought to be an influence on juvenile crime rates. Other 17 causes of offensive acts include frustration or failure in school, the increased 18 of drugs and alcohol, and the growing 19 of child abuse and child neglect. All these conditions tend to increase the probability of a child committing a criminal act, 20 a direct causal relationship has not yet been established.",
+      "sourceHash": "ac2ced29127a1c51d7e9a1a1cc60d6cfe3cdf343c2ad43c80d67a49698e451a1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这些年，家庭也经历了变化。更多家庭由单亲家庭或两名在职父母组成；因此，与传统家庭结构相比，儿童在家里受到的监督可能较少。缺乏父母监督被认为是青少年犯罪率的一个影响因素。攻击性行为的其他可识别原因包括在学校的挫败感或失败、毒品和酒精的增加以及虐待儿童和忽视儿童的发生率不断增加。所有这些条件都会增加儿童实施犯罪行为的可能性，尽管尚未确定直接的因果关系。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-2-24",
+      "paperId": "kaoyan:2004-01",
+      "kind": "instruction",
+      "sourceText": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET 1. (40 points)",
+      "sourceHash": "e84881f5c8d3aa0bd40bd051ab3ae9ffc05d4d96f202c028d382354107b35296",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-24"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-2-24"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "阅读下面四篇课文。选择 A、B、C 或 D 回答每篇课文下方的问题。在答题卡 1 上标记您的答案。（40 分）",
+      "source": {
+        "blockIds": [
+          "b-2-24"
+        ],
+        "reflowBlockIds": [
+          "b-2-24"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-3-2",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site’s “personal search agent”. It’s an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property and Washington, D. C. Three weeks later, he got his first notification of an opening. “I struck gold,” says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.",
+      "sourceHash": "0c746abeca21a0bde3ee477b9d8495667dfa141c465eb1b6662608322e70707b",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "去年年底，Gant Redmon 律师在寻找工作时偶然发现了 CareerBuilder，这是互联网上的一个工作数据库。他搜索没有成功，但被该网站的“个人搜索代理”所吸引。这是一项交互式功能，允许访问者输入职位标准，例如地点、职位和薪水，然后在数据库中发布匹配职位时向他们发送电子邮件。雷德蒙选择了关键词“法律”、“知识产权”和“华盛顿特区”。三周后，他收到了第一份空缺通知。 “我找到了金子，”雷蒙说，他通过电子邮件将简历发送给雇主，并赢得了一家公司内部法律顾问的职位。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-3-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient. Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: “Every time you answer a question you eliminate a possibility,” says one expert.",
+      "sourceHash": "34e5b79fb19d8f3c1e0fd44c685cd70b9c59ac9a7b2b8054f9fa837d3cbb46c9",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "互联网上有数以千计的职业相关网站，寻找有前途的空缺职位可能既耗时又低效。搜索代理减少了重复访问数据库的需要。不过，尽管雷德蒙公司有一名猎头代理，但职业专家却发现了其缺点。例如，缩小标准可能会对你不利：“每次你回答一个问题，你就消除了一种可能性，”一位专家说。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-3-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "For any job search, you should start with a narrow concept — what you think you want to do — then broaden it. “None of these programs do that,” says another expert. “There’s no career counseling implicit in all of this.” Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. “I would not rely on agents for finding everything that is added to a database that might interest me,” says the author of a job-searching guide.",
+      "sourceHash": "54f2e11f09ef5ecab6be328f58e08898bea186cb0698990d29715b8ebc80f2ed",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "对于任何求职，你应该从一个狭隘的概念开始——你认为你想做的事情——然后扩大它。另一位专家表示：“这些程序都没有做到这一点。” “这一切都没有隐含职业咨询。”相反，最好的策略是使用代理作为一种小费服务，以随时了解特定数据库中的工作情况；当您收到电子邮件时，请将其视为再次检查数据库的提醒。 “我不会依赖代理来查找数据库中添加的我可能感兴趣的所有内容，”求职指南的作者说。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-3-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Some sites design their agents to tempt job hunters to return. When CareerSite’s agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. “On the day after we send our messages, we see a sharp increase in our traffic,” says Seth Peets, vice president of marketing for CareerSite.",
+      "sourceHash": "2cadd11ff39fe7d36b01d6cca48d28cb5157b6afa6f604c3565fed7cece6b1b4",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "一些网站设计其代理来吸引求职者回国。例如，当 CareerSite 的代理向那些注册其服务的人发送消息时，它只包含三个潜在的工作——它认为最匹配的工作。数据库中可能还有更多匹配项；求职者必须再次访问该网站才能找到他们——他们确实做到了。 CareerSite 营销副总裁 Seth Peets 表示：“发送消息后的第二天，我们发现流量急剧增加。”",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-3-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Even those who aren’t hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. Although happily employed, Redmon maintains his agent at CareerBuilder. “You always keep your eyes open,” he says. Working with a personal search agent means having another set of eyes looking out for you.",
+      "sourceHash": "e3c58cb9f5b5eb54228b0edd7559367f8122bd72d64aaafb6bdecfd724a6f8a8",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "即使那些不找工作的人也可能会发现搜索代理是值得的。有些人用它们来密切关注自己工作的需求，或者收集薪酬信息，以便在谈判加薪时武装自己。尽管雷德蒙的工作很愉快，但他的经纪人仍留在 CareerBuilder。 “你总是睁大眼睛，”他说。与个人搜索代理合作意味着有另一双眼睛在注视着您。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-4-1",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "21. How did Redmon find his job?",
+      "sourceHash": "dc5102a59a03c0085a1ab06606e21d67c36d28f7336f5338b87d773cdd6dd575",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "21. Redmon是如何找到工作的？",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-4-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "22. Which of the following can be a disadvantage of search agents?",
+      "sourceHash": "9c05e182bcac61fbfd0c338373c4df1f43a8273f9d88b95dc5ed31d0d1e494e3",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "22. 以下哪一项可能是搜索代理的缺点？",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-4-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "23. The expression “tip service” (Paragraph 3) most probably means ______",
+      "sourceHash": "a146d64c64899f0376b801bc036acbc0d77225ad527d49bc76c8bf151c8455b0",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "23. “小费服务”一词（第 3 段）最有可能的意思是 ______",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-4-7",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "24. Why does CareerSite’s agent offer each job hunter only three job options?",
+      "sourceHash": "0e9788d4755806c56f66529573f5377da4c0e13435252ec78cb5f622cad24235",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "24. 为什么 CareerSite 的代理只为每个求职者提供三种工作选择？",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-4-9",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "25. Which of the following is true according to the text?",
+      "sourceHash": "90daeee7768660d1769efab731766b9f5c523f610bfcd567c23db30ed8f96153",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "25.根据课文，下列哪项是正确的？",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-5-2",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one insidious form continues to thrive: alphabetism. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.",
+      "sourceHash": "b0cbcd7a8e108bdb65482c12691644b69fbf1e2db83190050fbd542acdcf73d6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "一个世纪以来，各种不公平和歧视行为都受到谴责或被定为非法。但一种阴险的形式继续盛行：字母顺序。对于那些尚未意识到这一缺点的人来说，这是指对姓氏以字母表下半部分字母开头的人的歧视。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-5-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoe Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.",
+      "sourceHash": "05568304f81cc7fa66ffabb0e5d532b1cd8581377d69d4656b63d66eaa250847",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "人们早就知道，当顾客翻阅电话簿时，一家名为 AAAA cars 的出租车公司比 Zodiac cars 有很大的优势。不太为人所知的是亚当·阿博特 (Adam Abbott) 在生活中相对于佐伊·齐斯曼 (Zoe Zysman) 的优势。英文名字相当均匀地分布在字母表的两半部分。然而，令人怀疑的是，大量高层人士的姓氏以 A 和 K 之间的字母开头。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-5-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush’s predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half. Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chretien and Koizumi). The world’s three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters. As are the world’s five richest men (Gates, Buffett, Allen, Ellison and Albrecht).",
+      "sourceHash": "fff9149c97f80fce6739e37b9d7168a5890884ac1d4a051e3cb1802971f323ab",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "因此，美国总统和副总统的姓氏分别以B和C开头；乔治·布什的前任中有 26 位（包括他的父亲）的姓氏位于字母表的前半部分，而后半部分的姓氏只有 16 个。更引人注目的是，七国集团富裕国家七位政府首脑中有六位按字母顺序排列占优势（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。世界三大央行行长（格林斯潘、杜伊森贝格和速水）都接近字母表的顶端，即使其中一位真的使用日语字符。世界上最富有的五位人士（盖茨、巴菲特、艾伦、埃里森和阿尔布雷希特）也是如此。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-5-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.",
+      "sourceHash": "c4ba3845b416717e0ac5e575126022f20f3497990702ad6ddb9975ac4b26ff69",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这难道只是巧合吗？一种理论是，按字母顺序处于劣势的人在所有空闲时间里都梦想着，这种腐烂很早就开始了。在婴儿学校第一学年开始时，老师会按照字母顺序从前面安排学生就座，以便更容易记住他们的名字。因此，目光短浅的齐斯曼小学生被困在后排，很少被那些麻木不仁的老师提出改进的问题。当时，按字母顺序处于劣势的人可能认为他们幸运地逃脱了。然而，结果可能是资质较差，因为他们受到的个人关注较少，公开演讲的信心也较低。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-5-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.",
+      "sourceHash": "8fa8bbfb42ba172c054282a1743d228a3418cd059944168331e74d73f9c4f2dd",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "羞辱还在继续。在大学毕业典礼上，ABC 们自豪地第一个获得奖项；当他们到达 Zysmans 时，大多数人都已经感到 ZZZ 了。工作面试的入围名单、选举选票、会议发言人和与会者名单：所有这些都往往是按字母顺序列出的，收件人在仔细阅读这些内容时就会失去兴趣。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-6-1",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "26. What does the author intend to illustrate with AAAA cars and Zodiac cars?",
+      "sourceHash": "2cbd6c84067fd33df33de0e41f777138a7076a0ce57d949693bec54d8ce14fab",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "26.作者想用AAAA车和Zodiac车来说明什么？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-6-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "27. What can we infer from the first three paragraphs?",
+      "sourceHash": "710f62ff220f06a508cf3f1ad6d0f5415aa9417cdaabecc6945dad072d5bb385",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "27. 从前三段我们可以推断出什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-6-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "28. The 4th paragraph suggests that ______",
+      "sourceHash": "f88e1f78d333367c69e58be92b3099b35a3ad4841283fba72bde03b259b81653",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "28. 第 4 段表明 ______",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-6-7",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "29. What does the author mean by “most people are literally having a ZZZ” (Paragraph 5)?",
+      "sourceHash": "fd2f4136ba4003f78c48b0eedcb9797838ba7244916c51430fc77fa4b59f2efc",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "29. 作者所说的“大多数人确实有 ZZZ”（第 5 段）是什么意思？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-6-9",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "30. Which of the following is true according to the text?",
+      "sourceHash": "de0312620fa9c437e50ef444fc5eb585bbe33e955815b2ab2087fd2fb2773e93",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "30.根据课文，下列哪项是正确的？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-7-2",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "When it comes to the slowing economy, Ellen Spero isn’t biting her nails just yet. But the 47-year-old manicurist isn’t cutting, filing or polishing as many nails as she’d like to, either. Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. Spero blames the softening economy. “I’m a good economic indicator,” she says. “I provide a service that people can do without when they’re concerned about saving some dollars.” So Spero is downscaling, shopping at middle-brow Dillard’s department store near her suburban Cleveland home, instead of Neiman Marcus. “I don’t know if other clients are going to abandon me, too,” she says.",
+      "sourceHash": "08e6e36c716e617fe890ba8e50486a14b2bf7501e1f1241716cba4e71bd142ca",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "谈到经济放缓，艾伦·斯佩罗 (Ellen Spero) 还没有咬指甲。但这位 47 岁的美甲师也没有按照自己的意愿剪、锉或抛光指甲。她的大多数客户每周花费 12 至 50 美元，但上个月，两位长期客户突然不再出现。斯佩罗将此归咎于经济疲软。 “我是一个很好的经济指标，”她说。 “当人们担心节省一些钱时，我提供的服务是可以不需要的。”因此，斯佩罗正在缩小规模，在她位于克利夫兰郊区的家附近的中产阶级迪拉德百货公司购物，而不是在尼曼·马库斯 (Neiman Marcus)。 “我不知道其他客户是否也会抛弃我，”她说。",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-7-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Even before Alan Greenspan’s admission that America’s red-hot economy is cooling, lots of working folks had already seen signs of the slowdown themselves. From car dealerships to Gap outlets, sales have been lagging for months as shoppers temper their spending. For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the cautious approach is coming at a crucial time. Already, experts say, holiday sales are off 7 percent from last year’s pace. But don’t sound any alarms just yet. Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy’s long-term prospects even as they do some modest belt-tightening.",
+      "sourceHash": "5958b3b8386d8b683e352d1eb1b43748f7e8facf7f7842dd9387fef412d31099",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-7-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-7-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "甚至在艾伦·格林斯潘承认美国炙手可热的经济正在降温之前，许多工薪阶层就已经看到了经济放缓的迹象。从汽车经销店到 Gap 专卖店，由于购物者减少支出，销售已经滞后数月。对于去年感恩节和圣诞节期间收入占总收入 24% 的零售商来说，他们在关键时刻采取了谨慎的态度。专家表示，假日销售已经比去年下降了 7%。但暂时不要拉响任何警报。消费者似乎只是轻度担忧，并不惊慌，许多人表示，尽管他们适度勒紧裤腰带，但他们对经济的长期前景仍然持乐观态度。",
+      "source": {
+        "blockIds": [
+          "b-7-3"
+        ],
+        "reflowBlockIds": [
+          "b-7-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-7-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Consumers say they’re not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. Home prices are holding steady in most regions. In Manhattan, “there’s a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,” says broker Barbara Corcoran. In San Francisco, prices are still rising even as frenzied overbidding quiets. “Instead of 20 to 30 offers, now maybe you only get two or three,” says John Tealdi, a Bay Area real-estate broker. And most folks still feel pretty comfortable about their ability to find and keep a job.",
+      "sourceHash": "fcdf4ee80ce8cd990df7a5faab08480eae4e872b1785416c98044034b73f3f94",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-7-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "消费者表示，他们并不绝望，因为尽管有可怕的头条新闻，但他们自己的命运仍然不错。大多数地区的房价保持稳定。经纪人芭芭拉·科克伦 (Barbara Corcoran) 表示，在曼哈顿，“新一轮淘金热正在兴起，价值 400 万至 1000 万美元，主要由华尔街奖金推动”。在旧金山，尽管疯狂的竞价平静下来，但价格仍在上涨。 “现在你可能只会收到两到三个报价，而不是 20 到 30 个报价，”湾区房地产经纪人约翰·蒂尔迪 (John Tealdi) 说。大多数人仍然对自己找到并保住工作的能力感到非常满意。",
+      "source": {
+        "blockIds": [
+          "b-7-4"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-7-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Many folks see silver linings to this slowdown. Potential home buyers would cheer for lower interest rates. Employers wouldn’t mind a little fewer bubbles in the job market. Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom. Diners might see an upside, too. Getting a table at Manhattan’s hot new Alain Ducasse restaurant used to be impossible. Not anymore. For that, Greenspan & Co. may still be worth toasting.",
+      "sourceHash": "b9c75fa60338e050cf8f2862bc82dad9aa0fd776f0604e9fc29864a88394f875",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-7-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-7-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多人看到了经济放缓的一线希望。潜在的购房者将为较低的利率欢呼。雇主不会介意就业市场的泡沫少一点。许多消费者似乎受到股市波动的影响，投资者现在认为股市波动是持续繁荣的必要因素。食客也可能会看到好处。过去，在曼哈顿新开的热门 Alain Ducasse 餐厅订到一张桌子是不可能的。不再。就这一点而言，格林斯潘公司可能仍然值得庆贺。",
+      "source": {
+        "blockIds": [
+          "b-7-5"
+        ],
+        "reflowBlockIds": [
+          "b-7-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-8-1",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "31. By “Ellen Spero isn’t biting her nails just yet” (Paragraph 1 ), the author means ______",
+      "sourceHash": "2d7c399ace0b73c0cdfe12c1a592ffe0e663e97596e464a685dc5a60c73bc7cb",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-1"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-8-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "31. 通过“Ellen Spero 还没有咬指甲”（第 1 段），作者的意思是 ______",
+      "source": {
+        "blockIds": [
+          "b-8-1"
+        ],
+        "reflowBlockIds": [
+          "b-8-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-8-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "32. How do the public feel about the current economic situation?",
+      "sourceHash": "d05df29b3dd6623e36ed67a79f66f8bc5655286b52742600564437a09db0181a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-8-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "32.公众对当前经济形势有何看法？",
+      "source": {
+        "blockIds": [
+          "b-8-3"
+        ],
+        "reflowBlockIds": [
+          "b-8-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-8-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "33. When mentioning “the $4 million to $10 million range” (Paragraph 3), the author is",
+      "sourceHash": "296a445d6be224e29ebd1718cf36931fb3a9a3fbe7c5b08943269ed4c7866e13",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-8-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "33. 当提到“400 万美元到 1000 万美元的范围”（第 3 段）时，作者是",
+      "source": {
+        "blockIds": [
+          "b-8-5"
+        ],
+        "reflowBlockIds": [
+          "b-8-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-8-8",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "34. Why can many people see “silver linings” to the economic slowdown?",
+      "sourceHash": "59161ae0d69811d8f33f5fa60629c0583c14c8eea052e0dc97e26fd856339708",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-8"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-8-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "34. 为什么很多人能看到经济放缓的“一线希望”？",
+      "source": {
+        "blockIds": [
+          "b-8-8"
+        ],
+        "reflowBlockIds": [
+          "b-8-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-8-10",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "35. To which of the following is the author likely to agree?",
+      "sourceHash": "b1f9ffafb40949cbf389db1f16b28933b6b860d6821d1afb5ab9d12f1a4d678d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-10"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-8-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "35. 作者可能同意以下哪一项？",
+      "source": {
+        "blockIds": [
+          "b-8-10"
+        ],
+        "reflowBlockIds": [
+          "b-8-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "8"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-2",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Americans today don’t place a very high value on intellect. Our heroes are athletes, entertainers, and entrepreneurs, not scholars. Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge. Symptoms of pervasive anti-intellectualism in our schools aren’t difficult to find.",
+      "sourceHash": "794209b110a94bdcf289b9d38bd312fabcd91ae34a433676fcbca2b80bda1662",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-2"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "今天的美国人并不十分看重智力。我们的英雄是运动员、演艺人员和企业家，而不是学者。甚至我们的学校也是我们送孩子接受实践教育的地方——而不是为了知识而追求知识。我们学校中普遍存在的反智主义症状并不难发现。",
+      "source": {
+        "blockIds": [
+          "b-9-2"
+        ],
+        "reflowBlockIds": [
+          "b-9-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "“Schools have always been in a society where practical is more important than intellectual,” says education writer Diane Ravitch. “Schools could be a counterbalance.” Ravitch’s latest book, Left Back: A Century of Failed School Reforms, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.",
+      "sourceHash": "4614dec69a0aecf9c206f40ef8f536c32c291731257c817be5e3c711f158bf15",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“学校一直处于一个实践比知识更重要的社会，”教育作家黛安·拉维奇说。 “学校可以起到平衡作用。”拉维奇的最新著作《左后卫：一个世纪失败的学校改革》追溯了我们学校中反智主义的根源，得出的结论是，它们根本无法平衡美国人对知识追求的厌恶。",
+      "source": {
+        "blockIds": [
+          "b-9-3"
+        ],
+        "reflowBlockIds": [
+          "b-9-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy. Continuing along this path, says writer Earl Shorris, “We will become a second-rate country. We will have a less civil society.”",
+      "sourceHash": "31cda8c405c564b30a53eaceeff32ec9da9dbc108d81f234ca3401f2c420f7f5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但他们可以而且应该这样做。鼓励孩子拒绝精神生活会让他们容易受到剥削和控制。如果没有批判性思考、捍卫自己的想法和理解他人的想法的能力，他们就无法充分参与我们的民主。作家厄尔·肖里斯 (Earl Shoris) 表示，继续沿着这条路走下去，“我们将成为二流国家。我们的公民社会将会减少。”",
+      "source": {
+        "blockIds": [
+          "b-9-4"
+        ],
+        "reflowBlockIds": [
+          "b-9-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "“Intellect is resented as a form of power or privilege,” writes historian and professor Richard Hofstadter in Anti-intellectualism in American Life, a Pulitzer-Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.",
+      "sourceHash": "c7f9cfe6cfe64aa99386505a6046cd0ae39bf73a0257c77015d86df5422c16c3",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "历史学家兼教授理查德·霍夫施塔特（Richard Hofstadter）在《美国生活中的反智主义》一书中写道：“智力作为一种权力或特权形式而受到憎恨。”该书荣获普利策奖，探讨美国政治、宗教和教育中反智主义的根源。霍夫施塔特说，从我们的历史开始，我们的民主和民粹主义冲动就驱使我们拒绝任何带有精英主义味道的东西。实用性、常识和天生的智慧被认为比从书本上学到的任何东西都更高尚。",
+      "source": {
+        "blockIds": [
+          "b-9-5"
+        ],
+        "reflowBlockIds": [
+          "b-9-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: “We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing.” Mark Twain’s Huckleberry Finn exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.",
+      "sourceHash": "371dc91e946209c6e8af646468932bc2dfcecedc7de2ccba8918a86599f77395",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "拉尔夫·沃尔多·爱默生和其他超验主义哲学家认为，学校教育和严格的书本学习给孩子们带来了不自然的束缚：“我们被关在学校和大学的背诵室里10年或15年，最后出来时却满腹言语，一无所知。”马克·吐温的《哈克贝利·费恩历险记》是美国反智主义的典范。它的英雄避免文明——上学和学习阅读——这样他就可以保留他与生俱来的善良。",
+      "source": {
+        "blockIds": [
+          "b-9-6"
+        ],
+        "reflowBlockIds": [
+          "b-9-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-9-7",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Intellect, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind. Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes, and imagines.",
+      "sourceHash": "ed26a8bac9ef767c55e96c0d8706e7f2bd423e57eb8d1b8250426a2ee1361cab",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-9-7"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-9-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "霍夫施塔特认为，智力不同于与生俱来的智力，后者是我们不情愿地钦佩的品质。智力是心灵的批判性、创造性和沉思性的一面。智力寻求把握、操纵、重新排序和调整，而智力则检查、思考、思考、理论、批评和想象。",
+      "source": {
+        "blockIds": [
+          "b-9-7"
+        ],
+        "reflowBlockIds": [
+          "b-9-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "9"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-1",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "School remains a place where intellect is mistrusted. Hofstadter says our country’s educational system is in the grips of people who “joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise.”",
+      "sourceHash": "62422c7ef8b4a3ee92484affb346ab9a9ece0a5bdad0d677b346c3af7cf84520",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-1"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "学校仍然是一个智力不被信任的地方。霍夫施塔特说，我们国家的教育体系掌握在那些“快乐而激进地宣称对智力怀有敌意并渴望认同最没有智力潜力的孩子”的人手中。",
+      "source": {
+        "blockIds": [
+          "b-10-1"
+        ],
+        "reflowBlockIds": [
+          "b-10-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-2",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "36. What do American parents expect their children to acquire in school?",
+      "sourceHash": "759bf2a3435601213f65de8ed8410e5b9e0f368cb493a2d6f287e175f4598e10",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-2"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 美国家长希望孩子在学校学到什么？",
+      "source": {
+        "blockIds": [
+          "b-10-2"
+        ],
+        "reflowBlockIds": [
+          "b-10-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "37. We can learn from the text that Americans have a history of ______",
+      "sourceHash": "5dd78952007bad956fc582fa644f11e253748112877f15dfdb2bb06170becd3f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 从文中我们可以得知美国人有______的历史",
+      "source": {
+        "blockIds": [
+          "b-10-4"
+        ],
+        "reflowBlockIds": [
+          "b-10-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "38. The views of Ravitch and Emerson on schooling are ______",
+      "sourceHash": "c8e6bcd8edb9a5a34b49b25d57223d1ac5493fea0fcf829f1258a6b77283f52a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. Ravitch 和 Emerson 对学校教育的看法是 ______",
+      "source": {
+        "blockIds": [
+          "b-10-6"
+        ],
+        "reflowBlockIds": [
+          "b-10-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-8",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "39. Emerson, according to the text, is probably ______",
+      "sourceHash": "864cda4867e385b54fbe952388042bc7388ecb8650d79f93e15de18b2e688e77",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-8"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 根据文字，艾默生可能是______",
+      "source": {
+        "blockIds": [
+          "b-10-8"
+        ],
+        "reflowBlockIds": [
+          "b-10-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-10-10",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "40. What does the author think of intellect?",
+      "sourceHash": "f665ac6186d5b8c9edffe2a0b474d0245ed1d2bcf072e681ffae05e9675f7bf4",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-10"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-10-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40.作者如何看待智力？",
+      "source": {
+        "blockIds": [
+          "b-10-10"
+        ],
+        "reflowBlockIds": [
+          "b-10-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "10"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-11-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "instruction",
+      "sourceText": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)",
+      "sourceHash": "dbc23ff23cecaf2fef0a6451c50512dc776dc07fd5ba0126a5d020208acdc767",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-11-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-11-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "仔细阅读下面的文字，然后将划线部分翻译成中文。您的翻译应清楚地写在答题卡 2 上。（10 分）",
+      "source": {
+        "blockIds": [
+          "b-11-3"
+        ],
+        "reflowBlockIds": [
+          "b-11-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "11"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-11-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "The relation of language and mind has interested philosophers for many centuries. (41)The Greeks assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how diverse languages could be.",
+      "sourceHash": "b52c4329c03964dd56e363e5db91e8f91ca1a69b82df69db6d4c1826976fc9d5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-11-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-11-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "几个世纪以来，语言和心灵的关系一直引起哲学家的兴趣。 (41)希腊人认为语言的结构与思维过程有某种联系，这种观念早在人们意识到语言的多样性之前就在欧洲扎根了。",
+      "source": {
+        "blockIds": [
+          "b-11-4"
+        ],
+        "reflowBlockIds": [
+          "b-11-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "11"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-11-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Only recently did linguists begin the serious study of languages that were very different from their own. Two anthropologist-linguists, Franz Boas and Edward Sapir, were pioneers in describing many native languages of North and South America during the first half of the twentieth century. (42) We are obliged to them because some of these languages have since vanished, as the peoples who spoke them died out or became assimilated and lost their native languages. Other linguists in the earlier part of this century, however, who were less eager to deal with bizarre data from “exotic” language, were not always so grateful. (43) The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some scholars even accused Boas and Sapir of fabricating their data. Native American languages are indeed different, so much so in fact that Navajo could be used by the US military as a code during World War II to send secret messages.",
+      "sourceHash": "de1c5aa3edc22b14096ff541245017d5231fec4553b974905d8409199f30a789",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-11-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-11-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "直到最近，语言学家才开始认真研究与他们自己的语言截然不同的语言。两位人类学家兼语言学家弗兰茨·博阿斯和爱德华·萨皮尔是二十世纪上半叶描述北美和南美许多本土语言的先驱。 (42) 我们对它们表示感谢，因为其中一些语言已经消失，因为讲这些语言的民族灭绝了，或者被同化并失去了他们的母语。然而，本世纪初的其他语言学家不太热衷于处理来自“异国”语言的奇异数据，因此并不总是那么感激。 (43) 新描述的语言往往与欧洲和东南亚经过深入研究的语言有着显着的不同，以至于一些学者甚至指责博阿斯和萨皮尔捏造了他们的数据。美洲原住民语言确实不同，以至于二战期间美国军方可以使用纳瓦霍语作为发送秘密信息的代码。",
+      "source": {
+        "blockIds": [
+          "b-11-5"
+        ],
+        "reflowBlockIds": [
+          "b-11-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "11"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-11-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "reading",
+      "sourceText": "Sapir’s pupil, Benjamin Lee Whorf, continued the study of American Indian languages. (44) Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society. He reasoned that because it is easier to formulate certain concepts and not others in a given language, the speakers of that language think along one track and not along another. (45) Whorf came to believe in a sort of linguistic determinism which, in its strongest form, states that language imprisons the mind, and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society. Later, this idea became to be known as the Sapir-Whorf hypothesis, but this term is somewhat inappropriate. Although both Sapir and Whorf emphasized the diversity of languages, Sapir himself never explicitly supported the notion of linguistic determinism.",
+      "sourceHash": "b077a22189b7d1aa747a5ffeb9598579df8f3d2e3589f70b208fe24d9a4a65d4",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-11-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-11-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "萨皮尔的学生本杰明·李·沃尔夫继续研究美洲印第安语言。 (44) 由于对语言和思想的关系感兴趣，沃尔夫提出了这样的观点：语言的结构决定了社会中习惯思维的结构。他推断，由于用某种语言更容易表述某些概念，而不是其他概念，因此该语言的使用者沿着一条轨道思考，而不是沿着另一条轨道。 (45) 沃尔夫开始相信一种语言决定论，这种决定论以其最强烈的形式指出，语言囚禁着心灵，语言中的语法模式可以对社会文化产生深远的影响。后来，这个想法被称为萨皮尔-沃尔夫假说，但这个术语有些不恰当。尽管萨皮尔和沃尔夫都强调语言的多样性，但萨皮尔本人从未明确支持语言决定论的概念。",
+      "source": {
+        "blockIds": [
+          "b-11-6"
+        ],
+        "reflowBlockIds": [
+          "b-11-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "11"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-12-3",
+      "paperId": "kaoyan:2004-01",
+      "kind": "writing_prompt",
+      "sourceText": "Study the following drawing carefully and write an essay in which you should",
+      "sourceHash": "c79b33bd5ff464dae77021f3017a8c7957da65f9fe56bf9111f439e1a31e4a17",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-12-3"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-12-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "仔细研究下面的图画，并写一篇文章，其中你应该",
+      "source": {
+        "blockIds": [
+          "b-12-3"
+        ],
+        "reflowBlockIds": [
+          "b-12-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "12"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-12-4",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "1. describe the drawing,",
+      "sourceHash": "c2c06e60f2c9d094cc2393626fc552a1b72c4d41740547390606b35632fe52fb",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-12-4"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-12-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "1. 描述绘图，",
+      "source": {
+        "blockIds": [
+          "b-12-4"
+        ],
+        "reflowBlockIds": [
+          "b-12-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "12"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-12-5",
+      "paperId": "kaoyan:2004-01",
+      "kind": "question_prompt",
+      "sourceText": "2. interpret its meaning, and support your view with examples.",
+      "sourceHash": "ed57355a3b81db48aff45958a9dbc63a6d0df09d50a5c3dac6099ff4ad21a6c6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-12-5"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-12-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "2.解释其含义，并举例支持你的观点。",
+      "source": {
+        "blockIds": [
+          "b-12-5"
+        ],
+        "reflowBlockIds": [
+          "b-12-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "12"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    },
+    {
+      "id": "kaoyan:2004-01:p:b-12-6",
+      "paperId": "kaoyan:2004-01",
+      "kind": "instruction",
+      "sourceText": "You should write about 200 words neatly on ANSWER SHEET 2 (20 points)",
+      "sourceHash": "3c7178469b693304faab6ad4550f5980963f29ab44b7eabe3dd094fc56362753",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-12-6"
+      ],
+      "reflowBlockIds": [
+        "kaoyan:2004-01:b-12-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "请在答题卡 2 上工整地写下 200 字左右（20 分）",
+      "source": {
+        "blockIds": [
+          "b-12-6"
+        ],
+        "reflowBlockIds": [
+          "b-12-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "12"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/kaoyan/papers/2004-01.json",
+        "pdfSha256": "524b3b5861d435835690733fb496bf32e7adeebc6cb8c5e061c2fdcf748e82c5",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/kaoyan/papers/2004-01.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/kaoyan/papers/2004-01.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "kaoyan:2004-01:q-1-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-1-1",
+      "optionId": "kaoyan:2004-01:q-1-1:A",
+      "sourceText": "acting",
+      "sourceHash": "2ad0acb649d2c730cc017f32dd8f6383333107badf2a2888a42c82ad155fa288",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-1"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "acting",
+      "translationEligible": true,
+      "translationZh": "表演",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-1-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-1-1",
+      "optionId": "kaoyan:2004-01:q-1-1:B",
+      "sourceText": "relying",
+      "sourceHash": "1e4d98f1c21b0d0cdc6587ad50da44ba5527f6f1d0d3c15d0910f74d8b4166ff",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-1"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "relying",
+      "translationEligible": true,
+      "translationZh": "依靠",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-1-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-1-1",
+      "optionId": "kaoyan:2004-01:q-1-1:C",
+      "sourceText": "centering",
+      "sourceHash": "09d0b92fd42bcd942fa9f4c295ccb4b81635d66ff0272ceb06ac80b45fa77179",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-1"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "centering",
+      "translationEligible": true,
+      "translationZh": "居中",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-1-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-1-1",
+      "optionId": "kaoyan:2004-01:q-1-1:D",
+      "sourceText": "commenting",
+      "sourceHash": "91a993ee0a774e5f8894a88aada4b5b385559dfbc808751732c9bf31633e6d1f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-1"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "commenting",
+      "translationEligible": true,
+      "translationZh": "评论",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-2-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-2-1",
+      "optionId": "kaoyan:2004-01:q-2-1:A",
+      "sourceText": "before",
+      "sourceHash": "6db7d803e74f1ffa7d8f5adc0bf95b3e15bf4c8373fffadf546227cc6c6742cb",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "before",
+      "translationEligible": true,
+      "translationZh": "之前",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-2-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-2-1",
+      "optionId": "kaoyan:2004-01:q-2-1:B",
+      "sourceText": "unless",
+      "sourceHash": "c8a69f69754487458ba1b8ff473d119702d7e43925fae45475156780939bc606",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "unless",
+      "translationEligible": true,
+      "translationZh": "除非",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-2-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-2-1",
+      "optionId": "kaoyan:2004-01:q-2-1:C",
+      "sourceText": "until",
+      "sourceHash": "2e3200de84b9cada83900111ef25b8bfa9cbf45e145c9ceb3b87330b32eff188",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "until",
+      "translationEligible": true,
+      "translationZh": "直到",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-2-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-2-1",
+      "optionId": "kaoyan:2004-01:q-2-1:D",
+      "sourceText": "because",
+      "sourceHash": "a511aeeeb8a119931a67038a63b7974faee48712de1c79391ebe2c9b929678e9",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "because",
+      "translationEligible": true,
+      "translationZh": "因为",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-3-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-3-1",
+      "optionId": "kaoyan:2004-01:q-3-1:A",
+      "sourceText": "interaction",
+      "sourceHash": "167d4b09d014f218c42abf5ebb397a2fc819401fe709223fbd729f1f8e9e790e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "interaction",
+      "translationEligible": true,
+      "translationZh": "互动",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-3-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-3-1",
+      "optionId": "kaoyan:2004-01:q-3-1:B",
+      "sourceText": "assimilation",
+      "sourceHash": "2312b01419b0649ec1bdf7f861842d44b059ecac068c467704b91f7305f9fea5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "assimilation",
+      "translationEligible": true,
+      "translationZh": "同化",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-3-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-3-1",
+      "optionId": "kaoyan:2004-01:q-3-1:C",
+      "sourceText": "cooperation",
+      "sourceHash": "c8f405cbf1381a8cb07c2cc0deac3d32afb0517a4be0e323a81f739b1e5ad257",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "cooperation",
+      "translationEligible": true,
+      "translationZh": "合作",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-3-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-3-1",
+      "optionId": "kaoyan:2004-01:q-3-1:D",
+      "sourceText": "consultation",
+      "sourceHash": "725949a1f8218e8d1997d92ac8125184b2c8ede6bdb436bfb955b07edd64476e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "consultation",
+      "translationEligible": true,
+      "translationZh": "咨询",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-4-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-4-1",
+      "optionId": "kaoyan:2004-01:q-4-1:A",
+      "sourceText": "return",
+      "sourceHash": "7187f0675eb3827939741acf7342ba78836ecec21a31ecf3f34a55309d3bee8a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "return",
+      "translationEligible": true,
+      "translationZh": "返回",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-4-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-4-1",
+      "optionId": "kaoyan:2004-01:q-4-1:B",
+      "sourceText": "reply",
+      "sourceHash": "5782b18687e6cf8a482fc32d2db5b196d8821c458a0c069c6acf3953446e7bb5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "reply",
+      "translationEligible": true,
+      "translationZh": "回复",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-4-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-4-1",
+      "optionId": "kaoyan:2004-01:q-4-1:C",
+      "sourceText": "reference",
+      "sourceHash": "52367a6622b19f08825e915fad80c542ad4f4c34dbcebad9f5007994b3e39208",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "reference",
+      "translationEligible": true,
+      "translationZh": "参考",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-4-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-4-1",
+      "optionId": "kaoyan:2004-01:q-4-1:D",
+      "sourceText": "response",
+      "sourceHash": "a9f4b3d22a523fdada41c85c175425bcd15b32b4cd0f54d9433accd52d7195a1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "response",
+      "translationEligible": true,
+      "translationZh": "反应",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-5-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-5-1",
+      "optionId": "kaoyan:2004-01:q-5-1:A",
+      "sourceText": "or",
+      "sourceHash": "7175517a370b5cd2e664e3fd29c4ea9db5ce17058eb9772fe090a5485e49dad6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "or",
+      "translationEligible": true,
+      "translationZh": "或",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-5-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-5-1",
+      "optionId": "kaoyan:2004-01:q-5-1:B",
+      "sourceText": "but rather",
+      "sourceHash": "e671a3c49163a3c2ddd1489abc24a91555cfc9d2e70bd5c0c141c2941aad0dbd",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "but rather",
+      "translationEligible": true,
+      "translationZh": "而是",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-5-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-5-1",
+      "optionId": "kaoyan:2004-01:q-5-1:C",
+      "sourceText": "but",
+      "sourceHash": "cdc29937887188ad3702d1831d5b7ec66333a2a909e1f242432eb168d4c7b08b",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "but",
+      "translationEligible": true,
+      "translationZh": "但是",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-5-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-5-1",
+      "optionId": "kaoyan:2004-01:q-5-1:D",
+      "sourceText": "or else",
+      "sourceHash": "d593b3bc655899758c06bc3ec1f4c10590b0a4710453f8adbc62ac0fc597aedf",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "or else",
+      "translationEligible": true,
+      "translationZh": "不然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-6-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-6-1",
+      "optionId": "kaoyan:2004-01:q-6-1:A",
+      "sourceText": "considering",
+      "sourceHash": "9a2ea65b8be0d086df1e885a3ba4a73f4ff37cb7090c7e899a34ea8cc54e273c",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "considering",
+      "translationEligible": true,
+      "translationZh": "考虑到",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-6-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-6-1",
+      "optionId": "kaoyan:2004-01:q-6-1:B",
+      "sourceText": "ignoring",
+      "sourceHash": "2ea2189e7d33373a42cbca855d0963d9264ebb2b9d599fee2a90fd0606d261d3",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "ignoring",
+      "translationEligible": true,
+      "translationZh": "忽略",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-6-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-6-1",
+      "optionId": "kaoyan:2004-01:q-6-1:C",
+      "sourceText": "highlighting",
+      "sourceHash": "9a828f88cdb69f577b60a022fd8aa10150501bec6c7cf99720f842d97b1ce0f1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "highlighting",
+      "translationEligible": true,
+      "translationZh": "突出显示",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-6-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-6-1",
+      "optionId": "kaoyan:2004-01:q-6-1:D",
+      "sourceText": "discarding",
+      "sourceHash": "6bff73ce96c4f61eef74a41c791ebdf05afe9d8fbe672344d1755c80f4decd0d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "discarding",
+      "translationEligible": true,
+      "translationZh": "丢弃",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-7-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-7-1",
+      "optionId": "kaoyan:2004-01:q-7-1:A",
+      "sourceText": "on",
+      "sourceHash": "b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "on",
+      "translationEligible": true,
+      "translationZh": "上",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-7-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-7-1",
+      "optionId": "kaoyan:2004-01:q-7-1:B",
+      "sourceText": "in",
+      "sourceHash": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "in",
+      "translationEligible": true,
+      "translationZh": "在",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-7-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-7-1",
+      "optionId": "kaoyan:2004-01:q-7-1:C",
+      "sourceText": "for",
+      "sourceHash": "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "for",
+      "translationEligible": true,
+      "translationZh": "为了",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-7-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-7-1",
+      "optionId": "kaoyan:2004-01:q-7-1:D",
+      "sourceText": "with",
+      "sourceHash": "0695b563acde461fc2f8d9aebccf35c7596ac458b8d8e067c602fb7b4e5f1578",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "with",
+      "translationEligible": true,
+      "translationZh": "与",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-8-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-8-1",
+      "optionId": "kaoyan:2004-01:q-8-1:A",
+      "sourceText": "immune",
+      "sourceHash": "808a374d01599f57dd4fdbf441edfa3e1958792b8bdeb2404e033789ca3e3bb7",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "immune",
+      "translationEligible": true,
+      "translationZh": "免疫",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-8-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-8-1",
+      "optionId": "kaoyan:2004-01:q-8-1:B",
+      "sourceText": "resistant",
+      "sourceHash": "c39cfd639660e777f60d4cc61dba3dd80a1e306f4e4f3da72096dc78990fb22e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "resistant",
+      "translationEligible": true,
+      "translationZh": "抵抗力",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-8-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-8-1",
+      "optionId": "kaoyan:2004-01:q-8-1:C",
+      "sourceText": "sensitive",
+      "sourceHash": "2d5e8600a4fba66e5c6a513a6e77421f4079cdb8728ed12b810196584b0bbde2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "sensitive",
+      "translationEligible": true,
+      "translationZh": "敏感的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-8-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-8-1",
+      "optionId": "kaoyan:2004-01:q-8-1:D",
+      "sourceText": "subject",
+      "sourceHash": "a9491f4c1bf7b0cffbadcba2db8f028e4b3f2867cb59e1f3a0bc1968f3c51242",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "subject",
+      "translationEligible": true,
+      "translationZh": "主题",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-9-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-9-1",
+      "optionId": "kaoyan:2004-01:q-9-1:A",
+      "sourceText": "affect",
+      "sourceHash": "8528058461899c6b3e793385cf6afea68d9a9dfded030e4cb842a8bdee979c28",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "affect",
+      "translationEligible": true,
+      "translationZh": "影响",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-9-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-9-1",
+      "optionId": "kaoyan:2004-01:q-9-1:B",
+      "sourceText": "reduce",
+      "sourceHash": "4c7e98bfa0c750beb52cf2ddf452297d55681dc9efa8e9725d4334e981ae61ad",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "reduce",
+      "translationEligible": true,
+      "translationZh": "减少",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-9-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-9-1",
+      "optionId": "kaoyan:2004-01:q-9-1:C",
+      "sourceText": "check",
+      "sourceHash": "20f65c28671b40937c5bf23acc7c6f37e5a5ec0622e347b57685725df5ba9e50",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "check",
+      "translationEligible": true,
+      "translationZh": "检查",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-9-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-9-1",
+      "optionId": "kaoyan:2004-01:q-9-1:D",
+      "sourceText": "reflect",
+      "sourceHash": "909ca0096d519dcf94aba6069fa664842bdf9de264725a6c543c4926abe6bdfa",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "reflect",
+      "translationEligible": true,
+      "translationZh": "反映",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-10-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-10-1",
+      "optionId": "kaoyan:2004-01:q-10-1:A",
+      "sourceText": "point",
+      "sourceHash": "251fecd592e56e6c4a95121752f4a73bb802dffc1cc4bce6100206ee2b7cb650",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "point",
+      "translationEligible": true,
+      "translationZh": "点",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-10-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-10-1",
+      "optionId": "kaoyan:2004-01:q-10-1:B",
+      "sourceText": "lead",
+      "sourceHash": "e3456bc1f4d270f4a97933758645fdc21e39642b31ca343c1818f7972ac27906",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "lead",
+      "translationEligible": true,
+      "translationZh": "铅",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-10-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-10-1",
+      "optionId": "kaoyan:2004-01:q-10-1:C",
+      "sourceText": "come",
+      "sourceHash": "9c19636ddea25f0a13357d01c0aef27a4eb4c7f8cbaf2be35f272273572ce2e5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "come",
+      "translationEligible": true,
+      "translationZh": "来吧",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-10-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-10-1",
+      "optionId": "kaoyan:2004-01:q-10-1:D",
+      "sourceText": "amount",
+      "sourceHash": "cf38d95c9c6b1d9d5125c04d41a54df57727ef4cfb3f5116a602fe2b25115c13",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "amount",
+      "translationEligible": true,
+      "translationZh": "金额",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-11-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-11-1",
+      "optionId": "kaoyan:2004-01:q-11-1:A",
+      "sourceText": "in general",
+      "sourceHash": "0b4a74df90171413bd8ca63bf52ae6bff79e5eaf8779b344ad2028fe8e1460bd",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "in general",
+      "translationEligible": true,
+      "translationZh": "一般而言",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-11-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-11-1",
+      "optionId": "kaoyan:2004-01:q-11-1:B",
+      "sourceText": "on average",
+      "sourceHash": "906585717f6514b7619bba3885f35d896fb95f389a4cbf044815e1c8be760100",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "on average",
+      "translationEligible": true,
+      "translationZh": "平均而言",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-11-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-11-1",
+      "optionId": "kaoyan:2004-01:q-11-1:C",
+      "sourceText": "by contrast",
+      "sourceHash": "c3c64750a3ff307ceecd034f85aa70f99d9d76801b782eb0c2471bde98831765",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "by contrast",
+      "translationEligible": true,
+      "translationZh": "相比之下",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-11-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-11-1",
+      "optionId": "kaoyan:2004-01:q-11-1:D",
+      "sourceText": "at length",
+      "sourceHash": "96699ee307622115550c84a0a47174c0381ceec822bef978fe83adb296641cd2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "at length",
+      "translationEligible": true,
+      "translationZh": "终于",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-12-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-12-1",
+      "optionId": "kaoyan:2004-01:q-12-1:A",
+      "sourceText": "case",
+      "sourceHash": "bbfcd4160a1e8674dac62292ae48be4785262ad7078f9ec11b74a254ce70fa06",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-12"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "case",
+      "translationEligible": true,
+      "translationZh": "案例",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-12-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-12-1",
+      "optionId": "kaoyan:2004-01:q-12-1:B",
+      "sourceText": "short",
+      "sourceHash": "f9b0078b5df596d2ea19010c001bbd009e651de2c57e8fb7e355f31eb9d3f739",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-12"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "short",
+      "translationEligible": true,
+      "translationZh": "短",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-12-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-12-1",
+      "optionId": "kaoyan:2004-01:q-12-1:C",
+      "sourceText": "turn",
+      "sourceHash": "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-12"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "turn",
+      "translationEligible": true,
+      "translationZh": "转",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-12-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-12-1",
+      "optionId": "kaoyan:2004-01:q-12-1:D",
+      "sourceText": "essence",
+      "sourceHash": "092bd8646cf5c6a62b659c0c895b86dfa5a692ee0e2e51257a7cf47b3a2fd1f2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-12"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "essence",
+      "translationEligible": true,
+      "translationZh": "本质",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-13-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-13-1",
+      "optionId": "kaoyan:2004-01:q-13-1:A",
+      "sourceText": "survived",
+      "sourceHash": "491c80a44358038ef7607941db2a9666c3e1a200e0da628e1b704d8540b6fdd8",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-13"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "survived",
+      "translationEligible": true,
+      "translationZh": "幸存下来",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-13-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-13-1",
+      "optionId": "kaoyan:2004-01:q-13-1:B",
+      "sourceText": "noticed",
+      "sourceHash": "0a37d9252cc69e506613681eaacce8ef0c517e84f130aeab8524d977fde25ba4",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-13"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "noticed",
+      "translationEligible": true,
+      "translationZh": "注意到",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-13-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-13-1",
+      "optionId": "kaoyan:2004-01:q-13-1:C",
+      "sourceText": "undertaken",
+      "sourceHash": "95d4de3cfb79acbf61084eb8f089c7636163184f70e1fe21de7a5cb3e7ae640d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-13"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "undertaken",
+      "translationEligible": true,
+      "translationZh": "进行",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-13-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-13-1",
+      "optionId": "kaoyan:2004-01:q-13-1:D",
+      "sourceText": "experienced",
+      "sourceHash": "3d486fe5bc88e9b66c18509b0d8b17bdc16e5d8e426a4afb5e3c16c7c7be97be",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-13"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "experienced",
+      "translationEligible": true,
+      "translationZh": "有经验的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-14-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-14-1",
+      "optionId": "kaoyan:2004-01:q-14-1:A",
+      "sourceText": "contrarily",
+      "sourceHash": "798e6bb5fad099e7a5b257af632905cc5bb4bd9c12a85efa6d64241638e76800",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-14"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "contrarily",
+      "translationEligible": true,
+      "translationZh": "相反地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-14-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-14-1",
+      "optionId": "kaoyan:2004-01:q-14-1:B",
+      "sourceText": "consequently",
+      "sourceHash": "e830d223e2dd4b0b0395429ef113f17cc1cd9666cf179f0f577d08ba82418160",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-14"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "consequently",
+      "translationEligible": true,
+      "translationZh": "因此",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-14-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-14-1",
+      "optionId": "kaoyan:2004-01:q-14-1:C",
+      "sourceText": "similarly",
+      "sourceHash": "611ae55800211e46c7b12cafe7cf44fa473c2bed25992acb91a8985eb5b6600d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-14"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "similarly",
+      "translationEligible": true,
+      "translationZh": "同样地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-14-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-14-1",
+      "optionId": "kaoyan:2004-01:q-14-1:D",
+      "sourceText": "simultaneously",
+      "sourceHash": "993bc4b62c36fe3c1c16fdcb96b910f196b0febdf971a12a2db66156f6577518",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-14"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "simultaneously",
+      "translationEligible": true,
+      "translationZh": "同时",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-15-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-15-1",
+      "optionId": "kaoyan:2004-01:q-15-1:A",
+      "sourceText": "than",
+      "sourceHash": "7383711c1b05e72a1eddda46d34365edf3736a7c23806ab39b9e6f403c9dd625",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-15"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "than",
+      "translationEligible": true,
+      "translationZh": "比",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-15-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-15-1",
+      "optionId": "kaoyan:2004-01:q-15-1:B",
+      "sourceText": "that",
+      "sourceHash": "8e7fc0236af43df9340685fc16f1efe36543cc1707051220a103ad99cf69a2df",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-15"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "that",
+      "translationEligible": true,
+      "translationZh": "那个",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-15-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-15-1",
+      "optionId": "kaoyan:2004-01:q-15-1:C",
+      "sourceText": "which",
+      "sourceHash": "77bc06c55d29ee3cfa295b4592e4b2a85a16bb06a8974726b7bfa3d4ca36d5ae",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-15"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "which",
+      "translationEligible": true,
+      "translationZh": "其中",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-15-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-15-1",
+      "optionId": "kaoyan:2004-01:q-15-1:D",
+      "sourceText": "as",
+      "sourceHash": "f4bf9f7fcbedaba0392f108c59d8f4a38b3838efb64877380171b54475c2ade8",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-15"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "as",
+      "translationEligible": true,
+      "translationZh": "作为",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-16-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-16-1",
+      "optionId": "kaoyan:2004-01:q-16-1:A",
+      "sourceText": "system",
+      "sourceHash": "bbc5e661e106c6dcd8dc6dd186454c2fcba3c710fb4d8e71a60c93eaf077f073",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-16"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-16",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "system",
+      "translationEligible": true,
+      "translationZh": "系统",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-16-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-16-1",
+      "optionId": "kaoyan:2004-01:q-16-1:B",
+      "sourceText": "structure",
+      "sourceHash": "520cdb563bf80b193aab6aad62781a9647c75dbf76748117299c7dac0ae63a87",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-16"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-16",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "structure",
+      "translationEligible": true,
+      "translationZh": "结构",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-16-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-16-1",
+      "optionId": "kaoyan:2004-01:q-16-1:C",
+      "sourceText": "concept",
+      "sourceHash": "da5e11efa36720a4211ac89acf1479952e99b35636f006a70bcede07495289d6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-16"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-16",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "concept",
+      "translationEligible": true,
+      "translationZh": "概念",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-16-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-16-1",
+      "optionId": "kaoyan:2004-01:q-16-1:D",
+      "sourceText": "heritage",
+      "sourceHash": "67a7743cdaba48d6130508dc328bc07888e11df19cd352bc83aa8d0aeb46289a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-16"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-16",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "heritage",
+      "translationEligible": true,
+      "translationZh": "遗产",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-17-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-17-1",
+      "optionId": "kaoyan:2004-01:q-17-1:A",
+      "sourceText": "assessable",
+      "sourceHash": "af7803fb3761437dce834c5c278291cc867aa872c6ef1d6b42a9d56cf6858382",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-17"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-17",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "assessable",
+      "translationEligible": true,
+      "translationZh": "可评估的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-17-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-17-1",
+      "optionId": "kaoyan:2004-01:q-17-1:B",
+      "sourceText": "identifiable",
+      "sourceHash": "2b012a6c9ca883f924dd6d18b388f561b2d4fd454e3b3b28f4a2a94bd500a248",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-17"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-17",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "identifiable",
+      "translationEligible": true,
+      "translationZh": "可识别的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-17-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-17-1",
+      "optionId": "kaoyan:2004-01:q-17-1:C",
+      "sourceText": "negligible",
+      "sourceHash": "967713d0e366db40abf3509bd1d75be368b3371ca3d18a02ddb19877cb7b379a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-17"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-17",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "negligible",
+      "translationEligible": true,
+      "translationZh": "可以忽略不计",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-17-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-17-1",
+      "optionId": "kaoyan:2004-01:q-17-1:D",
+      "sourceText": "incredible",
+      "sourceHash": "6bf67200c28902770671846250c3018a55944c38fa1bbc363dbe12a61b508966",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-17"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-17",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "incredible",
+      "translationEligible": true,
+      "translationZh": "难以置信",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-18-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-18-1",
+      "optionId": "kaoyan:2004-01:q-18-1:A",
+      "sourceText": "expense",
+      "sourceHash": "23b18e504dd45960690a04669a3f89b3b9672d878218b99aa84011784c9174f5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-18"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-18",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "expense",
+      "translationEligible": true,
+      "translationZh": "费用",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-18-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-18-1",
+      "optionId": "kaoyan:2004-01:q-18-1:B",
+      "sourceText": "restriction",
+      "sourceHash": "ea257421aa4a9af64bceca8104a3d62cc63529053fc92e88a9e557ed823b007f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-18"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-18",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "restriction",
+      "translationEligible": true,
+      "translationZh": "限制",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-18-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-18-1",
+      "optionId": "kaoyan:2004-01:q-18-1:C",
+      "sourceText": "allocation",
+      "sourceHash": "165f0f8e557c430929784035df7eeacf7a3ff795f10d76c8707409bba31cb617",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-18"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-18",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "allocation",
+      "translationEligible": true,
+      "translationZh": "分配",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-18-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-18-1",
+      "optionId": "kaoyan:2004-01:q-18-1:D",
+      "sourceText": "availability",
+      "sourceHash": "f95dac581e9b439c58abf51a6c8c091f8e0aac8c0fb06f0cbca10fc8ac361330",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-18"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-18",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "availability",
+      "translationEligible": true,
+      "translationZh": "可用性",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-19-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-19-1",
+      "optionId": "kaoyan:2004-01:q-19-1:A",
+      "sourceText": "incidence",
+      "sourceHash": "a506dcc39d5e6d1bdda098d16ccd7c7e5d2bcae4b3e2020dba82bf033e9cf9bb",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-19"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-19",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "incidence",
+      "translationEligible": true,
+      "translationZh": "发生率",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-19-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-19-1",
+      "optionId": "kaoyan:2004-01:q-19-1:B",
+      "sourceText": "awareness",
+      "sourceHash": "5674991da3fa1a3efcc45ffccdaf770a7a1a6d0fa0e00a1d6eed5a979285e4bc",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-19"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-19",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "awareness",
+      "translationEligible": true,
+      "translationZh": "意识",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-19-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-19-1",
+      "optionId": "kaoyan:2004-01:q-19-1:C",
+      "sourceText": "exposure",
+      "sourceHash": "b40356e6d1c6948bcb05c662bf5aa970a270424c9af61c9fc0c861f2e2269629",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-19"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-19",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "exposure",
+      "translationEligible": true,
+      "translationZh": "曝光",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-19-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-19-1",
+      "optionId": "kaoyan:2004-01:q-19-1:D",
+      "sourceText": "popularity",
+      "sourceHash": "b91d83b6c41a231217b7fc0bfda05c4b6c1d801b87ab71e97e6d80630df579c8",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-19"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-19",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "popularity",
+      "translationEligible": true,
+      "translationZh": "人气",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-20-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-20-1",
+      "optionId": "kaoyan:2004-01:q-20-1:A",
+      "sourceText": "provided",
+      "sourceHash": "da7241946d2eb066072502d39976ddb3c0628f2c125095d2cde17e02a1365309",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-20"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-20",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "provided",
+      "translationEligible": true,
+      "translationZh": "提供",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-20-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-20-1",
+      "optionId": "kaoyan:2004-01:q-20-1:B",
+      "sourceText": "since",
+      "sourceHash": "6b5a3ded016ab78269898c6e38d09f71e71e9311d53569f668e76378de0a798a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-20"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-20",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "since",
+      "translationEligible": true,
+      "translationZh": "自从",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-20-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-20-1",
+      "optionId": "kaoyan:2004-01:q-20-1:C",
+      "sourceText": "although",
+      "sourceHash": "2e1d76579d44d7cfe5f3f61feef2a9a5b2f67c235ce04466ec70a548b10fd530",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-20"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-20",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "although",
+      "translationEligible": true,
+      "translationZh": "虽然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-20-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-20-1",
+      "optionId": "kaoyan:2004-01:q-20-1:D",
+      "sourceText": "supposing",
+      "sourceHash": "9c6a54b90dad1a96b9684232e4e8a60bb966bc361002d8f6006c764aa7a2d88d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-2-20"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-2-20",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "supposing",
+      "translationEligible": true,
+      "translationZh": "假设",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-21-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-21-1",
+      "optionId": "kaoyan:2004-01:q-21-1:A",
+      "sourceText": "By searching openings in a job database.",
+      "sourceHash": "132a00d4f02afc1afbf22614389f6ff86ef37b137a5ac7ac1a6bc8db82051f0d",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "By searching openings in a job database.",
+      "translationEligible": true,
+      "translationZh": "通过在职位数据库中搜索职位空缺。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-21-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-21-1",
+      "optionId": "kaoyan:2004-01:q-21-1:B",
+      "sourceText": "By posting a matching position in a database.",
+      "sourceHash": "4897b4ae5dd328bdf65c96ad3d55b6587727c50df02f0ec4954fd0c497eabc72",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "By posting a matching position in a database.",
+      "translationEligible": true,
+      "translationZh": "通过在数据库中发布匹配的职位。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-21-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-21-1",
+      "optionId": "kaoyan:2004-01:q-21-1:C",
+      "sourceText": "By using a special service of a database.",
+      "sourceHash": "befab88dbd959288f2922bceef98fd056f1f6232879c3b27219b3ae9904c3126",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "By using a special service of a database.",
+      "translationEligible": true,
+      "translationZh": "通过使用数据库的特殊服务。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-21-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-21-1",
+      "optionId": "kaoyan:2004-01:q-21-1:D",
+      "sourceText": "By E-mailing his resume to a database.",
+      "sourceHash": "7c5e49e0070e4297bdd604930893fca86b58d52cb3b19188d642641a3429105e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "By E-mailing his resume to a database.",
+      "translationEligible": true,
+      "translationZh": "通过电子邮件将他的简历发送到数据库。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-22-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-22-1",
+      "optionId": "kaoyan:2004-01:q-22-1:A",
+      "sourceText": "Lack of counseling.",
+      "sourceHash": "f931b5ff636ecc2d85a25801bfcd81273da6810988666026b54f1086a99bc374",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Lack of counseling.",
+      "translationEligible": true,
+      "translationZh": "缺乏咨询。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-22-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-22-1",
+      "optionId": "kaoyan:2004-01:q-22-1:B",
+      "sourceText": "Limited number of visits.",
+      "sourceHash": "44c21cd09a6858bb96556bccb70bdfedabdfc0188151559baa0a6fc92493f752",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Limited number of visits.",
+      "translationEligible": true,
+      "translationZh": "参观次数有限。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-22-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-22-1",
+      "optionId": "kaoyan:2004-01:q-22-1:C",
+      "sourceText": "Lower efficiency.",
+      "sourceHash": "1d80e92aec13add8f835f0031bd82ebed77c0303e16685e2f37f404f105015eb",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Lower efficiency.",
+      "translationEligible": true,
+      "translationZh": "效率较低。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-22-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-22-1",
+      "optionId": "kaoyan:2004-01:q-22-1:D",
+      "sourceText": "Fewer successful matches.",
+      "sourceHash": "c61bede9446159867be9a95b1252b815464ebbc96d2a45d1f3fc41c73c9c4b90",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Fewer successful matches.",
+      "translationEligible": true,
+      "translationZh": "成功的比赛较少。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-23-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-23-1",
+      "optionId": "kaoyan:2004-01:q-23-1:A",
+      "sourceText": "advisory.",
+      "sourceHash": "59f8098afe8c56ac9622a070b74bb3256bd0193601e397d3088e65b13d553e6e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "advisory.",
+      "translationEligible": true,
+      "translationZh": "咨询。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-23-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-23-1",
+      "optionId": "kaoyan:2004-01:q-23-1:B",
+      "sourceText": "compensation.",
+      "sourceHash": "ef9c6f4998108d8f2ab70db67154bcb1b094bc5b108c4d58bcecd0a346509dc7",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "compensation.",
+      "translationEligible": true,
+      "translationZh": "补偿。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-23-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-23-1",
+      "optionId": "kaoyan:2004-01:q-23-1:C",
+      "sourceText": "interaction.",
+      "sourceHash": "35146cc45767a3e4aaa7a291e119861909a29b777bf9d71653d699459e065041",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "interaction.",
+      "translationEligible": true,
+      "translationZh": "互动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-23-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-23-1",
+      "optionId": "kaoyan:2004-01:q-23-1:D",
+      "sourceText": "reminder.",
+      "sourceHash": "7b2e2689f34631629679a628d5b5bf28d8c0a6fb4b307be0097e6cc75b4f4c14",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "reminder.",
+      "translationEligible": true,
+      "translationZh": "提醒。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-24-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-24-1",
+      "optionId": "kaoyan:2004-01:q-24-1:A",
+      "sourceText": "To focus on better job matches.",
+      "sourceHash": "c34c714dc5cb9ee7171e2017d054fea7efd3e53d4eff857c1597dca82c63c42a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "To focus on better job matches.",
+      "translationEligible": true,
+      "translationZh": "专注于更好的工作匹配。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-24-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-24-1",
+      "optionId": "kaoyan:2004-01:q-24-1:B",
+      "sourceText": "To attract more returning visits.",
+      "sourceHash": "bc9bebb6f5f235ea6d26b9b19b82279ab5e59e735110e922f5bc48520db9a8f6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "To attract more returning visits.",
+      "translationEligible": true,
+      "translationZh": "以吸引更多的回访。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-24-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-24-1",
+      "optionId": "kaoyan:2004-01:q-24-1:C",
+      "sourceText": "To reserve space for more messages.",
+      "sourceHash": "d6a2008157583cd3c2d502089725724925704fd53471bbea83c7823bdd4466d2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "To reserve space for more messages.",
+      "translationEligible": true,
+      "translationZh": "为更多消息预留空间。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-24-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-24-1",
+      "optionId": "kaoyan:2004-01:q-24-1:D",
+      "sourceText": "To increase the rate of success.",
+      "sourceHash": "747909e8964fe9019071b051eb2d18e800197049624168c03c4c3bc84c461edc",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "To increase the rate of success.",
+      "translationEligible": true,
+      "translationZh": "以提高成功率。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-25-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-25-1",
+      "optionId": "kaoyan:2004-01:q-25-1:A",
+      "sourceText": "Personal search agents are indispensable to job-hunters.",
+      "sourceHash": "ea08b4e4c87f9402e23c72b048772164d50db736a40cb1765ba26d4e934dd08e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Personal search agents are indispensable to job-hunters.",
+      "translationEligible": true,
+      "translationZh": "个人搜索代理对于求职者来说是不可或缺的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-25-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-25-1",
+      "optionId": "kaoyan:2004-01:q-25-1:B",
+      "sourceText": "Some sites keep E-mailing job seekers to trace their demands.",
+      "sourceHash": "e155426cac60552ff7cde788d24fdc53bc4b1ffa55642ea4e68921d018d5918e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Some sites keep E-mailing job seekers to trace their demands.",
+      "translationEligible": true,
+      "translationZh": "有些网站会向求职者发送电子邮件以追踪他们的需求。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-25-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-25-1",
+      "optionId": "kaoyan:2004-01:q-25-1:C",
+      "sourceText": "Personal search agents are also helpful to those already employed.",
+      "sourceHash": "825fa10fede7c96fcede9207dedf23622682b504011a2f5c9555a71aaa3f02e6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Personal search agents are also helpful to those already employed.",
+      "translationEligible": true,
+      "translationZh": "个人搜索代理对已经就业的人也有帮助。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-25-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-25-1",
+      "optionId": "kaoyan:2004-01:q-25-1:D",
+      "sourceText": "Some agents stop sending information to people once they are employed.",
+      "sourceHash": "df88a44ba35cc0b76b42f5d54800861f14b94e643b51fdcb644dc200aca9d027",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-4-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-4-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Some agents stop sending information to people once they are employed.",
+      "translationEligible": true,
+      "translationZh": "一些特工一旦受雇就停止向他们发送信息。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-26-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-26-1",
+      "optionId": "kaoyan:2004-01:q-26-1:A",
+      "sourceText": "A kind of overlooked inequality.",
+      "sourceHash": "83e06ed35f642f0d45c9c3412843eac263e24d33d0b0bd7b965bff1fe54fb2b1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A kind of overlooked inequality.",
+      "translationEligible": true,
+      "translationZh": "一种被忽视的不平等。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-26-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-26-1",
+      "optionId": "kaoyan:2004-01:q-26-1:B",
+      "sourceText": "A type of conspicuous bias.",
+      "sourceHash": "03fef43f4c35a85902aebf848817773cd9d5153a063684649dcde150fc424252",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "A type of conspicuous bias.",
+      "translationEligible": true,
+      "translationZh": "一种明显的偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-26-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-26-1",
+      "optionId": "kaoyan:2004-01:q-26-1:C",
+      "sourceText": "A type of personal prejudice.",
+      "sourceHash": "d7b0319808f016139aee274e039cfe200435c463720ea2f0534d2b23e0eaa1b5",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "A type of personal prejudice.",
+      "translationEligible": true,
+      "translationZh": "一种个人偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-26-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-26-1",
+      "optionId": "kaoyan:2004-01:q-26-1:D",
+      "sourceText": "A kind of brand discrimination.",
+      "sourceHash": "4707f1becccdef6017b232a70f8ef75c0751b5b28b3b5f7dcc82d6808d89b42a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "A kind of brand discrimination.",
+      "translationEligible": true,
+      "translationZh": "一种品牌歧视。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-27-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-27-1",
+      "optionId": "kaoyan:2004-01:q-27-1:A",
+      "sourceText": "In both East and West, names are essential to success.",
+      "sourceHash": "8664446f2d01e4dcde24465536d04f3ede0a8073f6b1f29ceacce6ad5ff6264a",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "In both East and West, names are essential to success.",
+      "translationEligible": true,
+      "translationZh": "无论在东方还是西方，名字对于成功都是至关重要的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-27-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-27-1",
+      "optionId": "kaoyan:2004-01:q-27-1:B",
+      "sourceText": "The alphabet is to blame for the failure of Zoe Zysman.",
+      "sourceHash": "e97f8d1916596ff96db474b8c74f2afe71b6c8cd11c9149942e1510ab85c4d26",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The alphabet is to blame for the failure of Zoe Zysman.",
+      "translationEligible": true,
+      "translationZh": "佐伊·齐斯曼的失败应归咎于字母表。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-27-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-27-1",
+      "optionId": "kaoyan:2004-01:q-27-1:C",
+      "sourceText": "Customers often pay a lot of attention to companies’ names.",
+      "sourceHash": "de3b672ee114228b7dc92a5e6663ab1a9eb564a79415f70663148f8f3d6ff842",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Customers often pay a lot of attention to companies’ names.",
+      "translationEligible": true,
+      "translationZh": "客户通常非常关注公司的名称。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-27-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-27-1",
+      "optionId": "kaoyan:2004-01:q-27-1:D",
+      "sourceText": "Some form of discrimination is too subtle to recognize.",
+      "sourceHash": "cd0725da5a291fe7e7d3677a18ee67ce39df748ff8949c1b886db1df26f9418f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Some form of discrimination is too subtle to recognize.",
+      "translationEligible": true,
+      "translationZh": "某些形式的歧视太微妙而难以识别。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-28-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-28-1",
+      "optionId": "kaoyan:2004-01:q-28-1:A",
+      "sourceText": "questions are often put to the more intelligent students.",
+      "sourceHash": "b81e6b9bdc36cbd68dabcc830f720e53ec1fadc4b91fc39198a6f08f8a288aa2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "questions are often put to the more intelligent students.",
+      "translationEligible": true,
+      "translationZh": "通常会向更聪明的学生提出问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-28-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-28-1",
+      "optionId": "kaoyan:2004-01:q-28-1:B",
+      "sourceText": "alphabetically disadvantaged students often escape from class.",
+      "sourceHash": "fd15e612f3aba88b9210cf7f30e2c68ba25a049ed2945487f2c2f9af0d56ea36",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "alphabetically disadvantaged students often escape from class.",
+      "translationEligible": true,
+      "translationZh": "按字母顺序排列不利的学生经常逃课。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-28-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-28-1",
+      "optionId": "kaoyan:2004-01:q-28-1:C",
+      "sourceText": "teachers should pay attention to all of their students.",
+      "sourceHash": "4bb4ede0a323f42d2e5c170a9ece938a4d1a4c4e000c738a1e8f5c5ba42df3b7",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "teachers should pay attention to all of their students.",
+      "translationEligible": true,
+      "translationZh": "教师应该关注所有的学生。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-28-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-28-1",
+      "optionId": "kaoyan:2004-01:q-28-1:D",
+      "sourceText": "students should be seated according to their eyesight.",
+      "sourceHash": "4e21ee4a4e7e77d0ee8290a446e93d50f76891f432dad142fff934e0101d1717",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-6"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "students should be seated according to their eyesight.",
+      "translationEligible": true,
+      "translationZh": "学生应根据自己的视力就座。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-29-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-29-1",
+      "optionId": "kaoyan:2004-01:q-29-1:A",
+      "sourceText": "They are getting impatient.",
+      "sourceHash": "b52d205fa81da076d161d9912b23481729e4aec269de254f4e41d0ea53845524",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are getting impatient.",
+      "translationEligible": true,
+      "translationZh": "他们越来越不耐烦了。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-29-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-29-1",
+      "optionId": "kaoyan:2004-01:q-29-1:B",
+      "sourceText": "They are noisily dozing off.",
+      "sourceHash": "794b6f95aca0fa1429c6ab31515edf3e279fcf54577edebd04a4c782c43ea9b0",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are noisily dozing off.",
+      "translationEligible": true,
+      "translationZh": "他们正在吵闹地打瞌睡。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-29-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-29-1",
+      "optionId": "kaoyan:2004-01:q-29-1:C",
+      "sourceText": "They are feeling humiliated.",
+      "sourceHash": "3204d15675f95c94f3e32359626be7dc5418979b648d4e6154c7ccfcdc5ec433",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are feeling humiliated.",
+      "translationEligible": true,
+      "translationZh": "他们感到被羞辱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-29-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-29-1",
+      "optionId": "kaoyan:2004-01:q-29-1:D",
+      "sourceText": "They are busy with word puzzles.",
+      "sourceHash": "0b050fd01885a7d335c9a6909fab586fcb9f2beb91b79cb9d527161400165b57",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-8"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are busy with word puzzles.",
+      "translationEligible": true,
+      "translationZh": "他们正忙着猜字谜。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-30-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-30-1",
+      "optionId": "kaoyan:2004-01:q-30-1:A",
+      "sourceText": "People with surnames beginning with N to Z are often ill-treated.",
+      "sourceHash": "1a997a6b9516787e584490a291ebc083c528dcea5ca02fed72c7fbc36656386b",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "People with surnames beginning with N to Z are often ill-treated.",
+      "translationEligible": true,
+      "translationZh": "姓氏以N到Z开头的人经常受到虐待。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-30-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-30-1",
+      "optionId": "kaoyan:2004-01:q-30-1:B",
+      "sourceText": "VIPs in the Western world gain a great deal from alphabetism.",
+      "sourceHash": "850c118afc27bd24d9082e68d23a9dcc43c21f47bc6c51529b3efafd163ed4b3",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "VIPs in the Western world gain a great deal from alphabetism.",
+      "translationEligible": true,
+      "translationZh": "西方世界的贵宾从字母顺序中受益匪浅。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-30-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-30-1",
+      "optionId": "kaoyan:2004-01:q-30-1:C",
+      "sourceText": "The campaign to eliminate alphabetism still has a long way to go.",
+      "sourceHash": "f02ff48ed7cd6a3ecd5465d8838a3bc58148923000aa8fd3f324f599c2228071",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The campaign to eliminate alphabetism still has a long way to go.",
+      "translationEligible": true,
+      "translationZh": "消除字母顺序的运动还有很长的路要走。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-30-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-30-1",
+      "optionId": "kaoyan:2004-01:q-30-1:D",
+      "sourceText": "Putting things alphabetically may lead to unintentional bias.",
+      "sourceHash": "ad96ab296fada086489d38d4218f39099550ccae6abf784aaaad826abbe17a27",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-6-10"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Putting things alphabetically may lead to unintentional bias.",
+      "translationEligible": true,
+      "translationZh": "按字母顺序排列可能会导致无意的偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-31-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-31-1",
+      "optionId": "kaoyan:2004-01:q-31-1:A",
+      "sourceText": "Spero can hardly maintain her business.",
+      "sourceHash": "f4150714ada7e1dcfa035a0652f00d969f5de0c51894391f174bff9bee57f607",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Spero can hardly maintain her business.",
+      "translationEligible": true,
+      "translationZh": "斯佩罗几乎无法维持她的生意。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-31-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-31-1",
+      "optionId": "kaoyan:2004-01:q-31-1:B",
+      "sourceText": "Spero is too much engaged in her work.",
+      "sourceHash": "0a85280fbf1b61a60bbeced9cb8a55acee4f13871b0411ef70047ed283f4ca27",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Spero is too much engaged in her work.",
+      "translationEligible": true,
+      "translationZh": "斯佩罗过于专注于她的工作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-31-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-31-1",
+      "optionId": "kaoyan:2004-01:q-31-1:C",
+      "sourceText": "Spero has grown out of her bad habit.",
+      "sourceHash": "3c7427df205629d86349176f4426a25f133eda92d9338e5a74c1994cbdfab548",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Spero has grown out of her bad habit.",
+      "translationEligible": true,
+      "translationZh": "斯佩罗已经改掉了她的坏习惯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-31-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-31-1",
+      "optionId": "kaoyan:2004-01:q-31-1:D",
+      "sourceText": "Spero is not in a desperate situation.",
+      "sourceHash": "906b86082b934f387cbfb82244063f0cced398f3364cbdbc8a0e2e31515cbe9c",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-2"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Spero is not in a desperate situation.",
+      "translationEligible": true,
+      "translationZh": "斯佩罗并没有陷入绝境。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-32-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-32-1",
+      "optionId": "kaoyan:2004-01:q-32-1:A",
+      "sourceText": "Optimistic.",
+      "sourceHash": "76e006e1a9a3e4d13f85c9580d4d7b1ad15695d9da44f417f723516d31143159",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Optimistic.",
+      "translationEligible": true,
+      "translationZh": "乐观。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-32-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-32-1",
+      "optionId": "kaoyan:2004-01:q-32-1:B",
+      "sourceText": "Confused.",
+      "sourceHash": "17fb4a5ce17ed2ffb3281437c125e29bd236455ea5b023c73097f596a78fe704",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Confused.",
+      "translationEligible": true,
+      "translationZh": "困惑。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-32-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-32-1",
+      "optionId": "kaoyan:2004-01:q-32-1:C",
+      "sourceText": "Carefree.",
+      "sourceHash": "2fd59501df49399c7404f4a8e6c045b99d4d68cd10edfb7a02be0af27997343c",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Carefree.",
+      "translationEligible": true,
+      "translationZh": "无忧无虑。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-32-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-32-1",
+      "optionId": "kaoyan:2004-01:q-32-1:D",
+      "sourceText": "Panicked.",
+      "sourceHash": "f54cdc9097853d87d7be1bd8799be5dba0911d85d75f359df3eb3d19c18330b2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-4"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Panicked.",
+      "translationEligible": true,
+      "translationZh": "惊慌失措。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-33-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-33-1",
+      "optionId": "kaoyan:2004-01:q-33-1:A",
+      "sourceText": "gold market.",
+      "sourceHash": "9010ca4e69bf8e123183f7a52f5cda67e282842c4cf783c3fca860552d488646",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "gold market.",
+      "translationEligible": true,
+      "translationZh": "黄金市场。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-33-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-33-1",
+      "optionId": "kaoyan:2004-01:q-33-1:B",
+      "sourceText": "real estate.",
+      "sourceHash": "c39ea935fe01005b724247ab1ef4aa33a52c3e2b7b3f2d91241cb171d90a3f09",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "real estate.",
+      "translationEligible": true,
+      "translationZh": "房地产。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-33-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-33-1",
+      "optionId": "kaoyan:2004-01:q-33-1:C",
+      "sourceText": "stock exchange.",
+      "sourceHash": "3fdfe9f0a5a9ce24ee9c2f0aab248abb379f6b558492bb00dd076d8e5988ed68",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "stock exchange.",
+      "translationEligible": true,
+      "translationZh": "证券交易所。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-33-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-33-1",
+      "optionId": "kaoyan:2004-01:q-33-1:D",
+      "sourceText": "venture investment.",
+      "sourceHash": "d0d8c4e526bf84f121b0dcb421cb53aac86177dd99b5b734cfca4ac4851390d2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "venture investment.",
+      "translationEligible": true,
+      "translationZh": "风险投资。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-34-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-34-1",
+      "optionId": "kaoyan:2004-01:q-34-1:A",
+      "sourceText": "They would benefit in certain ways.",
+      "sourceHash": "3cf300f76f4c979ab7a5096b9d6176867c56eca51107062c806b93088e0e0e58",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They would benefit in certain ways.",
+      "translationEligible": true,
+      "translationZh": "他们会在某些方面受益。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-34-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-34-1",
+      "optionId": "kaoyan:2004-01:q-34-1:B",
+      "sourceText": "The stock market shows signs of recovery.",
+      "sourceHash": "abed1da69860e5875a88253421a6d9e913e307bbb248bc5996ef89a2c73b2043",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The stock market shows signs of recovery.",
+      "translationEligible": true,
+      "translationZh": "股市出现复苏迹象。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-34-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-34-1",
+      "optionId": "kaoyan:2004-01:q-34-1:C",
+      "sourceText": "Such a slowdown usually precedes a boom.",
+      "sourceHash": "cac251040c4099a614a98f470a550c4a8a874fc4110732d4dc7e6ac5a67a95d6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Such a slowdown usually precedes a boom.",
+      "translationEligible": true,
+      "translationZh": "这种放缓通常先于繁荣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-34-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-34-1",
+      "optionId": "kaoyan:2004-01:q-34-1:D",
+      "sourceText": "The purchasing power would be enhanced.",
+      "sourceHash": "8c75d41b548479d83f2853422cfa79c54f53a32de826cac99f01e7aeb63307a2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The purchasing power would be enhanced.",
+      "translationEligible": true,
+      "translationZh": "购买力将会增强。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-35-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-35-1",
+      "optionId": "kaoyan:2004-01:q-35-1:A",
+      "sourceText": "A new boom, on the horizon.",
+      "sourceHash": "7ea6ad255f53e766825a57ac6b0688fc43f9b881bfa89e77b36268db7e3c74bd",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A new boom, on the horizon.",
+      "translationEligible": true,
+      "translationZh": "新的繁荣即将来临。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-35-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-35-1",
+      "optionId": "kaoyan:2004-01:q-35-1:B",
+      "sourceText": "Tighten the belt, the single remedy.",
+      "sourceHash": "d381c56fa224ed3dc1fcf5e5c017dd12e6522af44a336ace03191d6bc5e24785",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Tighten the belt, the single remedy.",
+      "translationEligible": true,
+      "translationZh": "勒紧裤腰带，唯一的补救办法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-35-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-35-1",
+      "optionId": "kaoyan:2004-01:q-35-1:C",
+      "sourceText": "Caution all right, panic not.",
+      "sourceHash": "ec34b15c35ca95e312ac452dec1eaf5516031fef878daf9bb8bb1648ab38b662",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Caution all right, panic not.",
+      "translationEligible": true,
+      "translationZh": "小心一点，不要惊慌。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-35-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-35-1",
+      "optionId": "kaoyan:2004-01:q-35-1:D",
+      "sourceText": "The more ventures, the more chances.",
+      "sourceHash": "775034bd859f186f09c0e07b0102979a40fd9f04450a244ea95c83a4ec6e915e",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-8-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-8-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The more ventures, the more chances.",
+      "translationEligible": true,
+      "translationZh": "创业越多，机会就越多。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-36-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-36-1",
+      "optionId": "kaoyan:2004-01:q-36-1:A",
+      "sourceText": "The habit of thinking independently.",
+      "sourceHash": "30ffb343e77d5e78eb485a103e6250c79fda4f3556f86f275efca46967cee693",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The habit of thinking independently.",
+      "translationEligible": true,
+      "translationZh": "独立思考的习惯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-36-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-36-1",
+      "optionId": "kaoyan:2004-01:q-36-1:B",
+      "sourceText": "Profound knowledge of the world.",
+      "sourceHash": "cc41e1f26fb05c4e4d10df3348a96fe9bd86f4cb33a295664617ebe2de7f936c",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Profound knowledge of the world.",
+      "translationEligible": true,
+      "translationZh": "渊博的世界知识。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-36-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-36-1",
+      "optionId": "kaoyan:2004-01:q-36-1:C",
+      "sourceText": "Practical abilities for future career.",
+      "sourceHash": "eb3ca159ead51e00f193040b313eafcdb374bde2f1782224b95e074f27b0add1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Practical abilities for future career.",
+      "translationEligible": true,
+      "translationZh": "未来职业的实用能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-36-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-36-1",
+      "optionId": "kaoyan:2004-01:q-36-1:D",
+      "sourceText": "The confidence in intellectual pursuits.",
+      "sourceHash": "00d706d46ca28c5e1890b2019ac9dfaeeef047ca91bc9d4daf514ed013cf64ca",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-3"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The confidence in intellectual pursuits.",
+      "translationEligible": true,
+      "translationZh": "对智力追求的信心。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-37-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-37-1",
+      "optionId": "kaoyan:2004-01:q-37-1:A",
+      "sourceText": "undervaluing intellect.",
+      "sourceHash": "8b2208dd6f10b3703021406b49e8f0e94e9f88b284ab09dd9368bd28622e6173",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "undervaluing intellect.",
+      "translationEligible": true,
+      "translationZh": "低估智力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-37-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-37-1",
+      "optionId": "kaoyan:2004-01:q-37-1:B",
+      "sourceText": "favoring intellectualism.",
+      "sourceHash": "11dea67043df77a533930e7f4e2eb682ebb4a04063d9bc8667d3c07089183eb6",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "favoring intellectualism.",
+      "translationEligible": true,
+      "translationZh": "偏向理智主义。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-37-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-37-1",
+      "optionId": "kaoyan:2004-01:q-37-1:C",
+      "sourceText": "supporting school reform.",
+      "sourceHash": "48c701abd5b6fdef5499beb6d959b23aef898e7480f42fe005ad32c296eaa797",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "supporting school reform.",
+      "translationEligible": true,
+      "translationZh": "支持学校改革。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-37-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-37-1",
+      "optionId": "kaoyan:2004-01:q-37-1:D",
+      "sourceText": "suppressing native intelligence.",
+      "sourceHash": "575148f783fb0b92f229b5b8a995a36b815e5ef790a8143126f8e526f9f7d2d0",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-5"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "suppressing native intelligence.",
+      "translationEligible": true,
+      "translationZh": "抑制原生智力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-38-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-38-1",
+      "optionId": "kaoyan:2004-01:q-38-1:A",
+      "sourceText": "identical.",
+      "sourceHash": "d7886eff45879b0191700e395928751bde5555f04897cdea7e3b17c05a059b21",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "identical.",
+      "translationEligible": true,
+      "translationZh": "相同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-38-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-38-1",
+      "optionId": "kaoyan:2004-01:q-38-1:B",
+      "sourceText": "similar.",
+      "sourceHash": "11a5deed258b2b9c2cfa783f1cd1b31500d59991ed79472c5f205648ddf7b1db",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "similar.",
+      "translationEligible": true,
+      "translationZh": "类似。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-38-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-38-1",
+      "optionId": "kaoyan:2004-01:q-38-1:C",
+      "sourceText": "complementary.",
+      "sourceHash": "fb2a96b63fa99697aea2365b019ea9ff4744990b2ded0da437cf7e8ba9b694f1",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "complementary.",
+      "translationEligible": true,
+      "translationZh": "互补。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-38-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-38-1",
+      "optionId": "kaoyan:2004-01:q-38-1:D",
+      "sourceText": "opposite.",
+      "sourceHash": "d9a5c1da3171114c4d7574451a86686dd91ce680a8480c55366bf7b97563b842",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-7"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "opposite.",
+      "translationEligible": true,
+      "translationZh": "相反。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-39-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-39-1",
+      "optionId": "kaoyan:2004-01:q-39-1:A",
+      "sourceText": "a pioneer of education reform.",
+      "sourceHash": "c157f33b159950ca0995c597c140dbc52719078c0d542d33142c4d2174dbcdb8",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "a pioneer of education reform.",
+      "translationEligible": true,
+      "translationZh": "教育改革的先驱。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-39-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-39-1",
+      "optionId": "kaoyan:2004-01:q-39-1:B",
+      "sourceText": "an opponent of intellectualism.",
+      "sourceHash": "13661039f606e54290de23721da2f19442ccf34379a79b69da183edff09294b2",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "an opponent of intellectualism.",
+      "translationEligible": true,
+      "translationZh": "理智主义的反对者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-39-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-39-1",
+      "optionId": "kaoyan:2004-01:q-39-1:C",
+      "sourceText": "a scholar in favor of intellect.",
+      "sourceHash": "54f1b14a037e5ca34237a5724539ec56ff0a2e1aa2974ec7f594471b7fa7f109",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "a scholar in favor of intellect.",
+      "translationEligible": true,
+      "translationZh": "赞成智力的学者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-39-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-39-1",
+      "optionId": "kaoyan:2004-01:q-39-1:D",
+      "sourceText": "an advocate of regular schooling.",
+      "sourceHash": "4aff10a0d468c673212069cc8b341dc7c9742a2c6b2600f8001f242fbb8bbd3f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-9"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "an advocate of regular schooling.",
+      "translationEligible": true,
+      "translationZh": "正规教育的倡导者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-40-1:A",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-40-1",
+      "optionId": "kaoyan:2004-01:q-40-1:A",
+      "sourceText": "It is second to intelligence.",
+      "sourceHash": "fc017898780421e4ba2d1cc59576555ce680bc9995094dfb93d91dc418a7d91f",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is second to intelligence.",
+      "translationEligible": true,
+      "translationZh": "它仅次于智力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-40-1:B",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-40-1",
+      "optionId": "kaoyan:2004-01:q-40-1:B",
+      "sourceText": "It evolves from common sense.",
+      "sourceHash": "2cd20c8c9d264ec5da2191de24883cc8d36ae528a7759655d864c21e986fc6ee",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It evolves from common sense.",
+      "translationEligible": true,
+      "translationZh": "它是从常识演变而来的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-40-1:C",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-40-1",
+      "optionId": "kaoyan:2004-01:q-40-1:C",
+      "sourceText": "It is to be pursued.",
+      "sourceHash": "280144f22674929b2db938f014b4a6b16c006c865096e129109e48738f2c6eae",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is to be pursued.",
+      "translationEligible": true,
+      "translationZh": "这是要追求的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "kaoyan:2004-01:q-40-1:D",
+      "kind": "answer_option",
+      "paperId": "kaoyan:2004-01",
+      "questionId": "kaoyan:2004-01:q-40-1",
+      "optionId": "kaoyan:2004-01:q-40-1:D",
+      "sourceText": "It underlies power.",
+      "sourceHash": "bc20057f3a08035f06abb47a52ffe4edcc6ace7f3a1da00353bdc48b0d374e93",
+      "sourceBlockIds": [
+        "kaoyan:2004-01:b-10-11"
+      ],
+      "reflowBlockId": "kaoyan:2004-01:b-10-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It underlies power.",
+      "translationEligible": true,
+      "translationZh": "它是权力的基础。",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 160,
+    "reason:translate": 160
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-3",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-4",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "kaoyan:2004-01:p:b-1-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-5",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "kaoyan:2004-01:p:b-1-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-6",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "kaoyan:2004-01:p:b-1-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-7",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "kaoyan:2004-01:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-1-8",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "kaoyan:2004-01:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-2-21",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-2-22",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-2-23",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-2-24",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "kaoyan:2004-01:p:b-2-24"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-3-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-5-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-7-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-7-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-7-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-7-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-7-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-7-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-7-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-8-1"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-8-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-8-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-6",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-8-8"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-8-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-8-10"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-2"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-9-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-9-7"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-10-1"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-10-2"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-10-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-10-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-10-8"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-10-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-10-10"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "kaoyan:2004-01:p:b-11-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-11-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-11-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-11-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "kaoyan:2004-01:p:b-11-6"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-2",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-3",
+      "classification": "included",
+      "reason": "section_writing",
+      "paragraphId": "kaoyan:2004-01:p:b-12-3"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-12-4"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "kaoyan:2004-01:p:b-12-5"
+    },
+    {
+      "sourceBlockId": "kaoyan:2004-01:b-12-6",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "kaoyan:2004-01:p:b-12-6"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 15,
+    "included": 55
+  },
+  "reasonCounts": {
+    "cloze": 4,
+    "instruction": 4,
+    "non_english_or_fragment": 3,
+    "question_prompt": 22,
+    "reading_prose": 24,
+    "section_label": 12,
+    "section_writing": 1
+  },
+  "kindCounts": {
+    "cloze": 4,
+    "instruction": 4,
+    "question_prompt": 22,
+    "reading": 24,
+    "writing_prompt": 1
+  },
+  "otherSourceBlockCounts": {
+    "choice_row": 20,
+    "figure": 1,
+    "options": 20
+  },
+  "issues": []
+}

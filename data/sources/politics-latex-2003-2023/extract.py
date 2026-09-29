@@ -4,6 +4,7 @@ import json,re,sys,fitz
 ROOT=Path(__file__).resolve().parent
 sys.path.insert(0,str(ROOT.parent/'politics-original'))
 from clean_source import cleaned_document
+from page_furniture import is_page_footer_line
 HEAD=re.compile(r'^(?:[一二三四五六七八九十]+[、．.]|\d{4}\s*年.*(?:考试|试题|政治)|材料\s*[一二三四五六七八九十\d]+|选做题\s*[ⅠⅡI]+|[（(][一二三四五六七八九十]+[)）])')
 QUESTION=re.compile(r'^\d{1,2}\s*[．.、]')
 OPTION=re.compile(r'^[ABCDE]\s*[．.、]')
@@ -33,7 +34,7 @@ def import_spec(spec):
      t=''.join(s['text'] for s in line['spans']).strip();box=line['bbox']
      if not t:continue
      if any(r.contains(fitz.Rect(box).tl+(1,1)) for r in table_rects):continue
-     if re.fullmatch(r'[—\-·.\s]*\d{1,3}[—\-·.\s]*',t) and (box[1]>page.rect.height-45 or box[3]<40):discard.append([pi,t,list(box)]);continue
+     if is_page_footer_line(t,pi) and (box[1]>page.rect.height-45 or box[3]<40):discard.append([pi,t,list(box)]);continue
      events.append((box[1],box[0],{'text':t,'bbox':list(box)}))
   # Rows sharing a baseline retain left-to-right option order.
   events.sort(key=lambda x:(round(x[0]/3),x[1]))

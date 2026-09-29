@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2024 年12 月大学英语四级考试真题（第2 套）",
@@ -3044,15 +3044,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "If we care about plastic waste, why won’t we stop drinking bottled water?",
               "flags": [
@@ -3060,15 +3057,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
             {
               "text": "We have all seen the damage plastic waste is doing around the world, but sales of bottled water have",
               "flags": [
@@ -3301,7 +3295,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "vegetables every day. Almost everyone is aware of this, but something like 15% of us achieve it.” Unless a",
+              "text": "vegetables every day. Almost everyone is aware of this, but something like 15% of us achieve it.” Unless a far-reaching bottle ban does come into force, it will be up to consumers to not only demand change — but to act themselves.",
               "flags": [
                 false,
                 false,
@@ -3310,32 +3304,6 @@
             }
           ],
           "continues_previous_page": true
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "far-reaching bottle ban does come into force, it will be up to consumers to not only demand change — but",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "to act themselves.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
         },
         {
           "type": "question",
@@ -3360,12 +3328,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "than on profits.",
               "flags": [
@@ -3386,12 +3357,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "plastics are environmentally unfriendly.",
               "flags": [
@@ -3451,12 +3425,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "environmental advocates.",
               "flags": [

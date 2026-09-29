@@ -15,5 +15,13 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: npm ci --ignore-scripts
       - run: python scripts/verify_library.py --tracked
+      - run: python scripts/verify_structured_exams.py
+      - run: python scripts/check_public_english_translations.py
+      - run: python scripts/build_question_database.py
+      - run: python scripts/run_portable_tests.py
+      - run: python run_portable_tests.py
+        working-directory: data/sources/english-exams-reflow-latex
+        env:
+          PYTHONPATH: ${{ github.workspace }}
       - run: npm test
       - run: python data/sources/math3-latex-1987-2009/test_option_layout.py

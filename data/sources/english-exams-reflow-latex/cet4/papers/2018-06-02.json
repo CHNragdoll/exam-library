@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -143,12 +143,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "of writing ability and how to develop it.",
               "flags": [
@@ -267,12 +270,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "will hear two or three questions. Both the news report and the questions will be spoken only",
               "flags": [
@@ -2541,12 +2547,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "for each blank from a list of choices given in a word bank following the passage. Read the",
               "flags": [
@@ -2580,12 +2589,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "single line through the centre. You may not use any of the words in the bank more than once.",
               "flags": [
@@ -2921,7 +2933,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "As Tourists Crowd Out Locals, Venice Faces 'Endangered' List",
@@ -3442,14 +3454,9 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "Venice.",
+              "text": " Venice.",
               "flags": [
                 false,
                 false,
@@ -3468,12 +3475,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "protect its cultural heritage.",
               "flags": [
@@ -3507,12 +3517,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "of tourists.",
               "flags": [
@@ -3585,12 +3598,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "residents.",
               "flags": [
@@ -3611,12 +3627,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "tourism industry.",
               "flags": [
@@ -3637,12 +3656,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "focused on the revenues from tourism.",
               "flags": [
@@ -4673,7 +4695,7 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "She was sunk in World War",
+                  "text": "She was sunk in World War I.",
                   "flags": [
                     false,
                     false,
@@ -4707,10 +4729,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "label": "I",
-              "runs": []
             }
           ]
         },

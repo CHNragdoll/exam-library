@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2013 年12 月六级考试真题（第二套）",
@@ -73,7 +73,20 @@
               ]
             },
             {
-              "text": " “Happiness is not the absence of problems, but the ability to deal with them.” You can cite examples to illustrate your point and then",
+              "text": " “Happiness is not the absence of problems, but the ability to deal with them.” You can cite examples to illustrate your",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
+            {
+              "text": "point and then",
               "flags": [
                 false,
                 false,
@@ -89,7 +102,20 @@
               ]
             },
             {
-              "text": " You should write at least 150 words but no more than 200 words.",
+              "text": " You",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "should write at least 150 words but no more than 200 words.",
               "flags": [
                 false,
                 false,
@@ -3236,12 +3262,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "industrialised agricultural process.",
               "flags": [
@@ -3262,12 +3291,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "excessive quantities.",
               "flags": [
@@ -3288,12 +3320,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "developing countries to improve produce handling in the harvest.",
               "flags": [
@@ -3368,12 +3403,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "thus a waste of land and resources.",
               "flags": [
@@ -3529,23 +3567,10 @@
           ]
         },
         {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "With one group of students, the teacher provided strong “scaffolding” — instructional support 一 and feedback.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "With the teacher’s help, these pupils were able to find the answers to their set of problems. Meanwhile, a second group was directed to solve the same problems by collaborating with one another, without any prompts from their instructor. These students weren’t able to complete the problems correctly. But in the course of trying to do so, they generated a lot of ideas about the nature of the problems and about what potential solutions would look like. And when the two groups were tested on what they’d learned, the second group “significantly outperformed” the first.",
+              "text": "With one group of students, the teacher provided strong “scaffolding” — instructional support 一 and feedback. With the teacher’s help, these pupils were able to find the answers to their set of problems. Meanwhile, a second group was directed to solve the same problems by collaborating with one another, without any prompts from their instructor. These students weren’t able to complete the problems correctly. But in the course of trying to do so, they generated a lot of ideas about the nature of the problems and about what potential solutions would look like. And when the two groups were tested on what they’d learned, the second group “significantly outperformed” the first.",
               "flags": [
                 false,
                 false,
@@ -4570,20 +4595,7 @@
               ]
             },
             {
-              "text": " For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "your answer on",
+              "text": " For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on",
               "flags": [
                 false,
                 false,

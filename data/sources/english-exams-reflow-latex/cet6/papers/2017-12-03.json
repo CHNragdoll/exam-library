@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2017",
@@ -430,23 +430,10 @@
           ]
         },
         {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "Part of the reason this ban is being discussed and ___28___ is because energy officials see that they will not reach their",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "emissions goals by 2050 if they do not ___29___ a large portion of vehicle emissions. The country is still ___30___ that it will meet its emissions goals, like reducing emissions by 40% by 2020, but the ___31___ of electric cars in the country has not occurred as fast as expected.",
+              "text": "Part of the reason this ban is being discussed and ___28___ is because energy officials see that they will not reach their emissions goals by 2050 if they do not ___29___ a large portion of vehicle emissions. The country is still ___30___ that it will meet its emissions goals, like reducing emissions by 40% by 2020, but the ___31___ of electric cars in the country has not occurred as fast as expected.",
               "flags": [
                 false,
                 false,
@@ -748,13 +735,19 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ],
+          "continues_previous_page": true
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Apple’s Stance Highlights a More Confrontational Teach Industry",
               "flags": [
@@ -763,8 +756,7 @@
                 false
               ]
             }
-          ],
-          "continues_previous_page": true
+          ]
         },
         {
           "type": "options",
@@ -804,20 +796,7 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "After revelations by the former National Security Agency contractor Edward",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "J",
-              "runs": [
-                {
-                  "text": "Snowden in 2013 that the",
+                  "text": "After revelations by the former National Security Agency contractor Edward J. Snowden in 2013 that the",
                   "flags": [
                     false,
                     false,
@@ -879,25 +858,7 @@
               "label": "D",
               "runs": [
                 {
-                  "text": "In the other corner is the world’s most valuable company, whose chief executive, Timothy",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
-            {
-              "label": "D",
-              "runs": [
-                {
-                  "text": "Cook, has said he will",
+                  "text": "In the other corner is the world’s most valuable company, whose chief executive, Timothy D. Cook, has said he will",
                   "flags": [
                     false,
                     false,
@@ -1111,18 +1072,10 @@
           "type": "options",
           "items": [
             {
-              "label": "B",
-              "runs": []
-            },
-            {
               "label": "F",
-              "runs": []
-            },
-            {
-              "label": "I",
               "runs": [
                 {
-                  "text": "may have been able to break into the device by itself.",
+                  "text": "B.I. may have been able to break into the device by itself.",
                   "flags": [
                     false,
                     false,
@@ -1411,12 +1364,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "of encryption.",
               "flags": [

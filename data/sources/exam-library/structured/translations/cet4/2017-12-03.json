@@ -1,0 +1,3729 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2017-12-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+  "sourcePdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+  "paragraphs": [
+    {
+      "id": "cet4:2017-12-03:p:b-1-3",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write a short essay on how to best handle the relationship between doctors and patients. You should write at least 120 words but no more than 180 words.",
+      "sourceHash": "4f56c61965ddca60c1d0743dd1a3a2edf2b93a1d1979cd2bc4feb4a9910bf688",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇关于如何最好地处理医患关系的短文。您应该写至少 120 个字但不超过 180 个字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-8",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-9",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 26 to 35 are based on the following passage.",
+      "sourceHash": "d81a9979810985d6d593fb77874c1bf30a863e90a59a3f32445681614c762907",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 26 至 35 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-10",
+      "paperId": "cet4:2017-12-03",
+      "kind": "cloze",
+      "sourceText": "We all know there exists a great void（空白）in the public educational system when it comes to 26 to STEM（Science, Technology, Engineering and Mathematics）courses. One educator named Dori Roberts decided to do something to change this system. Dori taught high school engineering for 11 years. She noticed there was a real void in quality STEM education at all 27 of the public educational system. She said, “I started Engineering For Kids (EFK)after noticing a real lack of math, science and engineering programs to 28 my own kids in”",
+      "sourceHash": "b7d0a3401e7be43c23b1b29f88fafb1cf27a7c9a2434a6750c0866397e462584",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-11",
+      "paperId": "cet4:2017-12-03",
+      "kind": "cloze",
+      "sourceText": "She decided to start an afterschool program where children 29 in STEM-based competitions. The club grew quickly and when it reached 180 members and the kids in the program won several state 30 , she decided to devote all her time to cultivating and 31 it. The global business EFK was born.",
+      "sourceHash": "623ea1c167693b8286d27e52a70d01c6781f35a1b1fa00ba24575d1cb0c8ec75",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-12",
+      "paperId": "cet4:2017-12-03",
+      "kind": "cloze",
+      "sourceText": "Dori began operating EFK out of her Virginia home, which she then expanded to 32 recreation centers. Today, the EFK program 33 over 144 branches in 32 states within the United States and in 21 countries. Sales have doubled from $5 million in 2014 to $10 million in 2015,with 25 new branches planned for 2016. The EFK website states, “Our nation is not 34 enough engineers. Our philosophy is to inspire kids at a young age to understand that engineering is a great 35 .”",
+      "sourceHash": "78f4f7d50333547ae451d740d5aacf3ba9c7e211563119fda3462494d8edd897",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": false,
+      "translationZh": null,
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-15",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-1-15"
+        ],
+        "reflowBlockIds": [
+          "b-1-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-1-16",
+      "paperId": "cet4:2017-12-03",
+      "kind": "heading_prose",
+      "sourceText": "Why aren't you curious about what happened?",
+      "sourceHash": "5aa259ccbec287ea5a5acd77f5836154d5a1ecc62019451a56d43b54e90020a0",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-1-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "你为什么不好奇发生了什么？",
+      "source": {
+        "blockIds": [
+          "b-1-16"
+        ],
+        "reflowBlockIds": [
+          "b-1-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-1",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "A. “You suspended Ray Rice after our video,” a reporter from TMZ challenged National Football League Commissioner Roger Goodell the other day. “Why didn’t you have the curiosity to go to the casino (赌场) yourself?” The implication of the question is that a more curious. commissioner would have found a way to get the tape.",
+      "sourceHash": "a03870397b5e2133bc49566b9c8f3e3fe759f1c073d7fc5f3abc9ad9bda535db",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-1",
+        "cet4:2017-12-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-1",
+        "cet4:2017-12-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答：“在我们的视频发布后，你暂停了雷·赖斯的职务，”TMZ 的一名记者前几天向国家橄榄球联盟专员罗杰·古德尔发起挑战。 “你为什么没有好奇心亲自去赌场看看呢？”这个问题的言外之意是比较好奇。专员会找到办法拿到录像带的。",
+      "source": {
+        "blockIds": [
+          "b-2-1",
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-1",
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-3",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "B. The accusation of incuriosity is one that we hear often, carrying the suggestion that there is something wrong with not wanting to search out the truth. “I have been bothered for a long time about the curious lack of curiosity,” said a Democratic member of the New Jersey legislature back in July, referring to an insufficiently inquiring attitude on the part of an assistant to New Jersey Governor Chris Christie who chose not to ask hard questions about the George Washington Bridge traffic scandal. “Isn’t the mainstream media the least bit curious about what happened?” wrote conservative writer Jennifer Rubin earlier this year, referring to the attack on Americans in Benghazi, Libya.",
+      "sourceHash": "d4c14c448c292b089878c0ec565a29ed350002112340e4fd6366219023459f29",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-3",
+        "cet4:2017-12-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-3",
+        "cet4:2017-12-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B. 我们经常听到对缺乏好奇心的指责，暗示不想探寻真相是有问题的。新泽西州立法机关的一名民主党议员在 7 月份表示：“长期以来，我一直对这种缺乏好奇心的现象感到困扰。”他指的是新泽西州州长克里斯·克里斯蒂的助理没有充分询问的态度，他选择不对乔治·华盛顿大桥交通丑闻提出尖锐的问题。 “主流媒体难道就一点也不好奇发生了什么吗？”保守派作家詹妮弗·鲁宾今年早些时候写道，指的是利比亚班加西对美国人的袭击。",
+      "source": {
+        "blockIds": [
+          "b-2-3",
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-3",
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-5",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "C. The implication, in each case, is that curiosity is a good thing, and a lack of curiosity is a problem. Are such accusations simply efforts to score political points for one's party? Or is there something of particular value about curiosity in and of itself?",
+      "sourceHash": "3277f5df5136876dc051668559cf55899cb62b1f466167a1354437dfc4ff3e6e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-5",
+        "cet4:2017-12-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-5",
+        "cet4:2017-12-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C. 在每种情况下，这都意味着好奇心是一件好事，而缺乏好奇心则是一个问题。这些指控是否只是为了为政党赢得政治分数？或者好奇心本身有什么特别的价值吗？",
+      "source": {
+        "blockIds": [
+          "b-2-5",
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-5",
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-7",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "D. The journalist Ian Leslie, in his new and enjoyable book Curious: The Desire to Know and Why Your Fatter Depends on It, insists that the answer to that last question is ‘Yes.’ Leslie argues that curiosity is a much-overlooked human virtue, crucial to our success, and that we are losing it.",
+      "sourceHash": "b27bcb48f0067ab85f39ff90a35353676f5e0d0439e3fe37242982f2d3388601",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-7",
+        "cet4:2017-12-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-7",
+        "cet4:2017-12-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D. 记者伊恩·莱斯利 (Ian Leslie) 在他有趣的新书《好奇心：想知道的欲望以及为什么你的胖子取决于它》中坚持认为最后一个问题的答案是“是”。莱斯利认为，好奇心是一种被忽视的人类美德，对我们的成功至关重要，但我们正在失去它。",
+      "source": {
+        "blockIds": [
+          "b-2-7",
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-7",
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-9",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "E) We are suffering, he writes, from a “serendipity deficit.” The word “serendipity” was coined by Horace Walpole in an 1854 letter, from a tale of three princes who “were always making discoveries, by accident, of things they were not in search of,” Leslie worries that the rise of the Internet, among other social and technological changes, has reduced our appetite for aimless adventures. No longer have we the inclination to let ourselves wander through fields of know ledges, ready to be surprised. Instead, we seek only the information we want.",
+      "sourceHash": "391f31fde316c39f5083821b3707266b6a4371bef7e2e869bdc143670b78a766",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E）他写道，我们正在遭受“偶然性赤字”的痛苦。 “机缘巧合”一词是由霍勒斯·沃波尔 (Horace Walpole) 在 1854 年的一封信中创造的，故事中讲述了三位王子“总是偶然发现他们没有寻找的东西”，莱斯利担心互联网的兴起以及其他社会和技术变革降低了我们对漫无目的的冒险的兴趣。我们不再愿意让自己徜徉在知识领域，准备好感到惊讶。相反，我们只寻求我们想要的信息。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-10",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "F) Why is this a problem? Because without curiosity we will lose the spirit of innovation and entrepreneurship. We will see unimaginative governments and dying corporations make disastrous decisions. We will lose a vital part of what has made humanity as a whole so successful as a species.",
+      "sourceHash": "2bdfeca9115af53cddeb8443203aa4934c9560880e62df55913910f32c373c2b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 为什么这是一个问题？因为没有好奇心我们就会失去创新创业精神。我们将看到缺乏想象力的政府和垂死的企业做出灾难性的决定。我们将失去使人类作为一个物种取得如此成功的一个重要部分。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-11",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "G) Leslie presents considerable evidence for the proposition that the society as a whole is growing less curious. In the U.S. and Europe, for example, the rise of the Internet has led to a declining consumption of news from outside the reader’s borders .But not everything is to be blamed on technology. The decline in interest in literary fiction is also one of the causes identified by Leslie. Reading literary fiction, he says ,make us more curious.",
+      "sourceHash": "0d9247a9267ca4b532a20840450f1df9ae4a3888558ceb8b8d5f3f150651906d",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-11",
+        "cet4:2017-12-03:b-2-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-11",
+        "cet4:2017-12-03:b-2-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 莱斯利提供了大量证据来证明整个社会的好奇心正在减弱。例如，在美国和欧洲，互联网的兴起导致读者对境外新闻的消费量下降。但并非一切都归咎于技术。对文学小说兴趣的下降也是莱斯利指出的原因之一。他说，阅读文学小说让我们更加好奇。",
+      "source": {
+        "blockIds": [
+          "b-2-11",
+          "b-2-12"
+        ],
+        "reflowBlockIds": [
+          "b-2-11",
+          "b-2-12"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-13",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "H) Moreover, in order to be curious, “you have to be aware of a gap in your knowledge in the first place.” Although Leslie perhaps paints a bit broadly in contending that most of us are unaware of how much we don’t know, he’s surely right to point out that the problem is growing: “Google can give us the powerful illusion that all questions have definite answers.”",
+      "sourceHash": "762351fd7e21281013855ac8af93e46333ee67cede9656212be1470366681a74",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H）此外，为了保持好奇心，“你首先必须意识到自己的知识差距。”尽管莱斯利认为我们大多数人都没有意识到我们不知道多少，但他指出问题正在日益严重的说法肯定是正确的：“谷歌可以给我们一种强烈的错觉，即所有问题都有明确的答案。”",
+      "source": {
+        "blockIds": [
+          "b-2-13"
+        ],
+        "reflowBlockIds": [
+          "b-2-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-14",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "I) Indeed, Google, for which Leslie expresses admiration, is also his frequent whipping body(替罪羊). He quotes Google co-founder Larry Page to the effect that the “perfect search engine” will “understand exactly what I mean and give me back exactly what I want.” Elsewhere in the book, Leslie writes: “Google aims to save you from the thirst of curiosity altogether.”",
+      "sourceHash": "2a67935ccb45fc3fc1064d10b754987b001c58e965952bc376375af9ec1caeab",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-14",
+        "cet4:2017-12-03:b-2-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-14",
+        "cet4:2017-12-03:b-2-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 确实，Leslie所敬佩的Google，也是他经常的鞭打体（替罪羊）。他引用了谷歌联合创始人拉里·佩奇的话，大意是“完美的搜索引擎”将“准确地理解我的意思，并准确地返回我想要的东西”。莱斯利在书中的其他地方写道：“谷歌的目标是让你完全摆脱好奇心的渴求。”",
+      "source": {
+        "blockIds": [
+          "b-2-14",
+          "b-2-15"
+        ],
+        "reflowBlockIds": [
+          "b-2-14",
+          "b-2-15"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-16",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "J) Somewhat nostalgically(怀旧地), he quotes John Maynard Keynes’s justly famous words of praise to the bookstore: “One should enter it vaguely, almost in a dream, and allow what is there freely to attract and influence the eye. To walk the rounds of the bookshops, dipping in as curiosity dictates, should be an afternoons entertainment.” If only!",
+      "sourceHash": "7cc2b4d878c97578f5d88f87a13a8c16b91a693f54d2be8eff59e24613823192",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J）怀旧地，他引用了约翰·梅纳德·凯恩斯（John Maynard Keynes）对书店的名言赞扬：“人们应该模糊地、几乎在梦中进入它，让那里的东西自由地吸引和影响眼睛。在书店里走一圈，根据好奇心沉浸其中，应该是一个下午的娱乐。”如果可以的话！",
+      "source": {
+        "blockIds": [
+          "b-2-16"
+        ],
+        "reflowBlockIds": [
+          "b-2-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-2-17",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "K) Citing the work of psychologists and cognitive( 认知的)scientists, Leslie criticizes the received wisdom that academic success is the result of a combination of intellectual talent and hard work. Curiosity, he argues, is the third key factor--and a difficult one to preserve. If not cultivated, it will not survive: “Childhood curiosity is a collaboration between child and adult. The surest way to kill it is to leave it alone.”",
+      "sourceHash": "17ea1991fdaab1d8cbc08ae1d79fdda4b5b732271ca0e1197cf965cb5ce23325",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-2-17",
+        "cet4:2017-12-03:b-2-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-2-17",
+        "cet4:2017-12-03:b-2-18",
+        "cet4:2017-12-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 莱斯利引用了心理学家和认知科学家的工作，批评了公认的观点，即学术成功是智力天赋和努力工作相结合的结果。他认为，好奇心是第三个关键因素，也是一个很难保持的因素。如果不加以培养，它就无法生存：“童年的好奇心是儿童和成人之间的合作。扼杀它的最可靠方法就是不去管它。”",
+      "source": {
+        "blockIds": [
+          "b-2-17",
+          "b-2-18"
+        ],
+        "reflowBlockIds": [
+          "b-2-17",
+          "b-2-18",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-2",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "L. School education, he warns, is often conducted in a way that makes children incurious. Children of educated and upper-middle-class parents turn out to be far more curious, even at early ages, than children of working class and lower class families. That lack of curiosity produces a relative lack of knowledge, and the lack of knowledge is difficult if not impossible to compensate for later on.",
+      "sourceHash": "8a9a21305d21c20a5f664f27092ce2b6ced010b9a717167a1d289c74c7a322da",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-1",
+        "cet4:2017-12-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-2",
+        "cet4:2017-12-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L. 他警告说，学校教育的方式常常让孩子们缺乏好奇心。事实证明，受过教育的中上层阶级家庭的孩子即使在很小的时候也比工人阶级和下层阶级家庭的孩子更具好奇心。好奇心的缺乏导致了知识的相对缺乏，而知识的缺乏即使不是不可能，也很难在以后得到弥补。",
+      "source": {
+        "blockIds": [
+          "b-3-1",
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2",
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-4",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "M. Although Leslie’s book isn’t about politics, he doesn’t entirely shy away from the problem. Political leaders, like leader of other organizations, should be curious. They should ask questions at crucial moments . There serious consequences, he warns, in not wanting to know.",
+      "sourceHash": "aeb8deb56ef9e18beaa67dad783a9cff97185fe9cce39ac1db038f0e56300afe",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-3",
+        "cet4:2017-12-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-4",
+        "cet4:2017-12-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M：虽然莱斯利的书与政治无关，但他并没有完全回避这个问题。政治领导人，就像其他组织的领导人一样，应该感到好奇。他们应该在关键时刻提出问题。他警告说，不想知道会产生严重后果。",
+      "source": {
+        "blockIds": [
+          "b-3-3",
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4",
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-6",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "N. He presents as an example the failure of the George W. Bush administration to prepare properly for the after-effects of the invasion of Iraq. According to Leslie, those who ridiculed former. Defense Secretary Donald Rumsfeld for his 2002 remark that we have to be wary of the “unknown unknowns” were mistaken. Rumsfeld’s idea, Leslie writes, “wasn’t absurd- it was smart.” He adds, “The tragedy is that he didn’t follow his own advice.”",
+      "sourceHash": "9c911c3d05435d7920f02d07e31a8c6b716184971d6a1e1a78d1df13018d02fc",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-5",
+        "cet4:2017-12-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-6",
+        "cet4:2017-12-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N. 他举了乔治·W·布什政府未能为入侵伊拉克的后果做好适当准备的例子。按照张国荣的说法，那些嘲笑前者的人。国防部长唐纳德·拉姆斯菲尔德 (Donald Rumsfeld) 2002 年表示我们必须警惕“未知的未知因素”，但他的言论是错误的。莱斯利写道，拉姆斯菲尔德的想法“并不荒谬，而是很聪明。”他补充道，“悲剧在于他没有听从自己的建议。”",
+      "source": {
+        "blockIds": [
+          "b-3-5",
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6",
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-8",
+      "paperId": "cet4:2017-12-03",
+      "kind": "passage_option",
+      "sourceText": "O. All of which brings us back to Goodell and the Christie case and Benghazi. Each critic in those examples is charging, in a different way, that someone in authority is intentionally being incurious. I leave it to the reader's political preference to decide which, if any, charges should stick. But let’s be careful about demanding curiosity about the other side’s weaknesses and remaining determinedly incurious about our own. We should be delighted to pursue knowledge for its own sake--even when what we find out is something we didn’t particularly want to know.",
+      "sourceHash": "e1adf6549b13f8e656632c578b806bad10342029f66a83f12fc4bd3eb9252f3c",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-7",
+        "cet4:2017-12-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-8",
+        "cet4:2017-12-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "O：所有这些让我们回到古德尔和克里斯蒂案以及班加西。这些例子中的每个批评者都以不同的方式指责权威人士故意表现得不好奇。我让读者根据政治偏好来决定应该保留哪些指控（如果有的话）。但我们要小心，不要要求对对方的弱点感到好奇，而对自己的弱点保持坚决的不好奇。我们应该高兴地为知识本身而追求知识——即使我们发现的东西并不是我们特别想知道的。",
+      "source": {
+        "blockIds": [
+          "b-3-7",
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-8",
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-10",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "36. To be curious, we need to realize first of all that there are many things we don’t know.",
+      "sourceHash": "36ae1889b1a611ea6a9be4be4ed2a0542270a7ab730b42065f1837a69b6aab8e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 要保持好奇心，我们首先需要意识到有很多事情我们不知道。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-11",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "37. According to Leslie, curiosity is essential to one’s success.",
+      "sourceHash": "5f29c16b32726bd8881a3796df3710b1a8f934913e7b28705a9999045ba1b585",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 莱斯利认为，好奇心对于一个人的成功至关重要。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-12",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "38. We should feel happy when we pursue knowledge for knowledge’s sake.",
+      "sourceHash": "16244ffb0de7b7f36389d104dd047ce0b5529e9f3894b897202ecc02e0ecc2c7",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38.当我们为了知识而追求知识时，我们应该感到快乐。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-13",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Political leaders’ lack of curiosity will result in bad consequences.",
+      "sourceHash": "afd431635d0d762836a21d35bd7dee18278fa34f0d67085bb660b9461bdbe17b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 政治领导人缺乏好奇心会导致不良后果。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-14",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "40. There are often accusations about politicians' and the media’s lack of curiosity to find out the truth.",
+      "sourceHash": "038f1d435d0f5c1beece92036965ceffdc3fa4af59b043bb3e6f5896dd721518",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 人们经常指责政客和媒体缺乏查明真相的好奇心。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-15",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "41. The less curious a child is, the less knowledge the child may turn out to have.",
+      "sourceHash": "0f7f9f86693ab9ffe70f38c5b8b16dbb31ba0621e14176ba09027d53e8a7bf17",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 孩子的好奇心越少，他的知识就越少。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-16",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "42. It is widely accepted that academic accomplishment lies in both intelligence and diligence.",
+      "sourceHash": "ca6f00cfab2b190067cea12e85bc7a9a3629fad80d29d8a98ec5462378f68d49",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 人们普遍认为学术成就取决于智力和勤奋。",
+      "source": {
+        "blockIds": [
+          "b-3-15"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-17",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "43. Visiting a bookshop as curiosity leads us can be a good way to entertain ourselves.",
+      "sourceHash": "ff861a42f58d5dbaf5c1c32d545f66db27bd8a575842359a1e9246dff4a5b3b6",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 在好奇心的驱使下参观书店是一种很好的娱乐方式。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-18",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Both the rise of the Internet and reduced appetite for literary fiction contribute to people’s declining curiosity.",
+      "sourceHash": "8842fa828161939a1a8f53f3f805074640fde6f299763e127b615729bc8e0355",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 互联网的兴起和对文学小说兴趣的减少都导致人们的好奇心下降。",
+      "source": {
+        "blockIds": [
+          "b-3-17"
+        ],
+        "reflowBlockIds": [
+          "b-3-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-19",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "45. Mankind wouldn’t be so innovative without curiosity.",
+      "sourceHash": "a748219c838b76b685129597ca3f1dcd8f34ad404383dfa2711d916e02e5ccd4",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 没有好奇心，人类就不会如此创新。",
+      "source": {
+        "blockIds": [
+          "b-3-18"
+        ],
+        "reflowBlockIds": [
+          "b-3-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-21",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-3-20"
+        ],
+        "reflowBlockIds": [
+          "b-3-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-23",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-22"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-23"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-3-22"
+        ],
+        "reflowBlockIds": [
+          "b-3-23"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-24",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Aging happens to all of us, and is generally thought of as a natural part of life. It would seem silly to call such a thing a “disease.”",
+      "sourceHash": "069cf24f657e5255c25c5c491c2ff61f81b1f438c6d1c95c0f9de7ecac1109b0",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-23"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-24"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "衰老发生在我们所有人身上，并且通常被认为是生命的自然组成部分。将这种事情称为“疾病”似乎很愚蠢。",
+      "source": {
+        "blockIds": [
+          "b-3-23"
+        ],
+        "reflowBlockIds": [
+          "b-3-24"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-25",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "On the other hand, scientists are increasingly learning that aging and biological age are two different things, and that the former is a key risk factor for conditions such as heart disease, cancer and many more. In that light, aging itself might be seen as something treatable, the way you would treat high blood pressure or a vitamin deficiency.",
+      "sourceHash": "09c33e23b71ed2170a815ef40e5a1ed6d7d811f3bb2756517e1e765917384e44",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-24"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-25"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "另一方面，科学家们越来越认识到衰老和生物年龄是两个不同的东西，而前者是心脏病、癌症等疾病的关键风险因素。从这个角度来看，衰老本身可能被视为是可以治疗的，就像治疗高血压或维生素缺乏症一样。",
+      "source": {
+        "blockIds": [
+          "b-3-24"
+        ],
+        "reflowBlockIds": [
+          "b-3-25"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-26",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Biophysicist Alex Zhavoronkov believes that aging should be considered a disease. He said that describing aging as a disease creates incentives to develop treatments.",
+      "sourceHash": "408dd9cf3b16d97331e91124d6815c8ede23418cb0d883d48920cf2aaacafe71",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-25"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-26"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "生物物理学家亚历克斯·扎沃龙科夫认为衰老应该被视为一种疾病。他说，将衰老描述为一种疾病会激励人们开发治疗方法。",
+      "source": {
+        "blockIds": [
+          "b-3-25"
+        ],
+        "reflowBlockIds": [
+          "b-3-26"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-3-27",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“It unties the hands of the pharmaceutical(制药的)industry so that they can begin treating the disease and not just the side effects,” he said.",
+      "sourceHash": "e8c2bdc06902683044f458920949cd20915359e87126cf45b45e3bc789772152",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-3-26"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-3-27",
+        "cet4:2017-12-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“它解放了制药行业的束缚，使他们能够开始治疗疾病，而不仅仅是副作用，”他说。",
+      "source": {
+        "blockIds": [
+          "b-3-26"
+        ],
+        "reflowBlockIds": [
+          "b-3-27",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-2",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“Right now, people think of aging as natural and something you can’t control,” he said. “In academic circles, people take aging research as just an interest area where they can try to develop interventions. The medical community also takes aging for granted, and can do nothing about it except keep people within a certain health range.”",
+      "sourceHash": "0d5e81877f44180e1cbd6a5e56901204c0329a19afd23816fd24a018438691ae",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“现在，人们认为衰老是自然现象，是无法控制的，”他说。 “在学术界，人们把老龄化研究只是一个兴趣领域，可以尝试制定干预措施。医学界也认为老龄化是理所当然的，除了让人们保持在一定的健康范围内之外，无能为力。”",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-3",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "But if aging were recognized as a disease, he said, “It would attract funding and change the way we do health care. What matters is understanding that aging is curable.”",
+      "sourceHash": "2f9204a1efd678d5e35924e9e20d4ce05f85b568e8aa564d2be67d219f315234",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但如果衰老被认为是一种疾病，他说，“这将吸引资金并改变我们的医疗保健方式。重要的是要认识到衰老是可以治愈的。”",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-4",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“It was always known that the body accumulates damage,” he added. “The only way to cure aging is to find ways to repair that damage. I think of it as preventive medicine for age-related conditions.”",
+      "sourceHash": "48c1f3ba477983263f08bae6c0e509a0f7df041f19128b7d830328c2fa41413d",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“众所周知，身体会累积损伤，”他补充道。 “治愈衰老的唯一方法就是找到修复损伤的方法。我认为它是与年龄相关疾病的预防药物。”",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-5",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Leonard Hayflick, a professor at the University of California, San Francisco, said the idea that aging can be cured implies the human lifespan can be increased, which some researchers suggest is possible. Hayflick is not among them.",
+      "sourceHash": "25e31974837be6208133a5a8c453b5fe5b23e237243e433bcb82af3a6a5f854a",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "加州大学旧金山分校教授伦纳德·海弗利克表示，衰老可以治愈的想法意味着人类寿命可以延长，一些研究人员认为这是可能的。海弗利克并不在其中。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-6",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“There’re many people who recover from cancer, stroke, or heart disease. But they continue to age, because aging is separate from their disease,” Hayflick said. “Even if those causes of death were eliminated, life expectancy would still not go much beyond 92 years.”",
+      "sourceHash": "eca2c190493dde0c1635131cf4c1a287b85d654acb9c68b7926220d3c8440dba",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“有很多人从癌症、中风或心脏病中康复。但他们继续衰老，因为衰老与他们的疾病是分开的，”海弗利克说。 “即使消除这些死因，预期寿命也不会超过 92 岁。”",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-7",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What do people generally believe about aging?",
+      "sourceHash": "33859b39cc3e8ec79bad15d1f78338688930f6b371de2968a905ea7cd0b0d308",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.人们对衰老的普遍看法是什么？",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-9",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "47. How do many scientists view aging now?",
+      "sourceHash": "883a631cdc9c4278bc7a45fb059a2cc8cf4197ef841e0d2830802de2cc988f57",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 现在许多科学家如何看待衰老？",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-11",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What does Alex Zhavoronkov think of “describing aging as a disease”?",
+      "sourceHash": "f5426d5927b1eecc88542b8043c227b5bec92eeb0a62f17bcc366e0ebc122285",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. Alex Zhavoronkov 对“将衰老描述为一种疾病”有何看法？",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-13",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What do we learn about the medical community?",
+      "sourceHash": "b57769efa30d4aad821c3da414bc49d2ad1d1ab685384ac5000028782a7f9d63",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 我们从医学界了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-15",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What does Professor Leonard Hayflick believe?",
+      "sourceHash": "1b84c99d906be50aff58fbe026b3ffd1b593e399a08c0764d4b69a9e0aa57194",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 伦纳德·海弗利克教授相信什么？",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-18",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage",
+      "sourceHash": "f23a6ee1381ab4072b356e16d3b0d6fea735659d52e32b98a60644be0dcda1b9",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 51 至 55 题基于以下段落",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-19",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Female applicants to postdoctoral positions in geosciences were nearly half as likely to receive excellent letters of recommendation, compared with their male counterparts. Christopher Intagliata reports.",
+      "sourceHash": "64e1ec43c4e6b5be511552ab1932d3eaea16d47e3103e434049969d85c25680b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与男性申请者相比，申请地球科学博士后职位的女性获得优秀推荐信的可能性几乎是男性申请者的一半。克里斯托弗·因塔利亚塔报道。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-4-20",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "As in many other fields, gender bias is widespread in the sciences. Men score higher starting salaries, have more mentoring (指导), and have better odds of being hired. Studies show they’re also perceived as more competent than women in STEM(Science, Technology, Engineering, and Mathematics) fields. And new research reveals that men are more likely to receive excellent letters of recommendation, too.",
+      "sourceHash": "02e0fd61aea2e73c51ea213058d536ef7db52c0866c8109dcaecf3d7245fac06",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-4-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "与许多其他领域一样，科学界普遍存在性别偏见。男性的起薪更高，有更多的指导，并且被雇用的几率更高。研究表明，在 STEM（科学、技术、工程和数学）领域，她们也被认为比女性更有能力。新的研究表明，男性也更有可能收到优秀的推荐信。",
+      "source": {
+        "blockIds": [
+          "b-4-19"
+        ],
+        "reflowBlockIds": [
+          "b-4-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-1",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“Say, you know, this is the best student I’ve ever had,” says Kuheli Dutt, a social scientist and diversity officer at Columbia University’s Lamont campus. “Compare those excellent letters with a merely good letter: ‘The candidate was productive, or intelligent, or a solid scientist or something that’s clearly solid praise,’ but nothing that singles out the candidate as exceptional or one of a kind.”",
+      "sourceHash": "90657c759b1fa9ff091fb87871616e7ebf52aa25975c2b26f339217c3875c46e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“你知道，这是我见过的最好的学生，”哥伦比亚大学拉蒙特校区的社会科学家兼多元化官员库赫利·杜特 (Kuheli Dutt) 说。 “将那些优秀的推荐信与一封纯粹的好推荐信进行比较：‘候选人很有成效，或者很聪明，或者是一位可靠的科学家，或者是一些明显可靠的赞扬’，但没有任何东西可以指出候选人是杰出的或独一无二的。”",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-2",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Dutt and her colleagues studied more than 1,200 letters of recommendation for postdoctoral positions in geoscience. They were all edited for gender and other identifying information, so Dutt and her team could assign them a score without knowing the gender of the student. They found that female applicants were only half as likely to get outstanding letters, compared with their male counterparts. That includes letters of recommendation from all over the world, and written by, yes, men and women. The findings are in the journal Nature Geoscience.",
+      "sourceHash": "224da1bf84a7f50955d9f8f56f9c25bb61d9c8dd2e147abd2ee795d7202713f1",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Dutt 和她的同事研究了 1,200 多封地球科学博士后职位的推荐信。它们都经过了性别和其他识别信息的编辑，因此杜特和她的团队可以在不知道学生性别的情况下给它们打分。他们发现，与男性申请人相比，女性申请人获得优秀推荐信的可能性只有一半。这包括来自世界各地的推荐信，而且是由男性和女性撰写的。研究结果发表在《自然地球科学》杂志上。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-3",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "Dutt says they were not able to evaluate the actual scientific qualifications of the applicants using the data in the files. But she says the results still suggest women in geoscience are at a potential disadvantage from the very beginning of their careers starting with those less than outstanding letters of recommendation.",
+      "sourceHash": "e4dd19fa2602ec063af2dd97d9c11b9db26ac94cfb54a8382b5d3c574ced223b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "杜特表示，他们无法使用文件中的数据评估申请人的实际科学资格。但她表示，结果仍然表明，地球科学领域的女性从职业生涯一开始就处于潜在的劣势，从那些不太出色的推荐信开始。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-4",
+      "paperId": "cet4:2017-12-03",
+      "kind": "reading",
+      "sourceText": "“We’re not trying to assign blame or criticize anyone or call anyone conscious sexist. Rather, the point is to use the results of this study to open up meaningful dialogues on implicit gender bias, be it at a departmental level or an institutional level or even a discipline level.” Which may lead to some recommendations for the letter writers themselves.",
+      "sourceHash": "f38214783b49f327d0cff847246ec7b4304a438a0c692453fadeb8bf33012177",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“我们并不是试图指责或批评任何人，或者称任何人有意识的性别歧视。相反，重点是利用这项研究的结果，就隐性性别偏见展开有意义的对话，无论是在部门层面、机构层面，甚至是学科层面。”这可能会给写信人自己带来一些建议。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-5",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What do we learn about applicants to postdoctoral positions in geosciences?",
+      "sourceHash": "2052a77d309a760b3a23472e49389cb4e65b393fa70570b3ec3a14a02021e395",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 关于地球科学博士后职位的申请者，我们了解到什么？",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-7",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What do studies about men and women in scientific research show?",
+      "sourceHash": "047a2edbb2b658d22d59a4e181c09f76ae5a85ea8e671e3beb3a64a186373a94",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52.科学研究中关于男性和女性的研究表明了什么？",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-9",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "53.What do the studies find about the recommendation letters for women applicants?",
+      "sourceHash": "e87ac4be158f655252b18df82a8795e10a04e0e1c95ae9397f00ffdbd6365331",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.研究对女性申请人的推荐信有何发现？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-11",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "54.What did Dutt and her colleagues do with the more than 1, 200 letters of recommendation?",
+      "sourceHash": "822338f88a795e61485ce98c3fe69ecf380bda4f24b882c596329368bd4f6143",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.Dutt 和她的同事们对这 1, 200 多封推荐信做了什么？",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-13",
+      "paperId": "cet4:2017-12-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What does Dutt aim to do with her study?",
+      "sourceHash": "dcdee73944315a1efb0fa29f8d4213fd7cf9f09ff6573d313d8847db0575296a",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 杜特的学习目的是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2017-12-03:p:b-5-16",
+      "paperId": "cet4:2017-12-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2017-12-03:b-5-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-5-16"
+        ],
+        "reflowBlockIds": [
+          "b-5-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2017-12-03.json",
+        "pdfSha256": "3993ebc4f42dca9b413a0b663a19f41991849148f76c5d648ebab495afea5ceb",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2017-12-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2017-12-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2017-12-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-46-1",
+      "optionId": "cet4:2017-12-03:q-46-1:A",
+      "sourceText": "It should cause no alarm whatsoever.",
+      "sourceHash": "504c2bc63a152c39a9069afc905f1c0fceb9652e501a97ba78cc76101cc4461a",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It should cause no alarm whatsoever.",
+      "translationEligible": true,
+      "translationZh": "它不应该引起任何警报。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-46-1",
+      "optionId": "cet4:2017-12-03:q-46-1:B",
+      "sourceText": "They just cannot do anything about it.",
+      "sourceHash": "2368921cb8bd93f882fce774a267504ba28df7a2d0d38c39d2418cb1e2484303",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They just cannot do anything about it.",
+      "translationEligible": true,
+      "translationZh": "他们对此无能为力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-46-1",
+      "optionId": "cet4:2017-12-03:q-46-1:C",
+      "sourceText": "It should be regarded as a kind of disease.",
+      "sourceHash": "43780f5799810892f30066e1cef63aca1230912f83da02f2940c4eb3b24356d6",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It should be regarded as a kind of disease.",
+      "translationEligible": true,
+      "translationZh": "应该算是一种疾病。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-46-1",
+      "optionId": "cet4:2017-12-03:q-46-1:D",
+      "sourceText": "They can delay it with advances in science.",
+      "sourceHash": "eb74dfeb38efca59f1d8d2ee58d6dc5da0ae7375bf3fc0ff7f5fb139c989e7c5",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-7"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They can delay it with advances in science.",
+      "translationEligible": true,
+      "translationZh": "他们可以通过科学的进步来推迟它。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-47-1",
+      "optionId": "cet4:2017-12-03:q-47-1:A",
+      "sourceText": "It might be prevented and treated.",
+      "sourceHash": "33b50810187637b072eaebb6cad10eeba87a51b44c5134eb5510bcabdf3b2542",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-9"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It might be prevented and treated.",
+      "translationEligible": true,
+      "translationZh": "它可能是可以预防和治疗的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-47-1",
+      "optionId": "cet4:2017-12-03:q-47-1:B",
+      "sourceText": "It can be as risky as heart disease.",
+      "sourceHash": "fcc7b290c61a5cb07e594f52d30657eaf06de08efa0917a0b53851d150559d39",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-9"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It can be as risky as heart disease.",
+      "translationEligible": true,
+      "translationZh": "它可能与心脏病一样危险。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-47-1",
+      "optionId": "cet4:2017-12-03:q-47-1:C",
+      "sourceText": "It results from a vitamin deficiency.",
+      "sourceHash": "7b2077c84df6db0c03530210e1eb58def5341cb0bef3d9733b7d6c3408a9d336",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-9"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It results from a vitamin deficiency.",
+      "translationEligible": true,
+      "translationZh": "它是由维生素缺乏引起的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-47-1",
+      "optionId": "cet4:2017-12-03:q-47-1:D",
+      "sourceText": "It is an irreversible biological process.",
+      "sourceHash": "2de06b2f85e8b9f19510ef7d35bb41942de2b87fa167d3907f081188ff790ac3",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-9"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is an irreversible biological process.",
+      "translationEligible": true,
+      "translationZh": "这是一个不可逆的生物过程。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-48-1",
+      "optionId": "cet4:2017-12-03:q-48-1:A",
+      "sourceText": "It will prompt people to take aging more seriously.",
+      "sourceHash": "92ba82abe5b66f80296daee8889f9a5cc22cc87b56cb89e874479b6de0187b67",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-11"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It will prompt people to take aging more seriously.",
+      "translationEligible": true,
+      "translationZh": "它将促使人们更加认真地对待衰老。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-48-1",
+      "optionId": "cet4:2017-12-03:q-48-1:B",
+      "sourceText": "It will greatly help reduce the side effects of aging.",
+      "sourceHash": "95913c55a809ec9b218aefa62578ceee57e2ea9f728c380683d8b9c117b3bba0",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-11"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It will greatly help reduce the side effects of aging.",
+      "translationEligible": true,
+      "translationZh": "它将极大地帮助减少衰老的副作用。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-48-1",
+      "optionId": "cet4:2017-12-03:q-48-1:C",
+      "sourceText": "It will free pharmacists from the conventional beliefs about aging.",
+      "sourceHash": "becd986d7e01a32709da814dc069797b673ca2add372bfa5bb00e08f2926e297",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-11"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It will free pharmacists from the conventional beliefs about aging.",
+      "translationEligible": true,
+      "translationZh": "它将把药剂师从关于衰老的传统观念中解放出来。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-48-1",
+      "optionId": "cet4:2017-12-03:q-48-1:D",
+      "sourceText": "It will motivate doctors and pharmacists to find ways to treat aging.",
+      "sourceHash": "88b7d6d800c8ad41dda8ab94502fcfd17f4d60a17ba0b755855213e366d78538",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-11"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It will motivate doctors and pharmacists to find ways to treat aging.",
+      "translationEligible": true,
+      "translationZh": "它将激励医生和药剂师寻找治疗衰老的方法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-49-1",
+      "optionId": "cet4:2017-12-03:q-49-1:A",
+      "sourceText": "They now have a strong interest in research on aging.",
+      "sourceHash": "38ee120636bf13bb40351e8d26d3b62d434e998c175f190c55283b42ed360662",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They now have a strong interest in research on aging.",
+      "translationEligible": true,
+      "translationZh": "他们现在对衰老研究产生了浓厚的兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-49-1",
+      "optionId": "cet4:2017-12-03:q-49-1:B",
+      "sourceText": "They differ from the academic circles in their view on aging.",
+      "sourceHash": "8266f0cc486272baa92a96ad508c2f4263c3ee25358d7c8506d409fca503d86d",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They differ from the academic circles in their view on aging.",
+      "translationEligible": true,
+      "translationZh": "他们对老龄化的看法与学术界存在分歧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-49-1",
+      "optionId": "cet4:2017-12-03:q-49-1:C",
+      "sourceText": "They can contribute to people’s health only to a limited extent.",
+      "sourceHash": "ac8b85a599bb9daafd59a5cbadc65ac752bbc26e7b9b9ec3705925ba6f18f727",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They can contribute to people’s health only to a limited extent.",
+      "translationEligible": true,
+      "translationZh": "它们只能在有限的程度上对人们的健康做出贡献。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-49-1",
+      "optionId": "cet4:2017-12-03:q-49-1:D",
+      "sourceText": "They have ways to intervene in people’s aging process.",
+      "sourceHash": "cd6aceb111d40b7f6bd42d4dcb662ce63ba77a55a15c8205d950942c5a0c1fbf",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They have ways to intervene in people’s aging process.",
+      "translationEligible": true,
+      "translationZh": "他们有办法干预人们的衰老过程。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-50-1",
+      "optionId": "cet4:2017-12-03:q-50-1:A",
+      "sourceText": "The human lifespan cannot be prolonged.",
+      "sourceHash": "9edd462526bedb9b0f912fbf283cff5e8cb19b27ab43419a50731d13ef609696",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-16",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "The human lifespan cannot be prolonged.",
+      "translationEligible": true,
+      "translationZh": "人的寿命是无法延长的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-50-1",
+      "optionId": "cet4:2017-12-03:q-50-1:B",
+      "sourceText": "Aging is hardly separable from disease.",
+      "sourceHash": "2f2679972b26c7baaade0cd25c17505a6c133e3a0174a22cb95a8c87f75c1693",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-16",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Aging is hardly separable from disease.",
+      "translationEligible": true,
+      "translationZh": "衰老与疾病密不可分。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-50-1",
+      "optionId": "cet4:2017-12-03:q-50-1:C",
+      "sourceText": "Few people can live up to the age of 92.",
+      "sourceHash": "6e421bbf8597a0319c3a757e3d128292b1c284ebf458c052e7f9d3df9738b264",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-16",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Few people can live up to the age of 92.",
+      "translationEligible": true,
+      "translationZh": "很少有人能活到92岁。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-50-1",
+      "optionId": "cet4:2017-12-03:q-50-1:D",
+      "sourceText": "Heart disease is the major cause of aging.",
+      "sourceHash": "e92d00f1bf36a0e4ecbc00568546dd2828a3f0ace35771a757f3fdc242af0739",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-4-15"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-4-16",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Heart disease is the major cause of aging.",
+      "translationEligible": true,
+      "translationZh": "心脏病是衰老的主要原因。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-51-1",
+      "optionId": "cet4:2017-12-03:q-51-1:A",
+      "sourceText": "There are many more men applying than women.",
+      "sourceHash": "6661af5ca617a10ded33ee19d44ab5527f02cca28bd2ecd9b8f22697f2ea8bc9",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "There are many more men applying than women.",
+      "translationEligible": true,
+      "translationZh": "申请的男性多于女性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-51-1",
+      "optionId": "cet4:2017-12-03:q-51-1:B",
+      "sourceText": "Chances for women to get the positions are scare.",
+      "sourceHash": "ccfb3a9cecc696802bee32d2acb0d16513bce7d222761ea0cda219e4a3128391",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Chances for women to get the positions are scare.",
+      "translationEligible": true,
+      "translationZh": "女性获得这些职位的机会很渺茫。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-51-1",
+      "optionId": "cet4:2017-12-03:q-51-1:C",
+      "sourceText": "More males than females are likely to get outstanding letters of recommendation.",
+      "sourceHash": "e0541032545edcfbbc09ddd7b2ec14db8547eb7d8c6e8143e2c72f276b7147f5",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "More males than females are likely to get outstanding letters of recommendation.",
+      "translationEligible": true,
+      "translationZh": "获得优秀推荐信的男性人数可能多于女性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-51-1",
+      "optionId": "cet4:2017-12-03:q-51-1:D",
+      "sourceText": "Male applicants have more interest in these positions than their female counterparts.",
+      "sourceHash": "aac4894a0871917ce9f0e87fb8992f5f66c684027ca19dcd807a0bd616042fac",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-6"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Male applicants have more interest in these positions than their female counterparts.",
+      "translationEligible": true,
+      "translationZh": "男性申请人比女性申请人对这些职位更感兴趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-52-1",
+      "optionId": "cet4:2017-12-03:q-52-1:A",
+      "sourceText": "Women engaged in postdoctoral work are quickly catching up.",
+      "sourceHash": "f8c683a7cc47e97d24ffa0f59604bdcbc1ff578b6f6acfb94921ab78d6e9175e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Women engaged in postdoctoral work are quickly catching up.",
+      "translationEligible": true,
+      "translationZh": "从事博士后工作的女性正在迅速迎头赶上。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-52-1",
+      "optionId": "cet4:2017-12-03:q-52-1:B",
+      "sourceText": "Fewer women are applying for postdoctoral positions due to gender bias.",
+      "sourceHash": "eba73c82191d522f00e2e4291d0d2b735690485cd780d5071d60f9a26c12f24e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Fewer women are applying for postdoctoral positions due to gender bias.",
+      "translationEligible": true,
+      "translationZh": "由于性别偏见，申请博士后职位的女性越来越少。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-52-1",
+      "optionId": "cet4:2017-12-03:q-52-1:C",
+      "sourceText": "Men are believed to be better able to excel in STEM disciplines.",
+      "sourceHash": "785d99eba2b0b7dfab4138bf19fe867de26b6fe82087e8e7bf642a8fb328f8b9",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Men are believed to be better able to excel in STEM disciplines.",
+      "translationEligible": true,
+      "translationZh": "人们认为男性在 STEM 学科中能够更好地表现出色。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-52-1",
+      "optionId": "cet4:2017-12-03:q-52-1:D",
+      "sourceText": "Women who are keenly interested in STEM fields are often exceptional.",
+      "sourceHash": "5e6ffc9df968d47dcf6a523868d614fd4c37f30ac956539a9e347c1b4a0b5feb",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-8"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Women who are keenly interested in STEM fields are often exceptional.",
+      "translationEligible": true,
+      "translationZh": "对 STEM 领域有着浓厚兴趣的女性往往是佼佼者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-53-1",
+      "optionId": "cet4:2017-12-03:q-53-1:A",
+      "sourceText": "They are hardly ever supported by concrete examples.",
+      "sourceHash": "b2684992c2bcab49284aaee28729725bb9233f005d74ee779388b4f4b967986b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are hardly ever supported by concrete examples.",
+      "translationEligible": true,
+      "translationZh": "他们几乎没有得到具体例子的支持。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-53-1",
+      "optionId": "cet4:2017-12-03:q-53-1:B",
+      "sourceText": "They contain nothing that distinguishes the applicants.",
+      "sourceHash": "1e36d5838e2ab573c13a270bd53aae6e26d99f9284a9998339b0291347155da8",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They contain nothing that distinguishes the applicants.",
+      "translationEligible": true,
+      "translationZh": "它们不包含任何可以区分申请人的内容。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-53-1",
+      "optionId": "cet4:2017-12-03:q-53-1:C",
+      "sourceText": "They provide objective information without exaggerate.",
+      "sourceHash": "04676a6894c4b99d1030371f2da9ff0fc0f5399b1f535840c6678b9d9ccd20dc",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They provide objective information without exaggerate.",
+      "translationEligible": true,
+      "translationZh": "他们提供客观信息，毫不夸张。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-53-1",
+      "optionId": "cet4:2017-12-03:q-53-1:D",
+      "sourceText": "They are often filled with praise for exceptional applicants.",
+      "sourceHash": "2fbad6a10802683aab84ba929d83edbf1716f8e9817b100e5c0be55c04469f47",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-10"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are often filled with praise for exceptional applicants.",
+      "translationEligible": true,
+      "translationZh": "他们常常对杰出的申请者充满赞扬。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-54-1",
+      "optionId": "cet4:2017-12-03:q-54-1:A",
+      "sourceText": "They asked unbiased scholars to evaluate them.",
+      "sourceHash": "d696684df3865ac48232db2f14058744121194a1823c29f21c4022a28cef04ca",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-12",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They asked unbiased scholars to evaluate them.",
+      "translationEligible": true,
+      "translationZh": "他们请公正的学者对他们进行评估。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-54-1",
+      "optionId": "cet4:2017-12-03:q-54-1:B",
+      "sourceText": "They invited women professionals to edit them.",
+      "sourceHash": "42824e04a1cb22877c1a2197ac2c6bbfe547e6ab9aa1740fd8a17572b214c18a",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-12",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They invited women professionals to edit them.",
+      "translationEligible": true,
+      "translationZh": "他们邀请女性专业人士来编辑它们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-54-1",
+      "optionId": "cet4:2017-12-03:q-54-1:C",
+      "sourceText": "Them assigned them randomly to reviewers.",
+      "sourceHash": "2d156577ecffa9376dd8ddc100b63440d8f49e872872f479842204638a7dad86",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-12",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Them assigned them randomly to reviewers.",
+      "translationEligible": true,
+      "translationZh": "他们将它们随机分配给审稿人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-54-1",
+      "optionId": "cet4:2017-12-03:q-54-1:D",
+      "sourceText": "They deleted all information about gender.",
+      "sourceHash": "3a282d682548c77feaf2391fdb0519bd782aca10ef4fbdf322a031ea97b0f4b1",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-12"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-12",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They deleted all information about gender.",
+      "translationEligible": true,
+      "translationZh": "他们删除了所有有关性别的信息。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-55-1",
+      "optionId": "cet4:2017-12-03:q-55-1:A",
+      "sourceText": "Raise recommendation writers’ awareness of gender bias in their letters.",
+      "sourceHash": "3e1dd69f7a3565e55a66319aa4c754c25d6b501d48d40d0d04cd56c2372354cd",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-14",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Raise recommendation writers’ awareness of gender bias in their letters.",
+      "translationEligible": true,
+      "translationZh": "提高推荐人对信件中性别偏见的认识。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-55-1",
+      "optionId": "cet4:2017-12-03:q-55-1:B",
+      "sourceText": "Open up fresh avenues for women post-doctors to join in research work.",
+      "sourceHash": "ac9e9eeff92fc07329a3bc4e0293e3b89b458f8469898b9ad4defc3eb5fccc07",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-14",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Open up fresh avenues for women post-doctors to join in research work.",
+      "translationEligible": true,
+      "translationZh": "为女博士后参与研究工作开辟新途径。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-55-1",
+      "optionId": "cet4:2017-12-03:q-55-1:C",
+      "sourceText": "Alert women researchers to all types of gender bias in the STEM disciplines.",
+      "sourceHash": "c0ee718ad46201f6998f713259c0454356ef6b2ab04a7337b95cc60939ffc1c6",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-14",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Alert women researchers to all types of gender bias in the STEM disciplines.",
+      "translationEligible": true,
+      "translationZh": "提醒女性研究人员注意 STEM 学科中所有类型的性别偏见。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-55-1",
+      "optionId": "cet4:2017-12-03:q-55-1:D",
+      "sourceText": "Start a public discussion on how to raise women’s status in academic circles.",
+      "sourceHash": "c488d0a02fa917e9c9ae4bf7a72384d105895ce37ca34016872b6dd5547a7f93",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-5-14"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-5-14",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Start a public discussion on how to raise women’s status in academic circles.",
+      "translationEligible": true,
+      "translationZh": "就如何提高女性在学术界的地位展开公开讨论。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:A",
+      "sourceText": "attracted",
+      "sourceHash": "0576dcea8cc28ddc610f6f3c230aaac562741230038ab89adef70a0442a49509",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "attracted",
+      "translationEligible": true,
+      "translationZh": "吸引了",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:B",
+      "sourceText": "career",
+      "sourceHash": "89b7505ad79ad4892d6f2f110320da7b79e4110e0117b8249de318688c3ad83b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "career",
+      "translationEligible": true,
+      "translationZh": "职业生涯",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:C",
+      "sourceText": "championships",
+      "sourceHash": "ee3117b959af2213bbd50f0644127d88ce8938ada2bf4f7a4d9de59343b9a666",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "championships",
+      "translationEligible": true,
+      "translationZh": "锦标赛",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:D",
+      "sourceText": "degrees",
+      "sourceHash": "67e565733661bf1a7d36500840e4ecf4a844436fdebfd57eab8518b57a19ae0c",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "degrees",
+      "translationEligible": true,
+      "translationZh": "度",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:E",
+      "sourceText": "developing",
+      "sourceHash": "53fce6389a6de30439648b6236fc9e797984e95b5f7ef3ed6d74faf5ca7cf672",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "developing",
+      "translationEligible": true,
+      "translationZh": "发展中",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:F",
+      "sourceText": "enroll",
+      "sourceHash": "53bcbb91525547bf679e9d4f85ea97148fa49ff2b46ef7af8fd4b4a1ec5af13b",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "enroll",
+      "translationEligible": true,
+      "translationZh": "报名",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:G",
+      "sourceText": "exposure",
+      "sourceHash": "b40356e6d1c6948bcb05c662bf5aa970a270424c9af61c9fc0c861f2e2269629",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "exposure",
+      "translationEligible": true,
+      "translationZh": "曝光",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:H",
+      "sourceText": "feasible",
+      "sourceHash": "208a1228bf9d0e8da86e0c15330817421bbb03cafef979a1391401a4e4fd2f34",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "feasible",
+      "translationEligible": true,
+      "translationZh": "可行的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:I",
+      "sourceText": "feeding",
+      "sourceHash": "2e10adcddb81e1473a199443cc423e3c899abca6fd5de3cd1ca3a95e15b89456",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "feeding",
+      "translationEligible": true,
+      "translationZh": "喂养",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:J",
+      "sourceText": "graduating",
+      "sourceHash": "f1f767f044f9249393b8d9605cf056d79cb2670f362311d5003b65c1bc8b6429",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "graduating",
+      "translationEligible": true,
+      "translationZh": "即将毕业",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:K",
+      "sourceText": "interest",
+      "sourceHash": "828408e40d4fe651488b14696b60b613c9683ab9862e03f4e72aec7c1fda7635",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "interest",
+      "translationEligible": true,
+      "translationZh": "兴趣",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:L",
+      "sourceText": "levels",
+      "sourceHash": "7d50f20853334a3098a0e7389adfc0a56755c7df9606af98c97ccf7aad34ebaa",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "levels",
+      "translationEligible": true,
+      "translationZh": "级别",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:M",
+      "sourceText": "local",
+      "sourceHash": "25bf8e1a2393f1108d37029b3df5593236c755742ec93465bbafa9b290bddcf6",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "local",
+      "translationEligible": true,
+      "translationZh": "本地的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:N",
+      "sourceText": "operates",
+      "sourceHash": "82919a7ab47684e28c7f26dc9df69baee2bd4c3290d61b4d006e1b04fe31ec78",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "operates",
+      "translationEligible": true,
+      "translationZh": "运作",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2017-12-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2017-12-03",
+      "questionId": "cet4:2017-12-03:q-26-1",
+      "optionId": "cet4:2017-12-03:word-bank:O",
+      "sourceText": "participated",
+      "sourceHash": "46b3b9ce0c3d7ad95850fcbf673b0eca7d263e4106cbd5ef6516542373a2503e",
+      "sourceBlockIds": [
+        "cet4:2017-12-03:b-1-13"
+      ],
+      "reflowBlockId": "cet4:2017-12-03:b-1-13",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "participated",
+      "translationEligible": true,
+      "translationZh": "参加了",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-10",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2017-12-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-11",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2017-12-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-12",
+      "classification": "ineligible",
+      "reason": "unresolved_cloze_or_source_mismatch",
+      "paragraphId": "cet4:2017-12-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-1-15"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-1-16",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-1-16"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-2",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-13",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-13"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-14",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-15",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-14"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-16",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-16"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-17",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-2-18",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-2-17"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-7",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2017-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-9",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-15"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-16",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-17"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-18",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-18"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-19",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-3-19"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-20",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-21",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-3-21"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-22",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-23",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-3-23"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-24",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-3-24"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-25",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-3-25"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-26",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-3-26"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-3-27",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-3-27"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2017-12-03:p:b-3-27"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-17",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-18",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-4-20",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-4-20"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2017-12-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2017-12-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-15",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-16",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2017-12-03:p:b-5-16"
+    },
+    {
+      "sourceBlockId": "cet4:2017-12-03:b-5-17",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 72,
+    "ineligible": 3
+  },
+  "reasonCounts": {
+    "cross_page_continuation": 2,
+    "heading_prose": 1,
+    "instruction": 8,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_continuation": 11,
+    "reading_choice_paragraph": 15,
+    "reading_prose": 15,
+    "section_label": 9,
+    "unresolved_cloze_or_source_mismatch": 3
+  },
+  "kindCounts": {
+    "cloze": 3,
+    "heading_prose": 1,
+    "instruction": 8,
+    "passage_option": 15,
+    "question_prompt": 20,
+    "reading": 15
+  },
+  "otherSourceBlockCounts": {
+    "options": 11
+  },
+  "issues": [
+    {
+      "code": "incomplete_cloze",
+      "sourceBlockIds": [
+        "b-1-10",
+        "b-1-11",
+        "b-1-12"
+      ],
+      "reasons": [
+        "blank_marker_count:30:0",
+        "printed_blank_sequence_mismatch",
+        "unreadable_blank_run:b-1-11:3"
+      ]
+    }
+  ]
+}

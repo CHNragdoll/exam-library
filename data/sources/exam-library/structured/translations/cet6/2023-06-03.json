@@ -1,0 +1,3401 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2023-06-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+  "sourcePdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+  "paragraphs": [
+    {
+      "id": "cet6:2023-06-03:p:b-1-3",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "sourceHash": "2ee8e981b15759b67a807956bbcc1551017418af49a48f5780f18b8aff4a2b6d",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇文章，开头是这样一句话：“今天，人们越来越意识到，心理健康需要像身体健康一样受到重视。”您可以发表评论、引用示例或利用您的个人经历来完善您的论文。你应该写至少150字但不超过200字。",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-1-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-1-9",
+      "paperId": "cet6:2023-06-03",
+      "kind": "cloze",
+      "sourceText": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert. After eating so much, you should be too full to eat another bite. But some people experience a powerful urge to keep eating, even after 26 in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with 27 health issues and is even linked to increased 28 risk. But some people still keep eating long after they should stop, a phenomenon Dr. Susan Thompson calls “insatiable (永不满足的) hunger.” It is characterized by two main 29 : not being satisfied by eating, and having a desire to stay sedentary (久坐不动的).",
+      "sourceHash": "869b39c55fda3d4bde821c8be524e1cd44a457955ad576904d4a527a12c64494",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "想象一下坐下来吃一顿丰盛的晚餐：一大块牛排，一大份炸土豆，还有蛋糕作为甜点。吃了这么多，应该已经吃饱了，吃不下了。但有些人即使在吃了一顿大餐之后，也会强烈地想继续吃东西，这种行为毫无意义，因为大多数成年人都深知肥胖的危险，研究人员已证明肥胖与无数健康问题相关，甚至与死亡风险增加有关。但有些人在应该停止吃东西很长时间后仍然继续吃东西，苏珊·汤普森博士将这种现象称为“永不满足的饥饿”。它有两个主要特征：不满足于饮食，以及渴望久坐不动。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-1-10",
+      "paperId": "cet6:2023-06-03",
+      "kind": "cloze",
+      "sourceText": "This is at 30 with how humans are biologically programmed. When there was a great deal of food available, ancient people would gorge on calories; this massive calorie intake was accompanied by an urge to get active. Humans were also programmed for something called “compensation,” which is the brain’s 31 mechanism for preventing the accumulation of excess weight. With compensation, if you eat one large meal in the morning, you are naturally 32 to eat less for the rest of the day.",
+      "sourceHash": "dde2a2b257eea034ba9337b07659af8b5a75baf18f4e830912ceeb7280fe7913",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这与人类的生物编程方式不一致。当食物充足时，古代人会狼吞虎咽地摄入卡路里；当食物充足时，古代人就会狼吞虎咽。大量卡路里的摄入伴随着运动的冲动。人类还被设计了一种叫做“补偿”的东西，这是大脑防止体重累积的调节机制。有了补偿，如果你早上吃了一顿大餐，你自然会倾向于在一天的剩余时间里吃得更少。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-1-11",
+      "paperId": "cet6:2023-06-03",
+      "kind": "cloze",
+      "sourceText": "But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse 33 , a significant number of them report 34 hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is 35 of food high in sugar, carbohydrates and calories.",
+      "sourceHash": "9582de27d325856dbb486332f05092542a1e7dfa6b91f387814b85c5ae660198",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "但最近的研究表明，70% 的美国成年人已经失去了自然补偿所消耗卡路里的能力；更糟糕的是，他们中的相当多的人报告说，在进餐过程中饥饿感减轻了，但在用餐结束时，他们感到的饥饿程度与坐下时相同或更高。汤普森博士认为，造成这种现象的主要原因是现代饮食，即含有高糖、碳水化合物和热量的食物。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-3",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-4",
+      "paperId": "cet6:2023-06-03",
+      "kind": "heading_prose",
+      "sourceText": "The Problem with Being Perfect",
+      "sourceHash": "7701f31437ae44961b29f20bde3546d210d4d2389a8435026a1d7ea47aef6895",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "完美的问题",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-5",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) When psychologist Jessica Pryor lived near an internationally renowned university, she once saw a student walking into a library holding a sleeping bag and a coffee maker. She has heard of graduate students spending 12 to 18 hours at a time in the lab. Their schedules are meant to be literally punishing: If they are scientists-in-training, they won’t allow themselves to watch Netflix until their experiments start generating results. “Relationships become estranged (疏远的) — people stop inviting them to social gatherings or dinner parties, which leads them to spend even more time in the lab,” Pryor told me.",
+      "sourceHash": "4eb4c20d0f2dd617c78bbe35b071c9be851a073707f78bac91878afeb989490b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 心理学家杰西卡·普赖尔（Jessica Pryor）住在一所国际知名大学附近时，她曾经看到一名学生拿着睡袋和咖啡机走进图书馆。她听说研究生一次在实验室待 12 到 18 个小时。他们的日程安排实际上是一种惩罚：如果他们是受训科学家，他们不会允许自己观看 Netflix，直到他们的实验开始产生结果。 “关系变得疏远——人们不再邀请他们参加社交聚会或晚宴，这导致他们在实验室里花费更多的时间，”普赖尔告诉我。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-6",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work — sometimes at any cost. Though it is often portrayed as a positive trait, Pryor and others say extreme perfectionism can lead to depression, anxiety, and even suicide.",
+      "sourceHash": "a637ba57651220f4dd561745ad38613df82298f2a2bd7fc739473d9ea5703319",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 目前在西北大学家庭研究所工作的普赖尔与其他治疗师一起，试图对年轻人和大学生在工作中力求完美的倾向敲响警钟——有时甚至不惜一切代价。尽管极端完美主义经常被描述为一种积极的品质，但普赖尔和其他人表示，极端完美主义会导致抑郁、焦虑，甚至自杀。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-7",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) What’s more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today’s college students report higher levels of perfectionism than college students did during the 1990s or early 2000s. They measured three types of perfectionism: self-oriented, or a desire to be perfect; socially prescribed, or a desire to live up to others’ expectations; and other-oriented, or holding others to unrealistic standards. From 1989 to 2016, they found, self-oriented perfectionism scores increased by 10 percent, socially prescribed scores rose by 33 percent, and other-oriented perfectionism increased by 16 percent.",
+      "sourceHash": "f9176f89bed6944d728db8d60b841139c1bbe59c3f07c0ea5f464e779a753df7",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 此外，完美主义似乎正在兴起。巴斯大学的托马斯·柯兰 (Thomas Curran) 和约克圣约翰大学的安德鲁·希尔 (Andrew Hill) 在今年早些时候发表的一项针对数千名美国、加拿大和英国大学生的研究中发现，如今的大学生比 90 年代或 2000 年代初的大学生表现出更高的完美主义水平。他们测量了三种类型的完美主义：以自我为导向，或渴望完美；社会规定的，或满足他人期望的愿望；以他人为导向，或以不切实际的标准要求他人。他们发现，从 1989 年到 2016 年，自我导向的完美主义得分增加了 10%，社会规定的完美主义得分上升了 33%，其他导向的完美主义得分增加了 16%。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse for not doing household chores exactly the “right” way. “One of the most common things couples argue about is the proper way of loading the dishwasher,” says Amy Bach, a psychologist in Providence, Rhode Island.",
+      "sourceHash": "a20fe7fd9e07491e3b383e00abf55082f1d13072365f7c0bd6c2d7dbf46423d6",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D) 与以他人为导向的完美主义者住在一起的人可能会因为没有完全以“正确”的方式做家务而受到完美主义者配偶的批评。罗德岛州普罗维登斯市的心理学家艾米·巴赫 (Amy Bach) 表示：“夫妻间最常争论的问题之一就是如何正确地装入洗碗机。”",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-2-9",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) Curran describes socially prescribed perfectionism as “My self-esteem is contingent on what other people think.” His study didn’t examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role. These days, LinkedIn alerts us when our rival gets a new job, and Instagram can let us know how well “liked” our lives are compared with a friend’s. In an opinion piece earlier this year, Curran and Hill argue that society has also become more dog-eat-dog. “Over the last 50 years, public interest and civic responsibility have been progressively eroded,” they write, “replaced by a focus on self-interest and competition in a supposedly free and open marketplace.” We strive for perfection, it seems, because we feel we must in order to get ahead. Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon. He sees perfectionism in, among others, clients who are entrepreneurs, artists, and tech employees. “You’re in New York because you’re ambitious, you have this need to strive,” he says. “But then your whole identity gets wrapped into a goal.”",
+      "sourceHash": "c46bc4551821eb6a1b913923d3376066f04e642ded86ff8ea29586d3b7f03c2b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-2-9",
+        "cet6:2023-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 柯兰将社会规定的完美主义描述为“我的自尊取决于其他人的想法”。他的研究没有探讨其上升的因果原因，但他认为标准化测试和社交媒体的兴起可能发挥了作用。如今，当我们的竞争对手找到新工作时，LinkedIn 会提醒我们，Instagram 可以让我们知道与朋友的生活相比，我们的生活有多“受欢迎”。在今年早些时候的一篇评论文章中，柯兰和希尔认为社会也变得更加竞争激烈。他们写道：“在过去的 50 年里，公共利益和公民责任逐渐受到侵蚀，取而代之的是在所谓的自由开放市场中对自身利益和竞争的关注。”我们似乎力求完美，因为我们觉得必须如此才能取得成功。曼哈顿的临床心理学家迈克尔·布鲁斯坦 (Michael Brustein) 表示，当他 2007 年第一次开始执业时，他对客户中完美主义的盛行感到惊讶，尽管他的研究生培训很少关注这一现象。他在企业家、艺术家和技术员工等客户中看到了完美主义。 “你来到纽约是因为你雄心勃勃，你需要奋斗，”他说。 “但随后你的整个身份就会被包裹在一个目标中。”",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-3-2",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) Perfectionism can, of course, be a positive force. Think of professional athletes, who train aggressively for ever-higher levels of competition. In well-adjusted perfectionism, someone who doesn’t get the gold is able to forget the setback and move on. In maladaptive (不当的) perfectionism, meanwhile, people make an archive of all their failures. They revisit these archives constantly, thinking, as Pryor puts it, “I need to make myself feel terrible so I don’t do this again.” Then they double down, “raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,” she says. Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals. Meeting them becomes an “all or nothing” premise. Pryor offered this example: “Even if I’m an incredible attorney, if I don’t make partner in the same pacing as one of my colleagues, clearly that means I’m a failure.”",
+      "sourceHash": "dba8c1e211260ec0ff3670be99f7f64948364d4834904283b18f7da61b1df61f",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 完美主义当然可以成为一种积极的力量。想想职业运动员，他们为了更高水平的比赛而积极训练。在调整良好的完美主义中，没有获得金牌的人能够忘记挫折并继续前进。与此同时，在适应不良的完美主义中，人们将所有的失败记录下来。他们不断地重新审视这些档案，正如普赖尔所说，“我需要让自己感觉很糟糕，这样我就不会再这样做了。”然后他们会加倍努力，“将期望标准提高得更高，这会增加失败的可能性，这会让你自我批评，所以你会提高标准，更加努力地工作，”她说。接下来是失败、羞耻，并迫使自己更加努力地实现更高、更不可能的目标。满足他们成为“全有或全无”的前提。普赖尔举了这样一个例子：“即使我是一位令人难以置信的律师，如果我不能以与我的一位同事相同的节奏成为合伙人，显然这意味着我是一个失败。”",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-3-3",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like “a gas tank with a hole in it.” If the boss says you did a great job, it’s because he doesn’t know anything. If the audience likes your work, that’s because it’s too stupid to know what good art actually is. But, therapists say, there are also different ways perfectionism manifests. Some perfectionists are always pushing themselves forward. But others actually fall behind on work, unable to complete assignments unless they are, well, perfect. Or they might handicap their performance ahead of time. They’re the ones partying until 2 a.m. the night before the final, so that when the grade C rolls in, there’s a ready excuse.",
+      "sourceHash": "508e3b8c5d73009cb0201aaa14b7aa3b48a008a7b6fcc347e7b94819ed39ba61",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 布鲁斯坦说，他的完美主义客户往往会贬低自己的成就，因此每次实现目标时，兴奋感只会持续很短的时间，就像“一个有洞的油箱”。如果老板说你做得很好，那是因为他什么都不知道。如果观众喜欢你的作品，那是因为你太愚蠢了，不知道什么是好的艺术。但是，治疗师说，完美主义也有不同的表现方式。有些完美主义者总是鞭策自己前进。但其他人实际上在工作上落后了，除非他们是完美的，否则无法完成任务。或者他们可能会提前妨碍他们的表现。他们会在决赛前一天晚上一直狂欢到凌晨 2 点，这样当 C 级成绩到来时，就有了一个现成的借口。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-3-4",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven’t adequately prepared them for the inevitability of failure. Instead of praises like “You’re so smart,” parents and educators should say things like “You really stuck with it,” Pryor says, to emphasize the value of perseverance over intrinsic talent. Pryor notes that many of her clients are wary she’ll “turn them into some degenerate couch potato and teach them to be okay with it.” Instead, she tries to help them think through the parts of their perfectionism they’d like to keep, and to lose the parts that are ruining their lives.",
+      "sourceHash": "569260263ec56ec94faf5cb86586054da5b003812bb3ce7f3290bc2cdb82c161",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 专家告诉我，虽然教育工作者和家长已经成功说服学生需要表现出色和勤奋，但他们并没有让学生做好充分的准备来应对不可避免的失败。普赖尔说，家长和教育工作者不应该说“你真聪明”，而应该说“你真的坚持了下来”，以强调坚持不懈的价值，而不是内在天赋的价值。普赖尔指出，她的许多客户都担心她会“把他们变成一些堕落的沙发土豆，并教他们接受这一切。”相反，她试图帮助他们思考他们想要保留的完美主义部分，并丢掉那些毁掉他们生活的部分。",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-3-5",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) Bach, who sees many students from Brown University, says some of them don’t even go out on weekends, let alone weekdays. She tells them, “Aim high, but get comfortable with good enough.” When they don’t get some award, she encourages them to remember that “one outcome is not a basis for a broad conclusion about the person’s intelligence, qualifications, or potential for the future.”",
+      "sourceHash": "64114d508d0dd1a9bc943809a62eb4adbe8a8221e60a5c6b5415b2edeab1556c",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-3-5",
+        "cet6:2023-06-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I）巴赫见过很多布朗大学的学生，他说他们中的一些人甚至周末都不出去，更不用说工作日了。她告诉他们，“目标要高，但要满足于足够好。”当他们没有获得某些奖项时，她鼓励他们记住，“一个结果并不是对一个人的智力、资格或未来潜力做出广泛结论的基础。”",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-2",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) The treatment for perfectionism might be as simple as having patients keep logs of things they can be proud of, or having them behave imperfectly in small ways, just to see how it feels. “We might have them hang the towels crooked (不正的) or wear some clothing inside out,” says Martin Antony, a professor in the department of psychology at Ryerson University in Toronto.",
+      "sourceHash": "022a36d4688036be201309e1dfa7728b58fd511ca338526533cd06c39824907a",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 完美主义的治疗方法可能很简单，比如让患者记录他们可以引以为傲的事情，或者让他们在一些小方面表现不完美，只是为了看看感觉如何。多伦多瑞尔森大学心理学系教授马丁·安东尼说：“我们可能会让他们把毛巾挂歪，或者把衣服翻过来穿。”",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-3",
+      "paperId": "cet6:2023-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) Brustein likes to get his perfectionist clients to create values that are important to them, then try to shift their focus to living according to those values rather than achieving specific goals. It’s a play on the “You really stuck with it” message for kids. In other words, it isn’t about doing a headstand in yoga class; it’s about going to yoga class in the first place, because you like to be the kind of person who takes care of herself. But he warns that some people go into therapy expecting too much — an instant transformation of themselves from a pathological (病态的) perfectionist to a (still high-achieving) non-perfectionist. They try to be perfect, in other words, at no longer being perfect.",
+      "sourceHash": "219f2412d1c4d4c3e0867e457417d6d35f3bd8e5feceabb132297c81016c4589",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 布鲁斯坦喜欢让他的完美主义客户创造对他们来说很重要的价值观，然后尝试将他们的注意力转移到按照这些价值观生活，而不是实现特定目标。这是对孩子们传达的“你真的坚持了下来”的戏剧。换句话说，这不是在瑜伽课上做倒立，而是在瑜伽课上做倒立。首先是去上瑜伽课，因为你喜欢成为那种照顾自己的人。但他警告说，有些人接受治疗时期望过高——他们会立即从一个病态的完美主义者转变为一个（仍然取得很高成就的）非完美主义者。他们试图变得完美，换句话说，他们试图不再完美。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-4",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Socially prescribed perfectionism is described as one’s self-esteem depending on other people’s opinion.",
+      "sourceHash": "41dc36d7e5227f893ba2670b5fe7ae433a7a3f2f8464dca6731e47bc3bb28046",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 社会规定的完美主义被描述为一个人的自尊取决于他人的看法。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-5",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37. Jessica Pryor has learned that some graduate students work such long hours in the lab that they have little time for entertainment or socializing.",
+      "sourceHash": "67563c0a6afda2625de221ed50ec30a97a626d8d7ea49ce30a9c95f7aaf148b6",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. Jessica Pryor 了解到，一些研究生在实验室工作时间太长，几乎没有时间娱乐或社交。",
+      "source": {
+        "blockIds": [
+          "b-4-4"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-6",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38. The author believes perfectionism may sometimes be constructive.",
+      "sourceHash": "965c7d7479f0eaadff269ca12543f4b94aae53f82fc483f0062aec627489287d",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 作者认为完美主义有时可能是有建设性的。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-7",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39. It is found that perfectionism is getting more and more prevalent among college students.",
+      "sourceHash": "78f83626783cd200f79eb4e318032c879d167a0b12c6fb1665c3380ab67a4d0c",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 人们发现，大学生中完美主义越来越盛行。",
+      "source": {
+        "blockIds": [
+          "b-4-6"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40. Some experts suggest parents and educators should prepare students for failures.",
+      "sourceHash": "619dd422fa61c67e73aeb847f4a8adbfb932269cb5edf9d5c5eb5c41a108c0e1",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. 一些专家建议家长和教育工作者应该让学生做好失败的准备。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-9",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41. Some therapists warn that young adults tend to pursue perfection in their work.",
+      "sourceHash": "97c4fdb0736cbf986f3e4efe94b0c4915b599e5958953f24aec0f94e044ad29a",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. 一些治疗师警告说，年轻人倾向于在工作中追求完美。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-10",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Psychologist Amy Bach encourages her students to aim high but be content with something less than perfect.",
+      "sourceHash": "4da74c6d3a20a272b09994c3dc7e440914dace2d91532e3eba5bd14a5d603666",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 心理学家艾米·巴赫（Amy Bach）鼓励她的学生志存高远，但满足于不完美的事物。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-11",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43. A clinical psychologist finds perfectionism is widespread among his clients.",
+      "sourceHash": "7714112000314e0d84c1f7d63a0ce7e0462c5e723ba1b5ab347a42ce5ab9d5ea",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 一位临床心理学家发现他的客户普遍存在完美主义。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-12",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44. In trying to overcome perfectionism, some people are still pursuing perfection.",
+      "sourceHash": "2f37160dcb9c8ad52db6aa281bc4db27f9be868d6c009829e664a1c08814bd59",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44.在努力克服完美主义的过程中，有些人仍然追求完美。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-13",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45. In pursuing perfection, some perfectionists fail to complete their tasks on time.",
+      "sourceHash": "55b4674d18212487000634e975d2cdfffdf80752333e61cfb05a888bc79cd971",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. 在追求完美的过程中，一些完美主义者未能按时完成任务。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-15",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-17",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-18",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "How on earth did we come to this? We protect our children obsessively from every harm; we scrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access.",
+      "sourceHash": "05585fa3e58c75d574fcb4a34d1b61bf524cba322f690764c3145f98eba93343",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们到底是怎么走到这一步的？我们竭尽全力保护我们的孩子免受一切伤害；我们会仔细审查与他们接触的每一位护理人员、老师或医生。然而尽管如此，一个根本不把自己的最大利益放在心上的群体却拥有几乎不受限制的访问权。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-4-19",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children. Before children have even developed a proper sense of their own identity, or learned to handle money, they’re encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation. We’re turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live.",
+      "sourceHash": "303d148908fa09c9bf39f89eb38543b41282578b3bd3930a2f9d54193848865b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-4-19",
+        "cet6:2023-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们似乎理所当然地认为广告商和营销商甚至可以对最小的孩子进行调节。在孩子们对自己的身份形成正确的认识或学会处理金钱之前，他们就被鼓励将地位和自我价值与物质联系起来，并寻求外部事物（例如名誉和财富）的认可。我们培养的是小消费者，而不是年轻公民，他们会因为自己对所生活的社会所做的贡献而重视自己。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19",
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4",
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-2",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "We’ve reached this point so gradually that many of us have never questioned it. It’s crept up on us in the 60 years since advertisers started to target the young and found that they could recruit them to a commercial assault on their parents. We’ve come to know it as “pester power” or the ability of children to pressure parents to make certain purchases.",
+      "sourceHash": "c7cecfa22a3476a3624dd4ca0b49262c66679dcffdc376c49b9a8a4c4cb0a1d6",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "我们慢慢地达到了这一点，以至于我们中的许多人从未质疑过它。自从广告商开始瞄准年轻人并发现他们可以招募他们对他们的父母进行商业攻击以来，这种现象在 60 年来就悄然发生在我们身上。我们逐渐将其称为“纠缠力”，即孩子迫使父母购买某些商品的能力。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-3",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.",
+      "sourceHash": "cbdace7d1da908f39ada79cb99d7bd7d7dd249aa981f2d8f969a24658cb0a17c",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多心理学家、儿童发展专家和教育工作者指出，研究表明，这种从摇篮到坟墓的消费主义正在导致自卑、抑郁和其他形式的精神疾病的发病率不断上升。",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-4",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Not all psychologists agree. There’re plenty working hand in glove with a £12bn-a-year industry that has turned the manipulation of adult emotions and desires into an art form — often literally. It’s also one that’s forever developing new ways to persuade our children to desire material possessions, and because of advertisements’ viral effect they only need to infect a few to reach the many. Advertising and marketing can serve a useful purpose for children. Marketing may help socialize children as consumers, inform them about products, and help them carve out unique identities as they reach adulthood",
+      "sourceHash": "fbd96a89e7552bc069d17c05287119af55cbddea398309aef1aa0ecddabb71f6",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "并非所有心理学家都同意。这个每年产值 120 亿英镑的行业与许多人密切合作，将成人情感和欲望的操纵变成了一种艺术形式——通常是字面上的艺术形式。它还不断开发新的方法来说服我们的孩子渴望物质财富，并且由于广告的病毒效应，他们只需要感染少数人就可以覆盖大多数人。广告和营销可以为儿童提供有用的目的。营销可以帮助儿童作为消费者进行社交，向他们介绍产品，并帮助他们在成年后形成独特的身份",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-5",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Then, should we ban all advertising aimed at young children? I say yes.",
+      "sourceHash": "469adfa04a4799a821d13d4c9f2e98384a3e17f7004e3c1052e568885b6ed70d",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "那么，我们是否应该禁止所有针对幼儿的广告呢？我说是的。",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-6",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Of course there’ll be plenty of objections to an outright ban on advertising to the under-11s. There’ll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products.",
+      "sourceHash": "825a4158cb77e1ee811603d3717f1fd13ef311f5248143e19952869e95e93615",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "当然，对于彻底禁止向 11 岁以下儿童投放广告，会有很多人反对。会有人认为这侵犯了言论自由，侵犯了企业对小孩子进行洗脑以要求其产品的权利。",
+      "source": {
+        "blockIds": [
+          "b-5-5"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-7",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they’re old enough to make their own decisions. And though advertising is only part of an all-pervasive (无处不在的) marketing culture we need to make a start somewhere. Let’s ban all advertising targeting children of primary school age and younger now.",
+      "sourceHash": "e07c710b144854381b2078e8033f7fbb86cfdd6e99c34b718a1690626f498ed7",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "大多数父母讨厌广告对他们的孩子造成的影响，但我们确实有能力结束广告，让我们的孩子在成长过程中摆脱消费主义的许多压力，直到他们长大到可以自己做决定。尽管广告只是无处不在的营销文化的一部分，但我们需要从某个地方开始。我们现在就禁止所有针对小学及以下儿童的广告。",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46. Which group of people does the author say has almost unrestricted access to children?",
+      "sourceHash": "adc65f3f28e6a1ffbaf5d03011393c92509b4403aa9a0a078b294861ccaf68da",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 作者认为哪些人群可以几乎不受限制地接触儿童？",
+      "source": {
+        "blockIds": [
+          "b-5-7"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-10",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What kind of people should we enable children to become according to the author?",
+      "sourceHash": "3ed239a54fd22bef2d466dc609e2b99a7ce51cfac0673549c70ebee4486d2718",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47.作者认为我们应该让孩子成为什么样的人？",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-12",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. Many child development experts and educators call attention to research that suggests ____",
+      "sourceHash": "28ed07b0f53a09fd8d5fed703e6976fb23f680e627b4978841dbe70991ba6d27",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 许多儿童发展专家和教育工作者呼吁关注表明____的研究",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-5-14",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What does the author imply about the impact of advertising?",
+      "sourceHash": "9c7abf07ac4bdbbec4145c8d184fef49ae289e0036a026100b679b29efcb1b7f",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-5-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 作者对广告的影响有何暗示？",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-2",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What is the opponents’ argument against a complete ban on advertising to young children?",
+      "sourceHash": "5cf3407d1bc6cd1511ce4329d4fbef3230c6f7c877c002789bb1cf0553bd86ca",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 反对者反对完全禁止向幼儿做广告的论点是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-2"
+        ],
+        "reflowBlockIds": [
+          "b-6-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-5",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-6",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings. But it’s on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used “non-traditional” monitoring techniques on staff last year.",
+      "sourceHash": "c650e3b650b88ea1940146d8a02c7492966f7708f5cb9201e7197e8e463db616",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "许多人反对工作场所监视，因为它具有固有的非人性效应以及它带来的无情压力。但随着企业希望通过提高员工的生产力来提高效率，这种现象在世界范围内呈上升趋势。去年，年收入超过 7.5 亿美元的公司中有一半以上对员工使用了“非传统”监控技术。",
+      "source": {
+        "blockIds": [
+          "b-6-6"
+        ],
+        "reflowBlockIds": [
+          "b-6-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-7",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather “data exhaust” left by employees’ email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.",
+      "sourceHash": "140aa1b23da1b1284f163e1db85a5bd0d0d2a48e45bb72e53bc29c9ddf8b8be9",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "监控员工绩效使公司能够评估员工的表现和互动方式，这对公司和员工本身都有好处。越来越多的分析公司提供这项服务。他们收集员工电子邮件和即时通讯应用程序留下的“数据废气”，并使用配备射频识别设备和麦克风的名牌。这些可以检查您说话的时间、音量和语气，即使您不主导对话。虽然这听起来可能具有侵犯性，但支持者认为，它还可以保护员工免受欺凌和性骚扰。",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+      "sourceHash": "e15f97b857a54070b0211154535ea82879066a5d68314f7d9c829230687e9186",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "其中一些数据分析可能会产生意想不到的结果。例如，我们发现，坐在 12 人餐桌旁的人往往会比经常坐在 4 人餐桌旁的人进行互动、更多地分享想法，并且表现更好，如果没有这样的数据分析，这一事实可能不会被发现。",
+      "source": {
+        "blockIds": [
+          "b-6-8"
+        ],
+        "reflowBlockIds": [
+          "b-6-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-9",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular “chipping parties”, where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices.",
+      "sourceHash": "4b3ab23ccc4140b089c1ca77d64ffc515b2b0cd00f3ada7e71048884ed315542",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在过去的几年里，斯德哥尔摩一家名为 Epicenter 的联合办公空间走得更远，举办了颇受欢迎的“芯片派对”，人们可以在手中植入微芯片。他们可以使用植入物进入电子控制门，或监测打字速度与心率的关系。植入芯片可能看起来很极端，但从身份证和生物识别技术到此类设备，这只是相对较小的一步。",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-10",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that’s when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+      "sourceHash": "6dfde8f0ae61ece293d796a04d5ba2e6599ef335c598d927ea31c1529e323522",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "只要此类计划是自愿的，就可能会有越来越多的以便利为导向的用途，以便大量工人会选择插入芯片。但如果植入芯片被用来减少闲暇时间或休息时间，这可能会被证明是有害的。如果监控工具剥夺了自主权，那就是它们最不受欢迎的时候。很大程度上取决于如何传达此类监控举措，这可以防止可能发生的叛乱。",
+      "source": {
+        "blockIds": [
+          "b-6-10"
+        ],
+        "reflowBlockIds": [
+          "b-6-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-6-11",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "If bosses don’t communicate effectively, employees assume the worst. But if they’re open about the information they’re collecting and what they’re doing with it, research suggests 46% of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties.",
+      "sourceHash": "dc3da04ccc19376a32363dcf0a5c53cc8919c3d8e44508f6750dfe70f611c3e9",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-6-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如果老板不能有效沟通，员工就会做最坏的打算。但研究表明，如果他们对所收集的信息以及利用这些信息所做的事情持开放态度，46% 的员工普遍对此表示同意。尽管许多此类监测计划使用匿名数据并且参与是自愿的，但许多工作人员仍然持怀疑态度，担心他们的公民自由受到侵蚀。",
+      "source": {
+        "blockIds": [
+          "b-6-11"
+        ],
+        "reflowBlockIds": [
+          "b-6-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-1",
+      "paperId": "cet6:2023-06-03",
+      "kind": "reading",
+      "sourceText": "So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive.",
+      "sourceHash": "4d4c54c7f6399b837e5a3ae61ad71fedf639e1c5362ac6ee37b5bb6e9b68c263",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "因此，工作场所监控可以增强员工的能力，对希望提高效率和利润的公司也很有用。但如果实施方式错误，它也可能成为一种不受欢迎的压迫工具，从而适得其反。",
+      "source": {
+        "blockIds": [
+          "b-7-1"
+        ],
+        "reflowBlockIds": [
+          "b-7-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-2",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51. Why are many people opposed to monitoring employee performance?",
+      "sourceHash": "da6b8144cb876056a261005987df067504d53b67753d558df6804d10f5abe1e4",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 为什么很多人反对监控员工绩效？",
+      "source": {
+        "blockIds": [
+          "b-7-2"
+        ],
+        "reflowBlockIds": [
+          "b-7-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-4",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What is the supporters’ argument for workplace surveillance?",
+      "sourceHash": "56fcb8907e41d9ecc5dcae087573d7551d48ce7a7f6a2051520d65ffb383bcae",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 支持者对工作场所监视的论点是什么？",
+      "source": {
+        "blockIds": [
+          "b-7-4"
+        ],
+        "reflowBlockIds": [
+          "b-7-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-6",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What does the author want to show by the example of different numbers of people interacting at lunch tables?",
+      "sourceHash": "64c198dcf5a3d81ad7b7dd613980a73a047a1920214361cecf20ec38029fafbe",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 作者想通过不同数量的人在午餐桌上互动的例子来说明什么？",
+      "source": {
+        "blockIds": [
+          "b-7-6"
+        ],
+        "reflowBlockIds": [
+          "b-7-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-8",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What does much of the positive effect of monitoring initiatives depend on?",
+      "sourceHash": "d213770779fdb577c5ad9d934f817041989474ffbf06bb8c0ed0ea78b9d71404",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. 监测举措的积极效果在很大程度上取决于什么？",
+      "source": {
+        "blockIds": [
+          "b-7-8"
+        ],
+        "reflowBlockIds": [
+          "b-7-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-10",
+      "paperId": "cet6:2023-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What concern do monitoring initiatives cause among many staffers?",
+      "sourceHash": "60b4f90fe6d70bc93f2646076b2d146fc924db6c68f51cc0aec95a7d598a2327",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 监控举措引起了许多员工的哪些担忧？",
+      "source": {
+        "blockIds": [
+          "b-7-10"
+        ],
+        "reflowBlockIds": [
+          "b-7-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2023-06-03:p:b-7-13",
+      "paperId": "cet6:2023-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2023-06-03:b-7-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-7-13"
+        ],
+        "reflowBlockIds": [
+          "b-7-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "7"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2023-06-03.json",
+        "pdfSha256": "7647e045873dc9c4514cd6778354ad8cafb6f93c0967cbaf9f6f3640e5c9a4c4",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2023-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2023-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2023-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-46-1",
+      "optionId": "cet6:2023-06-03:q-46-1:A",
+      "sourceText": "Advertisers.",
+      "sourceHash": "31e226fe4a183f10143f3ad35a68d26977447f571b3ed16e1863b5d5d3b3725f",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Advertisers.",
+      "translationEligible": true,
+      "translationZh": "广告商。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-46-1",
+      "optionId": "cet6:2023-06-03:q-46-1:B",
+      "sourceText": "Carers.",
+      "sourceHash": "73708d2cdc284ab8288beae55d4b06385b9baded73f2fa05262c21a99485e883",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Carers.",
+      "translationEligible": true,
+      "translationZh": "照顾者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-46-1",
+      "optionId": "cet6:2023-06-03:q-46-1:C",
+      "sourceText": "Teachers.",
+      "sourceHash": "0e47e44e991660b01a78e456d3d74ea49005a15597122a54caa9c42e742ad47b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Teachers.",
+      "translationEligible": true,
+      "translationZh": "老师们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-46-1",
+      "optionId": "cet6:2023-06-03:q-46-1:D",
+      "sourceText": "Doctors.",
+      "sourceHash": "6d87fe7881eefe40b163295b5a52af3af21cd1395ae1ec72a59f5349f13612ae",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-8"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Doctors.",
+      "translationEligible": true,
+      "translationZh": "医生们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-47-1",
+      "optionId": "cet6:2023-06-03:q-47-1:A",
+      "sourceText": "Those who look to fame and wealth for external and ultimate validation.",
+      "sourceHash": "73c44b88ff43743d65d1a7bba5e752e0aef0e12b90915b4b58de819feafef7f0",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Those who look to fame and wealth for external and ultimate validation.",
+      "translationEligible": true,
+      "translationZh": "那些寻求名誉和财富来寻求外部和最终验证的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-47-1",
+      "optionId": "cet6:2023-06-03:q-47-1:B",
+      "sourceText": "Those who value themselves because of their contribution to society.",
+      "sourceHash": "aa9b1c7e07e4e3d9ab4081459424892c2f92b6ce4ddad061a301605c3b59e6be",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Those who value themselves because of their contribution to society.",
+      "translationEligible": true,
+      "translationZh": "那些因为对社会的贡献而重视自己的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-47-1",
+      "optionId": "cet6:2023-06-03:q-47-1:C",
+      "sourceText": "Those who associate self-worth with the ability to handle money.",
+      "sourceHash": "4d1a1c7f19d8346f5bdb46b279cf6de5eff9c28d03783589d3fc0f86d2318f74",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Those who associate self-worth with the ability to handle money.",
+      "translationEligible": true,
+      "translationZh": "那些将自我价值与处理金钱的能力联系在一起的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-47-1",
+      "optionId": "cet6:2023-06-03:q-47-1:D",
+      "sourceText": "Those who have developed a proper sense of their own identity.",
+      "sourceHash": "86f5f41e01afeda2c4931929cd08c29d60a299473002e71f3d88316787857b20",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-10"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Those who have developed a proper sense of their own identity.",
+      "translationEligible": true,
+      "translationZh": "那些对自己的身份有了正确认识的人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-48-1",
+      "optionId": "cet6:2023-06-03:q-48-1:A",
+      "sourceText": "life-long consumerism is causing more and more cases of psychological problems.",
+      "sourceHash": "2c6a20b9f56ee1dc299524d7d816d977999dca689de99a139f2eb9b72a32115b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "life-long consumerism is causing more and more cases of psychological problems.",
+      "translationEligible": true,
+      "translationZh": "终身消费主义正在导致越来越多的心理问题。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-48-1",
+      "optionId": "cet6:2023-06-03:q-48-1:B",
+      "sourceText": "increasing commercialization of education is eroding many children’s self-esteem.",
+      "sourceHash": "ae827053548f28a19197d124e19340cab2779b2cf51fadbaef1e9a2a96cd061f",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "increasing commercialization of education is eroding many children’s self-esteem.",
+      "translationEligible": true,
+      "translationZh": "教育的日益商业化正在侵蚀许多儿童的自尊。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-48-1",
+      "optionId": "cet6:2023-06-03:q-48-1:C",
+      "sourceText": "the growing desire for wealth is contributing to a rising rate of depression.",
+      "sourceHash": "c3473646f9bd0225bf13502684a03e1033317293c6b236cd866c0b9902eb196b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "the growing desire for wealth is contributing to a rising rate of depression.",
+      "translationEligible": true,
+      "translationZh": "对财富的渴望日益增长导致抑郁症发病率上升。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-48-1",
+      "optionId": "cet6:2023-06-03:q-48-1:D",
+      "sourceText": "the craving for purchasing material things is nurtured throughout one’s life.",
+      "sourceHash": "039ab7bad6bfa53d6acae8a07bf66ce7513b82cac44c0ad761396d66250a4ba4",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-12"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "the craving for purchasing material things is nurtured throughout one’s life.",
+      "translationEligible": true,
+      "translationZh": "对购买物质事物的渴望是在人的一生中不断培养的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-49-1",
+      "optionId": "cet6:2023-06-03:q-49-1:A",
+      "sourceText": "It is actually infectious to many rather than a few.",
+      "sourceHash": "2fbc8df026ca79ef14841466df5543493fed6205ce8c01900f1066ca3c1592c1",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-5-14"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-5-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is actually infectious to many rather than a few.",
+      "translationEligible": true,
+      "translationZh": "它实际上对许多人而不是少数人具有传染性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-49-1",
+      "optionId": "cet6:2023-06-03:q-49-1:B",
+      "sourceText": "It is rooted in our desire for material possessions.",
+      "sourceHash": "0d56669a426723b712bd60bcc4581df86ae9db626454e934f15bf0c65d97e42b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is rooted in our desire for material possessions.",
+      "translationEligible": true,
+      "translationZh": "它植根于我们对物质财富的渴望。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-49-1",
+      "optionId": "cet6:2023-06-03:q-49-1:C",
+      "sourceText": "It is comparable to that of virus.",
+      "sourceHash": "8d567000800914197cac53b8fec718d8f0baec75c33227d20009002a40468956",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is comparable to that of virus.",
+      "translationEligible": true,
+      "translationZh": "它可以与病毒相媲美。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-49-1",
+      "optionId": "cet6:2023-06-03:q-49-1:D",
+      "sourceText": "It is literally limited to children.",
+      "sourceHash": "97a8622c025677a23f6a64ba74f338a2cb199480ec5d46fe76323a688043bf67",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is literally limited to children.",
+      "translationEligible": true,
+      "translationZh": "它实际上仅限于儿童。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-50-1",
+      "optionId": "cet6:2023-06-03:q-50-1:A",
+      "sourceText": "It would deprive them of the chance to learn about products.",
+      "sourceHash": "93a3ea73b41af591c5bafb174d1564f2105497129eabbd648677384d10bbd6d8",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It would deprive them of the chance to learn about products.",
+      "translationEligible": true,
+      "translationZh": "这将剥夺他们了解产品的机会。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-50-1",
+      "optionId": "cet6:2023-06-03:q-50-1:B",
+      "sourceText": "It would render them unable to carve out unique identities.",
+      "sourceHash": "0cbea9eea1678e58d7f132ed7a2a6fdf6381c2d0dcbed1271898f1279b259c63",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It would render them unable to carve out unique identities.",
+      "translationEligible": true,
+      "translationZh": "这将使他们无法塑造独特的身份。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-50-1",
+      "optionId": "cet6:2023-06-03:q-50-1:C",
+      "sourceText": "It would breach their freedom as would-be consumers.",
+      "sourceHash": "bc0a8812c97ae0f0c90f7beda8fb595117126a4ff7e2ca4fcee69946de854cc1",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It would breach their freedom as would-be consumers.",
+      "translationEligible": true,
+      "translationZh": "这将侵犯他们作为潜在消费者的自由。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-50-1",
+      "optionId": "cet6:2023-06-03:q-50-1:D",
+      "sourceText": "It would violate the rights endowed upon advertisers.",
+      "sourceHash": "0b7ff5f5a3c3e11ae824ecaa173f9e09c3e9836ef541b527e4388f7147f29b2e",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-6-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-6-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It would violate the rights endowed upon advertisers.",
+      "translationEligible": true,
+      "translationZh": "这将侵犯广告商所享有的权利。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-51-1",
+      "optionId": "cet6:2023-06-03:q-51-1:A",
+      "sourceText": "It puts workers under constant pressure.",
+      "sourceHash": "54fcd228cfdc8122d5f8e5d6de95bc7222e68586a00dd13adc77485a3f36a7ef",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It puts workers under constant pressure.",
+      "translationEligible": true,
+      "translationZh": "它使工人承受持续的压力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-51-1",
+      "optionId": "cet6:2023-06-03:q-51-1:B",
+      "sourceText": "It is universally deemed anti-human by nature.",
+      "sourceHash": "6856dce1dd677130519c966f200fb3e05e03d53c408c8f2f612dcd2dec517d7b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is universally deemed anti-human by nature.",
+      "translationEligible": true,
+      "translationZh": "它本质上被普遍认为是反人类的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-51-1",
+      "optionId": "cet6:2023-06-03:q-51-1:C",
+      "sourceText": "It does both mental and physical harm to employees monitored.",
+      "sourceHash": "50c7792fe87ecac9f5095b73233229888b7c233d076cf66fe8f5f5f5d3ee4110",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It does both mental and physical harm to employees monitored.",
+      "translationEligible": true,
+      "translationZh": "它对受监控的员工造成精神和身体伤害。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-51-1",
+      "optionId": "cet6:2023-06-03:q-51-1:D",
+      "sourceText": "It enables firms to squeeze maximal productivity from employees.",
+      "sourceHash": "8fbeb33dcada227f2e0f55a556a01f348308650e051cb257d746edcf66918a43",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-3"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It enables firms to squeeze maximal productivity from employees.",
+      "translationEligible": true,
+      "translationZh": "它使公司能够最大限度地提高员工的生产力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-52-1",
+      "optionId": "cet6:2023-06-03:q-52-1:A",
+      "sourceText": "It enables employees to refrain from dominating conversations.",
+      "sourceHash": "36715856fa528edbba29c23d8604d889c4f1067c9235e660f16a0e896618cdef",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It enables employees to refrain from dominating conversations.",
+      "translationEligible": true,
+      "translationZh": "它使员工能够避免主导谈话。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-52-1",
+      "optionId": "cet6:2023-06-03:q-52-1:B",
+      "sourceText": "It enhances employees’ identification with firms they work in.",
+      "sourceHash": "b8e748c08f33f8be0e01ee4a59233b3f2392f7789b37095bb9b2cb441e269a2b",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It enhances employees’ identification with firms they work in.",
+      "translationEligible": true,
+      "translationZh": "它增强了员工对他们所工作的公司的认同。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-52-1",
+      "optionId": "cet6:2023-06-03:q-52-1:C",
+      "sourceText": "It can alert employees to intrusion into their privacy.",
+      "sourceHash": "2c3c603e404cc20e4775643bf97206627a81381a6111c8ae8b0ec6c73a5e620c",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It can alert employees to intrusion into their privacy.",
+      "translationEligible": true,
+      "translationZh": "它可以提醒员工注意其隐私受到侵犯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-52-1",
+      "optionId": "cet6:2023-06-03:q-52-1:D",
+      "sourceText": "It can protect employees against aggressive behavior.",
+      "sourceHash": "db038e2e738bbb25c8e739119793283d53b4d0f025656ad9f0d34bb7d52e6266",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-5"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It can protect employees against aggressive behavior.",
+      "translationEligible": true,
+      "translationZh": "它可以保护员工免受攻击行为的侵害。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-53-1",
+      "optionId": "cet6:2023-06-03:q-53-1:A",
+      "sourceText": "Data analysis is key to the successful implementation of workplace surveillance.",
+      "sourceHash": "3a82198db4ddae68aa4fe9c26c19927ab51729fd4a914c85b3ff3c5ea1e494d3",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Data analysis is key to the successful implementation of workplace surveillance.",
+      "translationEligible": true,
+      "translationZh": "数据分析是成功实施工作场所监控的关键。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-53-1",
+      "optionId": "cet6:2023-06-03:q-53-1:B",
+      "sourceText": "Analyzing data gathered from workers can yield something unexpected.",
+      "sourceHash": "7ccc1f30839688c783eb17634f5f98349e17d0be76ab98f5f067d1043a602b2f",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Analyzing data gathered from workers can yield something unexpected.",
+      "translationEligible": true,
+      "translationZh": "分析从工人那里收集的数据可能会产生意想不到的结果。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-53-1",
+      "optionId": "cet6:2023-06-03:q-53-1:C",
+      "sourceText": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+      "sourceHash": "6a6e6a6ef816f7dde7a375820eeb0844fd0273dab04215e6a445cbe390646925",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+      "translationEligible": true,
+      "translationZh": "更多的同事坐在午餐桌上往往会促进互动和想法分享。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-53-1",
+      "optionId": "cet6:2023-06-03:q-53-1:D",
+      "sourceText": "It is hard to decide on how many people to sit at a lunch table without data analysis.",
+      "sourceHash": "b75acc85aa260c652de5f2ea7856f9ef2a91af6eed6a7190b977b267c26c2949",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-7"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is hard to decide on how many people to sit at a lunch table without data analysis.",
+      "translationEligible": true,
+      "translationZh": "如果没有数据分析，很难决定午餐桌上有多少人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-54-1",
+      "optionId": "cet6:2023-06-03:q-54-1:A",
+      "sourceText": "How frequently employees are to be monitored.",
+      "sourceHash": "0b7494bc1a923cf411a657b09c0b664d35c54a8083daa92c42e65565cf98fdfb",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "How frequently employees are to be monitored.",
+      "translationEligible": true,
+      "translationZh": "监控员工的频率。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-54-1",
+      "optionId": "cet6:2023-06-03:q-54-1:B",
+      "sourceText": "What specific personal information is being excluded.",
+      "sourceHash": "d794bc3de442ea1afae0ca22e88855f1a1b7fc93c27623983e244b933ef84109",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "What specific personal information is being excluded.",
+      "translationEligible": true,
+      "translationZh": "哪些具体个人信息被排除。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-54-1",
+      "optionId": "cet6:2023-06-03:q-54-1:C",
+      "sourceText": "What steps are taken to minimize their detrimental impact.",
+      "sourceHash": "c80f4eaf079ecdb41e4b19b786782430b60758d4e03c7e32f5352b170b8c1fcf",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "What steps are taken to minimize their detrimental impact.",
+      "translationEligible": true,
+      "translationZh": "采取哪些措施来尽量减少其有害影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-54-1",
+      "optionId": "cet6:2023-06-03:q-54-1:D",
+      "sourceText": "How well bosses make known their purpose of monitoring.",
+      "sourceHash": "d5775e12781340061cb0816e43a9bc3e443fce7dfce9c58feec909f678ee602c",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-9"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "How well bosses make known their purpose of monitoring.",
+      "translationEligible": true,
+      "translationZh": "老板们如何清楚地表达他们的监控目的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-55-1",
+      "optionId": "cet6:2023-06-03:q-55-1:A",
+      "sourceText": "They may empower employers excessively.",
+      "sourceHash": "485607df54d5dbcafd11cb17a1eddbfc403b41407cb88ef4ee08573ac792b3d4",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-11"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They may empower employers excessively.",
+      "translationEligible": true,
+      "translationZh": "他们可能会过度授权雇主。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-55-1",
+      "optionId": "cet6:2023-06-03:q-55-1:B",
+      "sourceText": "They may erode the workplace environment.",
+      "sourceHash": "6a4b700a291586f2afd0090f7142a883450510aaf76443739a7bd5dc41452e70",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-11"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They may erode the workplace environment.",
+      "translationEligible": true,
+      "translationZh": "它们可能会侵蚀工作场所环境。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-55-1",
+      "optionId": "cet6:2023-06-03:q-55-1:C",
+      "sourceText": "They may infringe upon staffers’ entitled freedom.",
+      "sourceHash": "28efeae468a05987df0e57b98a9f2396a352ae4e158a0ba01c7df844f6ed37b6",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-11"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They may infringe upon staffers’ entitled freedom.",
+      "translationEligible": true,
+      "translationZh": "他们可能会侵犯员工应有的自由。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-55-1",
+      "optionId": "cet6:2023-06-03:q-55-1:D",
+      "sourceText": "They may become counterproductive in the long run.",
+      "sourceHash": "a09786d73ef41d802ea984a8bf869f89c57a30aa30c6ec08d65a871fe7e2cd3e",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-7-11"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-7-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They may become counterproductive in the long run.",
+      "translationEligible": true,
+      "translationZh": "从长远来看，它们可能会适得其反。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:A",
+      "sourceText": "attributes",
+      "sourceHash": "f1b4db36f908e557e2321176b6d345f5a700d4fba979381605327fdc1c8adbf7",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "attributes",
+      "translationEligible": true,
+      "translationZh": "属性",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:B",
+      "sourceText": "comprised",
+      "sourceHash": "68ad14065c55d333c67a6aea204850e720da77cf50c3d1a0c6c0e0f8a578f139",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "comprised",
+      "translationEligible": true,
+      "translationZh": "包括",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:C",
+      "sourceText": "conceded",
+      "sourceHash": "8ab27b2abbca041fd4406afa6697799548e7118019cf283fe34ec1c9aa445740",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "conceded",
+      "translationEligible": true,
+      "translationZh": "失球",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:D",
+      "sourceText": "conservation",
+      "sourceHash": "f4873b35ecfe7c16121c3050e890f12bd9867d68bcdb308282dbc91516e67754",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "conservation",
+      "translationEligible": true,
+      "translationZh": "保护",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:E",
+      "sourceText": "diminishing",
+      "sourceHash": "bb2c39e25b17994eeb0e0ddd1b687c6c0bfee795fe20c12ac242292ecb94adeb",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "diminishing",
+      "translationEligible": true,
+      "translationZh": "递减",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:F",
+      "sourceText": "far",
+      "sourceHash": "512eea46ceb3921dff4363c7069d89d4964d1d9fccaa0f411851a7aa60a5c868",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "far",
+      "translationEligible": true,
+      "translationZh": "远",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:G",
+      "sourceText": "inclined",
+      "sourceHash": "a9382f7e93be5b15ba161dcbff26d40dfb7d9546801fbe19c392940da189f9c3",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "inclined",
+      "translationEligible": true,
+      "translationZh": "倾斜的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:H",
+      "sourceText": "indulging",
+      "sourceHash": "8cbc8c737f3fd654c741863fa1839d04b99faa9497fb1378dfe25eb2cfcbd81a",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "indulging",
+      "translationEligible": true,
+      "translationZh": "沉迷",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:I",
+      "sourceText": "innumerable",
+      "sourceHash": "977f457d5fe5e02ad97335c3e4028fc2f5fe7ffa0400c727afdd7d42ecc4d194",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "innumerable",
+      "translationEligible": true,
+      "translationZh": "无数的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:J",
+      "sourceText": "mortality",
+      "sourceHash": "2b18339675891662b2900b52b4b00c95943a316eb48b626dce57e2a4af7d3523",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "mortality",
+      "translationEligible": true,
+      "translationZh": "死亡率",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:K",
+      "sourceText": "odds",
+      "sourceHash": "1fd5faa9b5cf91c2156a98a00334f063f87954b7f6b3404fdcb7a1d86e6bd8cd",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "odds",
+      "translationEligible": true,
+      "translationZh": "赔率",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:L",
+      "sourceText": "plights",
+      "sourceHash": "fc81775c3a6f4bf81846030dfbf8598ee3eceb135181ffec0285316d2ec14636",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "plights",
+      "translationEligible": true,
+      "translationZh": "困境",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:M",
+      "sourceText": "regulatory",
+      "sourceHash": "fa3069bd423c0ab3790b8fe3ae6d9ef0da987e797d1de20591a5036803ea3275",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "regulatory",
+      "translationEligible": true,
+      "translationZh": "监管",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:N",
+      "sourceText": "still",
+      "sourceHash": "94e8566ddfc123edf115fcbb35a16973409d95e05e3deb7dc4a15a7af325a885",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "still",
+      "translationEligible": true,
+      "translationZh": "仍然",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2023-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2023-06-03",
+      "questionId": "cet6:2023-06-03:q-26-1",
+      "optionId": "cet6:2023-06-03:word-bank:O",
+      "sourceText": "unmatchable",
+      "sourceHash": "0a2eb73e83bba0ed0cc96b424500a569a49da7662ca0d6e8770cf7bfb0b511e4",
+      "sourceBlockIds": [
+        "cet6:2023-06-03:b-2-1"
+      ],
+      "reflowBlockId": "cet6:2023-06-03:b-2-1",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "unmatchable",
+      "translationEligible": true,
+      "translationZh": "无与伦比的",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-06-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2023-06-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-4",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2023-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-16",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-17",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2023-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-4",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-5",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-5-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-5-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-5-14"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-6-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-6",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-7",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-6-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-6-11"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2023-06-03:p:b-7-1"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-7-2"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-7-4"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-7-6"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-7-8"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2023-06-03:p:b-7-10"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2023-06-03:p:b-7-13"
+    },
+    {
+      "sourceBlockId": "cet6:2023-06-03:b-7-14",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 60
+  },
+  "reasonCounts": {
+    "cloze": 3,
+    "cross_page_continuation": 3,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 11,
+    "reading_prose": 15,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 3,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 11,
+    "question_prompt": 20,
+    "reading": 15
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

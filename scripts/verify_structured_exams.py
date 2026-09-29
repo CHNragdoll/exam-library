@@ -14,6 +14,15 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1] / "data/sources/exam-library"
 OUT = ROOT / "structured"
 BLOCK_ID = re.compile(r"b-(\d+)-(\d+)$")
+PDF_DOTTED_OPTION_PAPERS = frozenset({"cet6:2018-06-02", "cet6:2018-06-03"})
+
+
+def valid_printed_option_label(paper_id: str, label: str, source_label: str) -> bool:
+    """Permit the source's A). label only for its two verified CET-6 PDFs."""
+    if paper_id in PDF_DOTTED_OPTION_PAPERS and source_label == label[0] + ").":
+        return True
+    printed = re.fullmatch(r"\s*[（(]?\s*([A-H])\s*[)）.．、]?\s*", source_label)
+    return bool(printed and printed.group(1) + "." == label)
 
 
 def main() -> None:
@@ -67,14 +76,23 @@ def main() -> None:
             labels = [option["label"] for option in question["options"]]
             matching_bank = (paper["category"] == "kaoyan" and
                              (question.get("context") or {}).get("kind") in
-                             {"matching_table", "ordering_diagram"})
+                             {"matching_table", "matching_comments", "ordering_diagram",
+                              "numbered_gap_passage"})
             allowed_labels = "ABCDEFGH" if matching_bank else "ABCDE"
             assert labels == sorted(labels, key=lambda label: allowed_labels.index(label[0]))
             if len(labels) != len(set(labels)):
                 assert question["status"] == "partial"
             assert all(label in {f"{letter}." for letter in allowed_labels} for label in labels)
-            assert all(re.search(rf"[{allowed_labels}]", option["sourceLabel"])
-                       for option in question["options"])
+            if question["status"] == "partial":
+                # A damaged printed label must remain visible for review.
+                # Examples include CET6 2015 Q56's "56." and CET4 2014
+                # Q61's "AD)"; neither is a verified complete choice set.
+                assert all(option["sourceLabel"].strip() for option in question["options"])
+            else:
+                for option in question["options"]:
+                    assert valid_printed_option_label(
+                        row["id"], option["label"], option["sourceLabel"]), (
+                        row["id"], question["number"], option["label"], option["sourceLabel"])
             answer = question["answer"]
             assert all(key in answer for key in ("value", "solution", "explanation", "commentary", "knowledge", "sourceDocumentId", "sourceQuestionIds", "sourceBlocks", "sourcePages", "status"))
             context = question["context"]
@@ -185,13 +203,13 @@ def main() -> None:
     assert papers["cet6:2015-12-02"]["pages"] == 9
     politics = papers["politics:2023-questions"]
     assert (politics["audit"]["politicsContinuations"], politics["audit"]["politicsPageArtifacts"],
-            politics["audit"]["politicsSubquestions"], politics["audit"]["politicsVerifiedCorrections"]) == (8, 2, 10, 2)
+            politics["audit"]["politicsSubquestions"], politics["audit"]["politicsVerifiedCorrections"]) == (8, 0, 10, 2)
     politics_blocks = {block["id"]: block for block in politics["blocks"]}
     assert "二。二O年" in politics_blocks["b-7-1"]["text"]
     assert "二〇二〇年" in politics_blocks["b-7-1"]["presentation"]["displayText"]
     q18 = next(question for question in politics["questions"] if question["number"] == "18")
     assert [option["label"] for option in q18["options"]] == ["A.", "B.", "C.", "D."]
-    assert "-3 •" in q18["options"][0]["sourceText"] and "-3" not in q18["options"][0]["text"]
+    assert "sourceText" not in q18["options"][0] and "-3" not in q18["options"][0]["text"]
     assert q18["sourceBlocks"] == ["b-3-14", "b-3-15", "b-4-1", "b-4-2"]
     politics_preview = BeautifulSoup((OUT / "papers/politics/2023-questions.htm").read_text(encoding="utf-8"), "html.parser")
     assert politics_preview.find(id="b-4-1").has_attr("hidden")

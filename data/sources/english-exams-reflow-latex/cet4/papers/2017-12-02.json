@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2017",
@@ -1486,20 +1486,7 @@
               ]
             },
             {
-              "text": " In this section, you will hear three passages. At the end of each passage, you will",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), D). Then mark the corresponding letter on",
+              "text": " In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), D). Then mark the corresponding letter on",
               "flags": [
                 false,
                 false,
@@ -1726,7 +1713,7 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "Both fought in World War",
+                  "text": "Both fought in World War I.",
                   "flags": [
                     false,
                     false,
@@ -1760,10 +1747,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "label": "I",
-              "runs": []
             }
           ]
         },
@@ -2896,7 +2879,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "The Health Benefits of Knitting",
@@ -3372,23 +3355,10 @@
           "type": "options",
           "items": [
             {
-              "label": "C",
-              "runs": [
-                {
-                  "text": "Park of the University of Texas at Dallas and colleagues",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
               "label": "N",
               "runs": [
                 {
-                  "text": "In support of that suggestion, a 2014 study by Denise",
+                  "text": "In support of that suggestion, a 2014 study by Denise C. Park of the University of Texas at Dallas and colleagues",
                   "flags": [
                     false,
                     false,

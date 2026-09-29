@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2015 年12 月大学英语六级考试真题(一)",
@@ -3238,15 +3238,12 @@
                 false,
                 false
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "First-Generation College-Goers",
               "flags": [
@@ -3494,33 +3491,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Jones became involved with a college-access program through Princeton University in high school. Now, she attributes",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "much of her understanding of college to that：“But once I got to campus, it was a completely different ball game that no one",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "really prepared me for.”",
+              "text": "Jones became involved with a college-access program through Princeton University in high school. Now, she attributes much of her understanding of college to that：“But once I got to campus, it was a completely different ball game that no one really prepared me for.”",
               "flags": [
                 false,
                 false,
@@ -3701,12 +3672,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "going to an elite university.",
               "flags": [
@@ -4050,7 +4024,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "Still, some analysts say that there’s a role for doctors to play in cost analysis because not many others are doing so. “In some ways,” said Dr. Daniel Sulmasy, “it represents a failure of wider society to take up the issue.” 注意：此部分试题请在答题卡2 上作答。 What do some most influential medical groups recommend doctors do?",
+              "text": "Still, some analysts say that there’s a role for doctors to play in cost analysis because not many others are doing so. “In some ways,” said Dr. Daniel Sulmasy, “it represents a failure of wider society to take up the issue.” 注意：此部分试题请在答题卡2 上作答。",
               "flags": [
                 false,
                 false,
@@ -4063,7 +4037,7 @@
           "type": "question",
           "runs": [
             {
-              "text": "56. Reflect on the responsibilities they are supposed to take.",
+              "text": "56. What do some most influential medical groups recommend doctors do?",
               "flags": [
                 false,
                 false,
@@ -4077,9 +4051,10 @@
           "items": [
             {
               "label": "A",
+              "source_label": "56.",
               "runs": [
                 {
-                  "text": "Pay more attention to the effectiveness of their treatments.",
+                  "text": "Reflect on the responsibilities they are supposed to take.",
                   "flags": [
                     false,
                     false,
@@ -4092,6 +4067,20 @@
               "label": "B",
               "runs": [
                 {
+                  "text": "Pay more attention to the effectiveness of their treatments.",
+                  "flags": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              ],
+              "source_label": "A)"
+            },
+            {
+              "label": "C",
+              "runs": [
+                {
                   "text": "Take costs into account when making treatment decisions.",
                   "flags": [
                     false,
@@ -4099,10 +4088,11 @@
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "B)"
             },
             {
-              "label": "C",
+              "label": "D",
               "runs": [
                 {
                   "text": "Readjust their practice in view of the cuts in health care.",
@@ -4112,7 +4102,8 @@
                     false
                   ]
                 }
-              ]
+              ],
+              "source_label": "C)"
             }
           ]
         },

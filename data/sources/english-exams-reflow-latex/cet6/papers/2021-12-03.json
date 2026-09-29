@@ -345,15 +345,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Why facts don't change our minds",
               "flags": [
@@ -365,58 +362,10 @@
           ]
         },
         {
-          "type": "options",
-          "items": [
-            {
-              "label": "A",
-              "runs": [
-                {
-                  "text": "The economist",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "J",
-              "runs": []
-            },
-            {
-              "label": "K",
-              "runs": [
-                {
-                  "text": "Galbraith once wrote, \"Faced with a choice between changing",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "one's mind and proving there is no need to do so, almost everyone gets busy with the",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "proof.\"",
+              "text": "A) The economist J. K. Galbraith once wrote, \"Faced with a choice between changing one's mind and proving there is no need to do so, almost everyone gets busy with the proof.\"",
               "flags": [
                 false,
                 false,
@@ -529,7 +478,7 @@
               ]
             },
             {
-              "text": "( ",
+              "text": "(信徒)",
               "flags": [
                 false,
                 false,
@@ -537,15 +486,7 @@
               ]
             },
             {
-              "text": "1-t ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ",f:,l ), rather than beliefs that are most likely to be true.\"",
+              "text": ", rather than beliefs that are most likely to be true.\"",
               "flags": [
                 false,
                 false,
@@ -574,7 +515,7 @@
               ]
             },
             {
-              "text": "( ~ ",
+              "text": "(实用主义的)",
               "flags": [
                 false,
                 false,
@@ -582,15 +523,7 @@
               ]
             },
             {
-              "text": "ffl ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "_i.-;{_ a-~) (better outcomes resulting from better decisions), social (better treatment from one's peers), or some mix of the two.\"",
+              "text": " (better outcomes resulting from better decisions), social (better treatment from one's peers), or some mix of the two.\"",
               "flags": [
                 false,
                 false,
@@ -742,27 +675,17 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "talk about them.Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be believed when they are repeated. I have already pointed out that people repeat ideas to signal they are part of the same social group. But here's a crucial point most people miss: People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you're hoping people will forget- but, of course, people can't forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it. P) Let's call this phenomenon Clear 's Law of Recurrence: The number of people who",
+              "text": " ",
               "flags": [
                 false,
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "believe an idea is directly proportional to the number of times it has been repeated during the last year- even if the idea is false.",
+              "text": "talk about them.Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be believed when they are repeated. I have already pointed out that people repeat ideas to signal they are part of the same social group. But here's a crucial point most people miss: People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you're hoping people will forget- but, of course, people can't forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it. P) Let's call this phenomenon Clear 's Law of Recurrence: The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year- even if the idea is false.",
               "flags": [
                 false,
                 false,
@@ -796,12 +719,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "community.",
               "flags": [
@@ -848,12 +774,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "those dear to them.",
               "flags": [
@@ -874,12 +803,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "changing people's beliefs.",
               "flags": [
@@ -900,12 +832,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "knowing the truth.",
               "flags": [
@@ -926,12 +861,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "with them.",
               "flags": [
@@ -2195,323 +2133,10 @@
           ]
         },
         {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "-#- M J-, _t~ ¾: ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "ii}J ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~ , ;.L ~i33§ ~- 5( Jil ¾: , !!I ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "$,. ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "il:Ht at ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "$ ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "♦",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "JJ3 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "3t. ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": ":.it ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": ";f. ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "h ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "\" t 00 ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "$ ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "♦f.r. ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "eAi ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "]i 192 7",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "runs": [
             {
-              "text": "~ l0A, ~~t , *~•~-¥$-♦~•~tOOi.R~~*~~Y,~&7~¾~~~++,",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "i 1J Ji ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "1 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "i - f---RH $ ♦ift4JH~ , ,P-J:!IA ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "1 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "t 00 $ ♦~ ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "££zk, ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~ it ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "1 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "\"-RH~~ (besiege) ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "Mi,",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": ".,Aa ♦~a~\"~- ~~ tOO# ~~ $·~~ ' tOO .f. ♦~~y~~a~. -#- MJ-i~~",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "100 ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "j; ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "¾: $ ♦!E) .:bl:., A ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "h -f--\"if ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "~~ J:t at $ ♦",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
-            {
-              "text": "JJ3 ",
-              "flags": [
-                false,
-                false,
-                true
-              ]
-            },
-            {
-              "text": "3t. tt1h1t\", Jt:t 00 _:Lx .. {,:1-f. ♦1-trA.~ if~ Y",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "runs": [
-            {
-              "text": "*£.t~.",
+              "text": "井冈山地处湖南、江西两省交界处，因其辉煌的革命历史被誉为“中国革命红色摇篮1927年10月，毛泽东、朱德等老一辈革命家率领中国工农红军来到这里，开展了艰苦卓绝的斗争，创建了第一个农村革命根据地，点燃了中国革命的星星之火，开辟了“农村包围(besiege)城市，武装夺取政权”这一具有中国特色的革命道路，中国革命从这里迈向胜利。井冈山现有100多处革命旧址，成为一个“没有围墙的革命历史博物馆”，是爱国主义和革命传统教育的重要基地。",
               "flags": [
                 false,
                 false,

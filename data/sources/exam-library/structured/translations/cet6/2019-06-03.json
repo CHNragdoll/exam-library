@@ -1,0 +1,3423 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet6:2019-06-03",
+  "category": "cet6",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+  "sourcePdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+  "paragraphs": [
+    {
+      "id": "cet6:2019-06-03:p:b-1-3",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of motivation and methods in learning. You should write at least 150 words but no more than 200 words. ____________________________________________________________________________________________ ____________________________________________________________________________________________ ____________________________________________________________________________________________",
+      "sourceHash": "dc152d1648e646f41b2e3176d75b7fe134060af9327bf45f7daac471cb97d5c4",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间写一篇关于学习动机和方法的重要性的文章。你应该写至少150字但不超过200字。 ____________________________________________________________________________________________ ____________________________________________________________________________________________ ____________________________________________________________________________________________",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-8",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "sourceHash": "00787e611399f8099573a179c83e54eea4c6d49e9002923889f42aada3d041dc",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Steel is valued for its reliability, but not when it gets cold. Most forms of steel 26 become brittle (脆的) at temperatures below about -25℃unless they are mixed with other metals. Now, though, a novel type of steel has been developed that resists 27 at much lower temperatures, while retaining its strength and toughness — without the need for expensive 28 .",
+      "sourceHash": "6191ed4b781779afbe6647c5f2b2f23a168bea9a879b5b6024c5a80fa0b63101",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "钢材因其可靠性而受到重视，但当它变冷时就不那么有价值了。大多数钢材在低于 -25℃ 的温度下会突然变脆，除非它们与其他金属混合。不过，现在已经开发出一种新型钢，可以在更低的温度下抵抗断裂，同时保持其强度和韧性，而不需要昂贵的添加剂。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-10",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Steel’s fragility at low temperatures first became a major concern during the Second World War. After German U-boats torpedoed ( 用鱼雷攻击) numerous British ships, a 2,700-strong fleet of cheap-and-cheerful“Liberty ships”was introduced to replace the lost vessels, providing a lifeline for the 29 British. But the steel shells of hundreds of the ships 30 in the icy north Atlantic, and 12 broke in half and sank.",
+      "sourceHash": "b1a28d4ce8702d12a5b4c8a3a9168a85ee01108962db183847ae2f48a27aa175",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "钢材在低温下的脆性首先在第二次世界大战期间成为一个主要问题。德国U型潜艇用鱼雷攻击大量英国船只后，一支由2700人组成的廉价而欢快的“自由舰”舰队被引入以取代丢失的船只，为被围困的英国人提供了生命线。但数百艘船只的钢壳在冰冷的北大西洋中破裂，其中 12 艘破裂成两半沉没。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-11",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Brittleness remains a problem when building steel structures in cold conditions, such as oil rigs in the Arctic. So scientists have 31 to find a solution by mixing it with expensive metals such as nickel.",
+      "sourceHash": "40434a8a246bf42dee17367aa09dfb4b33d65d10a1608e19465a309c96a7342c",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在寒冷条件下建造钢结构（例如北极的石油钻井平台）时，脆性仍然是一个问题。因此，科学家们努力通过将其与镍等昂贵金属混合来寻找解决方案。",
+      "source": {
+        "blockIds": [
+          "b-1-11"
+        ],
+        "reflowBlockIds": [
+          "b-1-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-12",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Yuuji Kimura and colleagues in Japan tried a more physical 32 . Rather than adding other metals, they developed a complex mechanical process involving repeated heating and very severe mechanical deformation, known as tempforming.",
+      "sourceHash": "ead5e5b154e46520b2b954ece846f225e74657ffdfa66b31dc11787dcb123c94",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "Yuuji Kimura 和日本的同事尝试了一种更实际的方法。他们没有添加其他金属，而是开发了一种复杂的机械工艺，涉及重复加热和非常严重的机械变形，称为临时成形。",
+      "source": {
+        "blockIds": [
+          "b-1-12"
+        ],
+        "reflowBlockIds": [
+          "b-1-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-13",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "The resulting steel appears to achieve a combination of strength and toughness that is 33 to that of modem steels that are very rich in alloy content and, therefore, very expensive.",
+      "sourceHash": "faad20b75188b93877698da2dce373e5e1f84da842ff39d205ad7e38eac2f3df",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "由此产生的钢似乎实现了强度和韧性的结合，可与合金含量非常丰富的现代钢相媲美，因此非常昂贵。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-1-14",
+      "paperId": "cet6:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Kimura’s team intends to use its tempformed steel to make ultra-high strength parts, such as bolts. They hope to reduce both the number of 34 needed in a construction job and their weight—by replacing solid supports with 35 tubes, for example. This could reduce the amount of steel needed to make everything from automobiles to buildings and bridges.",
+      "sourceHash": "3e5cdbc3cdd20eb0f3dc07ce61d4ae9abab715f0e9347f29b93706727339d5f8",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "木村的团队打算使用其临时成型钢来制造超高强度零件，例如螺栓。例如，他们希望通过用空心管代替实心支撑来减少建筑工作所需的部件数量和重量。这可以减少制造从汽车到建筑物和桥梁等各种物品所需的钢材数量。",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-2",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-3",
+      "paperId": "cet6:2019-06-03",
+      "kind": "heading_prose",
+      "sourceText": "The future of personal satellite technology is here—are we ready for it?",
+      "sourceHash": "1a863b4f7aaff46fbfd4a2b3e7b95e8630a2a16b2058783be760724f53a7d16a",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "个人卫星技术的未来已经到来——我们准备好了吗？",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-4",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) Satellites used to be the exclusive playthings of rich governments and wealthy corporations. But increasingly, as space becomes more democratized, they are coming within reach of ordinary people. Just like drones (无人机) before them, miniature satellites are beginning to fundamentally transform our conceptions of who gets to do what up above our heads.",
+      "sourceHash": "12497625289c4877a800aa4475fe8d458eb425dd5e2a0f6676642e3de1d3d178",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "A) 卫星曾经是富裕政府和富裕企业的专属玩物。但随着太空变得更加民主化，它们正逐渐变得触手可及。就像之前的无人机一样，微型卫星开始从根本上改变我们关于谁可以在我们头顶上做什么的观念。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-5",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) As a recent report from the National Academy of Sciences highlights, these satellites hold tremendous potential for making satellite-based science more accessible than ever before. However, as the cost of getting your own satellite in orbit drops sharply, the risks of irresponsible use grow. The question here is no longer“Can we?”but“Should we?”What are the potential downsides of having a slice of space densely populated by equipment built by people not traditionally labeled as“professionals”? And what would the responsible and beneficial development and use of this technology actually look like? Some of the answers may come from a nonprofit organization that has been building and launching amateur satellites for nearly 50 years.",
+      "sourceHash": "c36e19496d28e721f0bca8b99deb2909b9901a207cd9c30866d4d54fd6ce8b87",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 正如美国国家科学院最近的一份报告所强调的那样，这些卫星具有巨大的潜力，可以使基于卫星的科学比以往任何时候都更容易获得。然而，随着将自己的卫星送入轨道的成本急剧下降，不负责任使用的风险也在增加。这里的问题不再是“我们可以吗？”而是“我们应该吗？”如果在一块空间中密集地放置了由传统上不被称为“专业人士”的人制造的设备，那么潜在的缺点是什么？这项技术的负责任且有益的开发和使用实际上会是什么样子？一些答案可能来自一家非营利组织，该组织近 50 年来一直致力于建造和发射业余卫星。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-6",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) Having your personal satellite launched into orbit might sound like an idea straight out of science fiction. But over the past few decades a unique class of satellites has been created that fits the bill: CubeSats. The“Cube”here simply refers to the satellite's shape. The most common CubeSat is a 10cm cube, so small that a single CubeSat could easily be mistaken for a paperweight on your desk. These mini-satellites can fit in a launch vehicle's formerly“wasted space.”Multiples can be deployed in combination for more complex missions than could be achieved by one CubeSat alone.",
+      "sourceHash": "4a9ac717c08c8b89dea3e8e2eda49980a20811f80f9f8535e3a5f4f97d8a7339",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 将您的个人卫星发射到轨道可能听起来像是科幻小说中的想法。但在过去的几十年里，一类独特的卫星诞生了：立方体卫星（CubeSats）。这里的“立方体”仅指卫星的形状。最常见的立方体卫星是一个 10 厘米的立方体，非常小，以至于单个立方体卫星很容易被误认为是办公桌上的镇纸。这些微型卫星可以装入运载火箭以前“浪费的空间”。可以组合部署多颗卫星，以完成比单独一颗立方体卫星更复杂的任务。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-7",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) Within their compact bodies these minute satellites are able to house sensors and communications receivers/transmitters that enable operators to study Earth from space, as well as space around Earth. They’re primarily designed for Low Earth Orbit (LEO)—an easily accessible region of space from around 200 to 800 miles above Earth, where human-tended missions like the Hubble Space Telescope and the International Space Station (ISS) hang out. But they can attain more distant orbits; NASA plans for most of its future Earth-escaping payloads (to the moon and Mars especially) to carry CubeSats.",
+      "sourceHash": "54ee66b67cb8dc3580bda48a703fc05602fde7443ba8e8f4082b21ca9eb77ca0",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）这些微小的卫星在其紧凑的机身内能够容纳传感器和通信接收器/发射器，使操作员能够从太空以及地球周围的空间研究地球。它们主要是为近地轨道 (LEO) 设计的，这是一个距地球约 200 至 800 英里的易于到达的太空区域，哈勃太空望远镜和国际空间站 (ISS) 等人类任务都在那里进行。但它们可以到达更远的轨道；美国宇航局计划未来大部分逃离地球的有效载荷（特别是前往月球和火星）都携带立方体卫星。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-8",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) Because they're so small and light, it costs much less to get a CubeSat into Earth’s orbit than a traditional communications or GPS satellite. For instance, a research group here at Arizona State University recently claimed their developmental small CubeSats could cost as little as $3,000 to put in orbit. This decrease in cost a11ows researchers, hobbyists and even elementary school groups to put simple instruments into LEO or even having them deployed from the ISS.",
+      "sourceHash": "ed878dc0ae14a3ca8af784ad750b17d5e79b98cf6d83e005278cf931c11b0d54",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 由于立方体卫星体积小且重量轻，因此将立方体卫星送入地球轨道的成本比传统通信或 GPS 卫星要低得多。例如，亚利桑那州立大学的一个研究小组最近声称，他们正在开发的小型立方体卫星的成本只需 3,000 美元即可送入轨道。成本的降低使得研究人员、爱好者甚至小学团体能够将简单的仪器放入近地轨道，甚至从国际空间站部署它们。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) The first CubeSat was created in the early 2000s, as a way of enabling Stanford graduate students to design, build, test and operate a spacecraft with similar capabilities to the USSR’s Sputnik (前苏联的人造卫星). Since then, NASA, the National Reconnaissance Office and even Boeing have all launched and operated CubeSats. There arc more than 130 currently in operation. The NASA Educational Launch of Nano Satellite program, which offers free launches for educational groups and science missions, is now open to U.S. nonprofit corporations as well. Clearly, satellites are not just for rocket scientists anymore.",
+      "sourceHash": "af2859bbb6e6b870c1669bd8d04c01e8c2206a31a91d8822fba2fbc0a9579594",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 第一个立方体卫星是在 2000 年代初期创建的，目的是让斯坦福大学的研究生能够设计、建造、测试和操作具有与苏联人造卫星类似功能的航天器。此后，美国宇航局、国家侦察局甚至波音公司都发射并运营了立方体卫星。目前正在运营的有130多个。美国宇航局纳米卫星教育发射计划为教育团体和科学任务提供免费发射，现在也向美国非营利公司开放。显然，卫星不再只是火箭科学家的专利。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-10",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) The National Academy of Sciences report emphasizes CubeSats' importance in scientific discovery and the training of future space scientists and engineers. Yet it also acknowledges that widespread deployment of LEO CubeSats isn’t risk-flee. The greatest concern the authors raise is space debris—pieces of“junk”that orbit the earth, with the potential to cause serious damage if they collide with operational units, including the ISS.",
+      "sourceHash": "c19baa0daf8e2bdf25a42777b7df20a733fd25dc725b0589a5e95b01db1aa888",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 美国国家科学院的报告强调了立方体卫星在科学发现和培训未来空间科学家和工程师方面的重要性。但它也承认，广泛部署低地球轨道立方体卫星并不是规避风险的。作者提出的最令人担忧的是空间碎片——绕地球运行的“垃圾”碎片，如果它们与包括国际空间站在内的运行单位相撞，可能会造成严重损害。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-2-11",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) Currently, there aren't many CubeSats and they're tracked closely. Yet as LEO opens up to more amateur satellites, they may pose an increasing threat. As the report authors point out, even near-misses might lead to the“creation of a burdensome regulatory framework and affect the future disposition of science CubeSats.”",
+      "sourceHash": "6eb2f828f324a66f41401f10fb3042d341659071fb02d2966f1fc967afc381f7",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-2-11",
+        "cet6:2019-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 目前，立方体卫星并不多，而且它们受到密切跟踪。然而，随着近地轨道向更多业余卫星开放，它们可能会构成越来越大的威胁。正如报告作者指出的那样，即使是侥幸成功，也可能导致“建立一个繁重的监管框架，并影响科学立方体卫星的未来部署”。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-11",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-2",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) CubeSat researchers suggest that now's the time to ponder unexpected and unintended possible consequences of more people than ever having access to their own small slice of space. In an era when you can simply buy a CubeSat kit off the shelf, how can we trust the satellites over our heads were developed with good intentions by people who knew what they were doing? Some“expert amateurs”in the satellite game could provide some inspiration for how to proceed responsibly.",
+      "sourceHash": "e7e56cb6ed5c36a412ecb3050ddd033f548ec5a801554c1ad614c9115b1cc5cb",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) CubeSat 研究人员建议，现在是时候思考更多的人比以往任何时候都更容易进入自己的小空间，从而思考意想不到的和意想不到的可能后果。在一个你可以简单地购买现成的立方体卫星套件的时代，我们怎么能相信我们头顶上的卫星是由那些知道自己在做什么的人出于善意而开发的呢？卫星游戏中的一些“业余专家”可以为如何负责任地进行提供一些启发。",
+      "source": {
+        "blockIds": [
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-3",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) In 1969, the Radio Amateur Satellite Corporation (AMSAT) was created in order to foster ham radio enthusiasts’ (业余无线电爱好者) participation in space research and communication. It continued the efforts, begun in 1961, by Project OSCAR—a U.S.-based group that built and launched the very first nongovernmental satellite just four years after Sputnik. As an organization of volunteers, AMSAT was putting“amateur”satellites in orbit decades before the current CubeSat craze. And over time, its members have learned a thing or two about responsibility. Here, open.source development has been a central principle, Within the organization, AMSAT has a philosophy of open sourcing everything—making technical data on all aspects of their satellites fully available to everyone in the organization, and when possible, the public. According to a member of the team responsible for FOX 1-A, AMSAT's first CubeSat, this means that there s no way to sneak something like explosives or an energy emitter into an amateur satellite when everyone has access to the designs and implementation.",
+      "sourceHash": "65a2f7000eeb0aebe555d5ad876a4cc53805dfbab019321beaf011896bfc8bc3",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 1969年，业余无线电卫星公司（AMSAT）成立，旨在促进业余无线电爱好者参与太空研究和通信。它继续了 OSCAR 项目 1961 年开始的努力，OSCAR 项目是一个美国组织，在人造卫星发射四年后建造并发射了第一颗非政府卫星。作为一个志愿者组织，AMSAT 早在当前的立方体卫星热潮出现几十年前就将“业余”卫星送入轨道。随着时间的推移，其成员对责任已经了解了一两件事。在这里，开源开发一直是一个核心原则。在组织内部，AMSAT 的理念是开源一切——将卫星各方面的技术数据完全提供给组织中的每个人，并在可能的情况下向公众开放。据负责 AMSAT 首颗立方体卫星 FOX 1-A 的团队成员称，这意味着当每个人都可以访问设计和实施时，就无法将炸药或能量发射器之类的东西偷偷带入业余卫星中。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-4",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) However, they're more cautious about sharing information with nonmembers, as the organization guards against others developing the ability to hijack and take control of their satellites. This form of“self-governance”is possible within long-standing amateur organizations that, over time, are able to build a sense of responsibility to community members, as well as society in general. But what happens when new players emerge, who don't have deep roots within the existing culture?",
+      "sourceHash": "6c83de2db4b02a6f0d23015656b7b0df29623b3baf9fc4b39beaeebc5840b434",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 然而，他们在与非成员共享信息时更加谨慎，因为该组织防止其他人发展出劫持和控制其卫星的能力。这种形式的“自治”在长期存在的业余组织中是可能的，随着时间的推移，这些组织能够建立对社区成员以及整个社会的责任感。但是，当新参与者出现时，他们在现有文化中没有深厚的根基，会发生什么呢？",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-5",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "L) Hobbyists and students are gaining access to technologies without being part of a long-standing amateur establishment. They're still constrained by funders, launch providers and a series of regulations—all of which rein in what CubeSat developers can and cannot do. But there's a danger they're ill-equipped to think through potential unintended consequences. What these unintended consequences might be is admittedly far from clear. Yet we know innovators can be remarkably creative with taking technologies in unexpected directions. Think of something as seemingly benign as the cellphone—we have microfinance and text-based social networking at one end of the spectrum, and improvised (临时制作的) explosive devices at the other.",
+      "sourceHash": "263bfce3cab7e470a288ff37c704eb8a6f0f891c5b99b05e494ec3c1ec7511d2",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 业余爱好者和学生无需成为长期业余机构的一部分即可获得技术。他们仍然受到资助者、发射提供商和一系列法规的限制——所有这些都限制了立方体卫星开发商可以做什么和不能做什么。但存在的危险是，他们没有能力思考潜在的意外后果。诚然，这些意想不到的后果可能是什么还远不清楚。然而我们知道，创新者可以通过将技术带向意想不到的方向来发挥惊人的创造力。想想像手机这样看似无害的东西——我们一方面拥有小额信贷和基于文本的社交网络，另一方面拥有临时制作的爆炸装置。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-6",
+      "paperId": "cet6:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "M) This is where a culture of social responsibility around CubeSats becomes important—not simply to ensure that physical risks are minimized, but to engage with a much larger community in anticipating and managing less obvious consequences of the technology. This is not an easy task. Yet the evidence from AMSAT and other areas of technology development suggests that responsible amateur communities can and do emerge around novel technologies. The challenge here, of course, is ensuring that what an amateur communities considers to be responsible, actually is. Here's where there needs to be a much wider public conversation that extends beyond government agencies and scientific communities to include students, hobbyists, and anyone who may potentially stand to be affected by the use of CubeSat technology.",
+      "sourceHash": "6976451b91acbf96317a1f1524d4885ecd4b972addba1c65e864c602a8253733",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M) 这就是围绕立方体卫星的社会责任文化变得重要的地方——不仅仅是为了确保最大程度地减少物理风险，而是为了与更大的社区合作来预测和管理该技术不太明显的后果。这不是一件容易的事。然而，来自 AMSAT 和其他技术开发领域的证据表明，负责任的业余社区可以而且确实围绕新技术出现。当然，这里的挑战是确保业余社区认为负责任的事情实际上是负责任的。这里需要进行更广泛的公众对话，不仅限于政府机构和科学界，还包括学生、业余爱好者以及任何可能受到立方体卫星技术使用影响的人。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-7",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36. Given the easier accessibility to space, it is time to think about how to prevent misuse of satellites.",
+      "sourceHash": "a05aff51854f8a73aca1aa3e6de31f85df92e430041bdf03b31449be227c7e3c",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36. 鉴于进入太空变得更加容易，现在是考虑如何防止滥用卫星的时候了。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-8",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37. A group of mini-satellites can work together to accomplish more complex tasks.",
+      "sourceHash": "234e53dc0fabf3a14b38dcc5edd0582b1cbc20df029243665322da78bfe424ff",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37. 一组微型卫星可以协同工作来完成更复杂的任务。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38. The greater accessibility of mini-satellites increases the risks of their irresponsible use.",
+      "sourceHash": "7eaf52544b55054b0e92fc6115ce8717542d613cf204c8d34a6f586696a7dac3",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38. 小型卫星的更容易获得，增加了不负责任使用其的风险。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-10",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39. Even school pupils can have their CubeSats put in orbit owing to the lowered launching cost.",
+      "sourceHash": "41255998634b8a636528aba317e8c21864810aaa97bfe6d5627451e23910eb75",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39. 由于发射成本降低，甚至小学生也可以将立方体卫星送入轨道。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-11",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40. AMSAT is careful about sharing information with outsiders to prevent hijacking of their satellites.",
+      "sourceHash": "4597276dd96e551e1e010a2354265499a18c443ab3623c45141ce120fed46854",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40. AMSAT 非常谨慎地与外界共享信息，以防止其卫星被劫持。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-12",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41. NASA offers to launch CubeSats free of charge for educational and research purposes.",
+      "sourceHash": "cd4fc4c24a8d277484e4cc3a9c38675cbd2aa5640f8fe548b68c6854c2569f44",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41. NASA 提出免费发射立方体卫星用于教育和研究目的。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-3-13",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42. Even with constraints, it is possible for some creative developers to take the CubeSat technology in directions that result in harmful outcomes.",
+      "sourceHash": "bbe6254eec78244f712fca44d332a77b964d66fbbc5d06cf9aa930b02981dfdc",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42. 即使有限制，一些富有创意的开发人员也有可能将 CubeSat 技术引向导致有害结果的方向。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-1",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43. While making significant contributions to space science, CubeSats may pose hazards to other space vehicles.",
+      "sourceHash": "168f14c81aed2c2b1cdab609f86a1a7953c3725354a99546e3128530e187c5e0",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43. 立方体卫星在为空间科学做出重大贡献的同时，也可能对其他航天器造成危害。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-2",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44. Mini-satellites enable operators to study Earth from LEO and space around it.",
+      "sourceHash": "26b3eba2389f009c2a13a2b5c26d1a1911a0578e1b5222fcc5bd1ab4dfb4d138",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44. 微型卫星使操作员能够从近地轨道及其周围空间研究地球。",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-3",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45. AMSAT operates on the principle of having all its technical data accessible to its members, preventing the abuse of amateur satellites.",
+      "sourceHash": "f5570b5a2c52f795f2d2ef04ba325bace7a5911246eeb090d1d3613cccf1b85d",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45. AMSAT 的运作原则是让其成员能够获取其所有技术数据，以防止滥用业余卫星。",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-5",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section.Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C)and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "83edc489109fcd471322336436e1f21ce710afa62fddca8562292661ecaf27ea",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段文章。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-7",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-8",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "When I re-entered the full-time workforce a few years ago after a decade of solitary self-employment, there was one thing I was looking forward to the most: the opportunity to have work friends once again. It wasn’t until I entered the corporate world that I realized, for me at least, being friends with colleagues didn’t emerge as a priority at all. This is surprising when you consider the prevailing emphasis by scholars and trainers and managers on the importance of cultivating close interpersonal relationships at work. So much research has explored the way in which collegial (同事的) ties can help overcome a range of workplace issues affecting productivity and the quality of work output such as team-based conflict, jealousy, undermining, anger, and more.",
+      "sourceHash": "0d9bd72c6c8324335a54f694c8b4576a008b1d90f231c57ed2229be99cd7c160",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-8"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "几年前，当我在经历了十年的单独个体经营后重新进入全职劳动力市场时，我最期待的一件事是：有机会再次结识工作朋友。直到我进入企业界，我才意识到，至少对我来说，与同事成为朋友根本不是优先考虑的事情。当你考虑到学者、培训师和管理者普遍强调在工作中培养密切的人际关系的重要性时，你会感到惊讶。大量研究探索了同事关系如何帮助克服一系列影响生产力和工作成果质量的工作场所问题，例如团队冲突、嫉妒、破坏、愤怒等。",
+      "source": {
+        "blockIds": [
+          "b-4-8"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Perhaps my expectations of lunches, water-cooler gossip and caring, deep-and-meaningful conversations were a legacy of the last time I was in that kind of office environment. Whereas now, as I near the end of my fourth decade, I realize work can be fully functional and entirely fulfilling without needing to be best mates with the people sitting next to you.",
+      "sourceHash": "c8d7a6f7b732752e16580da614bdec84714ea4fdabb64be227de36e02bd6ce67",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "也许我对午餐、饮水机里的八卦和关怀、深入而有意义的谈话的期望是我上次在那种办公环境中留下的遗产。而现在，当我接近四十岁的时候，我意识到工作可以充分发挥作用并完全令人满意，而无需与坐在你旁边的人成为最好的朋友。",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-10",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "In an academic analysis just published in the profoundly-respected Journal of Management, researchers have looked at the concept of “indifferent relationships”. It’s a simple term that encapsulates ( 概括) the fact that relationships at work can reasonably be non-intimate, inconsequential, unimportant and even, dare I say it, disposable or substitutable.",
+      "sourceHash": "7e17920d89b1e5f59ccefe109a1f0cf6a49d5930c9db48800c44f771f9c877e0",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在备受推崇的《管理杂志》刚刚发表的一篇学术分析中，研究人员研究了“冷漠关系”的概念。这是一个简单的术语，概括了这样一个事实：工作中的关系可以合理地是不亲密的、无关紧要的、不重要的，甚至，我敢说，是一次性的或可替代的。",
+      "source": {
+        "blockIds": [
+          "b-4-10"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-11",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Indifferent relationships are neither positive nor negative. The limited research conducted thus far indicates they’re especially dominant among those who value independence over cooperation, and harmony over confrontation. Indifference is also the preferred option among those who are socially lazy. Maintaining relationships over the long term takes effort. For some of us, too much effort.",
+      "sourceHash": "2b189d3dbe194714fc29ef3ebde6e4f1867a17b9a89e8df33ccd23119993b839",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "冷漠的关系既不是积极的也不是消极的。迄今为止进行的有限研究表明，它们在那些重视独立而非合作、和谐而非对抗的人中尤其占主导地位。冷漠也是那些社交懒惰者的首选选择。长期维持关系需要付出努力。对于我们中的一些人来说，付出了太多的努力。",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-12",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "As noted above, indifferent relationships may not always be the most helpful approach in resolving some of the issues that pop up at work. But there are nonetheless several empirically proven benefits. One of those is efficiency. Less time chatting and socializing means more time working and churning (产出).",
+      "sourceHash": "f15b45c58af7097c62a106c17b22eb58de0d593f31439a9936cedaf5cd8989ee",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "如上所述，冷漠的关系可能并不总是解决工作中出现的一些问题的最有帮助的方法。但仍然有一些经经验证明的好处。其中之一是效率。更少的聊天和社交时间意味着更多的时间工作和搅动（财富）。",
+      "source": {
+        "blockIds": [
+          "b-4-12"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-13",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "The other is self-esteem. As human beings, we’re primed to compare ourselves to each other in what is an anxiety-inducing phenomenon. Apparently, we look down on acquaintances more so than friends. Since the former is most common among those inclined towards indifferent relationships, their predominance can bolster individuals’ sense of self-worth.",
+      "sourceHash": "2961b0ee3f245da61b8ffb9ca4d5785ade662b5ef0b624fdb08691b0a746f0a6",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "另一个是自尊。作为人类，我们准备好在一种引起焦虑的现象中相互比较。显然，我们更看不起熟人而不是朋友。由于前者在那些倾向于冷漠关系的人中最为常见，因此他们的主导地位可以增强个人的自我价值感。",
+      "source": {
+        "blockIds": [
+          "b-4-13"
+        ],
+        "reflowBlockIds": [
+          "b-4-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-14",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Ego aside, a third advantage is that the emotional neutrality of indifferent relationships has been found to enhance critical evaluation, to strengthen one’s focus on task resolution, and to gain greater access to valuable information. None of that might be as fun as after-work socializing but, hey, I’ll take it anyway.",
+      "sourceHash": "574f23c6b8046550f15e4497ee28a3bce8f83e5b16bb9ad53fa4d2eaf8f0f2f5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "撇开自我不谈，第三个优势是，冷漠关系中的情感中立可以增强批判性评估，加强对任务解决的关注，并获得更多有价值的信息。这些可能都没有下班后的社交那么有趣，但是，嘿，无论如何我都会接受。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-15",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46. What did the author realize when he re-entered the corporate world?",
+      "sourceHash": "baf37daac05f339488efc0e5179492897b32a3bc4ea70cbd5362c955f3851bfe",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46. 当作者重新进入企业界时，他意识到了什么？",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-4-17",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47. What do we learn from many studies about collegial relationships?",
+      "sourceHash": "281d661cf611db2584c0c0d5da196bfdf29c04369dd31536c6b35898098b35cd",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47. 我们从许多关于同事关系的研究中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-2",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48. What can be inferred about relationships at work from an academic analysis?",
+      "sourceHash": "f7809f97cca10241dfd14ed237ef54c65599bf8994bb4fe78d848facc3d377ab",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48. 从学术分析中可以推断出什么关于工作中的关系？",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-4",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49. What does the author say about people who are socially lazy?",
+      "sourceHash": "d3e238074599e3fa6ecf4003435ed8c3f01ded7eadf5cb32af969c16a1ba34da",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49. 作者对社交懒惰的人有何评价？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-6",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50. What is one of the benefits of indifferent relationships?",
+      "sourceHash": "97c5b88e9060027cc05878a237b34f7551efa8aa204e4bc544d0d6b20e9336c6",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50. 冷漠关系的好处之一是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-5-9"
+        ],
+        "reflowBlockIds": [
+          "b-5-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-10",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "In a few decades, artificial intelligence (AI) will surpass many of the abilities that we believe make us special. This is a grand challenge for our age and it may require an “irrational” response.",
+      "sourceHash": "8f3d23e7e66011334dac366f81a44e212c8a4e2f0fe04f350387d48c6815ac99",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "几十年后，人工智能 (AI) 将超越我们认为使我们与众不同的许多能力。这对我们这个时代来说是一个巨大的挑战，可能需要“非理性”的回应。",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-11",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "One of the most significant pieces of news from the US in early 2017 was the efforts of Google to make autonomous driving a reality. According to a report, Google’s self-driving cars clocked 1,023,330 krn, and required human intervention 124 times. That is one intervention about every 8,047 km of autonomous driving. But even more impressive is the progress in just a single year: human interventions fell from 0.8 times per thousand miles to 0.2, a 400% improvement. With such progress, Google’s cars will easily surpass my own driving ability later this year.",
+      "sourceHash": "029038823384266aa7dc4f6b6312e2b10a2e3b68f7eeefa3462ad2888e9fb21f",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-11"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "2017 年初美国最重要的新闻之一是谷歌为实现自动驾驶所做的努力。据报道，谷歌自动驾驶汽车的时钟为 1,023,330 瑞典克朗，需要人工干预 124 次。这相当于自动驾驶每 8,047 公里进行一次干预。但更令人印象深刻的是仅仅一年的进展：人为干预从每千英里 0.8 次下降到 0.2 次，提高了 400%。有了这样的进步，谷歌的汽车今年晚些时候将轻松超越我自己的驾驶能力。",
+      "source": {
+        "blockIds": [
+          "b-5-11"
+        ],
+        "reflowBlockIds": [
+          "b-5-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-12",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Driving once seemed to be a very human skill. But we said that about chess, too. Then a computer beat the human world champion, repeatedly. The board game Go (围棋) took over from chess as a new test for human thinking in 2016, when a computer beat one of the world’s leading professional Go players. With computers conquering what used to be deeply human tasks, what will it mean in the future to be human? I worry about my six-year-old son. What will his place be in a world where machines beat us in one area after another? He’ll never calculate faster, never drive better, or even fly more safely. Actually, it all comes down to a fairly simple question: What’s so special about us? It can’t be skills like arithmetic, which machines already excel in. So far, machines have a pretty hard time emulating creativity, arbitrary enough not to be predicted by a computer, and yet more than simple randomness.",
+      "sourceHash": "b20bff3108dd788a01c435710dde7c642e5ad5d3645ca210fa602684cd7cae43",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "曾经，驾驶似乎是一项非常人性化的技能。但我们也谈到了国际象棋。然后计算机多次击败人类世界冠军。 2016 年，棋盘游戏围棋取代国际象棋，成为对人类思维的新考验，当时一台计算机击败了世界领先的职业围棋选手之一。随着计算机征服了过去需要人类完成的任务，未来对人类意味着什么？我担心我六岁的儿子。在机器在一个又一个领域击败我们的世界里，他的地位如何？他永远不会计算得更快，永远不会驾驶得更好，甚至飞行得更安全。事实上，这一切都归结为一个相当简单的问题：我们有什么特别之处？它不可能是机器已经擅长的算术之类的技能。到目前为止，机器很难模仿创造力，其任意性足以无法被计算机预测，但又不仅仅是简单的随机性。",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-5-13",
+      "paperId": "cet6:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Perhaps, if we continue to improve information-processing machines, we’ll soon have helpful rational assistants. So we must aim to complement the rationality of the machine, rather than to compete with it. If I'm right, we should foster a creative spirit because a dose of illogical creativity will complement the rationality of the machine. Unfortunately, however, our education system has not caught up to the approaching reality. Indeed, our schools and universities are structured to mould pupils to be mostly obedient servants of rationality, and to develop outdated skills in interacting with outdated machines. We need to help our children learn how to best work with smart computers to improve human decision-making. But most of all we need to keep the long-term perspective in mind: that even if computers will outsmart us, we can still be the most creative. Because if we aren’t, we won’t be providing much value in future ecosystems, and that may put in question the foundation for our existence.",
+      "sourceHash": "6a7ea5693465d2b0ed6acc0eb11b31f3307dd05e78059b6691a2682ec6ebee49",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-13"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-5-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "也许，如果我们继续改进信息处理机器，我们很快就会拥有有用的理性助手。因此，我们的目标必须是补充机器的合理性，而不是与之竞争。如果我是对的，我们应该培养创造性精神，因为一剂不合逻辑的创造力将补充机器的理性。然而不幸的是，我们的教育体系并没有跟上即将到来的现实。事实上，我们的学校和大学的结构是为了将学生塑造成大多数服从理性的仆人，并培养与过时机器互动的过时技能。我们需要帮助我们的孩子学习如何最好地使用智能计算机来改善人类决策。但最重要的是，我们需要牢记长远的眼光：即使计算机比我们更聪明，我们仍然可以成为最具创造力的人。因为如果我们不这样做，我们就不会为未来的生态系统提供太多价值，这可能会让我们的存在基础受到质疑。",
+      "source": {
+        "blockIds": [
+          "b-5-13"
+        ],
+        "reflowBlockIds": [
+          "b-5-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-1",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51. What is the author’s greatest concern about the use of AI?",
+      "sourceHash": "497b963c43e0aba94540df7ca57f170f4d22bdebe06e3c311b3c7594394ec68f",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-1"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51. 作者对人工智能的使用最关心的是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-1"
+        ],
+        "reflowBlockIds": [
+          "b-6-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-3",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52. What impresses the author most in the field of AI?",
+      "sourceHash": "480b9ea15cb5fb9ad214e532b4e7b50468964a2b4131f552aec87bf53af89126",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-3"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52. 在人工智能领域，给作者印象最深的是什么？",
+      "source": {
+        "blockIds": [
+          "b-6-3"
+        ],
+        "reflowBlockIds": [
+          "b-6-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-5",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What do we learn from the passage about creativity?",
+      "sourceHash": "b719eedc22d2d5be96d60f7e9cfff8338d91193dfde2731021eadc03a13561a4",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-5"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53.我们从关于创造力的文章中学到了什么？",
+      "source": {
+        "blockIds": [
+          "b-6-5"
+        ],
+        "reflowBlockIds": [
+          "b-6-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-7",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What should schools help children do in the era of AI?",
+      "sourceHash": "0d7003c2dd499a0f1ea631d6ea44f828d8630dbbce1313a46ed5526e63c1cc3e",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-7"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54.人工智能时代学校应该帮助孩子做什么？",
+      "source": {
+        "blockIds": [
+          "b-6-7"
+        ],
+        "reflowBlockIds": [
+          "b-6-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-9",
+      "paperId": "cet6:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. How can we humans justify our future existence?",
+      "sourceHash": "e912c0d14dbc0d0d478a285e1adce5db78c93cc3d8d77dbe9efc8736892027af",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-9"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55.我们人类如何证明我们未来的存在？",
+      "source": {
+        "blockIds": [
+          "b-6-9"
+        ],
+        "reflowBlockIds": [
+          "b-6-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet6:2019-06-03:p:b-6-12",
+      "paperId": "cet6:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.You should write your answer on Answer Sheet 2.",
+      "sourceHash": "a80c10d2af754dd1790b8ecd1415c92f49af76eddbf0455a72a6a681aff28656",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-12"
+      ],
+      "reflowBlockIds": [
+        "cet6:2019-06-03:b-6-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题纸 2 上。",
+      "source": {
+        "blockIds": [
+          "b-6-12"
+        ],
+        "reflowBlockIds": [
+          "b-6-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "6"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet6/papers/2019-06-03.json",
+        "pdfSha256": "92b9c66cf63de4df58de8250764daf4cdd59bc7c3fc58e64a92384a0a9b0fa9e",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet6/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet6/papers/2019-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet6:2019-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-46-1",
+      "optionId": "cet6:2019-06-03:q-46-1:A",
+      "sourceText": "Making new friends with his workmates was not as easy as he had anticipated.",
+      "sourceHash": "92711548857cd4eecf8092f52e3c915a87a0d315646a8c6af9cc5995db5b627a",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-16"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-4-16",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Making new friends with his workmates was not as easy as he had anticipated.",
+      "translationEligible": true,
+      "translationZh": "与同事结交新朋友并不像他想象的那么容易。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-46-1",
+      "optionId": "cet6:2019-06-03:q-46-1:B",
+      "sourceText": "Cultivating positive interpersonal relationships helped him expel solitary feelings.",
+      "sourceHash": "8e4fce8b21987305d8e93523df131716bedf64aa8116e2b4946bc83ecac66e1e",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-16"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-4-16",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Cultivating positive interpersonal relationships helped him expel solitary feelings.",
+      "translationEligible": true,
+      "translationZh": "培养积极的人际关系帮助他消除了孤独感。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-46-1",
+      "optionId": "cet6:2019-06-03:q-46-1:C",
+      "sourceText": "Working in the corporate world requires more interpersonal skills than self-employment.",
+      "sourceHash": "e87138943d848d6f6333363c275744d82b965558de3dfbb526edb03666ac80a0",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-16"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-4-16",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Working in the corporate world requires more interpersonal skills than self-employment.",
+      "translationEligible": true,
+      "translationZh": "在企业界工作比个体经营需要更多的人际交往能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-46-1",
+      "optionId": "cet6:2019-06-03:q-46-1:D",
+      "sourceText": "Building close relationships with his colleagues was not as important as he had expected.",
+      "sourceHash": "d193e96d9cf08ddaaaad5c6ab465cec8dee884840b72615dfab6e7766323ebf3",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-16"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-4-16",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Building close relationships with his colleagues was not as important as he had expected.",
+      "translationEligible": true,
+      "translationZh": "与同事建立密切的关系并不像他想象的那么重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-47-1",
+      "optionId": "cet6:2019-06-03:q-47-1:A",
+      "sourceText": "Inharmonious relationships have an adverse effect on productivity.",
+      "sourceHash": "c3453aaef3c6555146fb5384a682ea525056a17c835f31d83d997915b469bfd8",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-4-18"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-4-18",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Inharmonious relationships have an adverse effect on productivity.",
+      "translationEligible": true,
+      "translationZh": "不和谐的关系会对生产力产生不利影响。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-47-1",
+      "optionId": "cet6:2019-06-03:q-47-1:B",
+      "sourceText": "Harmonious relationships are what many companies aim to cultivate.",
+      "sourceHash": "a12a16682d8470924044003c3bad96a24d685bfd65024d3768f48ec72cda1da5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-1"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-1",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Harmonious relationships are what many companies aim to cultivate.",
+      "translationEligible": true,
+      "translationZh": "和谐的关系是许多公司所追求的目标。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-47-1",
+      "optionId": "cet6:2019-06-03:q-47-1:C",
+      "sourceText": "Close collegial relationships contribute very little to product quality.",
+      "sourceHash": "9543edbaf218ce805482961b7f5cf192465ab6a70be3dd74e65f1182917261f5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-1"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-1",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Close collegial relationships contribute very little to product quality.",
+      "translationEligible": true,
+      "translationZh": "密切的同事关系对产品质量的贡献微乎其微。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-47-1",
+      "optionId": "cet6:2019-06-03:q-47-1:D",
+      "sourceText": "Conflicting relationships in the workplace exist almost everywhere.",
+      "sourceHash": "94e805b755d24ebea688c9f24878f0439de668a072a759074c16a44de0f727e6",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-1"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-1",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Conflicting relationships in the workplace exist almost everywhere.",
+      "translationEligible": true,
+      "translationZh": "工作场所中冲突的关系几乎无处不在。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-48-1",
+      "optionId": "cet6:2019-06-03:q-48-1:A",
+      "sourceText": "They should be cultivated.",
+      "sourceHash": "e915263d6be64cef10aad59af93c77ef4ea2b6c705db97413e198d469116dfa5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-3",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They should be cultivated.",
+      "translationEligible": true,
+      "translationZh": "他们应该被培养。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-48-1",
+      "optionId": "cet6:2019-06-03:q-48-1:B",
+      "sourceText": "They are virtually irrelevant.",
+      "sourceHash": "1228353b9c5258a263df69f78d9f95d5a83da99dc40ca8283091f09ade2e8cd5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-3",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are virtually irrelevant.",
+      "translationEligible": true,
+      "translationZh": "它们实际上是无关紧要的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-48-1",
+      "optionId": "cet6:2019-06-03:q-48-1:C",
+      "sourceText": "They are vital to corporate culture.",
+      "sourceHash": "f1d90f4181c89b642c840285f0260406b2b1a6d74ae72fe40122366afaba9095",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-3",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are vital to corporate culture.",
+      "translationEligible": true,
+      "translationZh": "它们对于企业文化至关重要。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-48-1",
+      "optionId": "cet6:2019-06-03:q-48-1:D",
+      "sourceText": "They should be reasonably intimate.",
+      "sourceHash": "73f0a975652c021a245fe4700c47b66a13001bb35de2adc3e80f06a9a8bd6bcd",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-3"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-3",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They should be reasonably intimate.",
+      "translationEligible": true,
+      "translationZh": "他们应该相当亲密。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-49-1",
+      "optionId": "cet6:2019-06-03:q-49-1:A",
+      "sourceText": "They feel uncomfortable when engaging in social interactions.",
+      "sourceHash": "10988b4341d6d07a3d2666c91fd09341aa7a82928bcad3b3496906e07b4829dd",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They feel uncomfortable when engaging in social interactions.",
+      "translationEligible": true,
+      "translationZh": "他们在参与社交互动时感到不舒服。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-49-1",
+      "optionId": "cet6:2019-06-03:q-49-1:B",
+      "sourceText": "They often find themselves in confrontation with their colleagues.",
+      "sourceHash": "d79aceb24ff9160fc02b299b7c652fa42fdf51213b65aa63177b102702d64382",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They often find themselves in confrontation with their colleagues.",
+      "translationEligible": true,
+      "translationZh": "他们经常发现自己与同事发生冲突。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-49-1",
+      "optionId": "cet6:2019-06-03:q-49-1:C",
+      "sourceText": "They are unwilling to make efforts to maintain Workplace relationships.",
+      "sourceHash": "c45a6c3ec59ee4bcecc2363d9a4335b165ec38003428e312a9d9f1338f0bd791",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are unwilling to make efforts to maintain Workplace relationships.",
+      "translationEligible": true,
+      "translationZh": "他们不愿意努力维持职场关系。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-49-1",
+      "optionId": "cet6:2019-06-03:q-49-1:D",
+      "sourceText": "They lack basic communication skills in dealing with interpersonal issues.",
+      "sourceHash": "2f5b308d64c749cbbc9ecc9ba154cad0c6a86e82d989d4c9ba6017601924b030",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They lack basic communication skills in dealing with interpersonal issues.",
+      "translationEligible": true,
+      "translationZh": "他们缺乏处理人际问题的基本沟通技巧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-50-1",
+      "optionId": "cet6:2019-06-03:q-50-1:A",
+      "sourceText": "They provide fun at work.",
+      "sourceHash": "be9c4eb61cce4630a5c1b5e5e61e8256a5e3c9f511ff6acb38ce641bd2b5f1ce",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They provide fun at work.",
+      "translationEligible": true,
+      "translationZh": "他们在工作中提供乐趣。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-50-1",
+      "optionId": "cet6:2019-06-03:q-50-1:B",
+      "sourceText": "They help control emotions.",
+      "sourceHash": "bb005e4a16fd4cb92a228d09f42f1aaaac059933c4bf2b1c5a073e13e3bb2bef",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They help control emotions.",
+      "translationEligible": true,
+      "translationZh": "它们有助于控制情绪。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-50-1",
+      "optionId": "cet6:2019-06-03:q-50-1:C",
+      "sourceText": "They help resolve differences.",
+      "sourceHash": "65fe16086a88e0a2ae3bdd68d149f4f9eb8830740cfca2b3103cac3af7a09154",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They help resolve differences.",
+      "translationEligible": true,
+      "translationZh": "他们帮助解决分歧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-50-1",
+      "optionId": "cet6:2019-06-03:q-50-1:D",
+      "sourceText": "They improve work efficiency.",
+      "sourceHash": "97508124d3b9954c0770ad07f1af27614d992bc5a4041f1035b04d0710d40351",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They improve work efficiency.",
+      "translationEligible": true,
+      "translationZh": "他们提高了工作效率。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-51-1",
+      "optionId": "cet6:2019-06-03:q-51-1:A",
+      "sourceText": "Computers are performing lots of creative tasks.",
+      "sourceHash": "51ad9ce5c35fc8ce195ff8ad6672537cd48c92a612406cbfaeb49e430c611094",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-2",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Computers are performing lots of creative tasks.",
+      "translationEligible": true,
+      "translationZh": "计算机正在执行许多创造性的任务。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-51-1",
+      "optionId": "cet6:2019-06-03:q-51-1:B",
+      "sourceText": "Many abilities will cease to be unique to human beings.",
+      "sourceHash": "348a041402b6ba63c4f9daf76e53ce92fa4e0ef4cf9e576284a4491869eddd4f",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-2",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Many abilities will cease to be unique to human beings.",
+      "translationEligible": true,
+      "translationZh": "许多能力将不再是人类独有的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-51-1",
+      "optionId": "cet6:2019-06-03:q-51-1:C",
+      "sourceText": "Computers may become more rational than humans.",
+      "sourceHash": "53136d28c1ee73e75a3912b3aba3b881d392ed8fb57f4a4f2e5e9af417af0fdb",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-2",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Computers may become more rational than humans.",
+      "translationEligible": true,
+      "translationZh": "计算机可能会变得比人类更加理性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-51-1",
+      "optionId": "cet6:2019-06-03:q-51-1:D",
+      "sourceText": "Many human skills are fast becoming outdated.",
+      "sourceHash": "7cd51f8bc08af6d9f2357bbafc24f2fadde827b79f79cbd63621f3976526cbe8",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-2"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-2",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Many human skills are fast becoming outdated.",
+      "translationEligible": true,
+      "translationZh": "许多人类技能正在迅速过时。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-52-1",
+      "optionId": "cet6:2019-06-03:q-52-1:A",
+      "sourceText": "Google’s experimental driverless cars require little human intervention.",
+      "sourceHash": "67089d0b0a533e16a3d2cbcf0dbd478e5c7b4814c1884e6e944f2bd390367984",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-4",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Google’s experimental driverless cars require little human intervention.",
+      "translationEligible": true,
+      "translationZh": "谷歌的实验性无人驾驶汽车几乎不需要人工干预。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-52-1",
+      "optionId": "cet6:2019-06-03:q-52-1:B",
+      "sourceText": "Google’s cars have surpassed his driving ability in just a single year.",
+      "sourceHash": "e2c82a924e0715c634c9760c5c42cc0ddb4a10492b761918cbb361f756d9414c",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-4",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Google’s cars have surpassed his driving ability in just a single year.",
+      "translationEligible": true,
+      "translationZh": "谷歌的汽车在短短一年内就超越了他的驾驶能力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-52-1",
+      "optionId": "cet6:2019-06-03:q-52-1:C",
+      "sourceText": "Google has made huge progress in autonomous driving in a short time.",
+      "sourceHash": "9423079b21f1b0ccd954613a2a72069ee8046197de2ec1503dfaf4ee4214b0e4",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-4",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Google has made huge progress in autonomous driving in a short time.",
+      "translationEligible": true,
+      "translationZh": "谷歌在短时间内在自动驾驶领域取得了巨大进展。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-52-1",
+      "optionId": "cet6:2019-06-03:q-52-1:D",
+      "sourceText": "Google has become a world leader in the field of autonomous driving.",
+      "sourceHash": "8caefbff45626c9b675226e71b4c36157efc5c11d3a1cc81e9a202dce642bb59",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-4"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-4",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Google has become a world leader in the field of autonomous driving.",
+      "translationEligible": true,
+      "translationZh": "谷歌已经成为自动驾驶领域的全球领导者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-53-1",
+      "optionId": "cet6:2019-06-03:q-53-1:A",
+      "sourceText": "It is rational.",
+      "sourceHash": "6a6aa4f5d7b9014874301e7f3ce3c575bd76d3b61ac5fd7cc3b4cae1ad39979a",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-6",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is rational.",
+      "translationEligible": true,
+      "translationZh": "这是理性的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-53-1",
+      "optionId": "cet6:2019-06-03:q-53-1:B",
+      "sourceText": "It is predictable.",
+      "sourceHash": "406bdaeffa7b9415bffbf061581b32249ab7d638f032217b5d7e09c0afdd7dc2",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-6",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is predictable.",
+      "translationEligible": true,
+      "translationZh": "这是可以预见的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-53-1",
+      "optionId": "cet6:2019-06-03:q-53-1:C",
+      "sourceText": "It is human specific.",
+      "sourceHash": "a91ab57a813eb0a05aca5e2d75dcb05a67a281517a81df197f8b71abcb54da58",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-6",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is human specific.",
+      "translationEligible": true,
+      "translationZh": "这是人类特有的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-53-1",
+      "optionId": "cet6:2019-06-03:q-53-1:D",
+      "sourceText": "It is yet to be emulated by AI.",
+      "sourceHash": "06b38dcfc823c5589e2922b25df86b05a68f45c4768532396e7b398a7c8944dd",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-6"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-6",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is yet to be emulated by AI.",
+      "translationEligible": true,
+      "translationZh": "它还没有被人工智能模仿。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-54-1",
+      "optionId": "cet6:2019-06-03:q-54-1:A",
+      "sourceText": "Cultivate original thinking.",
+      "sourceHash": "3f1ce2d2566217002ebb38c831fed5fee12ed28e2377ab971ce21ae8ec740ae8",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-8",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Cultivate original thinking.",
+      "translationEligible": true,
+      "translationZh": "培养原创思维。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-54-1",
+      "optionId": "cet6:2019-06-03:q-54-1:B",
+      "sourceText": "Learn to work independently.",
+      "sourceHash": "20b3e50b99071178397e7b1014767f410b608fc285f1a9730c5db192617edec3",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-8",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Learn to work independently.",
+      "translationEligible": true,
+      "translationZh": "学会独立工作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-54-1",
+      "optionId": "cet6:2019-06-03:q-54-1:C",
+      "sourceText": "Compete with smart machines.",
+      "sourceHash": "e225c73090b5311f7ff86d5fd088a447f99fd71b9dfde43b1eb3239814720e07",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-8",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Compete with smart machines.",
+      "translationEligible": true,
+      "translationZh": "与智能机器竞争。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-54-1",
+      "optionId": "cet6:2019-06-03:q-54-1:D",
+      "sourceText": "Understand how AI works.",
+      "sourceHash": "f3416192d6d1d76f7a906d03c055dac68d47d5c685e894b1671047b8152ed54e",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-8"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-8",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Understand how AI works.",
+      "translationEligible": true,
+      "translationZh": "了解人工智能的工作原理。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-55-1",
+      "optionId": "cet6:2019-06-03:q-55-1:A",
+      "sourceText": "By constantly outsmarting computers.",
+      "sourceHash": "dce7fdcc95b4ac8dab8e6c24882b82d9c8d488c18c867af26b76ad80572f8970",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-10",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "By constantly outsmarting computers.",
+      "translationEligible": true,
+      "translationZh": "通过不断智胜计算机。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-55-1",
+      "optionId": "cet6:2019-06-03:q-55-1:B",
+      "sourceText": "By adopting a long-term perspective.",
+      "sourceHash": "95fc44efa9f54637fcd97957c9ad920f51330b8e19ac04931b92c6e83e95b786",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-10",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "By adopting a long-term perspective.",
+      "translationEligible": true,
+      "translationZh": "通过采取长远的眼光。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-55-1",
+      "optionId": "cet6:2019-06-03:q-55-1:C",
+      "sourceText": "By rationally compromising with AI.",
+      "sourceHash": "4c2182d66cf168f5516bb265ec597575c280ad999c1f9b3739d3e621b5bda86e",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-10",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "By rationally compromising with AI.",
+      "translationEligible": true,
+      "translationZh": "通过与人工智能理性妥协。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-55-1",
+      "optionId": "cet6:2019-06-03:q-55-1:D",
+      "sourceText": "By providing value with our creativity.",
+      "sourceHash": "075ee7f8155077a5a0c4901b64567dc5a4117df95b182de3b536e58ea3d782bd",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-6-10"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-6-10",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "By providing value with our creativity.",
+      "translationEligible": true,
+      "translationZh": "通过我们的创造力提供价值。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:A",
+      "sourceText": "abruptly",
+      "sourceHash": "ea6648bea454aa88891b3b40c569f7de3431eb15e83a26627c09e63eb4d18b52",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "abruptly",
+      "translationEligible": true,
+      "translationZh": "突然地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:B",
+      "sourceText": "additives",
+      "sourceHash": "bf08cb04bea7f99593307deb3bdf538a78f9b9bee99fee27c6331c819d3c8103",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "additives",
+      "translationEligible": true,
+      "translationZh": "添加剂",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:C",
+      "sourceText": "approach",
+      "sourceHash": "cec9111de36d4a50c3e667f6ecf2e4a69bfc1efe69c66103c57d48dfe6a9211b",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "approach",
+      "translationEligible": true,
+      "translationZh": "方法",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:D",
+      "sourceText": "ardently",
+      "sourceHash": "d2fbf912022aba2734179aa1c9f219c43cdb2bd8284e0782efa7891f92f7a69d",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "ardently",
+      "translationEligible": true,
+      "translationZh": "热情地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:E",
+      "sourceText": "besieged",
+      "sourceHash": "d7f30a20250ac13f2d080a889221c2ea6db26dab59f5d01b8bee4ad1560e85ac",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "besieged",
+      "translationEligible": true,
+      "translationZh": "被围困",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:F",
+      "sourceText": "channel",
+      "sourceHash": "69e36568cd8b4659389b9fcfbe1167547f6421e78168bfb439dada2ffddb0146",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "channel",
+      "translationEligible": true,
+      "translationZh": "频道",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:G",
+      "sourceText": "comparable",
+      "sourceHash": "8751a3fcac50b3ba5e32bab4b31dbd1b35414bbd12bd19a6241254e6dc2cad3a",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "comparable",
+      "translationEligible": true,
+      "translationZh": "可比的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:H",
+      "sourceText": "components",
+      "sourceHash": "7b12be43febc6e18259dd77c004315b4143d570234e0f15acf5f9d7b79c371b5",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "components",
+      "translationEligible": true,
+      "translationZh": "组件",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:I",
+      "sourceText": "cracked",
+      "sourceHash": "615b26545c0f17635b6f0d0d70c0c8d5c9405881c00f972627a26bf129be51bb",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "cracked",
+      "translationEligible": true,
+      "translationZh": "破裂的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:J",
+      "sourceText": "fractures",
+      "sourceHash": "61a17b7a6e35523001b0ece79e531df9f33cae591b76bb880d72e780dc9d5b8a",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "fractures",
+      "translationEligible": true,
+      "translationZh": "骨折",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:K",
+      "sourceText": "hollow",
+      "sourceHash": "b21b17b4ecc60cdbfa7b8dfd13b611a862f8c0a8416f0a0958356cffef8e26f2",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "hollow",
+      "translationEligible": true,
+      "translationZh": "空心的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:L",
+      "sourceText": "relevant",
+      "sourceHash": "e4f3477880707e24b34af6feb42f75e3fcca0db54dc21f5d8b97d0ce93edb7a0",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "relevant",
+      "translationEligible": true,
+      "translationZh": "相关的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:M",
+      "sourceText": "reshuffled",
+      "sourceHash": "533dad2740e199936809028a4e10e090de0975743d23e7c8a047fbbaec635216",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "reshuffled",
+      "translationEligible": true,
+      "translationZh": "重新洗牌",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:N",
+      "sourceText": "strived",
+      "sourceHash": "d17fa6df2fd010abbb3e08edf77037e97eefe3e7731937240e083e84de31dc60",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "strived",
+      "translationEligible": true,
+      "translationZh": "努力过",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet6:2019-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet6:2019-06-03",
+      "questionId": "cet6:2019-06-03:q-26-1",
+      "optionId": "cet6:2019-06-03:word-bank:O",
+      "sourceText": "violent",
+      "sourceHash": "86fb8a2cd1f9cedcb3e2e8fcbc5853c227d2da006e1b821ba3788a8a63a4e175",
+      "sourceBlockIds": [
+        "cet6:2019-06-03:b-1-15"
+      ],
+      "reflowBlockId": "cet6:2019-06-03:b-1-15",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "violent",
+      "translationEligible": true,
+      "translationZh": "暴力的",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-7",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-8",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-11",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-12",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-13",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-1-14",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet6:2019-06-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-1",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-2",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-3",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet6:2019-06-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet6:2019-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-4-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-4",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-5",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-4-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-4-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-8",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-9",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-14",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-4-14"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-15",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-4-17",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-2",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-8",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-9",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-5-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-10",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-11",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-5-11"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-12",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-5-13",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet6:2019-06-03:p:b-5-13"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-1",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-6-1"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-3",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-6-3"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-6-5"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-6-7"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet6:2019-06-03:p:b-6-9"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-11",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-12",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet6:2019-06-03:p:b-6-12"
+    },
+    {
+      "sourceBlockId": "cet6:2019-06-03:b-6-13",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 12,
+    "included": 59
+  },
+  "reasonCounts": {
+    "cloze": 6,
+    "cross_page_continuation": 1,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_paragraph": 13,
+    "reading_prose": 11,
+    "section_label": 9
+  },
+  "kindCounts": {
+    "cloze": 6,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 13,
+    "question_prompt": 20,
+    "reading": 11
+  },
+  "otherSourceBlockCounts": {
+    "options": 12
+  },
+  "issues": []
+}

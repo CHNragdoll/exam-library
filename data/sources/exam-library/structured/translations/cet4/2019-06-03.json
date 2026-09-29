@@ -1,0 +1,3511 @@
+{
+  "schema": "english-paragraph-translations.v1",
+  "paperId": "cet4:2019-06-03",
+  "category": "cet4",
+  "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+  "sourcePdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+  "paragraphs": [
+    {
+      "id": "cet4:2019-06-03:p:b-1-3",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a volunteer activity organized by your Student Union to assist elderly people in the neighborhood.You should write at least 120 words but no more than180 words. ____________________________________________________________________________________________ ____________________________________________________________________________________________ ____________________________________________________________________________________________ PartⅡ Listening Comprehension (25 minutes)",
+      "sourceHash": "96dbb649797c6df2138165c21db058784921651df076e5e94b222f1f14b57a72",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：这一部分，你可以用30分钟的时间，在校报上写一篇关于学生会组织的帮助社区老人的志愿者活动的新闻报道。你应该写至少120字，但不超过180字。 ____________________________________________________________________________________________ ____________________________________________________________________________________________ ____________________________________________________________________________________________第二部分听力理解（25分钟）",
+      "source": {
+        "blockIds": [
+          "b-1-3"
+        ],
+        "reflowBlockIds": [
+          "b-1-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-7",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once．",
+      "sourceHash": "f0f4de6995857a72aad8820a33e61d42dbcff389bcb6001fa55974db2d5c9b9b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，有一段有十个空格。您需要从文章后面的单词库中给出的选项列表中为每个空白选择一个单词。在做出选择之前仔细阅读该段落。银行中的每个选择都由一个字母标识。请在答题卡 2 上的每个项目上用一条穿过中心的单线标记相应的字母。您不得多次使用银行中的任何单词。",
+      "source": {
+        "blockIds": [
+          "b-1-7"
+        ],
+        "reflowBlockIds": [
+          "b-1-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-8",
+      "paperId": "cet4:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Ships are often sunk in order to create underwater reefs (暗礁)perfect for scuba diving (水肺式潜泳)and preserving marine 26 . Turkish authorities have just sunk something a little different than a ship, and it wouldn’t normally ever touch water, an Airbus A300. The hollowed-out A300 was 27 of everything potentially harmful to the environment and sunk off the Aegean coast today. Not only will the sunken plane 28 the perfect skeleton for artificial reef growth, tut authorities hope this new underwater attraction will bring tourists to the area.",
+      "sourceHash": "55d172cabec63369278ae45b713e06414d3d61264587e8c076aa009ff4394804",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "船舶经常被沉没，以形成适合水肺式潜泳和保护海洋栖息地的水下珊瑚礁。土耳其当局刚刚击沉了一架与船略有不同的东西，它通常不会接触水，这就是一架空客 A300。这架被掏空的 A300 被清除了所有可能对环境有害的东西，并于今天在爱琴海沿岸沉没。沉没的飞机不仅将为人工鱼礁生长创造完美的骨架，当局还希望这个新的水下景点将为该地区带来游客。",
+      "source": {
+        "blockIds": [
+          "b-1-8"
+        ],
+        "reflowBlockIds": [
+          "b-1-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-9",
+      "paperId": "cet4:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "The plane 29 a total length of 54 meters, where experienced scuba divers will 30 be able to venture through the cabin and around the plane’s 31 . Aydin Municipality bought the plane from a private company for just under US$100,000, but they hope to see a return on that 32 through the tourism industry. Tourism throughout Turkey is expected to fall this year as the country has been the 33 of several deadly terrorist attacks. As far as sunken planes go, this Airbus A300 is the largest 34 sunk aircraft ever.",
+      "sourceHash": "081ceead4a40a9e9d66bd5e36c518718cfb24eed29ddae2adde3447de346a744",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "这架飞机全长 54 米，经验丰富的水肺潜水员最终将能够在机舱和飞机外部进行冒险。艾登市政府以不到 10 万美元的价格从一家私人公司购买了这架飞机，但他们希望通过旅游业看到投资回报。由于土耳其遭受了多起致命的恐怖袭击，预计今年整个土耳其的旅游业将下降。就沉没飞机而言，这架空客 A300 是有史以来最大的故意沉没飞机。",
+      "source": {
+        "blockIds": [
+          "b-1-9"
+        ],
+        "reflowBlockIds": [
+          "b-1-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-10",
+      "paperId": "cet4:2019-06-03",
+      "kind": "cloze",
+      "sourceText": "Taking a trip underwater and 35 the inside of a sunken A300 would be quite an adventure, and that is exactly what Turkish authorities are hoping this attraction will make people think. Drawing in adventure seekers and experienced divers, this new artificial Airbus reef will be a scuba diver’s paradise (天堂).",
+      "sourceHash": "856f04a5ec2c9a025f282302025b799504aa66e3bc8111251821e03df96e1ea4",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "在水下旅行并探索沉没的 A300 的内部将是一次相当大的冒险，而这也正是土耳其当局希望这个景点能够引起人们思考的地方。这个新的空中客车人造礁石吸引了冒险家和经验丰富的潜水员，将成为水肺潜水员的天堂。",
+      "source": {
+        "blockIds": [
+          "b-1-10"
+        ],
+        "reflowBlockIds": [
+          "b-1-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-13",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "sourceHash": "fa88743ffc0104d22a8298d755b9386d75a4a370ed24d717ab2d78c4fd887db7",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：在本节中，您将阅读一段附有十个陈述的段落。每条陈述都包含其中一个段落中给出的信息。确定信息来源的段落。您可以多次选择一个段落。每个段落都标有一个字母。通过在答题卡 2 上标记相应的字母来回答问题。",
+      "source": {
+        "blockIds": [
+          "b-1-13"
+        ],
+        "reflowBlockIds": [
+          "b-1-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-1-14",
+      "paperId": "cet4:2019-06-03",
+      "kind": "heading_prose",
+      "sourceText": "Make Stuff, Fail, And Learn While You’re At It",
+      "sourceHash": "f9e2380296ed2adcc2255b61c16f78a70bb7152a9ca4651a3abd7794bf2cdd4a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-1-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "创造东西、失败并边学习边做事",
+      "source": {
+        "blockIds": [
+          "b-1-14"
+        ],
+        "reflowBlockIds": [
+          "b-1-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "1"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-1",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "A) We’ve always been a hands-on, do-it-yourself kind of nation. Ben Franklin, one of America’s founding fathers, didn’t just invent the lightning rod. His creations include glasses, innovative stoves and more.",
+      "sourceHash": "6f746422c6210ba232b23187aac5492900a558a90ca00d8668b851e439b2fe3b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "答）我们一直是一个亲力亲为、自己动手的国家。美国开国元勋之一本·富兰克林不仅发明了避雷针。他的创作包括眼镜、创新炉灶等。",
+      "source": {
+        "blockIds": [
+          "b-2-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-2",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "B) Franklin, who was largely self-taught, may have been a genius, but he wasn’t really an exception when it comes to American making and creativity.",
+      "sourceHash": "125a4696f47d90f3f8910f174aa9770742cbb292f9fe717e5fa828b90b6618d9",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "B) 富兰克林很大程度上是自学成才的，他可能是一个天才，但在美国制造和创造力方面，他并不是一个例外。",
+      "source": {
+        "blockIds": [
+          "b-2-2"
+        ],
+        "reflowBlockIds": [
+          "b-2-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-3",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "C) The personal computing revolution and philosophy of disruptive innovation of Silicon Valley grew, in part, out of the creations of the Homebrew Computer Club, Which was founded in a garage in Menlo Park, California, in the mid-1970s. Members — including guys named Jobs and Wozniak — started making and inventing things they couldn’t buy.",
+      "sourceHash": "6a1538a3156b58ec2dd9573da71281e1d8ba1788ba8b7b1f9ef0460acd88f070",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "C) 硅谷的个人计算革命和颠覆性创新理念部分源于 Homebrew 计算机俱乐部的创造，该俱乐部于 20 世纪 70 年代中期在加利福尼亚州门洛帕克的一个车库中成立。成员们——包括乔布斯和沃兹尼亚克——开始制造和发明他们买不到的东西。",
+      "source": {
+        "blockIds": [
+          "b-2-3"
+        ],
+        "reflowBlockIds": [
+          "b-2-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-4",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "D) So it’s no surprise that the Maker Movement today is thriving in communities and some schools across America. Making is available to ordinary people who aren’t tied to big companies, big defense labs or research universities. The maker philosophy echoes old ideas advocated by John Dewey, Montessori, and even ancient Greek philosophers, as we pointed out recently.",
+      "sourceHash": "0e7fb7880171af84df2cf03298db2639c76604b7806fd256101c0129268c173d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "D）因此，今天的创客运动在美国各地的社区和一些学校蓬勃发展也就不足为奇了。与大公司、大型国防实验室或研究型大学无关的普通人也可以参与创作。正如我们最近指出的那样，创客哲学与约翰·杜威、蒙台梭利甚至古希腊哲学家所倡导的古老思想相呼应。",
+      "source": {
+        "blockIds": [
+          "b-2-4"
+        ],
+        "reflowBlockIds": [
+          "b-2-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-5",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "E) These maker spaces are often outside of classrooms, and are serving an important educational function. The Maker Movement is rediscovering learning by doing, which is Dewey’s phrase from 100 years ago. We are rediscovering Dewey and Montessori and a lot of the practices that they pioneered that have been forgotten or at least put aside. A maker space is a place which can be in a school, but it doesn’t look like a classroom. It can be in a library. It can be out in the community. It has tools and materials. It’s a place where you get to make things based on your interest and on what you’re learning to do.",
+      "sourceHash": "5aff8dbcf450ec6d44c88d9a536adfb29db5c57e265fd641ddb21cdf9475b9dd",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "E) 这些创客空间通常位于教室之外，并具有重要的教育功能。创客运动正在重新发现边做边学，这是杜威 100 年前的名言。我们正在重新发现杜威和蒙特梭利以及他们开创的许多已被遗忘或至少被搁置的实践。创客空间是一个可以在学校里的地方，但它看起来不像教室。它可以在图书馆里。它可以在社区中出现。它有工具和材料。在这里，你可以根据自己的兴趣和正在学习的内容来制作东西。",
+      "source": {
+        "blockIds": [
+          "b-2-5"
+        ],
+        "reflowBlockIds": [
+          "b-2-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-6",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "F) Ideas about learning by doing have struggled to become mainstream educationally, despite being old concepts from Dewey and Montessori, Plato and Aristotle, and in the American context, Ralph Emerson, on the value of experience and self-reliance. It’s not necessarily an efficient way to learn. We learn, in a sense, by trial and error. Learning from experience is something that takes time and patience. It’s very individualized. If your goal is to have standardized approaches to learning, where everybody learns the same thing at the same time in the same way, then learning by doing doesn’t really fit that mold anymore. It’s not the world of textbooks. It’s not the world of testing.",
+      "sourceHash": "73f87e602816cc1ae4c037a6c143cae6478b0de38632cc69d3c697fca5694d6b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "F) 尽管从杜威和蒙特梭利、柏拉图和亚里士多德以及在美国背景下的拉尔夫·爱默生关于经验和自力更生的价值的老观念来看，从实践中学习的观念一直难以成为教育主流。这不一定是有效的学习方式。从某种意义上说，我们通过反复试验来学习。从经验中学习需要时间和耐心。这是非常个性化的。如果你的目标是采用标准化的学习方法，即每个人在同一时间以相同的方式学习相同的东西，那么边做边学就不再适合这种模式了。这不是教科书上的世界。这不是测试的世界。",
+      "source": {
+        "blockIds": [
+          "b-2-6"
+        ],
+        "reflowBlockIds": [
+          "b-2-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-7",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "G) Learning by doing may not be efficient, but it is effective. Project-based learning has grown in popularity with teachers and administrators. However, project-based learning is not making. Although there is a connection, there is also a distinction. The difference lies in whether the project is in a sense defined and developed by the student or whether it’s assigned by a teacher. We’ll all get the kids to build a small boat. We are all going to learn about X, Y, and Z. That tends to be one form of project-based learning.",
+      "sourceHash": "5cb733929280dfcc1e77acf502ca8ec3f36c90a0230b479ecdf78545a0e42386",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "G) 边做边学可能效率不高，但很有效。基于项目的学习越来越受到教师和管理人员的欢迎。然而，基于项目的学习并不是制作。虽然有联系，但也有区别。区别在于项目在某种意义上是由学生定义和开发的，还是由老师分配的。我们会让孩子们建造一艘小船。我们都会学习 X、Y 和 Z。这往往是基于项目的学习的一种形式。",
+      "source": {
+        "blockIds": [
+          "b-2-7"
+        ],
+        "reflowBlockIds": [
+          "b-2-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-8",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "H) I really believe the core idea of making is to have an idea within your head — or you just borrow it from someone — and begin to develop it , repeat it and improve it. Then, realize that idea somehow. That thing that you make is valuable to you and you can share it with others. I’m interested in how these things are expressions of that person, their ideas, and their interactions with the world.",
+      "sourceHash": "da98ecc20bf7af40d8ed2e3000b6ee0741a0375186b6b730f1e048cb6113fc69",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "H) 我真的相信制作的核心理念是在你的头脑中有一个想法——或者你只是从别人那里借用它——然后开始发展它、重复它并改进它。然后，以某种方式实现这个想法。您制作的东西对您来说很有价值，您可以与他人分享。我感兴趣的是这些东西如何表达那个人、他们的想法以及他们与世界的互动。",
+      "source": {
+        "blockIds": [
+          "b-2-8"
+        ],
+        "reflowBlockIds": [
+          "b-2-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-9",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "I) In some ways, a lot of forms of making in school trivialize（使变得无足轻重）making. The thing that you make has no value to you. Once you are done demonstrating whatever concept was in the textbook, you throw away the pipe cleaners, the cardboard tubes.",
+      "sourceHash": "5b006511079054ad1ef4636c6f4c7ca70b99ef8877e3e7db3bf179bdb8d239e4",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "I) 在某些方面，学校里的许多制作形式都使制作变得琐碎。你所做的东西对你来说没有任何价值。一旦你完成了教科书中的概念演示，你就扔掉管道清洁剂和纸板管。",
+      "source": {
+        "blockIds": [
+          "b-2-9"
+        ],
+        "reflowBlockIds": [
+          "b-2-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-10",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "J) Making should be student-directed and student-led, otherwise it’s boring. It doesn’t have the motivation of the student. I’m not saying that students should not learn concepts or not learn skills. They do. But to really harness their motivation is to build upon their interest. It’s to let them be in control and to drive the car.",
+      "sourceHash": "f5cafa64b4f66ee48ee3071c573a4f4621d0a41b46e63578b9f68bb46d9d2347",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "J) 制作应该由学生指导和主导，否则会很无聊。没有学生的动力。我并不是说学生不应该学习概念或不学习技能。他们确实这么做了。但要真正利用他们的动力，就必须建立在他们的兴趣之上。这是为了让他们控制并驾驶汽车。",
+      "source": {
+        "blockIds": [
+          "b-2-10"
+        ],
+        "reflowBlockIds": [
+          "b-2-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-11",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "K) Teachers should aim to build a supportive, creative environment for students to do this work. A very social environment, where they are learning from each other. When they have a problem, it isn’t the teacher necessarily coming in to solve it. They are responsible for working through that problem. It might be they have to talk to other students in the class to help get an answer.",
+      "sourceHash": "e260f15ebb93276befb4fcb975bd2eee9eed5b1cf1e0e271c8138b86b33a5f3b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "K) 教师应致力于为学生建立一个支持性、创造性的环境来完成这项工作。这是一个非常社交的环境，他们可以互相学习。当他们遇到问题时，不一定是老师来解决。他们负责解决这个问题。他们可能必须与班上的其他学生交谈才能获得答案。",
+      "source": {
+        "blockIds": [
+          "b-2-11"
+        ],
+        "reflowBlockIds": [
+          "b-2-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "2"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-2-12",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "L) The teacher’s role is more of a coach or observer. Sometimes, to people, it sounds like this is a diminished rote for teachers. I think it’s a heightened role. You’re creating this environment, like a maker space. You have 20 kids doing different things. You are watching them and really it’s the human behaviors you’re looking at . Are they engaged? A they developing and repeating their project? Are they stumbling (受挫) ？Do they need something that they don’t have? Can you help them be aware of where they are?",
+      "sourceHash": "ffe427fac7de8ff06d00f1091ad9d60338d6c22922dc07d205a1faa94ecf6c21",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-2-12",
+        "cet4:2019-06-03:b-3-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-2-12",
+        "cet4:2019-06-03:b-3-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "L) 老师的角色更多的是教练或观察者。有时，对人们来说，这听起来像是老师的死记硬背。我认为这是一个更重要的角色。你正在创造这个环境，就像创客空间一样。你有 20 个孩子在做不同的事情。你正在观察他们，实际上你正在观察的是人类行为。他们订婚了吗？他们正在开发并重复他们的项目吗？他们是否需要一些他们没有的东西？你能帮助他们知道自己在哪里吗？",
+      "source": {
+        "blockIds": [
+          "b-2-12",
+          "b-3-1"
+        ],
+        "reflowBlockIds": [
+          "b-2-12",
+          "b-3-1"
+        ],
+        "blockParagraphIndices": [
+          0,
+          0
+        ],
+        "pages": [
+          "2",
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-2",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "M) My belief is that the goal of making is not to get every kid to be hands-on, but it enable us to be good learners. It’s not the knowledge that is valuable, It’s the practice of learning new things and understanding how things work. These are processes that you are developing so that you are able, over time, to tackle more interesting problems, more challenging problems—problems that require many people instead of one person, and many skills instead of one.",
+      "sourceHash": "bd5f6cf64b1125d96938ab3b52246248ea09d2cfd2e966470f41f7855eb84916",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "M）我的信念是，制作的目标不是让每个孩子都动手实践，而是让我们成为优秀的学习者。有价值的不是知识，而是学习新事物和理解事物如何运作的实践。您正在开发这些流程，以便随着时间的推移，您能够解决更有趣的问题、更具挑战性的问题——这些问题需要很多人而不是一个人，需要多种技能而不是一种技能。",
+      "source": {
+        "blockIds": [
+          "b-3-2"
+        ],
+        "reflowBlockIds": [
+          "b-3-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-3",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "N) If teachers keep it form-free and student-led, it can still be tied to a curriculum and an educational plan. I think a maker space is more like a like a library in that there are multiple subjects and multiple things that you can learn. What seems to be missing in school is how these subjects integrate, how they fit together in any meaningful way. Rather than saying, ‘This is science, over here is history,’ I see schools taking this idea of projects and looking at: How do they support children in higher level learning?",
+      "sourceHash": "7504c3e7fd945e96bde0d6aa9f8fb0d151503008315ec3a2b3bb7bdcdf03809f",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "N）如果教师保持它的形式自由和学生主导，它仍然可以与课程和教育计划联系在一起。我认为创客空间更像是一个图书馆，因为你可以学习多种学科和多种东西。学校似乎缺少的是这些科目如何整合，如何以有意义的方式结合在一起。我看到学校不会说“这是科学，这是历史”，而是采用这种项目理念并关注：他们如何支持孩子们进行更高水平的学习？",
+      "source": {
+        "blockIds": [
+          "b-3-3"
+        ],
+        "reflowBlockIds": [
+          "b-3-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-4",
+      "paperId": "cet4:2019-06-03",
+      "kind": "passage_option",
+      "sourceText": "O) I feel like this is a shift away form a subject matter-based curriculum to a more experiential curriculum or learning. It’s still in its early stages, but I think it’s shifting around not what kids learn but how they learn.",
+      "sourceHash": "4f9c21313d8f36b61c66b6c21e4f64e2230de4a8cdd81b16fe4e82da4ef66335",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "O）我觉得这是从基于主题的课程向更具体验性的课程或学习的转变。它仍处于早期阶段，但我认为它改变的不是孩子们学习的内容，而是他们学习的方式。",
+      "source": {
+        "blockIds": [
+          "b-3-4"
+        ],
+        "reflowBlockIds": [
+          "b-3-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-5",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "36.A maker space is where people make things according to their personal interests.",
+      "sourceHash": "655ef3fdcca273b7d220e498beb84a586db3de90fbf23246937bcc3ea825cd44",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-5"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "36.创客空间是人们根据个人兴趣制作东西的地方。",
+      "source": {
+        "blockIds": [
+          "b-3-5"
+        ],
+        "reflowBlockIds": [
+          "b-3-5"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-6",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "37.The teachers’ role is enhanced in a maker space as they have to monitor and facilitate during the process.",
+      "sourceHash": "f24cb46632b02b34c84e6bdaa2e3a78dc8584f249b1a42f121c6af0cf56360b8",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "37.教师的作用在创客空间中得到加强，因为他们必须在此过程中进行监督和促进。",
+      "source": {
+        "blockIds": [
+          "b-3-6"
+        ],
+        "reflowBlockIds": [
+          "b-3-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-7",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "38.Coming up with an idea of one’s own or improving one from others is key to the concept of making.",
+      "sourceHash": "9b7c415b43de283228ea5e3d9284980a1749c247cf076bbe345c444b4f02374d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-7"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "38.提出自己的想法或改进他人的想法是创造概念的关键。",
+      "source": {
+        "blockIds": [
+          "b-3-7"
+        ],
+        "reflowBlockIds": [
+          "b-3-7"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-8",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "39.Contrary to structured learning, learning by doing is highly individualized.",
+      "sourceHash": "11b04e01b27630b650c6af367d0aa15ae9c1794013bc2fd6d315d2936e37a8e0",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "39.与结构化学习相反，干中学是高度个性化的。",
+      "source": {
+        "blockIds": [
+          "b-3-8"
+        ],
+        "reflowBlockIds": [
+          "b-3-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-9",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "40.America is a nation known for the idea of making things by oneself.",
+      "sourceHash": "3c3dd803170ab4b8477199a5cdd21a4dc70d003c31261fecc66c884d64865085",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-9"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "40.美国是一个以自己创造东西的理念而闻名的国家。",
+      "source": {
+        "blockIds": [
+          "b-3-9"
+        ],
+        "reflowBlockIds": [
+          "b-3-9"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-10",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "41.Making will be boring unless students are able to take charge.",
+      "sourceHash": "9ed9c67a14c63883cae14a986cc1e48c936d02b68093b8edf29725754b2553c1",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "41.除非学生能够掌控，否则制作将会很无聊。",
+      "source": {
+        "blockIds": [
+          "b-3-10"
+        ],
+        "reflowBlockIds": [
+          "b-3-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-11",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "42.Making can be related to a project, but it is created and carried out by students themselves.",
+      "sourceHash": "a2aa68888e44a34baf4a9e033d40a81ce9bc53eb5ea72ee7ab620d3f701cd5b6",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-11"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "42.制作可以与一个项目相关，但它是由学生自己创建和执行的。",
+      "source": {
+        "blockIds": [
+          "b-3-11"
+        ],
+        "reflowBlockIds": [
+          "b-3-11"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-12",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "43.The author suggests incorporating the idea of a maker space into a school curriculum.",
+      "sourceHash": "b68fb697e97bd0e0630046193f1e209ea0feb688765074cb411db4f0bed5ac1a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "43.作者建议将创客空间的理念纳入学校课程。",
+      "source": {
+        "blockIds": [
+          "b-3-12"
+        ],
+        "reflowBlockIds": [
+          "b-3-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-13",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "44.The maker concept is a modern version of some ancient philosophical ideas.",
+      "sourceHash": "21e7724a366ae91e86d71e846841fef81bc54aeea2eeae3030bc5ba109870ca7",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-13"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-13"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "44.创客概念是一些古代哲学思想的现代版本。",
+      "source": {
+        "blockIds": [
+          "b-3-13"
+        ],
+        "reflowBlockIds": [
+          "b-3-13"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-14",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "45.Making is not taken seriously in school when students are asked to make something meaningless to them based on textbooks.",
+      "sourceHash": "cbcdb6ee76fd146f400da0f71dabc73cb1e55e5b1c14ebf6fb40bff5ddfb147a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-14"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "45.当学生被要求根据课本制作一些对他们来说毫无意义的东西时，学校并没有认真对待制作。",
+      "source": {
+        "blockIds": [
+          "b-3-14"
+        ],
+        "reflowBlockIds": [
+          "b-3-14"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-16",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "sourceHash": "a207f1b6ab0b6421dbf471e760f48682e8e2ee3f99d6673612d6dce10015c173",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：本节有 2 段。每段文章后面都有一些问题或未完成的陈述。每个选项都有四个选项，标记为 A)、B)、C) 和 D)。您应该决定最佳选择，并在答题卡 2 上用一条穿过中心的单线标记相应的字母。",
+      "source": {
+        "blockIds": [
+          "b-3-16"
+        ],
+        "reflowBlockIds": [
+          "b-3-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-18",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 46 to 50 are based on the following passage.",
+      "sourceHash": "512aa3c0c203c60365cea6dcc5240521ee5e6ce7b03e948a2fe417e201c9c749",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "第 46 至 50 题基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-3-18"
+        ],
+        "reflowBlockIds": [
+          "b-3-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-19",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Most kids grow up learning they cannot draw on the walls. But it might be time to unlearn that training—this summer, group of culture addicts, artists and community organizers are inviting New Yorkers to write all over the walls of an old house on Governor’s Island.",
+      "sourceHash": "15d03f5490cabd3cfc102d72ecef0d5f9447b81b5355481bb36523ddd0524300",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-19"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "大多数孩子在成长过程中都知道自己不能在墙上画画。但也许是时候忘掉这种训练了——今年夏天，一群文化爱好者、艺术家和社区组织者邀请纽约人在总督岛一栋老房子的墙壁上写字。",
+      "source": {
+        "blockIds": [
+          "b-3-19"
+        ],
+        "reflowBlockIds": [
+          "b-3-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-20",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "The project is called Writing On It All, and it’s a participatory writing project and artistic experiment that has happened on Governor’s Island every summer since 2013.",
+      "sourceHash": "4b64108b571be53db5e5a2b3bd7bd29ecd1e7ae8305a187f7e73c8fa3d088ee4",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-20"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-20"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "该项目名为“Writing On It All”，是一项参与性写作项目和艺术实验，自 2013 年以来每年夏天都会在总督岛上进行。",
+      "source": {
+        "blockIds": [
+          "b-3-20"
+        ],
+        "reflowBlockIds": [
+          "b-3-20"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-21",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "“Most of the participants are people who are just walking by or are on the island for other reasons, or they just kind of happen to be there,” Alexandra Chasin, artistic director of Writing On It All,tells Smithsonian.com.",
+      "sourceHash": "8ea3d472406656249590da2d08700f8426bcd548ae46b740a8b6be26dca403db",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-21"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-21"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“大多数参与者只是路过或因其他原因来到岛上的人，或者只是碰巧在那里，”Writing On It All 的艺术总监亚历山德拉·查辛 (Alexandra Chasin) 告诉史密森尼网站。",
+      "source": {
+        "blockIds": [
+          "b-3-21"
+        ],
+        "reflowBlockIds": [
+          "b-3-21"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-22",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "The 2016 season runs through June 26 and features sessions facilitated by everyone from dancers to domestic workers. Each session has a theme, and participants are given a variety of materials and prompts and asked to cover surfaces with their thoughts and art. This year, the programs range from one that turns the house into a collaborative essay to one that explores the meaning of exile.",
+      "sourceHash": "178077601ce3909e7708822cb4c1045aefba8ec07eff5afa725266e6b35d859a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-22"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-22"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "2016 年演出季将持续至 6 月 26 日，活动由从舞者到家政工人等所有人主持。每个课程都有一个主题，参与者会获得各种材料和提示，并被要求用他们的想法和艺术覆盖表面。今年的项目范围广泛，从将房子变成一篇合作论文的项目到探索流亡意义的项目。",
+      "source": {
+        "blockIds": [
+          "b-3-22"
+        ],
+        "reflowBlockIds": [
+          "b-3-22"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-3-23",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Governor’s Island is a national historic landmark district long used for military purposes. Now known as “New York’s shared space for art and play,” the island, which lies between Manhattan and Brooklyn in Upper New York Bay, is closed to cars but open to summer tourists who flock for festivals, picnics, adventures, as well as these “legal graffiti(涂鸦)” Sessions.",
+      "sourceHash": "8ef515321d0bb7a9405d75b8b9ab70de2ec9c10170e079a729046c92c91e9698",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-3-23"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-3-23",
+        "cet4:2019-06-03:b-4-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "总督岛是一个国家历史地标区，长期用于军事目的。该岛位于纽约上湾的曼哈顿和布鲁克林之间，现在被称为“纽约的艺术和娱乐共享空间”，禁止车辆通行，但对夏季游客开放，他们蜂拥而至参加节日、野餐、冒险以及这些“合法涂鸦”活动。",
+      "source": {
+        "blockIds": [
+          "b-3-23"
+        ],
+        "reflowBlockIds": [
+          "b-3-23",
+          "b-4-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "3",
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-2",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "The notes and art scribbled(涂画) on the walls are an experiment in self-expression. So far, participants have ranged in age from 2 to 85. Though Chasin says the focus of the work is on the activity of writing, rather than the text that ends up getting written, some of the work that comes out of the sessions has stuck with her.",
+      "sourceHash": "bd646d7479e14e39b1ae07e22c838f0a77c79bdb50f501983788706513755791",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "墙上的笔记和涂鸦是自我表达的实验。到目前为止，参与者的年龄从 2 岁到 85 岁不等。尽管 Chasin 说工作的重点是写作活动，而不是最终写出的文本，但会议中完成的一些工作却让她印象深刻。",
+      "source": {
+        "blockIds": [
+          "b-4-1"
+        ],
+        "reflowBlockIds": [
+          "b-4-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-3",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "“One of the sessions that moved me the most was state violence on black women and black girls,” says Chasin, explaining that in one room, people wrote down the names of those killed because of it.“People do beautiful work and leave beautiful messages.”",
+      "sourceHash": "0f63062691746c9a5e6b9a0c271ecf19fd0c594a5ad94bfbc48b0bb5fdfc81ef",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "“最让我感动的会议之一是国家对黑人妇女和黑人女孩的暴力，”查辛说，并解释说，在一个房间里，人们写下了因此而丧生的人的名字。“人们做了漂亮的工作，留下了漂亮的信息。”",
+      "source": {
+        "blockIds": [
+          "b-4-2"
+        ],
+        "reflowBlockIds": [
+          "b-4-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-4",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "46.What does the project Writing On It All invite people to do?",
+      "sourceHash": "e0b2397dfa15e517a0f0660571bfd19e417f8a251da9f3e6cd4e66137f19f62a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "46.Writing On It All 项目邀请人们做什么？",
+      "source": {
+        "blockIds": [
+          "b-4-3"
+        ],
+        "reflowBlockIds": [
+          "b-4-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-6",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "47.What do we learn about the participants in the project?",
+      "sourceHash": "8ce4e98ac96eca2169488720e7e479eab75ed7f69eabb38990a97742f89e120d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-5"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "47.我们对项目参与者了解什么？",
+      "source": {
+        "blockIds": [
+          "b-4-5"
+        ],
+        "reflowBlockIds": [
+          "b-4-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-8",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "48.What did the project participants do during the 2016 season?",
+      "sourceHash": "4fe5ddf3efaa85b2fa1a9e71c6836ed19567f3c0aa2910496bf73533ca104b60",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-7"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "48.2016赛季项目参与者做了什么？",
+      "source": {
+        "blockIds": [
+          "b-4-7"
+        ],
+        "reflowBlockIds": [
+          "b-4-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-10",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "49.What kind of place is Governor’s Island?",
+      "sourceHash": "4eb136bfc67aa38f45f6eb6658889357b7b3f78e83537c672608d45cb8d92698",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-9"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "49.总督岛是一个什么样的地方？",
+      "source": {
+        "blockIds": [
+          "b-4-9"
+        ],
+        "reflowBlockIds": [
+          "b-4-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-12",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "50.What does Chasin say about the project?",
+      "sourceHash": "2e2d11ed7ac9518e8e8191bd7004150602716285b72b748f166ddc9eaa8a87fd",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-11"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "50.Chasin 对这个项目有何评价？",
+      "source": {
+        "blockIds": [
+          "b-4-11"
+        ],
+        "reflowBlockIds": [
+          "b-4-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-15",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Questions 51 to 55 are based on the following passage.",
+      "sourceHash": "d15f563a64800935bd7f4522b49d5a41dc3088d3f35b7466d685ce3d88401568",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-14"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "问题 51 至 55 基于以下段落。",
+      "source": {
+        "blockIds": [
+          "b-4-14"
+        ],
+        "reflowBlockIds": [
+          "b-4-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-16",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Online programs to fight depression are already commercially available. While they sound efficient and cost-saving, a recent study reports that they are not effective, primarily because depressed patients are not likely to engage with them or stick with them.",
+      "sourceHash": "80f31260abd3726e85efdf8b9995abba2e9e224ef14a9d1b15e76c0e1c4cdf50",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-16"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "对抗抑郁症的在线项目已经投入商业使用。虽然它们听起来高效且节省成本，但最近的一项研究报告称它们并不有效，主要是因为抑郁症患者不太可能与它们接触或坚持使用它们。",
+      "source": {
+        "blockIds": [
+          "b-4-15"
+        ],
+        "reflowBlockIds": [
+          "b-4-16"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-17",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "The study looked at computer-assisted cognitive(认知的) behavioral therapy(CBT) and found that it was no more effective in treating depression than the usual care patients receive from a primary care doctor.",
+      "sourceHash": "e7400e41975ee1bfdf49a9d7b7d3c5a8544bde549375ef1a9319682fdf140b48",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-16"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-17"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "该研究着眼于计算机辅助认知行为疗法（CBT），发现它在治疗抑郁症方面并不比初级保健医生对患者进行的常规护理更有效。",
+      "source": {
+        "blockIds": [
+          "b-4-16"
+        ],
+        "reflowBlockIds": [
+          "b-4-17"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-18",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Traditional CBT is considered an effective form of talk therapy for depression, helping people challenge negative thoughts and change the way they think in order to change their mood and behaviors. However, online CBT programs have been gaining popularity, with the attraction of providing low-cost help wherever someone has access to a computer.",
+      "sourceHash": "c9a5b855b6b4d5e50aaf260f136c428357613cf4569fbf2ab238f659b6e33797",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-17"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-18"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "传统的 CBT 被认为是治疗抑郁症的有效谈话疗法，可以帮助人们挑战消极想法并改变他们的思维方式，从而改变他们的情绪和行为。然而，在线 CBT 计划越来越受欢迎，因为只要有人可以使用计算机，就可以提供低成本的帮助。",
+      "source": {
+        "blockIds": [
+          "b-4-17"
+        ],
+        "reflowBlockIds": [
+          "b-4-18"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-4-19",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "A team of researchers from the University of York conducted a randomized(随机的) control trial with 691 depressed patients from 83 physician practices across England. The patients were split into three groups: one group received only usual care from a physician while the other two groups received usual care from a physician plus one of two computerized CBT programs. Participants were balanced across the three groups for age, sex, educational background, severity and duration of depression, and use of antidepressants(抗抑郁药).",
+      "sourceHash": "fcf68aaf8bed56d1ac195820ae9511391bff8795c6e4a2a2478b36a424a3a892",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-18"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-4-19"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "约克大学的一组研究人员对来自英格兰 83 个医生诊所的 691 名抑郁症患者进行了一项随机对照试验。患者被分为三组：一组仅接受医生的常规护理，而另外两组则接受医生的常规护理以及两个计算机化 CBT 程序之一。三组参与者的年龄、性别、教育背景、抑郁症的严重程度和持续时间以及抗抑郁药的使用情况都是平衡的。",
+      "source": {
+        "blockIds": [
+          "b-4-18"
+        ],
+        "reflowBlockIds": [
+          "b-4-19"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "4"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-1",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "After four months, the patients using the computerized CBT programs had no improvement in depression levels over the patients who were only getting usual care from their doctors.",
+      "sourceHash": "10567f4b09c6fb63e79dea97d817d1a3369f3a7354df56e3948ce77a399d94e8",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-1"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-1"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "四个月后，与仅接受医生常规护理的患者相比，使用计算机化 CBT 程序的患者的抑郁水平没有改善。",
+      "source": {
+        "blockIds": [
+          "b-5-1"
+        ],
+        "reflowBlockIds": [
+          "b-5-1"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-2",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "“It’s an important, cautionary note that we shouldn’t get too carried away with the idea that a computer system can replace doctors and therapists, ” says Christopher Dowrick, a professor of primary medical care at the University of Liverpool. “We do still need the human touch or the human interaction, particularly when people are depressed.”",
+      "sourceHash": "270234c0b540a1d0916a5a8bfb998b68165535c1bd4743761a265c7a5d19f257",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-2"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-2"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "利物浦大学初级医疗保健教授克里斯托弗·道里克（Christopher Dowrick）表示：“这是一个重要的警告，我们不应该对计算机系统可以取代医生和治疗师的想法过于痴迷。” “我们仍然需要人际接触或人际互动，尤其是当人们感到沮丧时。”",
+      "source": {
+        "blockIds": [
+          "b-5-2"
+        ],
+        "reflowBlockIds": [
+          "b-5-2"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-3",
+      "paperId": "cet4:2019-06-03",
+      "kind": "reading",
+      "sourceText": "Being depressed can mean feeling “lost in your own small, negative, dark world,” Dowrick says. Having a person, instead of a computer, reach out to you is particularly important in combating that sense of isolation. “When you’re emotionally vulnerable, you’re even more in need of a caring human being ,” he says.",
+      "sourceHash": "8ea7389b379e008c0cbcc78f1fef990f9c1643fda3500553db621e7f73ac09a0",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-3"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-3"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "道里克说，抑郁可能意味着感觉“迷失在自己狭小的、消极的、黑暗的世界中”。让一个人而不是一台电脑来联系你对于消除这种孤立感尤为重要。 “当你在情感上脆弱时，你就更需要一个有爱心的人，”他说。",
+      "source": {
+        "blockIds": [
+          "b-5-3"
+        ],
+        "reflowBlockIds": [
+          "b-5-3"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-4",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "51.What does the recent study say about online CBT programs?",
+      "sourceHash": "b3e82c68d82e16152457656361cfc4599361af83459a14297f67e4c1bfad4979",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-4"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-4"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "51.最近的研究对在线 CBT 项目有何看法？",
+      "source": {
+        "blockIds": [
+          "b-5-4"
+        ],
+        "reflowBlockIds": [
+          "b-5-4"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-6",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "52.What has made online CBT programs increasingly popular?",
+      "sourceHash": "e1234972cc6b6f00cc668479d5f344ef4b87ed73f3d4eae9574fb121ea9f91b4",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-6"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-6"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "52.是什么让在线CBT项目越来越受欢迎？",
+      "source": {
+        "blockIds": [
+          "b-5-6"
+        ],
+        "reflowBlockIds": [
+          "b-5-6"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-8",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "53. What is the major finding by researchers at the University of York?",
+      "sourceHash": "8298d458a2525b7ae047b42e036dc9798b8c12488ce415b3475380e2a562dde1",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-8"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-8"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "53. 约克大学研究人员的主要发现是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-8"
+        ],
+        "reflowBlockIds": [
+          "b-5-8"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-10",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "54. What is Professor Dowrick’s advice concerning online CBT programs?",
+      "sourceHash": "2fe823cc51992c11888dc7003f9b36eafabbbf54248f5457d74347727ddb857b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-10"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-10"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "54. Dowrick 教授对在线 CBT 项目的建议是什么？",
+      "source": {
+        "blockIds": [
+          "b-5-10"
+        ],
+        "reflowBlockIds": [
+          "b-5-10"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-12",
+      "paperId": "cet4:2019-06-03",
+      "kind": "question_prompt",
+      "sourceText": "55. What is more important to an emotionally vulnerable person?",
+      "sourceHash": "4b68232d21c5a9241284e2f0c8d546ac9fa50446eabaae1da534a4b13ed47c25",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-12"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-12"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "55. 对于情绪脆弱的人来说，什么更重要？",
+      "source": {
+        "blockIds": [
+          "b-5-12"
+        ],
+        "reflowBlockIds": [
+          "b-5-12"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    },
+    {
+      "id": "cet4:2019-06-03:p:b-5-15",
+      "paperId": "cet4:2019-06-03",
+      "kind": "instruction",
+      "sourceText": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "sourceHash": "26b9339be8891c16362905ec9637fe532558f9971ac1930319839f6e66bdfb69",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-15"
+      ],
+      "reflowBlockIds": [
+        "cet4:2019-06-03:b-5-15"
+      ],
+      "paragraphIndex": 0,
+      "translationEligible": true,
+      "translationZh": "说明：对于这一部分，您有 30 分钟的时间将一段中文翻译成英文。您应该将答案写在答题卡 2 上。",
+      "source": {
+        "blockIds": [
+          "b-5-15"
+        ],
+        "reflowBlockIds": [
+          "b-5-15"
+        ],
+        "blockParagraphIndices": [
+          0
+        ],
+        "pages": [
+          "5"
+        ],
+        "sourceJson": "data/sources/english-exams-reflow-latex/cet4/papers/2019-06-03.json",
+        "pdfSha256": "ae44aa6e7763b815c08dda96a9b2c1b5fadf5f8427bbbc912f8704848c98725d",
+        "originalHtml": "../../../../english-exams-web-2026-09-26/cet4/papers/2019-06-03.htm",
+        "reflowHtml": "../../../../english-exams-reflow-latex/cet4/papers/2019-06-03.htm"
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "cet4:2019-06-03:q-46-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-46-1",
+      "optionId": "cet4:2019-06-03:q-46-1:A",
+      "sourceText": "Unlearn their training in drawing.",
+      "sourceHash": "c02d31abbcb7e311e6385f5b9b6c67f85e5d1617f15d746af8b89b0c73ae6d12",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-4"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Unlearn their training in drawing.",
+      "translationEligible": true,
+      "translationZh": "忘记他们的绘画训练。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-46-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-46-1",
+      "optionId": "cet4:2019-06-03:q-46-1:B",
+      "sourceText": "Participate in a state graffiti show.",
+      "sourceHash": "422c42d7d93c70108200e97d4fcc9513ba27836766ad18f4d9f7284953b69e1f",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-4"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Participate in a state graffiti show.",
+      "translationEligible": true,
+      "translationZh": "参加州涂鸦展。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-46-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-46-1",
+      "optionId": "cet4:2019-06-03:q-46-1:C",
+      "sourceText": "Cover the walls of an old house with graffiti.",
+      "sourceHash": "7993468c89a86b0b1134a574777b27d47a1ce331285ad2dac65d3d5d6691db8c",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-4"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Cover the walls of an old house with graffiti.",
+      "translationEligible": true,
+      "translationZh": "用涂鸦覆盖老房子的墙壁。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-46-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-46-1",
+      "optionId": "cet4:2019-06-03:q-46-1:D",
+      "sourceText": "Exhibit their artistic creations in an old house.",
+      "sourceHash": "664e934534e8127459673ffc75d18ee7b7fac924d6465ce563df8b8a75883079",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-4"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Exhibit their artistic creations in an old house.",
+      "translationEligible": true,
+      "translationZh": "在老房子里展示他们的艺术创作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-47-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-47-1",
+      "optionId": "cet4:2019-06-03:q-47-1:A",
+      "sourceText": "They are just culture addicts.",
+      "sourceHash": "09e725adaa90a70090c6e61b25a6e9b74558b6f01538c2565faae52bed3b4197",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-6"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They are just culture addicts.",
+      "translationEligible": true,
+      "translationZh": "他们只是文化成瘾者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-47-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-47-1",
+      "optionId": "cet4:2019-06-03:q-47-1:B",
+      "sourceText": "They are graffiti enthusiasts.",
+      "sourceHash": "c6a641def7a53137a22eb0980b7fecab83e2ffb78c300d11654b16a3191acd39",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-6"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They are graffiti enthusiasts.",
+      "translationEligible": true,
+      "translationZh": "他们是涂鸦爱好者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-47-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-47-1",
+      "optionId": "cet4:2019-06-03:q-47-1:C",
+      "sourceText": "They are writers and artists.",
+      "sourceHash": "486bab1dc5ef0af6149306879408e6aeb3fa1c31f80df00f37ab1bb807540613",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-6"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They are writers and artists.",
+      "translationEligible": true,
+      "translationZh": "他们是作家和艺术家。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-47-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-47-1",
+      "optionId": "cet4:2019-06-03:q-47-1:D",
+      "sourceText": "They are mostly passers-by.",
+      "sourceHash": "07aeef6a19f7de15320d175e7b996d08a6494662195044bfbf54bb20801782f7",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-6"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They are mostly passers-by.",
+      "translationEligible": true,
+      "translationZh": "他们大多是路人。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-48-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-48-1",
+      "optionId": "cet4:2019-06-03:q-48-1:A",
+      "sourceText": "They were free to scribble on the walls whatever came to their mind.",
+      "sourceHash": "118d7fde7b0fb5e47b2861ba9deab280548d25cec691a28224786a646d1b3f8b",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-8"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They were free to scribble on the walls whatever came to their mind.",
+      "translationEligible": true,
+      "translationZh": "他们可以自由地在墙上涂鸦，想到什么就写什么。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-48-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-48-1",
+      "optionId": "cet4:2019-06-03:q-48-1:B",
+      "sourceText": "They expressed their thoughts in graffiti on the theme of each session.",
+      "sourceHash": "5f375a8e677506a56d27f675fc3c00dbf6ecc2103d95a4ab924ebf8ed2aeb601",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-8"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "They expressed their thoughts in graffiti on the theme of each session.",
+      "translationEligible": true,
+      "translationZh": "他们针对每场会议的主题，用涂鸦表达了自己的想法。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-48-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-48-1",
+      "optionId": "cet4:2019-06-03:q-48-1:C",
+      "sourceText": "They learned the techniques of collaborative writing.",
+      "sourceHash": "810e5c6e004f49da851b083d4dc7469121d6a59eb87acfcb1fce657cf783fa8c",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-8"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They learned the techniques of collaborative writing.",
+      "translationEligible": true,
+      "translationZh": "他们学习了协作写作的技巧。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-48-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-48-1",
+      "optionId": "cet4:2019-06-03:q-48-1:D",
+      "sourceText": "They were required to cooperate with other creators.",
+      "sourceHash": "691e98dd5f97f5c834c82e1cd2f5eba66e60eeadd02d2a19b88b9b0c48741d07",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-8"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They were required to cooperate with other creators.",
+      "translationEligible": true,
+      "translationZh": "他们被要求与其他创作者合作。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-49-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-49-1",
+      "optionId": "cet4:2019-06-03:q-49-1:A",
+      "sourceText": "It is a historic site that attracts tourists and artists.",
+      "sourceHash": "0dfd04afa8a4a9c0c5d50a7f20d9c28e0ccafc6379737d8e625379008e6f9808",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-10"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It is a historic site that attracts tourists and artists.",
+      "translationEligible": true,
+      "translationZh": "这是一个吸引游客和艺术家的历史古迹。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-49-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-49-1",
+      "optionId": "cet4:2019-06-03:q-49-1:B",
+      "sourceText": "It is an area now accessible only to tourist vehicles.",
+      "sourceHash": "0884d7af76833bfc056fc79540666ba9bdda419ce5673d4c3050126e544d7b3d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-10"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It is an area now accessible only to tourist vehicles.",
+      "translationEligible": true,
+      "translationZh": "现在这个区域只有旅游车辆才能进入。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-49-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-49-1",
+      "optionId": "cet4:2019-06-03:q-49-1:C",
+      "sourceText": "It is a place in Upper New York Bay formerly used for exiles.",
+      "sourceHash": "078b8866fb063627053c2aa811e82ce429e608afe0222ccc8fa7d7d113ae8178",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-10"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It is a place in Upper New York Bay formerly used for exiles.",
+      "translationEligible": true,
+      "translationZh": "这是纽约上湾的一个地方，以前用于流放者。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-49-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-49-1",
+      "optionId": "cet4:2019-06-03:q-49-1:D",
+      "sourceText": "It is an open area for tourists to enjoy themselves year round.",
+      "sourceHash": "f455e86fd63a88443599bf4dd1c1247c09242ea2de6e100f9d10988a335821bd",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-10"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It is an open area for tourists to enjoy themselves year round.",
+      "translationEligible": true,
+      "translationZh": "这里是一个开放的地方，一年四季都可供游客游玩。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-50-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-50-1",
+      "optionId": "cet4:2019-06-03:q-50-1:A",
+      "sourceText": "It just focused on the sufferings of black females.",
+      "sourceHash": "0496fb823bd87dd4a0080011ce2e345c1282e6fa07ebe40c5634c7d9c9a3c82e",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-12"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "It just focused on the sufferings of black females.",
+      "translationEligible": true,
+      "translationZh": "它只是关注黑人女性的痛苦。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-50-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-50-1",
+      "optionId": "cet4:2019-06-03:q-50-1:B",
+      "sourceText": "It helped expand the influence of graffiti art.",
+      "sourceHash": "4354b94ba41c838400d7abcef0069b59a76b139ceeefa70099bcb15edbc0f152",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-12"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "It helped expand the influence of graffiti art.",
+      "translationEligible": true,
+      "translationZh": "它有助于扩大涂鸦艺术的影响力。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-50-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-50-1",
+      "optionId": "cet4:2019-06-03:q-50-1:C",
+      "sourceText": "It has started the career of many creative artists.",
+      "sourceHash": "255939e17fab1e80a942160337258daa2aacd547b5b5cd345c2a968d5d43dcc1",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-12"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "It has started the career of many creative artists.",
+      "translationEligible": true,
+      "translationZh": "它开启了许多创意艺术家的职业生涯。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-50-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-50-1",
+      "optionId": "cet4:2019-06-03:q-50-1:D",
+      "sourceText": "It has created some meaningful artistic works.",
+      "sourceHash": "2c3d9d8ccf12095ac5e7da8f6990555cd1703671d23c4727dcf01d3576f7bc7d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-4-12"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-4-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "It has created some meaningful artistic works.",
+      "translationEligible": true,
+      "translationZh": "创作了一些有意义的艺术作品。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-51-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-51-1",
+      "optionId": "cet4:2019-06-03:q-51-1:A",
+      "sourceText": "Patients may not be able to carry them through for effective cure.",
+      "sourceHash": "311e58e6e01546a19116f10ff50040ca023ac9344ae1c7aad186b9a0f07ba83d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-5",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Patients may not be able to carry them through for effective cure.",
+      "translationEligible": true,
+      "translationZh": "患者可能无法坚持有效治愈。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-51-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-51-1",
+      "optionId": "cet4:2019-06-03:q-51-1:B",
+      "sourceText": "Patients cannot engage with them without the use of a computer.",
+      "sourceHash": "177b11b9fd69df8fdfd5f966f6e664561a71ff0f675b5a24aca27cd4432bdf43",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-5",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Patients cannot engage with them without the use of a computer.",
+      "translationEligible": true,
+      "translationZh": "如果不使用计算机，患者就无法与他们互动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-51-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-51-1",
+      "optionId": "cet4:2019-06-03:q-51-1:C",
+      "sourceText": "They can save patients trouble visiting physicians.",
+      "sourceHash": "d03d037914c04d50171c356cdc2eb76fe2bdf75b883e9055d79a50ce7619586c",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-5",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They can save patients trouble visiting physicians.",
+      "translationEligible": true,
+      "translationZh": "它们可以节省患者去看医生的麻烦。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-51-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-51-1",
+      "optionId": "cet4:2019-06-03:q-51-1:D",
+      "sourceText": "They have been well received by a lot of patients.",
+      "sourceHash": "ecb351905d99df0928fc1c5439320bda88e5b65fcea4775f7c17bd5d7e50e50f",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-5"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-5",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "They have been well received by a lot of patients.",
+      "translationEligible": true,
+      "translationZh": "他们受到了很多患者的好评。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-52-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-52-1",
+      "optionId": "cet4:2019-06-03:q-52-1:A",
+      "sourceText": "Their effectiveness in combating depression.",
+      "sourceHash": "427185f2d4633ea65cdd1f2951d29c689686561778ed29e841267e6fa7138481",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-7",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Their effectiveness in combating depression.",
+      "translationEligible": true,
+      "translationZh": "它们对抗抑郁症的功效。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-52-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-52-1",
+      "optionId": "cet4:2019-06-03:q-52-1:B",
+      "sourceText": "The low efficiency of traditional talk therapy.",
+      "sourceHash": "5912cf2f3bcfb002da6dfb3d5ef71dafcc010c9f6a71b65aaf819f59e605934a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-7",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The low efficiency of traditional talk therapy.",
+      "translationEligible": true,
+      "translationZh": "传统谈话治疗效率低下。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-52-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-52-1",
+      "optionId": "cet4:2019-06-03:q-52-1:C",
+      "sourceText": "Their easy and inexpensive access by patients.",
+      "sourceHash": "ee3839d640384ef362c5941adbca5e6efd4c4495292dd05b46da4fc985b4d7c9",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-7",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Their easy and inexpensive access by patients.",
+      "translationEligible": true,
+      "translationZh": "患者可以轻松且廉价地获得它们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-52-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-52-1",
+      "optionId": "cet4:2019-06-03:q-52-1:D",
+      "sourceText": "The recommendation by primary care doctors.",
+      "sourceHash": "7bf43c5c2c0860cd12cc238b815ffa03580aecf000800f2143579499a1bc2151",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-7"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-7",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "The recommendation by primary care doctors.",
+      "translationEligible": true,
+      "translationZh": "初级保健医生的推荐。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-53-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-53-1",
+      "optionId": "cet4:2019-06-03:q-53-1:A",
+      "sourceText": "Online CBT programs are no more effective than regular care from physicians.",
+      "sourceHash": "e71ad2f098b91aa0cb05442f52792cdf5c8a33df3d3655f3dbd99feff2505f5d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-9",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "Online CBT programs are no more effective than regular care from physicians.",
+      "translationEligible": true,
+      "translationZh": "在线 CBT 计划并不比医生的常规护理更有效。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-53-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-53-1",
+      "optionId": "cet4:2019-06-03:q-53-1:B",
+      "sourceText": "The process of treating depression is often more complicated than anticipated.",
+      "sourceHash": "a1a97544181ffb768e730760023aae2cb0317d3b8586100ef9917c1ed848abfd",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-9",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "The process of treating depression is often more complicated than anticipated.",
+      "translationEligible": true,
+      "translationZh": "治疗抑郁症的过程往往比预期的更复杂。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-53-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-53-1",
+      "optionId": "cet4:2019-06-03:q-53-1:C",
+      "sourceText": "The combination of traditional CBT and computerized CBT is most effective.",
+      "sourceHash": "87e51ad2d0ec964476d1a06f91d5e085514cb75f94608c365cd3c5d7654da294",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-9",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "The combination of traditional CBT and computerized CBT is most effective.",
+      "translationEligible": true,
+      "translationZh": "传统CBT和计算机化CBT的结合是最有效的。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-53-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-53-1",
+      "optionId": "cet4:2019-06-03:q-53-1:D",
+      "sourceText": "Depression is a mental condition which is to be treated with extreme caution.",
+      "sourceHash": "9f0ff4895dc5f023c21fb8e442e1aa58640e5aad8eab5ad115d24f4e6b9aa96c",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-9"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-9",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Depression is a mental condition which is to be treated with extreme caution.",
+      "translationEligible": true,
+      "translationZh": "抑郁症是一种精神疾病，治疗时应极其谨慎。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-54-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-54-1",
+      "optionId": "cet4:2019-06-03:q-54-1:A",
+      "sourceText": "They should not be neglected in primary care.",
+      "sourceHash": "43fd0b0236975ab65727e3ef4656e83fc97c8a49f4037060d1bcfa5bcf27919c",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "They should not be neglected in primary care.",
+      "translationEligible": true,
+      "translationZh": "他们在初级保健中不应被忽视。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-54-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-54-1",
+      "optionId": "cet4:2019-06-03:q-54-1:B",
+      "sourceText": "Their effectiveness should not be overestimated.",
+      "sourceHash": "97c4727d0e67b52fb5f6fd83e33c6e903a235a9ff215849b67d0289ad63a4cec",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Their effectiveness should not be overestimated.",
+      "translationEligible": true,
+      "translationZh": "不应高估它们的有效性。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-54-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-54-1",
+      "optionId": "cet4:2019-06-03:q-54-1:C",
+      "sourceText": "They should be used by strictly following instructions.",
+      "sourceHash": "5f2a714b8189d004f8c75d41605cb09fb88a33a4cc5d116e84820ae1b2fed69d",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "They should be used by strictly following instructions.",
+      "translationEligible": true,
+      "translationZh": "应严格按照说明使用它们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-54-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-54-1",
+      "optionId": "cet4:2019-06-03:q-54-1:D",
+      "sourceText": "Their use should be encouraged by doctors and therapists.",
+      "sourceHash": "89d24be55490fcb9880f92b0dbd8bb15edca74dcdae7b209f7e1d1568671eeb6",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Their use should be encouraged by doctors and therapists.",
+      "translationEligible": true,
+      "translationZh": "医生和治疗师应鼓励使用它们。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-55-1:A",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-55-1",
+      "optionId": "cet4:2019-06-03:q-55-1:A",
+      "sourceText": "A positive state of mind.",
+      "sourceHash": "7e0e6970545705f24b654082880af1e53dbc97e8a47bd1b28e8cf656f44004a2",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-13"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-13",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "A positive state of mind.",
+      "translationEligible": true,
+      "translationZh": "积极的心态。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-55-1:B",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-55-1",
+      "optionId": "cet4:2019-06-03:q-55-1:B",
+      "sourceText": "Appropriate medication.",
+      "sourceHash": "dfe1c8af260e4db5248dcdb859f65a16536ee71c01f0e8f2a1ff3511f037f016",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-13"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-13",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "Appropriate medication.",
+      "translationEligible": true,
+      "translationZh": "适当用药。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-55-1:C",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-55-1",
+      "optionId": "cet4:2019-06-03:q-55-1:C",
+      "sourceText": "Timely encouragement.",
+      "sourceHash": "7cb3370ffdd7f48b00e29a6259ed65418605095012be3ae997076d6dcf13c30f",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-13"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-13",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "Timely encouragement.",
+      "translationEligible": true,
+      "translationZh": "及时鼓励。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:q-55-1:D",
+      "kind": "answer_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-55-1",
+      "optionId": "cet4:2019-06-03:q-55-1:D",
+      "sourceText": "Human interaction.",
+      "sourceHash": "e3068be9bca7db958402d768aa0b04215d5bc639f28651a66dfbe1b7879a26d1",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-5-13"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-5-13",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "Human interaction.",
+      "translationEligible": true,
+      "translationZh": "人际互动。",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:A",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:A",
+      "sourceText": "create",
+      "sourceHash": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 0,
+      "reflowSourceText": "create",
+      "translationEligible": true,
+      "translationZh": "创造",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:B",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:B",
+      "sourceText": "depressed",
+      "sourceHash": "22c90970f55ec1175aa5f93eaa327b596504e55e744576fe0282ec52f47dec5f",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 1,
+      "reflowSourceText": "depressed",
+      "translationEligible": true,
+      "translationZh": "郁闷",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:C",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:C",
+      "sourceText": "eventually",
+      "sourceHash": "c8bf82c2cbf5a469c5584886ab5caeea79d8e7a7bcf25a2c4495586317a15734",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 2,
+      "reflowSourceText": "eventually",
+      "translationEligible": true,
+      "translationZh": "最终",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:D",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:D",
+      "sourceText": "experiences",
+      "sourceHash": "1e947f0882d5aa437a9fbef2ff122f460dbfd8ddf46cb8353dbc392e1d743691",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 3,
+      "reflowSourceText": "experiences",
+      "translationEligible": true,
+      "translationZh": "经历",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:E",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:E",
+      "sourceText": "exploring",
+      "sourceHash": "1b3ad7a9a8d2bb3d74dec00fb4061be1d9acb6cce4f8b766d0a35c8759425fc4",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 4,
+      "reflowSourceText": "exploring",
+      "translationEligible": true,
+      "translationZh": "探索",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:F",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:F",
+      "sourceText": "exterior",
+      "sourceHash": "a123a777ca1a5b437abfa9e88c1be0cfc36365f125dcaeeacb1f2d762450d1fa",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 5,
+      "reflowSourceText": "exterior",
+      "translationEligible": true,
+      "translationZh": "外观",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:G",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:G",
+      "sourceText": "habitats",
+      "sourceHash": "1b2a064224ddf299e62041bbae07db0f3fa92ba1c07934c4f0d96e287138cc18",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 6,
+      "reflowSourceText": "habitats",
+      "translationEligible": true,
+      "translationZh": "栖息地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:H",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:H",
+      "sourceText": "innovate",
+      "sourceHash": "a3315d1c95d3f6261c74ef5eef241c3b48819c5e24053af645a61d12837f28e2",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 7,
+      "reflowSourceText": "innovate",
+      "translationEligible": true,
+      "translationZh": "创新",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:I",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:I",
+      "sourceText": "intentionally",
+      "sourceHash": "c2820752d64e02b086fec967badc27a5e12b12ededb5a117eff29b667ec01559",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 8,
+      "reflowSourceText": "intentionally",
+      "translationEligible": true,
+      "translationZh": "故意地",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:J",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:J",
+      "sourceText": "investment",
+      "sourceHash": "f9b21c4bda58a63179532e9c042abbe99dbd276e70e159b304efd58ed0c7a2e3",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 9,
+      "reflowSourceText": "investment",
+      "translationEligible": true,
+      "translationZh": "投资",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:K",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:K",
+      "sourceText": "revealing",
+      "sourceHash": "47373e2db9a5fde623dfcc8c513a5d8be3c550bbaf6e805081c9db582318b826",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 10,
+      "reflowSourceText": "revealing",
+      "translationEligible": true,
+      "translationZh": "揭示",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:L",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:L",
+      "sourceText": "stretches",
+      "sourceHash": "ca2410094ecb6501ed91e3e1b91011a4028fb2ecba254dc29c2f5cfb1393d7e2",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 11,
+      "reflowSourceText": "stretches",
+      "translationEligible": true,
+      "translationZh": "伸展",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:M",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:M",
+      "sourceText": "stripped",
+      "sourceHash": "8531d8960e7f2447508d80e80d48fd96730cf89a9987268971d858fc49cba71a",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 12,
+      "reflowSourceText": "stripped",
+      "translationEligible": true,
+      "translationZh": "剥离的",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:N",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:N",
+      "sourceText": "territory",
+      "sourceHash": "b085a22402bf6ff4dcf9d5296d8d0b5fd06b8edc774b03b5e9c3f4c059842433",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 13,
+      "reflowSourceText": "territory",
+      "translationEligible": true,
+      "translationZh": "领土",
+      "eligibilityReason": "translate"
+    },
+    {
+      "id": "cet4:2019-06-03:word-bank:O",
+      "kind": "word_bank_option",
+      "paperId": "cet4:2019-06-03",
+      "questionId": "cet4:2019-06-03:q-26-1",
+      "optionId": "cet4:2019-06-03:word-bank:O",
+      "sourceText": "victim",
+      "sourceHash": "1bdd5b5b92e2d9f30a3b223bb359551d0da20e3702923e5f7b0a73889eba3d21",
+      "sourceBlockIds": [
+        "cet4:2019-06-03:b-1-11"
+      ],
+      "reflowBlockId": "cet4:2019-06-03:b-1-11",
+      "reflowOptionIndex": 14,
+      "reflowSourceText": "victim",
+      "translationEligible": true,
+      "translationZh": "受害者",
+      "eligibilityReason": "translate"
+    }
+  ],
+  "optionReconciliation": {
+    "eligible": 55,
+    "reason:translate": 55
+  },
+  "sourceInventory": [
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-1",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-2",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-3",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-1-3"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-4",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-5",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-6",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-7",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-1-7"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-8",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2019-06-03:p:b-1-8"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-9",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2019-06-03:p:b-1-9"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-10",
+      "classification": "included",
+      "reason": "cloze",
+      "paragraphId": "cet4:2019-06-03:p:b-1-10"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-12",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-13",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-1-13"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-1-14",
+      "classification": "included",
+      "reason": "heading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-1-14"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-1",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-1"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-2"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-3"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-4"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-5",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-5"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-6",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-6"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-7",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-7"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-8",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-8"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-9",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-9"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-10",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-10"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-11",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-11"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-2-12",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-1",
+      "classification": "included",
+      "reason": "reading_choice_continuation",
+      "paragraphId": "cet4:2019-06-03:p:b-2-12"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-2",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-3-2"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-3",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-3-3"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-4",
+      "classification": "included",
+      "reason": "reading_choice_paragraph",
+      "paragraphId": "cet4:2019-06-03:p:b-3-4"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-5",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-5"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-6"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-7",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-7"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-8"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-9",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-9"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-10"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-11",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-11"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-12"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-13",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-13"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-14",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-3-14"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-15",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-16",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-3-16"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-17",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-18",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-3-18"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-3-19"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-20",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-3-20"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-21",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-3-21"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-22",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-3-22"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-3-23",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-3-23"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-1",
+      "classification": "included",
+      "reason": "cross_page_continuation",
+      "paragraphId": "cet4:2019-06-03:p:b-3-23"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-2"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-3"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-4-4"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-4-6"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-4-8"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-4-10"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-4-12"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-4-15"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-16",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-16"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-17",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-17"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-18",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-18"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-4-19",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-4-19"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-1",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-5-1"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-2",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-5-2"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-3",
+      "classification": "included",
+      "reason": "reading_prose",
+      "paragraphId": "cet4:2019-06-03:p:b-5-3"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-4",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-5-4"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-6",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-5-6"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-8",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-5-8"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-10",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-5-10"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-12",
+      "classification": "included",
+      "reason": "question_prompt",
+      "paragraphId": "cet4:2019-06-03:p:b-5-12"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-14",
+      "classification": "excluded",
+      "reason": "section_label"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-15",
+      "classification": "included",
+      "reason": "instruction",
+      "paragraphId": "cet4:2019-06-03:p:b-5-15"
+    },
+    {
+      "sourceBlockId": "cet4:2019-06-03:b-5-16",
+      "classification": "excluded",
+      "reason": "non_english_or_fragment"
+    }
+  ],
+  "reconciliation": {
+    "excluded": 11,
+    "included": 62
+  },
+  "reasonCounts": {
+    "cloze": 3,
+    "cross_page_continuation": 1,
+    "heading_prose": 1,
+    "instruction": 7,
+    "non_english_or_fragment": 3,
+    "question_prompt": 20,
+    "reading_choice_continuation": 1,
+    "reading_choice_paragraph": 15,
+    "reading_prose": 14,
+    "section_label": 8
+  },
+  "kindCounts": {
+    "cloze": 3,
+    "heading_prose": 1,
+    "instruction": 7,
+    "passage_option": 15,
+    "question_prompt": 20,
+    "reading": 14
+  },
+  "otherSourceBlockCounts": {
+    "options": 11
+  },
+  "issues": []
+}

@@ -14,7 +14,7 @@ python3 scripts/serve_exam_library.py
 
 然后打开 [http://localhost:8765/](http://localhost:8765/)；需要其他端口可加 `--port 8766`。服务仅监听本机 `127.0.0.1`，按 Ctrl+C 停止。SVG 原版、LaTeX 重排、结构化审阅页均由同一服务提供；HTML 页面刷新时不使用缓存。
 
-逐题刷题入口是 [http://localhost:8765/exam-library/practice/index.htm](http://localhost:8765/exam-library/practice/index.htm)。本地服务首次启动会从结构化试卷自动生成 SQLite 题库；选项默认保留原顺序，也可按种子乱序，答案展开后按固定选项 ID 标记正确项。数据结构、只读 API、重建及恢复方式见 [SQLite 题库说明](docs/QUESTION_DATABASE.md)。
+英语整卷练习从题库目录进入，也可打开 [整卷练习页](http://localhost:8765/exam-library/practice/full-paper.htm)。它按原卷顺序展示题文、选项和已核实的参考答案，提供章节目录、中文译文开关和双栏沉浸模式。旧逐题练习入口已隐藏。本地服务首次启动会从结构化试卷自动生成 SQLite 题库；选项默认保留原顺序，也可按种子乱序，答案展开后按固定选项 ID 标记正确项。数据结构、只读 API、重建及恢复方式见 [SQLite 题库说明](docs/QUESTION_DATABASE.md)。
 
 - 在总目录按科目、年份、题卷类型搜索筛选。
 - SVG 保持原卷版式，LaTeX 重排随窗口排版；阅读器支持目录、字号/宽度、缩放和专注阅读。
@@ -33,13 +33,22 @@ npm ci
 npm test
 ```
 
+干净源码归档中的 CI 使用显式清单执行可移植测试：
+
+```sh
+.venv/bin/python scripts/run_portable_tests.py
+PYTHONPATH=. .venv/bin/python data/sources/english-exams-reflow-latex/run_portable_tests.py
+```
+
+需要核对原始 PDF、图片裁切或私人答案证据时，在具备完整来源输入的本机运行严格测试：`.venv/bin/python -m unittest discover -s scripts -p 'test_*.py'`，并在 `data/sources/english-exams-reflow-latex` 目录运行 `python -m unittest discover -s . -p 'test_*.py'`。缺少来源资料时，严格测试会失败；CI 的可移植测试通过不代表原稿逐页核验通过。
+
 重建汇总目录和阅读工具接入：
 
 ```sh
 .venv/bin/python data/sources/exam-library/build.py
 ```
 
-试卷内容的完整重建另需对应来源 PDF、子目录的公式构建依赖，部分验证需要 XeLaTeX。来源和路径在各目录清单中；本机原始路径是历史溯源信息，不代表克隆后自动具有该 PDF。普通界面修改和离线阅读不需要重新获取 PDF。
+试卷内容的完整重建另需对应来源 PDF、经核验的答案证据、本机保留的翻译出版快照、子目录的公式构建依赖，部分验证需要 XeLaTeX。这些上游资料不随源码归档全部发布；缺失时来源构建器会拒绝生成，不能把未知答案猜成已核实答案。已提交的结构化 JSON/JSONL 是离线阅读及重建本地 SQLite 的发行输入，普通界面修改和离线阅读不需要重新获取 PDF。
 
 主要目录：
 
@@ -56,7 +65,7 @@ npm test
 
 题文、图像、原稿答案及其权利归原权利人；仓库不对第三方内容重新授权。原稿中的略解、缺页或编码异常按资料说明保留，排版转换不构成答案正确性保证。
 
-变更与迁移记录见 [`docs/CHANGE_2026-09-27.md`](docs/CHANGE_2026-09-27.md)。历史核验报告只说明其当时版本；请运行当前检查。浏览器自动验收曾因禁止访问 `file://` 被阻止，未绕过；DOM 检查不等同于实机显示验收。
+本次版本说明见 [`CHANGELOG.md`](CHANGELOG.md)，变更与迁移背景见 [`docs/CHANGE_2026-09-27.md`](docs/CHANGE_2026-09-27.md)。历史核验报告只说明其当时版本；请运行当前检查。DOM 检查不等同于实机显示验收。
 
 历史维护工具说明：`layout-tools` 内最早的整批恢复流程依赖本机 `kaoyan-web-2026-09-26` 历史副本；该重复副本不上传。当前总目录构建、阅读和验证使用 `english-exams-web-2026-09-26`。旧的逐批保全脚本也可能需要被排除的本机 `work/before-*` 备份，不应将缺少旧备份误报为当前内容损坏。
 

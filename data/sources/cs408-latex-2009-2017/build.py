@@ -37,8 +37,9 @@ def cell_tex(s,break_arrows=False):
  for m in MATH.finditer(s):
   parts.extend([plain(s[start:m.start()]),body_tex(m[0])]);start=m.end()
  return ''.join(parts)+plain(s[start:])
-def split_choices(text):
- matches=list(re.finditer(r'(?:(?<!\S)|(?<=[。；：]))([ABCD])[.．]\s*',text))
+def split_choices(text,allow_joined=False):
+ boundary=r'(?:(?<!\S)|(?<=[。；：])|(?<=[\u3400-\u9fff]))' if allow_joined else r'(?:(?<!\S)|(?<=[。；：]))'
+ matches=list(re.finditer(boundary+r'([ABCD])[.．]\s*',text))
  labels=[m[1] for m in matches]
  # An A option may end the source page while B-D continue on the next.
  single_a=labels==['A'] and re.match(r'^\s*\d{1,2}[.．、]',text)
@@ -94,24 +95,42 @@ def main():
   p=Path(spec['path']);assert sha(p)==spec['sha256'];pdfs[spec['id']]=fitz.open(p)
  for paper in papers:
   for spec in [s for s in specs if s['year']==paper['year']]:
-   sid=spec['id'];sections=[];texparts=[];anchors=[]
+   sid=spec['id'];sections=[];texparts=[];anchors=[];complete_choice_section=spec['kind']=='complete'
    for page in [p for p in paper['pages'] if p['source_id']==sid]:
     pn=page['source_page'];out=[]
     for bi,b in enumerate(page['blocks']):
      kind=b['type'];text=b.get('text','')
      if kind=='heading':
+      if spec['kind']=='complete' and ('综合应用题' in text or '参考答案' in text):complete_choice_section=False
       anchor=f'p{pn}-b{bi}';anchors.append((anchor,text));out.append(f'<h2 id="{anchor}">{prose(text)}</h2>');texparts.append(r'\subsection*{'+body_tex(text)+'}')
      elif kind=='paragraph':
       cls='paragraph question' if re.match(r'^\s*\d{1,2}[．.、]',text) else 'paragraph'
-      choices=split_choices(text) if spec['kind']=='questions' else None
+      number=re.match(r'^\s*(\d{1,2})[．.、]',text)
+      if spec['kind']=='complete' and ((number and int(number[1])>40) or '二、综合应用题' in text or '参考答案' in text):complete_choice_section=False
+      choices=split_choices(text,allow_joined=spec['kind']=='complete') if (spec['kind']=='questions' or
+                  (complete_choice_section and not text.lstrip().startswith(('解答：','解析：')))) else None
       if choices:
        prefix,options,cols=choices
-       if prefix:out.append(f'<p class="{cls}">{prose(prefix)}</p>');texparts.append(body_tex(prefix)+'\n')
-       out.append(f'<div class="choices choices-{cols}">'+''.join('<div class="choice"><b>'+label+'.</b><span>'+prose(value)+'</span></div>' for label,value in options)+'</div>')
+       answer_tail=''
+       if spec['kind']=='complete':
+        # A transcribed source paragraph can place 解答 immediately after
+        # the last printed option (2011 Q31). Keep it in the same source
+        # coordinate block, but outside option D.
+        tail_match=re.search(r'\s+(?:解答|解析)[：:]',options[-1][1])
+        if tail_match:
+         answer_tail=options[-1][1][tail_match.start():].strip()
+         options[-1]=(options[-1][0],options[-1][1][:tail_match.start()].strip())
+       parts=[]
+       if prefix:parts.append(f'<p class="{cls}">{prose(prefix)}</p>');texparts.append(body_tex(prefix)+'\n')
+       parts.append(f'<div class="choices choices-{cols}">'+''.join('<div class="choice"><b>'+label+'.</b><span>'+prose(value)+'</span></div>' for label,value in options)+'</div>')
+       if answer_tail:parts.append(f'<p class="paragraph">{prose(answer_tail)}</p>')
+       if spec['kind']=='complete':out.append('<div class="source-choice-block">'+''.join(parts)+'</div>')
+       else:out.extend(parts)
        col=r'>{\raggedright\arraybackslash}p{\dimexpr(\linewidth-'+str(2*cols)+r'\tabcolsep)/'+str(cols)+r'\relax}'
        cells=[r'\textbf{'+label+'.} '+cell_tex(value) for label,value in options]
        rows=[' & '.join(cells[i:i+cols]+['']*(cols-len(cells[i:i+cols])))+r'\\[.35em]' for i in range(0,len(cells),cols)]
        texparts.append(r'\begin{center}\begin{tabular}{'+col*cols+'}\n'+'\n'.join(rows)+r'\end{tabular}\end{center}')
+       if answer_tail:texparts.append(body_tex(answer_tail)+'\n')
       else:out.append(f'<p class="{cls}">{prose(text)}</p>');texparts.append(body_tex(text)+'\n')
      elif kind=='display':out.append('<div class="display">'+formula(b['tex'],True)+'</div>');texparts.append(r'\[\fitmath{'+display_style(b['tex'])+r'}\]')
      elif kind=='code':
@@ -151,7 +170,19 @@ def main():
    entries.append({'id':sid,'year':spec['year'],'title':title,'pages':spec['pages'],'htm':str(target.relative_to(ROOT)),'tex':str(texpath.relative_to(ROOT)),'htm_sha256':sha(target),'tex_sha256':sha(texpath)})
  compilefile=ROOT/'assets/verification/latex-compilation.json';compiles=json.loads(compilefile.read_text()) if compilefile.exists() else []
  compiled=len(compiles)==len(specs) and all(c['passed'] and not c['warnings'] and c['sha256']==sha(ROOT/'tex'/c['file']) for c in compiles)
- manifest={'documents':entries,'source_pages':sum(e['pages'] for e in entries),'source_hashes':hashes,'formulas':len(formulas),'figures':figures,'tex_compilation_verified':compiled,'browser_tested':False,'notes':{str(p['year']):p.get('notes',[]) for p in papers}}
+ previous=json.loads((ROOT/'manifest.json').read_text()) if args.years and (ROOT/'manifest.json').exists() else None
+ if previous:
+  changed={entry['id']:entry for entry in entries}
+  entries=[changed.pop(entry['id'],entry) for entry in previous['documents']]+list(changed.values())
+  hashes={**previous['source_hashes'],**hashes}
+  notes={**previous['notes'],**{str(p['year']):p.get('notes',[]) for p in papers}}
+  formula_count=previous['formulas']
+  figure_count=previous['figures']
+ else:
+  notes={str(p['year']):p.get('notes',[]) for p in papers}
+  formula_count=len(formulas)
+  figure_count=figures
+ manifest={'documents':entries,'source_pages':sum(e['pages'] for e in entries),'source_hashes':hashes,'formulas':formula_count,'figures':figure_count,'tex_compilation_verified':compiled,'browser_tested':False,'notes':notes}
  (ROOT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
  cards=''.join('<article><h2>'+esc(e['title'])+'</h2><p><a href="'+e['htm']+'">阅读重排版</a> · <a download href="'+e['tex']+'">LaTeX 源码</a></p></article>' for e in entries)
  year_label=f'{min(e["year"] for e in entries)}–{max(e["year"] for e in entries)} · 真题；2009–2015 含原有解析'

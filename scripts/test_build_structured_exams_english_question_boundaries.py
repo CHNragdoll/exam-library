@@ -14,7 +14,7 @@ CASES = {
     "cet6:2019-12-01": (10, {47: "Why does the Harvard neuroscientist say that lying takes work?"}),
     "cet6:2021-06-01": (7, {47: "What does the author think of the recent research?"}),
     "cet6:2020-09-02": (4, {
-        37: "Many employers are eager to provide telemedicine service as a benefit to their employees because",
+                37: "Many employers are eager to provide telemedicine service as a benefit to their employees because of its convenience.",
         41: "Some supporters of telemedicine hope states will accept each other's medical practice licenses as valid.",
     }),
 }

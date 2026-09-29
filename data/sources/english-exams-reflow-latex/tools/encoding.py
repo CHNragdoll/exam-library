@@ -55,6 +55,51 @@ def get_font_maps(doc: fitz.Document) -> dict[str, dict[str, str]]:
     return {}
 
 
+def _fallback_positions_for_line(
+    chars: list[dict[str, Any]], unknown_origins: set[tuple[float, float]]
+) -> set[tuple[float, float]]:
+    """Keep a broken glossary together without rasterizing surrounding prose.
+
+    PDF text layers may map the other Chinese characters in a glossary to
+    printable Latin letters. A true unmapped glyph inside the same pair of
+    parentheses is evidence for that *parenthetical*, but not for the entire
+    English line or every line using the same font.
+    """
+    positions = [
+        (round(char["origin"][0], 3), round(char["origin"][1], 3))
+        for char in chars
+    ]
+    hits = [
+        index
+        for index, (x, y) in enumerate(positions)
+        if any(abs(x - ux) <= 0.15 and abs(y - uy) <= 0.15 for ux, uy in unknown_origins)
+    ]
+    if not hits:
+        return set()
+
+    open_to_close = {"(": ")", "（": "）"}
+    stack: list[tuple[str, int]] = []
+    pairs: list[tuple[int, int]] = []
+    for index, char in enumerate(chars):
+        value = char["c"]
+        if value in open_to_close:
+            stack.append((value, index))
+        elif stack and value == open_to_close[stack[-1][0]]:
+            _, start = stack.pop()
+            pairs.append((start, index))
+
+    affected: set[tuple[float, float]] = set()
+    for hit in hits:
+        enclosing = [(start, end) for start, end in pairs if start <= hit <= end]
+        if not enclosing:
+            # A missing mapping outside a bounded gloss cannot be localized
+            # safely; retain the source line as a visual fallback.
+            return {origin for char, origin in zip(chars, positions) if char["c"].strip()}
+        start, end = min(enclosing, key=lambda pair: pair[1] - pair[0])
+        affected.update(positions[start : end + 1])
+    return affected
+
+
 def get_unknown_glyphs(page: fitz.Page) -> list[dict[str, Any]]:
     """Locate glyphs with missing Unicode mappings on one PDF page.
 
@@ -96,26 +141,75 @@ def get_unknown_glyphs(page: fitz.Page) -> list[dict[str, Any]]:
                     ),
                 }
             )
-    # Some scanned/OCR fonts map visible Chinese to printable ASCII. Preserve
-    # the full affected line instead of trusting the other characters in it.
+    # Some source fonts map the other characters of a Chinese gloss to
+    # printable ASCII. Preserve only the parenthetical containing an actually
+    # unmapped glyph; unrelated English text and same-font lines remain text.
     if unknown:
-        bad_origins={(round(g['origin'][0],3),round(g['origin'][1],3)) for g in unknown}
-        total=defaultdict(int);bad=defaultdict(int)
-        traces=page.get_texttrace()
-        for span in traces:total[span['font']]+=len(span['chars'])
-        for g in unknown:bad[g['font']]+=1
-        suspect={f for f,n in bad.items() if n>=2 and n/max(1,total[f])>=.01}
-        affected=set()
-        for block in page.get_text('rawdict')['blocks']:
-            for line in block.get('lines',[]):
-                positions={(round(c['origin'][0],3),round(c['origin'][1],3)) for sp in line['spans'] for c in sp['chars']}
-                if positions & bad_origins or any(sp['font'] in suspect for sp in line['spans']):affected.update(positions)
-        by_origin={(round(g['origin'][0],3),round(g['origin'][1],3)):g for g in unknown}
+        bad_origins = {
+            (round(g["origin"][0], 3), round(g["origin"][1], 3)) for g in unknown
+        }
+        traces = page.get_texttrace()
+        affected: set[tuple[float, float]] = set()
+        raw_affected: dict[tuple[float, float], dict[str, Any]] = {}
+        for block in page.get_text("rawdict")["blocks"]:
+            for line in block.get("lines", []):
+                chars = [char for span in line["spans"] for char in span["chars"]]
+                line_affected = _fallback_positions_for_line(chars, bad_origins)
+                affected.update(line_affected)
+                for span in line["spans"]:
+                    for char in span["chars"]:
+                        key = (round(char["origin"][0], 3), round(char["origin"][1], 3))
+                        if key in line_affected:
+                            raw_affected[key] = {
+                                "page": page.number + 1,
+                                "font": span["font"],
+                                "gid": None,
+                                "origin": tuple(char["origin"]),
+                                "bbox": tuple(char["bbox"]),
+                                "font_size": span["size"],
+                                "unicode": None,
+                                "reason": "source gloss or line contains unreliable font encoding",
+                            }
+        # rawdict and texttrace occasionally report slightly different origins
+        # for the same printable glyph (about 0.05 pt in the source PDFs).
+        # Match geometrically, while keeping the tolerance much smaller than
+        # ordinary character spacing so adjacent English stays selectable.
+        affected_grid: dict[tuple[int, int], list[tuple[float, float]]] = defaultdict(list)
+        for x, y in affected:
+            affected_grid[(round(x * 5), round(y * 5))].append((x, y))
+
+        def in_affected_area(x: float, y: float) -> bool:
+            cell_x, cell_y = round(x * 5), round(y * 5)
+            return any(
+                abs(x - ax) <= 0.15 and abs(y - ay) <= 0.15
+                for dx in (-1, 0, 1)
+                for dy in (-1, 0, 1)
+                for ax, ay in affected_grid.get((cell_x + dx, cell_y + dy), ())
+            )
+
+        by_origin = {
+            (round(g["origin"][0], 3), round(g["origin"][1], 3)): g for g in unknown
+        }
         for span in traces:
-            for cp,gid,origin,bbox in span['chars']:
-                key=(round(origin[0],3),round(origin[1],3))
-                if key not in affected or cp in (9,10,13,32):continue
+            for cp, gid, origin, bbox in span["chars"]:
+                key = (round(origin[0], 3), round(origin[1], 3))
+                if not in_affected_area(*key) or cp in (9, 10, 13, 32):
+                    continue
                 if key not in by_origin:
-                    by_origin[key]={'page':page.number+1,'font':span['font'],'gid':gid,'origin':tuple(origin),'bbox':tuple(bbox),'font_size':span['size'],'unicode':None,'reason':'source line contains unreliable OCR/font encoding'}
-        unknown=list(by_origin.values())
+                    by_origin[key] = {
+                        "page": page.number + 1,
+                        "font": span["font"],
+                        "gid": gid,
+                        "origin": tuple(origin),
+                        "bbox": tuple(bbox),
+                        "font_size": span["size"],
+                        "unicode": None,
+                        "reason": "source gloss or line contains unreliable font encoding",
+                    }
+        # The extractor matches rawdict origins exactly. Retain those records
+        # even when texttrace gives a neighboring printable glyph a slightly
+        # shifted origin; otherwise stray ASCII remains between glyph boxes.
+        for key, record in raw_affected.items():
+            by_origin.setdefault(key, record)
+        unknown = list(by_origin.values())
     return unknown

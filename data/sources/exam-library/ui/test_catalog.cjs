@@ -21,6 +21,14 @@ function input(win,id,value,type='input'){const elem=win.document.getElementById
 async function main(){
   let dom=setup(),w=dom.window,d=w.document;
   verify(d.querySelectorAll('article.paper').length===335,'All 335 documents in homepage');
+  const questionCard=d.querySelector('article.paper[data-id="politics:2023-questions"]');
+  const completeCard=d.querySelector('article.paper[data-id="cs408:2009-complete"]');
+  const answerCard=d.querySelector('article.paper[data-id="politics:2023-answers"]');
+  verify(questionCard.querySelectorAll('.versions a').length===3,'Question paper has three entry points');
+  verify(completeCard.querySelectorAll('.versions a').length===3,'Complete paper supports whole-paper practice');
+  verify(answerCard.querySelectorAll('.versions a').length===2,'Answer-only paper has no practice entry');
+  verify(questionCard.querySelector('.versions a.full-paper').getAttribute('href')==='practice/full-paper.htm?paper=politics%3A2023-questions','Catalog links directly to requested whole paper');
+  verify(!d.querySelector('a[href="practice/index.htm"]'),'Old per-question practice entry is disabled');
   verify(shown(d).length===30,'Initial progressive list of 30');
   d.getElementById('load-more').click();verify(shown(d).length===60,'Load more adds 30');
   input(w,'catalog-search','2023 408');verify(shown(d).length===2,'Global compound query includes both 408 versions');
@@ -35,8 +43,11 @@ async function main(){
   dom.window.close();
   dom=setup('kaoyan/index.htm');d=dom.window.document;
   verify(d.querySelectorAll('article.paper').length===44,'Category scoped documents');
+  verify(!d.querySelector('a[href="../practice/index.htm"]'),'Category page also disables old practice entry');
   verify(d.querySelectorAll('.subject-link[aria-current=page]').length===1,'Single active category');
   dom.window.close();
+  verify(!fs.readFileSync(path.join(root,'practice/full-paper.htm'),'utf8').includes('href="index.htm">逐题练习</a>'),
+    'Whole-paper header does not reintroduce the old practice entry');
   const docs=JSON.parse(fs.readFileSync(path.join(root,'documents.json'),'utf8'));
   const good=docs.find(x=>x.category==='cs408');
   const url=new URL(good.reflow,pathToFileURL(path.join(root,'index.htm'))).href;

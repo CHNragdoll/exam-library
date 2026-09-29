@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2017",
@@ -3083,7 +3083,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "The Price of Oil and the Price of Carbon",
@@ -3726,12 +3726,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "hic effects of climate change.",
               "flags": [
@@ -4758,7 +4761,7 @@
               "label": "B",
               "runs": [
                 {
-                  "text": "Its retail sales exceeded those of T.",
+                  "text": "Its retail sales exceeded those of T. J. Maxx.",
                   "flags": [
                     false,
                     false,
@@ -4785,19 +4788,6 @@
               "runs": [
                 {
                   "text": "It filled its stores with abundant supply of merchandise.",
-                  "flags": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "J",
-              "runs": [
-                {
-                  "text": "Maxx.",
                   "flags": [
                     false,
                     false,

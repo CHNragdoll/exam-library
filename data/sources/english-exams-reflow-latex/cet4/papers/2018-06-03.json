@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2018",
@@ -143,12 +143,15 @@
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "of speaking ability and how to develop it.",
               "flags": [
@@ -158,24 +161,19 @@
               ]
             },
             {
-              "text": " You should write at least 120 words but no more tha",
+              "text": " You should write at least 120 words but ",
               "flags": [
                 false,
                 false,
                 true
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
             {
-              "text": "n180 words.",
+              "text": "no more than 180 words.",
               "flags": [
                 false,
                 false,
-                true
+                false
               ]
             }
           ]
@@ -265,7 +263,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "说明：由于2018 年6 月四级考试全国共考了两套听力, 本套真",
@@ -278,7 +276,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "题听力与前两套内容相同, 只是选项顺序不同, 因此在本套真题中",
@@ -291,7 +289,7 @@
           ]
         },
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "不再重复出现。",
@@ -1001,7 +999,7 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "New Jersey School District Eases Pressure on Students—Baring an Ethnic Divide",
@@ -1337,12 +1335,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "most.",
               "flags": [
@@ -1363,12 +1364,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "instead of focusing only on their academic performance.",
               "flags": [
@@ -1428,12 +1432,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "succeed in the future.",
               "flags": [
@@ -1454,12 +1461,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "the public schools there.",
               "flags": [
@@ -1480,12 +1490,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "health problems.",
               "flags": [

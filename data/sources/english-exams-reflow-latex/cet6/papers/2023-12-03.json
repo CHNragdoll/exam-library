@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2023 年12 月大学英语六级考试真题（第3 套）",
@@ -902,15 +902,12 @@
                 false,
                 true
               ]
-            },
-            {
-              "text": " ",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Can Learning a Foreign Language Prevent Dementia?",
               "flags": [
@@ -1114,7 +1111,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "who lead active social lives are, almost by definition, healthier than their counterparts who rarely leave",
+              "text": "who lead active social lives are, almost by definition, healthier than their counterparts who rarely leave their homes or interact with others. So we can’t really say whether being socially active prevents the onset of dementia, or if people who don’t have dementia are more likely to be socially active.",
               "flags": [
                 false,
                 false,
@@ -1123,32 +1120,6 @@
             }
           ],
           "continues_previous_page": true
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "their homes or interact with others. So we can’t really say whether being socially active prevents the onset",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "of dementia, or if people who don’t have dementia are more likely to be socially active.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
         },
         {
           "type": "paragraph",
@@ -1173,12 +1144,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "cognitive abilities.",
               "flags": [
@@ -1199,12 +1173,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "speak one language only.",
               "flags": [
@@ -1225,12 +1202,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "to prevent it.",
               "flags": [
@@ -1251,12 +1231,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "more social activities keep people away from dementia.",
               "flags": [
@@ -1316,12 +1299,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "language.",
               "flags": [

@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "heading",
+          "type": "paragraph",
           "runs": [
             {
               "text": "2016",
@@ -2186,12 +2186,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "options",
-          "items": [
+            },
             {
               "label": "D",
               "runs": [
@@ -3092,13 +3087,18 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Could Food Shortages Bring Down Civilization?",
               "flags": [
@@ -3304,7 +3304,7 @@
           "type": "paragraph",
           "runs": [
             {
-              "text": "down domestic food prices. Vietnam banned its exports for several months for the same reason. Such moves may",
+              "text": "down domestic food prices. Vietnam banned its exports for several months for the same reason. Such moves may eliminate the fears of those living in the exporting countries, but they are creating panic in importing countries that must rely on what is then left for export.",
               "flags": [
                 false,
                 false,
@@ -3313,32 +3313,6 @@
             }
           ],
           "continues_previous_page": true
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "eliminate the fears of those living in the exporting countries, but they are creating panic in importing countries",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "that must rely on what is then left for export.",
-              "flags": [
-                false,
-                false,
-                false
-              ]
-            }
-          ]
         },
         {
           "type": "paragraph",
@@ -3389,12 +3363,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "consume meat products.",
               "flags": [
@@ -3428,12 +3405,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "world security.",
               "flags": [
@@ -4652,7 +4632,7 @@
               "label": "D",
               "runs": [
                 {
-                  "text": "She is a firm supporter of pre-",
+                  "text": "She is a firm supporter of pre-K.",
                   "flags": [
                     false,
                     false,
@@ -4660,10 +4640,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "label": "K",
-              "runs": []
             }
           ]
         },

@@ -4,7 +4,7 @@
     {
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "heading",
           "runs": [
             {
               "text": "2016 年12 月大学英语六级考试（第2 套）",
@@ -2437,13 +2437,18 @@
               ]
             },
             {
-              "text": ". ",
+              "text": ".",
               "flags": [
                 false,
                 false,
                 false
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "runs": [
             {
               "text": "Countries Rush for Upper Hand in Antarctica",
               "flags": [
@@ -3007,12 +3012,15 @@
                 false,
                 false
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
+            },
+            {
+              "text": " ",
+              "flags": [
+                false,
+                false,
+                false
+              ]
+            },
             {
               "text": "the field of worldwide navigational facilities.",
               "flags": [
