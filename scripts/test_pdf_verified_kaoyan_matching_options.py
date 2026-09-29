@@ -11,12 +11,17 @@ import fitz
 from scripts.pdf_verified_kaoyan_matching_options import (
     ROOT,
     _fixture,
-    verified_matching_option_anchors,
+    verified_matching_option_anchors as _verified_matching_option_anchors,
 )
 
 
 STRUCTURED = ROOT / "data/sources/exam-library/structured/papers/kaoyan"
 REFLOW = ROOT / "data/sources/english-exams-reflow-latex/kaoyan/papers"
+
+
+def verified_matching_option_anchors(paper, raw, pdf_sha256):
+    return _verified_matching_option_anchors(
+        paper, raw, pdf_sha256, allow_missing_pdf=True)
 
 
 def sources(paper_id: str) -> tuple[dict, dict]:
@@ -29,6 +34,8 @@ def sources(paper_id: str) -> tuple[dict, dict]:
 class PdfVerifiedMatchingOptionTests(unittest.TestCase):
     def test_all_62_unique_choices_appear_once_on_cited_pdf_page(self):
         fixture = _fixture()
+        if any(not (ROOT / entry["sourcePdfPath"]).is_file() for entry in fixture.values()):
+            self.skipTest("original PDFs are absent from this checkout")
         self.assertEqual(len(fixture), 12)
         self.assertEqual(sum(len(p["choices"]) for p in fixture.values()), 62)
         for paper_id, entry in fixture.items():

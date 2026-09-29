@@ -99,7 +99,8 @@ def _raw_text(block: dict) -> str:
 
 
 def verified_bilingual_completion_joins(
-    paper_id: str, pdf_sha256: str, raw: dict, *, pdf_dir: Path = PDF_DIR
+    paper_id: str, pdf_sha256: str, raw: dict, *, pdf_dir: Path = PDF_DIR,
+    allow_missing_pdf: bool = False,
 ) -> dict[str, VerifiedJoin]:
     """Return exact adjacent-block joins, or fail on source/PDF drift.
 
@@ -112,7 +113,11 @@ def verified_bilingual_completion_joins(
         return {}
     expected_pdf_sha, specs = fixture
     pdf_path = pdf_dir / f"{paper_id.split(':', 1)[1]}.pdf"
-    if pdf_sha256 != expected_pdf_sha or not pdf_path.is_file() or _hash(pdf_path.read_bytes()) != expected_pdf_sha:
+    pdf_exists = pdf_path.exists()
+    if (pdf_sha256 != expected_pdf_sha or
+            (pdf_exists and (not pdf_path.is_file() or
+                             _hash(pdf_path.read_bytes()) != expected_pdf_sha)) or
+            (not pdf_exists and not allow_missing_pdf)):
         raise ValueError(f"{paper_id}: original PDF hash differs from verified fixture")
     joins = {}
     for spec in specs:

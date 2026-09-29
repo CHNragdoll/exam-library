@@ -812,11 +812,14 @@ def restored_text(block: dict, bid: str, info: dict) -> str:
 
 
 def build_paper(paper: dict, raw: dict, source_json: str, pdf_hash: str,
-                dictation_answers: dict | None = None) -> dict:
+                dictation_answers: dict | None = None, *,
+                allow_missing_pdf: bool = False) -> dict:
     paper_id = paper["id"]
     raw_to_structured, structured_to_raw, structured, issues = source_mapping(paper, raw)
-    verified_matching = verified_matching_option_anchors(paper, raw, pdf_hash)
-    verified_cet = verified_cet_missing_option_anchors(paper, raw, pdf_hash)
+    verified_matching = verified_matching_option_anchors(
+        paper, raw, pdf_hash, allow_missing_pdf=allow_missing_pdf)
+    verified_cet = verified_cet_missing_option_anchors(
+        paper, raw, pdf_hash, allow_missing_pdf=allow_missing_pdf)
     verified_passage_joins = {
         anchor.reflow_block_ids[-1]: anchor
         for anchor in verified_matching.values()
@@ -838,7 +841,8 @@ def build_paper(paper: dict, raw: dict, source_json: str, pdf_hash: str,
     other_block_types = Counter()
     previous = None
     raw_ids = set()
-    bilingual_joins = verified_bilingual_completion_joins(paper_id, pdf_hash, raw)
+    bilingual_joins = verified_bilingual_completion_joins(
+        paper_id, pdf_hash, raw, allow_missing_pdf=allow_missing_pdf)
     bilingual_continuations = {join.to_block_id: join for join in bilingual_joins.values()}
     cross_page_from = {(row["paperId"], row["pdfSha256"], row["fromBlockId"]): row
                        for row in _verified_cross_page["entries"]}

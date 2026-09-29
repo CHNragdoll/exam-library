@@ -4,13 +4,21 @@ import os
 import sys
 import tempfile
 import unittest
+from functools import partial
 from pathlib import Path
 from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_english_paragraph_manifest import REFLOW, STRUCTURED, build_paper, sha256
+from build_english_paragraph_manifest import REFLOW, STRUCTURED, build_paper as _build_paper, sha256
+from pdf_verified_cet_missing_options import verified_cet_missing_option_anchors
+from pdf_verified_kaoyan_matching_options import verified_matching_option_anchors
 import publish_english_paragraph_translations as publisher
 from publish_english_paragraph_translations import public_sidecar
+
+
+def build_paper(*args, **kwargs):
+    kwargs.setdefault("allow_missing_pdf", True)
+    return _build_paper(*args, **kwargs)
 
 
 def fixture():
@@ -29,6 +37,17 @@ def fixture():
 
 
 class PublicSidecarTests(unittest.TestCase):
+    def setUp(self):
+        # Exercise committed source anchors in CI while still hashing any
+        # original PDF available in a local checkout.
+        for name, helper in (("verified_cet_missing_option_anchors",
+                              verified_cet_missing_option_anchors),
+                             ("verified_matching_option_anchors",
+                              verified_matching_option_anchors)):
+            active = patch.object(publisher, name, partial(helper, allow_missing_pdf=True))
+            active.start()
+            self.addCleanup(active.stop)
+
     def test_published_preflight_uses_private_snapshot_and_rejects_drift(self):
         private = fixture()
         private.update(sourceJson="source.json", sourcePdfSha256="pdf-hash",

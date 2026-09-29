@@ -67,7 +67,7 @@ def _fixture() -> dict:
 
 
 def verified_matching_option_anchors(
-    paper: dict, raw: dict, pdf_sha256: str
+    paper: dict, raw: dict, pdf_sha256: str, *, allow_missing_pdf: bool = False
 ) -> dict[str, VerifiedMatchingOption]:
     """Validate one paper and return verified per-question option anchors.
 
@@ -82,8 +82,10 @@ def verified_matching_option_anchors(
         return {}
     expected_pdf_sha = entry["sourcePdfSha256"]
     pdf = ROOT / entry["sourcePdfPath"]
-    if (pdf_sha256 != expected_pdf_sha or not pdf.is_file() or
-            _sha256(pdf.read_bytes()) != expected_pdf_sha):
+    pdf_exists = pdf.exists()
+    if (pdf_sha256 != expected_pdf_sha or
+            (pdf_exists and (not pdf.is_file() or _sha256(pdf.read_bytes()) != expected_pdf_sha)) or
+            (not pdf_exists and not allow_missing_pdf)):
         raise ValueError(f"{paper_id}: reviewed original PDF changed")
 
     if entry["kind"] == "figure_bank":

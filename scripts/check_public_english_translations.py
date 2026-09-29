@@ -224,7 +224,7 @@ def check_all() -> dict[str, int]:
             raise ValueError(f"canonical structured paper mismatch: {structured_path}")
         raw = json.loads(raw_path.read_text(encoding="utf-8"))
         expected = build_paper(paper, raw, str(raw_path.relative_to(ROOT)),
-                               source["source_pdf_sha256"])
+                               source["source_pdf_sha256"], allow_missing_pdf=True)
         public = json.loads(path.read_text(encoding="utf-8"))
         paragraph_count, option_count = validate_public_sidecar(public, expected, paper_id)
         paragraphs += paragraph_count

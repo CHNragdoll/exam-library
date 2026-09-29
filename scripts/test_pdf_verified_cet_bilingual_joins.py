@@ -10,7 +10,7 @@ from pathlib import Path
 from scripts.pdf_verified_cet_bilingual_joins import (
     FIXTURES,
     ROOT,
-    verified_bilingual_completion_joins,
+    verified_bilingual_completion_joins as _verified_bilingual_completion_joins,
 )
 
 
@@ -41,6 +41,14 @@ EXPECTED_TEXT = {
         ),
     },
 }
+
+
+def verified_bilingual_completion_joins(paper_id, pdf_sha256, raw, *, pdf_dir=None):
+    if pdf_dir is not None:
+        return _verified_bilingual_completion_joins(
+            paper_id, pdf_sha256, raw, pdf_dir=pdf_dir)
+    return _verified_bilingual_completion_joins(
+        paper_id, pdf_sha256, raw, allow_missing_pdf=True)
 
 
 def load_raw(paper_id: str) -> dict:

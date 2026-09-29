@@ -9,11 +9,16 @@ from build_english_paragraph_manifest import (PDF_VERIFIED_DIRECTION_NOTICES,
                                               PDF_VERIFIED_UNFILLED_CLOZE,
                                               PDF_VERIFIED_TEM_COVER,
                                               REFLOW, STRUCTURED, answer_option_records,
-                                              build_paper, cloze_groups,
+                                              build_paper as _build_paper, cloze_groups,
                                               listening_dictation_blocks,
                                               preserve_translations, protected_blanks,
                                               restored_text, sha256, strip_verified_direction_notice,
                                               strip_verified_page_footers)
+
+
+def build_paper(*args, **kwargs):
+    kwargs.setdefault("allow_missing_pdf", True)
+    return _build_paper(*args, **kwargs)
 
 
 def run(text, answer="A", continuation=False):

@@ -66,7 +66,7 @@ def _fixture() -> dict:
 
 
 def verified_cet_missing_option_anchors(
-    paper: dict, raw: dict, pdf_sha256: str
+    paper: dict, raw: dict, pdf_sha256: str, *, allow_missing_pdf: bool = False
 ) -> dict[str, VerifiedCetOption]:
     """Return exact derived anchors for this paper, rejecting any source drift.
 
@@ -80,8 +80,10 @@ def verified_cet_missing_option_anchors(
         return {}
     pdf = ROOT / entry["sourcePdfPath"]
     expected_pdf_sha = entry["sourcePdfSha256"]
-    if (pdf_sha256 != expected_pdf_sha or not pdf.is_file() or
-            _sha256(pdf.read_bytes()) != expected_pdf_sha):
+    pdf_exists = pdf.exists()
+    if (pdf_sha256 != expected_pdf_sha or
+            (pdf_exists and (not pdf.is_file() or _sha256(pdf.read_bytes()) != expected_pdf_sha)) or
+            (not pdf_exists and not allow_missing_pdf)):
         raise ValueError(f"{paper_id}: reviewed CET original PDF changed")
     result = {}
     for option_id, choice in entry["options"].items():
