@@ -19,6 +19,26 @@
     return anchor;
   }
 
+  async function showSourceNotices(paper) {
+    const holder = document.getElementById('paper-source-notices');
+    if (!holder || !['kaoyan', 'math3', 'cs408', 'politics'].includes(paper.category)) return;
+    try {
+      const response = await fetch('../source-notices.json', {headers: {Accept: 'application/json'}});
+      if (!response.ok) return;
+      const data = await response.json();
+      const notes = data.schema === 'exam-source-notices-v1' && data.papers?.[paper.id];
+      if (!Array.isArray(notes) || !notes.length || notes.some(note => typeof note !== 'string')) return;
+      const body = holder.querySelector('div');
+      if (!body) return;
+      body.replaceChildren(...notes.map(note => {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = note;
+        return paragraph;
+      }));
+      holder.hidden = false;
+    } catch (_) { /* Optional warnings must not prevent practicing. */ }
+  }
+
   fetch('../documents.json', {headers: {Accept: 'application/json'}})
     .then(response => { if (!response.ok) throw new Error('catalog'); return response.json(); })
     .then(documents => {
@@ -35,6 +55,7 @@
       nav.replaceChildren(link('SVG 原版', svg), link('LaTeX 重排', reflow),
         current, link('并排对比', compare));
       nav.hidden = false;
+      showSourceNotices(paper);
     })
     .catch(() => { /* Practicing remains available if the catalog is unavailable. */ });
 })();

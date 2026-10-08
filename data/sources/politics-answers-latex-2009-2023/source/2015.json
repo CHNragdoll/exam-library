@@ -311,7 +311,7 @@
         },
         {
           "type": "paragraph",
-          "text": "本题考查培育和践行社会主义核心价值观的意义。即：①有利于巩固马克思主义在意识形态领域的指导地位，是巩固全党全国人民团结奋斗的共同思想基础；②有利于促进入的全面发展，引领社会全面进步；③有利于聚焦全面建成小康社会，是实现中华民族的伟大复兴中国梦的强大正能量。故 ABCD 正确。"
+          "text": "本题考查培育和践行社会主义核心价值观的意义。即：①有利于巩固马克思主义在意识形态领域的指导地位，是巩固全党全国人民团结奋斗的共同思想基础；②有利于促进人的全面发展，引领社会全面进步；③有利于聚焦全面建成小康社会，是实现中华民族的伟大复兴中国梦的强大正能量。故 ABCD 正确。"
         }
       ]
     },
@@ -565,5 +565,23 @@
     ],
     "answer_headings_visually_checked": 38,
     "body_proof_sheets": "assets/verification/body-review-*.png"
-  }
+  },
+  "proofreading": [
+    {
+      "review": "2026-10-08 original PDF raster and transcription comparison",
+      "method": "All listed edits visually checked against original PDF images; choice letters and source PDF unchanged.",
+      "corrections": [
+        {
+          "year": 2015,
+          "source_page": 3,
+          "block_index": 15,
+          "pdf_page": 4,
+          "from": "促进入的全面发展",
+          "to": "促进人的全面发展",
+          "occurrences": 1,
+          "kind": "verified transcription correction"
+        }
+      ]
+    }
+  ]
 }

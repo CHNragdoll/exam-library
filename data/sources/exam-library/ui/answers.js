@@ -173,14 +173,20 @@
   const visible = node => node.isConnected && !node.closest('[hidden]') &&
     !node.matches('.tex-source') && getComputedStyle(node).display !== 'none';
   const render = () => {
+    const insertedAfter = new Map();
     config.structuredAnswers.forEach((item, index) => {
       const anchor = candidates[index].filter(visible).at(-1);
       if (!anchor || !item.answer) return;
       const position = anchor.closest('.reader-listening-question') || anchor;
       const details = document.createElement('details');
       details.className = 'exam-answer-panel';
+      if (item.questionId) details.dataset.questionId = item.questionId;
       const summary = document.createElement('summary');
-      summary.textContent = '点击查看答案';
+      const prefix = item.number ? `第 ${item.number} 题 · ` : '';
+      const updateSummary = () => {
+        summary.textContent = prefix + (details.open ? '收起答案' : '点击查看答案');
+      };
+      updateSummary();
       details.append(summary);
       const answer = item.answer;
       if (answer.status === 'explicit') {
@@ -226,9 +232,13 @@
       }
       summary.addEventListener('click', () => {
         // The native details element changes state after the click event.
-        summary.textContent = details.open ? '点击查看答案' : '收起答案';
+        summary.textContent = prefix + (details.open ? '点击查看答案' : '收起答案');
       });
-      position.after(details);
+      details.addEventListener('toggle', updateSummary);
+      // Several Part B questions share one source anchor. Repeated after()
+      // insertions at that anchor would reverse their question/answer order.
+      (insertedAfter.get(position) || position).after(details);
+      insertedAfter.set(position, details);
     });
   };
   if (document.readyState === 'loading') {

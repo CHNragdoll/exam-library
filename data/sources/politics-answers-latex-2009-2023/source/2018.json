@@ -205,7 +205,7 @@
         },
         {
           "type": "paragraph",
-          "text": "本题考查全面依法治国的基本格局。十八届四中全会指出：全面依法治国的基本格局是科学立法，严格执法，公正司法和全民守法。其中，公正是法治的生命线，是司法活动最高的价值追求，公正司法是维护社会公平正义的最后一道防线。故C正确。A表述错误，社会公正是一个历史范畴，其标准随着历史的发展而发展，并没有唯一标准。B与题意不符，社会公正的最终目标是促进入的自由而全面的发展。D也与题意不符，维护社会公平正义的决定因素是生产力发展水平、社会发展文明程度等，并非公正司法。"
+          "text": "本题考查全面依法治国的基本格局。十八届四中全会指出：全面依法治国的基本格局是科学立法，严格执法，公正司法和全民守法。其中，公正是法治的生命线，是司法活动最高的价值追求，公正司法是维护社会公平正义的最后一道防线。故C正确。A表述错误，社会公正是一个历史范畴，其标准随着历史的发展而发展，并没有唯一标准。B与题意不符，社会公正的最终目标是促进人的自由而全面的发展。D也与题意不符，维护社会公平正义的决定因素是生产力发展水平、社会发展文明程度等，并非公正司法。"
         },
         {
           "type": "heading",
@@ -511,5 +511,23 @@
     ],
     "answer_headings_visually_checked": 38,
     "body_proof_sheets": "assets/verification/body-review-*.png"
-  }
+  },
+  "proofreading": [
+    {
+      "review": "2026-10-08 original PDF raster and transcription comparison",
+      "method": "All listed edits visually checked against original PDF images; choice letters and source PDF unchanged.",
+      "corrections": [
+        {
+          "year": 2018,
+          "source_page": 2,
+          "block_index": 11,
+          "pdf_page": 2,
+          "from": "促进入的自由而全面的发展",
+          "to": "促进人的自由而全面的发展",
+          "occurrences": 1,
+          "kind": "verified transcription correction"
+        }
+      ]
+    }
+  ]
 }

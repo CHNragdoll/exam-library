@@ -4,7 +4,7 @@
   "private": true,
   "description": "Offline original and reflow exam readers",
   "scripts": {
-    "test": "node data/sources/exam-library/ui/test_catalog.cjs && node data/sources/exam-library/ui/reader.test.cjs && node data/sources/exam-library/ui/image-review.test.cjs && node data/sources/exam-library/ui/crop-review.test.cjs && node data/sources/exam-library/ui/answers.test.cjs && node data/sources/exam-library/practice/practice.test.cjs && node data/sources/exam-library/practice/full-paper.test.cjs && node data/sources/exam-library/practice/practice-version-nav.test.cjs && node data/sources/english-exams-reflow-latex/translations.test.cjs && node data/sources/english-exams-reflow-latex/translations.reconcile.test.cjs"
+    "test": "node data/sources/exam-library/ui/test_catalog.cjs && node data/sources/exam-library/ui/reader.test.cjs && node data/sources/exam-library/ui/image-review.test.cjs && node data/sources/exam-library/ui/crop-review.test.cjs && node data/sources/exam-library/ui/answers.test.cjs && node data/sources/exam-library/ui/shared-answers.test.cjs && node data/sources/exam-library/practice/practice.test.cjs && node data/sources/exam-library/practice/full-paper.test.cjs && node data/sources/exam-library/practice/practice-version-nav.test.cjs && node data/sources/english-exams-reflow-latex/translations.test.cjs && node data/sources/english-exams-reflow-latex/translations.reconcile.test.cjs"
   },
   "devDependencies": {
     "jsdom": "29.1.1"

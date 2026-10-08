@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="../ui/code-highlight.css">
   <link rel="stylesheet" href="practice.css">
   <link rel="stylesheet" href="../ui/material.css">
-  <link rel="stylesheet" href="full-paper.css?v=20260929-cloze-answer-quiet">
+  <link rel="stylesheet" href="full-paper.css?v=20261008-source-notices">
   <script>
     window.MathJax = {
       startup: {typeset: false},
@@ -22,8 +22,8 @@
   <script defer src="../ui/vendor/mathjax-3.2.2-tex-svg-full.js"></script>
   <script defer src="../ui/code-highlight.js"></script>
   <script defer src="practice-shared.js"></script>
-  <script defer src="full-paper.js?v=20260929-cloze-answer-top"></script>
-  <script defer src="practice-version-nav.js"></script>
+  <script defer src="full-paper.js?v=20261008-source-positions"></script>
+  <script defer src="practice-version-nav.js?v=20261008-source-notices"></script>
 </head>
 <body>
   <a class="skip-link" href="#question-list">跳转到试卷</a>
@@ -40,6 +40,10 @@
       <p>按原卷顺序作答；每题可在原位查看参考答案。</p>
     </div>
     <p id="page-status" class="page-status" role="status" aria-live="polite">正在加载试卷…</p>
+    <details id="paper-source-notices" class="paper-source-notices" hidden>
+      <summary>原卷说明（含原稿缺项与勘误）</summary>
+      <div></div>
+    </details>
     <section id="paper-panel" class="practice-panel" aria-label="整卷练习" hidden>
       <div class="paper-heading">
         <div><p id="paper-category" class="eyebrow"></p><h2 id="paper-title"></h2></div>

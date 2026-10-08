@@ -290,7 +290,10 @@ def registry():
                             source_doc = documents_by_id.get(source.get('sourceDocumentId'))
                             if source_doc:
                                 answer['sourceHref'] = rel((ROOT / source_doc['reflow']).resolve())
-                            answer_items.append({'sourceBlocks': question['sourceBlocks'], 'answer': answer})
+                            answer_item = {'sourceBlocks': question['sourceBlocks'], 'answer': answer}
+                            if item['category'] in {'kaoyan', 'math3', 'cs408', 'politics'}:
+                                answer_item.update(questionId=question['id'], number=question['number'])
+                            answer_items.append(answer_item)
                         config['structuredAnswers'] = answer_items
                 if item['category'] in {'cet4', 'cet6'} and item['kind'] == 'questions':
                     source = (ROOT / item['svg']).resolve()
@@ -328,6 +331,10 @@ def enhance_html(content, target):
     base = strip_ui(content)
     assert base.count('</head>') == base.count('</body>') == 1, target
     rel = lambda name: html.escape(os.path.relpath(ROOT / 'ui' / name, target.parent), quote=True)
+    answers_path = ROOT / 'ui/answers.js'
+    answers_href = rel('answers.js')
+    if answers_path.is_file():
+        answers_href += '?v=' + sha(answers_path.read_bytes())[:12]
     head = ('<!-- exam-ui:head -->'
             f'<link rel="stylesheet" href="{rel("tokens.css")}">'
             f'<link rel="stylesheet" href="{rel("reader.css")}">'
@@ -344,7 +351,7 @@ def enhance_html(content, target):
             f'<script defer src="{rel("code-highlight.js")}"></script>'
             f'{technical}'
             f'<script defer src="{rel("answer-math.js")}"></script>'
-            f'<script defer src="{rel("answers.js")}"></script>'
+            f'<script defer src="{answers_href}"></script>'
             f'<script defer src="{rel("reader.js")}"></script>'
             '<!-- /exam-ui:body -->')
     updated = base.replace('</head>', head + '</head>').replace('</body>', body + '</body>')
@@ -389,6 +396,42 @@ def update_manifest(folder, changed):
     return count
 
 
+def write_source_notices():
+    """Keep full-paper practice warnings identical to source reader notices.
+
+    Notices are presentation metadata, not question text or invented answers.
+    Include warnings from linked answer papers, which full-paper practice can
+    reveal inline without showing their original page header.
+    """
+    records = [item for item in json.loads((ROOT / 'documents.json').read_text())
+               if item['category'] in {'kaoyan', 'math3', 'cs408', 'politics'}]
+    own_notes = {}
+    for item in records:
+        source = (ROOT / item['reflow']).resolve()
+        soup = BeautifulSoup(source.read_text(encoding='utf-8'), 'html.parser')
+        own_notes[item['id']] = [p.get_text(' ', strip=True)
+                                 for p in soup.select('header aside.notice p')]
+    notices = {}
+    for item in records:
+        notes = list(own_notes[item['id']])
+        source = (ROOT / item['reflow']).resolve()
+        structured = ROOT / 'structured/papers' / item['category'] / (source.stem + '.json')
+        if structured.exists() and item['kind'] != 'answers':
+            paper = json.loads(structured.read_text())
+            answer_ids = sorted({q.get('answer', {}).get('sourceDocumentId')
+                                 for q in paper['questions']
+                                 if q.get('answer', {}).get('sourceDocumentId')})
+            for answer_id in answer_ids:
+                if answer_id != item['id']:
+                    notes.extend('参考答案原稿：' + note for note in own_notes.get(answer_id, []))
+        if notes:
+            notices[item['id']] = list(dict.fromkeys(notes))
+    payload = {'schema': 'exam-source-notices-v1', 'papers': notices}
+    (ROOT / 'source-notices.json').write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    return len(notices)
+
+
 def enhance_selected_readers(categories):
     """Refresh selected readers after their structured papers are rebuilt.
 
@@ -424,6 +467,8 @@ def enhance_selected_readers(categories):
         expected = sum(target.is_relative_to(folder) for target in changed)
         assert count == expected, ('unrecorded reader hash', folder, count, expected)
         manifests += count
+    if categories & {'kaoyan', 'math3', 'cs408', 'politics'}:
+        write_source_notices()
     return {'readers': len(records), 'updated': updated,
             'manifestHashesUpdated': manifests}
 
@@ -462,6 +507,7 @@ def enhance_all(check_baseline=False):
             backup.write_bytes(manifest.read_bytes())
         count += update_manifest(folder, changed)
     report = {'reader_pages': len(checks), 'html_hash_records_updated': count,
+              'source_notice_papers': write_source_notices(),
               'exam_html_byte_preserved': all(c['original_html_unchanged'] for c in checks),
               'injection_idempotent': True, 'browser_tested': False, 'checks': checks}
     (ROOT / 'ui-verification.json').write_text(json.dumps(report, ensure_ascii=False, indent=2))

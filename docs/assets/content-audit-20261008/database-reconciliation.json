@@ -1,0 +1,152 @@
+{
+  "selectedDocuments": [
+    "politics:2015-answers",
+    "politics:2015-questions",
+    "politics:2017-answers",
+    "politics:2017-questions",
+    "politics:2018-answers",
+    "politics:2018-questions",
+    "politics:2022-answers",
+    "politics:2022-questions",
+    "politics:2023-answers",
+    "politics:2023-questions"
+  ],
+  "tables": [
+    {
+      "table": "answer_references",
+      "rowCount": 91,
+      "changedRows": 0
+    },
+    {
+      "table": "answers",
+      "rowCount": 14721,
+      "changedRows": 33,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "choice_set_options",
+      "rowCount": 3029,
+      "changedRows": 0
+    },
+    {
+      "table": "choice_sets",
+      "rowCount": 260,
+      "changedRows": 0
+    },
+    {
+      "table": "content_units",
+      "rowCount": 109107,
+      "changedRows": 90,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "context_source_blocks",
+      "rowCount": 15456,
+      "changedRows": 0
+    },
+    {
+      "table": "input_hashes",
+      "rowCount": 337,
+      "changedRows": 8,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "labels",
+      "rowCount": 678,
+      "changedRows": 0
+    },
+    {
+      "table": "meta",
+      "rowCount": 3,
+      "changedRows": 0
+    },
+    {
+      "table": "options",
+      "rowCount": 32774,
+      "changedRows": 0
+    },
+    {
+      "table": "paper_forms",
+      "rowCount": 356,
+      "changedRows": 0
+    },
+    {
+      "table": "papers",
+      "rowCount": 335,
+      "changedRows": 1,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "quality_issue_source_spans",
+      "rowCount": 37,
+      "changedRows": 0
+    },
+    {
+      "table": "quality_issues",
+      "rowCount": 749,
+      "changedRows": 0
+    },
+    {
+      "table": "question_choice_sets",
+      "rowCount": 2480,
+      "changedRows": 0
+    },
+    {
+      "table": "question_labels",
+      "rowCount": 2466,
+      "changedRows": 0
+    },
+    {
+      "table": "question_paper_forms",
+      "rowCount": 14721,
+      "changedRows": 0
+    },
+    {
+      "table": "question_source_blocks",
+      "rowCount": 29760,
+      "changedRows": 0
+    },
+    {
+      "table": "questions",
+      "rowCount": 14721,
+      "changedRows": 40,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "scoreability",
+      "rowCount": 12646,
+      "changedRows": 0
+    },
+    {
+      "table": "semantic_links",
+      "rowCount": 2867,
+      "changedRows": 0
+    },
+    {
+      "table": "semantic_nodes",
+      "rowCount": 62398,
+      "changedRows": 1,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "source_blocks",
+      "rowCount": 41537,
+      "changedRows": 54,
+      "scope": "selected politics documents or input hashes"
+    },
+    {
+      "table": "source_spans",
+      "rowCount": 41537,
+      "changedRows": 0
+    },
+    {
+      "table": "unit_provenance",
+      "rowCount": 109107,
+      "changedRows": 90,
+      "scope": "selected politics documents or input hashes"
+    }
+  ],
+  "integrity": "ok",
+  "foreignKeyErrors": 0,
+  "questionIdentityOptionsAndAnswerKeysUnchanged": true
+}

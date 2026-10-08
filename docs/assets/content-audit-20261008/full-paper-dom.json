@@ -1,0 +1,583 @@
+{
+  "papers": 115,
+  "questions": 4695,
+  "figures": 208,
+  "issues": [],
+  "checked": [
+    {
+      "paper": "kaoyan:2026-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2026-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2025-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2025-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "cs408:2025-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "kaoyan:2024-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2024-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "cs408:2024-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "kaoyan:2023-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2023-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "cs408:2023-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2023-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2022-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2022-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "cs408:2022-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2022-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2021-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2021-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "cs408:2021-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2021-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2020-01",
+      "cards": 52,
+      "options": 160
+    },
+    {
+      "paper": "kaoyan:2020-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "cs408:2020-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2020-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2019-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2019-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "math3:2019-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2019-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2019-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2018-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2018-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "math3:2018-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2018-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2018-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2017-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2017-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "math3:2017-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2017-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2017-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2016-01",
+      "cards": 52,
+      "options": 160
+    },
+    {
+      "paper": "kaoyan:2016-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "math3:2016-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2016-questions",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2016-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2015-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2015-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "math3:2015-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2015-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2015-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2014-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2014-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "math3:2014-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2014-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2014-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2013-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2013-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "math3:2013-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2013-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2013-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2012-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "kaoyan:2012-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "math3:2012-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2012-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2012-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2011-01",
+      "cards": 52,
+      "options": 185
+    },
+    {
+      "paper": "kaoyan:2011-02",
+      "cards": 48,
+      "options": 195
+    },
+    {
+      "paper": "math3:2011-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2011-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2011-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2010-01",
+      "cards": 52,
+      "options": 190
+    },
+    {
+      "paper": "kaoyan:2010-02",
+      "cards": 48,
+      "options": 160
+    },
+    {
+      "paper": "math3:2010-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2010-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2010-questions",
+      "cards": 37,
+      "options": 128
+    },
+    {
+      "paper": "kaoyan:2009-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "math3:2009-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "cs408:2009-complete",
+      "cards": 47,
+      "options": 160
+    },
+    {
+      "paper": "politics:2009-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2008-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "math3:2008-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "politics:2008-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2007-01",
+      "cards": 52,
+      "options": 160
+    },
+    {
+      "paper": "math3:2007-questions",
+      "cards": 24,
+      "options": 40
+    },
+    {
+      "paper": "politics:2007-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2006-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "math3:2006-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "politics:2006-questions",
+      "cards": 38,
+      "options": 132
+    },
+    {
+      "paper": "kaoyan:2005-01",
+      "cards": 52,
+      "options": 195
+    },
+    {
+      "paper": "math3:2005-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "politics:2005-questions",
+      "cards": 37,
+      "options": 120
+    },
+    {
+      "paper": "kaoyan:2004-01",
+      "cards": 46,
+      "options": 160
+    },
+    {
+      "paper": "math3:2004-questions",
+      "cards": 23,
+      "options": 32
+    },
+    {
+      "paper": "politics:2004-questions",
+      "cards": 37,
+      "options": 135
+    },
+    {
+      "paper": "kaoyan:2003-01",
+      "cards": 46,
+      "options": 160
+    },
+    {
+      "paper": "math3:2003-questions",
+      "cards": 22,
+      "options": 24
+    },
+    {
+      "paper": "politics:2003-questions",
+      "cards": 37,
+      "options": 135
+    },
+    {
+      "paper": "kaoyan:2002-01",
+      "cards": 46,
+      "options": 160
+    },
+    {
+      "paper": "math3:2002-questions",
+      "cards": 20,
+      "options": 20
+    },
+    {
+      "paper": "kaoyan:2001-01",
+      "cards": 46,
+      "options": 160
+    },
+    {
+      "paper": "math3:2001-questions",
+      "cards": 20,
+      "options": 20
+    },
+    {
+      "paper": "kaoyan:2000-01",
+      "cards": 31,
+      "options": 120
+    },
+    {
+      "paper": "math3:2000-questions",
+      "cards": 20,
+      "options": 20
+    },
+    {
+      "paper": "math3:1999-questions",
+      "cards": 20,
+      "options": 20
+    },
+    {
+      "paper": "math3:1998-questions",
+      "cards": 20,
+      "options": 20
+    },
+    {
+      "paper": "math3:1997-questions",
+      "cards": 21,
+      "options": 20
+    },
+    {
+      "paper": "math3:1996-questions",
+      "cards": 41,
+      "options": 32
+    },
+    {
+      "paper": "math3:1995-questions",
+      "cards": 40,
+      "options": 28
+    },
+    {
+      "paper": "math3:1994-questions",
+      "cards": 40,
+      "options": 32
+    },
+    {
+      "paper": "math3:1993-questions",
+      "cards": 38,
+      "options": 32
+    },
+    {
+      "paper": "math3:1992-questions",
+      "cards": 44,
+      "options": 32
+    },
+    {
+      "paper": "math3:1991-questions",
+      "cards": 44,
+      "options": 32
+    },
+    {
+      "paper": "math3:1990-questions",
+      "cards": 44,
+      "options": 28
+    },
+    {
+      "paper": "math3:1989-questions",
+      "cards": 42,
+      "options": 24
+    },
+    {
+      "paper": "math3:1988-questions",
+      "cards": 36,
+      "options": 0
+    },
+    {
+      "paper": "math3:1987-questions",
+      "cards": 46,
+      "options": 24
+    }
+  ]
+}

@@ -165,7 +165,7 @@
         },
         {
           "type": "paragraph",
-          "text": "本题考查列强瓜分中国的狂潮。中日甲午战争的失败以及《马关条约》的签定，大大刺激了帝国主义列强瓜分中国领土的野心，并激化了列强争夺中国的矛盾。德、俄、英、法、日等国于1898年至1899年竟相租借港湾和划分势力范围，掀起了瓜分中国的狂潮，故 A正确。外国人在中国设立租界是从1845年开始的，B与题意不符。C不是瓜分中国的内容，而是列强经济侵略的表现。“边疆危机”发生在19世纪70年代至80年代，D与题意不符。"
+          "text": "本题考查列强瓜分中国的狂潮。中日甲午战争的失败以及《马关条约》的签定，大大刺激了帝国主义列强瓜分中国领土的野心，并激化了列强争夺中国的矛盾。德、俄、英、法、日等国于1898年至1899年竞相租借港湾和划分势力范围，掀起了瓜分中国的狂潮，故 A正确。外国人在中国设立租界是从1845年开始的，B与题意不符。C不是瓜分中国的内容，而是列强经济侵略的表现。“边疆危机”发生在19世纪70年代至80年代，D与题意不符。"
         },
         {
           "type": "heading",
@@ -526,5 +526,23 @@
     ],
     "answer_headings_visually_checked": 38,
     "body_proof_sheets": "assets/verification/body-review-*.png"
-  }
+  },
+  "proofreading": [
+    {
+      "review": "2026-10-08 original PDF raster and transcription comparison",
+      "method": "All listed edits visually checked against original PDF images; choice letters and source PDF unchanged.",
+      "corrections": [
+        {
+          "year": 2017,
+          "source_page": 2,
+          "block_index": 3,
+          "pdf_page": 2,
+          "from": "竟相租借港湾",
+          "to": "竞相租借港湾",
+          "occurrences": 1,
+          "kind": "verified transcription correction"
+        }
+      ]
+    }
+  ]
 }

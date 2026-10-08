@@ -300,10 +300,6 @@
       "source_page": 4,
       "blocks": [
         {
-          "type": "paragraph",
-          "text": "考妍】后台发送【PDF】新"
-        },
-        {
           "type": "heading",
           "text": "25.【标准答案】ACD"
         },
@@ -358,6 +354,16 @@
         {
           "type": "paragraph",
           "text": "本题考查我国公民基本权利中的政治权利。我国公民的基本权利主要包括：政治权利、人身权利、财产权利、社会经济权利、宗教信仰及文化权利等。政治权利主要包括选举权、被选举权、表达权（政治表达的自由）、民主管理权、监督权等，故 BD正确。人身权利包括生命健康权、人身自由权、人格尊严权、住宅安全"
+        }
+      ],
+      "excluded_artifacts": [
+        {
+          "kind": "advertisement_header",
+          "original_ocr_block": {
+            "type": "paragraph",
+            "text": "考妍】后台发送【PDF】新"
+          },
+          "verification": "2026-10-08 对照原 PDF 第4页页眉，属于微信公众号推广文字；与第24题、第25题答案无关。"
         }
       ]
     },

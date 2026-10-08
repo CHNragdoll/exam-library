@@ -1555,6 +1555,58 @@ async function main() {
   'omitted source-backed Directions lines remain before the translation passage image');
   headingView.dom.window.close();
 
+  const variantPaper = {id: 'math3:1987-questions', category: 'math3',
+    title: '1987 年考研数学三 · 真题', kind: 'questions', questionCount: 3};
+  const variantQuestion = {id: variantPaper.id + ':q-1-1', number: '1',
+    stem: '（1）判断题', questionType: 'free_response', options: [], contentBlocks: [],
+    sourceBlocks: ['b-1-6']};
+  const variantLastQuestion = {...variantQuestion, id: variantPaper.id + ':q-4-1',
+    number: '4', sourceBlocks: ['b-9-1'], contentBlocks: [
+      {id: variantPaper.id + ':b-18-1', role: 'content', text: '（试卷V）', images: []}
+    ]};
+  const variantNextQuestion = {...variantQuestion, id: variantPaper.id + ':q-1-2',
+    sourceBlocks: ['b-18-3']};
+  const editorNote = '【编者注】数学试卷IV、V均为现在的数学三。';
+  const variantRoot = {type: 'paper', children: [
+    {type: 'section', title: '一、判断题', units: [], children: [
+      {type: 'question', questionId: variantQuestion.id, units: [], children: []}
+    ]},
+    {type: 'section', title: 'Unassigned source material', units: [
+      {type: 'paragraph', text: editorNote,
+        provenance: {sourceBlockId: variantPaper.id + ':b-1-2'}},
+      {type: 'code', text: editorNote,
+        provenance: {sourceBlockId: variantPaper.id + ':b-1-3'}},
+      {type: 'other', text: '（试卷IV）', contentHtml: '<h2>（试卷IV）</h2>',
+        provenance: {sourceBlockId: variantPaper.id + ':b-1-4'}}
+    ], children: [{type: 'question', questionId: variantLastQuestion.id, units: [
+      {type: 'other', text: '（试卷V）', contentHtml: '<h2>（试卷V）</h2>',
+        provenance: {sourceBlockId: variantPaper.id + ':b-18-1'}}
+    ], children: []}]},
+    {type: 'section', title: '一、判断题', units: [], children: [
+      {type: 'question', questionId: variantNextQuestion.id, units: [], children: []}
+    ]}
+  ]};
+  const variantView = browser(variantPaper,
+    [variantQuestion, variantLastQuestion, variantNextQuestion], new Map(), variantRoot);
+  await waitFor(() => variantView.d.querySelector('.question-card'), 'old mathematics paper loaded');
+  const variantHeading = [...variantView.d.querySelectorAll('#question-list h3')]
+    .find(node => node.textContent === '（试卷IV）');
+  assert(variantHeading, 'source variant heading remains visible before the first problem');
+  assert(variantHeading.compareDocumentPosition(variantView.d.querySelector('.question-card')) & 4);
+  assert(!variantView.d.querySelector('#question-list').textContent.includes('Unassigned source material'),
+    'a parser fallback is not displayed as an original paper heading');
+  assert.equal(variantView.d.querySelector('#question-list').textContent.split(editorNote).length - 1, 1,
+    'paragraph and compiler-source copies of one cover note do not duplicate it');
+  const variantCards = [...variantView.d.querySelectorAll('.question-card')];
+  assert.deepEqual(variantCards.map(card => card.dataset.questionId),
+    [variantQuestion.id, variantLastQuestion.id, variantNextQuestion.id]);
+  const nextVariantHeading = [...variantView.d.querySelectorAll('#question-list h3')]
+    .find(node => node.textContent === '（试卷V）');
+  assert(nextVariantHeading.compareDocumentPosition(variantCards[1]) & 2);
+  assert(nextVariantHeading.compareDocumentPosition(variantCards[2]) & 4);
+  assert.equal(variantView.d.querySelector('#question-list').textContent.split('（试卷V）').length - 1, 1);
+  variantView.dom.window.close();
+
   const answersOnly = browser({...paper, id: 'cs408:2017-answers', kind: 'answers'}, questions, answers);
   await waitFor(() => answersOnly.d.getElementById('page-status').classList.contains('is-error'),
     'answer-only paper rejected');

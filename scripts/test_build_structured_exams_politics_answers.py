@@ -10,6 +10,37 @@ from scripts import build_structured_exams as builder
 
 
 class PoliticsAnswerTests(unittest.TestCase):
+    def test_verified_ocr_prose_reaches_linked_question_answers(self):
+        documents = json.loads((builder.ROOT / "documents.json").read_text(encoding="utf-8"))
+        by_id = {doc["id"]: doc for doc in documents}
+        expected = {
+            2022: ("乡村建设", "公序良俗", "基本方法论", "基本观点"),
+            2023: ("政治局", "柬埔寨", "证券", "的灿烂文明"),
+        }
+        with tempfile.TemporaryDirectory() as directory, patch.object(builder, "OUT", Path(directory)):
+            for year, phrases in expected.items():
+                with self.subTest(year=year):
+                    answer_row = builder.build_one(by_id[f"politics:{year}-answers"])
+                    question_row = builder.build_one(by_id[f"politics:{year}-questions"])
+                    builder.attach_answers([question_row, answer_row])
+                    paper = json.loads((Path(directory) / question_row["json"]).read_text(encoding="utf-8"))
+                    answers = " ".join(json.dumps(q["answer"], ensure_ascii=False)
+                                       for q in paper["questions"])
+                    for phrase in phrases:
+                        self.assertIn(phrase, answers)
+
+    def test_2010_page_header_advertisement_does_not_enter_answer_24(self):
+        documents = json.loads((builder.ROOT / "documents.json").read_text(encoding="utf-8"))
+        document = next(doc for doc in documents if doc["id"] == "politics:2010-answers")
+        with tempfile.TemporaryDirectory() as directory, patch.object(builder, "OUT", Path(directory)):
+            row = builder.build_one(document)
+            paper = json.loads((Path(directory) / row["json"]).read_text(encoding="utf-8"))
+            entry = builder.answer_entries(paper)["24"]
+            self.assertEqual(entry["value"], "BCD")
+            question = next(q for q in paper["questions"] if q["number"] == "24")
+            self.assertEqual(question["sourcePages"], ["3"])
+            self.assertNotIn("考妍】后台发送【PDF】新", " ".join(b["text"] for b in paper["blocks"]))
+
     def test_standard_answer_label_keeps_all_choice_letters(self):
         for source, expected in (
             ("18.【标准答案】ABD", "ABD"),
@@ -24,11 +55,12 @@ class PoliticsAnswerTests(unittest.TestCase):
         by_id = {doc["id"]: doc for doc in documents}
         source_root = builder.ROOT.parent / "politics-answers-latex-2009-2023"
         with tempfile.TemporaryDirectory() as directory, patch.object(builder, "OUT", Path(directory)):
-            for year in range(2010, 2019):
+            for year in (*range(2010, 2019), 2022, 2023):
                 with self.subTest(year=year):
                     source = json.loads((source_root / "source" / f"{year}.json").read_text(encoding="utf-8"))
-                    self.assertEqual(source["extraction"]["original_pages"],
-                                     len(source["pages"]))
+                    if year < 2022:
+                        self.assertEqual(source["extraction"]["original_pages"],
+                                         len(source["pages"]))
                     self.assertIn("OCR", source["extraction"]["method"])
 
                     row = builder.build_one(by_id[f"politics:{year}-answers"])

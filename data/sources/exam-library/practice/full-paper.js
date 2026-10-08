@@ -903,9 +903,19 @@
     const byNodeId = new Map();
     const parentNodes = new Map();
     const structuredContexts = [];
+    const mathSourceUnits = [];
+    const isMathVariant = unit => paper.category === 'math3' &&
+      /^[（(]?试卷\s*(?:[IVX]+|[Ⅰ-Ⅻ]+)[）)]?$/u.test(valueText(unit.text).trim());
     (function index(node, parent = null) {
       byNodeId.set(node.id, node);
       if (parent) parentNodes.set(node, parent);
+      if (paper.category === 'math3') {
+        for (const unit of node.units || []) {
+          if (node.title === 'Unassigned source material' || isMathVariant(unit)) {
+            mathSourceUnits.push(unit);
+          }
+        }
+      }
       if (['material', 'passage'].includes(node.type)) {
         for (const unit of node.units || []) {
           if (unit.provenance?.jsonPath?.includes('.context.text')) {
@@ -923,9 +933,41 @@
     const seenBlocks = new Set();
     const seenContexts = new Set();
     const fragment = document.createDocumentFragment();
+    // A compiler fallback can own cover notes despite occurring after several
+    // real sections in the tree. Place those units by their original block
+    // positions; variant titles can also belong to the previous question.
+    const sourcePosition = id => {
+      const match = /:b-(\d+)-(\d+)$/.exec(sourceBlockId(id));
+      return match ? [Number(match[1]), Number(match[2])] : null;
+    };
+    const positionAfter = (left, right) => left && right &&
+      (left[0] > right[0] || (left[0] === right[0] && left[1] > right[1]));
+    const mathSourceEvents = new Map();
+    const seenMathText = new Set();
+    for (const unit of mathSourceUnits.sort((a, b) => {
+      const x = sourcePosition(a.provenance?.sourceBlockId) || [Infinity, 0];
+      const y = sourcePosition(b.provenance?.sourceBlockId) || [Infinity, 0];
+      return x[0] - y[0] || x[1] - y[1];
+    })) {
+      const id = unit.provenance?.sourceBlockId;
+      const position = id && sourcePosition(id);
+      const body = valueText(unit.text).trim();
+      if (!position || !body) continue;
+      seenBlocks.add(`${id}\u0000${body}`);
+      const textKey = body.replace(/\s+/g, '');
+      if (seenMathText.has(textKey)) continue;
+      seenMathText.add(textKey);
+      const index = questions.findIndex(question =>
+        positionAfter(sourcePosition(question.sourceBlocks?.[0]), position));
+      const anchor = index < 0 ? questions.length : index;
+      if (!mathSourceEvents.has(anchor)) mathSourceEvents.set(anchor, []);
+      mathSourceEvents.get(anchor).push(unit);
+    }
 
     function appendTitle(node, target) {
-      if (node.title && !(['material', 'passage'].includes(node.type) &&
+      if (node.title && !(paper.category === 'math3' &&
+          node.title === 'Unassigned source material') &&
+          !(['material', 'passage'].includes(node.type) &&
           /^[a-z][a-z0-9_]*$/.test(node.title))) {
         target.append(element(node.type === 'section' ? 'h3' : 'h4',
           'paper-section-title', node.title));
@@ -1192,6 +1234,16 @@
         hasSharedUnits: path.some(node => (node.units || []).length > 0)};
     }
     for (let index = 0; index <= questions.length; index++) {
+      for (const unit of mathSourceEvents.get(index) || []) {
+        ensurePath([]);
+        const item = isMathVariant(unit) ?
+          element('h3', 'paper-section-title', valueText(unit.text).trim()) :
+          renderSemanticUnit(unit, new Set(), '', structuredContexts, imageBase, true);
+        if (item) {
+          item.dataset.sourceBlockId = unit.provenance.sourceBlockId;
+          fragment.append(item);
+        }
+      }
       for (const event of sourceEvents.get(index) || []) {
         const {target} = ensurePath(event.path);
         renderSourceNode(event.node, target);
